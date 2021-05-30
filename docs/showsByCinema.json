@@ -11,7 +11,7 @@
       "date": "So., 6.6.,",
       "timestamp": 1623015000000,
       "time": "21:30",
-      "available": 208,
+      "available": 204,
       "reserved": 44
     },
     {
@@ -25,8 +25,8 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624651200000,
       "time": "20:00",
-      "available": 227,
-      "reserved": 83
+      "available": 220,
+      "reserved": 84
     },
     {
       "cinemaId": "fh_freiluftkino",
@@ -39,8 +39,8 @@
       "date": "Mo., 31.5.",
       "timestamp": 1622496600000,
       "time": "21:30",
-      "available": 175,
-      "reserved": 57
+      "available": 168,
+      "reserved": 62
     },
     {
       "cinemaId": "fh_freiluftkino",
@@ -81,20 +81,6 @@
       "date": "Do., 3.6.,",
       "timestamp": 1622755800000,
       "time": "21:30",
-      "available": 122,
-      "reserved": 66
-    },
-    {
-      "cinemaId": "fh_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
-      "cinemaName": "Freiluftkino Friedrichshain",
-      "id": "637",
-      "url": "https://kinotickets-online.com/fh_freiluftkino/seats/637",
-      "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=626",
-      "title": "Master Cheng in Pohjanjoki",
-      "date": "So., 30.5.",
-      "timestamp": 1622410200000,
-      "time": "21:30",
       "available": 0,
       "reserved": 0
     },
@@ -109,8 +95,8 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 254,
-      "reserved": 26
+      "available": 249,
+      "reserved": 29
     },
     {
       "cinemaId": "fh_freiluftkino",
@@ -181,7 +167,7 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 239,
+      "available": 237,
       "reserved": 7
     },
     {
@@ -223,7 +209,7 @@
       "date": "Mo., 7.6.,",
       "timestamp": 1623101400000,
       "time": "21:30",
-      "available": 259,
+      "available": 257,
       "reserved": 5
     },
     {
@@ -237,8 +223,8 @@
       "date": "Di., 1.6.,",
       "timestamp": 1622583000000,
       "time": "21:30",
-      "available": 198,
-      "reserved": 14
+      "available": 194,
+      "reserved": 18
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -251,22 +237,8 @@
       "date": "Mi., 2.6.,",
       "timestamp": 1622669400000,
       "time": "21:30",
-      "available": 168,
-      "reserved": 21
-    },
-    {
-      "cinemaId": "kb_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
-      "cinemaName": "Freiluftkino Kreuzberg",
-      "id": "575",
-      "url": "https://kinotickets-online.com/kb_freiluftkino/seats/575",
-      "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=565",
-      "title": "Milla Meets Moses",
-      "date": "So., 30.5.",
-      "timestamp": 1622410200000,
-      "time": "21:30",
-      "available": 0,
-      "reserved": 0
+      "available": 158,
+      "reserved": 25
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -279,7 +251,7 @@
       "date": "Sa., 5.6.,",
       "timestamp": 1622928600000,
       "time": "21:30",
-      "available": 183,
+      "available": 177,
       "reserved": 23
     },
     {
@@ -307,7 +279,7 @@
       "date": "Do., 3.6.,",
       "timestamp": 1622755800000,
       "time": "21:30",
-      "available": 134,
+      "available": 130,
       "reserved": 44
     },
     {
@@ -321,7 +293,7 @@
       "date": "Fr., 4.6.,",
       "timestamp": 1622842200000,
       "time": "21:30",
-      "available": 112,
+      "available": 102,
       "reserved": 36
     }
   ],
@@ -351,7 +323,7 @@
       "date": "Di., 1.6.,",
       "timestamp": 1622583000000,
       "time": "21:30",
-      "available": 263,
+      "available": 259,
       "reserved": 15
     },
     {
@@ -386,20 +358,6 @@
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
-      "id": "560",
-      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/560",
-      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=543",
-      "title": "Milla Meets Moses",
-      "date": "So., 30.5.",
-      "timestamp": 1622410200000,
-      "time": "21:30",
-      "available": 0,
-      "reserved": 0
-    },
-    {
-      "cinemaId": "rb_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
-      "cinemaName": "Freiluftkino Rehberge",
       "id": "564",
       "url": "https://kinotickets-online.com/rb_freiluftkino/seats/564",
       "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=547",
@@ -407,7 +365,7 @@
       "date": "Do., 3.6.,",
       "timestamp": 1622755800000,
       "time": "21:30",
-      "available": 239,
+      "available": 237,
       "reserved": 14
     },
     {
@@ -421,7 +379,7 @@
       "date": "Sa., 5.6.,",
       "timestamp": 1622928600000,
       "time": "21:30",
-      "available": 311,
+      "available": 305,
       "reserved": 3
     },
     {
@@ -463,8 +421,8 @@
       "date": "Mo., 31.5.",
       "timestamp": 1622496600000,
       "time": "21:30",
-      "available": 268,
-      "reserved": 14
+      "available": 263,
+      "reserved": 15
     }
   ],
   "freiluftkino-hasenheide": [
