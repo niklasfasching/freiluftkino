@@ -25,8 +25,8 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624651200000,
       "time": "20:00",
-      "available": 220,
-      "reserved": 84
+      "available": 225,
+      "reserved": 83
     },
     {
       "cinemaId": "fh_freiluftkino",
@@ -39,7 +39,7 @@
       "date": "Mo., 31.5.",
       "timestamp": 1622496600000,
       "time": "21:30",
-      "available": 168,
+      "available": 164,
       "reserved": 62
     },
     {
@@ -123,8 +123,8 @@
       "date": "Mi., 2.6.,",
       "timestamp": 1622669400000,
       "time": "21:30",
-      "available": 172,
-      "reserved": 42
+      "available": 166,
+      "reserved": 44
     },
     {
       "cinemaId": "fh_freiluftkino",
@@ -167,8 +167,8 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 237,
-      "reserved": 7
+      "available": 236,
+      "reserved": 8
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -181,8 +181,8 @@
       "date": "Mo., 31.5.",
       "timestamp": 1622496600000,
       "time": "21:30",
-      "available": 51,
-      "reserved": 56
+      "available": 45,
+      "reserved": 60
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -223,7 +223,7 @@
       "date": "Di., 1.6.,",
       "timestamp": 1622583000000,
       "time": "21:30",
-      "available": 194,
+      "available": 192,
       "reserved": 18
     },
     {
@@ -237,7 +237,7 @@
       "date": "Mi., 2.6.,",
       "timestamp": 1622669400000,
       "time": "21:30",
-      "available": 158,
+      "available": 154,
       "reserved": 25
     },
     {
@@ -251,7 +251,7 @@
       "date": "Sa., 5.6.,",
       "timestamp": 1622928600000,
       "time": "21:30",
-      "available": 177,
+      "available": 171,
       "reserved": 23
     },
     {
@@ -379,7 +379,7 @@
       "date": "Sa., 5.6.,",
       "timestamp": 1622928600000,
       "time": "21:30",
-      "available": 305,
+      "available": 303,
       "reserved": 3
     },
     {
@@ -421,8 +421,8 @@
       "date": "Mo., 31.5.",
       "timestamp": 1622496600000,
       "time": "21:30",
-      "available": 263,
-      "reserved": 15
+      "available": 259,
+      "reserved": 17
     }
   ],
   "freiluftkino-hasenheide": [
