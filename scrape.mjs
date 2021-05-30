@@ -38,11 +38,22 @@ async function getKinoheldCinema(cinemaId, cinemaName) {
   const result = await fetch(`https://www.kinoheld.de/ajax/getShowsForCinemas?cinemaIds[]=${cinemaId}`).then(r => r.json());
   return Promise.all(result.shows.map(async (show) => {
     const seatResult = await fetch("https://www.kinoheld.de/ajax/getSeats", {
-      headers: {"Content-Type": "multipart/form-data; boundary=-"},
-      body: "---\nContent-Disposition: form-data; name=\"cid\"\n\n580\n---\nContent-Disposition: form-data; name=\"showId\"\n\n689078\n---\nContent-Disposition: form-data; name=\"mode\"\n\n\n---\nContent-Disposition: form-data; name=\"ref\"\n\n\n---\nContent-Disposition: form-data; name=\"rb\"\n\n\n-----\n",
+      headers: {"Content-Type": "multipart/form-data; boundary=-boundary-"},
+      body: [
+        `--`,
+        `\r\nContent-Disposition: form-data; name="cid"\r\n\r\n${cinemaId}\r\n--`,
+        `\r\nContent-Disposition: form-data; name="showId"\r\n\r\n${show.id}\r\n--`,
+        `\r\nContent-Disposition: form-data; name="mode"\r\n\r\n\r\n--`,
+        `\r\nContent-Disposition: form-data; name="ref"\r\n\r\n\r\n--`,
+        `\r\nContent-Disposition: form-data; name="rb"\r\n\r\n\r\n--`,
+        `--\r\n`
+      ].join("-boundary-"),
       method: "POST",
     }).then(r => r.status < 400 ? r.json() : {});
     const seatMap = Object.values(seatResult.seats || []).reduce((acc, e) => acc.set(e.status, (acc.get(e.status) || 0) + 1), new Map());
+    const available = seatResult.sectors?.map(s => s.seatsStats?.free).reduce((sum, x) => sum + x, 0) || 0;
+    const total = seatResult.sectors?.map(s => s.seatsStats?.total).reduce((sum, x) => sum + x, 0) || 0;
+    const bookable = seatResult.sectors?.some(s => s.availableSeats.order || s.availableSeats.reservation) || false;
     return {
       cinemaId,
       cinemaUrl: `https://www.kinoheld.de/kino-berlin/${cinemaName}/shows/movies`,
@@ -53,8 +64,9 @@ async function getKinoheldCinema(cinemaId, cinemaName) {
       time: show.time,
       url: `https://www.kinoheld.de/cinema-berlin/${cinemaName}/show/${show.id}?layout=shows`,
       img: result.movies[show.movieId]?.lazyImage,
-      available: seatMap.get("sf"),
-      reserved: seatMap.get("ss"),
+      available,
+      reserved: total - available,
+      bookable,
     };
   }));
 }
@@ -82,6 +94,7 @@ async function getKinoTicketsOnlineCinema(cinemaId, cinemaName) {
       time,
       available: d.querySelectorAll("#__seats-container button").length,
       reserved: d.querySelectorAll("#__seats-container .bg-seat-res").length,
+      bookable: !d.body.textContent.includes("Diese Vorstellung ist leider ausverkauft!"),
     };
   }));
 }
