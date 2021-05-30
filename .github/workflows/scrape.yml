@@ -1,0 +1,35 @@
+name: Scrape
+
+on:
+  push:
+    branches: [ master ]
+  schedule:
+    - cron: "*/30 * * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      HEADLESS_EXECUTABLE: google-chrome
+    steps:
+    - name: headless
+      run: |
+        sudo snap install go --classic
+        go get github.com/niklasfasching/headless/
+        go install github.com/niklasfasching/headless/cmd/headless@latest
+    - name: git
+      run: |
+        git clone --depth 1 "https://x-access-token:${{secrets.GITHUB_TOKEN}}@github.com/${GITHUB_REPOSITORY}" .
+        git config user.name "GitHub Action"
+        git config user.email "action@github.com"
+        git log -1 --format="%H"
+    - name: run
+      run: |
+        ~/go/bin/headless -b "--disable-web-security" -fs scrape.mjs
+        git add -A && git commit -m "Update data" || echo "No changes to commit"
+        git push
+    - name: notify
+      if: ${{ failure() }}
+      run: |
+        text="https://github.com/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID} tfailed"
+        curl --silent --output /dev/null ${{secrets.TELEGRAM_URL}} -d "chat_id=${{secrets.TELEGRAM_CHAT_ID}}&text=${text}"
