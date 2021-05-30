@@ -27,10 +27,10 @@ const cinemas = {
     }
     await fetch("/create?path=docs/showsByCinema.json", {method: "POST", body: JSON.stringify(showsByCinema, null, 2)});
     console.info("wrote docs/showsByCinema.json");
-    console.clear(0);
+    if (!window.args.includes("dev")) console.clear(0);
   } catch(err) {
     console.error(err);
-    console.clear(1);
+    if (!window.args.includes("dev")) console.clear(1);
   }
 })();
 
