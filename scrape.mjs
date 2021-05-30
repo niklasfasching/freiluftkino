@@ -49,7 +49,7 @@ async function getKinoheldCinema(cinemaId, cinemaName) {
       cinemaName,
       title: `${show.name} ${show.flags.length ? `(${show.flags.map(flag => flag.name).join(" / ")})` : ""}`,
       date: formatDate(new Date(show.date)),
-      timestamp: new Date(show.date),
+      timestamp: new Date(show.date + " UTC").getTime(),
       time: show.time,
       url: `https://www.kinoheld.de/cinema-berlin/${cinemaName}/show/${show.id}?layout=shows`,
       img: result.movies[show.movieId]?.lazyImage,
@@ -67,7 +67,7 @@ async function getKinoTicketsOnlineCinema(cinemaId, cinemaName) {
     const url = `https://kinotickets-online.com/${cinemaId}/seats/${id}`;
     const movieId = li.querySelector("img").src.match(/movieId=(\d+)/)[1];
     const [_, day, month, time] = li.querySelector("ul li").innerText.match(/(\d+)\.(\d+)\s*(\d+:\d+)/m);
-    const date = new Date(`${new Date().getFullYear()}-${month}-${day} ${time}`);
+    const date = new Date(`${new Date().getFullYear()}-${month}-${day} ${time} UTC`);
     const d = await getDocument(url);
     return {
       cinemaId,
