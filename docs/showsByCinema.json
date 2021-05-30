@@ -41,7 +41,7 @@
       "date": "Mo., 31.5.",
       "timestamp": 1622496600000,
       "time": "21:30",
-      "available": 164,
+      "available": 162,
       "reserved": 62,
       "bookable": true
     },
@@ -456,20 +456,6 @@
     }
   ],
   "freiluftkino-hasenheide": [
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "title": "Ema (subtitled OV German)",
-      "date": "So., 30.5.",
-      "timestamp": 1622332800000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689093?layout=shows",
-      "img": "https://media.kinoheld.de/FnbUXe8qy03N_fslz6Y_gsGTBnk=/200x280/images%2Ffilm%2Fmutter-mother-17562.v39.jpg",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
     {
       "cinemaId": "580",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
@@ -1234,19 +1220,6 @@
       "cinemaId": "1839",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
       "cinemaName": "central-kino-open-air",
-      "title": "open air: Under the Skin (subtitled OV German)",
-      "date": "So., 30.5.",
-      "timestamp": 1622332800000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2380032227?layout=shows",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "1839",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
-      "cinemaName": "central-kino-open-air",
       "title": "open air: Der Himmel über Berlin - Wings of Desire (subtitled OV English)",
       "date": "Mo., 31.5.",
       "timestamp": 1622419200000,
@@ -1370,20 +1343,6 @@
     }
   ],
   "freiluftkino-pompeji-open-air-am-ostkreuz-berlin": [
-    {
-      "cinemaId": "2153",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-      "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-      "title": "CORPUS CHRISTI (subtitled OV German)",
-      "date": "So., 30.5.",
-      "timestamp": 1622332800000,
-      "time": "21:45",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2380892976?layout=shows",
-      "img": "https://media.kinoheld.de/fGisIZZ76cwsDUtI-dnATywwka4=/200x280/images%2Ffilm%2Fcorpus-christi-16439.v360.jpg",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
     {
       "cinemaId": "2153",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
