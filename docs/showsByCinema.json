@@ -11,7 +11,7 @@
       "date": "So., 6.6.,",
       "timestamp": 1623015000000,
       "time": "21:30",
-      "available": 196,
+      "available": 194,
       "reserved": 44,
       "bookable": true
     },
@@ -41,8 +41,8 @@
       "date": "Mo., 31.5.",
       "timestamp": 1622496600000,
       "time": "21:30",
-      "available": 159,
-      "reserved": 63,
+      "available": 150,
+      "reserved": 66,
       "bookable": true
     },
     {
@@ -131,8 +131,8 @@
       "date": "Mi., 2.6.,",
       "timestamp": 1622669400000,
       "time": "21:30",
-      "available": 157,
-      "reserved": 47,
+      "available": 139,
+      "reserved": 61,
       "bookable": true
     },
     {
@@ -146,7 +146,7 @@
       "date": "Mo., 7.6.,",
       "timestamp": 1623101400000,
       "time": "21:30",
-      "available": 267,
+      "available": 265,
       "reserved": 19,
       "bookable": true
     },
@@ -193,7 +193,7 @@
       "date": "Mo., 31.5.",
       "timestamp": 1622496600000,
       "time": "21:30",
-      "available": 43,
+      "available": 39,
       "reserved": 60,
       "bookable": true
     },
@@ -223,8 +223,8 @@
       "date": "Mo., 7.6.,",
       "timestamp": 1623101400000,
       "time": "21:30",
-      "available": 257,
-      "reserved": 5,
+      "available": 256,
+      "reserved": 6,
       "bookable": true
     },
     {
@@ -238,8 +238,8 @@
       "date": "Di., 1.6.,",
       "timestamp": 1622583000000,
       "time": "21:30",
-      "available": 192,
-      "reserved": 18,
+      "available": 189,
+      "reserved": 19,
       "bookable": true
     },
     {
@@ -253,8 +253,8 @@
       "date": "Mi., 2.6.,",
       "timestamp": 1622669400000,
       "time": "21:30",
-      "available": 154,
-      "reserved": 25,
+      "available": 147,
+      "reserved": 28,
       "bookable": true
     },
     {
@@ -268,8 +268,8 @@
       "date": "Sa., 5.6.,",
       "timestamp": 1622928600000,
       "time": "21:30",
-      "available": 163,
-      "reserved": 27,
+      "available": 153,
+      "reserved": 29,
       "bookable": true
     },
     {
@@ -298,8 +298,8 @@
       "date": "Do., 3.6.,",
       "timestamp": 1622755800000,
       "time": "21:30",
-      "available": 128,
-      "reserved": 44,
+      "available": 125,
+      "reserved": 47,
       "bookable": true
     },
     {
@@ -313,8 +313,8 @@
       "date": "Fr., 4.6.,",
       "timestamp": 1622842200000,
       "time": "21:30",
-      "available": 98,
-      "reserved": 36,
+      "available": 95,
+      "reserved": 37,
       "bookable": true
     }
   ],
@@ -345,7 +345,7 @@
       "date": "Di., 1.6.,",
       "timestamp": 1622583000000,
       "time": "21:30",
-      "available": 259,
+      "available": 255,
       "reserved": 15,
       "bookable": true
     },
@@ -390,8 +390,8 @@
       "date": "Do., 3.6.,",
       "timestamp": 1622755800000,
       "time": "21:30",
-      "available": 235,
-      "reserved": 16,
+      "available": 228,
+      "reserved": 17,
       "bookable": true
     },
     {
@@ -420,7 +420,7 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 305,
+      "available": 301,
       "reserved": 3,
       "bookable": true
     },
@@ -435,7 +435,7 @@
       "date": "Mo., 7.6.,",
       "timestamp": 1623101400000,
       "time": "21:30",
-      "available": 359,
+      "available": 351,
       "reserved": 3,
       "bookable": true
     },
@@ -450,8 +450,8 @@
       "date": "Mo., 31.5.",
       "timestamp": 1622496600000,
       "time": "21:30",
-      "available": 255,
-      "reserved": 17,
+      "available": 253,
+      "reserved": 19,
       "bookable": true
     }
   ],
@@ -480,8 +480,8 @@
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689114?layout=shows",
       "img": "https://media.kinoheld.de/OF_ebTJn8qkxfm28A02Yqnfkseo=/200x280/images%2Ffilm%2Fkajillionaire-17572.v132.jpg",
-      "available": 126,
-      "reserved": 780,
+      "available": 105,
+      "reserved": 801,
       "bookable": true
     },
     {
@@ -508,8 +508,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689207?layout=shows",
       "img": "https://media.kinoheld.de/7fwJFpJPCUWaDIBARRzfifzHJAY=/200x280/images%2Ffilm%2Fwoman-17367.v2.png",
-      "available": 223,
-      "reserved": 683,
+      "available": 210,
+      "reserved": 696,
       "bookable": true
     },
     {
@@ -522,8 +522,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689208?layout=shows",
       "img": "https://media.kinoheld.de/YdyD3HcKlHMBTwqWp30SD7G0wck=/200x280/images%2Ffilm%2Fniemals-selten-manchmal-immer-17085.v354.jpg",
-      "available": 236,
-      "reserved": 670,
+      "available": 228,
+      "reserved": 678,
       "bookable": true
     },
     {
@@ -536,8 +536,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689209?layout=shows",
       "img": "https://media.kinoheld.de/XumU5kU2r_zhNGfY7BDTedClrJI=/200x280/images%2Ffilm%2Fundine-16403.v45.jpg",
-      "available": 302,
-      "reserved": 604,
+      "available": 289,
+      "reserved": 617,
       "bookable": true
     },
     {
@@ -563,8 +563,8 @@
       "timestamp": 1623024000000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689211?layout=shows",
-      "available": 154,
-      "reserved": 752,
+      "available": 149,
+      "reserved": 757,
       "bookable": true
     },
     {
