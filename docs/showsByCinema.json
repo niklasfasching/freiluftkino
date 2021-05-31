@@ -41,7 +41,7 @@
       "date": "Mo., 31.5.",
       "timestamp": 1622496600000,
       "time": "21:30",
-      "available": 128,
+      "available": 124,
       "reserved": 70,
       "bookable": true
     },
@@ -146,8 +146,8 @@
       "date": "Mo., 7.6.,",
       "timestamp": 1623101400000,
       "time": "21:30",
-      "available": 253,
-      "reserved": 19,
+      "available": 241,
+      "reserved": 21,
       "bookable": true
     },
     {
@@ -178,7 +178,7 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 233,
+      "available": 229,
       "reserved": 9,
       "bookable": true
     },
@@ -238,8 +238,8 @@
       "date": "Di., 1.6.,",
       "timestamp": 1622583000000,
       "time": "21:30",
-      "available": 181,
-      "reserved": 19,
+      "available": 180,
+      "reserved": 20,
       "bookable": true
     },
     {
@@ -253,8 +253,8 @@
       "date": "Mi., 2.6.,",
       "timestamp": 1622669400000,
       "time": "21:30",
-      "available": 141,
-      "reserved": 30,
+      "available": 132,
+      "reserved": 33,
       "bookable": true
     },
     {
@@ -268,8 +268,8 @@
       "date": "Sa., 5.6.,",
       "timestamp": 1622928600000,
       "time": "21:30",
-      "available": 145,
-      "reserved": 31,
+      "available": 142,
+      "reserved": 32,
       "bookable": true
     },
     {
@@ -298,7 +298,7 @@
       "date": "Do., 3.6.,",
       "timestamp": 1622755800000,
       "time": "21:30",
-      "available": 106,
+      "available": 102,
       "reserved": 48,
       "bookable": true
     },
@@ -313,8 +313,8 @@
       "date": "Fr., 4.6.,",
       "timestamp": 1622842200000,
       "time": "21:30",
-      "available": 59,
-      "reserved": 55,
+      "available": 56,
+      "reserved": 58,
       "bookable": true
     }
   ],
@@ -345,8 +345,8 @@
       "date": "Di., 1.6.,",
       "timestamp": 1622583000000,
       "time": "21:30",
-      "available": 245,
-      "reserved": 17,
+      "available": 240,
+      "reserved": 18,
       "bookable": true
     },
     {
@@ -390,7 +390,7 @@
       "date": "Do., 3.6.,",
       "timestamp": 1622755800000,
       "time": "21:30",
-      "available": 208,
+      "available": 202,
       "reserved": 21,
       "bookable": true
     },
@@ -420,8 +420,23 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 283,
+      "available": 281,
       "reserved": 5,
+      "bookable": true
+    },
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "id": "570",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/570",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=553",
+      "title": "Stop-Zemila",
+      "date": "Mi., 9.6.,",
+      "timestamp": 1623274200000,
+      "time": "21:30",
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -480,8 +495,8 @@
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689114?layout=shows",
       "img": "https://media.kinoheld.de/OF_ebTJn8qkxfm28A02Yqnfkseo=/200x280/images%2Ffilm%2Fkajillionaire-17572.v132.jpg",
-      "available": 76,
-      "reserved": 830,
+      "available": 72,
+      "reserved": 834,
       "bookable": true
     },
     {
@@ -522,8 +537,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689208?layout=shows",
       "img": "https://media.kinoheld.de/YdyD3HcKlHMBTwqWp30SD7G0wck=/200x280/images%2Ffilm%2Fniemals-selten-manchmal-immer-17085.v354.jpg",
-      "available": 189,
-      "reserved": 717,
+      "available": 183,
+      "reserved": 723,
       "bookable": true
     },
     {
@@ -563,8 +578,8 @@
       "timestamp": 1623024000000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689211?layout=shows",
-      "available": 134,
-      "reserved": 772,
+      "available": 128,
+      "reserved": 778,
       "bookable": true
     },
     {
@@ -576,8 +591,8 @@
       "timestamp": 1623110400000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689212?layout=shows",
-      "available": 329,
-      "reserved": 577,
+      "available": 325,
+      "reserved": 581,
       "bookable": true
     },
     {
@@ -888,19 +903,6 @@
       "timestamp": 1624147200000,
       "time": "17:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689124?layout=shows",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "title": "Leaving Paradise ",
-      "date": "So., 20.6.",
-      "timestamp": 1624147200000,
-      "time": "21:45",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689353?layout=shows",
       "available": 0,
       "reserved": 0,
       "bookable": false
@@ -1253,8 +1255,8 @@
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2380032273?layout=shows",
       "img": "https://media.kinoheld.de/QFqcB6Jn5tAbpqVW2JwAUPVPK-k=/200x280/images%2Ffilm%2Frocketman-12599.v48.jpg",
-      "available": 33,
-      "reserved": 26,
+      "available": 31,
+      "reserved": 28,
       "bookable": true
     },
     {
