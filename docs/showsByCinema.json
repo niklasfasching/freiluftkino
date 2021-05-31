@@ -11,7 +11,7 @@
       "date": "So., 6.6.,",
       "timestamp": 1623015000000,
       "time": "21:30",
-      "available": 200,
+      "available": 196,
       "reserved": 44,
       "bookable": true
     },
@@ -26,7 +26,7 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624651200000,
       "time": "20:00",
-      "available": 225,
+      "available": 223,
       "reserved": 83,
       "bookable": true
     },
@@ -41,8 +41,8 @@
       "date": "Mo., 31.5.",
       "timestamp": 1622496600000,
       "time": "21:30",
-      "available": 160,
-      "reserved": 62,
+      "available": 159,
+      "reserved": 63,
       "bookable": true
     },
     {
@@ -131,8 +131,8 @@
       "date": "Mi., 2.6.,",
       "timestamp": 1622669400000,
       "time": "21:30",
-      "available": 166,
-      "reserved": 44,
+      "available": 157,
+      "reserved": 47,
       "bookable": true
     },
     {
@@ -178,7 +178,7 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 236,
+      "available": 234,
       "reserved": 8,
       "bookable": true
     },
@@ -268,8 +268,8 @@
       "date": "Sa., 5.6.,",
       "timestamp": 1622928600000,
       "time": "21:30",
-      "available": 167,
-      "reserved": 23,
+      "available": 163,
+      "reserved": 27,
       "bookable": true
     },
     {
@@ -313,7 +313,7 @@
       "date": "Fr., 4.6.,",
       "timestamp": 1622842200000,
       "time": "21:30",
-      "available": 100,
+      "available": 98,
       "reserved": 36,
       "bookable": true
     }
@@ -375,7 +375,7 @@
       "date": "So., 6.6.,",
       "timestamp": 1623015000000,
       "time": "21:30",
-      "available": 334,
+      "available": 328,
       "reserved": 10,
       "bookable": true
     },
@@ -390,8 +390,8 @@
       "date": "Do., 3.6.,",
       "timestamp": 1622755800000,
       "time": "21:30",
-      "available": 237,
-      "reserved": 14,
+      "available": 235,
+      "reserved": 16,
       "bookable": true
     },
     {
@@ -420,7 +420,7 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 307,
+      "available": 305,
       "reserved": 3,
       "bookable": true
     },
@@ -1226,8 +1226,8 @@
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2380032250?layout=shows",
       "img": "https://media.kinoheld.de/Wo9totSwExwfLEQozXHvRGpA7Jc=/200x280/images%2Ffilm%2F4%2Fder-himmel-ueber-berlin-9307.v21.jpg",
-      "available": 28,
-      "reserved": 31,
+      "available": 26,
+      "reserved": 33,
       "bookable": true
     },
     {
