@@ -11,7 +11,7 @@
           <div ..cinema><a href="{show.cinemaUrl}">{show.cinemaName}</a></div>
           <div>
             <div ..date>{show.date} {show.time}</div>
-            <div ..seats>Seats: {show.available} available / {show.reserved} reserved </div>
+            <div ..seats .if="show.available || show.reserved">Seats: {show.available} available / {show.reserved} reserved </div>
           </div>
         </div>
       </div>
@@ -38,6 +38,7 @@
    html, body {
      width: 100%;
      height: 100%;
+     margin: 0;
    }
 
    x-flk {
