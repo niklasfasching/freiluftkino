@@ -11,7 +11,7 @@
       "date": "So., 6.6.,",
       "timestamp": 1623015000000,
       "time": "21:30",
-      "available": 154,
+      "available": 156,
       "reserved": 51,
       "bookable": true
     },
@@ -131,8 +131,8 @@
       "date": "Mo., 7.6.,",
       "timestamp": 1623101400000,
       "time": "21:30",
-      "available": 225,
-      "reserved": 27,
+      "available": 224,
+      "reserved": 28,
       "bookable": true
     },
     {
@@ -268,7 +268,7 @@
       "date": "Do., 3.6.,",
       "timestamp": 1622755800000,
       "time": "21:30",
-      "available": 81,
+      "available": 79,
       "reserved": 53,
       "bookable": true
     },
@@ -315,8 +315,8 @@
       "date": "Di., 1.6.,",
       "timestamp": 1622583000000,
       "time": "21:30",
-      "available": 215,
-      "reserved": 23,
+      "available": 212,
+      "reserved": 24,
       "bookable": true
     },
     {
@@ -360,8 +360,8 @@
       "date": "Do., 3.6.,",
       "timestamp": 1622755800000,
       "time": "21:30",
-      "available": 178,
-      "reserved": 23,
+      "available": 171,
+      "reserved": 24,
       "bookable": true
     },
     {
@@ -899,8 +899,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689215?layout=shows",
       "img": "https://media.kinoheld.de/j_JYVvDLSJVxf2feS_0qK6EwZt4=/200x280/images%2Ffilm%2Flittle-women-15673.v353.jpg",
-      "available": 404,
-      "reserved": 502,
+      "available": 400,
+      "reserved": 506,
       "bookable": true
     }
   ],
@@ -1210,8 +1210,8 @@
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2380032273?layout=shows",
       "img": "https://media.kinoheld.de/QFqcB6Jn5tAbpqVW2JwAUPVPK-k=/200x280/images%2Ffilm%2Frocketman-12599.v48.jpg",
-      "available": 30,
-      "reserved": 29,
+      "available": 28,
+      "reserved": 31,
       "bookable": true
     },
     {
@@ -1266,8 +1266,8 @@
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2380033272?layout=shows",
       "img": "https://media.kinoheld.de/ZZBGLKXSCyS0Kg2vOuZcUgxvUG0=/200x280/images%2Ffilm%2Fmidsommar-14283.v17.jpg",
-      "available": 32,
-      "reserved": 27,
+      "available": 30,
+      "reserved": 29,
       "bookable": true
     },
     {
