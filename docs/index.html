@@ -4,7 +4,7 @@
     <title>freiluftkino</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script type="text/x-template" id="x-flk">
-      <div ..show class="{!show.available && 'sold-out'}" .for="show in $.shows">
+      <div ..show ..bookable="show.bookable" .for="show of $.shows">
         <img src="{show.img}">
         <div ..info>
           <div ..title><a href="{show.url}">{show.title}</a></div>
@@ -55,13 +55,13 @@
      overflow: hidden;
    }
 
-   .show.sold-out {
+   .show:not(.bookable) {
      filter: grayscale(1) opacity(0.5);
    }
 
    img {
      display: block;
-     width: 20%;
+     width: 40%;
      flex-shrink: 0;
      object-fit: cover;
      background-color: #bbb;
@@ -73,13 +73,12 @@
    }
 
    .title {
-     font-size: 2em;
+     font-size: 1em;
      font-weight: bold;
      margin-bottom: 0.33em;
    }
 
    .cinema {
-     font-weight: bold;
      margin-bottom: 1em;
    }
 
