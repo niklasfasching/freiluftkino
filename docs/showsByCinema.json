@@ -11,8 +11,8 @@
       "date": "So., 6.6.,",
       "timestamp": 1623015000000,
       "time": "21:30",
-      "available": 182,
-      "reserved": 48,
+      "available": 175,
+      "reserved": 52,
       "bookable": true
     },
     {
@@ -41,8 +41,8 @@
       "date": "Mo., 31.5.",
       "timestamp": 1622496600000,
       "time": "21:30",
-      "available": 134,
-      "reserved": 74,
+      "available": 136,
+      "reserved": 70,
       "bookable": true
     },
     {
@@ -101,8 +101,8 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 245,
-      "reserved": 29,
+      "available": 241,
+      "reserved": 33,
       "bookable": true
     },
     {
@@ -131,8 +131,8 @@
       "date": "Mi., 2.6.,",
       "timestamp": 1622669400000,
       "time": "21:30",
-      "available": 123,
-      "reserved": 69,
+      "available": 118,
+      "reserved": 70,
       "bookable": true
     },
     {
@@ -178,8 +178,8 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 234,
-      "reserved": 8,
+      "available": 233,
+      "reserved": 9,
       "bookable": true
     },
     {
@@ -238,7 +238,7 @@
       "date": "Di., 1.6.,",
       "timestamp": 1622583000000,
       "time": "21:30",
-      "available": 185,
+      "available": 183,
       "reserved": 19,
       "bookable": true
     },
@@ -253,8 +253,8 @@
       "date": "Mi., 2.6.,",
       "timestamp": 1622669400000,
       "time": "21:30",
-      "available": 147,
-      "reserved": 28,
+      "available": 145,
+      "reserved": 30,
       "bookable": true
     },
     {
@@ -298,7 +298,7 @@
       "date": "Do., 3.6.,",
       "timestamp": 1622755800000,
       "time": "21:30",
-      "available": 116,
+      "available": 114,
       "reserved": 48,
       "bookable": true
     },
@@ -313,8 +313,8 @@
       "date": "Fr., 4.6.,",
       "timestamp": 1622842200000,
       "time": "21:30",
-      "available": 82,
-      "reserved": 46,
+      "available": 70,
+      "reserved": 50,
       "bookable": true
     }
   ],
@@ -345,8 +345,8 @@
       "date": "Di., 1.6.,",
       "timestamp": 1622583000000,
       "time": "21:30",
-      "available": 249,
-      "reserved": 15,
+      "available": 247,
+      "reserved": 17,
       "bookable": true
     },
     {
@@ -508,8 +508,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689207?layout=shows",
       "img": "https://media.kinoheld.de/7fwJFpJPCUWaDIBARRzfifzHJAY=/200x280/images%2Ffilm%2Fwoman-17367.v2.png",
-      "available": 202,
-      "reserved": 704,
+      "available": 190,
+      "reserved": 716,
       "bookable": true
     },
     {
@@ -522,8 +522,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689208?layout=shows",
       "img": "https://media.kinoheld.de/YdyD3HcKlHMBTwqWp30SD7G0wck=/200x280/images%2Ffilm%2Fniemals-selten-manchmal-immer-17085.v354.jpg",
-      "available": 217,
-      "reserved": 689,
+      "available": 207,
+      "reserved": 699,
       "bookable": true
     },
     {
@@ -550,8 +550,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689210?layout=shows",
       "img": "https://media.kinoheld.de/U5_0Uoi7fgy5cJCqwx3xKMHlSeM=/200x280/images%2Ffilm%2Fpersischstunden-17031.v1639.jpg",
-      "available": 329,
-      "reserved": 577,
+      "available": 325,
+      "reserved": 581,
       "bookable": true
     },
     {
@@ -691,7 +691,7 @@
       "title": "Literarischer Frühschoppen ",
       "date": "So., 13.6.",
       "timestamp": 1623542400000,
-      "time": "11:00",
+      "time": "12:00",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689216?layout=shows",
       "available": 0,
       "reserved": 0,
@@ -888,6 +888,19 @@
       "timestamp": 1624147200000,
       "time": "17:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689124?layout=shows",
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
+    },
+    {
+      "cinemaId": "580",
+      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
+      "cinemaName": "freiluftkino-hasenheide",
+      "title": "Leaving Paradise ",
+      "date": "So., 20.6.",
+      "timestamp": 1624147200000,
+      "time": "21:45",
+      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689353?layout=shows",
       "available": 0,
       "reserved": 0,
       "bookable": false
