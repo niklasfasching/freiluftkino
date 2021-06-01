@@ -11,7 +11,7 @@
       "date": "So., 6.6.,",
       "timestamp": 1623015000000,
       "time": "21:30",
-      "available": 145,
+      "available": 141,
       "reserved": 58,
       "bookable": true
     },
@@ -131,8 +131,8 @@
       "date": "Mo., 7.6.,",
       "timestamp": 1623101400000,
       "time": "21:30",
-      "available": 215,
-      "reserved": 31,
+      "available": 211,
+      "reserved": 33,
       "bookable": true
     },
     {
@@ -208,7 +208,7 @@
       "date": "Di., 1.6.,",
       "timestamp": 1622583000000,
       "time": "21:30",
-      "available": 158,
+      "available": 152,
       "reserved": 28,
       "bookable": true
     },
@@ -238,8 +238,8 @@
       "date": "Sa., 5.6.,",
       "timestamp": 1622928600000,
       "time": "21:30",
-      "available": 108,
-      "reserved": 44,
+      "available": 110,
+      "reserved": 42,
       "bookable": true
     },
     {
@@ -315,7 +315,7 @@
       "date": "Di., 1.6.,",
       "timestamp": 1622583000000,
       "time": "21:30",
-      "available": 183,
+      "available": 181,
       "reserved": 25,
       "bookable": true
     },
@@ -345,8 +345,8 @@
       "date": "So., 6.6.,",
       "timestamp": 1623015000000,
       "time": "21:30",
-      "available": 307,
-      "reserved": 13,
+      "available": 304,
+      "reserved": 14,
       "bookable": true
     },
     {
@@ -375,7 +375,7 @@
       "date": "Sa., 5.6.,",
       "timestamp": 1622928600000,
       "time": "21:30",
-      "available": 284,
+      "available": 282,
       "reserved": 4,
       "bookable": true
     },
@@ -478,8 +478,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689208?layout=shows",
       "img": "https://media.kinoheld.de/YdyD3HcKlHMBTwqWp30SD7G0wck=/200x280/images%2Ffilm%2Fniemals-selten-manchmal-immer-17085.v354.jpg",
-      "available": 127,
-      "reserved": 779,
+      "available": 113,
+      "reserved": 793,
       "bookable": true
     },
     {
@@ -532,8 +532,8 @@
       "timestamp": 1623110400000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689212?layout=shows",
-      "available": 290,
-      "reserved": 616,
+      "available": 286,
+      "reserved": 620,
       "bookable": true
     },
     {
@@ -852,6 +852,19 @@
       "cinemaId": "580",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
       "cinemaName": "freiluftkino-hasenheide",
+      "title": "Leaving Paradise ",
+      "date": "So., 20.6.",
+      "timestamp": 1624147200000,
+      "time": "21:45",
+      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689443?layout=shows",
+      "available": 692,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "580",
+      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
+      "cinemaName": "freiluftkino-hasenheide",
       "title": "Freakscene - The Story of Dinosaur Jr. (subtitled OV German)",
       "date": "Mo., 21.6.",
       "timestamp": 1624233600000,
@@ -885,8 +898,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689215?layout=shows",
       "img": "https://media.kinoheld.de/j_JYVvDLSJVxf2feS_0qK6EwZt4=/200x280/images%2Ffilm%2Flittle-women-15673.v353.jpg",
-      "available": 400,
-      "reserved": 506,
+      "available": 396,
+      "reserved": 510,
       "bookable": true
     }
   ],
