@@ -11,8 +11,8 @@
       "date": "So., 6.6.,",
       "timestamp": 1623015000000,
       "time": "21:30",
-      "available": 274,
-      "reserved": 72,
+      "available": 265,
+      "reserved": 70,
       "bookable": true
     },
     {
@@ -26,8 +26,8 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624651200000,
       "time": "20:00",
-      "available": 343,
-      "reserved": 102,
+      "available": 327,
+      "reserved": 101,
       "bookable": true
     },
     {
@@ -41,9 +41,9 @@
       "date": "Sa., 5.6.,",
       "timestamp": 1622928600000,
       "time": "21:30",
-      "available": 124,
-      "reserved": 121,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "cinemaId": "fh_freiluftkino",
@@ -56,8 +56,8 @@
       "date": "Fr., 4.6.,",
       "timestamp": 1622842200000,
       "time": "21:30",
-      "available": 219,
-      "reserved": 89,
+      "available": 128,
+      "reserved": 102,
       "bookable": true
     },
     {
@@ -86,24 +86,9 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 329,
-      "reserved": 55,
+      "available": 312,
+      "reserved": 54,
       "bookable": true
-    },
-    {
-      "cinemaId": "fh_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
-      "cinemaName": "Freiluftkino Friedrichshain",
-      "id": "639",
-      "url": "https://kinotickets-online.com/fh_freiluftkino/seats/639",
-      "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=628",
-      "title": "Niemals Selten Manchmal Immer",
-      "date": "Di., 1.6.,",
-      "timestamp": 1622583000000,
-      "time": "21:30",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
     },
     {
       "cinemaId": "fh_freiluftkino",
@@ -146,7 +131,7 @@
       "date": "Mo., 7.6.,",
       "timestamp": 1623101400000,
       "time": "21:30",
-      "available": 358,
+      "available": 343,
       "reserved": 41,
       "bookable": true
     },
@@ -193,8 +178,8 @@
       "date": "So., 6.6.,",
       "timestamp": 1623015000000,
       "time": "21:30",
-      "available": 213,
-      "reserved": 69,
+      "available": 135,
+      "reserved": 73,
       "bookable": true
     },
     {
@@ -208,23 +193,8 @@
       "date": "Mo., 7.6.,",
       "timestamp": 1623101400000,
       "time": "21:30",
-      "available": 448,
+      "available": 446,
       "reserved": 9,
-      "bookable": true
-    },
-    {
-      "cinemaId": "kb_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
-      "cinemaName": "Freiluftkino Kreuzberg",
-      "id": "577",
-      "url": "https://kinotickets-online.com/kb_freiluftkino/seats/577",
-      "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=567",
-      "title": "Gesetze der Liebe / Anders als die anderen",
-      "date": "Di., 1.6.,",
-      "timestamp": 1622583000000,
-      "time": "21:30",
-      "available": 342,
-      "reserved": 35,
       "bookable": true
     },
     {
@@ -253,8 +223,8 @@
       "date": "Mi., 2.6.,",
       "timestamp": 1622669400000,
       "time": "21:30",
-      "available": 296,
-      "reserved": 36,
+      "available": 289,
+      "reserved": 41,
       "bookable": true
     },
     {
@@ -268,8 +238,8 @@
       "date": "Sa., 5.6.,",
       "timestamp": 1622928600000,
       "time": "21:30",
-      "available": 303,
-      "reserved": 43,
+      "available": 293,
+      "reserved": 45,
       "bookable": true
     },
     {
@@ -298,8 +268,8 @@
       "date": "Do., 3.6.,",
       "timestamp": 1622755800000,
       "time": "21:30",
-      "available": 256,
-      "reserved": 66,
+      "available": 246,
+      "reserved": 68,
       "bookable": true
     },
     {
@@ -313,8 +283,8 @@
       "date": "Fr., 4.6.,",
       "timestamp": 1622842200000,
       "time": "21:30",
-      "available": 228,
-      "reserved": 64,
+      "available": 207,
+      "reserved": 65,
       "bookable": true
     }
   ],
@@ -375,23 +345,8 @@
       "date": "Fr., 4.6.,",
       "timestamp": 1622842200000,
       "time": "21:30",
-      "available": 166,
-      "reserved": 34,
-      "bookable": true
-    },
-    {
-      "cinemaId": "rb_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
-      "cinemaName": "Freiluftkino Rehberge",
-      "id": "562",
-      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/562",
-      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=545",
-      "title": "Ema",
-      "date": "Di., 1.6.,",
-      "timestamp": 1622583000000,
-      "time": "21:30",
-      "available": 134,
-      "reserved": 30,
+      "available": 85,
+      "reserved": 47,
       "bookable": true
     },
     {
@@ -480,7 +435,7 @@
       "date": "So., 6.6.,",
       "timestamp": 1623015000000,
       "time": "21:30",
-      "available": 430,
+      "available": 424,
       "reserved": 18,
       "bookable": true
     },
@@ -495,8 +450,8 @@
       "date": "Do., 3.6.,",
       "timestamp": 1622755800000,
       "time": "21:30",
-      "available": 131,
-      "reserved": 30,
+      "available": 119,
+      "reserved": 32,
       "bookable": true
     },
     {
@@ -525,7 +480,7 @@
       "date": "Sa., 5.6.,",
       "timestamp": 1622928600000,
       "time": "21:30",
-      "available": 413,
+      "available": 407,
       "reserved": 5,
       "bookable": true
     },
@@ -540,7 +495,7 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 394,
+      "available": 392,
       "reserved": 10,
       "bookable": true
     },
@@ -673,8 +628,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689208?layout=shows",
       "img": "https://media.kinoheld.de/YdyD3HcKlHMBTwqWp30SD7G0wck=/200x280/images%2Ffilm%2Fniemals-selten-manchmal-immer-17085.v354.jpg",
-      "available": 87,
-      "reserved": 819,
+      "available": 64,
+      "reserved": 842,
       "bookable": true
     },
     {
@@ -687,8 +642,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689209?layout=shows",
       "img": "https://media.kinoheld.de/XumU5kU2r_zhNGfY7BDTedClrJI=/200x280/images%2Ffilm%2Fundine-16403.v45.jpg",
-      "available": 201,
-      "reserved": 705,
+      "available": 179,
+      "reserved": 727,
       "bookable": true
     },
     {
@@ -701,8 +656,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689210?layout=shows",
       "img": "https://media.kinoheld.de/U5_0Uoi7fgy5cJCqwx3xKMHlSeM=/200x280/images%2Ffilm%2Fpersischstunden-17031.v1639.jpg",
-      "available": 289,
-      "reserved": 617,
+      "available": 284,
+      "reserved": 622,
       "bookable": true
     },
     {
@@ -727,8 +682,8 @@
       "timestamp": 1623110400000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689212?layout=shows",
-      "available": 271,
-      "reserved": 635,
+      "available": 267,
+      "reserved": 639,
       "bookable": true
     },
     {
@@ -935,9 +890,9 @@
       "timestamp": 1623801600000,
       "time": "18:00",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689338?layout=shows",
-      "available": 535,
-      "reserved": 157,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -961,9 +916,9 @@
       "timestamp": 1623888000000,
       "time": "18:00",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689474?layout=shows",
-      "available": 598,
-      "reserved": 94,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -987,9 +942,9 @@
       "timestamp": 1623974400000,
       "time": "18:00",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689380?layout=shows",
-      "available": 293,
-      "reserved": 399,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1390,9 +1345,9 @@
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2380032273?layout=shows",
       "img": "https://media.kinoheld.de/QFqcB6Jn5tAbpqVW2JwAUPVPK-k=/200x280/images%2Ffilm%2Frocketman-12599.v48.jpg",
-      "available": 27,
-      "reserved": 32,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "cinemaId": "1839",
@@ -1418,8 +1373,8 @@
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2380033226?layout=shows",
       "img": "https://media.kinoheld.de/6Elom-S4fhPfk1RRfYi205eGZvw=/200x280/images%2Ffilm%2Fonce-upon-a-time-in-hollywood-13423.v111.jpg",
-      "available": 30,
-      "reserved": 29,
+      "available": 29,
+      "reserved": 30,
       "bookable": true
     },
     {
