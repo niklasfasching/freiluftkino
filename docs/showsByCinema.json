@@ -11,8 +11,8 @@
       "date": "So., 6.6.,",
       "timestamp": 1623015000000,
       "time": "21:30",
-      "available": 115,
-      "reserved": 74,
+      "available": 274,
+      "reserved": 72,
       "bookable": true
     },
     {
@@ -26,8 +26,8 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624651200000,
       "time": "20:00",
-      "available": 184,
-      "reserved": 98,
+      "available": 343,
+      "reserved": 102,
       "bookable": true
     },
     {
@@ -41,9 +41,9 @@
       "date": "Sa., 5.6.,",
       "timestamp": 1622928600000,
       "time": "21:30",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 124,
+      "reserved": 121,
+      "bookable": true
     },
     {
       "cinemaId": "fh_freiluftkino",
@@ -56,9 +56,9 @@
       "date": "Fr., 4.6.,",
       "timestamp": 1622842200000,
       "time": "21:30",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 219,
+      "reserved": 89,
+      "bookable": true
     },
     {
       "cinemaId": "fh_freiluftkino",
@@ -86,8 +86,8 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 179,
-      "reserved": 51,
+      "available": 329,
+      "reserved": 55,
       "bookable": true
     },
     {
@@ -104,6 +104,21 @@
       "available": 0,
       "reserved": 0,
       "bookable": false
+    },
+    {
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
+      "id": "648",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/seats/648",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=637",
+      "title": "The Mauritanian",
+      "date": "Mi., 9.6.,",
+      "timestamp": 1623274200000,
+      "time": "21:30",
+      "available": 0,
+      "reserved": 0,
+      "bookable": true
     },
     {
       "cinemaId": "fh_freiluftkino",
@@ -131,8 +146,8 @@
       "date": "Mo., 7.6.,",
       "timestamp": 1623101400000,
       "time": "21:30",
-      "available": 201,
-      "reserved": 37,
+      "available": 358,
+      "reserved": 41,
       "bookable": true
     },
     {
@@ -163,7 +178,7 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 209,
+      "available": 412,
       "reserved": 21,
       "bookable": true
     },
@@ -178,9 +193,9 @@
       "date": "So., 6.6.,",
       "timestamp": 1623015000000,
       "time": "21:30",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 213,
+      "reserved": 69,
+      "bookable": true
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -193,7 +208,7 @@
       "date": "Mo., 7.6.,",
       "timestamp": 1623101400000,
       "time": "21:30",
-      "available": 249,
+      "available": 448,
       "reserved": 9,
       "bookable": true
     },
@@ -208,8 +223,23 @@
       "date": "Di., 1.6.,",
       "timestamp": 1622583000000,
       "time": "21:30",
-      "available": 142,
-      "reserved": 34,
+      "available": 342,
+      "reserved": 35,
+      "bookable": true
+    },
+    {
+      "cinemaId": "kb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+      "cinemaName": "Freiluftkino Kreuzberg",
+      "id": "588",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/seats/588",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=576",
+      "title": "Glück",
+      "date": "Mi., 9.6.,",
+      "timestamp": 1623274200000,
+      "time": "21:30",
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -223,7 +253,7 @@
       "date": "Mi., 2.6.,",
       "timestamp": 1622669400000,
       "time": "21:30",
-      "available": 101,
+      "available": 296,
       "reserved": 36,
       "bookable": true
     },
@@ -238,22 +268,22 @@
       "date": "Sa., 5.6.,",
       "timestamp": 1622928600000,
       "time": "21:30",
-      "available": 108,
-      "reserved": 42,
+      "available": 303,
+      "reserved": 43,
       "bookable": true
     },
     {
       "cinemaId": "kb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
       "cinemaName": "Freiluftkino Kreuzberg",
-      "id": "586",
-      "url": "https://kinotickets-online.com/kb_freiluftkino/seats/586",
+      "id": "587",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/seats/587",
       "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=575",
       "title": "test",
       "date": "Do., 10.6.",
-      "timestamp": 1623323460000,
-      "time": "11:11",
-      "available": 432,
+      "timestamp": 1623363720000,
+      "time": "22:22",
+      "available": 484,
       "reserved": 0,
       "bookable": true
     },
@@ -268,8 +298,8 @@
       "date": "Do., 3.6.,",
       "timestamp": 1622755800000,
       "time": "21:30",
-      "available": 59,
-      "reserved": 59,
+      "available": 256,
+      "reserved": 66,
       "bookable": true
     },
     {
@@ -283,12 +313,57 @@
       "date": "Fr., 4.6.,",
       "timestamp": 1622842200000,
       "time": "21:30",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 228,
+      "reserved": 64,
+      "bookable": true
     }
   ],
   "Freiluftkino Rehberge": [
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "id": "580",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/580",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=564",
+      "title": "A School in Cerro Hueso / Una escuela en Cerro Hue",
+      "date": "Sa., 19.6.",
+      "timestamp": 1624139100000,
+      "time": "21:45",
+      "available": 0,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "id": "578",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/578",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=562",
+      "title": "Ballad of the White Cow",
+      "date": "Do., 17.6.",
+      "timestamp": 1623966300000,
+      "time": "21:45",
+      "available": 0,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "id": "572",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/572",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=555",
+      "title": "Cryptozoo",
+      "date": "Fr., 11.6.",
+      "timestamp": 1623447000000,
+      "time": "21:30",
+      "available": 0,
+      "reserved": 0,
+      "bookable": true
+    },
     {
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
@@ -300,8 +375,8 @@
       "date": "Fr., 4.6.,",
       "timestamp": 1622842200000,
       "time": "21:30",
-      "available": 62,
-      "reserved": 32,
+      "available": 166,
+      "reserved": 34,
       "bookable": true
     },
     {
@@ -315,8 +390,53 @@
       "date": "Di., 1.6.,",
       "timestamp": 1622583000000,
       "time": "21:30",
-      "available": 145,
-      "reserved": 29,
+      "available": 134,
+      "reserved": 30,
+      "bookable": true
+    },
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "id": "571",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/571",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=554",
+      "title": "Fighter",
+      "date": "Do., 10.6.",
+      "timestamp": 1623360600000,
+      "time": "21:30",
+      "available": 0,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "id": "577",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/577",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=560",
+      "title": "Forest - I See You Everywhere",
+      "date": "Mi., 16.6.",
+      "timestamp": 1623879900000,
+      "time": "21:45",
+      "available": 0,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "id": "576",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/576",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=559",
+      "title": "From the Wild Sea",
+      "date": "Di., 15.6.",
+      "timestamp": 1623793500000,
+      "time": "21:45",
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -338,6 +458,21 @@
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
+      "id": "581",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/581",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=565",
+      "title": "GWFF Preis Bester Erstlingsfilm",
+      "date": "So., 20.6.",
+      "timestamp": 1624224600000,
+      "time": "21:30",
+      "available": 0,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
       "id": "567",
       "url": "https://kinotickets-online.com/rb_freiluftkino/seats/567",
       "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=550",
@@ -345,7 +480,7 @@
       "date": "So., 6.6.,",
       "timestamp": 1623015000000,
       "time": "21:30",
-      "available": 288,
+      "available": 430,
       "reserved": 18,
       "bookable": true
     },
@@ -360,8 +495,23 @@
       "date": "Do., 3.6.,",
       "timestamp": 1622755800000,
       "time": "21:30",
-      "available": 139,
+      "available": 131,
       "reserved": 30,
+      "bookable": true
+    },
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "id": "574",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/574",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=557",
+      "title": "Ninjababy",
+      "date": "So., 13.6.",
+      "timestamp": 1623619800000,
+      "time": "21:30",
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -375,8 +525,8 @@
       "date": "Sa., 5.6.,",
       "timestamp": 1622928600000,
       "time": "21:30",
-      "available": 278,
-      "reserved": 4,
+      "available": 413,
+      "reserved": 5,
       "bookable": true
     },
     {
@@ -390,7 +540,7 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 252,
+      "available": 394,
       "reserved": 10,
       "bookable": true
     },
@@ -413,6 +563,36 @@
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
+      "id": "579",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/579",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=563",
+      "title": "Summer Blur",
+      "date": "Fr., 18.6.",
+      "timestamp": 1624052700000,
+      "time": "21:45",
+      "available": 0,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "id": "573",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/573",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=556",
+      "title": "The Fam",
+      "date": "Sa., 12.6.",
+      "timestamp": 1623533400000,
+      "time": "21:30",
+      "available": 0,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
       "id": "568",
       "url": "https://kinotickets-online.com/rb_freiluftkino/seats/568",
       "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=551",
@@ -420,8 +600,23 @@
       "date": "Mo., 7.6.,",
       "timestamp": 1623101400000,
       "time": "21:30",
-      "available": 337,
+      "available": 473,
       "reserved": 5,
+      "bookable": true
+    },
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "id": "575",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/575",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=558",
+      "title": "The White Fortress",
+      "date": "Mo., 14.6.",
+      "timestamp": 1623707100000,
+      "time": "21:45",
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     }
   ],
@@ -478,8 +673,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689208?layout=shows",
       "img": "https://media.kinoheld.de/YdyD3HcKlHMBTwqWp30SD7G0wck=/200x280/images%2Ffilm%2Fniemals-selten-manchmal-immer-17085.v354.jpg",
-      "available": 95,
-      "reserved": 811,
+      "available": 87,
+      "reserved": 819,
       "bookable": true
     },
     {
@@ -492,8 +687,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689209?layout=shows",
       "img": "https://media.kinoheld.de/XumU5kU2r_zhNGfY7BDTedClrJI=/200x280/images%2Ffilm%2Fundine-16403.v45.jpg",
-      "available": 223,
-      "reserved": 683,
+      "available": 201,
+      "reserved": 705,
       "bookable": true
     },
     {
@@ -506,8 +701,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689210?layout=shows",
       "img": "https://media.kinoheld.de/U5_0Uoi7fgy5cJCqwx3xKMHlSeM=/200x280/images%2Ffilm%2Fpersischstunden-17031.v1639.jpg",
-      "available": 291,
-      "reserved": 615,
+      "available": 289,
+      "reserved": 617,
       "bookable": true
     },
     {
@@ -740,8 +935,8 @@
       "timestamp": 1623801600000,
       "time": "18:00",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689338?layout=shows",
-      "available": 692,
-      "reserved": 0,
+      "available": 535,
+      "reserved": 157,
       "bookable": true
     },
     {
@@ -766,8 +961,8 @@
       "timestamp": 1623888000000,
       "time": "18:00",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689474?layout=shows",
-      "available": 692,
-      "reserved": 0,
+      "available": 598,
+      "reserved": 94,
       "bookable": true
     },
     {
@@ -792,8 +987,8 @@
       "timestamp": 1623974400000,
       "time": "18:00",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689380?layout=shows",
-      "available": 384,
-      "reserved": 308,
+      "available": 293,
+      "reserved": 399,
       "bookable": true
     },
     {
