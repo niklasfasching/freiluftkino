@@ -11,7 +11,7 @@
       "date": "So., 6.6.,",
       "timestamp": 1623015000000,
       "time": "21:30",
-      "available": 257,
+      "available": 253,
       "reserved": 70,
       "bookable": true
     },
@@ -56,8 +56,8 @@
       "date": "Fr., 4.6.,",
       "timestamp": 1622842200000,
       "time": "21:30",
-      "available": 93,
-      "reserved": 113,
+      "available": 92,
+      "reserved": 114,
       "bookable": true
     },
     {
@@ -86,7 +86,7 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 310,
+      "available": 308,
       "reserved": 54,
       "bookable": true
     },
@@ -163,7 +163,7 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 406,
+      "available": 404,
       "reserved": 21,
       "bookable": true
     },
@@ -178,8 +178,8 @@
       "date": "So., 6.6.,",
       "timestamp": 1623015000000,
       "time": "21:30",
-      "available": 96,
-      "reserved": 74,
+      "available": 83,
+      "reserved": 75,
       "bookable": true
     },
     {
@@ -193,7 +193,7 @@
       "date": "Mo., 7.6.,",
       "timestamp": 1623101400000,
       "time": "21:30",
-      "available": 434,
+      "available": 436,
       "reserved": 9,
       "bookable": true
     },
@@ -223,7 +223,7 @@
       "date": "Mi., 2.6.,",
       "timestamp": 1622669400000,
       "time": "21:30",
-      "available": 284,
+      "available": 278,
       "reserved": 42,
       "bookable": true
     },
@@ -238,7 +238,7 @@
       "date": "Sa., 5.6.,",
       "timestamp": 1622928600000,
       "time": "21:30",
-      "available": 284,
+      "available": 280,
       "reserved": 50,
       "bookable": true
     },
@@ -450,7 +450,7 @@
       "date": "Do., 3.6.,",
       "timestamp": 1622755800000,
       "time": "21:30",
-      "available": 117,
+      "available": 115,
       "reserved": 32,
       "bookable": true
     },
@@ -580,20 +580,6 @@
       "cinemaId": "580",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
       "cinemaName": "freiluftkino-hasenheide",
-      "title": "Kajillionaire (subtitled OV German)",
-      "date": "Di., 1.6.,",
-      "timestamp": 1622505600000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689114?layout=shows",
-      "img": "https://media.kinoheld.de/OF_ebTJn8qkxfm28A02Yqnfkseo=/200x280/images%2Ffilm%2Fkajillionaire-17572.v132.jpg",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
       "title": "Rausch, Der (subtitled OV German)",
       "date": "Mi., 2.6.,",
       "timestamp": 1622592000000,
@@ -628,8 +614,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689208?layout=shows",
       "img": "https://media.kinoheld.de/YdyD3HcKlHMBTwqWp30SD7G0wck=/200x280/images%2Ffilm%2Fniemals-selten-manchmal-immer-17085.v354.jpg",
-      "available": 53,
-      "reserved": 853,
+      "available": 36,
+      "reserved": 870,
       "bookable": true
     },
     {
@@ -642,8 +628,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689209?layout=shows",
       "img": "https://media.kinoheld.de/XumU5kU2r_zhNGfY7BDTedClrJI=/200x280/images%2Ffilm%2Fundine-16403.v45.jpg",
-      "available": 157,
-      "reserved": 749,
+      "available": 153,
+      "reserved": 753,
       "bookable": true
     },
     {
@@ -1059,20 +1045,6 @@
       "cinemaId": "1657",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
       "cinemaName": "b-ware-openair-fmp",
-      "title": "DEAR FUTURE CHILDREN - FILM PREVIEW (subtitled OV / en)",
-      "date": "Di., 1.6.,",
-      "timestamp": 1622505600000,
-      "time": "21:45",
-      "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2381701763?layout=shows",
-      "img": "https://media.kinoheld.de/mRz3uCsN__wLpohAqVzuwB-L0AE=/200x280/images%2Ffilm%2Fmo%2F3013-35995.v2.jpg",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "1657",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
-      "cinemaName": "b-ware-openair-fmp",
       "title": "ALS WIR TANZTEN (subtitled OV)",
       "date": "Mi., 2.6.,",
       "timestamp": 1622592000000,
@@ -1339,20 +1311,6 @@
       "cinemaId": "1839",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
       "cinemaName": "central-kino-open-air",
-      "title": "open air: Rocketman (subtitled OV German)",
-      "date": "Di., 1.6.,",
-      "timestamp": 1622505600000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2380032273?layout=shows",
-      "img": "https://media.kinoheld.de/QFqcB6Jn5tAbpqVW2JwAUPVPK-k=/200x280/images%2Ffilm%2Frocketman-12599.v48.jpg",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "1839",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
-      "cinemaName": "central-kino-open-air",
       "title": "open air: Parasite (subtitled OV)",
       "date": "Mi., 2.6.,",
       "timestamp": 1622592000000,
@@ -1462,20 +1420,6 @@
     }
   ],
   "freiluftkino-pompeji-open-air-am-ostkreuz-berlin": [
-    {
-      "cinemaId": "2153",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-      "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-      "title": "FUTUR DREI (subtitled OV English)",
-      "date": "Di., 1.6.,",
-      "timestamp": 1622505600000,
-      "time": "21:45",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2380892992?layout=shows",
-      "img": "https://media.kinoheld.de/Ru2XvrjaAHr4b0Y4XNLaYchpGCI=/200x280/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v203.jpg",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
     {
       "cinemaId": "2153",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
