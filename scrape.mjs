@@ -51,8 +51,6 @@ async function getKinoheldCinema(cinemaId, cinemaName) {
       method: "POST",
     }).then(r => r.status < 400 ? r.json() : {});
     const seatMap = Object.values(seatResult.seats || []).reduce((acc, e) => acc.set(e.status, (acc.get(e.status) || 0) + 1), new Map());
-    const available = seatResult.sectors?.map(s => s.seatsStats?.free).reduce((sum, x) => sum + x, 0) || 0;
-    const total = seatResult.sectors?.map(s => s.seatsStats?.total).reduce((sum, x) => sum + x, 0) || 0;
     const bookable = seatResult.sectors?.some(s => s.availableSeats.order || s.availableSeats.reservation) || false;
     return {
       cinemaId,
@@ -64,8 +62,8 @@ async function getKinoheldCinema(cinemaId, cinemaName) {
       time: show.time,
       url: `https://www.kinoheld.de/cinema-berlin/${cinemaName}/show/${show.id}?layout=shows`,
       img: result.movies[show.movieId]?.lazyImage,
-      available,
-      reserved: total - available,
+      available: seatMap.get("sf"),
+      reserved: seatMap.get("ss"),
       bookable,
     };
   }));
