@@ -131,7 +131,7 @@
       "date": "Mo., 7.6.,",
       "timestamp": 1623101400000,
       "time": "21:30",
-      "available": 224,
+      "available": 222,
       "reserved": 28,
       "bookable": true
     },
@@ -360,7 +360,7 @@
       "date": "Do., 3.6.,",
       "timestamp": 1622755800000,
       "time": "21:30",
-      "available": 169,
+      "available": 167,
       "reserved": 24,
       "bookable": true
     },
@@ -375,8 +375,8 @@
       "date": "Sa., 5.6.,",
       "timestamp": 1622928600000,
       "time": "21:30",
-      "available": 295,
-      "reserved": 3,
+      "available": 292,
+      "reserved": 4,
       "bookable": true
     },
     {
@@ -492,8 +492,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689209?layout=shows",
       "img": "https://media.kinoheld.de/XumU5kU2r_zhNGfY7BDTedClrJI=/200x280/images%2Ffilm%2Fundine-16403.v45.jpg",
-      "available": 277,
-      "reserved": 629,
+      "available": 265,
+      "reserved": 641,
       "bookable": true
     },
     {
@@ -532,8 +532,8 @@
       "timestamp": 1623110400000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689212?layout=shows",
-      "available": 300,
-      "reserved": 606,
+      "available": 296,
+      "reserved": 610,
       "bookable": true
     },
     {
