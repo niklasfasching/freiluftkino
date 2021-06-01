@@ -56,7 +56,7 @@
       "date": "Fr., 4.6.,",
       "timestamp": 1622842200000,
       "time": "21:30",
-      "available": 92,
+      "available": 88,
       "reserved": 114,
       "bookable": true
     },
@@ -163,8 +163,8 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 404,
-      "reserved": 21,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -178,8 +178,8 @@
       "date": "So., 6.6.,",
       "timestamp": 1623015000000,
       "time": "21:30",
-      "available": 83,
-      "reserved": 75,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -193,8 +193,8 @@
       "date": "Mo., 7.6.,",
       "timestamp": 1623101400000,
       "time": "21:30",
-      "available": 436,
-      "reserved": 9,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -223,8 +223,8 @@
       "date": "Mi., 2.6.,",
       "timestamp": 1622669400000,
       "time": "21:30",
-      "available": 278,
-      "reserved": 42,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -238,8 +238,8 @@
       "date": "Sa., 5.6.,",
       "timestamp": 1622928600000,
       "time": "21:30",
-      "available": 280,
-      "reserved": 50,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -253,7 +253,7 @@
       "date": "Do., 10.6.",
       "timestamp": 1623363720000,
       "time": "22:22",
-      "available": 484,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -268,8 +268,8 @@
       "date": "Do., 3.6.,",
       "timestamp": 1622755800000,
       "time": "21:30",
-      "available": 243,
-      "reserved": 69,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -283,8 +283,8 @@
       "date": "Fr., 4.6.,",
       "timestamp": 1622842200000,
       "time": "21:30",
-      "available": 190,
-      "reserved": 66,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     }
   ],
@@ -450,7 +450,7 @@
       "date": "Do., 3.6.,",
       "timestamp": 1622755800000,
       "time": "21:30",
-      "available": 115,
+      "available": 113,
       "reserved": 32,
       "bookable": true
     },
