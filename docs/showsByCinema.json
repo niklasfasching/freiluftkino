@@ -11,8 +11,8 @@
       "date": "So., 6.6.,",
       "timestamp": 1623015000000,
       "time": "21:30",
-      "available": 121,
-      "reserved": 70,
+      "available": 115,
+      "reserved": 74,
       "bookable": true
     },
     {
@@ -86,8 +86,8 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 183,
-      "reserved": 47,
+      "available": 179,
+      "reserved": 51,
       "bookable": true
     },
     {
@@ -131,8 +131,8 @@
       "date": "Mo., 7.6.,",
       "timestamp": 1623101400000,
       "time": "21:30",
-      "available": 200,
-      "reserved": 38,
+      "available": 201,
+      "reserved": 37,
       "bookable": true
     },
     {
@@ -163,7 +163,7 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 213,
+      "available": 209,
       "reserved": 21,
       "bookable": true
     },
@@ -223,7 +223,7 @@
       "date": "Mi., 2.6.,",
       "timestamp": 1622669400000,
       "time": "21:30",
-      "available": 103,
+      "available": 101,
       "reserved": 36,
       "bookable": true
     },
@@ -268,7 +268,7 @@
       "date": "Do., 3.6.,",
       "timestamp": 1622755800000,
       "time": "21:30",
-      "available": 61,
+      "available": 59,
       "reserved": 59,
       "bookable": true
     },
@@ -300,9 +300,9 @@
       "date": "Fr., 4.6.,",
       "timestamp": 1622842200000,
       "time": "21:30",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 62,
+      "reserved": 32,
+      "bookable": true
     },
     {
       "cinemaId": "rb_freiluftkino",
@@ -315,8 +315,8 @@
       "date": "Di., 1.6.,",
       "timestamp": 1622583000000,
       "time": "21:30",
-      "available": 156,
-      "reserved": 26,
+      "available": 145,
+      "reserved": 29,
       "bookable": true
     },
     {
@@ -345,8 +345,8 @@
       "date": "So., 6.6.,",
       "timestamp": 1623015000000,
       "time": "21:30",
-      "available": 293,
-      "reserved": 17,
+      "available": 288,
+      "reserved": 18,
       "bookable": true
     },
     {
@@ -361,7 +361,7 @@
       "timestamp": 1622755800000,
       "time": "21:30",
       "available": 139,
-      "reserved": 28,
+      "reserved": 30,
       "bookable": true
     },
     {
@@ -390,7 +390,7 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 256,
+      "available": 252,
       "reserved": 10,
       "bookable": true
     },
@@ -532,8 +532,8 @@
       "timestamp": 1623110400000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689212?layout=shows",
-      "available": 278,
-      "reserved": 628,
+      "available": 271,
+      "reserved": 635,
       "bookable": true
     },
     {
@@ -740,9 +740,9 @@
       "timestamp": 1623801600000,
       "time": "18:00",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689338?layout=shows",
-      "available": 0,
+      "available": 692,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -766,9 +766,9 @@
       "timestamp": 1623888000000,
       "time": "18:00",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689474?layout=shows",
-      "available": 0,
+      "available": 692,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -792,9 +792,9 @@
       "timestamp": 1623974400000,
       "time": "18:00",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689380?layout=shows",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 384,
+      "reserved": 308,
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -1279,8 +1279,8 @@
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2380033318?layout=shows",
       "img": "https://media.kinoheld.de/TFWEdC3z7fy4pR6Uo6x0KVhPQnM=/200x280/images%2Ffilm%2F4%2Fsuspiria-11018.v8.jpg",
-      "available": 41,
-      "reserved": 18,
+      "available": 39,
+      "reserved": 20,
       "bookable": true
     },
     {
