@@ -11,7 +11,7 @@
       "date": "So., 6.6.,",
       "timestamp": 1623015000000,
       "time": "21:30",
-      "available": 229,
+      "available": 237,
       "reserved": 72,
       "bookable": true
     },
@@ -71,9 +71,9 @@
       "date": "Fr., 4.6.,",
       "timestamp": 1622842200000,
       "time": "21:30",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 16,
+      "reserved": 140,
+      "bookable": true
     },
     {
       "cinemaId": "fh_freiluftkino",
@@ -131,7 +131,7 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 295,
+      "available": 293,
       "reserved": 57,
       "bookable": true
     },
@@ -206,8 +206,8 @@
       "date": "Mo., 7.6.,",
       "timestamp": 1623101400000,
       "time": "21:30",
-      "available": 333,
-      "reserved": 50,
+      "available": 330,
+      "reserved": 51,
       "bookable": true
     },
     {
@@ -238,7 +238,7 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 402,
+      "available": 400,
       "reserved": 21,
       "bookable": true
     },
@@ -253,8 +253,8 @@
       "date": "So., 6.6.,",
       "timestamp": 1623015000000,
       "time": "21:30",
-      "available": 21,
-      "reserved": 81,
+      "available": 7,
+      "reserved": 85,
       "bookable": true
     },
     {
@@ -299,7 +299,7 @@
       "timestamp": 1622669400000,
       "time": "21:30",
       "available": 256,
-      "reserved": 42,
+      "reserved": 44,
       "bookable": true
     },
     {
@@ -313,8 +313,8 @@
       "date": "Sa., 5.6.,",
       "timestamp": 1622928600000,
       "time": "21:30",
-      "available": 259,
-      "reserved": 57,
+      "available": 256,
+      "reserved": 58,
       "bookable": true
     },
     {
@@ -343,7 +343,7 @@
       "date": "Do., 3.6.,",
       "timestamp": 1622755800000,
       "time": "21:30",
-      "available": 226,
+      "available": 224,
       "reserved": 70,
       "bookable": true
     },
@@ -358,7 +358,7 @@
       "date": "Fr., 4.6.,",
       "timestamp": 1622842200000,
       "time": "21:30",
-      "available": 145,
+      "available": 135,
       "reserved": 67,
       "bookable": true
     }
@@ -510,8 +510,8 @@
       "date": "So., 6.6.,",
       "timestamp": 1623015000000,
       "time": "21:30",
-      "available": 408,
-      "reserved": 20,
+      "available": 407,
+      "reserved": 21,
       "bookable": true
     },
     {
@@ -555,7 +555,7 @@
       "date": "Sa., 5.6.,",
       "timestamp": 1622928600000,
       "time": "21:30",
-      "available": 391,
+      "available": 389,
       "reserved": 5,
       "bookable": true
     },
@@ -645,7 +645,7 @@
       "date": "Mo., 7.6.,",
       "timestamp": 1623101400000,
       "time": "21:30",
-      "available": 465,
+      "available": 463,
       "reserved": 5,
       "bookable": true
     },
@@ -718,8 +718,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689209?layout=shows",
       "img": "https://media.kinoheld.de/XumU5kU2r_zhNGfY7BDTedClrJI=/200x280/images%2Ffilm%2Fundine-16403.v45.jpg",
-      "available": 112,
-      "reserved": 794,
+      "available": 108,
+      "reserved": 798,
       "bookable": true
     },
     {
@@ -1096,9 +1096,9 @@
       "timestamp": 1624233600000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689213?layout=shows",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 375,
+      "reserved": 531,
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -1124,8 +1124,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689215?layout=shows",
       "img": "https://media.kinoheld.de/j_JYVvDLSJVxf2feS_0qK6EwZt4=/200x280/images%2Ffilm%2Flittle-women-15673.v353.jpg",
-      "available": 400,
-      "reserved": 506,
+      "available": 396,
+      "reserved": 510,
       "bookable": true
     }
   ],
@@ -1490,8 +1490,8 @@
       "timestamp": 1623110400000,
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2380033341?layout=shows",
-      "available": 47,
-      "reserved": 12,
+      "available": 45,
+      "reserved": 14,
       "bookable": true
     },
     {
