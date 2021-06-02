@@ -11,7 +11,7 @@
       "date": "So., 6.6.,",
       "timestamp": 1623015000000,
       "time": "21:30",
-      "available": 253,
+      "available": 251,
       "reserved": 70,
       "bookable": true
     },
@@ -26,7 +26,7 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624651200000,
       "time": "20:00",
-      "available": 319,
+      "available": 317,
       "reserved": 101,
       "bookable": true
     },
@@ -163,8 +163,8 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 0,
-      "reserved": 0,
+      "available": 406,
+      "reserved": 21,
       "bookable": true
     },
     {
@@ -178,8 +178,8 @@
       "date": "So., 6.6.,",
       "timestamp": 1623015000000,
       "time": "21:30",
-      "available": 0,
-      "reserved": 0,
+      "available": 81,
+      "reserved": 75,
       "bookable": true
     },
     {
@@ -193,8 +193,8 @@
       "date": "Mo., 7.6.,",
       "timestamp": 1623101400000,
       "time": "21:30",
-      "available": 0,
-      "reserved": 0,
+      "available": 436,
+      "reserved": 9,
       "bookable": true
     },
     {
@@ -223,8 +223,8 @@
       "date": "Mi., 2.6.,",
       "timestamp": 1622669400000,
       "time": "21:30",
-      "available": 0,
-      "reserved": 0,
+      "available": 278,
+      "reserved": 42,
       "bookable": true
     },
     {
@@ -238,8 +238,8 @@
       "date": "Sa., 5.6.,",
       "timestamp": 1622928600000,
       "time": "21:30",
-      "available": 0,
-      "reserved": 0,
+      "available": 280,
+      "reserved": 50,
       "bookable": true
     },
     {
@@ -253,7 +253,7 @@
       "date": "Do., 10.6.",
       "timestamp": 1623363720000,
       "time": "22:22",
-      "available": 0,
+      "available": 484,
       "reserved": 0,
       "bookable": true
     },
@@ -268,8 +268,8 @@
       "date": "Do., 3.6.,",
       "timestamp": 1622755800000,
       "time": "21:30",
-      "available": 0,
-      "reserved": 0,
+      "available": 243,
+      "reserved": 69,
       "bookable": true
     },
     {
@@ -283,8 +283,8 @@
       "date": "Fr., 4.6.,",
       "timestamp": 1622842200000,
       "time": "21:30",
-      "available": 0,
-      "reserved": 0,
+      "available": 188,
+      "reserved": 66,
       "bookable": true
     }
   ],
@@ -1519,5 +1519,34 @@
       "bookable": true
     }
   ],
-  "b-ware-openairprinzessinnengarten-kollektiv-neukoell": []
+  "b-ware-openairprinzessinnengarten-kollektiv-neukoell": [
+    {
+      "cinemaId": "2339",
+      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openairprinzessinnengarten-kollektiv-neukoell/shows/movies",
+      "cinemaName": "b-ware-openairprinzessinnengarten-kollektiv-neukoell",
+      "title": "DER RAUSCH (subtitled OV)",
+      "date": "Fr., 11.6.",
+      "timestamp": 1623369600000,
+      "time": "22:00",
+      "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openairprinzessinnengarten-kollektiv-neukoell/show/2383675460?layout=shows",
+      "img": "https://media.kinoheld.de/ddVo2gc61KooOaUbOMxwLflyQeI=/200x280/images%2Ffilm%2Fder-rausch-18282.v3.jpg",
+      "available": 0,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "2339",
+      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openairprinzessinnengarten-kollektiv-neukoell/shows/movies",
+      "cinemaName": "b-ware-openairprinzessinnengarten-kollektiv-neukoell",
+      "title": "BAD LUCK BANGING OR LOONY PORN (subtitled OV)",
+      "date": "Fr., 25.6.",
+      "timestamp": 1624579200000,
+      "time": "22:00",
+      "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openairprinzessinnengarten-kollektiv-neukoell/show/2383675895?layout=shows",
+      "img": "https://media.kinoheld.de/8Qm2k1-rm0E2eWKHlAWfxYs1SaY=/200x280/images%2Ffilm%2Fbad-luck-banging-or-loony-porn-18954.v1.jpg",
+      "available": 0,
+      "reserved": 0,
+      "bookable": true
+    }
+  ]
 }
