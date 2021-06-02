@@ -11,7 +11,7 @@
       "date": "So., 6.6.,",
       "timestamp": 1623015000000,
       "time": "21:30",
-      "available": 237,
+      "available": 235,
       "reserved": 72,
       "bookable": true
     },
@@ -64,6 +64,21 @@
       "cinemaId": "fh_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
       "cinemaName": "Freiluftkino Friedrichshain",
+      "id": "657",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/seats/657",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=646",
+      "title": "Drift Away",
+      "date": "Do., 17.6.",
+      "timestamp": 1623966300000,
+      "time": "21:45",
+      "available": 0,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
       "id": "643",
       "url": "https://kinotickets-online.com/fh_freiluftkino/seats/643",
       "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=632",
@@ -71,8 +86,8 @@
       "date": "Fr., 4.6.,",
       "timestamp": 1622842200000,
       "time": "21:30",
-      "available": 16,
-      "reserved": 140,
+      "available": 12,
+      "reserved": 144,
       "bookable": true
     },
     {
@@ -109,6 +124,36 @@
       "cinemaId": "fh_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
       "cinemaName": "Freiluftkino Friedrichshain",
+      "id": "659",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/seats/659",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=648",
+      "title": "Je Suis Karl",
+      "date": "Sa., 19.6.",
+      "timestamp": 1624138200000,
+      "time": "21:30",
+      "available": 0,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
+      "id": "658",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/seats/658",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=647",
+      "title": "Memory Box",
+      "date": "Fr., 18.6.",
+      "timestamp": 1624052700000,
+      "time": "21:45",
+      "available": 0,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
       "id": "651",
       "url": "https://kinotickets-online.com/fh_freiluftkino/seats/651",
       "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=640",
@@ -131,22 +176,67 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 293,
-      "reserved": 57,
+      "available": 285,
+      "reserved": 61,
       "bookable": true
     },
     {
       "cinemaId": "fh_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
       "cinemaName": "Freiluftkino Friedrichshain",
-      "id": "649",
-      "url": "https://kinotickets-online.com/fh_freiluftkino/seats/649",
+      "id": "655",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/seats/655",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=644",
+      "title": "Night Raiders",
+      "date": "Di., 15.6.",
+      "timestamp": 1623793500000,
+      "time": "21:45",
+      "available": 0,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
+      "id": "656",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/seats/656",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=645",
+      "title": "Petite Maman",
+      "date": "Mi., 16.6.",
+      "timestamp": 1623879900000,
+      "time": "21:45",
+      "available": 0,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
+      "id": "660",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/seats/660",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=649",
+      "title": "Publikums-Preis Wettbewerb 2021: Vorführung Prämie",
+      "date": "So., 20.6.",
+      "timestamp": 1624224600000,
+      "time": "21:30",
+      "available": 0,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
+      "id": "661",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/seats/661",
       "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=638",
       "title": "test",
-      "date": "Mi., 9.6.,",
-      "timestamp": 1623258000000,
-      "time": "17:00",
-      "available": 1080,
+      "date": "Do., 3.6.,",
+      "timestamp": 1622732400000,
+      "time": "15:00",
+      "available": 516,
       "reserved": 0,
       "bookable": true
     },
@@ -206,8 +296,8 @@
       "date": "Mo., 7.6.,",
       "timestamp": 1623101400000,
       "time": "21:30",
-      "available": 330,
-      "reserved": 51,
+      "available": 327,
+      "reserved": 50,
       "bookable": true
     },
     {
@@ -238,8 +328,8 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 400,
-      "reserved": 21,
+      "available": 398,
+      "reserved": 23,
       "bookable": true
     },
     {
@@ -253,9 +343,9 @@
       "date": "So., 6.6.,",
       "timestamp": 1623015000000,
       "time": "21:30",
-      "available": 7,
-      "reserved": 85,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -268,7 +358,7 @@
       "date": "Mo., 7.6.,",
       "timestamp": 1623101400000,
       "time": "21:30",
-      "available": 436,
+      "available": 430,
       "reserved": 9,
       "bookable": true
     },
@@ -298,7 +388,7 @@
       "date": "Mi., 2.6.,",
       "timestamp": 1622669400000,
       "time": "21:30",
-      "available": 256,
+      "available": 240,
       "reserved": 44,
       "bookable": true
     },
@@ -313,7 +403,7 @@
       "date": "Sa., 5.6.,",
       "timestamp": 1622928600000,
       "time": "21:30",
-      "available": 256,
+      "available": 248,
       "reserved": 58,
       "bookable": true
     },
@@ -343,7 +433,7 @@
       "date": "Do., 3.6.,",
       "timestamp": 1622755800000,
       "time": "21:30",
-      "available": 224,
+      "available": 218,
       "reserved": 70,
       "bookable": true
     },
@@ -358,7 +448,7 @@
       "date": "Fr., 4.6.,",
       "timestamp": 1622842200000,
       "time": "21:30",
-      "available": 135,
+      "available": 125,
       "reserved": 67,
       "bookable": true
     }
@@ -555,7 +645,7 @@
       "date": "Sa., 5.6.,",
       "timestamp": 1622928600000,
       "time": "21:30",
-      "available": 389,
+      "available": 385,
       "reserved": 5,
       "bookable": true
     },
@@ -570,8 +660,8 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 381,
-      "reserved": 15,
+      "available": 378,
+      "reserved": 18,
       "bookable": true
     },
     {
@@ -645,7 +735,7 @@
       "date": "Mo., 7.6.,",
       "timestamp": 1623101400000,
       "time": "21:30",
-      "available": 463,
+      "available": 459,
       "reserved": 5,
       "bookable": true
     },
@@ -718,8 +808,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689209?layout=shows",
       "img": "https://media.kinoheld.de/XumU5kU2r_zhNGfY7BDTedClrJI=/200x280/images%2Ffilm%2Fundine-16403.v45.jpg",
-      "available": 108,
-      "reserved": 798,
+      "available": 103,
+      "reserved": 803,
       "bookable": true
     },
     {
@@ -758,8 +848,8 @@
       "timestamp": 1623110400000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689212?layout=shows",
-      "available": 263,
-      "reserved": 643,
+      "available": 259,
+      "reserved": 647,
       "bookable": true
     },
     {
@@ -1477,8 +1567,8 @@
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2380033318?layout=shows",
       "img": "https://media.kinoheld.de/TFWEdC3z7fy4pR6Uo6x0KVhPQnM=/200x280/images%2Ffilm%2F4%2Fsuspiria-11018.v8.jpg",
-      "available": 39,
-      "reserved": 20,
+      "available": 37,
+      "reserved": 22,
       "bookable": true
     },
     {
