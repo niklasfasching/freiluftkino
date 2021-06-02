@@ -11,7 +11,7 @@
       "date": "So., 6.6.,",
       "timestamp": 1623015000000,
       "time": "21:30",
-      "available": 251,
+      "available": 249,
       "reserved": 70,
       "bookable": true
     },
@@ -26,7 +26,7 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624651200000,
       "time": "20:00",
-      "available": 319,
+      "available": 317,
       "reserved": 101,
       "bookable": true
     },
@@ -56,8 +56,8 @@
       "date": "Fr., 4.6.,",
       "timestamp": 1622842200000,
       "time": "21:30",
-      "available": 86,
-      "reserved": 114,
+      "available": 65,
+      "reserved": 121,
       "bookable": true
     },
     {
@@ -178,8 +178,8 @@
       "date": "So., 6.6.,",
       "timestamp": 1623015000000,
       "time": "21:30",
-      "available": 81,
-      "reserved": 75,
+      "available": 66,
+      "reserved": 76,
       "bookable": true
     },
     {
@@ -223,7 +223,7 @@
       "date": "Mi., 2.6.,",
       "timestamp": 1622669400000,
       "time": "21:30",
-      "available": 278,
+      "available": 274,
       "reserved": 42,
       "bookable": true
     },
@@ -238,8 +238,8 @@
       "date": "Sa., 5.6.,",
       "timestamp": 1622928600000,
       "time": "21:30",
-      "available": 278,
-      "reserved": 50,
+      "available": 269,
+      "reserved": 53,
       "bookable": true
     },
     {
@@ -283,7 +283,7 @@
       "date": "Fr., 4.6.,",
       "timestamp": 1622842200000,
       "time": "21:30",
-      "available": 188,
+      "available": 186,
       "reserved": 66,
       "bookable": true
     }
@@ -345,8 +345,8 @@
       "date": "Fr., 4.6.,",
       "timestamp": 1622842200000,
       "time": "21:30",
-      "available": 51,
-      "reserved": 51,
+      "available": 31,
+      "reserved": 53,
       "bookable": true
     },
     {
@@ -450,9 +450,9 @@
       "date": "Do., 3.6.,",
       "timestamp": 1622755800000,
       "time": "21:30",
-      "available": 113,
-      "reserved": 32,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "cinemaId": "rb_freiluftkino",
@@ -480,7 +480,7 @@
       "date": "Sa., 5.6.,",
       "timestamp": 1622928600000,
       "time": "21:30",
-      "available": 405,
+      "available": 401,
       "reserved": 5,
       "bookable": true
     },
@@ -555,7 +555,7 @@
       "date": "Mo., 7.6.,",
       "timestamp": 1623101400000,
       "time": "21:30",
-      "available": 471,
+      "available": 469,
       "reserved": 5,
       "bookable": true
     },
@@ -614,8 +614,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689208?layout=shows",
       "img": "https://media.kinoheld.de/YdyD3HcKlHMBTwqWp30SD7G0wck=/200x280/images%2Ffilm%2Fniemals-selten-manchmal-immer-17085.v354.jpg",
-      "available": 36,
-      "reserved": 870,
+      "available": 32,
+      "reserved": 874,
       "bookable": true
     },
     {
@@ -628,8 +628,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689209?layout=shows",
       "img": "https://media.kinoheld.de/XumU5kU2r_zhNGfY7BDTedClrJI=/200x280/images%2Ffilm%2Fundine-16403.v45.jpg",
-      "available": 153,
-      "reserved": 753,
+      "available": 144,
+      "reserved": 762,
       "bookable": true
     },
     {
