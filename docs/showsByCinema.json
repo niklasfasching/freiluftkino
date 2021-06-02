@@ -11,7 +11,7 @@
       "date": "So., 6.6.,",
       "timestamp": 1623015000000,
       "time": "21:30",
-      "available": 214,
+      "available": 212,
       "reserved": 74,
       "bookable": true
     },
@@ -176,8 +176,8 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 269,
-      "reserved": 69,
+      "available": 260,
+      "reserved": 70,
       "bookable": true
     },
     {
@@ -259,21 +259,6 @@
       "cinemaId": "fh_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
       "cinemaName": "Freiluftkino Friedrichshain",
-      "id": "640",
-      "url": "https://kinotickets-online.com/fh_freiluftkino/seats/640",
-      "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=629",
-      "title": "The Trial of the Chicago 7",
-      "date": "Mi., 2.6.,",
-      "timestamp": 1622669400000,
-      "time": "21:30",
-      "available": 263,
-      "reserved": 71,
-      "bookable": true
-    },
-    {
-      "cinemaId": "fh_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
-      "cinemaName": "Freiluftkino Friedrichshain",
       "id": "650",
       "url": "https://kinotickets-online.com/fh_freiluftkino/seats/650",
       "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=639",
@@ -296,8 +281,8 @@
       "date": "Mo., 7.6.,",
       "timestamp": 1623101400000,
       "time": "21:30",
-      "available": 309,
-      "reserved": 50,
+      "available": 302,
+      "reserved": 51,
       "bookable": true
     },
     {
@@ -328,7 +313,7 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 397,
+      "available": 393,
       "reserved": 25,
       "bookable": true
     },
@@ -456,21 +441,6 @@
       "cinemaId": "kb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
       "cinemaName": "Freiluftkino Kreuzberg",
-      "id": "578",
-      "url": "https://kinotickets-online.com/kb_freiluftkino/seats/578",
-      "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=568",
-      "title": "Master Cheng in Pohjanjoki",
-      "date": "Mi., 2.6.,",
-      "timestamp": 1622669400000,
-      "time": "21:30",
-      "available": 224,
-      "reserved": 45,
-      "bookable": true
-    },
-    {
-      "cinemaId": "kb_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
-      "cinemaName": "Freiluftkino Kreuzberg",
       "id": "595",
       "url": "https://kinotickets-online.com/kb_freiluftkino/seats/595",
       "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=584",
@@ -523,8 +493,8 @@
       "date": "Sa., 5.6.,",
       "timestamp": 1622928600000,
       "time": "21:30",
-      "available": 226,
-      "reserved": 61,
+      "available": 214,
+      "reserved": 67,
       "bookable": true
     },
     {
@@ -598,7 +568,7 @@
       "date": "Fr., 4.6.,",
       "timestamp": 1622842200000,
       "time": "21:30",
-      "available": 78,
+      "available": 66,
       "reserved": 73,
       "bookable": true
     },
@@ -728,21 +698,6 @@
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
-      "id": "563",
-      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/563",
-      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=546",
-      "title": "Futur Drei",
-      "date": "Mi., 2.6.,",
-      "timestamp": 1622669400000,
-      "time": "21:30",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "rb_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
-      "cinemaName": "Freiluftkino Rehberge",
       "id": "581",
       "url": "https://kinotickets-online.com/rb_freiluftkino/seats/581",
       "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=565",
@@ -765,7 +720,7 @@
       "date": "So., 6.6.,",
       "timestamp": 1623015000000,
       "time": "21:30",
-      "available": 400,
+      "available": 392,
       "reserved": 22,
       "bookable": true
     },
@@ -810,8 +765,8 @@
       "date": "Sa., 5.6.,",
       "timestamp": 1622928600000,
       "time": "21:30",
-      "available": 356,
-      "reserved": 8,
+      "available": 349,
+      "reserved": 9,
       "bookable": true
     },
     {
@@ -825,8 +780,8 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 361,
-      "reserved": 23,
+      "available": 352,
+      "reserved": 24,
       "bookable": true
     },
     {
@@ -973,9 +928,9 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689209?layout=shows",
       "img": "https://media.kinoheld.de/XumU5kU2r_zhNGfY7BDTedClrJI=/200x280/images%2Ffilm%2Fundine-16403.v45.jpg",
-      "available": 55,
-      "reserved": 851,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -987,8 +942,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689210?layout=shows",
       "img": "https://media.kinoheld.de/U5_0Uoi7fgy5cJCqwx3xKMHlSeM=/200x280/images%2Ffilm%2Fpersischstunden-17031.v1639.jpg",
-      "available": 248,
-      "reserved": 658,
+      "available": 229,
+      "reserved": 677,
       "bookable": true
     },
     {
@@ -1398,7 +1353,7 @@
       "img": "https://media.kinoheld.de/2apDDavpHFAKXwQIIlgua95QrSs=/200x280/images%2Ffilm%2Fals-wir-tanzten-16083.v204.jpg",
       "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "1657",
@@ -1662,9 +1617,9 @@
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2380032296?layout=shows",
       "img": "https://media.kinoheld.de/MWg-SVNHeTqLmVD1RI8v-JY8yhw=/200x280/images%2Ffilm%2Fparasite-14289.v362.jpg",
-      "available": 29,
-      "reserved": 30,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "cinemaId": "1839",
@@ -1759,8 +1714,8 @@
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2383221549?layout=shows",
       "img": "https://media.kinoheld.de/Wo9totSwExwfLEQozXHvRGpA7Jc=/200x280/images%2Ffilm%2F4%2Fder-himmel-ueber-berlin-9307.v21.jpg",
-      "available": 49,
-      "reserved": 10,
+      "available": 47,
+      "reserved": 12,
       "bookable": true
     }
   ],
@@ -1777,7 +1732,7 @@
       "img": "https://media.kinoheld.de/Ru2XvrjaAHr4b0Y4XNLaYchpGCI=/200x280/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v203.jpg",
       "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "2153",
