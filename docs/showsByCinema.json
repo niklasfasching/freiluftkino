@@ -11,23 +11,23 @@
       "date": "So., 6.6.,",
       "timestamp": 1623015000000,
       "time": "21:30",
-      "available": 238,
-      "reserved": 71,
+      "available": 229,
+      "reserved": 72,
       "bookable": true
     },
     {
       "cinemaId": "fh_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
       "cinemaName": "Freiluftkino Friedrichshain",
-      "id": "642",
-      "url": "https://kinotickets-online.com/fh_freiluftkino/seats/642",
-      "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=631",
-      "title": "Champions Slam - Open Air",
-      "date": "Fr., 25.6.",
-      "timestamp": 1624651200000,
-      "time": "20:00",
-      "available": 313,
-      "reserved": 101,
+      "id": "654",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/seats/654",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=643",
+      "title": "Censor",
+      "date": "Mo., 14.6.",
+      "timestamp": 1623707100000,
+      "time": "21:45",
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -49,6 +49,21 @@
       "cinemaId": "fh_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
       "cinemaName": "Freiluftkino Friedrichshain",
+      "id": "653",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/seats/653",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=642",
+      "title": "Die Welt wird eine andere sein",
+      "date": "So., 13.6.",
+      "timestamp": 1623619800000,
+      "time": "21:30",
+      "available": 0,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
       "id": "643",
       "url": "https://kinotickets-online.com/fh_freiluftkino/seats/643",
       "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=632",
@@ -56,9 +71,9 @@
       "date": "Fr., 4.6.,",
       "timestamp": 1622842200000,
       "time": "21:30",
-      "available": 34,
-      "reserved": 128,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "cinemaId": "fh_freiluftkino",
@@ -79,6 +94,36 @@
       "cinemaId": "fh_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
       "cinemaName": "Freiluftkino Friedrichshain",
+      "id": "652",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/seats/652",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=641",
+      "title": "Ich bin dein Mensch",
+      "date": "Sa., 12.6.",
+      "timestamp": 1623534300000,
+      "time": "21:45",
+      "available": 0,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
+      "id": "651",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/seats/651",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=640",
+      "title": "Nebenan",
+      "date": "Fr., 11.6.",
+      "timestamp": 1623447900000,
+      "time": "21:45",
+      "available": 0,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
       "id": "647",
       "url": "https://kinotickets-online.com/fh_freiluftkino/seats/647",
       "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=636",
@@ -86,8 +131,23 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 303,
+      "available": 295,
       "reserved": 57,
+      "bookable": true
+    },
+    {
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
+      "id": "649",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/seats/649",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=638",
+      "title": "test",
+      "date": "Mi., 9.6.,",
+      "timestamp": 1623258000000,
+      "time": "17:00",
+      "available": 1080,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -124,6 +184,21 @@
       "cinemaId": "fh_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
       "cinemaName": "Freiluftkino Friedrichshain",
+      "id": "650",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/seats/650",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=639",
+      "title": "Tina",
+      "date": "Do., 10.6.",
+      "timestamp": 1623361500000,
+      "time": "21:45",
+      "available": 0,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
       "id": "646",
       "url": "https://kinotickets-online.com/fh_freiluftkino/seats/646",
       "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=635",
@@ -131,8 +206,8 @@
       "date": "Mo., 7.6.,",
       "timestamp": 1623101400000,
       "time": "21:30",
-      "available": 338,
-      "reserved": 47,
+      "available": 333,
+      "reserved": 50,
       "bookable": true
     },
     {
@@ -163,7 +238,7 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 406,
+      "available": 402,
       "reserved": 21,
       "bookable": true
     },
@@ -178,8 +253,8 @@
       "date": "So., 6.6.,",
       "timestamp": 1623015000000,
       "time": "21:30",
-      "available": 36,
-      "reserved": 80,
+      "available": 21,
+      "reserved": 81,
       "bookable": true
     },
     {
@@ -223,7 +298,7 @@
       "date": "Mi., 2.6.,",
       "timestamp": 1622669400000,
       "time": "21:30",
-      "available": 268,
+      "available": 256,
       "reserved": 42,
       "bookable": true
     },
@@ -238,7 +313,7 @@
       "date": "Sa., 5.6.,",
       "timestamp": 1622928600000,
       "time": "21:30",
-      "available": 261,
+      "available": 259,
       "reserved": 57,
       "bookable": true
     },
@@ -268,7 +343,7 @@
       "date": "Do., 3.6.,",
       "timestamp": 1622755800000,
       "time": "21:30",
-      "available": 228,
+      "available": 226,
       "reserved": 70,
       "bookable": true
     },
@@ -283,8 +358,8 @@
       "date": "Fr., 4.6.,",
       "timestamp": 1622842200000,
       "time": "21:30",
-      "available": 164,
-      "reserved": 66,
+      "available": 145,
+      "reserved": 67,
       "bookable": true
     }
   ],
@@ -345,8 +420,8 @@
       "date": "Fr., 4.6.,",
       "timestamp": 1622842200000,
       "time": "21:30",
-      "available": 15,
-      "reserved": 61,
+      "available": 13,
+      "reserved": 63,
       "bookable": true
     },
     {
@@ -435,8 +510,8 @@
       "date": "So., 6.6.,",
       "timestamp": 1623015000000,
       "time": "21:30",
-      "available": 411,
-      "reserved": 19,
+      "available": 408,
+      "reserved": 20,
       "bookable": true
     },
     {
@@ -480,7 +555,7 @@
       "date": "Sa., 5.6.,",
       "timestamp": 1622928600000,
       "time": "21:30",
-      "available": 395,
+      "available": 391,
       "reserved": 5,
       "bookable": true
     },
@@ -495,8 +570,8 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 382,
-      "reserved": 14,
+      "available": 381,
+      "reserved": 15,
       "bookable": true
     },
     {
@@ -533,6 +608,21 @@
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
+      "id": "583",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/583",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=566",
+      "title": "test",
+      "date": "Di., 8.6.,",
+      "timestamp": 1623171600000,
+      "time": "17:00",
+      "available": 647,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
       "id": "573",
       "url": "https://kinotickets-online.com/rb_freiluftkino/seats/573",
       "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=556",
@@ -555,7 +645,7 @@
       "date": "Mo., 7.6.,",
       "timestamp": 1623101400000,
       "time": "21:30",
-      "available": 467,
+      "available": 465,
       "reserved": 5,
       "bookable": true
     },
@@ -628,8 +718,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689209?layout=shows",
       "img": "https://media.kinoheld.de/XumU5kU2r_zhNGfY7BDTedClrJI=/200x280/images%2Ffilm%2Fundine-16403.v45.jpg",
-      "available": 118,
-      "reserved": 788,
+      "available": 112,
+      "reserved": 794,
       "bookable": true
     },
     {
@@ -642,8 +732,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689210?layout=shows",
       "img": "https://media.kinoheld.de/U5_0Uoi7fgy5cJCqwx3xKMHlSeM=/200x280/images%2Ffilm%2Fpersischstunden-17031.v1639.jpg",
-      "available": 269,
-      "reserved": 637,
+      "available": 265,
+      "reserved": 641,
       "bookable": true
     },
     {
