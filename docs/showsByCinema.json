@@ -11,8 +11,8 @@
       "date": "So., 6.6.,",
       "timestamp": 1623015000000,
       "time": "21:30",
-      "available": 235,
-      "reserved": 72,
+      "available": 230,
+      "reserved": 74,
       "bookable": true
     },
     {
@@ -176,7 +176,7 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 285,
+      "available": 283,
       "reserved": 61,
       "bookable": true
     },
@@ -266,9 +266,9 @@
       "date": "Mi., 2.6.,",
       "timestamp": 1622669400000,
       "time": "21:30",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 263,
+      "reserved": 71,
+      "bookable": true
     },
     {
       "cinemaId": "fh_freiluftkino",
@@ -296,7 +296,7 @@
       "date": "Mo., 7.6.,",
       "timestamp": 1623101400000,
       "time": "21:30",
-      "available": 327,
+      "available": 325,
       "reserved": 50,
       "bookable": true
     },
@@ -328,8 +328,53 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 398,
+      "available": 401,
       "reserved": 23,
+      "bookable": true
+    },
+    {
+      "cinemaId": "kb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+      "cinemaName": "Freiluftkino Kreuzberg",
+      "id": "594",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/seats/594",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=583",
+      "title": "All Eyes Off Me",
+      "date": "Di., 15.6.",
+      "timestamp": 1623793500000,
+      "time": "21:45",
+      "available": 0,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "kb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+      "cinemaName": "Freiluftkino Kreuzberg",
+      "id": "592",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/seats/592",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=581",
+      "title": "Brother`s Keeper",
+      "date": "So., 13.6.",
+      "timestamp": 1623619800000,
+      "time": "21:30",
+      "available": 0,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "kb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+      "cinemaName": "Freiluftkino Kreuzberg",
+      "id": "591",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/seats/591",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=580",
+      "title": "Der menschliche Faktor",
+      "date": "Sa., 12.6.",
+      "timestamp": 1623533400000,
+      "time": "21:30",
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -343,9 +388,24 @@
       "date": "So., 6.6.,",
       "timestamp": 1623015000000,
       "time": "21:30",
+      "available": 4,
+      "reserved": 85,
+      "bookable": true
+    },
+    {
+      "cinemaId": "kb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+      "cinemaName": "Freiluftkino Kreuzberg",
+      "id": "597",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/seats/597",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=586",
+      "title": "Dirty Feathers",
+      "date": "Fr., 18.6.",
+      "timestamp": 1624052700000,
+      "time": "21:45",
       "available": 0,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -358,8 +418,23 @@
       "date": "Mo., 7.6.,",
       "timestamp": 1623101400000,
       "time": "21:30",
-      "available": 430,
+      "available": 433,
       "reserved": 9,
+      "bookable": true
+    },
+    {
+      "cinemaId": "kb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+      "cinemaName": "Freiluftkino Kreuzberg",
+      "id": "589",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/seats/589",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=578",
+      "title": "Genderation",
+      "date": "Do., 10.6.",
+      "timestamp": 1623360600000,
+      "time": "21:30",
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -388,8 +463,53 @@
       "date": "Mi., 2.6.,",
       "timestamp": 1622669400000,
       "time": "21:30",
-      "available": 240,
-      "reserved": 44,
+      "available": 232,
+      "reserved": 45,
+      "bookable": true
+    },
+    {
+      "cinemaId": "kb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+      "cinemaName": "Freiluftkino Kreuzberg",
+      "id": "595",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/seats/595",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=584",
+      "title": "Miguel`s War",
+      "date": "Mi., 16.6.",
+      "timestamp": 1623878100000,
+      "time": "21:15",
+      "available": 0,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "kb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+      "cinemaName": "Freiluftkino Kreuzberg",
+      "id": "596",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/seats/596",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=585",
+      "title": "North by Current",
+      "date": "Do., 17.6.",
+      "timestamp": 1623966300000,
+      "time": "21:45",
+      "available": 0,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "kb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+      "cinemaName": "Freiluftkino Kreuzberg",
+      "id": "599",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/seats/599",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=588",
+      "title": "Panorama Publikumspreis",
+      "date": "So., 20.6.",
+      "timestamp": 1624224600000,
+      "time": "21:30",
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -403,8 +523,23 @@
       "date": "Sa., 5.6.,",
       "timestamp": 1622928600000,
       "time": "21:30",
-      "available": 248,
-      "reserved": 58,
+      "available": 244,
+      "reserved": 59,
+      "bookable": true
+    },
+    {
+      "cinemaId": "kb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+      "cinemaName": "Freiluftkino Kreuzberg",
+      "id": "598",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/seats/598",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=587",
+      "title": "Souad",
+      "date": "Sa., 19.6.",
+      "timestamp": 1624139100000,
+      "time": "21:45",
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -416,9 +551,24 @@
       "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=575",
       "title": "test",
       "date": "Do., 10.6.",
-      "timestamp": 1623360600000,
-      "time": "21:30",
-      "available": 581,
+      "timestamp": 1623335400000,
+      "time": "14:30",
+      "available": 579,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "kb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+      "cinemaName": "Freiluftkino Kreuzberg",
+      "id": "593",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/seats/593",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=582",
+      "title": "Theo and the Metamorphosis",
+      "date": "Mo., 14.6.",
+      "timestamp": 1623707100000,
+      "time": "21:45",
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -433,7 +583,7 @@
       "date": "Do., 3.6.,",
       "timestamp": 1622755800000,
       "time": "21:30",
-      "available": 218,
+      "available": 221,
       "reserved": 70,
       "bookable": true
     },
@@ -448,8 +598,23 @@
       "date": "Fr., 4.6.,",
       "timestamp": 1622842200000,
       "time": "21:30",
-      "available": 125,
-      "reserved": 67,
+      "available": 114,
+      "reserved": 69,
+      "bookable": true
+    },
+    {
+      "cinemaId": "kb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+      "cinemaName": "Freiluftkino Kreuzberg",
+      "id": "590",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/seats/590",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=579",
+      "title": "The World After Us",
+      "date": "Fr., 11.6.",
+      "timestamp": 1623447000000,
+      "time": "21:30",
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     }
   ],
@@ -510,9 +675,9 @@
       "date": "Fr., 4.6.,",
       "timestamp": 1622842200000,
       "time": "21:30",
-      "available": 13,
-      "reserved": 63,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "cinemaId": "rb_freiluftkino",
@@ -600,8 +765,8 @@
       "date": "So., 6.6.,",
       "timestamp": 1623015000000,
       "time": "21:30",
-      "available": 407,
-      "reserved": 21,
+      "available": 402,
+      "reserved": 22,
       "bookable": true
     },
     {
@@ -645,7 +810,7 @@
       "date": "Sa., 5.6.,",
       "timestamp": 1622928600000,
       "time": "21:30",
-      "available": 385,
+      "available": 379,
       "reserved": 5,
       "bookable": true
     },
@@ -660,8 +825,8 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 378,
-      "reserved": 18,
+      "available": 373,
+      "reserved": 23,
       "bookable": true
     },
     {
@@ -808,8 +973,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689209?layout=shows",
       "img": "https://media.kinoheld.de/XumU5kU2r_zhNGfY7BDTedClrJI=/200x280/images%2Ffilm%2Fundine-16403.v45.jpg",
-      "available": 103,
-      "reserved": 803,
+      "available": 95,
+      "reserved": 811,
       "bookable": true
     },
     {
@@ -822,8 +987,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689210?layout=shows",
       "img": "https://media.kinoheld.de/U5_0Uoi7fgy5cJCqwx3xKMHlSeM=/200x280/images%2Ffilm%2Fpersischstunden-17031.v1639.jpg",
-      "available": 265,
-      "reserved": 641,
+      "available": 260,
+      "reserved": 646,
       "bookable": true
     },
     {
@@ -1186,8 +1351,8 @@
       "timestamp": 1624233600000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689213?layout=shows",
-      "available": 375,
-      "reserved": 531,
+      "available": 366,
+      "reserved": 540,
       "bookable": true
     },
     {
@@ -1511,8 +1676,8 @@
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2380033226?layout=shows",
       "img": "https://media.kinoheld.de/6Elom-S4fhPfk1RRfYi205eGZvw=/200x280/images%2Ffilm%2Fonce-upon-a-time-in-hollywood-13423.v111.jpg",
-      "available": 30,
-      "reserved": 29,
+      "available": 28,
+      "reserved": 31,
       "bookable": true
     },
     {
@@ -1594,8 +1759,8 @@
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2383221549?layout=shows",
       "img": "https://media.kinoheld.de/Wo9totSwExwfLEQozXHvRGpA7Jc=/200x280/images%2Ffilm%2F4%2Fder-himmel-ueber-berlin-9307.v21.jpg",
-      "available": 55,
-      "reserved": 4,
+      "available": 51,
+      "reserved": 8,
       "bookable": true
     }
   ],
