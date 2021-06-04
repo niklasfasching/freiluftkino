@@ -26,7 +26,7 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 866,
+      "available": 862,
       "reserved": 94,
       "bookable": true
     },
@@ -86,8 +86,8 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 822,
-      "reserved": 100,
+      "available": 821,
+      "reserved": 101,
       "bookable": true
     },
     {
@@ -131,7 +131,7 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624138200000,
       "time": "21:30",
-      "available": 218,
+      "available": 216,
       "reserved": 202,
       "bookable": true
     },
@@ -221,8 +221,8 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 674,
-      "reserved": 104,
+      "available": 672,
+      "reserved": 106,
       "bookable": true
     },
     {
@@ -251,7 +251,7 @@
       "date": "Mi., 9.6.,",
       "timestamp": 1623274200000,
       "time": "21:30",
-      "available": 106,
+      "available": 100,
       "reserved": 202,
       "bookable": true
     },
@@ -568,7 +568,7 @@
       "date": "Fr., 11.6.",
       "timestamp": 1623447000000,
       "time": "21:30",
-      "available": 4,
+      "available": 2,
       "reserved": 109,
       "bookable": true
     }
@@ -1014,8 +1014,8 @@
       "timestamp": 1623456000000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689273?layout=shows",
-      "available": 7,
-      "reserved": 685,
+      "available": 8,
+      "reserved": 684,
       "bookable": true
     },
     {
