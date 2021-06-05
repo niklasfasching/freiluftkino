@@ -26,8 +26,8 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 789,
-      "reserved": 107,
+      "available": 788,
+      "reserved": 108,
       "bookable": true
     },
     {
@@ -71,7 +71,7 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 665,
+      "available": 663,
       "reserved": 145,
       "bookable": true
     },
@@ -116,8 +116,8 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625247000000,
       "time": "17:30",
-      "available": 503,
-      "reserved": 0,
+      "available": 501,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -251,8 +251,8 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 325,
-      "reserved": 173,
+      "available": 319,
+      "reserved": 179,
       "bookable": true
     },
     {
@@ -371,8 +371,8 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624296600000,
       "time": "17:30",
-      "available": 184,
-      "reserved": 51,
+      "available": 181,
+      "reserved": 54,
       "bookable": true
     },
     {
@@ -403,7 +403,7 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 259,
+      "available": 261,
       "reserved": 61,
       "bookable": true
     },
@@ -585,7 +585,7 @@
       "time": "21:30",
       "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -598,8 +598,8 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 118,
+      "reserved": 109,
       "bookable": true
     },
     {
@@ -613,7 +613,7 @@
       "date": "Do., 10.6.",
       "timestamp": 1623335400000,
       "time": "14:30",
-      "available": 0,
+      "available": 579,
       "reserved": 0,
       "bookable": true
     },
@@ -628,8 +628,8 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 385,
+      "reserved": 80,
       "bookable": true
     },
     {
@@ -645,7 +645,7 @@
       "time": "21:30",
       "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     }
   ],
   "Freiluftkino Rehberge": [
@@ -735,8 +735,8 @@
       "date": "Mi., 16.6.",
       "timestamp": 1623879900000,
       "time": "21:45",
-      "available": 497,
-      "reserved": 67,
+      "available": 496,
+      "reserved": 68,
       "bookable": true
     },
     {
@@ -780,7 +780,7 @@
       "date": "So., 6.6.,",
       "timestamp": 1623015000000,
       "time": "21:30",
-      "available": 228,
+      "available": 226,
       "reserved": 43,
       "bookable": true
     },
@@ -795,7 +795,7 @@
       "date": "So., 13.6.",
       "timestamp": 1623619800000,
       "time": "21:30",
-      "available": 313,
+      "available": 309,
       "reserved": 79,
       "bookable": true
     },
@@ -825,7 +825,7 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 188,
+      "available": 186,
       "reserved": 35,
       "bookable": true
     },
@@ -885,7 +885,7 @@
       "date": "Sa., 12.6.",
       "timestamp": 1623533400000,
       "time": "21:30",
-      "available": 233,
+      "available": 229,
       "reserved": 81,
       "bookable": true
     },
@@ -921,20 +921,6 @@
     }
   ],
   "freiluftkino-hasenheide": [
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "title": "Undine (subtitled OV English)",
-      "date": "Sa., 5.6.,",
-      "timestamp": 1622851200000,
-      "time": "21:45",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689209?layout=shows",
-      "img": "https://media.kinoheld.de/XumU5kU2r_zhNGfY7BDTedClrJI=/200x280/images%2Ffilm%2Fundine-16403.v45.jpg",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
     {
       "cinemaId": "580",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
@@ -1140,8 +1126,8 @@
       "timestamp": 1623628800000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689275?layout=shows",
-      "available": 18,
-      "reserved": 674,
+      "available": 12,
+      "reserved": 680,
       "bookable": true
     },
     {
@@ -1574,20 +1560,6 @@
       "cinemaId": "1839",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
       "cinemaName": "central-kino-open-air",
-      "title": "open air: Midsommar (subtitled OV German)",
-      "date": "Sa., 5.6.,",
-      "timestamp": 1622851200000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2380033272?layout=shows",
-      "img": "https://media.kinoheld.de/ZZBGLKXSCyS0Kg2vOuZcUgxvUG0=/200x280/images%2Ffilm%2Fmidsommar-14283.v17.jpg",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "1839",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
-      "cinemaName": "central-kino-open-air",
       "title": "open air: RBG - Ein Leben für die Gerechtigkeit (OV / subtitled OV)",
       "date": "So., 6.6.,",
       "timestamp": 1622937600000,
@@ -1635,26 +1607,12 @@
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2383221549?layout=shows",
       "img": "https://media.kinoheld.de/Wo9totSwExwfLEQozXHvRGpA7Jc=/200x280/images%2Ffilm%2F4%2Fder-himmel-ueber-berlin-9307.v21.jpg",
-      "available": 30,
-      "reserved": 29,
+      "available": 28,
+      "reserved": 31,
       "bookable": true
     }
   ],
   "freiluftkino-pompeji-open-air-am-ostkreuz-berlin": [
-    {
-      "cinemaId": "2153",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-      "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-      "title": "DER RAUSCH (subtitled OV English)",
-      "date": "Sa., 5.6.,",
-      "timestamp": 1622851200000,
-      "time": "21:45",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2380929418?layout=shows",
-      "img": "https://media.kinoheld.de/ddVo2gc61KooOaUbOMxwLflyQeI=/200x280/images%2Ffilm%2Fder-rausch-18282.v3.jpg",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
     {
       "cinemaId": "2153",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
