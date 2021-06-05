@@ -56,8 +56,8 @@
       "date": "So., 13.6.",
       "timestamp": 1623619800000,
       "time": "21:30",
-      "available": 410,
-      "reserved": 184,
+      "available": 409,
+      "reserved": 185,
       "bookable": true
     },
     {
@@ -116,8 +116,8 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625247000000,
       "time": "17:30",
-      "available": 496,
-      "reserved": 1,
+      "available": 499,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -266,7 +266,7 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628960400000,
       "time": "17:00",
-      "available": 517,
+      "available": 515,
       "reserved": 0,
       "bookable": true
     },
@@ -403,7 +403,7 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 261,
+      "available": 259,
       "reserved": 61,
       "bookable": true
     },
@@ -1126,8 +1126,8 @@
       "timestamp": 1623628800000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689275?layout=shows",
-      "available": 11,
-      "reserved": 681,
+      "available": 9,
+      "reserved": 683,
       "bookable": true
     },
     {
@@ -1152,8 +1152,8 @@
       "timestamp": 1623715200000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689276?layout=shows",
-      "available": 37,
-      "reserved": 655,
+      "available": 36,
+      "reserved": 656,
       "bookable": true
     },
     {
@@ -1552,7 +1552,7 @@
       "img": "https://media.kinoheld.de/NI3epKAH2APy0jToaFxOQjO5pX4=/200x280/images%2Ffilm%2Feine-frau-mit-berauschenden-talenten-17113.v1237.jpg",
       "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     }
   ],
   "central-kino-open-air": [
