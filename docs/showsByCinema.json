@@ -71,8 +71,8 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 666,
-      "reserved": 144,
+      "available": 665,
+      "reserved": 145,
       "bookable": true
     },
     {
@@ -236,7 +236,7 @@
       "date": "Mi., 16.6.",
       "timestamp": 1623879900000,
       "time": "21:45",
-      "available": 433,
+      "available": 431,
       "reserved": 185,
       "bookable": true
     },
@@ -251,7 +251,7 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 333,
+      "available": 325,
       "reserved": 173,
       "bookable": true
     },
@@ -266,7 +266,7 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628960400000,
       "time": "17:00",
-      "available": 515,
+      "available": 517,
       "reserved": 0,
       "bookable": true
     },
@@ -403,7 +403,7 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 263,
+      "available": 259,
       "reserved": 61,
       "bookable": true
     },
@@ -433,7 +433,7 @@
       "date": "So., 13.6.",
       "timestamp": 1623619800000,
       "time": "21:30",
-      "available": 84,
+      "available": 82,
       "reserved": 109,
       "bookable": true
     },
@@ -568,8 +568,8 @@
       "date": "So., 13.6.",
       "timestamp": 1623596400000,
       "time": "15:00",
-      "available": 248,
-      "reserved": 48,
+      "available": 242,
+      "reserved": 50,
       "bookable": true
     },
     {
@@ -585,7 +585,7 @@
       "time": "21:30",
       "available": 0,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -598,8 +598,8 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 120,
-      "reserved": 109,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -613,7 +613,7 @@
       "date": "Do., 10.6.",
       "timestamp": 1623335400000,
       "time": "14:30",
-      "available": 579,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -628,8 +628,8 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 385,
-      "reserved": 80,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -645,7 +645,7 @@
       "time": "21:30",
       "available": 0,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     }
   ],
   "Freiluftkino Rehberge": [
@@ -720,7 +720,7 @@
       "date": "Do., 10.6.",
       "timestamp": 1623360600000,
       "time": "21:30",
-      "available": 180,
+      "available": 182,
       "reserved": 88,
       "bookable": true
     },
@@ -765,7 +765,7 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 389,
+      "available": 387,
       "reserved": 69,
       "bookable": true
     },
@@ -795,7 +795,7 @@
       "date": "So., 13.6.",
       "timestamp": 1623619800000,
       "time": "21:30",
-      "available": 309,
+      "available": 313,
       "reserved": 79,
       "bookable": true
     },
@@ -825,7 +825,7 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 190,
+      "available": 188,
       "reserved": 35,
       "bookable": true
     },
@@ -885,7 +885,7 @@
       "date": "Sa., 12.6.",
       "timestamp": 1623533400000,
       "time": "21:30",
-      "available": 229,
+      "available": 233,
       "reserved": 81,
       "bookable": true
     },
@@ -958,8 +958,8 @@
       "timestamp": 1623024000000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689211?layout=shows",
-      "available": 71,
-      "reserved": 835,
+      "available": 67,
+      "reserved": 839,
       "bookable": true
     },
     {
