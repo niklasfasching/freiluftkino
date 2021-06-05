@@ -11,8 +11,8 @@
       "date": "So., 6.6.,",
       "timestamp": 1623015000000,
       "time": "21:30",
-      "available": 58,
-      "reserved": 116,
+      "available": 50,
+      "reserved": 120,
       "bookable": true
     },
     {
@@ -26,7 +26,7 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 800,
+      "available": 798,
       "reserved": 106,
       "bookable": true
     },
@@ -41,7 +41,7 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624651200000,
       "time": "20:00",
-      "available": 257,
+      "available": 255,
       "reserved": 107,
       "bookable": true
     },
@@ -71,7 +71,7 @@
       "date": "So., 13.6.",
       "timestamp": 1623619800000,
       "time": "21:30",
-      "available": 466,
+      "available": 464,
       "reserved": 176,
       "bookable": true
     },
@@ -86,8 +86,68 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 705,
-      "reserved": 133,
+      "available": 701,
+      "reserved": 135,
+      "bookable": true
+    },
+    {
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
+      "id": "668",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/seats/668",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=656",
+      "title": "Eckart von Hirschhausen liest aus „Mensch, Erde!..",
+      "date": "Do., 19.8.",
+      "timestamp": 1629392400000,
+      "time": "17:00",
+      "available": 519,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
+      "id": "670",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/seats/670",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=657",
+      "title": "Florian Schröder liest aus „Schluss mit der Mein..",
+      "date": "So., 22.8.",
+      "timestamp": 1629649800000,
+      "time": "16:30",
+      "available": 519,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
+      "id": "664",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/seats/664",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=652",
+      "title": "Hape Kerkeling liest aus „Pfoten vom Tisch“ (...)",
+      "date": "Fr., 2.7.,",
+      "timestamp": 1625247000000,
+      "time": "17:30",
+      "available": 519,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
+      "id": "666",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/seats/666",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=654",
+      "title": "Hengameh Yaghoobifarah liest aus „Ministerium(...)",
+      "date": "So., 11.7.",
+      "timestamp": 1626024600000,
+      "time": "17:30",
+      "available": 345,
+      "reserved": 58,
       "bookable": true
     },
     {
@@ -116,7 +176,7 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624138200000,
       "time": "21:30",
-      "available": 12,
+      "available": 2,
       "reserved": 202,
       "bookable": true
     },
@@ -131,7 +191,7 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624052700000,
       "time": "21:45",
-      "available": 278,
+      "available": 274,
       "reserved": 196,
       "bookable": true
     },
@@ -161,7 +221,7 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 111,
+      "available": 109,
       "reserved": 107,
       "bookable": true
     },
@@ -191,8 +251,8 @@
       "date": "Mi., 16.6.",
       "timestamp": 1623879900000,
       "time": "21:45",
-      "available": 480,
-      "reserved": 180,
+      "available": 467,
+      "reserved": 181,
       "bookable": true
     },
     {
@@ -206,8 +266,38 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 422,
-      "reserved": 158,
+      "available": 405,
+      "reserved": 163,
+      "bookable": true
+    },
+    {
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
+      "id": "667",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/seats/667",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=655",
+      "title": "Sebastian Fitzek liest aus „Der erste letzte Tag“",
+      "date": "Sa., 14.8.",
+      "timestamp": 1628960400000,
+      "time": "17:00",
+      "available": 519,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
+      "id": "665",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/seats/665",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=653",
+      "title": "Stefan Schwarz liest aus „Da stimmt was nicht“",
+      "date": "Sa., 3.7.,",
+      "timestamp": 1625333400000,
+      "time": "17:30",
+      "available": 519,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -251,8 +341,8 @@
       "date": "Do., 10.6.",
       "timestamp": 1623361500000,
       "time": "21:45",
-      "available": 509,
-      "reserved": 155,
+      "available": 503,
+      "reserved": 157,
       "bookable": true
     },
     {
@@ -266,8 +356,8 @@
       "date": "Mo., 7.6.,",
       "timestamp": 1623101400000,
       "time": "21:30",
-      "available": 143,
-      "reserved": 84,
+      "available": 142,
+      "reserved": 85,
       "bookable": true
     },
     {
@@ -296,8 +386,8 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624296600000,
       "time": "17:30",
-      "available": 333,
-      "reserved": 4,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -311,7 +401,7 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624024800000,
       "time": "14:00",
-      "available": 399,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     }
@@ -328,7 +418,7 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 277,
+      "available": 273,
       "reserved": 57,
       "bookable": true
     },
@@ -343,8 +433,8 @@
       "date": "Di., 15.6.",
       "timestamp": 1623793500000,
       "time": "21:45",
-      "available": 164,
-      "reserved": 103,
+      "available": 163,
+      "reserved": 104,
       "bookable": true
     },
     {
@@ -358,7 +448,7 @@
       "date": "So., 13.6.",
       "timestamp": 1623619800000,
       "time": "21:30",
-      "available": 106,
+      "available": 104,
       "reserved": 109,
       "bookable": true
     },
@@ -403,8 +493,8 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624052700000,
       "time": "21:45",
-      "available": 255,
-      "reserved": 100,
+      "available": 252,
+      "reserved": 101,
       "bookable": true
     },
     {
@@ -418,7 +508,7 @@
       "date": "Mo., 7.6.,",
       "timestamp": 1623101400000,
       "time": "21:30",
-      "available": 371,
+      "available": 365,
       "reserved": 15,
       "bookable": true
     },
@@ -433,7 +523,7 @@
       "date": "Do., 10.6.",
       "timestamp": 1623360600000,
       "time": "21:30",
-      "available": 88,
+      "available": 82,
       "reserved": 109,
       "bookable": true
     },
@@ -463,8 +553,8 @@
       "date": "Mi., 16.6.",
       "timestamp": 1623878100000,
       "time": "21:15",
-      "available": 260,
-      "reserved": 99,
+      "available": 256,
+      "reserved": 101,
       "bookable": true
     },
     {
@@ -478,7 +568,7 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 423,
+      "available": 421,
       "reserved": 82,
       "bookable": true
     },
@@ -493,8 +583,8 @@
       "date": "So., 13.6.",
       "timestamp": 1623596400000,
       "time": "15:00",
-      "available": 287,
-      "reserved": 25,
+      "available": 278,
+      "reserved": 28,
       "bookable": true
     },
     {
@@ -538,7 +628,7 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 146,
+      "available": 144,
       "reserved": 109,
       "bookable": true
     },
@@ -568,7 +658,7 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 393,
+      "available": 391,
       "reserved": 80,
       "bookable": true
     },
@@ -615,7 +705,7 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 372,
+      "available": 370,
       "reserved": 74,
       "bookable": true
     },
@@ -660,8 +750,8 @@
       "date": "Do., 10.6.",
       "timestamp": 1623360600000,
       "time": "21:30",
-      "available": 203,
-      "reserved": 87,
+      "available": 202,
+      "reserved": 88,
       "bookable": true
     },
     {
@@ -675,7 +765,7 @@
       "date": "Mi., 16.6.",
       "timestamp": 1623879900000,
       "time": "21:45",
-      "available": 507,
+      "available": 505,
       "reserved": 67,
       "bookable": true
     },
@@ -765,7 +855,7 @@
       "date": "Sa., 5.6.,",
       "timestamp": 1622928600000,
       "time": "21:30",
-      "available": 70,
+      "available": 56,
       "reserved": 49,
       "bookable": true
     },
@@ -780,7 +870,7 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 218,
+      "available": 212,
       "reserved": 35,
       "bookable": true
     },
@@ -795,7 +885,7 @@
       "date": "Mi., 9.6.,",
       "timestamp": 1623274200000,
       "time": "21:30",
-      "available": 275,
+      "available": 273,
       "reserved": 85,
       "bookable": true
     },
@@ -810,7 +900,7 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624052700000,
       "time": "21:45",
-      "available": 276,
+      "available": 268,
       "reserved": 86,
       "bookable": true
     },
@@ -840,7 +930,7 @@
       "date": "Sa., 12.6.",
       "timestamp": 1623533400000,
       "time": "21:30",
-      "available": 274,
+      "available": 272,
       "reserved": 80,
       "bookable": true
     },
@@ -855,8 +945,8 @@
       "date": "Mo., 7.6.,",
       "timestamp": 1623101400000,
       "time": "21:30",
-      "available": 345,
-      "reserved": 18,
+      "available": 336,
+      "reserved": 19,
       "bookable": true
     },
     {
@@ -870,8 +960,8 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 331,
-      "reserved": 83,
+      "available": 328,
+      "reserved": 84,
       "bookable": true
     }
   ],
@@ -900,8 +990,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689210?layout=shows",
       "img": "https://media.kinoheld.de/U5_0Uoi7fgy5cJCqwx3xKMHlSeM=/200x280/images%2Ffilm%2Fpersischstunden-17031.v1639.jpg",
-      "available": 93,
-      "reserved": 813,
+      "available": 88,
+      "reserved": 818,
       "bookable": true
     },
     {
@@ -1095,8 +1185,8 @@
       "timestamp": 1623628800000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689275?layout=shows",
-      "available": 52,
-      "reserved": 640,
+      "available": 50,
+      "reserved": 642,
       "bookable": true
     },
     {
@@ -1121,8 +1211,8 @@
       "timestamp": 1623715200000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689276?layout=shows",
-      "available": 58,
-      "reserved": 634,
+      "available": 48,
+      "reserved": 644,
       "bookable": true
     },
     {
@@ -1199,8 +1289,8 @@
       "timestamp": 1623974400000,
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689280?layout=shows",
-      "available": 76,
-      "reserved": 616,
+      "available": 75,
+      "reserved": 617,
       "bookable": true
     },
     {
@@ -1549,8 +1639,8 @@
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2380033295?layout=shows",
       "img": "https://media.kinoheld.de/p70fKxZeaR2l5kMr0KAKjds0ThE=/200x280/images%2Ffilm%2F3%2Frbg-ein-leben-fuer-die-gerechtigkeit-11070.v19.jpg",
-      "available": 26,
-      "reserved": 33,
+      "available": 28,
+      "reserved": 31,
       "bookable": true
     },
     {
@@ -1590,8 +1680,8 @@
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2383221549?layout=shows",
       "img": "https://media.kinoheld.de/Wo9totSwExwfLEQozXHvRGpA7Jc=/200x280/images%2Ffilm%2F4%2Fder-himmel-ueber-berlin-9307.v21.jpg",
-      "available": 32,
-      "reserved": 27,
+      "available": 30,
+      "reserved": 29,
       "bookable": true
     }
   ],
