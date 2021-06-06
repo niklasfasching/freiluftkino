@@ -855,7 +855,7 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624052700000,
       "time": "21:45",
-      "available": 262,
+      "available": 260,
       "reserved": 88,
       "bookable": true
     },
@@ -1552,7 +1552,7 @@
       "img": "https://media.kinoheld.de/NI3epKAH2APy0jToaFxOQjO5pX4=/200x280/images%2Ffilm%2Feine-frau-mit-berauschenden-talenten-17113.v1237.jpg",
       "available": 0,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     }
   ],
   "central-kino-open-air": [
