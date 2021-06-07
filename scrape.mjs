@@ -1,29 +1,29 @@
 const cinemas = {
   kinoTicketsOnline: {
-    fh_freiluftkino: "Freiluftkino Friedrichshain",
-    kb_freiluftkino: "Freiluftkino Kreuzberg",
-    rb_freiluftkino: "Freiluftkino Rehberge",
+    fh_freiluftkino: ["Freiluftkino Friedrichshain", "fhain"],
+    kb_freiluftkino: ["Freiluftkino Kreuzberg", "xberg"],
+    rb_freiluftkino: ["Freiluftkino Rehberge", "rehberge"],
   },
   kinoHeld: {
-    581: "freiluftkino-insel-im-cassiopeia",
-    580: "freiluftkino-hasenheide",
-    2153: "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-    1839: "central-kino-open-air",
-    1657: "b-ware-openair-fmp",
-    2339: "b-ware-openairprinzessinnengarten-kollektiv-neukoell",
+    581: ["freiluftkino-insel-im-cassiopeia", "cassiopeia"],
+    580: ["freiluftkino-hasenheide", "hasenheide"],
+    2153: ["freiluftkino-pompeji-open-air-am-ostkreuz-berlin", "pompeji ostkreuz"],
+    1839: ["central-kino-open-air", "central"],
+    1657: ["b-ware-openair-fmp", "fmp"],
+    2339: ["b-ware-openairprinzessinnengarten-kollektiv-neukoell", "prinzessinengärten"],
   },
 };
 
 (async () => {
   try {
     const showsByCinema = {};
-    for (let [id, name] of Object.entries(cinemas.kinoTicketsOnline)) {
+    for (let [id, [name, shortName]] of Object.entries(cinemas.kinoTicketsOnline)) {
       console.log(name);
-      showsByCinema[name] = await getKinoTicketsOnlineCinema(id, name);
+      showsByCinema[name] = await getKinoTicketsOnlineCinema(id, name, shortName);
     }
-    for (let [id, name] of Object.entries(cinemas.kinoHeld)) {
+    for (let [id, [name, shortName]] of Object.entries(cinemas.kinoHeld)) {
       console.log(name);
-      showsByCinema[name] = await getKinoheldCinema(id, name);
+      showsByCinema[name] = await getKinoheldCinema(id, name, shortName);
     }
     await fetch("/create?path=docs/showsByCinema.json", {method: "POST", body: JSON.stringify(showsByCinema, null, 2)});
     console.info("wrote docs/showsByCinema.json");
@@ -34,7 +34,7 @@ const cinemas = {
   }
 })();
 
-async function getKinoheldCinema(cinemaId, cinemaName) {
+async function getKinoheldCinema(cinemaId, cinemaName, cinemaShortName) {
   const result = await fetch(`https://www.kinoheld.de/ajax/getShowsForCinemas?cinemaIds[]=${cinemaId}`).then(r => r.json());
   return Promise.all(result.shows.map(async (show) => {
     const seatResult = await fetch("https://www.kinoheld.de/ajax/getSeats", {
@@ -56,6 +56,7 @@ async function getKinoheldCinema(cinemaId, cinemaName) {
       cinemaId,
       cinemaUrl: `https://www.kinoheld.de/kino-berlin/${cinemaName}/shows/movies`,
       cinemaName,
+      cinemaShortName,
       title: `${show.name} ${show.flags.length ? `(${show.flags.map(flag => flag.name).join(" / ")})` : ""}`,
       date: formatDate(new Date(show.date)),
       timestamp: new Date(show.date + " UTC").getTime(),
@@ -69,7 +70,7 @@ async function getKinoheldCinema(cinemaId, cinemaName) {
   }));
 }
 
-async function getKinoTicketsOnlineCinema(cinemaId, cinemaName) {
+async function getKinoTicketsOnlineCinema(cinemaId, cinemaName, cinemaShortName) {
   const cinemaUrl = `https://kinotickets-online.com/${cinemaId}`;
   const d = await getDocument(cinemaUrl);
   return Promise.all([...d.querySelectorAll("main > div > ul > li")].map(async (li) => {
@@ -83,6 +84,7 @@ async function getKinoTicketsOnlineCinema(cinemaId, cinemaName) {
       cinemaId,
       cinemaUrl,
       cinemaName,
+      cinemaShortName,
       id,
       url,
       img: `https://kinotickets-online.com/${cinemaId}/poster?movieId=${movieId}`,
