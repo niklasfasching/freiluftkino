@@ -11,8 +11,8 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 764,
-      "reserved": 114,
+      "available": 759,
+      "reserved": 119,
       "bookable": true
     },
     {
@@ -41,7 +41,7 @@
       "date": "So., 13.6.",
       "timestamp": 1623619800000,
       "time": "21:30",
-      "available": 326,
+      "available": 320,
       "reserved": 190,
       "bookable": true
     },
@@ -56,8 +56,8 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 595,
-      "reserved": 155,
+      "available": 592,
+      "reserved": 158,
       "bookable": true
     },
     {
@@ -101,8 +101,8 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625247000000,
       "time": "17:30",
-      "available": 478,
-      "reserved": 5,
+      "available": 473,
+      "reserved": 6,
       "bookable": true
     },
     {
@@ -161,7 +161,7 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624052700000,
       "time": "21:45",
-      "available": 118,
+      "available": 112,
       "reserved": 202,
       "bookable": true
     },
@@ -191,7 +191,7 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 42,
+      "available": 38,
       "reserved": 128,
       "bookable": true
     },
@@ -221,8 +221,8 @@
       "date": "Mi., 16.6.",
       "timestamp": 1623879900000,
       "time": "21:45",
-      "available": 372,
-      "reserved": 190,
+      "available": 365,
+      "reserved": 189,
       "bookable": true
     },
     {
@@ -236,7 +236,7 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 132,
+      "available": 122,
       "reserved": 200,
       "bookable": true
     },
@@ -311,7 +311,7 @@
       "date": "Do., 10.6.",
       "timestamp": 1623361500000,
       "time": "21:45",
-      "available": 378,
+      "available": 376,
       "reserved": 170,
       "bookable": true
     },
@@ -326,7 +326,7 @@
       "date": "Mo., 7.6.,",
       "timestamp": 1623101400000,
       "time": "21:30",
-      "available": 47,
+      "available": 41,
       "reserved": 120,
       "bookable": true
     },
@@ -356,8 +356,8 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624296600000,
       "time": "17:30",
-      "available": 107,
-      "reserved": 68,
+      "available": 104,
+      "reserved": 69,
       "bookable": true
     },
     {
@@ -388,8 +388,8 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 209,
-      "reserved": 67,
+      "available": 210,
+      "reserved": 66,
       "bookable": true
     },
     {
@@ -403,8 +403,8 @@
       "date": "Di., 15.6.",
       "timestamp": 1623793500000,
       "time": "21:45",
-      "available": 112,
-      "reserved": 107,
+      "available": 107,
+      "reserved": 108,
       "bookable": true
     },
     {
@@ -418,7 +418,7 @@
       "date": "So., 13.6.",
       "timestamp": 1623619800000,
       "time": "21:30",
-      "available": 18,
+      "available": 6,
       "reserved": 109,
       "bookable": true
     },
@@ -448,7 +448,7 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624052700000,
       "time": "21:45",
-      "available": 212,
+      "available": 206,
       "reserved": 105,
       "bookable": true
     },
@@ -463,8 +463,8 @@
       "date": "Mo., 7.6.,",
       "timestamp": 1623101400000,
       "time": "21:30",
-      "available": 300,
-      "reserved": 30,
+      "available": 293,
+      "reserved": 33,
       "bookable": true
     },
     {
@@ -478,9 +478,9 @@
       "date": "Do., 10.6.",
       "timestamp": 1623360600000,
       "time": "21:30",
-      "available": 2,
-      "reserved": 109,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -508,8 +508,8 @@
       "date": "Mi., 16.6.",
       "timestamp": 1623878100000,
       "time": "21:15",
-      "available": 213,
-      "reserved": 106,
+      "available": 207,
+      "reserved": 108,
       "bookable": true
     },
     {
@@ -538,7 +538,7 @@
       "date": "So., 13.6.",
       "timestamp": 1623596400000,
       "time": "15:00",
-      "available": 128,
+      "available": 124,
       "reserved": 84,
       "bookable": true
     },
@@ -568,7 +568,7 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 72,
+      "available": 66,
       "reserved": 109,
       "bookable": true
     },
@@ -598,8 +598,8 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 353,
-      "reserved": 84,
+      "available": 352,
+      "reserved": 85,
       "bookable": true
     },
     {
@@ -645,7 +645,7 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 343,
+      "available": 335,
       "reserved": 77,
       "bookable": true
     },
@@ -675,7 +675,7 @@
       "date": "Fr., 11.6.",
       "timestamp": 1623447000000,
       "time": "21:30",
-      "available": 267,
+      "available": 265,
       "reserved": 85,
       "bookable": true
     },
@@ -690,7 +690,7 @@
       "date": "Do., 10.6.",
       "timestamp": 1623360600000,
       "time": "21:30",
-      "available": 144,
+      "available": 132,
       "reserved": 88,
       "bookable": true
     },
@@ -750,7 +750,7 @@
       "date": "So., 13.6.",
       "timestamp": 1623619800000,
       "time": "21:30",
-      "available": 290,
+      "available": 280,
       "reserved": 80,
       "bookable": true
     },
@@ -780,8 +780,8 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 157,
-      "reserved": 38,
+      "available": 149,
+      "reserved": 40,
       "bookable": true
     },
     {
@@ -795,7 +795,7 @@
       "date": "Mi., 9.6.,",
       "timestamp": 1623274200000,
       "time": "21:30",
-      "available": 212,
+      "available": 194,
       "reserved": 88,
       "bookable": true
     },
@@ -810,7 +810,7 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624052700000,
       "time": "21:45",
-      "available": 230,
+      "available": 228,
       "reserved": 88,
       "bookable": true
     },
@@ -840,8 +840,8 @@
       "date": "Sa., 12.6.",
       "timestamp": 1623533400000,
       "time": "21:30",
-      "available": 191,
-      "reserved": 83,
+      "available": 184,
+      "reserved": 84,
       "bookable": true
     },
     {
@@ -855,7 +855,7 @@
       "date": "Mo., 7.6.,",
       "timestamp": 1623101400000,
       "time": "21:30",
-      "available": 271,
+      "available": 263,
       "reserved": 30,
       "bookable": true
     },
@@ -870,7 +870,7 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 291,
+      "available": 289,
       "reserved": 85,
       "bookable": true
     }
@@ -924,9 +924,9 @@
       "timestamp": 1623196800000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689278?layout=shows",
-      "available": 3,
-      "reserved": 689,
-      "bookable": true
+      "available": 0,
+      "reserved": 692,
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1171,8 +1171,8 @@
       "timestamp": 1623974400000,
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689280?layout=shows",
-      "available": 34,
-      "reserved": 658,
+      "available": 33,
+      "reserved": 659,
       "bookable": true
     },
     {
@@ -1223,8 +1223,8 @@
       "timestamp": 1624147200000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689443?layout=shows",
-      "available": 335,
-      "reserved": 357,
+      "available": 311,
+      "reserved": 381,
       "bookable": true
     },
     {
@@ -1236,8 +1236,8 @@
       "timestamp": 1624233600000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689213?layout=shows",
-      "available": 270,
-      "reserved": 636,
+      "available": 266,
+      "reserved": 640,
       "bookable": true
     },
     {
@@ -1250,8 +1250,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689214?layout=shows",
       "img": "https://media.kinoheld.de/-cASM57C_8QvBMUF1C9-PQUtw_0=/200x280/images%2Ffilm%2Fpush-fuer-das-grundrecht-auf-wohnen-13187.v5.jpg",
-      "available": 339,
-      "reserved": 567,
+      "available": 331,
+      "reserved": 575,
       "bookable": true
     },
     {
@@ -1537,6 +1537,104 @@
       "available": 25,
       "reserved": 34,
       "bookable": true
+    },
+    {
+      "cinemaId": "1839",
+      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
+      "cinemaName": "central-kino-open-air",
+      "title": "open air: A Star is born (subtitled OV German)",
+      "date": "Do., 10.6.",
+      "timestamp": 1623283200000,
+      "time": "21:30",
+      "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385350398?layout=shows",
+      "img": "https://media.kinoheld.de/jDPKyoVfE8B_qSIW8j_xMweyaKc=/200x280/images%2Ffilm%2F4%2Fa-star-is-born-12217.v104.jpg",
+      "available": 59,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "1839",
+      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
+      "cinemaName": "central-kino-open-air",
+      "title": "open air: Bohemian Rhapsody (subtitled OV German)",
+      "date": "Fr., 11.6.",
+      "timestamp": 1623369600000,
+      "time": "21:30",
+      "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385350422?layout=shows",
+      "img": "https://media.kinoheld.de/ld9VT137N-QRLhfe82KrayO4y0s=/200x280/images%2Ffilm%2Fbohemian-rhapsody-10842.v1.png",
+      "available": 57,
+      "reserved": 2,
+      "bookable": true
+    },
+    {
+      "cinemaId": "1839",
+      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
+      "cinemaName": "central-kino-open-air",
+      "title": "open air: Léon: der Profi (subtitled OV German)",
+      "date": "Sa., 12.6.",
+      "timestamp": 1623456000000,
+      "time": "21:30",
+      "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385350446?layout=shows",
+      "img": "https://media.kinoheld.de/wb4107iSfXDyqHvB0bnTiKgk-Z0=/200x280/images%2Ffilm%2Fleon-der-profi-wa-2019-14361.v11.jpg",
+      "available": 59,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "1839",
+      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
+      "cinemaName": "central-kino-open-air",
+      "title": "open air: Jojo Rabbit (subtitled OV German)",
+      "date": "So., 13.6.",
+      "timestamp": 1623542400000,
+      "time": "21:30",
+      "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385350470?layout=shows",
+      "img": "https://media.kinoheld.de/_5mTSNp2cf3Ev19wpKDKKF4tM4U=/200x280/images%2Ffilm%2Fjojo-rabbit-15227.v162.jpg",
+      "available": 59,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "1839",
+      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
+      "cinemaName": "central-kino-open-air",
+      "title": "open air: Jean Seberg - Against all Enemies (subtitled OV German)",
+      "date": "Mo., 14.6.",
+      "timestamp": 1623628800000,
+      "time": "21:30",
+      "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385350494?layout=shows",
+      "img": "https://media.kinoheld.de/CsuoIVKzjO-eKdXx7kEO2fKrrbo=/200x280/images%2Ffilm%2Fseberg-16347.v156.jpg",
+      "available": 59,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "1839",
+      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
+      "cinemaName": "central-kino-open-air",
+      "title": "open air: Shoplifters (subtitled OV)",
+      "date": "Di., 15.6.",
+      "timestamp": 1623715200000,
+      "time": "21:30",
+      "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385350518?layout=shows",
+      "img": "https://media.kinoheld.de/omNdKbLfk02-DYDQDMJxFzVv4Xs=/200x280/images%2Ffilm%2Fshoplifters-familienbande-11080.v2.jpg",
+      "available": 59,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "1839",
+      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
+      "cinemaName": "central-kino-open-air",
+      "title": "open air: Spring Breakers (subtitled OV German)",
+      "date": "Mi., 16.6.",
+      "timestamp": 1623801600000,
+      "time": "21:30",
+      "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385350542?layout=shows",
+      "img": "https://media.kinoheld.de/m-2cuSW9YGl7pEwPOvZx7ITfjKM=/200x280/images%2Ffilm%2F4%2Fspring-breakers-395.v1.jpg",
+      "available": 59,
+      "reserved": 0,
+      "bookable": true
     }
   ],
   "freiluftkino-pompeji-open-air-am-ostkreuz-berlin": [
@@ -1630,9 +1728,9 @@
       "timestamp": 1623542400000,
       "time": "22:00",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2381102315?layout=shows",
-      "available": 0,
-      "reserved": 115,
-      "bookable": false
+      "available": 2,
+      "reserved": 113,
+      "bookable": true
     },
     {
       "cinemaId": "2153",
@@ -1695,9 +1793,9 @@
       "timestamp": 1623974400000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2381102355?layout=shows",
-      "available": 0,
-      "reserved": 115,
-      "bookable": false
+      "available": 1,
+      "reserved": 114,
+      "bookable": true
     },
     {
       "cinemaId": "2153",
@@ -1722,9 +1820,9 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2381102367?layout=shows",
       "img": "https://media.kinoheld.de/gWsMhcB0cCMhAaMc8MBhIQR2-JM=/200x280/images%2Ffilm%2Fherr-bachmann-und-seine-klasse-19045.v1.jpg",
-      "available": 2,
-      "reserved": 113,
-      "bookable": true
+      "available": 0,
+      "reserved": 115,
+      "bookable": false
     },
     {
       "cinemaId": "2153",
