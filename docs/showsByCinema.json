@@ -44,8 +44,8 @@
       "date": "So., 13.6.",
       "timestamp": 1623619800000,
       "time": "21:30",
-      "available": 247,
-      "reserved": 197,
+      "available": 238,
+      "reserved": 198,
       "bookable": true
     },
     {
@@ -60,8 +60,8 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 530,
-      "reserved": 166,
+      "available": 529,
+      "reserved": 165,
       "bookable": true
     },
     {
@@ -124,8 +124,8 @@
       "date": "So., 11.7.",
       "timestamp": 1626024600000,
       "time": "17:30",
-      "available": 416,
-      "reserved": 45,
+      "available": 408,
+      "reserved": 47,
       "bookable": true
     },
     {
@@ -236,7 +236,7 @@
       "date": "Mi., 16.6.",
       "timestamp": 1623879900000,
       "time": "21:45",
-      "available": 321,
+      "available": 319,
       "reserved": 191,
       "bookable": true
     },
@@ -252,7 +252,7 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 54,
+      "available": 44,
       "reserved": 202,
       "bookable": true
     },
@@ -414,7 +414,7 @@
       "date": "Di., 15.6.",
       "timestamp": 1623793500000,
       "time": "21:45",
-      "available": 56,
+      "available": 54,
       "reserved": 109,
       "bookable": true
     },
@@ -462,7 +462,7 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624052700000,
       "time": "21:45",
-      "available": 192,
+      "available": 190,
       "reserved": 105,
       "bookable": true
     },
@@ -510,7 +510,7 @@
       "date": "Mi., 16.6.",
       "timestamp": 1623878100000,
       "time": "21:15",
-      "available": 174,
+      "available": 168,
       "reserved": 109,
       "bookable": true
     },
@@ -526,8 +526,8 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 406,
-      "reserved": 91,
+      "available": 405,
+      "reserved": 92,
       "bookable": true
     },
     {
@@ -656,7 +656,7 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 322,
+      "available": 318,
       "reserved": 78,
       "bookable": true
     },
@@ -704,7 +704,7 @@
       "date": "Do., 10.6.",
       "timestamp": 1623360600000,
       "time": "21:30",
-      "available": 106,
+      "available": 102,
       "reserved": 88,
       "bookable": true
     },
@@ -736,7 +736,7 @@
       "date": "Di., 15.6.",
       "timestamp": 1623793500000,
       "time": "21:45",
-      "available": 419,
+      "available": 417,
       "reserved": 77,
       "bookable": true
     },
@@ -768,7 +768,7 @@
       "date": "So., 13.6.",
       "timestamp": 1623619800000,
       "time": "21:30",
-      "available": 272,
+      "available": 270,
       "reserved": 80,
       "bookable": true
     },
@@ -800,7 +800,7 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 79,
+      "available": 63,
       "reserved": 48,
       "bookable": true
     },
@@ -816,7 +816,7 @@
       "date": "Mi., 9.6.,",
       "timestamp": 1623274200000,
       "time": "21:30",
-      "available": 142,
+      "available": 140,
       "reserved": 88,
       "bookable": true
     },
@@ -832,7 +832,7 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624052700000,
       "time": "21:45",
-      "available": 206,
+      "available": 204,
       "reserved": 88,
       "bookable": true
     },
@@ -864,7 +864,7 @@
       "date": "Sa., 12.6.",
       "timestamp": 1623533400000,
       "time": "21:30",
-      "available": 143,
+      "available": 139,
       "reserved": 85,
       "bookable": true
     },
@@ -891,25 +891,13 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
       "cinemaName": "freiluftkino-hasenheide",
       "cinemaShortName": "hasenheide",
-      "title": "Ton Steine Scherben: Tour 83 ",
-      "date": "Mo., 7.6.,",
-      "timestamp": 1623024000000,
-      "time": "21:45",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689211?layout=shows",
-      "bookable": false
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
       "title": "WdK: Letter from...+FREIZEIT oder... ",
       "date": "Di., 8.6.,",
       "timestamp": 1623110400000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689212?layout=shows",
-      "available": 145,
-      "reserved": 151,
+      "available": 141,
+      "reserved": 155,
       "bookable": true
     },
     {
@@ -1130,8 +1118,8 @@
       "timestamp": 1623801600000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689277?layout=shows",
-      "available": 30,
-      "reserved": 182,
+      "available": 26,
+      "reserved": 184,
       "bookable": true
     },
     {
@@ -1157,8 +1145,8 @@
       "timestamp": 1623888000000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689279?layout=shows",
-      "available": 41,
-      "reserved": 179,
+      "available": 38,
+      "reserved": 180,
       "bookable": true
     },
     {
@@ -1251,8 +1239,8 @@
       "timestamp": 1624233600000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689213?layout=shows",
-      "available": 252,
-      "reserved": 96,
+      "available": 248,
+      "reserved": 98,
       "bookable": true
     },
     {
@@ -1281,8 +1269,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689215?layout=shows",
       "img": "https://media.kinoheld.de/j_JYVvDLSJVxf2feS_0qK6EwZt4=/200x280/images%2Ffilm%2Flittle-women-15673.v353.jpg",
-      "available": 270,
-      "reserved": 85,
+      "available": 266,
+      "reserved": 87,
       "bookable": true
     }
   ],
@@ -1519,19 +1507,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
       "cinemaName": "central-kino-open-air",
       "cinemaShortName": "central",
-      "title": "open air: Suspiria (subtitled OV German)",
-      "date": "Mo., 7.6.,",
-      "timestamp": 1623024000000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2380033318?layout=shows",
-      "img": "https://media.kinoheld.de/TFWEdC3z7fy4pR6Uo6x0KVhPQnM=/200x280/images%2Ffilm%2F4%2Fsuspiria-11018.v8.jpg",
-      "bookable": false
-    },
-    {
-      "cinemaId": "1839",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
-      "cinemaName": "central-kino-open-air",
-      "cinemaShortName": "central",
       "title": "open air: Under the Skin (subtitled OV German)",
       "date": "Di., 8.6.,",
       "timestamp": 1623110400000,
@@ -1756,19 +1731,6 @@
     }
   ],
   "freiluftkino-pompeji-open-air-am-ostkreuz-berlin": [
-    {
-      "cinemaId": "2153",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-      "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-      "cinemaShortName": "pompeji ostkreuz",
-      "title": "SCHLINGENSIEF - IN DAS SCHWEIGEN HINEINSCHREIEN (subtitled OV English)",
-      "date": "Mo., 7.6.,",
-      "timestamp": 1623024000000,
-      "time": "21:45",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2380929434?layout=shows",
-      "img": "https://media.kinoheld.de/CB9ZQupiLYa6ncCZ_dv-2YSN_74=/200x280/images%2Ffilm%2Fschlingensief-in-das-schweigen-hineinschreien-16431.v164.jpg",
-      "bookable": false
-    },
     {
       "cinemaId": "2153",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
