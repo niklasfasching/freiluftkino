@@ -11,7 +11,7 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 759,
+      "available": 757,
       "reserved": 119,
       "bookable": true
     },
@@ -26,8 +26,8 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624651200000,
       "time": "20:00",
-      "available": 211,
-      "reserved": 115,
+      "available": 202,
+      "reserved": 116,
       "bookable": true
     },
     {
@@ -41,7 +41,7 @@
       "date": "So., 13.6.",
       "timestamp": 1623619800000,
       "time": "21:30",
-      "available": 319,
+      "available": 311,
       "reserved": 191,
       "bookable": true
     },
@@ -56,7 +56,7 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 587,
+      "available": 579,
       "reserved": 161,
       "bookable": true
     },
@@ -161,7 +161,7 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624052700000,
       "time": "21:45",
-      "available": 104,
+      "available": 102,
       "reserved": 202,
       "bookable": true
     },
@@ -191,8 +191,8 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 30,
-      "reserved": 136,
+      "available": 24,
+      "reserved": 140,
       "bookable": true
     },
     {
@@ -206,8 +206,8 @@
       "date": "Di., 15.6.",
       "timestamp": 1623793500000,
       "time": "21:45",
-      "available": 578,
-      "reserved": 142,
+      "available": 574,
+      "reserved": 144,
       "bookable": true
     },
     {
@@ -221,8 +221,8 @@
       "date": "Mi., 16.6.",
       "timestamp": 1623879900000,
       "time": "21:45",
-      "available": 361,
-      "reserved": 189,
+      "available": 352,
+      "reserved": 190,
       "bookable": true
     },
     {
@@ -236,8 +236,8 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 118,
-      "reserved": 200,
+      "available": 115,
+      "reserved": 201,
       "bookable": true
     },
     {
@@ -311,8 +311,8 @@
       "date": "Do., 10.6.",
       "timestamp": 1623361500000,
       "time": "21:45",
-      "available": 371,
-      "reserved": 171,
+      "available": 361,
+      "reserved": 177,
       "bookable": true
     },
     {
@@ -341,8 +341,8 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624037400000,
       "time": "17:30",
-      "available": 344,
-      "reserved": 1,
+      "available": 340,
+      "reserved": 3,
       "bookable": true
     },
     {
@@ -388,7 +388,7 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 207,
+      "available": 205,
       "reserved": 67,
       "bookable": true
     },
@@ -403,8 +403,8 @@
       "date": "Di., 15.6.",
       "timestamp": 1623793500000,
       "time": "21:45",
-      "available": 97,
-      "reserved": 108,
+      "available": 94,
+      "reserved": 109,
       "bookable": true
     },
     {
@@ -463,8 +463,8 @@
       "date": "Mo., 7.6.,",
       "timestamp": 1623101400000,
       "time": "21:30",
-      "available": 291,
-      "reserved": 33,
+      "available": 288,
+      "reserved": 34,
       "bookable": true
     },
     {
@@ -508,7 +508,7 @@
       "date": "Mi., 16.6.",
       "timestamp": 1623878100000,
       "time": "21:15",
-      "available": 207,
+      "available": 205,
       "reserved": 108,
       "bookable": true
     },
@@ -598,7 +598,7 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 352,
+      "available": 348,
       "reserved": 85,
       "bookable": true
     },
@@ -645,8 +645,8 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 335,
-      "reserved": 77,
+      "available": 334,
+      "reserved": 78,
       "bookable": true
     },
     {
@@ -735,8 +735,8 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 365,
-      "reserved": 71,
+      "available": 360,
+      "reserved": 72,
       "bookable": true
     },
     {
@@ -795,7 +795,7 @@
       "date": "Mi., 9.6.,",
       "timestamp": 1623274200000,
       "time": "21:30",
-      "available": 194,
+      "available": 192,
       "reserved": 88,
       "bookable": true
     },
@@ -810,7 +810,7 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624052700000,
       "time": "21:45",
-      "available": 228,
+      "available": 226,
       "reserved": 88,
       "bookable": true
     },
@@ -855,8 +855,8 @@
       "date": "Mo., 7.6.,",
       "timestamp": 1623101400000,
       "time": "21:30",
-      "available": 252,
-      "reserved": 31,
+      "available": 244,
+      "reserved": 33,
       "bookable": true
     },
     {
@@ -870,8 +870,8 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 286,
-      "reserved": 86,
+      "available": 281,
+      "reserved": 87,
       "bookable": true
     }
   ],
@@ -1119,8 +1119,8 @@
       "timestamp": 1623801600000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689277?layout=shows",
-      "available": 61,
-      "reserved": 631,
+      "available": 52,
+      "reserved": 640,
       "bookable": true
     },
     {
@@ -1250,8 +1250,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689214?layout=shows",
       "img": "https://media.kinoheld.de/-cASM57C_8QvBMUF1C9-PQUtw_0=/200x280/images%2Ffilm%2Fpush-fuer-das-grundrecht-auf-wohnen-13187.v5.jpg",
-      "available": 331,
-      "reserved": 575,
+      "available": 323,
+      "reserved": 583,
       "bookable": true
     },
     {
@@ -1604,8 +1604,8 @@
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385350494?layout=shows",
       "img": "https://media.kinoheld.de/CsuoIVKzjO-eKdXx7kEO2fKrrbo=/200x280/images%2Ffilm%2Fseberg-16347.v156.jpg",
-      "available": 59,
-      "reserved": 0,
+      "available": 57,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -1715,9 +1715,9 @@
       "timestamp": 1623456000000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2381102309?layout=shows",
-      "available": 0,
-      "reserved": 115,
-      "bookable": false
+      "available": 2,
+      "reserved": 113,
+      "bookable": true
     },
     {
       "cinemaId": "2153",
