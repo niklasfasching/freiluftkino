@@ -28,8 +28,8 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624651200000,
       "time": "20:00",
-      "available": 175,
-      "reserved": 121,
+      "available": 171,
+      "reserved": 123,
       "bookable": true
     },
     {
@@ -60,7 +60,7 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 526,
+      "available": 524,
       "reserved": 166,
       "bookable": true
     },
@@ -332,7 +332,7 @@
       "date": "Do., 10.6.",
       "timestamp": 1623361500000,
       "time": "21:45",
-      "available": 272,
+      "available": 268,
       "reserved": 184,
       "bookable": true
     },
@@ -414,7 +414,7 @@
       "date": "Di., 15.6.",
       "timestamp": 1623793500000,
       "time": "21:45",
-      "available": 56,
+      "available": 52,
       "reserved": 109,
       "bookable": true
     },
@@ -462,7 +462,7 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624052700000,
       "time": "21:45",
-      "available": 190,
+      "available": 188,
       "reserved": 105,
       "bookable": true
     },
@@ -542,8 +542,8 @@
       "date": "So., 13.6.",
       "timestamp": 1623596400000,
       "time": "15:00",
-      "available": 82,
-      "reserved": 94,
+      "available": 81,
+      "reserved": 95,
       "bookable": true
     },
     {
@@ -1145,7 +1145,7 @@
       "timestamp": 1623888000000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689279?layout=shows",
-      "available": 38,
+      "available": 30,
       "reserved": 180,
       "bookable": true
     },
@@ -1269,7 +1269,7 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689215?layout=shows",
       "img": "https://media.kinoheld.de/lBkg2xXZF9guvDJzqjb2CT024Es=/200x280/images%2Ffilm%2Flittle-women-15673.v355.jpg",
-      "available": 266,
+      "available": 262,
       "reserved": 87,
       "bookable": true
     }
@@ -1614,8 +1614,8 @@
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385350518?layout=shows",
       "img": "https://media.kinoheld.de/omNdKbLfk02-DYDQDMJxFzVv4Xs=/200x280/images%2Ffilm%2Fshoplifters-familienbande-11080.v2.jpg",
-      "available": 55,
-      "reserved": 2,
+      "available": 51,
+      "reserved": 4,
       "bookable": true
     },
     {
