@@ -12,20 +12,22 @@ jobs:
     env:
       HEADLESS_EXECUTABLE: google-chrome
     steps:
-    - name: headless
+    - name: dependencies
       run: |
         sudo snap install go --classic
         go get github.com/niklasfasching/headless/
         go install github.com/niklasfasching/headless/cmd/headless@latest
+        pip3 install GitPython
     - name: git
       run: |
-        git clone --depth 1 "https://x-access-token:${{secrets.GITHUB_TOKEN}}@github.com/${GITHUB_REPOSITORY}" .
+        git clone "https://x-access-token:${{secrets.GITHUB_TOKEN}}@github.com/${GITHUB_REPOSITORY}" .
         git config user.name "GitHub Action"
         git config user.email "action@github.com"
         git log -1 --format="%H"
     - name: run
       run: |
         ~/go/bin/headless -b "--disable-web-security" -fs scrape.mjs
+        python3 post_process.py
         git add -A && git commit -m "Update data" || echo "No changes to commit"
         git push
     - name: notify
