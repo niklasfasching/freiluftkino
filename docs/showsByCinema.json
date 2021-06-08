@@ -44,7 +44,7 @@
       "date": "So., 13.6.",
       "timestamp": 1623619800000,
       "time": "21:30",
-      "available": 70,
+      "available": 66,
       "reserved": 202,
       "bookable": true
     },
@@ -60,7 +60,7 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 475,
+      "available": 473,
       "reserved": 175,
       "bookable": true
     },
@@ -384,7 +384,7 @@
       "time": "21:45",
       "available": 0,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -400,7 +400,7 @@
       "time": "21:30",
       "available": 0,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -416,7 +416,7 @@
       "time": "21:30",
       "available": 0,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -430,8 +430,8 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624052700000,
       "time": "21:45",
-      "available": 159,
-      "reserved": 106,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -448,7 +448,7 @@
       "time": "21:30",
       "available": 0,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -464,7 +464,7 @@
       "time": "21:30",
       "available": 0,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -478,8 +478,8 @@
       "date": "Mi., 16.6.",
       "timestamp": 1623878100000,
       "time": "21:15",
-      "available": 124,
-      "reserved": 109,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -494,8 +494,8 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 379,
-      "reserved": 92,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -510,8 +510,8 @@
       "date": "So., 13.6.",
       "timestamp": 1623596400000,
       "time": "15:00",
-      "available": 44,
-      "reserved": 98,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -528,7 +528,7 @@
       "time": "21:30",
       "available": 0,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -542,8 +542,8 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 14,
-      "reserved": 109,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -558,7 +558,7 @@
       "date": "Do., 10.6.",
       "timestamp": 1623335400000,
       "time": "14:30",
-      "available": 579,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -574,8 +574,8 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 308,
-      "reserved": 89,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -592,7 +592,7 @@
       "time": "21:30",
       "available": 0,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     }
   ],
   "Freiluftkino Rehberge": [
@@ -672,7 +672,7 @@
       "date": "Do., 10.6.",
       "timestamp": 1623360600000,
       "time": "21:30",
-      "available": 48,
+      "available": 46,
       "reserved": 88,
       "bookable": true
     },
@@ -704,7 +704,7 @@
       "date": "Di., 15.6.",
       "timestamp": 1623793500000,
       "time": "21:45",
-      "available": 397,
+      "available": 393,
       "reserved": 79,
       "bookable": true
     },
@@ -832,24 +832,12 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 198,
+      "available": 200,
       "reserved": 88,
       "bookable": true
     }
   ],
   "freiluftkino-hasenheide": [
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "title": "WdK: Letter from...+FREIZEIT oder... ",
-      "date": "Di., 8.6.,",
-      "timestamp": 1623110400000,
-      "time": "21:45",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689212?layout=shows",
-      "bookable": false
-    },
     {
       "cinemaId": "580",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
@@ -1230,19 +1218,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
       "cinemaName": "b-ware-openair-fmp",
       "cinemaShortName": "fmp",
-      "title": "BE NATURAL: DIE UNERZÄHLTE GESCHICHTE VON ALICE GUY-BLACHÉ - FILM PREVIEW (subtitled OV)",
-      "date": "Di., 8.6.,",
-      "timestamp": 1623110400000,
-      "time": "21:45",
-      "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2382052475?layout=shows",
-      "img": "https://media.kinoheld.de/a_0w_02H6prbtaJNQyhdNtWg8iA=/200x280/images%2Ffilm%2Fbe-natural-sei-du-selbst-die-filmpionierin-alice-guy-blache-18913.v1.jpg",
-      "bookable": false
-    },
-    {
-      "cinemaId": "1657",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
-      "cinemaName": "b-ware-openair-fmp",
-      "cinemaShortName": "fmp",
       "title": "PERSISCHSTUNDEN ",
       "date": "Mi., 9.6.,",
       "timestamp": 1623196800000,
@@ -1450,18 +1425,6 @@
     }
   ],
   "central-kino-open-air": [
-    {
-      "cinemaId": "1839",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
-      "cinemaName": "central-kino-open-air",
-      "cinemaShortName": "central",
-      "title": "open air: Under the Skin (subtitled OV German)",
-      "date": "Di., 8.6.,",
-      "timestamp": 1623110400000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2380033341?layout=shows",
-      "bookable": false
-    },
     {
       "cinemaId": "1839",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
@@ -1680,19 +1643,6 @@
     }
   ],
   "freiluftkino-pompeji-open-air-am-ostkreuz-berlin": [
-    {
-      "cinemaId": "2153",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-      "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-      "cinemaShortName": "pompeji ostkreuz",
-      "title": "SCHWESTERLEIN ",
-      "date": "Di., 8.6.,",
-      "timestamp": 1623110400000,
-      "time": "21:45",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2380929442?layout=shows",
-      "img": "https://media.kinoheld.de/PKQ3ObX6zVdwBbaM3nBMczidxQs=/200x280/images%2Ffilm%2Fschwesterlein-17561.v63.jpg",
-      "bookable": false
-    },
     {
       "cinemaId": "2153",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
