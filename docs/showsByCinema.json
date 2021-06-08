@@ -12,7 +12,7 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 695,
+      "available": 691,
       "reserved": 135,
       "bookable": true
     },
@@ -28,7 +28,7 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624651200000,
       "time": "20:00",
-      "available": 156,
+      "available": 154,
       "reserved": 124,
       "bookable": true
     },
@@ -44,7 +44,7 @@
       "date": "So., 13.6.",
       "timestamp": 1623619800000,
       "time": "21:30",
-      "available": 114,
+      "available": 104,
       "reserved": 202,
       "bookable": true
     },
@@ -60,8 +60,8 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 496,
-      "reserved": 172,
+      "available": 489,
+      "reserved": 173,
       "bookable": true
     },
     {
@@ -92,7 +92,7 @@
       "date": "So., 22.8.",
       "timestamp": 1629649800000,
       "time": "16:30",
-      "available": 513,
+      "available": 515,
       "reserved": 0,
       "bookable": true
     },
@@ -108,8 +108,8 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625247000000,
       "time": "17:30",
-      "available": 436,
-      "reserved": 7,
+      "available": 429,
+      "reserved": 8,
       "bookable": true
     },
     {
@@ -197,22 +197,6 @@
       "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
       "cinemaName": "Freiluftkino Friedrichshain",
       "cinemaShortName": "fhain",
-      "id": "647",
-      "url": "https://kinotickets-online.com/fh_freiluftkino/seats/647",
-      "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=636",
-      "title": "Neues aus der Welt",
-      "date": "Di., 8.6.,",
-      "timestamp": 1623187800000,
-      "time": "21:30",
-      "available": 14,
-      "reserved": 144,
-      "bookable": true
-    },
-    {
-      "cinemaId": "fh_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
-      "cinemaName": "Freiluftkino Friedrichshain",
-      "cinemaShortName": "fhain",
       "id": "655",
       "url": "https://kinotickets-online.com/fh_freiluftkino/seats/655",
       "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=644",
@@ -236,8 +220,8 @@
       "date": "Mi., 16.6.",
       "timestamp": 1623879900000,
       "time": "21:45",
-      "available": 285,
-      "reserved": 195,
+      "available": 278,
+      "reserved": 196,
       "bookable": true
     },
     {
@@ -332,8 +316,8 @@
       "date": "Do., 10.6.",
       "timestamp": 1623361500000,
       "time": "21:45",
-      "available": 188,
-      "reserved": 192,
+      "available": 177,
+      "reserved": 193,
       "bookable": true
     },
     {
@@ -348,8 +332,8 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624037400000,
       "time": "17:30",
-      "available": 160,
-      "reserved": 45,
+      "available": 155,
+      "reserved": 48,
       "bookable": true
     },
     {
@@ -380,28 +364,12 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624024800000,
       "time": "14:00",
-      "available": 351,
-      "reserved": 16,
+      "available": 340,
+      "reserved": 23,
       "bookable": true
     }
   ],
   "Freiluftkino Kreuzberg": [
-    {
-      "cinemaId": "kb_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
-      "cinemaName": "Freiluftkino Kreuzberg",
-      "cinemaShortName": "xberg",
-      "id": "584",
-      "url": "https://kinotickets-online.com/kb_freiluftkino/seats/584",
-      "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=574",
-      "title": "50 Jahre Scherben",
-      "date": "Di., 8.6.,",
-      "timestamp": 1623187800000,
-      "time": "21:30",
-      "available": 102,
-      "reserved": 80,
-      "bookable": true
-    },
     {
       "cinemaId": "kb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
@@ -414,7 +382,7 @@
       "date": "Di., 15.6.",
       "timestamp": 1623793500000,
       "time": "21:45",
-      "available": 12,
+      "available": 10,
       "reserved": 109,
       "bookable": true
     },
@@ -462,7 +430,7 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624052700000,
       "time": "21:45",
-      "available": 167,
+      "available": 165,
       "reserved": 106,
       "bookable": true
     },
@@ -526,7 +494,7 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 387,
+      "available": 385,
       "reserved": 92,
       "bookable": true
     },
@@ -574,7 +542,7 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 24,
+      "available": 20,
       "reserved": 109,
       "bookable": true
     },
@@ -688,7 +656,7 @@
       "date": "Fr., 11.6.",
       "timestamp": 1623447000000,
       "time": "21:30",
-      "available": 197,
+      "available": 193,
       "reserved": 85,
       "bookable": true
     },
@@ -704,7 +672,7 @@
       "date": "Do., 10.6.",
       "timestamp": 1623360600000,
       "time": "21:30",
-      "available": 58,
+      "available": 56,
       "reserved": 88,
       "bookable": true
     },
@@ -793,22 +761,6 @@
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
       "cinemaShortName": "rehberge",
-      "id": "569",
-      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/569",
-      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=552",
-      "title": "Shining",
-      "date": "Di., 8.6.,",
-      "timestamp": 1623187800000,
-      "time": "21:30",
-      "available": 12,
-      "reserved": 53,
-      "bookable": true
-    },
-    {
-      "cinemaId": "rb_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
-      "cinemaName": "Freiluftkino Rehberge",
-      "cinemaShortName": "rehberge",
       "id": "570",
       "url": "https://kinotickets-online.com/rb_freiluftkino/seats/570",
       "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=553",
@@ -816,7 +768,7 @@
       "date": "Mi., 9.6.,",
       "timestamp": 1623274200000,
       "time": "21:30",
-      "available": 90,
+      "available": 88,
       "reserved": 88,
       "bookable": true
     },
@@ -832,7 +784,7 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624052700000,
       "time": "21:45",
-      "available": 186,
+      "available": 184,
       "reserved": 88,
       "bookable": true
     },
@@ -880,7 +832,7 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 210,
+      "available": 206,
       "reserved": 88,
       "bookable": true
     }
@@ -1224,8 +1176,8 @@
       "timestamp": 1624147200000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689443?layout=shows",
-      "available": 213,
-      "reserved": 115,
+      "available": 205,
+      "reserved": 117,
       "bookable": true
     },
     {
@@ -1238,8 +1190,8 @@
       "timestamp": 1624233600000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689213?layout=shows",
-      "available": 244,
-      "reserved": 100,
+      "available": 242,
+      "reserved": 102,
       "bookable": true
     },
     {
@@ -1268,8 +1220,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689215?layout=shows",
       "img": "https://media.kinoheld.de/lBkg2xXZF9guvDJzqjb2CT024Es=/200x280/images%2Ffilm%2Flittle-women-15673.v355.jpg",
-      "available": 236,
-      "reserved": 103,
+      "available": 232,
+      "reserved": 105,
       "bookable": true
     }
   ],
@@ -1511,8 +1463,7 @@
       "timestamp": 1623110400000,
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2380033341?layout=shows",
-      "reserved": 31,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "1839",
@@ -1570,7 +1521,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385350446?layout=shows",
       "img": "https://media.kinoheld.de/wb4107iSfXDyqHvB0bnTiKgk-Z0=/200x280/images%2Ffilm%2Fleon-der-profi-wa-2019-14361.v11.jpg",
       "available": 8,
-      "reserved": 28,
+      "reserved": 29,
       "bookable": true
     },
     {
@@ -1888,8 +1839,9 @@
       "timestamp": 1624060800000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2381102361?layout=shows",
-      "reserved": 105,
-      "bookable": false
+      "available": 2,
+      "reserved": 103,
+      "bookable": true
     },
     {
       "cinemaId": "2153",
