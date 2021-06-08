@@ -13,7 +13,7 @@
       "timestamp": 1623707100000,
       "time": "21:45",
       "available": 720,
-      "reserved": 128,
+      "reserved": 126,
       "bookable": true
     },
     {
@@ -44,7 +44,7 @@
       "date": "So., 13.6.",
       "timestamp": 1623619800000,
       "time": "21:30",
-      "available": 222,
+      "available": 216,
       "reserved": 198,
       "bookable": true
     },
@@ -124,7 +124,7 @@
       "date": "So., 11.7.",
       "timestamp": 1626024600000,
       "time": "17:30",
-      "available": 400,
+      "available": 402,
       "reserved": 47,
       "bookable": true
     },
@@ -172,7 +172,7 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624052700000,
       "time": "21:45",
-      "available": 50,
+      "available": 46,
       "reserved": 202,
       "bookable": true
     },
@@ -252,7 +252,7 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 26,
+      "available": 24,
       "reserved": 202,
       "bookable": true
     },
@@ -332,7 +332,7 @@
       "date": "Do., 10.6.",
       "timestamp": 1623361500000,
       "time": "21:45",
-      "available": 250,
+      "available": 242,
       "reserved": 184,
       "bookable": true
     },
@@ -348,7 +348,7 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624037400000,
       "time": "17:30",
-      "available": 252,
+      "available": 242,
       "reserved": 13,
       "bookable": true
     },
@@ -364,7 +364,7 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624296600000,
       "time": "17:30",
-      "available": 99,
+      "available": 97,
       "reserved": 70,
       "bookable": true
     },
@@ -380,8 +380,8 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624024800000,
       "time": "14:00",
-      "available": 392,
-      "reserved": 1,
+      "available": 389,
+      "reserved": 2,
       "bookable": true
     }
   ],
@@ -398,7 +398,7 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 162,
+      "available": 158,
       "reserved": 76,
       "bookable": true
     },
@@ -414,7 +414,7 @@
       "date": "Di., 15.6.",
       "timestamp": 1623793500000,
       "time": "21:45",
-      "available": 34,
+      "available": 28,
       "reserved": 109,
       "bookable": true
     },
@@ -510,7 +510,7 @@
       "date": "Mi., 16.6.",
       "timestamp": 1623878100000,
       "time": "21:15",
-      "available": 158,
+      "available": 150,
       "reserved": 109,
       "bookable": true
     },
@@ -542,7 +542,7 @@
       "date": "So., 13.6.",
       "timestamp": 1623596400000,
       "time": "15:00",
-      "available": 66,
+      "available": 64,
       "reserved": 98,
       "bookable": true
     },
@@ -574,7 +574,7 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 34,
+      "available": 32,
       "reserved": 109,
       "bookable": true
     },
@@ -704,7 +704,7 @@
       "date": "Do., 10.6.",
       "timestamp": 1623360600000,
       "time": "21:30",
-      "available": 92,
+      "available": 86,
       "reserved": 88,
       "bookable": true
     },
@@ -752,7 +752,7 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 343,
+      "available": 341,
       "reserved": 75,
       "bookable": true
     },
@@ -768,7 +768,7 @@
       "date": "So., 13.6.",
       "timestamp": 1623619800000,
       "time": "21:30",
-      "available": 268,
+      "available": 262,
       "reserved": 80,
       "bookable": true
     },
@@ -800,8 +800,8 @@
       "date": "Di., 8.6.,",
       "timestamp": 1623187800000,
       "time": "21:30",
-      "available": 60,
-      "reserved": 51,
+      "available": 55,
+      "reserved": 52,
       "bookable": true
     },
     {
@@ -816,7 +816,7 @@
       "date": "Mi., 9.6.,",
       "timestamp": 1623274200000,
       "time": "21:30",
-      "available": 132,
+      "available": 126,
       "reserved": 88,
       "bookable": true
     },
@@ -864,7 +864,7 @@
       "date": "Sa., 12.6.",
       "timestamp": 1623533400000,
       "time": "21:30",
-      "available": 131,
+      "available": 123,
       "reserved": 85,
       "bookable": true
     },
@@ -880,7 +880,7 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 236,
+      "available": 232,
       "reserved": 88,
       "bookable": true
     }
@@ -896,7 +896,7 @@
       "timestamp": 1623110400000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689212?layout=shows",
-      "available": 137,
+      "available": 132,
       "reserved": 157,
       "bookable": true
     },
@@ -975,8 +975,9 @@
       "timestamp": 1623369600000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689242?layout=shows",
-      "reserved": 189,
-      "bookable": false
+      "available": 2,
+      "reserved": 187,
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -1118,7 +1119,7 @@
       "timestamp": 1623801600000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689277?layout=shows",
-      "available": 17,
+      "available": 26,
       "reserved": 184,
       "bookable": true
     },
@@ -1225,8 +1226,8 @@
       "timestamp": 1624147200000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689443?layout=shows",
-      "available": 235,
-      "reserved": 104,
+      "available": 225,
+      "reserved": 106,
       "bookable": true
     },
     {
@@ -1254,8 +1255,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689214?layout=shows",
       "img": "https://media.kinoheld.de/HQnWODvQRrQh2gfi5Na1USIfjPs=/200x280/images%2Ffilm%2Fpush-fuer-das-grundrecht-auf-wohnen-13187.v6.jpg",
-      "available": 307,
-      "reserved": 62,
+      "available": 298,
+      "reserved": 67,
       "bookable": true
     },
     {
