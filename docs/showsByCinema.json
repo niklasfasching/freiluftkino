@@ -12,7 +12,7 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 679,
+      "available": 675,
       "reserved": 135,
       "bookable": true
     },
@@ -44,7 +44,7 @@
       "date": "So., 13.6.",
       "timestamp": 1623619800000,
       "time": "21:30",
-      "available": 48,
+      "available": 44,
       "reserved": 202,
       "bookable": true
     },
@@ -60,7 +60,7 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 461,
+      "available": 455,
       "reserved": 179,
       "bookable": true
     },
@@ -108,7 +108,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625247000000,
       "time": "17:30",
-      "available": 414,
+      "available": 412,
       "reserved": 9,
       "bookable": true
     },
@@ -332,7 +332,7 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624037400000,
       "time": "17:30",
-      "available": 138,
+      "available": 136,
       "reserved": 55,
       "bookable": true
     },
@@ -430,8 +430,8 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624052700000,
       "time": "21:45",
-      "available": 154,
-      "reserved": 107,
+      "available": 153,
+      "reserved": 108,
       "bookable": true
     },
     {
@@ -494,7 +494,7 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 377,
+      "available": 375,
       "reserved": 92,
       "bookable": true
     },
@@ -574,7 +574,7 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 308,
+      "available": 304,
       "reserved": 89,
       "bookable": true
     },
@@ -656,7 +656,7 @@
       "date": "Fr., 11.6.",
       "timestamp": 1623447000000,
       "time": "21:30",
-      "available": 187,
+      "available": 185,
       "reserved": 85,
       "bookable": true
     },
@@ -672,7 +672,7 @@
       "date": "Do., 10.6.",
       "timestamp": 1623360600000,
       "time": "21:30",
-      "available": 38,
+      "available": 34,
       "reserved": 88,
       "bookable": true
     },
@@ -704,7 +704,7 @@
       "date": "Di., 15.6.",
       "timestamp": 1623793500000,
       "time": "21:45",
-      "available": 390,
+      "available": 384,
       "reserved": 80,
       "bookable": true
     },
@@ -784,7 +784,7 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624052700000,
       "time": "21:45",
-      "available": 174,
+      "available": 172,
       "reserved": 88,
       "bookable": true
     },
@@ -816,7 +816,7 @@
       "date": "Sa., 12.6.",
       "timestamp": 1623533400000,
       "time": "21:30",
-      "available": 96,
+      "available": 94,
       "reserved": 86,
       "bookable": true
     },
@@ -832,7 +832,7 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 196,
+      "available": 194,
       "reserved": 88,
       "bookable": true
     }
@@ -1056,8 +1056,8 @@
       "timestamp": 1623801600000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689277?layout=shows",
-      "available": 3,
-      "reserved": 192,
+      "available": 2,
+      "reserved": 193,
       "bookable": true
     },
     {
@@ -1206,8 +1206,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689215?layout=shows",
       "img": "https://media.kinoheld.de/lBkg2xXZF9guvDJzqjb2CT024Es=/200x280/images%2Ffilm%2Flittle-women-15673.v355.jpg",
-      "available": 229,
-      "reserved": 106,
+      "available": 228,
+      "reserved": 107,
       "bookable": true
     }
   ],
