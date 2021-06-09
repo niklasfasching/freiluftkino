@@ -28,7 +28,7 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624651200000,
       "time": "20:00",
-      "available": 111,
+      "available": 115,
       "reserved": 125,
       "bookable": true
     },
@@ -60,7 +60,7 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 416,
+      "available": 414,
       "reserved": 184,
       "bookable": true
     },
@@ -124,7 +124,7 @@
       "date": "So., 11.7.",
       "timestamp": 1626024600000,
       "time": "17:30",
-      "available": 380,
+      "available": 348,
       "reserved": 47,
       "bookable": true
     },
@@ -204,7 +204,7 @@
       "date": "Di., 15.6.",
       "timestamp": 1623793500000,
       "time": "21:45",
-      "available": 458,
+      "available": 454,
       "reserved": 166,
       "bookable": true
     },
@@ -245,6 +245,22 @@
       "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
       "cinemaName": "Freiluftkino Friedrichshain",
       "cinemaShortName": "fhain",
+      "id": "671",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/seats/671",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=658",
+      "title": "radioeins präsentiert die Schöne Lesung mit Jens B",
+      "date": "Sa., 19.6.",
+      "timestamp": 1624111200000,
+      "time": "14:00",
+      "available": 445,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
+      "cinemaShortName": "fhain",
       "id": "667",
       "url": "https://kinotickets-online.com/fh_freiluftkino/seats/667",
       "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=655",
@@ -252,7 +268,7 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628960400000,
       "time": "17:00",
-      "available": 485,
+      "available": 483,
       "reserved": 4,
       "bookable": true
     },
@@ -300,7 +316,7 @@
       "date": "Do., 10.6.",
       "timestamp": 1623361500000,
       "time": "21:45",
-      "available": 104,
+      "available": 96,
       "reserved": 198,
       "bookable": true
     },
@@ -316,7 +332,7 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624037400000,
       "time": "17:30",
-      "available": 126,
+      "available": 128,
       "reserved": 57,
       "bookable": true
     },
@@ -414,7 +430,7 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624052700000,
       "time": "21:45",
-      "available": 126,
+      "available": 124,
       "reserved": 109,
       "bookable": true
     },
@@ -558,7 +574,7 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 281,
+      "available": 279,
       "reserved": 90,
       "bookable": true
     },
@@ -608,7 +624,7 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 267,
+      "available": 269,
       "reserved": 85,
       "bookable": true
     },
@@ -672,8 +688,8 @@
       "date": "Mi., 16.6.",
       "timestamp": 1623879900000,
       "time": "21:45",
-      "available": 438,
-      "reserved": 72,
+      "available": 435,
+      "reserved": 73,
       "bookable": true
     },
     {
@@ -688,7 +704,7 @@
       "date": "Di., 15.6.",
       "timestamp": 1623793500000,
       "time": "21:45",
-      "available": 373,
+      "available": 369,
       "reserved": 81,
       "bookable": true
     },
@@ -752,7 +768,7 @@
       "date": "Mi., 9.6.,",
       "timestamp": 1623274200000,
       "time": "21:30",
-      "available": 36,
+      "available": 34,
       "reserved": 88,
       "bookable": true
     },
@@ -800,7 +816,7 @@
       "date": "Sa., 12.6.",
       "timestamp": 1623533400000,
       "time": "21:30",
-      "available": 77,
+      "available": 79,
       "reserved": 87,
       "bookable": true
     },
@@ -1145,8 +1161,8 @@
       "timestamp": 1624147200000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689443?layout=shows",
-      "available": 129,
-      "reserved": 146,
+      "available": 122,
+      "reserved": 148,
       "bookable": true
     },
     {
@@ -1508,8 +1524,8 @@
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385350518?layout=shows",
       "img": "https://media.kinoheld.de/omNdKbLfk02-DYDQDMJxFzVv4Xs=/200x280/images%2Ffilm%2Fshoplifters-familienbande-11080.v2.jpg",
-      "available": 24,
-      "reserved": 15,
+      "available": 20,
+      "reserved": 17,
       "bookable": true
     },
     {
@@ -1637,9 +1653,8 @@
       "time": "22:00",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2381031068?layout=shows",
       "img": "https://media.kinoheld.de/UOg6mGNFTa2JZGcwCKH980ge6lE=/200x280/images%2Ffilm%2Fder-mauretanier-18871.v1.jpg",
-      "available": 2,
-      "reserved": 103,
-      "bookable": true
+      "reserved": 105,
+      "bookable": false
     },
     {
       "cinemaId": "2153",
