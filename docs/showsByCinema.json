@@ -12,7 +12,7 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 643,
+      "available": 641,
       "reserved": 143,
       "bookable": true
     },
@@ -28,7 +28,7 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624651200000,
       "time": "20:00",
-      "available": 115,
+      "available": 111,
       "reserved": 125,
       "bookable": true
     },
@@ -108,7 +108,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625247000000,
       "time": "17:30",
-      "available": 399,
+      "available": 397,
       "reserved": 12,
       "bookable": true
     },
@@ -204,7 +204,7 @@
       "date": "Di., 15.6.",
       "timestamp": 1623793500000,
       "time": "21:45",
-      "available": 456,
+      "available": 458,
       "reserved": 166,
       "bookable": true
     },
@@ -220,7 +220,7 @@
       "date": "Mi., 16.6.",
       "timestamp": 1623879900000,
       "time": "21:45",
-      "available": 237,
+      "available": 235,
       "reserved": 201,
       "bookable": true
     },
@@ -300,8 +300,8 @@
       "date": "Do., 10.6.",
       "timestamp": 1623361500000,
       "time": "21:45",
-      "available": 103,
-      "reserved": 199,
+      "available": 104,
+      "reserved": 198,
       "bookable": true
     },
     {
@@ -608,7 +608,7 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 269,
+      "available": 267,
       "reserved": 85,
       "bookable": true
     },
@@ -640,7 +640,7 @@
       "date": "Fr., 11.6.",
       "timestamp": 1623447000000,
       "time": "21:30",
-      "available": 164,
+      "available": 162,
       "reserved": 86,
       "bookable": true
     },
@@ -672,7 +672,7 @@
       "date": "Mi., 16.6.",
       "timestamp": 1623879900000,
       "time": "21:45",
-      "available": 440,
+      "available": 438,
       "reserved": 72,
       "bookable": true
     },
@@ -704,7 +704,7 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 289,
+      "available": 287,
       "reserved": 81,
       "bookable": true
     },
@@ -800,7 +800,7 @@
       "date": "Sa., 12.6.",
       "timestamp": 1623533400000,
       "time": "21:30",
-      "available": 75,
+      "available": 77,
       "reserved": 87,
       "bookable": true
     },
@@ -1433,8 +1433,8 @@
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385350398?layout=shows",
       "img": "https://media.kinoheld.de/jDPKyoVfE8B_qSIW8j_xMweyaKc=/200x280/images%2Ffilm%2F4%2Fa-star-is-born-12217.v104.jpg",
-      "available": 40,
-      "reserved": 9,
+      "available": 36,
+      "reserved": 11,
       "bookable": true
     },
     {
