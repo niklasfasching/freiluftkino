@@ -12,8 +12,8 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 604,
-      "reserved": 148,
+      "available": 602,
+      "reserved": 150,
       "bookable": true
     },
     {
@@ -204,7 +204,7 @@
       "date": "Di., 15.6.",
       "timestamp": 1623793500000,
       "time": "21:45",
-      "available": 411,
+      "available": 415,
       "reserved": 167,
       "bookable": true
     },
@@ -608,7 +608,7 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 4,
+      "available": 2,
       "reserved": 88,
       "bookable": true
     },
@@ -784,7 +784,7 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 162,
+      "available": 160,
       "reserved": 88,
       "bookable": true
     }
