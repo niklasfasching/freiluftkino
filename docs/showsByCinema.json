@@ -108,8 +108,8 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625247000000,
       "time": "17:30",
-      "available": 387,
-      "reserved": 16,
+      "available": 388,
+      "reserved": 15,
       "bookable": true
     },
     {
@@ -204,7 +204,7 @@
       "date": "Di., 15.6.",
       "timestamp": 1623793500000,
       "time": "21:45",
-      "available": 415,
+      "available": 411,
       "reserved": 167,
       "bookable": true
     },
@@ -608,7 +608,7 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 2,
+      "available": 4,
       "reserved": 88,
       "bookable": true
     },
@@ -656,8 +656,8 @@
       "date": "Mi., 16.6.",
       "timestamp": 1623879900000,
       "time": "21:45",
-      "available": 424,
-      "reserved": 74,
+      "available": 423,
+      "reserved": 75,
       "bookable": true
     },
     {
@@ -736,7 +736,7 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624052700000,
       "time": "21:45",
-      "available": 122,
+      "available": 120,
       "reserved": 88,
       "bookable": true
     },
@@ -1087,8 +1087,8 @@
       "timestamp": 1624147200000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689443?layout=shows",
-      "available": 81,
-      "reserved": 161,
+      "available": 77,
+      "reserved": 162,
       "bookable": true
     },
     {
@@ -1116,8 +1116,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689214?layout=shows",
       "img": "https://media.kinoheld.de/xdn45ISiNuiVF9UW4WLvdGqkXKI=/200x280/images%2Ffilm%2Fpush-fuer-das-grundrecht-auf-wohnen-13187.v7.jpg",
-      "available": 290,
-      "reserved": 71,
+      "available": 285,
+      "reserved": 74,
       "bookable": true
     },
     {
@@ -1492,8 +1492,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385354384?layout=shows",
       "img": "https://media.kinoheld.de/Ru2XvrjaAHr4b0Y4XNLaYchpGCI=/200x280/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v203.jpg",
-      "available": 55,
-      "reserved": 2,
+      "available": 51,
+      "reserved": 4,
       "bookable": true
     },
     {
