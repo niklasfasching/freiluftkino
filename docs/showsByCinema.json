@@ -12,8 +12,8 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 542,
-      "reserved": 156,
+      "available": 537,
+      "reserved": 157,
       "bookable": true
     },
     {
@@ -60,7 +60,7 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 257,
+      "available": 253,
       "reserved": 199,
       "bookable": true
     },
@@ -108,8 +108,8 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625247000000,
       "time": "17:30",
-      "available": 295,
-      "reserved": 27,
+      "available": 294,
+      "reserved": 28,
       "bookable": true
     },
     {
@@ -204,8 +204,8 @@
       "date": "Di., 15.6.",
       "timestamp": 1623793500000,
       "time": "21:45",
-      "available": 314,
-      "reserved": 184,
+      "available": 307,
+      "reserved": 185,
       "bookable": true
     },
     {
@@ -220,7 +220,7 @@
       "date": "Mi., 16.6.",
       "timestamp": 1623879900000,
       "time": "21:45",
-      "available": 102,
+      "available": 92,
       "reserved": 202,
       "bookable": true
     },
@@ -300,8 +300,8 @@
       "date": "Do., 10.6.",
       "timestamp": 1623361500000,
       "time": "21:45",
-      "available": 23,
-      "reserved": 179,
+      "available": 14,
+      "reserved": 188,
       "bookable": true
     },
     {
@@ -348,7 +348,7 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624024800000,
       "time": "14:00",
-      "available": 258,
+      "available": 256,
       "reserved": 54,
       "bookable": true
     }
@@ -430,8 +430,8 @@
       "date": "Do., 10.6.",
       "timestamp": 1623360600000,
       "time": "21:30",
-      "available": 9,
-      "reserved": 100,
+      "available": 2,
+      "reserved": 107,
       "bookable": true
     },
     {
@@ -462,7 +462,7 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 346,
+      "available": 344,
       "reserved": 93,
       "bookable": true
     },
@@ -542,8 +542,8 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 231,
-      "reserved": 94,
+      "available": 225,
+      "reserved": 96,
       "bookable": true
     },
     {
@@ -592,7 +592,7 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 234,
+      "available": 232,
       "reserved": 86,
       "bookable": true
     },
@@ -624,7 +624,7 @@
       "date": "Fr., 11.6.",
       "timestamp": 1623447000000,
       "time": "21:30",
-      "available": 98,
+      "available": 94,
       "reserved": 88,
       "bookable": true
     },
@@ -640,8 +640,8 @@
       "date": "Do., 10.6.",
       "timestamp": 1623360600000,
       "time": "21:30",
-      "available": 40,
-      "reserved": 58,
+      "available": 33,
+      "reserved": 65,
       "bookable": true
     },
     {
@@ -672,7 +672,7 @@
       "date": "Di., 15.6.",
       "timestamp": 1623793500000,
       "time": "21:45",
-      "available": 344,
+      "available": 342,
       "reserved": 84,
       "bookable": true
     },
@@ -688,7 +688,7 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 252,
+      "available": 244,
       "reserved": 82,
       "bookable": true
     },
@@ -704,7 +704,7 @@
       "date": "So., 13.6.",
       "timestamp": 1623619800000,
       "time": "21:30",
-      "available": 155,
+      "available": 153,
       "reserved": 83,
       "bookable": true
     },
@@ -784,7 +784,7 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 100,
+      "available": 94,
       "reserved": 88,
       "bookable": true
     }
@@ -1099,8 +1099,8 @@
       "timestamp": 1624233600000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689213?layout=shows",
-      "available": 208,
-      "reserved": 120,
+      "available": 202,
+      "reserved": 124,
       "bookable": true
     },
     {
@@ -1345,9 +1345,7 @@
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385350398?layout=shows",
       "img": "https://media.kinoheld.de/jDPKyoVfE8B_qSIW8j_xMweyaKc=/200x280/images%2Ffilm%2F4%2Fa-star-is-born-12217.v104.jpg",
-      "available": 1,
-      "reserved": 31,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "1839",
@@ -1389,8 +1387,8 @@
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385350470?layout=shows",
       "img": "https://media.kinoheld.de/_5mTSNp2cf3Ev19wpKDKKF4tM4U=/200x280/images%2Ffilm%2Fjojo-rabbit-15227.v162.jpg",
-      "available": 4,
-      "reserved": 31,
+      "available": 2,
+      "reserved": 33,
       "bookable": true
     },
     {
