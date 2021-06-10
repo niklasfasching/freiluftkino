@@ -12,7 +12,7 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 585,
+      "available": 579,
       "reserved": 151,
       "bookable": true
     },
@@ -60,8 +60,8 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 320,
-      "reserved": 194,
+      "available": 312,
+      "reserved": 198,
       "bookable": true
     },
     {
@@ -108,8 +108,8 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625247000000,
       "time": "17:30",
-      "available": 358,
-      "reserved": 19,
+      "available": 349,
+      "reserved": 22,
       "bookable": true
     },
     {
@@ -204,8 +204,8 @@
       "date": "Di., 15.6.",
       "timestamp": 1623793500000,
       "time": "21:45",
-      "available": 374,
-      "reserved": 172,
+      "available": 365,
+      "reserved": 177,
       "bookable": true
     },
     {
@@ -220,7 +220,7 @@
       "date": "Mi., 16.6.",
       "timestamp": 1623879900000,
       "time": "21:45",
-      "available": 132,
+      "available": 126,
       "reserved": 202,
       "bookable": true
     },
@@ -268,7 +268,7 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628960400000,
       "time": "17:00",
-      "available": 475,
+      "available": 473,
       "reserved": 4,
       "bookable": true
     },
@@ -414,7 +414,7 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624052700000,
       "time": "21:45",
-      "available": 80,
+      "available": 72,
       "reserved": 109,
       "bookable": true
     },
@@ -462,7 +462,7 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 351,
+      "available": 349,
       "reserved": 92,
       "bookable": true
     },
@@ -478,7 +478,7 @@
       "date": "So., 13.6.",
       "timestamp": 1623596400000,
       "time": "15:00",
-      "available": 0,
+      "available": 93,
       "reserved": 98,
       "bookable": true
     },
@@ -519,14 +519,14 @@
       "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
       "cinemaName": "Freiluftkino Kreuzberg",
       "cinemaShortName": "xberg",
-      "id": "586",
-      "url": "https://kinotickets-online.com/kb_freiluftkino/seats/586",
+      "id": "602",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/seats/602",
       "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=575",
       "title": "test",
-      "date": "Do., 10.6.",
-      "timestamp": 1623335400000,
-      "time": "14:30",
-      "available": 579,
+      "date": "Do., 19.8.",
+      "timestamp": 1629388800000,
+      "time": "16:00",
+      "available": 492,
       "reserved": 0,
       "bookable": true
     },
@@ -542,7 +542,7 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 252,
+      "available": 248,
       "reserved": 93,
       "bookable": true
     },
@@ -592,7 +592,7 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 250,
+      "available": 246,
       "reserved": 86,
       "bookable": true
     },
@@ -624,7 +624,7 @@
       "date": "Fr., 11.6.",
       "timestamp": 1623447000000,
       "time": "21:30",
-      "available": 130,
+      "available": 128,
       "reserved": 88,
       "bookable": true
     },
@@ -672,7 +672,7 @@
       "date": "Di., 15.6.",
       "timestamp": 1623793500000,
       "time": "21:45",
-      "available": 352,
+      "available": 348,
       "reserved": 84,
       "bookable": true
     },
@@ -688,7 +688,7 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 267,
+      "available": 261,
       "reserved": 81,
       "bookable": true
     },
@@ -704,7 +704,7 @@
       "date": "So., 13.6.",
       "timestamp": 1623619800000,
       "time": "21:30",
-      "available": 175,
+      "available": 167,
       "reserved": 83,
       "bookable": true
     },
@@ -736,7 +736,7 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624052700000,
       "time": "21:45",
-      "available": 92,
+      "available": 86,
       "reserved": 88,
       "bookable": true
     },
@@ -768,7 +768,7 @@
       "date": "Sa., 12.6.",
       "timestamp": 1623533400000,
       "time": "21:30",
-      "available": 28,
+      "available": 24,
       "reserved": 88,
       "bookable": true
     },
@@ -784,7 +784,7 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 144,
+      "available": 140,
       "reserved": 88,
       "bookable": true
     }
@@ -800,8 +800,9 @@
       "timestamp": 1623283200000,
       "time": "17:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689117?layout=shows",
-      "reserved": 61,
-      "bookable": false
+      "available": 10,
+      "reserved": 51,
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -813,9 +814,8 @@
       "timestamp": 1623283200000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689239?layout=shows",
-      "available": 4,
-      "reserved": 187,
-      "bookable": true
+      "reserved": 189,
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1347,8 +1347,8 @@
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385350398?layout=shows",
       "img": "https://media.kinoheld.de/jDPKyoVfE8B_qSIW8j_xMweyaKc=/200x280/images%2Ffilm%2F4%2Fa-star-is-born-12217.v104.jpg",
-      "available": 32,
-      "reserved": 13,
+      "available": 23,
+      "reserved": 15,
       "bookable": true
     },
     {
@@ -1392,7 +1392,7 @@
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385350470?layout=shows",
       "img": "https://media.kinoheld.de/_5mTSNp2cf3Ev19wpKDKKF4tM4U=/200x280/images%2Ffilm%2Fjojo-rabbit-15227.v162.jpg",
-      "available": 10,
+      "available": 13,
       "reserved": 26,
       "bookable": true
     },
