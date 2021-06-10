@@ -28,7 +28,7 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624651200000,
       "time": "20:00",
-      "available": 93,
+      "available": 91,
       "reserved": 53,
       "bookable": true
     },
@@ -108,8 +108,8 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625247000000,
       "time": "17:30",
-      "available": 319,
-      "reserved": 23,
+      "available": 314,
+      "reserved": 26,
       "bookable": true
     },
     {
@@ -204,8 +204,8 @@
       "date": "Di., 15.6.",
       "timestamp": 1623793500000,
       "time": "21:45",
-      "available": 347,
-      "reserved": 183,
+      "available": 344,
+      "reserved": 184,
       "bookable": true
     },
     {
@@ -300,9 +300,9 @@
       "date": "Do., 10.6.",
       "timestamp": 1623361500000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 48,
+      "reserved": 154,
+      "bookable": true
     },
     {
       "cinemaId": "fh_freiluftkino",
@@ -414,7 +414,7 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624052700000,
       "time": "21:45",
-      "available": 56,
+      "available": 52,
       "reserved": 109,
       "bookable": true
     },
@@ -430,8 +430,8 @@
       "date": "Do., 10.6.",
       "timestamp": 1623360600000,
       "time": "21:30",
-      "available": 20,
-      "reserved": 89,
+      "available": 17,
+      "reserved": 92,
       "bookable": true
     },
     {
@@ -446,7 +446,7 @@
       "date": "Mi., 16.6.",
       "timestamp": 1623878100000,
       "time": "21:15",
-      "available": 28,
+      "available": 26,
       "reserved": 109,
       "bookable": true
     },
@@ -478,7 +478,7 @@
       "date": "So., 13.6.",
       "timestamp": 1623596400000,
       "time": "15:00",
-      "available": 93,
+      "available": 91,
       "reserved": 98,
       "bookable": true
     },
@@ -624,7 +624,7 @@
       "date": "Fr., 11.6.",
       "timestamp": 1623447000000,
       "time": "21:30",
-      "available": 106,
+      "available": 112,
       "reserved": 88,
       "bookable": true
     },
@@ -656,7 +656,7 @@
       "date": "Mi., 16.6.",
       "timestamp": 1623879900000,
       "time": "21:45",
-      "available": 413,
+      "available": 411,
       "reserved": 75,
       "bookable": true
     },
@@ -1117,8 +1117,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689214?layout=shows",
       "img": "https://media.kinoheld.de/xdn45ISiNuiVF9UW4WLvdGqkXKI=/200x280/images%2Ffilm%2Fpush-fuer-das-grundrecht-auf-wohnen-13187.v7.jpg",
-      "available": 273,
-      "reserved": 82,
+      "available": 269,
+      "reserved": 84,
       "bookable": true
     },
     {
@@ -1349,7 +1349,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385350398?layout=shows",
       "img": "https://media.kinoheld.de/jDPKyoVfE8B_qSIW8j_xMweyaKc=/200x280/images%2Ffilm%2F4%2Fa-star-is-born-12217.v104.jpg",
       "available": 1,
-      "reserved": 29,
+      "reserved": 31,
       "bookable": true
     },
     {
