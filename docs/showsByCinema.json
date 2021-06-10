@@ -12,7 +12,7 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 544,
+      "available": 542,
       "reserved": 156,
       "bookable": true
     },
@@ -76,7 +76,7 @@
       "date": "Do., 19.8.",
       "timestamp": 1629392400000,
       "time": "17:00",
-      "available": 508,
+      "available": 506,
       "reserved": 0,
       "bookable": true
     },
@@ -92,7 +92,7 @@
       "date": "So., 22.8.",
       "timestamp": 1629649800000,
       "time": "16:30",
-      "available": 511,
+      "available": 507,
       "reserved": 1,
       "bookable": true
     },
@@ -108,7 +108,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625247000000,
       "time": "17:30",
-      "available": 301,
+      "available": 295,
       "reserved": 27,
       "bookable": true
     },
@@ -156,9 +156,9 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624138200000,
       "time": "21:30",
-      "available": 2,
-      "reserved": 202,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "cinemaId": "fh_freiluftkino",
@@ -204,7 +204,7 @@
       "date": "Di., 15.6.",
       "timestamp": 1623793500000,
       "time": "21:45",
-      "available": 318,
+      "available": 314,
       "reserved": 184,
       "bookable": true
     },
@@ -220,7 +220,7 @@
       "date": "Mi., 16.6.",
       "timestamp": 1623879900000,
       "time": "21:45",
-      "available": 104,
+      "available": 102,
       "reserved": 202,
       "bookable": true
     },
@@ -268,7 +268,7 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628960400000,
       "time": "17:00",
-      "available": 472,
+      "available": 470,
       "reserved": 4,
       "bookable": true
     },
@@ -300,8 +300,8 @@
       "date": "Do., 10.6.",
       "timestamp": 1623361500000,
       "time": "21:45",
-      "available": 26,
-      "reserved": 176,
+      "available": 23,
+      "reserved": 179,
       "bookable": true
     },
     {
@@ -332,8 +332,8 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624296600000,
       "time": "17:30",
-      "available": 75,
-      "reserved": 81,
+      "available": 71,
+      "reserved": 83,
       "bookable": true
     },
     {
@@ -624,7 +624,7 @@
       "date": "Fr., 11.6.",
       "timestamp": 1623447000000,
       "time": "21:30",
-      "available": 96,
+      "available": 98,
       "reserved": 88,
       "bookable": true
     },
@@ -640,8 +640,8 @@
       "date": "Do., 10.6.",
       "timestamp": 1623360600000,
       "time": "21:30",
-      "available": 41,
-      "reserved": 57,
+      "available": 40,
+      "reserved": 58,
       "bookable": true
     },
     {
@@ -688,7 +688,7 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 254,
+      "available": 252,
       "reserved": 82,
       "bookable": true
     },
@@ -784,7 +784,7 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 102,
+      "available": 100,
       "reserved": 88,
       "bookable": true
     }
@@ -1550,8 +1550,9 @@
       "timestamp": 1623283200000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2381102297?layout=shows",
-      "reserved": 109,
-      "bookable": false
+      "available": 3,
+      "reserved": 108,
+      "bookable": true
     },
     {
       "cinemaId": "2153",
@@ -1834,6 +1835,7 @@
       "timestamp": 1625097600000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2386573069?layout=shows",
+      "img": "https://media.kinoheld.de/cyNqtPwzhwqykcGmeky1xwSDg7A=/200x280/images%2Ffilm%2Fmo%2F2413-36521.v2.jpg",
       "available": 1,
       "bookable": true
     },
