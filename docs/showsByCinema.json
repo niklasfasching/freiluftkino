@@ -12,8 +12,8 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 552,
-      "reserved": 154,
+      "available": 548,
+      "reserved": 156,
       "bookable": true
     },
     {
@@ -28,7 +28,7 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624651200000,
       "time": "20:00",
-      "available": 89,
+      "available": 87,
       "reserved": 55,
       "bookable": true
     },
@@ -60,7 +60,7 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 271,
+      "available": 267,
       "reserved": 199,
       "bookable": true
     },
@@ -204,7 +204,7 @@
       "date": "Di., 15.6.",
       "timestamp": 1623793500000,
       "time": "21:45",
-      "available": 339,
+      "available": 335,
       "reserved": 183,
       "bookable": true
     },
@@ -300,8 +300,8 @@
       "date": "Do., 10.6.",
       "timestamp": 1623361500000,
       "time": "21:45",
-      "available": 36,
-      "reserved": 166,
+      "available": 33,
+      "reserved": 169,
       "bookable": true
     },
     {
@@ -348,7 +348,7 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624024800000,
       "time": "14:00",
-      "available": 267,
+      "available": 261,
       "reserved": 47,
       "bookable": true
     }
@@ -367,8 +367,8 @@
       "timestamp": 1623793500000,
       "time": "21:45",
       "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "reserved": 109,
+      "bookable": true
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -383,8 +383,8 @@
       "timestamp": 1623619800000,
       "time": "21:30",
       "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "reserved": 109,
+      "bookable": true
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -399,8 +399,8 @@
       "timestamp": 1623533400000,
       "time": "21:30",
       "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "reserved": 109,
+      "bookable": true
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -414,7 +414,7 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624052700000,
       "time": "21:45",
-      "available": 50,
+      "available": 48,
       "reserved": 109,
       "bookable": true
     },
@@ -430,8 +430,8 @@
       "date": "Do., 10.6.",
       "timestamp": 1623360600000,
       "time": "21:30",
-      "available": 17,
-      "reserved": 92,
+      "available": 18,
+      "reserved": 91,
       "bookable": true
     },
     {
@@ -446,7 +446,7 @@
       "date": "Mi., 16.6.",
       "timestamp": 1623878100000,
       "time": "21:15",
-      "available": 20,
+      "available": 16,
       "reserved": 109,
       "bookable": true
     },
@@ -462,7 +462,7 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 348,
+      "available": 346,
       "reserved": 93,
       "bookable": true
     },
@@ -478,8 +478,8 @@
       "date": "So., 13.6.",
       "timestamp": 1623596400000,
       "time": "15:00",
-      "available": 93,
-      "reserved": 98,
+      "available": 92,
+      "reserved": 99,
       "bookable": true
     },
     {
@@ -495,8 +495,8 @@
       "timestamp": 1624224600000,
       "time": "21:30",
       "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "reserved": 109,
+      "bookable": true
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -511,8 +511,8 @@
       "timestamp": 1624139100000,
       "time": "21:45",
       "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "reserved": 109,
+      "bookable": true
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -542,8 +542,8 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 236,
-      "reserved": 95,
+      "available": 231,
+      "reserved": 94,
       "bookable": true
     },
     {
@@ -559,8 +559,8 @@
       "timestamp": 1623447000000,
       "time": "21:30",
       "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "reserved": 109,
+      "bookable": true
     }
   ],
   "Freiluftkino Rehberge": [
@@ -592,7 +592,7 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 240,
+      "available": 238,
       "reserved": 86,
       "bookable": true
     },
@@ -609,8 +609,8 @@
       "timestamp": 1623966300000,
       "time": "21:45",
       "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "reserved": 88,
+      "bookable": true
     },
     {
       "cinemaId": "rb_freiluftkino",
@@ -624,7 +624,7 @@
       "date": "Fr., 11.6.",
       "timestamp": 1623447000000,
       "time": "21:30",
-      "available": 106,
+      "available": 102,
       "reserved": 88,
       "bookable": true
     },
@@ -640,8 +640,8 @@
       "date": "Do., 10.6.",
       "timestamp": 1623360600000,
       "time": "21:30",
-      "available": 51,
-      "reserved": 47,
+      "available": 42,
+      "reserved": 56,
       "bookable": true
     },
     {
@@ -688,7 +688,7 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 257,
+      "available": 255,
       "reserved": 81,
       "bookable": true
     },
@@ -800,9 +800,7 @@
       "timestamp": 1623283200000,
       "time": "17:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689117?layout=shows",
-      "available": 1,
-      "reserved": 60,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1421,8 +1419,8 @@
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385350518?layout=shows",
       "img": "https://media.kinoheld.de/omNdKbLfk02-DYDQDMJxFzVv4Xs=/200x280/images%2Ffilm%2Fshoplifters-familienbande-11080.v2.jpg",
-      "available": 12,
-      "reserved": 23,
+      "available": 8,
+      "reserved": 25,
       "bookable": true
     },
     {
@@ -1552,9 +1550,8 @@
       "timestamp": 1623283200000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2381102297?layout=shows",
-      "available": 5,
-      "reserved": 105,
-      "bookable": true
+      "reserved": 107,
+      "bookable": false
     },
     {
       "cinemaId": "2153",
