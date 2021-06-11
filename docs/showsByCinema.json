@@ -12,8 +12,8 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 485,
-      "reserved": 161,
+      "available": 481,
+      "reserved": 163,
       "bookable": true
     },
     {
@@ -60,7 +60,7 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 168,
+      "available": 166,
       "reserved": 202,
       "bookable": true
     },
@@ -108,7 +108,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625247000000,
       "time": "17:30",
-      "available": 278,
+      "available": 280,
       "reserved": 30,
       "bookable": true
     },
@@ -188,8 +188,8 @@
       "date": "Fr., 11.6.",
       "timestamp": 1623447900000,
       "time": "21:45",
-      "available": 17,
-      "reserved": 185,
+      "available": 5,
+      "reserved": 197,
       "bookable": true
     },
     {
@@ -204,8 +204,8 @@
       "date": "Di., 15.6.",
       "timestamp": 1623793500000,
       "time": "21:45",
-      "available": 242,
-      "reserved": 192,
+      "available": 239,
+      "reserved": 193,
       "bookable": true
     },
     {
@@ -220,7 +220,7 @@
       "date": "Mi., 16.6.",
       "timestamp": 1623879900000,
       "time": "21:45",
-      "available": 32,
+      "available": 28,
       "reserved": 202,
       "bookable": true
     },
@@ -268,7 +268,7 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628960400000,
       "time": "17:00",
-      "available": 464,
+      "available": 460,
       "reserved": 4,
       "bookable": true
     },
@@ -359,6 +359,22 @@
       "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
       "cinemaName": "Freiluftkino Kreuzberg",
       "cinemaShortName": "xberg",
+      "id": "619",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/seats/619",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=607",
+      "title": "Bad Luck Banging Or Loony Porn",
+      "date": "Di., 6.7.,",
+      "timestamp": 1625607900000,
+      "time": "21:45",
+      "available": 477,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "kb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+      "cinemaName": "Freiluftkino Kreuzberg",
+      "cinemaShortName": "xberg",
       "id": "592",
       "url": "https://kinotickets-online.com/kb_freiluftkino/seats/592",
       "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=581",
@@ -366,7 +382,7 @@
       "date": "So., 13.6.",
       "timestamp": 1623619800000,
       "time": "21:30",
-      "available": 28,
+      "available": 26,
       "reserved": 109,
       "bookable": true
     },
@@ -384,6 +400,22 @@
       "time": "21:30",
       "available": 24,
       "reserved": 109,
+      "bookable": true
+    },
+    {
+      "cinemaId": "kb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+      "cinemaName": "Freiluftkino Kreuzberg",
+      "cinemaShortName": "xberg",
+      "id": "623",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/seats/623",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=611",
+      "title": "Der Rausch",
+      "date": "Sa., 10.7.",
+      "timestamp": 1625952600000,
+      "time": "21:30",
+      "available": 477,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -478,7 +510,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625262300000,
       "time": "21:45",
-      "available": 477,
+      "available": 429,
       "reserved": 0,
       "bookable": true
     },
@@ -512,6 +544,54 @@
       "time": "21:15",
       "available": 28,
       "reserved": 109,
+      "bookable": true
+    },
+    {
+      "cinemaId": "kb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+      "cinemaName": "Freiluftkino Kreuzberg",
+      "cinemaShortName": "xberg",
+      "id": "624",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/seats/624",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=612",
+      "title": "Milla Meets Moses",
+      "date": "So., 11.7.",
+      "timestamp": 1626039000000,
+      "time": "21:30",
+      "available": 477,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "kb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+      "cinemaName": "Freiluftkino Kreuzberg",
+      "cinemaShortName": "xberg",
+      "id": "622",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/seats/622",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=610",
+      "title": "Minari - Wo wir Wurzeln schlagen",
+      "date": "Fr., 9.7.,",
+      "timestamp": 1625866200000,
+      "time": "21:30",
+      "available": 477,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "kb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+      "cinemaName": "Freiluftkino Kreuzberg",
+      "cinemaShortName": "xberg",
+      "id": "626",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/seats/626",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=614",
+      "title": "Nicht der Homosexuelle ist pervers, sondern die Si",
+      "date": "Di., 13.7.",
+      "timestamp": 1626211800000,
+      "time": "21:30",
+      "available": 477,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -574,7 +654,7 @@
       "date": "So., 13.6.",
       "timestamp": 1623596400000,
       "time": "15:00",
-      "available": 62,
+      "available": 64,
       "reserved": 99,
       "bookable": true
     },
@@ -590,7 +670,7 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 24,
+      "available": 22,
       "reserved": 109,
       "bookable": true
     },
@@ -606,6 +686,38 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
+      "available": 477,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "kb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+      "cinemaName": "Freiluftkino Kreuzberg",
+      "cinemaShortName": "xberg",
+      "id": "625",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/seats/625",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=613",
+      "title": "Saint-Narcisse",
+      "date": "Mo., 12.7.",
+      "timestamp": 1626125400000,
+      "time": "21:30",
+      "available": 477,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "kb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+      "cinemaName": "Freiluftkino Kreuzberg",
+      "cinemaShortName": "xberg",
+      "id": "621",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/seats/621",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=609",
+      "title": "Schwesterlein",
+      "date": "Do., 8.7.,",
+      "timestamp": 1625779800000,
+      "time": "21:30",
       "available": 477,
       "reserved": 0,
       "bookable": true
@@ -679,6 +791,22 @@
       "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
       "cinemaName": "Freiluftkino Kreuzberg",
       "cinemaShortName": "xberg",
+      "id": "620",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/seats/620",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=608",
+      "title": "The Nest - Alles zu haben ist nie genug",
+      "date": "Mi., 7.7.,",
+      "timestamp": 1625694300000,
+      "time": "21:45",
+      "available": 477,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "kb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+      "cinemaName": "Freiluftkino Kreuzberg",
+      "cinemaShortName": "xberg",
       "id": "593",
       "url": "https://kinotickets-online.com/kb_freiluftkino/seats/593",
       "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=582",
@@ -686,8 +814,24 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 201,
+      "available": 199,
       "reserved": 104,
+      "bookable": true
+    },
+    {
+      "cinemaId": "kb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+      "cinemaName": "Freiluftkino Kreuzberg",
+      "cinemaShortName": "xberg",
+      "id": "627",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/seats/627",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=615",
+      "title": "The Trial of the Chicago 7",
+      "date": "Do., 15.7.",
+      "timestamp": 1626384600000,
+      "time": "21:30",
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -702,8 +846,8 @@
       "date": "Fr., 11.6.",
       "timestamp": 1623447000000,
       "time": "21:30",
-      "available": 50,
-      "reserved": 79,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -718,7 +862,7 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 477,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -734,7 +878,7 @@
       "date": "Mo., 5.7.,",
       "timestamp": 1625521500000,
       "time": "21:45",
-      "available": 477,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -750,7 +894,7 @@
       "date": "Mo., 28.6.",
       "timestamp": 1624916700000,
       "time": "21:45",
-      "available": 477,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -766,7 +910,7 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 477,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     }
@@ -800,7 +944,7 @@
       "date": "Sa., 17.7.",
       "timestamp": 1626525000000,
       "time": "12:30",
-      "available": 563,
+      "available": 561,
       "reserved": 2,
       "bookable": true
     },
@@ -816,7 +960,7 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 205,
+      "available": 193,
       "reserved": 88,
       "bookable": true
     },
@@ -848,7 +992,7 @@
       "date": "Fr., 11.6.",
       "timestamp": 1623447000000,
       "time": "21:30",
-      "available": 79,
+      "available": 77,
       "reserved": 54,
       "bookable": true
     },
