@@ -28,7 +28,7 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624651200000,
       "time": "20:00",
-      "available": 77,
+      "available": 73,
       "reserved": 57,
       "bookable": true
     },
@@ -430,7 +430,7 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 338,
+      "available": 336,
       "reserved": 93,
       "bookable": true
     },
@@ -640,7 +640,7 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 230,
+      "available": 226,
       "reserved": 82,
       "bookable": true
     },
@@ -1286,8 +1286,7 @@
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385350470?layout=shows",
       "img": "https://media.kinoheld.de/_5mTSNp2cf3Ev19wpKDKKF4tM4U=/200x280/images%2Ffilm%2Fjojo-rabbit-15227.v162.jpg",
-      "available": 2,
-      "reserved": 33,
+      "reserved": 35,
       "bookable": true
     },
     {
