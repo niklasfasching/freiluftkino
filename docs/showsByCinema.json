@@ -76,8 +76,8 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 137,
-      "reserved": 177,
+      "available": 135,
+      "reserved": 179,
       "bookable": true
     },
     {
@@ -124,7 +124,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625247000000,
       "time": "17:30",
-      "available": 253,
+      "available": 251,
       "reserved": 33,
       "bookable": true
     },
@@ -143,22 +143,6 @@
       "available": 325,
       "reserved": 51,
       "bookable": true
-    },
-    {
-      "cinemaId": "fh_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
-      "cinemaName": "Freiluftkino Friedrichshain",
-      "cinemaShortName": "fhain",
-      "id": "652",
-      "url": "https://kinotickets-online.com/fh_freiluftkino/seats/652",
-      "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=641",
-      "title": "Ich bin dein Mensch",
-      "date": "Sa., 12.6.",
-      "timestamp": 1623534300000,
-      "time": "21:45",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
     },
     {
       "cinemaId": "fh_freiluftkino",
@@ -188,8 +172,8 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624052700000,
       "time": "21:45",
-      "available": 5,
-      "reserved": 197,
+      "available": 4,
+      "reserved": 198,
       "bookable": true
     },
     {
@@ -204,8 +188,8 @@
       "date": "Di., 15.6.",
       "timestamp": 1623793500000,
       "time": "21:45",
-      "available": 201,
-      "reserved": 183,
+      "available": 195,
+      "reserved": 185,
       "bookable": true
     },
     {
@@ -220,8 +204,8 @@
       "date": "Mi., 16.6.",
       "timestamp": 1623879900000,
       "time": "21:45",
-      "available": 22,
-      "reserved": 180,
+      "available": 18,
+      "reserved": 184,
       "bookable": true
     },
     {
@@ -526,7 +510,7 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 477,
+      "available": 475,
       "reserved": 0,
       "bookable": true
     },
@@ -638,7 +622,7 @@
       "date": "Do., 1.7.,",
       "timestamp": 1625175900000,
       "time": "21:45",
-      "available": 477,
+      "available": 473,
       "reserved": 0,
       "bookable": true
     },
@@ -814,8 +798,8 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 187,
-      "reserved": 86,
+      "available": 186,
+      "reserved": 85,
       "bookable": true
     },
     {
@@ -830,7 +814,7 @@
       "date": "Do., 15.7.",
       "timestamp": 1626384600000,
       "time": "21:30",
-      "available": 477,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -960,8 +944,8 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 27,
-      "reserved": 62,
+      "available": 25,
+      "reserved": 64,
       "bookable": true
     },
     {
@@ -1008,8 +992,8 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 211,
-      "reserved": 60,
+      "available": 212,
+      "reserved": 59,
       "bookable": true
     },
     {
@@ -1024,7 +1008,7 @@
       "date": "So., 13.6.",
       "timestamp": 1623619800000,
       "time": "21:30",
-      "available": 81,
+      "available": 79,
       "reserved": 64,
       "bookable": true
     },
@@ -1056,8 +1040,8 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624052700000,
       "time": "21:45",
-      "available": 39,
-      "reserved": 58,
+      "available": 37,
+      "reserved": 60,
       "bookable": true
     },
     {
@@ -1088,8 +1072,8 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 59,
-      "reserved": 58,
+      "available": 55,
+      "reserved": 62,
       "bookable": true
     }
   ],
@@ -1116,7 +1100,6 @@
       "timestamp": 1623456000000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689273?layout=shows",
-      "reserved": 190,
       "bookable": false
     },
     {
@@ -1595,8 +1578,8 @@
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385350494?layout=shows",
       "img": "https://media.kinoheld.de/CsuoIVKzjO-eKdXx7kEO2fKrrbo=/200x280/images%2Ffilm%2Fseberg-16347.v156.jpg",
-      "available": 8,
-      "reserved": 25,
+      "available": 5,
+      "reserved": 27,
       "bookable": true
     },
     {
@@ -1741,7 +1724,6 @@
       "timestamp": 1623456000000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2381102309?layout=shows",
-      "reserved": 115,
       "bookable": false
     },
     {
