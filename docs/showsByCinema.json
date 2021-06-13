@@ -76,7 +76,7 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 123,
+      "available": 125,
       "reserved": 181,
       "bookable": true
     },
@@ -188,7 +188,7 @@
       "date": "Di., 15.6.",
       "timestamp": 1623793500000,
       "time": "21:45",
-      "available": 186,
+      "available": 188,
       "reserved": 190,
       "bookable": true
     },
@@ -622,7 +622,7 @@
       "date": "Do., 1.7.,",
       "timestamp": 1625175900000,
       "time": "21:45",
-      "available": 0,
+      "available": 473,
       "reserved": 0,
       "bookable": true
     },
@@ -656,7 +656,7 @@
       "time": "21:30",
       "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -686,7 +686,7 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626125400000,
       "time": "21:30",
-      "available": 0,
+      "available": 477,
       "reserved": 0,
       "bookable": true
     },
@@ -702,7 +702,7 @@
       "date": "Do., 8.7.,",
       "timestamp": 1625779800000,
       "time": "21:30",
-      "available": 0,
+      "available": 471,
       "reserved": 0,
       "bookable": true
     },
@@ -718,8 +718,8 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624657500000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 461,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -814,7 +814,7 @@
       "date": "Do., 15.7.",
       "timestamp": 1626384600000,
       "time": "21:30",
-      "available": 0,
+      "available": 477,
       "reserved": 0,
       "bookable": true
     },
@@ -928,7 +928,7 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 208,
+      "available": 206,
       "reserved": 51,
       "bookable": true
     },
@@ -1072,8 +1072,8 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 51,
-      "reserved": 64,
+      "available": 50,
+      "reserved": 65,
       "bookable": true
     }
   ],
