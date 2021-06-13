@@ -12,7 +12,7 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 502,
+      "available": 500,
       "reserved": 3,
       "bookable": true
     },
@@ -60,7 +60,7 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 48,
+      "available": 42,
       "reserved": 200,
       "bookable": true
     },
@@ -108,7 +108,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625247000000,
       "time": "17:30",
-      "available": 230,
+      "available": 228,
       "reserved": 38,
       "bookable": true
     },
@@ -172,7 +172,7 @@
       "date": "Di., 15.6.",
       "timestamp": 1623793500000,
       "time": "21:45",
-      "available": 132,
+      "available": 128,
       "reserved": 198,
       "bookable": true
     },
@@ -622,7 +622,7 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 465,
+      "available": 463,
       "reserved": 2,
       "bookable": true
     },
@@ -782,7 +782,7 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 441,
+      "available": 439,
       "reserved": 4,
       "bookable": true
     },
@@ -880,7 +880,7 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 178,
+      "available": 176,
       "reserved": 69,
       "bookable": true
     },
@@ -928,8 +928,8 @@
       "date": "Di., 15.6.",
       "timestamp": 1623793500000,
       "time": "21:45",
-      "available": 325,
-      "reserved": 60,
+      "available": 320,
+      "reserved": 63,
       "bookable": true
     },
     {
@@ -1266,8 +1266,8 @@
       "timestamp": 1624233600000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689213?layout=shows",
-      "available": 168,
-      "reserved": 142,
+      "available": 166,
+      "reserved": 144,
       "bookable": true
     },
     {
@@ -1281,8 +1281,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689214?layout=shows",
       "img": "https://media.kinoheld.de/xdn45ISiNuiVF9UW4WLvdGqkXKI=/200x280/images%2Ffilm%2Fpush-fuer-das-grundrecht-auf-wohnen-13187.v7.jpg",
-      "available": 205,
-      "reserved": 126,
+      "available": 199,
+      "reserved": 130,
       "bookable": true
     },
     {
