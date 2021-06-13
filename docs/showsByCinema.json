@@ -28,7 +28,7 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 413,
+      "available": 409,
       "reserved": 159,
       "bookable": true
     },
@@ -46,22 +46,6 @@
       "time": "20:00",
       "available": 8,
       "reserved": 68,
-      "bookable": true
-    },
-    {
-      "cinemaId": "fh_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
-      "cinemaName": "Freiluftkino Friedrichshain",
-      "cinemaShortName": "fhain",
-      "id": "653",
-      "url": "https://kinotickets-online.com/fh_freiluftkino/seats/653",
-      "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=642",
-      "title": "Die Welt wird eine andere sein",
-      "date": "So., 13.6.",
-      "timestamp": 1623619800000,
-      "time": "21:30",
-      "available": 1,
-      "reserved": 201,
       "bookable": true
     },
     {
@@ -124,7 +108,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625247000000,
       "time": "17:30",
-      "available": 236,
+      "available": 232,
       "reserved": 38,
       "bookable": true
     },
@@ -366,25 +350,9 @@
       "date": "Di., 6.7.,",
       "timestamp": 1625607900000,
       "time": "21:45",
-      "available": 457,
+      "available": 455,
       "reserved": 4,
       "bookable": true
-    },
-    {
-      "cinemaId": "kb_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
-      "cinemaName": "Freiluftkino Kreuzberg",
-      "cinemaShortName": "xberg",
-      "id": "592",
-      "url": "https://kinotickets-online.com/kb_freiluftkino/seats/592",
-      "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=581",
-      "title": "Brother`s Keeper",
-      "date": "So., 13.6.",
-      "timestamp": 1623619800000,
-      "time": "21:30",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -398,8 +366,8 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
       "time": "21:30",
-      "available": 449,
-      "reserved": 6,
+      "available": 442,
+      "reserved": 9,
       "bookable": true
     },
     {
@@ -478,7 +446,7 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 452,
+      "available": 454,
       "reserved": 5,
       "bookable": true
     },
@@ -702,7 +670,7 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624657500000,
       "time": "21:45",
-      "available": 450,
+      "available": 448,
       "reserved": 3,
       "bookable": true
     },
@@ -782,8 +750,8 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 143,
-      "reserved": 96,
+      "available": 142,
+      "reserved": 97,
       "bookable": true
     },
     {
@@ -814,8 +782,8 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 444,
-      "reserved": 3,
+      "available": 443,
+      "reserved": 4,
       "bookable": true
     },
     {
@@ -830,8 +798,8 @@
       "date": "Mo., 5.7.,",
       "timestamp": 1625521500000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 474,
+      "reserved": 1,
       "bookable": true
     },
     {
@@ -880,7 +848,7 @@
       "date": "Fr., 16.7.",
       "timestamp": 1626438600000,
       "time": "12:30",
-      "available": 560,
+      "available": 558,
       "reserved": 5,
       "bookable": true
     },
@@ -976,24 +944,8 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 198,
-      "reserved": 59,
-      "bookable": true
-    },
-    {
-      "cinemaId": "rb_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
-      "cinemaName": "Freiluftkino Rehberge",
-      "cinemaShortName": "rehberge",
-      "id": "574",
-      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/574",
-      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=557",
-      "title": "Ninjababy",
-      "date": "So., 13.6.",
-      "timestamp": 1623619800000,
-      "time": "21:30",
-      "available": 37,
-      "reserved": 88,
+      "available": 196,
+      "reserved": 61,
       "bookable": true
     },
     {
@@ -1056,7 +1008,7 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 19,
+      "available": 17,
       "reserved": 88,
       "bookable": true
     }
@@ -1330,8 +1282,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689214?layout=shows",
       "img": "https://media.kinoheld.de/xdn45ISiNuiVF9UW4WLvdGqkXKI=/200x280/images%2Ffilm%2Fpush-fuer-das-grundrecht-auf-wohnen-13187.v7.jpg",
-      "available": 210,
-      "reserved": 121,
+      "available": 205,
+      "reserved": 126,
       "bookable": true
     },
     {
