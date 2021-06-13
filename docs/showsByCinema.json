@@ -140,7 +140,7 @@
       "date": "So., 11.7.",
       "timestamp": 1626024600000,
       "time": "17:30",
-      "available": 325,
+      "available": 321,
       "reserved": 51,
       "bookable": true
     },
@@ -350,8 +350,8 @@
       "date": "Di., 15.6.",
       "timestamp": 1623793500000,
       "time": "21:45",
-      "available": 9,
-      "reserved": 100,
+      "available": 10,
+      "reserved": 99,
       "bookable": true
     },
     {
@@ -526,8 +526,8 @@
       "date": "Mi., 16.6.",
       "timestamp": 1623878100000,
       "time": "21:15",
-      "available": 16,
-      "reserved": 93,
+      "available": 14,
+      "reserved": 95,
       "bookable": true
     },
     {
@@ -638,7 +638,7 @@
       "date": "So., 13.6.",
       "timestamp": 1623596400000,
       "time": "15:00",
-      "available": 4,
+      "available": 2,
       "reserved": 99,
       "bookable": true
     },
@@ -1024,7 +1024,7 @@
       "date": "Fr., 20.8.",
       "timestamp": 1629489600000,
       "time": "20:00",
-      "available": 389,
+      "available": 387,
       "reserved": 4,
       "bookable": true
     },
@@ -1100,7 +1100,7 @@
       "timestamp": 1623542400000,
       "time": "12:00",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689216?layout=shows",
-      "available": 499,
+      "available": 489,
       "reserved": 51,
       "bookable": true
     },
