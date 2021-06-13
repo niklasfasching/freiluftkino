@@ -12,8 +12,8 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 505,
-      "reserved": 2,
+      "available": 502,
+      "reserved": 3,
       "bookable": true
     },
     {
@@ -28,7 +28,7 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 411,
+      "available": 405,
       "reserved": 159,
       "bookable": true
     },
@@ -172,8 +172,8 @@
       "date": "Di., 15.6.",
       "timestamp": 1623793500000,
       "time": "21:45",
-      "available": 136,
-      "reserved": 196,
+      "available": 134,
+      "reserved": 198,
       "bookable": true
     },
     {
@@ -316,7 +316,7 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624023000000,
       "time": "13:30",
-      "available": 223,
+      "available": 221,
       "reserved": 73,
       "bookable": true
     }
@@ -478,7 +478,7 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 473,
+      "available": 471,
       "reserved": 0,
       "bookable": true
     },
@@ -574,8 +574,8 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 327,
-      "reserved": 74,
+      "available": 324,
+      "reserved": 77,
       "bookable": true
     },
     {
@@ -750,8 +750,8 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 142,
-      "reserved": 95,
+      "available": 141,
+      "reserved": 96,
       "bookable": true
     },
     {
@@ -782,8 +782,8 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 442,
-      "reserved": 3,
+      "available": 441,
+      "reserved": 4,
       "bookable": true
     },
     {
@@ -798,8 +798,8 @@
       "date": "Mo., 5.7.,",
       "timestamp": 1625521500000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 474,
+      "reserved": 1,
       "bookable": true
     },
     {
@@ -848,7 +848,7 @@
       "date": "Fr., 16.7.",
       "timestamp": 1626438600000,
       "time": "12:30",
-      "available": 558,
+      "available": 556,
       "reserved": 5,
       "bookable": true
     },
@@ -864,7 +864,7 @@
       "date": "Sa., 17.7.",
       "timestamp": 1626525000000,
       "time": "12:30",
-      "available": 552,
+      "available": 550,
       "reserved": 5,
       "bookable": true
     },
@@ -912,8 +912,8 @@
       "date": "Mi., 16.6.",
       "timestamp": 1623879900000,
       "time": "21:45",
-      "available": 412,
-      "reserved": 41,
+      "available": 411,
+      "reserved": 42,
       "bookable": true
     },
     {
@@ -960,8 +960,8 @@
       "date": "Fr., 20.8.",
       "timestamp": 1629489600000,
       "time": "20:00",
-      "available": 381,
-      "reserved": 4,
+      "available": 380,
+      "reserved": 5,
       "bookable": true
     },
     {
@@ -1498,7 +1498,8 @@
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385350518?layout=shows",
       "img": "https://media.kinoheld.de/omNdKbLfk02-DYDQDMJxFzVv4Xs=/200x280/images%2Ffilm%2Fshoplifters-familienbande-11080.v2.jpg",
-      "reserved": 32,
+      "available": 2,
+      "reserved": 30,
       "bookable": true
     },
     {
