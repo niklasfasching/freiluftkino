@@ -57,6 +57,7 @@ async function getKinoheldCinema(cinemaId, cinemaName, cinemaShortName) {
       cinemaUrl: `https://www.kinoheld.de/kino-berlin/${cinemaName}/shows/movies`,
       cinemaName,
       cinemaShortName,
+      id: show.id,
       title: `${show.name} ${show.flags.length ? `(${show.flags.map(flag => flag.name).join(" / ")})` : ""}`,
       date: formatDate(new Date(show.date)),
       timestamp: new Date(show.date + " UTC").getTime(),
