@@ -28,7 +28,7 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 400,
+      "available": 398,
       "reserved": 160,
       "bookable": true
     },
@@ -44,8 +44,8 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624651200000,
       "time": "20:00",
-      "available": 7,
-      "reserved": 69,
+      "available": 5,
+      "reserved": 71,
       "bookable": true
     },
     {
@@ -622,8 +622,8 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 462,
-      "reserved": 3,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -750,8 +750,8 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 141,
-      "reserved": 96,
+      "available": 140,
+      "reserved": 97,
       "bookable": true
     },
     {
@@ -782,7 +782,7 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 439,
+      "available": 437,
       "reserved": 4,
       "bookable": true
     },
@@ -1253,8 +1253,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689215?layout=shows",
       "img": "https://media.kinoheld.de/lBkg2xXZF9guvDJzqjb2CT024Es=/200x280/images%2Ffilm%2Flittle-women-15673.v355.jpg",
-      "available": 67,
-      "reserved": 195,
+      "available": 59,
+      "reserved": 201,
       "bookable": true
     }
   ],
