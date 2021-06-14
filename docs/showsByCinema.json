@@ -12,7 +12,7 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 498,
+      "available": 496,
       "reserved": 3,
       "bookable": true
     },
@@ -28,8 +28,8 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 386,
-      "reserved": 166,
+      "available": 381,
+      "reserved": 169,
       "bookable": true
     },
     {
@@ -60,7 +60,7 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 22,
+      "available": 14,
       "reserved": 202,
       "bookable": true
     },
@@ -172,8 +172,8 @@
       "date": "Di., 15.6.",
       "timestamp": 1623793500000,
       "time": "21:45",
-      "available": 118,
-      "reserved": 200,
+      "available": 113,
+      "reserved": 201,
       "bookable": true
     },
     {
@@ -316,7 +316,7 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624023000000,
       "time": "13:30",
-      "available": 217,
+      "available": 215,
       "reserved": 73,
       "bookable": true
     }
@@ -366,7 +366,7 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
       "time": "21:30",
-      "available": 436,
+      "available": 432,
       "reserved": 9,
       "bookable": true
     },
@@ -414,8 +414,8 @@
       "date": "So., 4.7.,",
       "timestamp": 1625435100000,
       "time": "21:45",
-      "available": 464,
-      "reserved": 7,
+      "available": 468,
+      "reserved": 3,
       "bookable": true
     },
     {
@@ -462,7 +462,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625262300000,
       "time": "21:45",
-      "available": 407,
+      "available": 405,
       "reserved": 4,
       "bookable": true
     },
@@ -510,7 +510,7 @@
       "date": "So., 11.7.",
       "timestamp": 1626039000000,
       "time": "21:30",
-      "available": 471,
+      "available": 469,
       "reserved": 0,
       "bookable": true
     },
@@ -574,8 +574,8 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 324,
-      "reserved": 77,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -590,7 +590,7 @@
       "date": "Do., 1.7.,",
       "timestamp": 1625175900000,
       "time": "21:45",
-      "available": 473,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -608,7 +608,7 @@
       "time": "21:30",
       "available": 0,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -622,8 +622,8 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 459,
-      "reserved": 6,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -638,7 +638,7 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626125400000,
       "time": "21:30",
-      "available": 477,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -654,7 +654,7 @@
       "date": "Do., 8.7.,",
       "timestamp": 1625779800000,
       "time": "21:30",
-      "available": 467,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -670,8 +670,8 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624657500000,
       "time": "21:45",
-      "available": 443,
-      "reserved": 4,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -688,7 +688,7 @@
       "time": "21:45",
       "available": 0,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -718,7 +718,7 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 471,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -734,7 +734,7 @@
       "date": "Mi., 7.7.,",
       "timestamp": 1625694300000,
       "time": "21:45",
-      "available": 473,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -750,8 +750,8 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 124,
-      "reserved": 103,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -766,7 +766,7 @@
       "date": "Do., 15.7.",
       "timestamp": 1626384600000,
       "time": "21:30",
-      "available": 477,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -782,8 +782,8 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 435,
-      "reserved": 4,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -798,8 +798,8 @@
       "date": "Mo., 5.7.,",
       "timestamp": 1625521500000,
       "time": "21:45",
-      "available": 474,
-      "reserved": 1,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -880,8 +880,8 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 162,
-      "reserved": 81,
+      "available": 159,
+      "reserved": 84,
       "bookable": true
     },
     {
@@ -899,6 +899,22 @@
       "available": 0,
       "reserved": 0,
       "bookable": false
+    },
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "cinemaShortName": "rehberge",
+      "id": "kinotickets-online-592",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/592",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=572",
+      "title": "Der Froschkönig",
+      "date": "Sa., 31.7.",
+      "timestamp": 1627740000000,
+      "time": "14:00",
+      "available": 565,
+      "reserved": 0,
+      "bookable": true
     },
     {
       "cinemaId": "rb_freiluftkino",
@@ -944,7 +960,7 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 187,
+      "available": 181,
       "reserved": 66,
       "bookable": true
     },
@@ -979,22 +995,6 @@
       "available": 0,
       "reserved": 0,
       "bookable": false
-    },
-    {
-      "cinemaId": "rb_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
-      "cinemaName": "Freiluftkino Rehberge",
-      "cinemaShortName": "rehberge",
-      "id": "kinotickets-online-589",
-      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/589",
-      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=570",
-      "title": "test",
-      "date": "Do., 5.8.,",
-      "timestamp": 1628179200000,
-      "time": "16:00",
-      "available": 0,
-      "reserved": 0,
-      "bookable": true
     },
     {
       "cinemaId": "rb_freiluftkino",
@@ -1159,6 +1159,21 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
       "cinemaName": "freiluftkino-hasenheide",
       "cinemaShortName": "hasenheide",
+      "id": "kinoheld-689515",
+      "title": "Taste ",
+      "date": "Fr., 18.6.",
+      "timestamp": 1623974400000,
+      "time": "23:30",
+      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689515?layout=shows",
+      "available": 599,
+      "reserved": 16,
+      "bookable": true
+    },
+    {
+      "cinemaId": "580",
+      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
+      "cinemaName": "freiluftkino-hasenheide",
+      "cinemaShortName": "hasenheide",
       "id": "kinoheld-689123",
       "title": "Last Days at Sea ",
       "date": "Sa., 19.6.",
@@ -1237,8 +1252,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689214?layout=shows",
       "img": "https://media.kinoheld.de/xdn45ISiNuiVF9UW4WLvdGqkXKI=/200x280/images%2Ffilm%2Fpush-fuer-das-grundrecht-auf-wohnen-13187.v7.jpg",
-      "available": 194,
-      "reserved": 133,
+      "available": 190,
+      "reserved": 135,
       "bookable": true
     },
     {
@@ -1253,8 +1268,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689215?layout=shows",
       "img": "https://media.kinoheld.de/lBkg2xXZF9guvDJzqjb2CT024Es=/200x280/images%2Ffilm%2Flittle-women-15673.v355.jpg",
-      "available": 55,
-      "reserved": 198,
+      "available": 59,
+      "reserved": 200,
       "bookable": true
     }
   ],
@@ -1683,8 +1698,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2381102367?layout=shows",
       "img": "https://media.kinoheld.de/gWsMhcB0cCMhAaMc8MBhIQR2-JM=/200x280/images%2Ffilm%2Fherr-bachmann-und-seine-klasse-19045.v1.jpg",
-      "available": 2,
-      "reserved": 103,
+      "available": 4,
+      "reserved": 101,
       "bookable": true
     },
     {
