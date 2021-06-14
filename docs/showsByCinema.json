@@ -28,8 +28,8 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 381,
-      "reserved": 169,
+      "available": 378,
+      "reserved": 170,
       "bookable": true
     },
     {
@@ -172,8 +172,8 @@
       "date": "Di., 15.6.",
       "timestamp": 1623793500000,
       "time": "21:45",
-      "available": 113,
-      "reserved": 201,
+      "available": 102,
+      "reserved": 202,
       "bookable": true
     },
     {
@@ -366,7 +366,7 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
       "time": "21:30",
-      "available": 432,
+      "available": 434,
       "reserved": 9,
       "bookable": true
     },
@@ -462,7 +462,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625262300000,
       "time": "21:45",
-      "available": 405,
+      "available": 407,
       "reserved": 4,
       "bookable": true
     },
@@ -574,8 +574,8 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 321,
+      "reserved": 78,
       "bookable": true
     },
     {
@@ -590,7 +590,7 @@
       "date": "Do., 1.7.,",
       "timestamp": 1625175900000,
       "time": "21:45",
-      "available": 0,
+      "available": 471,
       "reserved": 0,
       "bookable": true
     },
@@ -608,7 +608,7 @@
       "time": "21:30",
       "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -622,8 +622,8 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 459,
+      "reserved": 6,
       "bookable": true
     },
     {
@@ -638,7 +638,7 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626125400000,
       "time": "21:30",
-      "available": 0,
+      "available": 477,
       "reserved": 0,
       "bookable": true
     },
@@ -654,7 +654,7 @@
       "date": "Do., 8.7.,",
       "timestamp": 1625779800000,
       "time": "21:30",
-      "available": 0,
+      "available": 467,
       "reserved": 0,
       "bookable": true
     },
@@ -670,8 +670,8 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624657500000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 441,
+      "reserved": 4,
       "bookable": true
     },
     {
@@ -688,7 +688,7 @@
       "time": "21:45",
       "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -718,7 +718,7 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 0,
+      "available": 471,
       "reserved": 0,
       "bookable": true
     },
@@ -734,7 +734,7 @@
       "date": "Mi., 7.7.,",
       "timestamp": 1625694300000,
       "time": "21:45",
-      "available": 0,
+      "available": 473,
       "reserved": 0,
       "bookable": true
     },
@@ -750,8 +750,8 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 119,
+      "reserved": 106,
       "bookable": true
     },
     {
@@ -766,7 +766,7 @@
       "date": "Do., 15.7.",
       "timestamp": 1626384600000,
       "time": "21:30",
-      "available": 0,
+      "available": 477,
       "reserved": 0,
       "bookable": true
     },
@@ -782,8 +782,8 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 429,
+      "reserved": 6,
       "bookable": true
     },
     {
@@ -798,8 +798,8 @@
       "date": "Mo., 5.7.,",
       "timestamp": 1625521500000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 474,
+      "reserved": 1,
       "bookable": true
     },
     {
@@ -880,8 +880,8 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 159,
-      "reserved": 84,
+      "available": 157,
+      "reserved": 86,
       "bookable": true
     },
     {
@@ -960,8 +960,8 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 181,
-      "reserved": 66,
+      "available": 179,
+      "reserved": 68,
       "bookable": true
     },
     {
@@ -1698,9 +1698,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2381102367?layout=shows",
       "img": "https://media.kinoheld.de/gWsMhcB0cCMhAaMc8MBhIQR2-JM=/200x280/images%2Ffilm%2Fherr-bachmann-und-seine-klasse-19045.v1.jpg",
-      "available": 4,
-      "reserved": 101,
-      "bookable": true
+      "reserved": 103,
+      "bookable": false
     },
     {
       "cinemaId": "2153",
