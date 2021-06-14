@@ -60,8 +60,8 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 363,
-      "reserved": 173,
+      "available": 355,
+      "reserved": 179,
       "bookable": true
     },
     {
@@ -140,8 +140,8 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 524,
-      "reserved": 1,
+      "available": 519,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -332,7 +332,7 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 525,
+      "available": 519,
       "reserved": 0,
       "bookable": true
     },
@@ -396,7 +396,7 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 527,
+      "available": 525,
       "reserved": 0,
       "bookable": true
     },
@@ -412,7 +412,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625262300000,
       "time": "21:45",
-      "available": 527,
+      "available": 525,
       "reserved": 0,
       "bookable": true
     },
@@ -428,8 +428,8 @@
       "date": "Di., 15.6.",
       "timestamp": 1623793500000,
       "time": "21:45",
-      "available": 76,
-      "reserved": 202,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -444,7 +444,7 @@
       "date": "So., 11.7.",
       "timestamp": 1626039900000,
       "time": "21:45",
-      "available": 527,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -462,7 +462,7 @@
       "time": "21:45",
       "available": 0,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "fh_freiluftkino",
@@ -830,8 +830,8 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 469,
-      "reserved": 0,
+      "available": 467,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -926,7 +926,7 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 317,
+      "available": 311,
       "reserved": 80,
       "bookable": true
     },
@@ -1102,8 +1102,8 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 119,
-      "reserved": 98,
+      "available": 115,
+      "reserved": 100,
       "bookable": true
     },
     {
@@ -1280,8 +1280,8 @@
       "date": "Mi., 16.6.",
       "timestamp": 1623879900000,
       "time": "21:45",
-      "available": 392,
-      "reserved": 51,
+      "available": 389,
+      "reserved": 52,
       "bookable": true
     },
     {
@@ -1312,8 +1312,8 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 166,
-      "reserved": 75,
+      "available": 167,
+      "reserved": 76,
       "bookable": true
     },
     {
@@ -1330,6 +1330,22 @@
       "time": "20:00",
       "available": 378,
       "reserved": 5,
+      "bookable": true
+    },
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "cinemaShortName": "rehberge",
+      "id": "kinotickets-online-596",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/596",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=576",
+      "title": "Rosas Hochzeit",
+      "date": "Mo., 21.6.",
+      "timestamp": 1624311900000,
+      "time": "21:45",
+      "available": 565,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -1360,8 +1376,8 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 16,
-      "reserved": 81,
+      "available": 10,
+      "reserved": 87,
       "bookable": true
     }
   ],
@@ -1805,7 +1821,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385350494?layout=shows",
       "img": "https://media.kinoheld.de/CsuoIVKzjO-eKdXx7kEO2fKrrbo=/200x280/images%2Ffilm%2Fseberg-16347.v156.jpg",
       "available": 1,
-      "reserved": 29,
+      "reserved": 30,
       "bookable": true
     },
     {
