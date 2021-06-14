@@ -12,7 +12,7 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 496,
+      "available": 494,
       "reserved": 3,
       "bookable": true
     },
@@ -60,8 +60,8 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 359,
-      "reserved": 175,
+      "available": 354,
+      "reserved": 176,
       "bookable": true
     },
     {
@@ -108,7 +108,7 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626126300000,
       "time": "21:45",
-      "available": 527,
+      "available": 525,
       "reserved": 0,
       "bookable": true
     },
@@ -140,7 +140,7 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 505,
+      "available": 499,
       "reserved": 6,
       "bookable": true
     },
@@ -156,9 +156,9 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 2,
-      "reserved": 202,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "cinemaId": "fh_freiluftkino",
@@ -188,7 +188,7 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625867100000,
       "time": "21:45",
-      "available": 527,
+      "available": 525,
       "reserved": 0,
       "bookable": true
     },
@@ -332,7 +332,7 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 514,
+      "available": 508,
       "reserved": 1,
       "bookable": true
     },
@@ -348,7 +348,7 @@
       "date": "Do., 1.7.,",
       "timestamp": 1625175900000,
       "time": "21:45",
-      "available": 527,
+      "available": 523,
       "reserved": 0,
       "bookable": true
     },
@@ -396,7 +396,7 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 517,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -412,7 +412,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625262300000,
       "time": "21:45",
-      "available": 525,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -702,7 +702,7 @@
       "date": "Di., 6.7.,",
       "timestamp": 1625607900000,
       "time": "21:45",
-      "available": 448,
+      "available": 444,
       "reserved": 5,
       "bookable": true
     },
@@ -718,7 +718,7 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
       "time": "21:30",
-      "available": 426,
+      "available": 422,
       "reserved": 9,
       "bookable": true
     },
@@ -766,7 +766,7 @@
       "date": "So., 4.7.,",
       "timestamp": 1625435100000,
       "time": "21:45",
-      "available": 463,
+      "available": 461,
       "reserved": 8,
       "bookable": true
     },
@@ -830,7 +830,7 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 463,
+      "available": 461,
       "reserved": 2,
       "bookable": true
     },
@@ -894,7 +894,7 @@
       "date": "Di., 13.7.",
       "timestamp": 1626211800000,
       "time": "21:30",
-      "available": 475,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -910,7 +910,7 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 477,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -926,8 +926,8 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 309,
-      "reserved": 80,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -942,7 +942,7 @@
       "date": "Do., 1.7.,",
       "timestamp": 1625175900000,
       "time": "21:45",
-      "available": 469,
+      "available": 467,
       "reserved": 0,
       "bookable": true
     },
@@ -960,7 +960,7 @@
       "time": "21:30",
       "available": 0,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -974,8 +974,8 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 459,
-      "reserved": 6,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -990,7 +990,7 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626125400000,
       "time": "21:30",
-      "available": 477,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -1022,8 +1022,8 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624657500000,
       "time": "21:45",
-      "available": 437,
-      "reserved": 4,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -1040,7 +1040,7 @@
       "time": "21:45",
       "available": 0,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -1054,7 +1054,7 @@
       "date": "Do., 19.8.",
       "timestamp": 1629388800000,
       "time": "16:00",
-      "available": 492,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -1070,7 +1070,7 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 471,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -1086,7 +1086,7 @@
       "date": "Mi., 7.7.,",
       "timestamp": 1625694300000,
       "time": "21:45",
-      "available": 473,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -1102,8 +1102,8 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 111,
-      "reserved": 100,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -1134,8 +1134,8 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 423,
-      "reserved": 8,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -1150,8 +1150,8 @@
       "date": "Mo., 5.7.,",
       "timestamp": 1625521500000,
       "time": "21:45",
-      "available": 474,
-      "reserved": 1,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -1188,6 +1188,22 @@
     }
   ],
   "Freiluftkino Rehberge": [
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "cinemaShortName": "rehberge",
+      "id": "kinotickets-online-609",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/609",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=589",
+      "title": "25 km/h",
+      "date": "Mo., 5.7.,",
+      "timestamp": 1625521500000,
+      "time": "21:45",
+      "available": 565,
+      "reserved": 0,
+      "bookable": true
+    },
     {
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
@@ -1232,8 +1248,8 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 151,
-      "reserved": 86,
+      "available": 150,
+      "reserved": 87,
       "bookable": true
     },
     {
@@ -1257,6 +1273,38 @@
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
       "cinemaShortName": "rehberge",
+      "id": "kinotickets-online-601",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/601",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=581",
+      "title": "Bodyguard",
+      "date": "Sa., 26.6.",
+      "timestamp": 1624743900000,
+      "time": "21:45",
+      "available": 565,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "cinemaShortName": "rehberge",
+      "id": "kinotickets-online-618",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/618",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=597",
+      "title": "Call me by your Name",
+      "date": "Di., 13.7.",
+      "timestamp": 1626211800000,
+      "time": "21:30",
+      "available": 565,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "cinemaShortName": "rehberge",
       "id": "kinotickets-online-592",
       "url": "https://kinotickets-online.com/rb_freiluftkino/seats/592",
       "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=572",
@@ -1264,6 +1312,86 @@
       "date": "Sa., 31.7.",
       "timestamp": 1627740000000,
       "time": "14:00",
+      "available": 565,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "cinemaShortName": "rehberge",
+      "id": "kinotickets-online-605",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/605",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=585",
+      "title": "Der Glanz der Unsichtbaren",
+      "date": "Do., 1.7.,",
+      "timestamp": 1625175900000,
+      "time": "21:45",
+      "available": 565,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "cinemaShortName": "rehberge",
+      "id": "kinotickets-online-614",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/614",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=594",
+      "title": "Der Rausch",
+      "date": "Sa., 10.7.",
+      "timestamp": 1625952600000,
+      "time": "21:30",
+      "available": 565,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "cinemaShortName": "rehberge",
+      "id": "kinotickets-online-607",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/607",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=587",
+      "title": "Dirty Dancing",
+      "date": "Sa., 3.7.,",
+      "timestamp": 1625348700000,
+      "time": "21:45",
+      "available": 565,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "cinemaShortName": "rehberge",
+      "id": "kinotickets-online-606",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/606",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=586",
+      "title": "Eine Frau mit berauschenden Talenten",
+      "date": "Fr., 2.7.,",
+      "timestamp": 1625262300000,
+      "time": "21:45",
+      "available": 565,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "cinemaShortName": "rehberge",
+      "id": "kinotickets-online-620",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/620",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=599",
+      "title": "Ema",
+      "date": "Di., 29.6.",
+      "timestamp": 1625003100000,
+      "time": "21:45",
       "available": 565,
       "reserved": 0,
       "bookable": true
@@ -1296,8 +1424,24 @@
       "date": "Di., 15.6.",
       "timestamp": 1623793500000,
       "time": "21:45",
-      "available": 309,
-      "reserved": 66,
+      "available": 308,
+      "reserved": 67,
+      "bookable": true
+    },
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "cinemaShortName": "rehberge",
+      "id": "kinotickets-online-597",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/597",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=577",
+      "title": "Futur Drei",
+      "date": "Di., 22.6.",
+      "timestamp": 1624398300000,
+      "time": "21:45",
+      "available": 565,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -1312,8 +1456,120 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 167,
-      "reserved": 76,
+      "available": 162,
+      "reserved": 81,
+      "bookable": true
+    },
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "cinemaShortName": "rehberge",
+      "id": "kinotickets-online-599",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/599",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=579",
+      "title": "Jojo Rabbit",
+      "date": "Do., 24.6.",
+      "timestamp": 1624571100000,
+      "time": "21:45",
+      "available": 565,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "cinemaShortName": "rehberge",
+      "id": "kinotickets-online-598",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/598",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=578",
+      "title": "Kings Of Hollywood",
+      "date": "Mi., 23.6.",
+      "timestamp": 1624484700000,
+      "time": "21:45",
+      "available": 565,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "cinemaShortName": "rehberge",
+      "id": "kinotickets-online-615",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/615",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=595",
+      "title": "Master Cheng in Pohjanjoki",
+      "date": "So., 11.7.",
+      "timestamp": 1626039000000,
+      "time": "21:30",
+      "available": 565,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "cinemaShortName": "rehberge",
+      "id": "kinotickets-online-602",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/602",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=582",
+      "title": "Milla Meets Moses",
+      "date": "So., 27.6.",
+      "timestamp": 1624830300000,
+      "time": "21:45",
+      "available": 565,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "cinemaShortName": "rehberge",
+      "id": "kinotickets-online-619",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/619",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=598",
+      "title": "Minari - Wo wir Wurzeln schlagen",
+      "date": "Mi., 14.7.",
+      "timestamp": 1626298200000,
+      "time": "21:30",
+      "available": 565,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "cinemaShortName": "rehberge",
+      "id": "kinotickets-online-600",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/600",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=580",
+      "title": "Niemals Selten Manchmal Immer",
+      "date": "Fr., 25.6.",
+      "timestamp": 1624657500000,
+      "time": "21:45",
+      "available": 565,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "cinemaShortName": "rehberge",
+      "id": "kinotickets-online-603",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/603",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=583",
+      "title": "Oh Boy",
+      "date": "Mo., 28.6.",
+      "timestamp": 1624916700000,
+      "time": "21:45",
+      "available": 565,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -1328,7 +1584,7 @@
       "date": "Fr., 20.8.",
       "timestamp": 1629489600000,
       "time": "20:00",
-      "available": 374,
+      "available": 372,
       "reserved": 5,
       "bookable": true
     },
@@ -1343,6 +1599,22 @@
       "title": "Rosas Hochzeit",
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
+      "time": "21:45",
+      "available": 565,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "cinemaShortName": "rehberge",
+      "id": "kinotickets-online-608",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/608",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=588",
+      "title": "Schwesterlein",
+      "date": "So., 4.7.,",
+      "timestamp": 1625435100000,
       "time": "21:45",
       "available": 565,
       "reserved": 0,
@@ -1369,6 +1641,70 @@
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
       "cinemaShortName": "rehberge",
+      "id": "kinotickets-online-612",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/612",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=592",
+      "title": "The King of Staten Island",
+      "date": "Do., 8.7.,",
+      "timestamp": 1625779800000,
+      "time": "21:30",
+      "available": 565,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "cinemaShortName": "rehberge",
+      "id": "kinotickets-online-611",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/611",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=591",
+      "title": "The Longest Wave",
+      "date": "Mi., 7.7.,",
+      "timestamp": 1625694300000,
+      "time": "21:45",
+      "available": 565,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "cinemaShortName": "rehberge",
+      "id": "kinotickets-online-610",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/610",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=590",
+      "title": "The Nest - Alles zu haben ist nie genug",
+      "date": "Di., 6.7.,",
+      "timestamp": 1625607900000,
+      "time": "21:45",
+      "available": 0,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "cinemaShortName": "rehberge",
+      "id": "kinotickets-online-616",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/616",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=596",
+      "title": "The Trial of the Chicago 7",
+      "date": "Mo., 12.7.",
+      "timestamp": 1626125400000,
+      "time": "21:30",
+      "available": 0,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "cinemaShortName": "rehberge",
       "id": "kinotickets-online-575",
       "url": "https://kinotickets-online.com/rb_freiluftkino/seats/575",
       "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=558",
@@ -1376,8 +1712,40 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 7,
-      "reserved": 88,
+      "available": 0,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "cinemaShortName": "rehberge",
+      "id": "kinotickets-online-604",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/604",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=584",
+      "title": "Und morgen die ganze Welt",
+      "date": "Mi., 30.6.",
+      "timestamp": 1625089500000,
+      "time": "21:45",
+      "available": 0,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "cinemaShortName": "rehberge",
+      "id": "kinotickets-online-613",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/613",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=593",
+      "title": "United States vs. Billie Holiday",
+      "date": "Fr., 9.7.,",
+      "timestamp": 1625866200000,
+      "time": "21:30",
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     }
   ],
@@ -1393,9 +1761,7 @@
       "timestamp": 1623628800000,
       "time": "17:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689121?layout=shows",
-      "available": 8,
-      "reserved": 53,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1534,7 +1900,9 @@
       "timestamp": 1623974400000,
       "time": "23:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689515?layout=shows",
-      "bookable": false
+      "available": 599,
+      "reserved": 16,
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -1603,8 +1971,8 @@
       "timestamp": 1624233600000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689213?layout=shows",
-      "available": 162,
-      "reserved": 146,
+      "available": 155,
+      "reserved": 150,
       "bookable": true
     },
     {
@@ -1635,8 +2003,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689215?layout=shows",
       "img": "https://media.kinoheld.de/lBkg2xXZF9guvDJzqjb2CT024Es=/200x280/images%2Ffilm%2Flittle-women-15673.v355.jpg",
-      "available": 48,
-      "reserved": 209,
+      "available": 46,
+      "reserved": 211,
       "bookable": true
     }
   ],
@@ -1930,7 +2298,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385436816?layout=shows",
       "img": "https://media.kinoheld.de/6ExA9Nb6dlEuGJ-yg_oFDBhDEPk=/200x280/images%2Ffilm%2Fseret-berlin-kiss-me-kosher-17231.v544.jpg",
-      "available": 55,
+      "available": 54,
+      "reserved": 3,
       "bookable": true
     },
     {
