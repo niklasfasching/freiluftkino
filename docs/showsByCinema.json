@@ -28,8 +28,8 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 398,
-      "reserved": 160,
+      "available": 395,
+      "reserved": 161,
       "bookable": true
     },
     {
@@ -60,7 +60,7 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 32,
+      "available": 30,
       "reserved": 202,
       "bookable": true
     },
@@ -76,7 +76,7 @@
       "date": "Do., 19.8.",
       "timestamp": 1629392400000,
       "time": "17:00",
-      "available": 498,
+      "available": 496,
       "reserved": 2,
       "bookable": true
     },
@@ -446,7 +446,7 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 454,
+      "available": 450,
       "reserved": 5,
       "bookable": true
     },
@@ -622,8 +622,8 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 462,
+      "reserved": 3,
       "bookable": true
     },
     {
@@ -750,8 +750,8 @@
       "date": "Mo., 14.6.",
       "timestamp": 1623707100000,
       "time": "21:45",
-      "available": 140,
-      "reserved": 97,
+      "available": 135,
+      "reserved": 102,
       "bookable": true
     },
     {
@@ -782,7 +782,7 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 437,
+      "available": 435,
       "reserved": 4,
       "bookable": true
     },
@@ -912,8 +912,8 @@
       "date": "Mi., 16.6.",
       "timestamp": 1623879900000,
       "time": "21:45",
-      "available": 410,
-      "reserved": 43,
+      "available": 406,
+      "reserved": 47,
       "bookable": true
     },
     {
@@ -944,8 +944,8 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 196,
-      "reserved": 61,
+      "available": 192,
+      "reserved": 63,
       "bookable": true
     },
     {
@@ -1534,8 +1534,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385354384?layout=shows",
       "img": "https://media.kinoheld.de/Ru2XvrjaAHr4b0Y4XNLaYchpGCI=/200x280/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v203.jpg",
-      "available": 37,
-      "reserved": 10,
+      "available": 32,
+      "reserved": 12,
       "bookable": true
     },
     {
