@@ -380,7 +380,7 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 508,
+      "available": 506,
       "reserved": 5,
       "bookable": true
     },
@@ -1424,7 +1424,7 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 154,
+      "available": 150,
       "reserved": 81,
       "bookable": true
     },
@@ -1632,8 +1632,8 @@
       "date": "Mi., 7.7.,",
       "timestamp": 1625694300000,
       "time": "21:45",
-      "available": 565,
-      "reserved": 0,
+      "available": 564,
+      "reserved": 1,
       "bookable": true
     },
     {
