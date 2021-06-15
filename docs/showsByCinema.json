@@ -12,7 +12,7 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 472,
+      "available": 470,
       "reserved": 3,
       "bookable": true
     },
@@ -220,7 +220,7 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 486,
+      "available": 484,
       "reserved": 17,
       "bookable": true
     },
@@ -253,7 +253,7 @@
       "timestamp": 1625247000000,
       "time": "17:30",
       "available": 177,
-      "reserved": 53,
+      "reserved": 51,
       "bookable": true
     },
     {
@@ -316,8 +316,8 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 479,
-      "reserved": 6,
+      "available": 477,
+      "reserved": 8,
       "bookable": true
     },
     {
@@ -380,7 +380,7 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 493,
+      "available": 491,
       "reserved": 6,
       "bookable": true
     },
@@ -412,7 +412,7 @@
       "date": "Di., 15.6.",
       "timestamp": 1623793500000,
       "time": "21:45",
-      "available": 16,
+      "available": 18,
       "reserved": 196,
       "bookable": true
     },
@@ -446,7 +446,7 @@
       "time": "21:45",
       "available": 0,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "fh_freiluftkino",
@@ -462,7 +462,7 @@
       "time": "21:30",
       "available": 0,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "fh_freiluftkino",
@@ -476,8 +476,8 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624111200000,
       "time": "14:00",
-      "available": 436,
-      "reserved": 4,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -734,9 +734,9 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624052700000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 4,
+      "reserved": 107,
+      "bookable": true
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -814,7 +814,7 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 455,
+      "available": 453,
       "reserved": 2,
       "bookable": true
     },
@@ -910,8 +910,8 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 272,
-      "reserved": 87,
+      "available": 268,
+      "reserved": 89,
       "bookable": true
     },
     {
@@ -1376,8 +1376,8 @@
       "date": "Mi., 16.6.",
       "timestamp": 1623879900000,
       "time": "21:45",
-      "available": 340,
-      "reserved": 69,
+      "available": 337,
+      "reserved": 72,
       "bookable": true
     },
     {
@@ -1424,7 +1424,7 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 135,
+      "available": 137,
       "reserved": 82,
       "bookable": true
     },
@@ -1713,7 +1713,6 @@
       "timestamp": 1623715200000,
       "time": "17:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689122?layout=shows",
-      "reserved": 61,
       "bookable": false
     },
     {
@@ -1754,9 +1753,8 @@
       "timestamp": 1623801600000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689277?layout=shows",
-      "available": 2,
-      "reserved": 192,
-      "bookable": true
+      "reserved": 194,
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -2263,7 +2261,7 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385436816?layout=shows",
       "img": "https://media.kinoheld.de/6ExA9Nb6dlEuGJ-yg_oFDBhDEPk=/200x280/images%2Ffilm%2Fseret-berlin-kiss-me-kosher-17231.v544.jpg",
-      "available": 51,
+      "available": 54,
       "reserved": 3,
       "bookable": true
     },
