@@ -220,8 +220,8 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 491,
-      "reserved": 14,
+      "available": 486,
+      "reserved": 17,
       "bookable": true
     },
     {
@@ -252,8 +252,8 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625247000000,
       "time": "17:30",
-      "available": 179,
-      "reserved": 51,
+      "available": 177,
+      "reserved": 53,
       "bookable": true
     },
     {
@@ -285,7 +285,7 @@
       "timestamp": 1625089500000,
       "time": "21:45",
       "available": 455,
-      "reserved": 12,
+      "reserved": 10,
       "bookable": true
     },
     {
@@ -412,8 +412,8 @@
       "date": "Di., 15.6.",
       "timestamp": 1623793500000,
       "time": "21:45",
-      "available": 12,
-      "reserved": 200,
+      "available": 16,
+      "reserved": 196,
       "bookable": true
     },
     {
@@ -446,7 +446,7 @@
       "time": "21:45",
       "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "fh_freiluftkino",
@@ -462,7 +462,7 @@
       "time": "21:30",
       "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "fh_freiluftkino",
@@ -476,8 +476,8 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624111200000,
       "time": "14:00",
-      "available": 0,
-      "reserved": 0,
+      "available": 436,
+      "reserved": 4,
       "bookable": true
     },
     {
@@ -782,8 +782,8 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 433,
-      "reserved": 6,
+      "available": 430,
+      "reserved": 9,
       "bookable": true
     },
     {
@@ -1216,7 +1216,7 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 116,
+      "available": 114,
       "reserved": 89,
       "bookable": true
     },
@@ -1344,7 +1344,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625262300000,
       "time": "21:45",
-      "available": 559,
+      "available": 561,
       "reserved": 0,
       "bookable": true
     },
@@ -1552,7 +1552,7 @@
       "date": "Fr., 20.8.",
       "timestamp": 1629489600000,
       "time": "20:00",
-      "available": 370,
+      "available": 368,
       "reserved": 5,
       "bookable": true
     },
@@ -1713,9 +1713,8 @@
       "timestamp": 1623715200000,
       "time": "17:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689122?layout=shows",
-      "available": 2,
-      "reserved": 59,
-      "bookable": true
+      "reserved": 61,
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1728,9 +1727,8 @@
       "timestamp": 1623715200000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689276?layout=shows",
-      "available": 1,
-      "reserved": 187,
-      "bookable": true
+      "reserved": 188,
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1756,8 +1754,9 @@
       "timestamp": 1623801600000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689277?layout=shows",
-      "reserved": 194,
-      "bookable": false
+      "available": 2,
+      "reserved": 192,
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -1911,8 +1910,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689214?layout=shows",
       "img": "https://media.kinoheld.de/xdn45ISiNuiVF9UW4WLvdGqkXKI=/200x280/images%2Ffilm%2Fpush-fuer-das-grundrecht-auf-wohnen-13187.v7.jpg",
-      "available": 151,
-      "reserved": 156,
+      "available": 147,
+      "reserved": 159,
       "bookable": true
     },
     {
@@ -1927,8 +1926,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689215?layout=shows",
       "img": "https://media.kinoheld.de/lBkg2xXZF9guvDJzqjb2CT024Es=/200x280/images%2Ffilm%2Flittle-women-15673.v355.jpg",
-      "available": 22,
-      "reserved": 225,
+      "available": 18,
+      "reserved": 227,
       "bookable": true
     },
     {
@@ -2264,7 +2263,7 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385436816?layout=shows",
       "img": "https://media.kinoheld.de/6ExA9Nb6dlEuGJ-yg_oFDBhDEPk=/200x280/images%2Ffilm%2Fseret-berlin-kiss-me-kosher-17231.v544.jpg",
-      "available": 54,
+      "available": 51,
       "reserved": 3,
       "bookable": true
     },
