@@ -92,7 +92,7 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626126300000,
       "time": "21:45",
-      "available": 493,
+      "available": 489,
       "reserved": 4,
       "bookable": true
     },
@@ -108,7 +108,7 @@
       "date": "Mi., 7.7.,",
       "timestamp": 1625694300000,
       "time": "21:45",
-      "available": 525,
+      "available": 523,
       "reserved": 2,
       "bookable": true
     },
@@ -124,8 +124,8 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 459,
-      "reserved": 8,
+      "available": 456,
+      "reserved": 9,
       "bookable": true
     },
     {
@@ -316,7 +316,7 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 482,
+      "available": 484,
       "reserved": 5,
       "bookable": true
     },
@@ -380,8 +380,8 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 504,
-      "reserved": 5,
+      "available": 495,
+      "reserved": 6,
       "bookable": true
     },
     {
@@ -412,7 +412,7 @@
       "date": "Di., 15.6.",
       "timestamp": 1623793500000,
       "time": "21:45",
-      "available": 24,
+      "available": 20,
       "reserved": 202,
       "bookable": true
     },
@@ -446,7 +446,7 @@
       "time": "21:45",
       "available": 0,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "fh_freiluftkino",
@@ -462,7 +462,7 @@
       "time": "21:30",
       "available": 0,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "fh_freiluftkino",
@@ -476,8 +476,8 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624111200000,
       "time": "14:00",
-      "available": 436,
-      "reserved": 4,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -718,8 +718,8 @@
       "date": "Do., 24.6.",
       "timestamp": 1624571100000,
       "time": "21:45",
-      "available": 465,
-      "reserved": 0,
+      "available": 464,
+      "reserved": 1,
       "bookable": true
     },
     {
@@ -894,7 +894,7 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 473,
+      "available": 471,
       "reserved": 2,
       "bookable": true
     },
@@ -910,7 +910,7 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 285,
+      "available": 283,
       "reserved": 84,
       "bookable": true
     },
@@ -1006,7 +1006,7 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624657500000,
       "time": "21:45",
-      "available": 433,
+      "available": 431,
       "reserved": 4,
       "bookable": true
     },
@@ -1216,7 +1216,7 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 123,
+      "available": 119,
       "reserved": 88,
       "bookable": true
     },
@@ -1376,7 +1376,7 @@
       "date": "Mi., 16.6.",
       "timestamp": 1623879900000,
       "time": "21:45",
-      "available": 361,
+      "available": 359,
       "reserved": 62,
       "bookable": true
     },
@@ -1616,8 +1616,8 @@
       "date": "Do., 8.7.,",
       "timestamp": 1625779800000,
       "time": "21:30",
-      "available": 564,
-      "reserved": 1,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -1632,8 +1632,8 @@
       "date": "Mi., 7.7.,",
       "timestamp": 1625694300000,
       "time": "21:45",
-      "available": 564,
-      "reserved": 1,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -1823,7 +1823,7 @@
       "timestamp": 1623974400000,
       "time": "23:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689515?layout=shows",
-      "available": 521,
+      "available": 520,
       "reserved": 35,
       "bookable": true
     },
@@ -1910,8 +1910,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689214?layout=shows",
       "img": "https://media.kinoheld.de/xdn45ISiNuiVF9UW4WLvdGqkXKI=/200x280/images%2Ffilm%2Fpush-fuer-das-grundrecht-auf-wohnen-13187.v7.jpg",
-      "available": 177,
-      "reserved": 139,
+      "available": 178,
+      "reserved": 141,
       "bookable": true
     },
     {
@@ -2255,9 +2255,8 @@
       "timestamp": 1623715200000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2381102327?layout=shows",
-      "available": 1,
-      "reserved": 104,
-      "bookable": true
+      "reserved": 105,
+      "bookable": false
     },
     {
       "cinemaId": "2153",
