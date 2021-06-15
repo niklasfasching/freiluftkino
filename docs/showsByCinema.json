@@ -92,7 +92,7 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626126300000,
       "time": "21:45",
-      "available": 473,
+      "available": 471,
       "reserved": 4,
       "bookable": true
     },
@@ -156,7 +156,7 @@
       "date": "Do., 19.8.",
       "timestamp": 1629392400000,
       "time": "17:00",
-      "available": 493,
+      "available": 491,
       "reserved": 3,
       "bookable": true
     },
@@ -220,7 +220,7 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 476,
+      "available": 474,
       "reserved": 17,
       "bookable": true
     },
@@ -766,7 +766,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625262300000,
       "time": "21:45",
-      "available": 393,
+      "available": 391,
       "reserved": 4,
       "bookable": true
     },
@@ -830,8 +830,8 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625866200000,
       "time": "21:30",
-      "available": 456,
-      "reserved": 3,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -878,8 +878,8 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 255,
-      "reserved": 92,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -958,7 +958,7 @@
       "date": "Do., 8.7.,",
       "timestamp": 1625779800000,
       "time": "21:30",
-      "available": 0,
+      "available": 467,
       "reserved": 0,
       "bookable": true
     },
@@ -1022,8 +1022,8 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 461,
+      "reserved": 4,
       "bookable": true
     },
     {
@@ -1038,8 +1038,8 @@
       "date": "Mi., 7.7.,",
       "timestamp": 1625694300000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 469,
+      "reserved": 4,
       "bookable": true
     },
     {
@@ -1070,8 +1070,8 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 390,
-      "reserved": 13,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -1118,8 +1118,8 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 470,
+      "reserved": 1,
       "bookable": true
     }
   ],
@@ -1184,7 +1184,7 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 104,
+      "available": 102,
       "reserved": 89,
       "bookable": true
     },
@@ -1232,7 +1232,7 @@
       "date": "Di., 13.7.",
       "timestamp": 1626211800000,
       "time": "21:30",
-      "available": 559,
+      "available": 557,
       "reserved": 0,
       "bookable": true
     },
@@ -1296,7 +1296,7 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 552,
+      "available": 548,
       "reserved": 3,
       "bookable": true
     },
@@ -1360,7 +1360,7 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 546,
+      "available": 544,
       "reserved": 1,
       "bookable": true
     },
@@ -1859,8 +1859,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689214?layout=shows",
       "img": "https://media.kinoheld.de/xdn45ISiNuiVF9UW4WLvdGqkXKI=/200x280/images%2Ffilm%2Fpush-fuer-das-grundrecht-auf-wohnen-13187.v7.jpg",
-      "available": 141,
-      "reserved": 162,
+      "available": 138,
+      "reserved": 165,
       "bookable": true
     },
     {
@@ -1875,7 +1875,7 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689215?layout=shows",
       "img": "https://media.kinoheld.de/lBkg2xXZF9guvDJzqjb2CT024Es=/200x280/images%2Ffilm%2Flittle-women-15673.v355.jpg",
-      "available": 5,
+      "available": 6,
       "reserved": 233,
       "bookable": true
     },
@@ -1884,12 +1884,12 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
       "cinemaName": "freiluftkino-hasenheide",
       "cinemaShortName": "hasenheide",
-      "id": "kinoheld-689535",
+      "id": "kinoheld-689544",
       "title": "Karte meiner Träume, Die (subtitled OV German)",
       "date": "Fr., 25.6.",
       "timestamp": 1624579200000,
       "time": "21:45",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689535?layout=shows",
+      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689544?layout=shows",
       "img": "https://media.kinoheld.de/Xkb0jCw5i-Wp91mZJbzCleerQIY=/200x280/images%2Ffilm%2F2%2Fdie-karte-meiner-traeume-537.v2.jpg",
       "available": 692,
       "bookable": true
@@ -1920,7 +1920,8 @@
       "timestamp": 1625097600000,
       "time": "19:00",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689529?layout=shows",
-      "available": 692,
+      "available": 678,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -1934,7 +1935,8 @@
       "timestamp": 1625702400000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689520?layout=shows",
-      "available": 692,
+      "available": 682,
+      "reserved": 2,
       "bookable": true
     }
   ],
