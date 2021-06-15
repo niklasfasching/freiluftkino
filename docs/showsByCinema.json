@@ -1344,7 +1344,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625262300000,
       "time": "21:45",
-      "available": 563,
+      "available": 561,
       "reserved": 0,
       "bookable": true
     },
@@ -1755,8 +1755,9 @@
       "timestamp": 1623801600000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689277?layout=shows",
-      "reserved": 194,
-      "bookable": false
+      "available": 3,
+      "reserved": 192,
+      "bookable": true
     },
     {
       "cinemaId": "580",
