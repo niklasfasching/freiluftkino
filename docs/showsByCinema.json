@@ -76,7 +76,7 @@
       "date": "Mi., 14.7.",
       "timestamp": 1626299100000,
       "time": "21:45",
-      "available": 523,
+      "available": 521,
       "reserved": 0,
       "bookable": true
     },
@@ -92,7 +92,7 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626126300000,
       "time": "21:45",
-      "available": 477,
+      "available": 475,
       "reserved": 4,
       "bookable": true
     },
@@ -252,7 +252,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625247000000,
       "time": "17:30",
-      "available": 177,
+      "available": 175,
       "reserved": 51,
       "bookable": true
     },
@@ -284,8 +284,8 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 436,
-      "reserved": 13,
+      "available": 433,
+      "reserved": 14,
       "bookable": true
     },
     {
@@ -316,7 +316,7 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 462,
+      "available": 458,
       "reserved": 11,
       "bookable": true
     },
@@ -398,22 +398,6 @@
       "time": "21:45",
       "available": 504,
       "reserved": 13,
-      "bookable": true
-    },
-    {
-      "cinemaId": "fh_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
-      "cinemaName": "Freiluftkino Friedrichshain",
-      "cinemaShortName": "fhain",
-      "id": "kinotickets-online-655",
-      "url": "https://kinotickets-online.com/fh_freiluftkino/seats/655",
-      "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=644",
-      "title": "Night Raiders",
-      "date": "Di., 15.6.",
-      "timestamp": 1623793500000,
-      "time": "21:45",
-      "available": 1,
-      "reserved": 201,
       "bookable": true
     },
     {
@@ -663,22 +647,6 @@
       "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
       "cinemaName": "Freiluftkino Kreuzberg",
       "cinemaShortName": "xberg",
-      "id": "kinotickets-online-594",
-      "url": "https://kinotickets-online.com/kb_freiluftkino/seats/594",
-      "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=583",
-      "title": "All Eyes Off Me",
-      "date": "Di., 15.6.",
-      "timestamp": 1623793500000,
-      "time": "21:45",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "kb_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
-      "cinemaName": "Freiluftkino Kreuzberg",
-      "cinemaShortName": "xberg",
       "id": "kinotickets-online-619",
       "url": "https://kinotickets-online.com/kb_freiluftkino/seats/619",
       "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=607",
@@ -702,7 +670,7 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
       "time": "21:30",
-      "available": 409,
+      "available": 405,
       "reserved": 12,
       "bookable": true
     },
@@ -782,7 +750,7 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 428,
+      "available": 426,
       "reserved": 11,
       "bookable": true
     },
@@ -846,7 +814,7 @@
       "date": "So., 11.7.",
       "timestamp": 1626039000000,
       "time": "21:30",
-      "available": 0,
+      "available": 463,
       "reserved": 0,
       "bookable": true
     },
@@ -894,8 +862,8 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 471,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -910,8 +878,8 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 259,
+      "reserved": 90,
       "bookable": true
     },
     {
@@ -926,8 +894,8 @@
       "date": "Do., 1.7.,",
       "timestamp": 1625175900000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 462,
+      "reserved": 1,
       "bookable": true
     },
     {
@@ -944,7 +912,7 @@
       "time": "21:30",
       "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -990,7 +958,7 @@
       "date": "Do., 8.7.,",
       "timestamp": 1625779800000,
       "time": "21:30",
-      "available": 0,
+      "available": 467,
       "reserved": 0,
       "bookable": true
     },
@@ -1006,8 +974,8 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624657500000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 425,
+      "reserved": 4,
       "bookable": true
     },
     {
@@ -1038,7 +1006,7 @@
       "date": "Do., 19.8.",
       "timestamp": 1629388800000,
       "time": "16:00",
-      "available": 0,
+      "available": 492,
       "reserved": 0,
       "bookable": true
     },
@@ -1086,7 +1054,7 @@
       "date": "Do., 15.7.",
       "timestamp": 1626384600000,
       "time": "21:30",
-      "available": 0,
+      "available": 477,
       "reserved": 0,
       "bookable": true
     },
@@ -1102,7 +1070,7 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 388,
+      "available": 390,
       "reserved": 13,
       "bookable": true
     },
@@ -1118,8 +1086,8 @@
       "date": "Mo., 5.7.,",
       "timestamp": 1625521500000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 471,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -1134,7 +1102,7 @@
       "date": "Mo., 28.6.",
       "timestamp": 1624916700000,
       "time": "21:45",
-      "available": 0,
+      "available": 357,
       "reserved": 0,
       "bookable": true
     },
@@ -1150,7 +1118,7 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 0,
+      "available": 471,
       "reserved": 0,
       "bookable": true
     }
@@ -1216,7 +1184,7 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 110,
+      "available": 106,
       "reserved": 89,
       "bookable": true
     },
@@ -1264,7 +1232,7 @@
       "date": "Di., 13.7.",
       "timestamp": 1626211800000,
       "time": "21:30",
-      "available": 561,
+      "available": 559,
       "reserved": 0,
       "bookable": true
     },
@@ -1328,8 +1296,8 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 556,
-      "reserved": 1,
+      "available": 554,
+      "reserved": 3,
       "bookable": true
     },
     {
@@ -1376,24 +1344,8 @@
       "date": "Mi., 16.6.",
       "timestamp": 1623879900000,
       "time": "21:45",
-      "available": 333,
+      "available": 331,
       "reserved": 74,
-      "bookable": true
-    },
-    {
-      "cinemaId": "rb_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
-      "cinemaName": "Freiluftkino Rehberge",
-      "cinemaShortName": "rehberge",
-      "id": "kinotickets-online-576",
-      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/576",
-      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=559",
-      "title": "From the Wild Sea",
-      "date": "Di., 15.6.",
-      "timestamp": 1623793500000,
-      "time": "21:45",
-      "available": 271,
-      "reserved": 70,
       "bookable": true
     },
     {
@@ -1408,7 +1360,7 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 550,
+      "available": 546,
       "reserved": 1,
       "bookable": true
     },
@@ -1424,7 +1376,7 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 130,
+      "available": 128,
       "reserved": 83,
       "bookable": true
     },
@@ -1456,7 +1408,7 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 556,
+      "available": 554,
       "reserved": 1,
       "bookable": true
     },
@@ -1520,7 +1472,7 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624657500000,
       "time": "21:45",
-      "available": 551,
+      "available": 549,
       "reserved": 0,
       "bookable": true
     },
@@ -1648,8 +1600,8 @@
       "date": "Di., 6.7.,",
       "timestamp": 1625607900000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 561,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -1726,7 +1678,6 @@
       "timestamp": 1623715200000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689276?layout=shows",
-      "reserved": 188,
       "bookable": false
     },
     {
@@ -1821,7 +1772,7 @@
       "timestamp": 1623974400000,
       "time": "23:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689515?layout=shows",
-      "available": 411,
+      "available": 404,
       "reserved": 61,
       "bookable": true
     },
@@ -1954,7 +1905,8 @@
       "timestamp": 1624665600000,
       "time": "18:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689521?layout=shows",
-      "available": 692,
+      "available": 682,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -2309,9 +2261,7 @@
       "timestamp": 1623715200000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2381102327?layout=shows",
-      "available": 1,
-      "reserved": 107,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "2153",
@@ -2338,9 +2288,8 @@
       "timestamp": 1623888000000,
       "time": "22:00",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2381102349?layout=shows",
-      "available": 2,
-      "reserved": 103,
-      "bookable": true
+      "reserved": 105,
+      "bookable": false
     },
     {
       "cinemaId": "2153",
