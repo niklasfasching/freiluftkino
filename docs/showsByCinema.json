@@ -220,8 +220,8 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 521,
-      "reserved": 6,
+      "available": 518,
+      "reserved": 7,
       "bookable": true
     },
     {
@@ -412,7 +412,7 @@
       "date": "Di., 15.6.",
       "timestamp": 1623793500000,
       "time": "21:45",
-      "available": 34,
+      "available": 32,
       "reserved": 202,
       "bookable": true
     },
@@ -1823,8 +1823,8 @@
       "timestamp": 1623974400000,
       "time": "23:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689515?layout=shows",
-      "available": 535,
-      "reserved": 30,
+      "available": 529,
+      "reserved": 32,
       "bookable": true
     },
     {
@@ -2127,8 +2127,8 @@
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385350542?layout=shows",
       "img": "https://media.kinoheld.de/m-2cuSW9YGl7pEwPOvZx7ITfjKM=/200x280/images%2Ffilm%2F4%2Fspring-breakers-395.v1.jpg",
-      "available": 47,
-      "reserved": 6,
+      "available": 43,
+      "reserved": 8,
       "bookable": true
     },
     {
