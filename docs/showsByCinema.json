@@ -93,7 +93,7 @@
       "timestamp": 1626126300000,
       "time": "21:45",
       "available": 795,
-      "reserved": 11,
+      "reserved": 13,
       "bookable": true
     },
     {
@@ -124,7 +124,7 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 740,
+      "available": 734,
       "reserved": 24,
       "bookable": true
     },
@@ -284,7 +284,7 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 750,
+      "available": 746,
       "reserved": 16,
       "bookable": true
     },
@@ -316,7 +316,7 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 771,
+      "available": 767,
       "reserved": 21,
       "bookable": true
     },
@@ -332,7 +332,7 @@
       "date": "Do., 1.7.,",
       "timestamp": 1625175900000,
       "time": "21:45",
-      "available": 857,
+      "available": 855,
       "reserved": 1,
       "bookable": true
     },
@@ -476,7 +476,7 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625953500000,
       "time": "21:45",
-      "available": 872,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -670,7 +670,7 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
       "time": "21:30",
-      "available": 375,
+      "available": 373,
       "reserved": 18,
       "bookable": true
     },
@@ -704,7 +704,7 @@
       "time": "21:45",
       "available": 0,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -990,7 +990,7 @@
       "date": "Do., 19.8.",
       "timestamp": 1629388800000,
       "time": "16:00",
-      "available": 492,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -1715,8 +1715,8 @@
       "timestamp": 1623974400000,
       "time": "23:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689515?layout=shows",
-      "available": 173,
-      "reserved": 129,
+      "available": 154,
+      "reserved": 136,
       "bookable": true
     },
     {
@@ -1818,7 +1818,7 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689215?layout=shows",
       "img": "https://media.kinoheld.de/lBkg2xXZF9guvDJzqjb2CT024Es=/200x280/images%2Ffilm%2Flittle-women-15673.v355.jpg",
-      "available": 5,
+      "available": 6,
       "reserved": 233,
       "bookable": true
     },
@@ -1898,8 +1898,7 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2382064070?layout=shows",
       "img": "https://media.kinoheld.de/qT0LiWoTktouN4PT_YtvTO7seVs=/200x280/images%2Ffilm%2Fsky-sharks-18873.v1.jpg",
-      "available": 1,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "1657",
