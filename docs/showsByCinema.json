@@ -727,15 +727,15 @@
       "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
       "cinemaName": "Freiluftkino Kreuzberg",
       "cinemaShortName": "xberg",
-      "id": "kinotickets-online-604",
-      "url": "https://kinotickets-online.com/kb_freiluftkino/seats/604",
+      "id": "kinotickets-online-605",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/seats/605",
       "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=592",
       "title": "Ema",
-      "date": "Do., 17.6.",
-      "timestamp": 1623888000000,
-      "time": "00:00",
-      "available": 0,
-      "reserved": 0,
+      "date": "Di., 22.6.",
+      "timestamp": 1624398300000,
+      "time": "21:45",
+      "available": 403,
+      "reserved": 14,
       "bookable": true
     },
     {
@@ -862,7 +862,7 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 207,
+      "available": 205,
       "reserved": 98,
       "bookable": true
     },
@@ -1296,7 +1296,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625262300000,
       "time": "21:45",
-      "available": 559,
+      "available": 561,
       "reserved": 0,
       "bookable": true
     },
@@ -1344,7 +1344,7 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 97,
+      "available": 95,
       "reserved": 84,
       "bookable": true
     },
@@ -1488,8 +1488,8 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 550,
-      "reserved": 5,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -1504,7 +1504,7 @@
       "date": "So., 4.7.,",
       "timestamp": 1625435100000,
       "time": "21:45",
-      "available": 561,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -1522,7 +1522,7 @@
       "time": "21:45",
       "available": 0,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "rb_freiluftkino",
@@ -1536,8 +1536,8 @@
       "date": "Do., 8.7.,",
       "timestamp": 1625779800000,
       "time": "21:30",
-      "available": 562,
-      "reserved": 1,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -1552,8 +1552,8 @@
       "date": "Mi., 7.7.,",
       "timestamp": 1625694300000,
       "time": "21:45",
-      "available": 564,
-      "reserved": 1,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -1568,8 +1568,8 @@
       "date": "Di., 6.7.,",
       "timestamp": 1625607900000,
       "time": "21:45",
-      "available": 561,
-      "reserved": 2,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -1584,7 +1584,7 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626125400000,
       "time": "21:30",
-      "available": 565,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -1849,8 +1849,8 @@
       "timestamp": 1624665600000,
       "time": "18:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689521?layout=shows",
-      "available": 608,
-      "reserved": 18,
+      "available": 601,
+      "reserved": 19,
       "bookable": true
     },
     {
