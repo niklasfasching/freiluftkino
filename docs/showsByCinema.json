@@ -92,7 +92,7 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626126300000,
       "time": "21:45",
-      "available": 468,
+      "available": 466,
       "reserved": 7,
       "bookable": true
     },
@@ -1184,7 +1184,7 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 100,
+      "available": 98,
       "reserved": 89,
       "bookable": true
     },
@@ -2063,6 +2063,20 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2382074665?layout=shows",
       "img": "https://media.kinoheld.de/NI3epKAH2APy0jToaFxOQjO5pX4=/200x280/images%2Ffilm%2Feine-frau-mit-berauschenden-talenten-17113.v1237.jpg",
+      "available": 1,
+      "bookable": true
+    },
+    {
+      "cinemaId": "1657",
+      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
+      "cinemaName": "b-ware-openair-fmp",
+      "cinemaShortName": "fmp",
+      "id": "kinoheld-2388193439",
+      "title": "nd-FilmClub: ASTA, MEIN ENGELCHEN ",
+      "date": "Mi., 30.6.",
+      "timestamp": 1625011200000,
+      "time": "20:45",
+      "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2388193439?layout=shows",
       "available": 1,
       "bookable": true
     }
