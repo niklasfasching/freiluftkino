@@ -92,7 +92,7 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626126300000,
       "time": "21:45",
-      "available": 797,
+      "available": 795,
       "reserved": 11,
       "bookable": true
     },
@@ -220,7 +220,7 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 814,
+      "available": 812,
       "reserved": 22,
       "bookable": true
     },
@@ -396,7 +396,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625262300000,
       "time": "21:45",
-      "available": 853,
+      "available": 851,
       "reserved": 13,
       "bookable": true
     },
@@ -460,8 +460,8 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624111200000,
       "time": "14:00",
-      "available": 0,
-      "reserved": 0,
+      "available": 781,
+      "reserved": 4,
       "bookable": true
     },
     {
@@ -476,8 +476,8 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 860,
+      "reserved": 4,
       "bookable": true
     },
     {
@@ -670,7 +670,7 @@
       "date": "Di., 6.7.,",
       "timestamp": 1625607900000,
       "time": "21:45",
-      "available": 400,
+      "available": 398,
       "reserved": 11,
       "bookable": true
     },
@@ -686,8 +686,8 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
       "time": "21:30",
-      "available": 381,
-      "reserved": 14,
+      "available": 378,
+      "reserved": 15,
       "bookable": true
     },
     {
@@ -807,22 +807,6 @@
       "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
       "cinemaName": "Freiluftkino Kreuzberg",
       "cinemaShortName": "xberg",
-      "id": "kinotickets-online-595",
-      "url": "https://kinotickets-online.com/kb_freiluftkino/seats/595",
-      "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=584",
-      "title": "Miguel`s War",
-      "date": "Mi., 16.6.",
-      "timestamp": 1623878100000,
-      "time": "21:15",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "kb_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
-      "cinemaName": "Freiluftkino Kreuzberg",
-      "cinemaShortName": "xberg",
       "id": "kinotickets-online-624",
       "url": "https://kinotickets-online.com/kb_freiluftkino/seats/624",
       "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=612",
@@ -862,7 +846,7 @@
       "date": "Di., 13.7.",
       "timestamp": 1626211800000,
       "time": "21:30",
-      "available": 475,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -894,8 +878,8 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 209,
-      "reserved": 98,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -910,8 +894,8 @@
       "date": "Do., 1.7.,",
       "timestamp": 1625175900000,
       "time": "21:45",
-      "available": 462,
-      "reserved": 1,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -928,7 +912,7 @@
       "time": "21:30",
       "available": 0,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -942,7 +926,7 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 449,
+      "available": 447,
       "reserved": 6,
       "bookable": true
     },
@@ -974,7 +958,7 @@
       "date": "Do., 8.7.,",
       "timestamp": 1625779800000,
       "time": "21:30",
-      "available": 465,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -1008,7 +992,7 @@
       "time": "21:45",
       "available": 0,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -1022,7 +1006,7 @@
       "date": "Do., 19.8.",
       "timestamp": 1629388800000,
       "time": "16:00",
-      "available": 492,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -1038,8 +1022,8 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 447,
-      "reserved": 4,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -1070,7 +1054,7 @@
       "date": "Do., 15.7.",
       "timestamp": 1626384600000,
       "time": "21:30",
-      "available": 475,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -1086,8 +1070,8 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 361,
-      "reserved": 14,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -1102,8 +1086,8 @@
       "date": "Mo., 5.7.,",
       "timestamp": 1625521500000,
       "time": "21:45",
-      "available": 468,
-      "reserved": 3,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -1118,8 +1102,8 @@
       "date": "Mo., 28.6.",
       "timestamp": 1624916700000,
       "time": "21:45",
-      "available": 348,
-      "reserved": 1,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -1134,8 +1118,8 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 464,
-      "reserved": 3,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     }
   ],
@@ -1200,7 +1184,7 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 72,
+      "available": 66,
       "reserved": 89,
       "bookable": true
     },
@@ -1376,7 +1360,7 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 521,
+      "available": 519,
       "reserved": 2,
       "bookable": true
     },
@@ -1392,8 +1376,8 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 102,
-      "reserved": 85,
+      "available": 101,
+      "reserved": 84,
       "bookable": true
     },
     {
@@ -1764,8 +1748,8 @@
       "timestamp": 1623974400000,
       "time": "23:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689515?layout=shows",
-      "available": 184,
-      "reserved": 123,
+      "available": 183,
+      "reserved": 126,
       "bookable": true
     },
     {
@@ -1836,7 +1820,7 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689213?layout=shows",
       "available": 115,
-      "reserved": 171,
+      "reserved": 174,
       "bookable": true
     },
     {
@@ -1913,7 +1897,7 @@
       "timestamp": 1625097600000,
       "time": "19:00",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689529?layout=shows",
-      "available": 649,
+      "available": 663,
       "reserved": 6,
       "bookable": true
     },
