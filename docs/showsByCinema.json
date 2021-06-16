@@ -188,7 +188,7 @@
       "date": "Mo., 28.6.",
       "timestamp": 1624916700000,
       "time": "21:45",
-      "available": 869,
+      "available": 867,
       "reserved": 3,
       "bookable": true
     },
@@ -252,7 +252,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625247000000,
       "time": "17:30",
-      "available": 501,
+      "available": 499,
       "reserved": 60,
       "bookable": true
     },
@@ -412,7 +412,7 @@
       "date": "So., 11.7.",
       "timestamp": 1626039900000,
       "time": "21:45",
-      "available": 869,
+      "available": 867,
       "reserved": 3,
       "bookable": true
     },
@@ -670,7 +670,7 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
       "time": "21:30",
-      "available": 373,
+      "available": 371,
       "reserved": 18,
       "bookable": true
     },
@@ -1054,7 +1054,7 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 349,
+      "available": 343,
       "reserved": 14,
       "bookable": true
     },
@@ -1488,8 +1488,8 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 547,
+      "reserved": 6,
       "bookable": true
     },
     {
@@ -1504,7 +1504,7 @@
       "date": "So., 4.7.,",
       "timestamp": 1625435100000,
       "time": "21:45",
-      "available": 0,
+      "available": 561,
       "reserved": 0,
       "bookable": true
     },
@@ -1522,7 +1522,7 @@
       "time": "21:45",
       "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "rb_freiluftkino",
@@ -1536,8 +1536,8 @@
       "date": "Do., 8.7.,",
       "timestamp": 1625779800000,
       "time": "21:30",
-      "available": 0,
-      "reserved": 0,
+      "available": 562,
+      "reserved": 1,
       "bookable": true
     },
     {
@@ -1627,32 +1627,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
       "cinemaName": "freiluftkino-hasenheide",
       "cinemaShortName": "hasenheide",
-      "id": "kinoheld-689338",
-      "title": "Benjamin Lectures - 1. Lec. ",
-      "date": "Mi., 16.6.",
-      "timestamp": 1623801600000,
-      "time": "18:00",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689338?layout=shows",
-      "bookable": false
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "kinoheld-689277",
-      "title": "Wood and Water ",
-      "date": "Mi., 16.6.",
-      "timestamp": 1623801600000,
-      "time": "21:45",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689277?layout=shows",
-      "bookable": false
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
       "id": "kinoheld-689474",
       "title": "Benjamin Lectures - 2. Lec. ",
       "date": "Do., 17.6.",
@@ -1715,8 +1689,8 @@
       "timestamp": 1623974400000,
       "time": "23:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689515?layout=shows",
-      "available": 154,
-      "reserved": 136,
+      "available": 148,
+      "reserved": 138,
       "bookable": true
     },
     {
@@ -1864,8 +1838,8 @@
       "timestamp": 1625097600000,
       "time": "19:00",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689529?layout=shows",
-      "available": 663,
-      "reserved": 6,
+      "available": 659,
+      "reserved": 8,
       "bookable": true
     },
     {
@@ -1886,20 +1860,6 @@
   ],
   "freiluftkino-insel-im-cassiopeia": [],
   "b-ware-openair-fmp": [
-    {
-      "cinemaId": "1657",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
-      "cinemaName": "b-ware-openair-fmp",
-      "cinemaShortName": "fmp",
-      "id": "kinoheld-2382064070",
-      "title": "SKY SHARKS - FILM PREVIEW (OV / en)",
-      "date": "Mi., 16.6.",
-      "timestamp": 1623801600000,
-      "time": "21:45",
-      "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2382064070?layout=shows",
-      "img": "https://media.kinoheld.de/qT0LiWoTktouN4PT_YtvTO7seVs=/200x280/images%2Ffilm%2Fsky-sharks-18873.v1.jpg",
-      "bookable": false
-    },
     {
       "cinemaId": "1657",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
@@ -2056,20 +2016,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
       "cinemaName": "central-kino-open-air",
       "cinemaShortName": "central",
-      "id": "kinoheld-2385350542",
-      "title": "open air: Spring Breakers (subtitled OV German)",
-      "date": "Mi., 16.6.",
-      "timestamp": 1623801600000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385350542?layout=shows",
-      "img": "https://media.kinoheld.de/m-2cuSW9YGl7pEwPOvZx7ITfjKM=/200x280/images%2Ffilm%2F4%2Fspring-breakers-395.v1.jpg",
-      "bookable": false
-    },
-    {
-      "cinemaId": "1839",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
-      "cinemaName": "central-kino-open-air",
-      "cinemaShortName": "central",
       "id": "kinoheld-2385354309",
       "title": "open air: Kokon (Deutsch with English subs) (subtitled OV English)",
       "date": "So., 20.6.",
@@ -2178,19 +2124,6 @@
     }
   ],
   "freiluftkino-pompeji-open-air-am-ostkreuz-berlin": [
-    {
-      "cinemaId": "2153",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-      "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-      "cinemaShortName": "pompeji ostkreuz",
-      "id": "kinoheld-2381102333",
-      "title": "BERLINALE SHORTS II (subtitled OV English)",
-      "date": "Mi., 16.6.",
-      "timestamp": 1623801600000,
-      "time": "21:45",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2381102333?layout=shows",
-      "bookable": false
-    },
     {
       "cinemaId": "2153",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
