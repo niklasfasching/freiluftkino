@@ -12,7 +12,7 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 803,
+      "available": 801,
       "reserved": 5,
       "bookable": true
     },
@@ -60,7 +60,7 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624651200000,
       "time": "20:00",
-      "available": 356,
+      "available": 354,
       "reserved": 75,
       "bookable": true
     },
@@ -284,7 +284,7 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 763,
+      "available": 761,
       "reserved": 15,
       "bookable": true
     },
@@ -380,8 +380,8 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 835,
-      "reserved": 9,
+      "available": 838,
+      "reserved": 6,
       "bookable": true
     },
     {
@@ -446,7 +446,7 @@
       "time": "21:30",
       "available": 0,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "fh_freiluftkino",
@@ -894,7 +894,7 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 223,
+      "available": 225,
       "reserved": 96,
       "bookable": true
     },
@@ -1102,7 +1102,7 @@
       "date": "Mo., 5.7.,",
       "timestamp": 1625521500000,
       "time": "21:45",
-      "available": 470,
+      "available": 468,
       "reserved": 3,
       "bookable": true
     },
@@ -1134,8 +1134,8 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 466,
-      "reserved": 3,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     }
   ],
@@ -1168,7 +1168,7 @@
       "date": "Fr., 16.7.",
       "timestamp": 1626438600000,
       "time": "12:30",
-      "available": 556,
+      "available": 554,
       "reserved": 5,
       "bookable": true
     },
@@ -1312,8 +1312,8 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 535,
-      "reserved": 8,
+      "available": 536,
+      "reserved": 7,
       "bookable": true
     },
     {
@@ -1600,8 +1600,8 @@
       "date": "Mi., 7.7.,",
       "timestamp": 1625694300000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 564,
+      "reserved": 1,
       "bookable": true
     },
     {
@@ -1616,8 +1616,8 @@
       "date": "Di., 6.7.,",
       "timestamp": 1625607900000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 561,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -1695,8 +1695,9 @@
       "timestamp": 1623801600000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689277?layout=shows",
+      "available": 2,
       "reserved": 193,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -2114,7 +2115,7 @@
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385350542?layout=shows",
       "img": "https://media.kinoheld.de/m-2cuSW9YGl7pEwPOvZx7ITfjKM=/200x280/images%2Ffilm%2F4%2Fspring-breakers-395.v1.jpg",
-      "available": 21,
+      "available": 17,
       "reserved": 19,
       "bookable": true
     },
