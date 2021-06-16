@@ -60,7 +60,7 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624651200000,
       "time": "20:00",
-      "available": 350,
+      "available": 348,
       "reserved": 75,
       "bookable": true
     },
@@ -92,8 +92,8 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626126300000,
       "time": "21:45",
-      "available": 808,
-      "reserved": 8,
+      "available": 805,
+      "reserved": 11,
       "bookable": true
     },
     {
@@ -124,7 +124,7 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 753,
+      "available": 749,
       "reserved": 21,
       "bookable": true
     },
@@ -172,7 +172,7 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625867100000,
       "time": "21:45",
-      "available": 864,
+      "available": 860,
       "reserved": 2,
       "bookable": true
     },
@@ -220,8 +220,8 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 817,
-      "reserved": 19,
+      "available": 814,
+      "reserved": 22,
       "bookable": true
     },
     {
@@ -476,8 +476,8 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 862,
+      "reserved": 4,
       "bookable": true
     },
     {
@@ -814,8 +814,8 @@
       "date": "Mi., 16.6.",
       "timestamp": 1623878100000,
       "time": "21:15",
-      "available": 10,
-      "reserved": 99,
+      "available": 6,
+      "reserved": 103,
       "bookable": true
     },
     {
@@ -894,7 +894,7 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 225,
+      "available": 223,
       "reserved": 96,
       "bookable": true
     },
@@ -1134,8 +1134,8 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 466,
-      "reserved": 3,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     }
   ],
@@ -1536,8 +1536,8 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 556,
-      "reserved": 3,
+      "available": 554,
+      "reserved": 5,
       "bookable": true
     },
     {
@@ -1767,8 +1767,8 @@
       "timestamp": 1623974400000,
       "time": "23:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689515?layout=shows",
-      "available": 235,
-      "reserved": 110,
+      "available": 232,
+      "reserved": 113,
       "bookable": true
     },
     {
@@ -1838,7 +1838,7 @@
       "timestamp": 1624233600000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689213?layout=shows",
-      "available": 119,
+      "available": 120,
       "reserved": 171,
       "bookable": true
     },
@@ -1916,8 +1916,8 @@
       "timestamp": 1625097600000,
       "time": "19:00",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689529?layout=shows",
-      "available": 668,
-      "reserved": 4,
+      "available": 663,
+      "reserved": 6,
       "bookable": true
     },
     {
@@ -2244,8 +2244,9 @@
       "timestamp": 1623801600000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2381102333?layout=shows",
-      "reserved": 105,
-      "bookable": false
+      "available": 2,
+      "reserved": 103,
+      "bookable": true
     },
     {
       "cinemaId": "2153",
@@ -2511,6 +2512,21 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2386573093?layout=shows",
       "img": "https://media.kinoheld.de/_NCVBtV80-zpAX2S_4DEX39gcFg=/200x280/images%2Ffilm%2Fdemon-slayer-kimetsu-no-yaiba-mugen-train-18801.v6.jpg",
+      "available": 1,
+      "bookable": true
+    },
+    {
+      "cinemaId": "2153",
+      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
+      "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
+      "cinemaShortName": "pompeji ostkreuz",
+      "id": "kinoheld-2388613217",
+      "title": "LOS REYES - KÖNIGLICHE STREUNER (subtitled OV German)",
+      "date": "Mo., 5.7.,",
+      "timestamp": 1625443200000,
+      "time": "21:45",
+      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2388613217?layout=shows",
+      "img": "https://media.kinoheld.de/0PxaL1EZGwApK_mFgH1i5_jT4is=/200x280/images%2Ffilm%2Fmo%2F2413-36731.v2.jpg",
       "available": 1,
       "bookable": true
     },
