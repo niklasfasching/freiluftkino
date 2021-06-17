@@ -124,8 +124,8 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 686,
-      "reserved": 34,
+      "available": 687,
+      "reserved": 33,
       "bookable": true
     },
     {
@@ -236,7 +236,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625247000000,
       "time": "17:30",
-      "available": 486,
+      "available": 482,
       "reserved": 63,
       "bookable": true
     },
@@ -460,8 +460,8 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625953500000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 869,
+      "reserved": 3,
       "bookable": true
     },
     {
@@ -476,8 +476,8 @@
       "date": "Fr., 16.7.",
       "timestamp": 1626471000000,
       "time": "21:30",
-      "available": 0,
-      "reserved": 0,
+      "available": 871,
+      "reserved": 3,
       "bookable": true
     },
     {
@@ -798,7 +798,7 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625866200000,
       "time": "21:30",
-      "available": 440,
+      "available": 438,
       "reserved": 5,
       "bookable": true
     },
@@ -926,7 +926,7 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624657500000,
       "time": "21:45",
-      "available": 398,
+      "available": 396,
       "reserved": 5,
       "bookable": true
     },
@@ -1552,7 +1552,7 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 565,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -1740,8 +1740,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689215?layout=shows",
       "img": "https://media.kinoheld.de/lBkg2xXZF9guvDJzqjb2CT024Es=/200x280/images%2Ffilm%2Flittle-women-15673.v355.jpg",
-      "available": 3,
-      "reserved": 236,
+      "available": 2,
+      "reserved": 237,
       "bookable": true
     },
     {
@@ -1995,8 +1995,8 @@
       "timestamp": 1625702400000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689520?layout=shows",
-      "available": 558,
-      "reserved": 27,
+      "available": 550,
+      "reserved": 29,
       "bookable": true
     },
     {
