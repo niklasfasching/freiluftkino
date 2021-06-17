@@ -124,7 +124,7 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 713,
+      "available": 711,
       "reserved": 29,
       "bookable": true
     },
@@ -172,7 +172,7 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625867100000,
       "time": "21:45",
-      "available": 854,
+      "available": 852,
       "reserved": 2,
       "bookable": true
     },
@@ -220,7 +220,7 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 794,
+      "available": 792,
       "reserved": 22,
       "bookable": true
     },
@@ -284,7 +284,7 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 720,
+      "available": 718,
       "reserved": 18,
       "bookable": true
     },
@@ -316,7 +316,7 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 755,
+      "available": 753,
       "reserved": 21,
       "bookable": true
     },
@@ -396,8 +396,8 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625262300000,
       "time": "21:45",
-      "available": 851,
-      "reserved": 13,
+      "available": 850,
+      "reserved": 14,
       "bookable": true
     },
     {
@@ -444,7 +444,7 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624111200000,
       "time": "14:00",
-      "available": 801,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -460,8 +460,8 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 854,
-      "reserved": 4,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -476,8 +476,8 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625953500000,
       "time": "21:45",
-      "available": 869,
-      "reserved": 3,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -704,7 +704,7 @@
       "time": "21:45",
       "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -718,8 +718,8 @@
       "date": "So., 4.7.,",
       "timestamp": 1625435100000,
       "time": "21:45",
-      "available": 459,
-      "reserved": 8,
+      "available": 458,
+      "reserved": 9,
       "bookable": true
     },
     {
@@ -766,8 +766,8 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625262300000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 388,
+      "reserved": 7,
       "bookable": true
     },
     {
@@ -814,7 +814,7 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625866200000,
       "time": "21:30",
-      "available": 444,
+      "available": 442,
       "reserved": 5,
       "bookable": true
     },
@@ -846,8 +846,8 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 471,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -862,7 +862,7 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 179,
+      "available": 175,
       "reserved": 90,
       "bookable": true
     },
@@ -896,7 +896,7 @@
       "time": "21:30",
       "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -1054,8 +1054,8 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 326,
+      "reserved": 17,
       "bookable": true
     },
     {
@@ -1070,8 +1070,8 @@
       "date": "Mo., 5.7.,",
       "timestamp": 1625521500000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 464,
+      "reserved": 3,
       "bookable": true
     },
     {
@@ -1086,8 +1086,8 @@
       "date": "Mo., 28.6.",
       "timestamp": 1624916700000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 346,
+      "reserved": 1,
       "bookable": true
     },
     {
@@ -1102,8 +1102,8 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 462,
+      "reserved": 3,
       "bookable": true
     }
   ],
@@ -1200,8 +1200,8 @@
       "date": "Di., 13.7.",
       "timestamp": 1626211800000,
       "time": "21:30",
-      "available": 555,
-      "reserved": 0,
+      "available": 554,
+      "reserved": 1,
       "bookable": true
     },
     {
@@ -1296,8 +1296,8 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 556,
-      "reserved": 3,
+      "available": 555,
+      "reserved": 4,
       "bookable": true
     },
     {
@@ -1344,8 +1344,8 @@
       "date": "Do., 24.6.",
       "timestamp": 1624571100000,
       "time": "21:45",
-      "available": 545,
-      "reserved": 2,
+      "available": 546,
+      "reserved": 1,
       "bookable": true
     },
     {
@@ -1552,8 +1552,8 @@
       "date": "Di., 6.7.,",
       "timestamp": 1625607900000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 561,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -1568,7 +1568,7 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626125400000,
       "time": "21:30",
-      "available": 0,
+      "available": 565,
       "reserved": 0,
       "bookable": true
     },
@@ -1584,8 +1584,8 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 26,
+      "reserved": 89,
       "bookable": true
     },
     {
@@ -1647,8 +1647,8 @@
       "timestamp": 1623888000000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689279?layout=shows",
-      "available": 8,
-      "reserved": 192,
+      "available": 2,
+      "reserved": 195,
       "bookable": true
     },
     {
@@ -1690,7 +1690,7 @@
       "timestamp": 1623974400000,
       "time": "23:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689515?layout=shows",
-      "available": 71,
+      "available": 69,
       "reserved": 164,
       "bookable": true
     },
@@ -2072,7 +2072,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385354384?layout=shows",
       "img": "https://media.kinoheld.de/xwwnS-HPR3w7wt7luiNv2E2Sf58=/200x280/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v207.jpg",
       "available": 9,
-      "reserved": 22,
+      "reserved": 24,
       "bookable": true
     },
     {
@@ -2136,7 +2136,7 @@
       "timestamp": 1623888000000,
       "time": "22:00",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2381102349?layout=shows",
-      "available": 5,
+      "available": 7,
       "reserved": 108,
       "bookable": true
     },
@@ -2389,7 +2389,7 @@
       "timestamp": 1625356800000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2386573093?layout=shows",
-      "img": "https://media.kinoheld.de/5PlOJPQrHofOKo_N_zL7p8clBro=/200x280/images%2Ffilm%2Fdemon-slayer-kimetsu-no-yaiba-mugen-train-18801.v7.jpg",
+      "img": "https://media.kinoheld.de/46JImDDlUQHmmsnAlo8_3EvRt94=/200x280/images%2Ffilm%2Fdemon-slayer-kimetsu-no-yaiba-mugen-train-18801.v8.jpg",
       "available": 1,
       "bookable": true
     },
@@ -2479,7 +2479,7 @@
       "timestamp": 1625875200000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2388621683?layout=shows",
-      "img": "https://media.kinoheld.de/5PlOJPQrHofOKo_N_zL7p8clBro=/200x280/images%2Ffilm%2Fdemon-slayer-kimetsu-no-yaiba-mugen-train-18801.v7.jpg",
+      "img": "https://media.kinoheld.de/46JImDDlUQHmmsnAlo8_3EvRt94=/200x280/images%2Ffilm%2Fdemon-slayer-kimetsu-no-yaiba-mugen-train-18801.v8.jpg",
       "available": 1,
       "bookable": true
     },
