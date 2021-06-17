@@ -654,8 +654,8 @@
       "date": "Di., 6.7.,",
       "timestamp": 1625607900000,
       "time": "21:45",
-      "available": 398,
-      "reserved": 11,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -686,8 +686,8 @@
       "date": "Do., 24.6.",
       "timestamp": 1624571100000,
       "time": "21:45",
-      "available": 452,
-      "reserved": 1,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -734,8 +734,8 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 403,
-      "reserved": 14,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -846,8 +846,8 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 471,
-      "reserved": 2,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -862,8 +862,8 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 205,
-      "reserved": 98,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -878,8 +878,8 @@
       "date": "Do., 1.7.,",
       "timestamp": 1625175900000,
       "time": "21:45",
-      "available": 460,
-      "reserved": 1,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -926,7 +926,7 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626125400000,
       "time": "21:30",
-      "available": 475,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -958,8 +958,8 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624657500000,
       "time": "21:45",
-      "available": 408,
-      "reserved": 5,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -990,7 +990,7 @@
       "date": "Do., 19.8.",
       "timestamp": 1629388800000,
       "time": "16:00",
-      "available": 492,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -1054,8 +1054,8 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 343,
-      "reserved": 14,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -1901,7 +1901,7 @@
       "timestamp": 1624060800000,
       "time": "22:00",
       "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2382069982?layout=shows",
-      "img": "https://media.kinoheld.de/ddVo2gc61KooOaUbOMxwLflyQeI=/200x280/images%2Ffilm%2Fder-rausch-18282.v3.jpg",
+      "img": "https://media.kinoheld.de/hg37d7HJn_bj3daYN8UjZNUSv4Q=/200x280/images%2Ffilm%2Fder-rausch-18282.v6.jpg",
       "available": 1,
       "bookable": true
     },
@@ -1931,7 +1931,7 @@
       "timestamp": 1624406400000,
       "time": "22:00",
       "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2382070000?layout=shows",
-      "img": "https://media.kinoheld.de/YOCA9KkMVFdG-7OrQwuCoOUvDeA=/200x280/images%2Ffilm%2Fvor-mir-der-sueden-17826.v2.jpg",
+      "img": "https://media.kinoheld.de/z0UBTqg1mvoMu-Woak1KAXv2IY0=/200x280/images%2Ffilm%2Fvor-mir-der-sueden-17826.v3.jpg",
       "available": 1,
       "bookable": true
     },
@@ -2069,7 +2069,7 @@
       "timestamp": 1624406400000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385354384?layout=shows",
-      "img": "https://media.kinoheld.de/5ekhzrwwjOW-nThQd_4nsGPKRnc=/200x280/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v204.jpg",
+      "img": "https://media.kinoheld.de/xwwnS-HPR3w7wt7luiNv2E2Sf58=/200x280/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v207.jpg",
       "available": 19,
       "reserved": 18,
       "bookable": true
@@ -2222,7 +2222,7 @@
       "timestamp": 1624406400000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2384767493?layout=shows",
-      "img": "https://media.kinoheld.de/ddVo2gc61KooOaUbOMxwLflyQeI=/200x280/images%2Ffilm%2Fder-rausch-18282.v3.jpg",
+      "img": "https://media.kinoheld.de/hg37d7HJn_bj3daYN8UjZNUSv4Q=/200x280/images%2Ffilm%2Fder-rausch-18282.v6.jpg",
       "available": 1,
       "bookable": true
     },
@@ -2282,7 +2282,7 @@
       "timestamp": 1624752000000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2384592759?layout=shows",
-      "img": "https://media.kinoheld.de/ddVo2gc61KooOaUbOMxwLflyQeI=/200x280/images%2Ffilm%2Fder-rausch-18282.v3.jpg",
+      "img": "https://media.kinoheld.de/hg37d7HJn_bj3daYN8UjZNUSv4Q=/200x280/images%2Ffilm%2Fder-rausch-18282.v6.jpg",
       "available": 1,
       "bookable": true
     },
@@ -2357,7 +2357,7 @@
       "timestamp": 1625184000000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2386573077?layout=shows",
-      "img": "https://media.kinoheld.de/5ekhzrwwjOW-nThQd_4nsGPKRnc=/200x280/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v204.jpg",
+      "img": "https://media.kinoheld.de/xwwnS-HPR3w7wt7luiNv2E2Sf58=/200x280/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v207.jpg",
       "available": 1,
       "bookable": true
     },
@@ -2417,7 +2417,7 @@
       "timestamp": 1625529600000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2386573101?layout=shows",
-      "img": "https://media.kinoheld.de/5ekhzrwwjOW-nThQd_4nsGPKRnc=/200x280/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v204.jpg",
+      "img": "https://media.kinoheld.de/xwwnS-HPR3w7wt7luiNv2E2Sf58=/200x280/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v207.jpg",
       "available": 1,
       "bookable": true
     },
@@ -2462,7 +2462,7 @@
       "timestamp": 1625788800000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2388621675?layout=shows",
-      "img": "https://media.kinoheld.de/y7PhI7b0sbphY7BofvrcZJFfCjM=/200x280/images%2Ffilm%2Fund-morgen-die-ganze-welt-17457.v136.jpg",
+      "img": "https://media.kinoheld.de/VFH3CCZGUdz6I7hNkl8ygTGiGJU=/200x280/images%2Ffilm%2Fund-morgen-die-ganze-welt-17457.v138.jpg",
       "available": 1,
       "bookable": true
     },
@@ -2537,7 +2537,7 @@
       "timestamp": 1626220800000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2388621715?layout=shows",
-      "img": "https://media.kinoheld.de/y7PhI7b0sbphY7BofvrcZJFfCjM=/200x280/images%2Ffilm%2Fund-morgen-die-ganze-welt-17457.v136.jpg",
+      "img": "https://media.kinoheld.de/VFH3CCZGUdz6I7hNkl8ygTGiGJU=/200x280/images%2Ffilm%2Fund-morgen-die-ganze-welt-17457.v138.jpg",
       "available": 1,
       "bookable": true
     }
