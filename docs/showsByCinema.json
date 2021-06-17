@@ -124,25 +124,9 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 693,
+      "available": 695,
       "reserved": 33,
       "bookable": true
-    },
-    {
-      "cinemaId": "fh_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
-      "cinemaName": "Freiluftkino Friedrichshain",
-      "cinemaShortName": "fhain",
-      "id": "kinotickets-online-657",
-      "url": "https://kinotickets-online.com/fh_freiluftkino/seats/657",
-      "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=646",
-      "title": "Drift Away",
-      "date": "Do., 17.6.",
-      "timestamp": 1623966300000,
-      "time": "21:45",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
     },
     {
       "cinemaId": "fh_freiluftkino",
@@ -220,7 +204,7 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 790,
+      "available": 788,
       "reserved": 22,
       "bookable": true
     },
@@ -236,7 +220,7 @@
       "date": "Do., 8.7.,",
       "timestamp": 1625780700000,
       "time": "21:45",
-      "available": 872,
+      "available": 868,
       "reserved": 0,
       "bookable": true
     },
@@ -284,7 +268,7 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 711,
+      "available": 707,
       "reserved": 21,
       "bookable": true
     },
@@ -316,7 +300,7 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 745,
+      "available": 749,
       "reserved": 21,
       "bookable": true
     },
@@ -380,7 +364,7 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 824,
+      "available": 820,
       "reserved": 12,
       "bookable": true
     },
@@ -412,7 +396,7 @@
       "date": "So., 11.7.",
       "timestamp": 1626039900000,
       "time": "21:45",
-      "available": 861,
+      "available": 859,
       "reserved": 3,
       "bookable": true
     },
@@ -444,7 +428,7 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624111200000,
       "time": "14:00",
-      "available": 801,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -750,8 +734,8 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 403,
+      "reserved": 16,
       "bookable": true
     },
     {
@@ -798,7 +782,7 @@
       "date": "So., 11.7.",
       "timestamp": 1626039000000,
       "time": "21:30",
-      "available": 461,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -814,8 +798,8 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625866200000,
       "time": "21:30",
-      "available": 440,
-      "reserved": 5,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -848,22 +832,6 @@
       "time": "21:45",
       "available": 471,
       "reserved": 2,
-      "bookable": true
-    },
-    {
-      "cinemaId": "kb_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
-      "cinemaName": "Freiluftkino Kreuzberg",
-      "cinemaShortName": "xberg",
-      "id": "kinotickets-online-596",
-      "url": "https://kinotickets-online.com/kb_freiluftkino/seats/596",
-      "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=585",
-      "title": "North by Current",
-      "date": "Do., 17.6.",
-      "timestamp": 1623966300000,
-      "time": "21:45",
-      "available": 153,
-      "reserved": 100,
       "bookable": true
     },
     {
@@ -926,7 +894,7 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626125400000,
       "time": "21:30",
-      "available": 0,
+      "available": 475,
       "reserved": 0,
       "bookable": true
     },
@@ -958,7 +926,7 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624657500000,
       "time": "21:45",
-      "available": 400,
+      "available": 398,
       "reserved": 5,
       "bookable": true
     },
@@ -976,7 +944,7 @@
       "time": "21:45",
       "available": 0,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -990,7 +958,7 @@
       "date": "Do., 19.8.",
       "timestamp": 1629388800000,
       "time": "16:00",
-      "available": 0,
+      "available": 492,
       "reserved": 0,
       "bookable": true
     },
@@ -1161,22 +1129,6 @@
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
       "cinemaShortName": "rehberge",
-      "id": "kinotickets-online-578",
-      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/578",
-      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=562",
-      "title": "Ballad of the White Cow",
-      "date": "Do., 17.6.",
-      "timestamp": 1623966300000,
-      "time": "21:45",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "rb_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
-      "cinemaName": "Freiluftkino Rehberge",
-      "cinemaShortName": "rehberge",
       "id": "kinotickets-online-601",
       "url": "https://kinotickets-online.com/rb_freiluftkino/seats/601",
       "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=581",
@@ -1264,7 +1216,7 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 522,
+      "available": 520,
       "reserved": 11,
       "bookable": true
     },
@@ -1280,7 +1232,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625262300000,
       "time": "21:45",
-      "available": 559,
+      "available": 557,
       "reserved": 0,
       "bookable": true
     },
@@ -1328,7 +1280,7 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 66,
+      "available": 64,
       "reserved": 89,
       "bookable": true
     },
@@ -1584,7 +1536,7 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 20,
+      "available": 18,
       "reserved": 89,
       "bookable": true
     },
@@ -1600,7 +1552,7 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 0,
+      "available": 565,
       "reserved": 0,
       "bookable": true
     },
@@ -1646,7 +1598,6 @@
       "timestamp": 1623888000000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689279?layout=shows",
-      "reserved": 197,
       "bookable": false
     },
     {
@@ -1688,8 +1639,8 @@
       "timestamp": 1623974400000,
       "time": "23:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689515?layout=shows",
-      "available": 60,
-      "reserved": 170,
+      "available": 55,
+      "reserved": 172,
       "bookable": true
     },
     {
@@ -1820,8 +1771,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689544?layout=shows",
       "img": "https://media.kinoheld.de/Xkb0jCw5i-Wp91mZJbzCleerQIY=/200x280/images%2Ffilm%2F2%2Fdie-karte-meiner-traeume-537.v2.jpg",
-      "available": 601,
-      "reserved": 32,
+      "available": 587,
+      "reserved": 34,
       "bookable": true
     },
     {
@@ -2135,7 +2086,7 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689599?layout=shows",
       "img": "https://media.kinoheld.de/YdyD3HcKlHMBTwqWp30SD7G0wck=/200x280/images%2Ffilm%2Fniemals-selten-manchmal-immer-17085.v354.jpg",
-      "available": 692,
+      "available": 691,
       "bookable": true
     }
   ],
@@ -2416,9 +2367,7 @@
       "timestamp": 1623888000000,
       "time": "22:00",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2381102349?layout=shows",
-      "available": 6,
-      "reserved": 109,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "2153",
