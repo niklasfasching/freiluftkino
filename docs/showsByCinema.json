@@ -284,7 +284,7 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 735,
+      "available": 729,
       "reserved": 17,
       "bookable": true
     },
@@ -476,7 +476,7 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625953500000,
       "time": "21:45",
-      "available": 0,
+      "available": 872,
       "reserved": 0,
       "bookable": true
     },
@@ -670,7 +670,7 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
       "time": "21:30",
-      "available": 365,
+      "available": 367,
       "reserved": 18,
       "bookable": true
     },
@@ -862,7 +862,7 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 190,
+      "available": 188,
       "reserved": 99,
       "bookable": true
     },
@@ -1054,7 +1054,7 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 339,
+      "available": 335,
       "reserved": 14,
       "bookable": true
     },
@@ -1168,7 +1168,7 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 36,
+      "available": 34,
       "reserved": 89,
       "bookable": true
     },
@@ -1344,8 +1344,8 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 89,
-      "reserved": 84,
+      "available": 85,
+      "reserved": 86,
       "bookable": true
     },
     {
@@ -1690,8 +1690,8 @@
       "timestamp": 1623974400000,
       "time": "23:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689515?layout=shows",
-      "available": 85,
-      "reserved": 154,
+      "available": 93,
+      "reserved": 156,
       "bookable": true
     },
     {
@@ -1777,8 +1777,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689214?layout=shows",
       "img": "https://media.kinoheld.de/xdn45ISiNuiVF9UW4WLvdGqkXKI=/200x280/images%2Ffilm%2Fpush-fuer-das-grundrecht-auf-wohnen-13187.v7.jpg",
-      "available": 113,
-      "reserved": 180,
+      "available": 108,
+      "reserved": 183,
       "bookable": true
     },
     {
@@ -2072,7 +2072,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385354384?layout=shows",
       "img": "https://media.kinoheld.de/xwwnS-HPR3w7wt7luiNv2E2Sf58=/200x280/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v207.jpg",
       "available": 15,
-      "reserved": 18,
+      "reserved": 20,
       "bookable": true
     },
     {
