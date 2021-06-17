@@ -12,7 +12,7 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 791,
+      "available": 789,
       "reserved": 5,
       "bookable": true
     },
@@ -92,7 +92,7 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626126300000,
       "time": "21:45",
-      "available": 790,
+      "available": 788,
       "reserved": 12,
       "bookable": true
     },
@@ -284,8 +284,8 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 729,
-      "reserved": 17,
+      "available": 728,
+      "reserved": 18,
       "bookable": true
     },
     {
@@ -782,7 +782,7 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 448,
+      "available": 442,
       "reserved": 5,
       "bookable": true
     },
@@ -862,7 +862,7 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 188,
+      "available": 186,
       "reserved": 99,
       "bookable": true
     },
@@ -1022,7 +1022,7 @@
       "date": "Mi., 7.7.,",
       "timestamp": 1625694300000,
       "time": "21:45",
-      "available": 467,
+      "available": 465,
       "reserved": 4,
       "bookable": true
     },
@@ -1054,8 +1054,8 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 335,
-      "reserved": 14,
+      "available": 330,
+      "reserved": 17,
       "bookable": true
     },
     {
@@ -1161,22 +1161,6 @@
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
       "cinemaShortName": "rehberge",
-      "id": "kinotickets-online-580",
-      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/580",
-      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=564",
-      "title": "A School in Cerro Hueso / Una escuela en Cerro Hue",
-      "date": "Sa., 19.6.",
-      "timestamp": 1624139100000,
-      "time": "21:45",
-      "available": 34,
-      "reserved": 89,
-      "bookable": true
-    },
-    {
-      "cinemaId": "rb_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
-      "cinemaName": "Freiluftkino Rehberge",
-      "cinemaShortName": "rehberge",
       "id": "kinotickets-online-578",
       "url": "https://kinotickets-online.com/rb_freiluftkino/seats/578",
       "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=562",
@@ -1216,7 +1200,7 @@
       "date": "Di., 13.7.",
       "timestamp": 1626211800000,
       "time": "21:30",
-      "available": 557,
+      "available": 555,
       "reserved": 0,
       "bookable": true
     },
@@ -1264,7 +1248,7 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
       "time": "21:30",
-      "available": 542,
+      "available": 540,
       "reserved": 1,
       "bookable": true
     },
@@ -1312,7 +1296,7 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 558,
+      "available": 556,
       "reserved": 3,
       "bookable": true
     },
@@ -1344,7 +1328,7 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 85,
+      "available": 83,
       "reserved": 86,
       "bookable": true
     },
@@ -1593,6 +1577,22 @@
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
       "cinemaShortName": "rehberge",
+      "id": "kinotickets-online-580",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/580",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=564",
+      "title": "Una escuela en Cerro Hue / empfohlen ab 9 Jahren",
+      "date": "Sa., 19.6.",
+      "timestamp": 1624139100000,
+      "time": "21:45",
+      "available": 0,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "cinemaShortName": "rehberge",
       "id": "kinotickets-online-604",
       "url": "https://kinotickets-online.com/rb_freiluftkino/seats/604",
       "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=584",
@@ -1690,7 +1690,7 @@
       "timestamp": 1623974400000,
       "time": "23:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689515?layout=shows",
-      "available": 93,
+      "available": 94,
       "reserved": 156,
       "bookable": true
     },
@@ -1854,8 +1854,8 @@
       "timestamp": 1625702400000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689520?layout=shows",
-      "available": 569,
-      "reserved": 23,
+      "available": 562,
+      "reserved": 25,
       "bookable": true
     }
   ],
@@ -2119,8 +2119,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385436965?layout=shows",
       "img": "https://media.kinoheld.de/hOKPyve9ZSTqgmuuvvhJe5bTi1M=/200x280/images%2Ffilm%2Ffemale-pleasure-11068.v26.jpg",
-      "available": 53,
-      "reserved": 2,
+      "available": 49,
+      "reserved": 4,
       "bookable": true
     }
   ],
@@ -2136,8 +2136,9 @@
       "timestamp": 1623888000000,
       "time": "22:00",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2381102349?layout=shows",
-      "reserved": 105,
-      "bookable": false
+      "available": 1,
+      "reserved": 103,
+      "bookable": true
     },
     {
       "cinemaId": "2153",
@@ -2388,7 +2389,7 @@
       "timestamp": 1625356800000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2386573093?layout=shows",
-      "img": "https://media.kinoheld.de/_NCVBtV80-zpAX2S_4DEX39gcFg=/200x280/images%2Ffilm%2Fdemon-slayer-kimetsu-no-yaiba-mugen-train-18801.v6.jpg",
+      "img": "https://media.kinoheld.de/5PlOJPQrHofOKo_N_zL7p8clBro=/200x280/images%2Ffilm%2Fdemon-slayer-kimetsu-no-yaiba-mugen-train-18801.v7.jpg",
       "available": 1,
       "bookable": true
     },
@@ -2478,7 +2479,7 @@
       "timestamp": 1625875200000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2388621683?layout=shows",
-      "img": "https://media.kinoheld.de/_NCVBtV80-zpAX2S_4DEX39gcFg=/200x280/images%2Ffilm%2Fdemon-slayer-kimetsu-no-yaiba-mugen-train-18801.v6.jpg",
+      "img": "https://media.kinoheld.de/5PlOJPQrHofOKo_N_zL7p8clBro=/200x280/images%2Ffilm%2Fdemon-slayer-kimetsu-no-yaiba-mugen-train-18801.v7.jpg",
       "available": 1,
       "bookable": true
     },
