@@ -124,7 +124,7 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 699,
+      "available": 697,
       "reserved": 33,
       "bookable": true
     },
@@ -284,7 +284,7 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 713,
+      "available": 711,
       "reserved": 21,
       "bookable": true
     },
@@ -444,7 +444,7 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624111200000,
       "time": "14:00",
-      "available": 0,
+      "available": 801,
       "reserved": 0,
       "bookable": true
     },
@@ -460,8 +460,8 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 848,
+      "reserved": 4,
       "bookable": true
     },
     {
@@ -670,8 +670,8 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
       "time": "21:30",
-      "available": 352,
-      "reserved": 19,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -718,8 +718,8 @@
       "date": "So., 4.7.,",
       "timestamp": 1625435100000,
       "time": "21:45",
-      "available": 458,
-      "reserved": 9,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -734,7 +734,7 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 357,
+      "available": 361,
       "reserved": 20,
       "bookable": true
     },
@@ -846,7 +846,7 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 471,
+      "available": 469,
       "reserved": 2,
       "bookable": true
     },
@@ -862,8 +862,8 @@
       "date": "Do., 17.6.",
       "timestamp": 1623966300000,
       "time": "21:45",
-      "available": 154,
-      "reserved": 99,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -878,8 +878,8 @@
       "date": "Do., 1.7.,",
       "timestamp": 1625175900000,
       "time": "21:45",
-      "available": 454,
-      "reserved": 1,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -926,7 +926,7 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626125400000,
       "time": "21:30",
-      "available": 475,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -976,7 +976,7 @@
       "time": "21:45",
       "available": 0,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -990,7 +990,7 @@
       "date": "Do., 19.8.",
       "timestamp": 1629388800000,
       "time": "16:00",
-      "available": 492,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -1006,8 +1006,8 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 422,
-      "reserved": 11,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -1022,8 +1022,8 @@
       "date": "Mi., 7.7.,",
       "timestamp": 1625694300000,
       "time": "21:45",
-      "available": 465,
-      "reserved": 4,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -1054,7 +1054,7 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 318,
+      "available": 316,
       "reserved": 17,
       "bookable": true
     },
@@ -1070,8 +1070,8 @@
       "date": "Mo., 5.7.,",
       "timestamp": 1625521500000,
       "time": "21:45",
-      "available": 464,
-      "reserved": 3,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -1102,8 +1102,8 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 462,
-      "reserved": 3,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     }
   ],
@@ -1280,7 +1280,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625262300000,
       "time": "21:45",
-      "available": 561,
+      "available": 559,
       "reserved": 0,
       "bookable": true
     },
@@ -1568,7 +1568,7 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626125400000,
       "time": "21:30",
-      "available": 565,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -1584,8 +1584,8 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 22,
-      "reserved": 89,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -1688,8 +1688,8 @@
       "timestamp": 1623974400000,
       "time": "23:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689515?layout=shows",
-      "available": 67,
-      "reserved": 165,
+      "available": 64,
+      "reserved": 168,
       "bookable": true
     },
     {
@@ -1798,6 +1798,21 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
       "cinemaName": "freiluftkino-hasenheide",
       "cinemaShortName": "hasenheide",
+      "id": "kinoheld-689569",
+      "title": "Bad Luck Banging or Loony Porn ",
+      "date": "Do., 24.6.",
+      "timestamp": 1624492800000,
+      "time": "21:45",
+      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689569?layout=shows",
+      "img": "https://media.kinoheld.de/jcyo8klR3swAz9sFUqDazVtwpCg=/200x280/images%2Ffilm%2Fbad-luck-banging-or-loony-porn-18954.v3.jpg",
+      "available": 692,
+      "bookable": true
+    },
+    {
+      "cinemaId": "580",
+      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
+      "cinemaName": "freiluftkino-hasenheide",
+      "cinemaShortName": "hasenheide",
       "id": "kinoheld-689544",
       "title": "Karte meiner Träume, Die (subtitled OV German)",
       "date": "Fr., 25.6.",
@@ -1822,6 +1837,81 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689521?layout=shows",
       "available": 555,
       "reserved": 29,
+      "bookable": true
+    },
+    {
+      "cinemaId": "580",
+      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
+      "cinemaName": "freiluftkino-hasenheide",
+      "cinemaShortName": "hasenheide",
+      "id": "kinoheld-689570",
+      "title": "Rausch, Der ",
+      "date": "Sa., 26.6.",
+      "timestamp": 1624665600000,
+      "time": "21:45",
+      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689570?layout=shows",
+      "img": "https://media.kinoheld.de/hg37d7HJn_bj3daYN8UjZNUSv4Q=/200x280/images%2Ffilm%2Fder-rausch-18282.v6.jpg",
+      "available": 692,
+      "bookable": true
+    },
+    {
+      "cinemaId": "580",
+      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
+      "cinemaName": "freiluftkino-hasenheide",
+      "cinemaShortName": "hasenheide",
+      "id": "kinoheld-689571",
+      "title": "Futur Drei ",
+      "date": "So., 27.6.",
+      "timestamp": 1624752000000,
+      "time": "21:45",
+      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689571?layout=shows",
+      "img": "https://media.kinoheld.de/xwwnS-HPR3w7wt7luiNv2E2Sf58=/200x280/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v207.jpg",
+      "available": 692,
+      "bookable": true
+    },
+    {
+      "cinemaId": "580",
+      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
+      "cinemaName": "freiluftkino-hasenheide",
+      "cinemaShortName": "hasenheide",
+      "id": "kinoheld-689572",
+      "title": "Gefangen im Netz ",
+      "date": "Mo., 28.6.",
+      "timestamp": 1624838400000,
+      "time": "21:45",
+      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689572?layout=shows",
+      "img": "https://media.kinoheld.de/iZeWBwy2vQlilHrq4MS0rWN_mdc=/200x280/images%2Ffilm%2Fgefangen-im-netz-17749.v2.jpg",
+      "available": 1,
+      "bookable": true
+    },
+    {
+      "cinemaId": "580",
+      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
+      "cinemaName": "freiluftkino-hasenheide",
+      "cinemaShortName": "hasenheide",
+      "id": "kinoheld-689573",
+      "title": "Vor mir der Süden ",
+      "date": "Di., 29.6.",
+      "timestamp": 1624924800000,
+      "time": "21:45",
+      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689573?layout=shows",
+      "img": "https://media.kinoheld.de/z0UBTqg1mvoMu-Woak1KAXv2IY0=/200x280/images%2Ffilm%2Fvor-mir-der-sueden-17826.v3.jpg",
+      "available": 692,
+      "bookable": true
+    },
+    {
+      "cinemaId": "580",
+      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
+      "cinemaName": "freiluftkino-hasenheide",
+      "cinemaShortName": "hasenheide",
+      "id": "kinoheld-689574",
+      "title": "Rosas Hochzeit ",
+      "date": "Mi., 30.6.",
+      "timestamp": 1625011200000,
+      "time": "21:45",
+      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689574?layout=shows",
+      "img": "https://media.kinoheld.de/dEVC92cLUyzg5K95p7f7i6LBXq4=/200x280/images%2Ffilm%2Frosas-hochzeit-17580.v2.png",
+      "available": 692,
       "bookable": true
     },
     {
