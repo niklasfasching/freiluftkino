@@ -92,7 +92,7 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626126300000,
       "time": "21:45",
-      "available": 764,
+      "available": 762,
       "reserved": 12,
       "bookable": true
     },
@@ -172,7 +172,7 @@
       "date": "Mo., 28.6.",
       "timestamp": 1624916700000,
       "time": "21:45",
-      "available": 859,
+      "available": 857,
       "reserved": 5,
       "bookable": true
     },
@@ -236,7 +236,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625247000000,
       "time": "17:30",
-      "available": 481,
+      "available": 479,
       "reserved": 64,
       "bookable": true
     },
@@ -476,8 +476,8 @@
       "date": "Fr., 16.7.",
       "timestamp": 1626471000000,
       "time": "21:30",
-      "available": 0,
-      "reserved": 0,
+      "available": 871,
+      "reserved": 3,
       "bookable": true
     },
     {
@@ -1264,8 +1264,8 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 496,
-      "reserved": 3,
+      "available": 497,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -1866,7 +1866,7 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689587?layout=shows",
       "img": "https://media.kinoheld.de/4HRxvKqpeQKrYBgLMPJX0xRdOdQ=/200x280/images%2Ffilm%2Ftenet-16731.v2.png",
-      "available": 692,
+      "available": 681,
       "bookable": true
     },
     {
