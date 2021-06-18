@@ -12,8 +12,8 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 775,
-      "reserved": 5,
+      "available": 773,
+      "reserved": 7,
       "bookable": true
     },
     {
@@ -124,8 +124,8 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 681,
-      "reserved": 35,
+      "available": 677,
+      "reserved": 39,
       "bookable": true
     },
     {
@@ -172,7 +172,7 @@
       "date": "Mo., 28.6.",
       "timestamp": 1624916700000,
       "time": "21:45",
-      "available": 843,
+      "available": 841,
       "reserved": 5,
       "bookable": true
     },
@@ -300,8 +300,8 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 730,
-      "reserved": 26,
+      "available": 727,
+      "reserved": 27,
       "bookable": true
     },
     {
@@ -332,9 +332,9 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624052700000,
       "time": "21:45",
-      "available": 6,
-      "reserved": 196,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "cinemaId": "fh_freiluftkino",
@@ -460,8 +460,8 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625953500000,
       "time": "21:45",
-      "available": 867,
-      "reserved": 5,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -476,8 +476,8 @@
       "date": "Fr., 16.7.",
       "timestamp": 1626471000000,
       "time": "21:30",
-      "available": 869,
-      "reserved": 3,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -581,22 +581,6 @@
       "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
       "cinemaName": "Freiluftkino Friedrichshain",
       "cinemaShortName": "fhain",
-      "id": "kinotickets-online-662",
-      "url": "https://kinotickets-online.com/fh_freiluftkino/seats/662",
-      "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=650",
-      "title": "Zeugnisverleihung John-Lennon-Gymnasium",
-      "date": "Fr., 18.6.",
-      "timestamp": 1624037400000,
-      "time": "17:30",
-      "available": 0,
-      "reserved": 0,
-      "bookable": true
-    },
-    {
-      "cinemaId": "fh_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
-      "cinemaName": "Freiluftkino Friedrichshain",
-      "cinemaShortName": "fhain",
       "id": "kinotickets-online-627",
       "url": "https://kinotickets-online.com/fh_freiluftkino/seats/627",
       "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=616",
@@ -622,7 +606,7 @@
       "date": "Di., 6.7.,",
       "timestamp": 1625607900000,
       "time": "21:45",
-      "available": 370,
+      "available": 366,
       "reserved": 19,
       "bookable": true
     },
@@ -670,9 +654,9 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624052700000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 5,
+      "reserved": 104,
+      "bookable": true
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -958,7 +942,7 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 408,
+      "available": 410,
       "reserved": 11,
       "bookable": true
     },
@@ -1184,8 +1168,8 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
       "time": "21:30",
-      "available": 528,
-      "reserved": 1,
+      "available": 525,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -1200,7 +1184,7 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 518,
+      "available": 516,
       "reserved": 11,
       "bookable": true
     },
@@ -1264,7 +1248,7 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 32,
+      "available": 34,
       "reserved": 89,
       "bookable": true
     },
@@ -1296,8 +1280,8 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 525,
-      "reserved": 6,
+      "available": 522,
+      "reserved": 7,
       "bookable": true
     },
     {
@@ -1408,8 +1392,8 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 538,
-      "reserved": 7,
+      "available": 536,
+      "reserved": 9,
       "bookable": true
     },
     {
@@ -1440,9 +1424,9 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624052700000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 5,
+      "reserved": 84,
+      "bookable": true
     },
     {
       "cinemaId": "rb_freiluftkino",
@@ -1536,7 +1520,7 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 565,
+      "available": 563,
       "reserved": 0,
       "bookable": true
     },
@@ -1870,8 +1854,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689588?layout=shows",
       "img": "https://media.kinoheld.de/8O2-tT7mWcV0L7jkmZ5m7M5LbL0=/200x280/images%2Ffilm%2Fnomadland-18288.v2.png",
-      "available": 638,
-      "reserved": 9,
+      "available": 618,
+      "reserved": 13,
       "bookable": true
     },
     {
@@ -1886,7 +1870,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689589?layout=shows",
       "img": "https://media.kinoheld.de/Tzn6s2vdhVd9hVP7qRo3JQnK0o4=/200x280/images%2Ffilm%2Fminari-18286.v8.png",
-      "available": 692,
+      "available": 666,
+      "reserved": 5,
       "bookable": true
     },
     {
@@ -2320,7 +2305,7 @@
       "timestamp": 1623974400000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2381102355?layout=shows",
-      "reserved": 107,
+      "reserved": 109,
       "bookable": false
     },
     {
