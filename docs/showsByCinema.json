@@ -268,7 +268,7 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 689,
+      "available": 687,
       "reserved": 21,
       "bookable": true
     },
@@ -300,7 +300,7 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 736,
+      "available": 730,
       "reserved": 26,
       "bookable": true
     },
@@ -332,8 +332,8 @@
       "date": "Fr., 18.6.",
       "timestamp": 1624052700000,
       "time": "21:45",
-      "available": 10,
-      "reserved": 192,
+      "available": 6,
+      "reserved": 196,
       "bookable": true
     },
     {
@@ -396,7 +396,7 @@
       "date": "So., 11.7.",
       "timestamp": 1626039900000,
       "time": "21:45",
-      "available": 851,
+      "available": 849,
       "reserved": 3,
       "bookable": true
     },
@@ -444,8 +444,8 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 848,
-      "reserved": 4,
+      "available": 843,
+      "reserved": 7,
       "bookable": true
     },
     {
@@ -638,7 +638,7 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
       "time": "21:30",
-      "available": 349,
+      "available": 343,
       "reserved": 20,
       "bookable": true
     },
@@ -654,8 +654,8 @@
       "date": "Do., 24.6.",
       "timestamp": 1624571100000,
       "time": "21:45",
-      "available": 427,
-      "reserved": 6,
+      "available": 426,
+      "reserved": 7,
       "bookable": true
     },
     {
@@ -750,7 +750,7 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 427,
+      "available": 425,
       "reserved": 8,
       "bookable": true
     },
@@ -814,7 +814,7 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 470,
+      "available": 468,
       "reserved": 3,
       "bookable": true
     },
@@ -830,7 +830,7 @@
       "date": "Do., 1.7.,",
       "timestamp": 1625175900000,
       "time": "21:45",
-      "available": 452,
+      "available": 450,
       "reserved": 3,
       "bookable": true
     },
@@ -958,7 +958,7 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 412,
+      "available": 408,
       "reserved": 11,
       "bookable": true
     },
@@ -974,7 +974,7 @@
       "date": "Mi., 7.7.,",
       "timestamp": 1625694300000,
       "time": "21:45",
-      "available": 463,
+      "available": 461,
       "reserved": 4,
       "bookable": true
     },
@@ -1006,7 +1006,7 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 295,
+      "available": 293,
       "reserved": 18,
       "bookable": true
     },
@@ -1120,7 +1120,7 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 553,
+      "available": 555,
       "reserved": 0,
       "bookable": true
     },
@@ -1200,7 +1200,7 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 520,
+      "available": 518,
       "reserved": 11,
       "bookable": true
     },
@@ -1264,7 +1264,7 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 36,
+      "available": 32,
       "reserved": 89,
       "bookable": true
     },
@@ -1697,8 +1697,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689215?layout=shows",
       "img": "https://media.kinoheld.de/PLPq8qVAZAPc-RESgLCtuDhS4ys=/200x280/images%2Ffilm%2Flittle-women-15673.v357.jpg",
-      "available": 2,
-      "reserved": 237,
+      "available": 1,
+      "reserved": 238,
       "bookable": true
     },
     {
@@ -1744,8 +1744,8 @@
       "timestamp": 1624665600000,
       "time": "18:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689521?layout=shows",
-      "available": 543,
-      "reserved": 33,
+      "available": 540,
+      "reserved": 34,
       "bookable": true
     },
     {
@@ -1760,8 +1760,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689570?layout=shows",
       "img": "https://media.kinoheld.de/gfQK_AvCnEguvlg6razAUi-kIOU=/200x280/images%2Ffilm%2Fder-rausch-18282.v8.jpg",
-      "available": 679,
-      "reserved": 3,
+      "available": 665,
+      "reserved": 5,
       "bookable": true
     },
     {
@@ -2303,8 +2303,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385436965?layout=shows",
       "img": "https://media.kinoheld.de/hOKPyve9ZSTqgmuuvvhJe5bTi1M=/200x280/images%2Ffilm%2Ffemale-pleasure-11068.v26.jpg",
-      "available": 37,
-      "reserved": 10,
+      "available": 34,
+      "reserved": 12,
       "bookable": true
     }
   ],
@@ -2320,9 +2320,8 @@
       "timestamp": 1623974400000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2381102355?layout=shows",
-      "available": 1,
-      "reserved": 106,
-      "bookable": true
+      "reserved": 107,
+      "bookable": false
     },
     {
       "cinemaId": "2153",
