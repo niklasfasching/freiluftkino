@@ -12,7 +12,7 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 779,
+      "available": 775,
       "reserved": 5,
       "bookable": true
     },
@@ -28,7 +28,7 @@
       "date": "Di., 6.7.,",
       "timestamp": 1625607900000,
       "time": "21:45",
-      "available": 820,
+      "available": 818,
       "reserved": 12,
       "bookable": true
     },
@@ -60,8 +60,8 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624651200000,
       "time": "20:00",
-      "available": 316,
-      "reserved": 81,
+      "available": 311,
+      "reserved": 84,
       "bookable": true
     },
     {
@@ -92,7 +92,7 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626126300000,
       "time": "21:45",
-      "available": 756,
+      "available": 754,
       "reserved": 12,
       "bookable": true
     },
@@ -124,7 +124,7 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 683,
+      "available": 681,
       "reserved": 35,
       "bookable": true
     },
@@ -268,7 +268,7 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 703,
+      "available": 699,
       "reserved": 21,
       "bookable": true
     },
@@ -348,7 +348,7 @@
       "date": "Di., 13.7.",
       "timestamp": 1626212700000,
       "time": "21:45",
-      "available": 879,
+      "available": 877,
       "reserved": 1,
       "bookable": true
     },
@@ -476,8 +476,8 @@
       "date": "Fr., 16.7.",
       "timestamp": 1626471000000,
       "time": "21:30",
-      "available": 871,
-      "reserved": 3,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -607,22 +607,6 @@
       "available": 0,
       "reserved": 0,
       "bookable": true
-    },
-    {
-      "cinemaId": "fh_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
-      "cinemaName": "Freiluftkino Friedrichshain",
-      "cinemaShortName": "fhain",
-      "id": "kinotickets-online-663",
-      "url": "https://kinotickets-online.com/fh_freiluftkino/seats/663",
-      "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=651",
-      "title": "Zeugnisverleihung Ostrom Humboldt Oberstufe",
-      "date": "Fr., 18.6.",
-      "timestamp": 1624023000000,
-      "time": "13:30",
-      "available": 0,
-      "reserved": 0,
-      "bookable": true
     }
   ],
   "Freiluftkino Kreuzberg": [
@@ -718,7 +702,7 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 348,
+      "available": 346,
       "reserved": 21,
       "bookable": true
     },
@@ -926,8 +910,8 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624657500000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 394,
+      "reserved": 5,
       "bookable": true
     },
     {
@@ -958,7 +942,7 @@
       "date": "Do., 19.8.",
       "timestamp": 1629388800000,
       "time": "16:00",
-      "available": 0,
+      "available": 492,
       "reserved": 0,
       "bookable": true
     },
@@ -990,8 +974,8 @@
       "date": "Mi., 7.7.,",
       "timestamp": 1625694300000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 463,
+      "reserved": 4,
       "bookable": true
     },
     {
@@ -1022,8 +1006,8 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 303,
+      "reserved": 18,
       "bookable": true
     },
     {
@@ -1054,8 +1038,8 @@
       "date": "Mo., 28.6.",
       "timestamp": 1624916700000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 342,
+      "reserved": 1,
       "bookable": true
     },
     {
@@ -1232,7 +1216,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625262300000,
       "time": "21:45",
-      "available": 551,
+      "available": 549,
       "reserved": 0,
       "bookable": true
     },
@@ -1440,7 +1424,7 @@
       "date": "So., 4.7.,",
       "timestamp": 1625435100000,
       "time": "21:45",
-      "available": 561,
+      "available": 559,
       "reserved": 0,
       "bookable": true
     },
@@ -1536,7 +1520,7 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 6,
+      "available": 4,
       "reserved": 89,
       "bookable": true
     },
@@ -1552,7 +1536,7 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 565,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -1822,7 +1806,7 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689573?layout=shows",
       "img": "https://media.kinoheld.de/z0UBTqg1mvoMu-Woak1KAXv2IY0=/200x280/images%2Ffilm%2Fvor-mir-der-sueden-17826.v3.jpg",
-      "available": 676,
+      "available": 662,
       "reserved": 4,
       "bookable": true
     },
@@ -1900,7 +1884,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689589?layout=shows",
       "img": "https://media.kinoheld.de/Tzn6s2vdhVd9hVP7qRo3JQnK0o4=/200x280/images%2Ffilm%2Fminari-18286.v8.png",
-      "available": 692,
+      "available": 685,
+      "reserved": 1,
       "bookable": true
     },
     {
@@ -2219,7 +2204,7 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385354309?layout=shows",
       "img": "https://media.kinoheld.de/eYVzYOsRWBbljNMrjqLUA-CNEjQ=/200x280/images%2Ffilm%2Fkokon-17135.v7.png",
-      "available": 37,
+      "available": 33,
       "reserved": 11,
       "bookable": true
     },
@@ -2331,9 +2316,8 @@
       "timestamp": 1623974400000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2381102355?layout=shows",
-      "available": 2,
       "reserved": 103,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "2153",
