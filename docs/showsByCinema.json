@@ -348,7 +348,7 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 801,
+      "available": 799,
       "reserved": 15,
       "bookable": true
     },
@@ -444,8 +444,8 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625953500000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 867,
+      "reserved": 5,
       "bookable": true
     },
     {
@@ -460,8 +460,8 @@
       "date": "Fr., 16.7.",
       "timestamp": 1626471000000,
       "time": "21:30",
-      "available": 0,
-      "reserved": 0,
+      "available": 869,
+      "reserved": 3,
       "bookable": true
     },
     {
@@ -476,8 +476,8 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628960400000,
       "time": "17:00",
-      "available": 0,
-      "reserved": 0,
+      "available": 775,
+      "reserved": 6,
       "bookable": true
     },
     {
@@ -590,7 +590,7 @@
       "date": "Di., 6.7.,",
       "timestamp": 1625607900000,
       "time": "21:45",
-      "available": 362,
+      "available": 360,
       "reserved": 21,
       "bookable": true
     },
@@ -622,7 +622,7 @@
       "date": "Do., 24.6.",
       "timestamp": 1624571100000,
       "time": "21:45",
-      "available": 426,
+      "available": 424,
       "reserved": 7,
       "bookable": true
     },
@@ -766,7 +766,7 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 464,
+      "available": 466,
       "reserved": 5,
       "bookable": true
     },
@@ -1216,7 +1216,7 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 18,
+      "available": 14,
       "reserved": 89,
       "bookable": true
     },
@@ -1494,45 +1494,6 @@
     }
   ],
   "freiluftkino-hasenheide": [
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "kinoheld-689380",
-      "title": "Benjamin Lectures - 3. Lec. ",
-      "date": "Fr., 18.6.",
-      "timestamp": 1623974400000,
-      "time": "18:00",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689380?layout=shows",
-      "bookable": false
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "kinoheld-689280",
-      "title": "Jesus Egon Tenbin ",
-      "date": "Fr., 18.6.",
-      "timestamp": 1623974400000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689280?layout=shows",
-      "bookable": false
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "kinoheld-689515",
-      "title": "Taste ",
-      "date": "Fr., 18.6.",
-      "timestamp": 1623974400000,
-      "time": "23:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689515?layout=shows",
-      "bookable": false
-    },
     {
       "cinemaId": "580",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
@@ -2000,20 +1961,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
       "cinemaName": "b-ware-openair-fmp",
       "cinemaShortName": "fmp",
-      "id": "kinoheld-2382746543",
-      "title": "SYMPHONY OF NOISE - FILM PREVIEW (subtitled OV / en)",
-      "date": "Fr., 18.6.",
-      "timestamp": 1623974400000,
-      "time": "22:00",
-      "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2382746543?layout=shows",
-      "img": "https://media.kinoheld.de/K1Nr2jeqqI0Pqd8O_kHnCM2f7VI=/200x280/images%2Ffilm%2Fmo%2F3013-36355.v2.jpg",
-      "bookable": false
-    },
-    {
-      "cinemaId": "1657",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
-      "cinemaName": "b-ware-openair-fmp",
-      "cinemaShortName": "fmp",
       "id": "kinoheld-2382069982",
       "title": "DER RAUSCH - FILM PREVIEW (OmeU)",
       "date": "Sa., 19.6.",
@@ -2243,19 +2190,6 @@
     }
   ],
   "freiluftkino-pompeji-open-air-am-ostkreuz-berlin": [
-    {
-      "cinemaId": "2153",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-      "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-      "cinemaShortName": "pompeji ostkreuz",
-      "id": "kinoheld-2381102355",
-      "title": "WOOD AND WATER (subtitled OV German)",
-      "date": "Fr., 18.6.",
-      "timestamp": 1623974400000,
-      "time": "21:45",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2381102355?layout=shows",
-      "bookable": false
-    },
     {
       "cinemaId": "2153",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
