@@ -172,7 +172,7 @@
       "date": "Mo., 28.6.",
       "timestamp": 1624916700000,
       "time": "21:45",
-      "available": 849,
+      "available": 847,
       "reserved": 5,
       "bookable": true
     },
@@ -364,8 +364,8 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 813,
-      "reserved": 13,
+      "available": 814,
+      "reserved": 12,
       "bookable": true
     },
     {
@@ -654,8 +654,8 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
       "time": "21:30",
-      "available": 350,
-      "reserved": 19,
+      "available": 349,
+      "reserved": 20,
       "bookable": true
     },
     {
@@ -670,7 +670,7 @@
       "date": "Do., 24.6.",
       "timestamp": 1624571100000,
       "time": "21:45",
-      "available": 429,
+      "available": 427,
       "reserved": 6,
       "bookable": true
     },
@@ -798,7 +798,7 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625866200000,
       "time": "21:30",
-      "available": 435,
+      "available": 437,
       "reserved": 6,
       "bookable": true
     },
@@ -1232,7 +1232,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625262300000,
       "time": "21:45",
-      "available": 553,
+      "available": 551,
       "reserved": 0,
       "bookable": true
     },
@@ -1296,7 +1296,7 @@
       "date": "Do., 24.6.",
       "timestamp": 1624571100000,
       "time": "21:45",
-      "available": 544,
+      "available": 540,
       "reserved": 1,
       "bookable": true
     },
@@ -1312,8 +1312,8 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 530,
-      "reserved": 5,
+      "available": 527,
+      "reserved": 6,
       "bookable": true
     },
     {
@@ -1376,7 +1376,7 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624657500000,
       "time": "21:45",
-      "available": 541,
+      "available": 539,
       "reserved": 0,
       "bookable": true
     },
@@ -1424,8 +1424,8 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 536,
-      "reserved": 9,
+      "available": 538,
+      "reserved": 7,
       "bookable": true
     },
     {
@@ -1504,8 +1504,8 @@
       "date": "Di., 6.7.,",
       "timestamp": 1625607900000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 561,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -1520,7 +1520,7 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626125400000,
       "time": "21:30",
-      "available": 0,
+      "available": 565,
       "reserved": 0,
       "bookable": true
     },
@@ -1536,8 +1536,8 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 6,
+      "reserved": 89,
       "bookable": true
     },
     {
@@ -1552,7 +1552,7 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 0,
+      "available": 565,
       "reserved": 0,
       "bookable": true
     },
@@ -1697,7 +1697,7 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689214?layout=shows",
       "img": "https://media.kinoheld.de/e9_0q1m-3y6MR21JkkzpnMTlY3k=/200x280/images%2Ffilm%2Fpush-fuer-das-grundrecht-auf-wohnen-13187.v9.jpg",
-      "available": 95,
+      "available": 89,
       "reserved": 192,
       "bookable": true
     },
@@ -1883,8 +1883,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689588?layout=shows",
       "img": "https://media.kinoheld.de/8O2-tT7mWcV0L7jkmZ5m7M5LbL0=/200x280/images%2Ffilm%2Fnomadland-18288.v2.png",
-      "available": 670,
-      "reserved": 3,
+      "available": 658,
+      "reserved": 5,
       "bookable": true
     },
     {
@@ -2218,8 +2218,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385354309?layout=shows",
       "img": "https://media.kinoheld.de/eYVzYOsRWBbljNMrjqLUA-CNEjQ=/200x280/images%2Ffilm%2Fkokon-17135.v7.png",
-      "available": 41,
-      "reserved": 8,
+      "available": 37,
+      "reserved": 11,
       "bookable": true
     },
     {
@@ -2313,8 +2313,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385436965?layout=shows",
       "img": "https://media.kinoheld.de/hOKPyve9ZSTqgmuuvvhJe5bTi1M=/200x280/images%2Ffilm%2Ffemale-pleasure-11068.v26.jpg",
-      "available": 45,
-      "reserved": 7,
+      "available": 41,
+      "reserved": 8,
       "bookable": true
     }
   ],
