@@ -12,7 +12,7 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 781,
+      "available": 779,
       "reserved": 5,
       "bookable": true
     },
@@ -28,8 +28,8 @@
       "date": "Di., 6.7.,",
       "timestamp": 1625607900000,
       "time": "21:45",
-      "available": 827,
-      "reserved": 9,
+      "available": 820,
+      "reserved": 12,
       "bookable": true
     },
     {
@@ -60,8 +60,8 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624651200000,
       "time": "20:00",
-      "available": 308,
-      "reserved": 85,
+      "available": 316,
+      "reserved": 81,
       "bookable": true
     },
     {
@@ -124,8 +124,8 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 685,
-      "reserved": 33,
+      "available": 683,
+      "reserved": 35,
       "bookable": true
     },
     {
@@ -654,7 +654,7 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
       "time": "21:30",
-      "available": 352,
+      "available": 350,
       "reserved": 19,
       "bookable": true
     },
@@ -718,7 +718,7 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 350,
+      "available": 348,
       "reserved": 21,
       "bookable": true
     },
@@ -1104,8 +1104,8 @@
       "date": "Fr., 16.7.",
       "timestamp": 1626438600000,
       "time": "12:30",
-      "available": 554,
-      "reserved": 7,
+      "available": 555,
+      "reserved": 6,
       "bookable": true
     },
     {
@@ -1232,7 +1232,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625262300000,
       "time": "21:45",
-      "available": 557,
+      "available": 553,
       "reserved": 0,
       "bookable": true
     },
@@ -1280,7 +1280,7 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 58,
+      "available": 50,
       "reserved": 89,
       "bookable": true
     },
@@ -1536,7 +1536,7 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 12,
+      "available": 10,
       "reserved": 89,
       "bookable": true
     },
@@ -1822,7 +1822,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689573?layout=shows",
       "img": "https://media.kinoheld.de/z0UBTqg1mvoMu-Woak1KAXv2IY0=/200x280/images%2Ffilm%2Fvor-mir-der-sueden-17826.v3.jpg",
-      "available": 692,
+      "available": 676,
+      "reserved": 4,
       "bookable": true
     },
     {
@@ -1867,8 +1868,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689587?layout=shows",
       "img": "https://media.kinoheld.de/4HRxvKqpeQKrYBgLMPJX0xRdOdQ=/200x280/images%2Ffilm%2Ftenet-16731.v2.png",
-      "available": 681,
-      "reserved": 2,
+      "available": 667,
+      "reserved": 4,
       "bookable": true
     },
     {
@@ -2265,8 +2266,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385354384?layout=shows",
       "img": "https://media.kinoheld.de/xwwnS-HPR3w7wt7luiNv2E2Sf58=/200x280/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v207.jpg",
-      "available": 6,
-      "reserved": 26,
+      "available": 3,
+      "reserved": 29,
       "bookable": true
     },
     {
