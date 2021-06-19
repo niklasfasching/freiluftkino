@@ -284,9 +284,9 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624138200000,
       "time": "21:30",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 13,
+      "reserved": 193,
+      "bookable": true
     },
     {
       "cinemaId": "fh_freiluftkino",
@@ -412,7 +412,7 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 837,
+      "available": 835,
       "reserved": 9,
       "bookable": true
     },
@@ -638,8 +638,8 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 315,
-      "reserved": 30,
+      "available": 319,
+      "reserved": 24,
       "bookable": true
     },
     {
@@ -686,7 +686,7 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 419,
+      "available": 417,
       "reserved": 8,
       "bookable": true
     },
@@ -862,9 +862,9 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 11,
+      "reserved": 98,
+      "bookable": true
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -942,7 +942,7 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 267,
+      "available": 269,
       "reserved": 24,
       "bookable": true
     },
@@ -1280,7 +1280,7 @@
       "date": "Mi., 14.7.",
       "timestamp": 1626298200000,
       "time": "21:30",
-      "available": 546,
+      "available": 550,
       "reserved": 3,
       "bookable": true
     },
@@ -1440,9 +1440,9 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 9,
+      "reserved": 80,
+      "bookable": true
     },
     {
       "cinemaId": "rb_freiluftkino",
@@ -1472,8 +1472,8 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625866200000,
       "time": "21:30",
-      "available": 534,
-      "reserved": 1,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     }
   ],
@@ -1591,7 +1591,7 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689569?layout=shows",
       "img": "https://media.kinoheld.de/jcyo8klR3swAz9sFUqDazVtwpCg=/200x280/images%2Ffilm%2Fbad-luck-banging-or-loony-porn-18954.v3.jpg",
-      "available": 621,
+      "available": 628,
       "reserved": 9,
       "bookable": true
     },
@@ -1638,7 +1638,7 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689570?layout=shows",
       "img": "https://media.kinoheld.de/gfQK_AvCnEguvlg6razAUi-kIOU=/200x280/images%2Ffilm%2Fder-rausch-18282.v8.jpg",
-      "available": 591,
+      "available": 603,
       "reserved": 19,
       "bookable": true
     },
@@ -2072,7 +2072,7 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385354309?layout=shows",
       "img": "https://media.kinoheld.de/eYVzYOsRWBbljNMrjqLUA-CNEjQ=/200x280/images%2Ffilm%2Fkokon-17135.v7.png",
-      "available": 37,
+      "available": 33,
       "reserved": 11,
       "bookable": true
     },
@@ -2184,7 +2184,7 @@
       "timestamp": 1624060800000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2381102361?layout=shows",
-      "available": 2,
+      "available": 5,
       "reserved": 108,
       "bookable": true
     },
