@@ -28,7 +28,7 @@
       "date": "Di., 6.7.,",
       "timestamp": 1625607900000,
       "time": "21:45",
-      "available": 812,
+      "available": 810,
       "reserved": 12,
       "bookable": true
     },
@@ -814,7 +814,7 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 434,
+      "available": 436,
       "reserved": 7,
       "bookable": true
     },
@@ -846,8 +846,8 @@
       "date": "Do., 8.7.,",
       "timestamp": 1625779800000,
       "time": "21:30",
-      "available": 0,
-      "reserved": 0,
+      "available": 450,
+      "reserved": 5,
       "bookable": true
     },
     {
@@ -862,8 +862,8 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624657500000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 386,
+      "reserved": 5,
       "bookable": true
     },
     {
@@ -894,7 +894,7 @@
       "date": "Do., 19.8.",
       "timestamp": 1629388800000,
       "time": "16:00",
-      "available": 0,
+      "available": 492,
       "reserved": 0,
       "bookable": true
     },
@@ -942,7 +942,7 @@
       "date": "Do., 15.7.",
       "timestamp": 1626384600000,
       "time": "21:30",
-      "available": 0,
+      "available": 467,
       "reserved": 0,
       "bookable": true
     },
@@ -1488,7 +1488,7 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625866200000,
       "time": "21:30",
-      "available": 538,
+      "available": 536,
       "reserved": 1,
       "bookable": true
     }
@@ -1505,8 +1505,8 @@
       "timestamp": 1624060800000,
       "time": "17:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689123?layout=shows",
-      "available": 1,
-      "reserved": 60,
+      "available": 2,
+      "reserved": 59,
       "bookable": true
     },
     {
