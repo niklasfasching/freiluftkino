@@ -60,7 +60,7 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624651200000,
       "time": "20:00",
-      "available": 306,
+      "available": 304,
       "reserved": 85,
       "bookable": true
     },
@@ -204,8 +204,8 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 765,
-      "reserved": 23,
+      "available": 764,
+      "reserved": 24,
       "bookable": true
     },
     {
@@ -444,7 +444,7 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625953500000,
       "time": "21:45",
-      "available": 865,
+      "available": 867,
       "reserved": 5,
       "bookable": true
     },
@@ -958,7 +958,7 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 284,
+      "available": 282,
       "reserved": 19,
       "bookable": true
     },
@@ -990,8 +990,8 @@
       "date": "Mo., 28.6.",
       "timestamp": 1624916700000,
       "time": "21:45",
-      "available": 340,
-      "reserved": 1,
+      "available": 339,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -1184,7 +1184,7 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 545,
+      "available": 547,
       "reserved": 6,
       "bookable": true
     },
@@ -1360,7 +1360,7 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 536,
+      "available": 534,
       "reserved": 9,
       "bookable": true
     },
@@ -1458,7 +1458,7 @@
       "time": "21:45",
       "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "rb_freiluftkino",
@@ -2106,7 +2106,7 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385354334?layout=shows",
       "img": "https://media.kinoheld.de/2JvD8cV1ul7adcEPAovR1g93JSw=/200x280/images%2Ffilm%2F4%2Fcold-war-der-breitengrad-der-liebe-11272.v1.jpg",
-      "available": 52,
+      "available": 48,
       "reserved": 2,
       "bookable": true
     },
