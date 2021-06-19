@@ -140,7 +140,7 @@
       "date": "Do., 19.8.",
       "timestamp": 1629392400000,
       "time": "17:00",
-      "available": 832,
+      "available": 828,
       "reserved": 3,
       "bookable": true
     },
@@ -236,8 +236,8 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625247000000,
       "time": "17:30",
-      "available": 457,
-      "reserved": 70,
+      "available": 458,
+      "reserved": 69,
       "bookable": true
     },
     {
@@ -476,7 +476,7 @@
       "date": "Di., 27.7.",
       "timestamp": 1627419600000,
       "time": "21:00",
-      "available": 855,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -622,8 +622,8 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 308,
-      "reserved": 25,
+      "available": 309,
+      "reserved": 24,
       "bookable": true
     },
     {
@@ -1509,8 +1509,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689214?layout=shows",
       "img": "https://media.kinoheld.de/-zs8YOCQI7Tf-_HTlKIaM8GgxVU=/200x280/images%2Ffilm%2Fpush-fuer-das-grundrecht-auf-wohnen-13187.v10.jpg",
-      "available": 53,
-      "reserved": 212,
+      "available": 49,
+      "reserved": 214,
       "bookable": true
     },
     {
