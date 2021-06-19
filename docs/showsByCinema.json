@@ -156,8 +156,8 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625867100000,
       "time": "21:45",
-      "available": 831,
-      "reserved": 3,
+      "available": 826,
+      "reserved": 4,
       "bookable": true
     },
     {
@@ -204,7 +204,7 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 756,
+      "available": 750,
       "reserved": 26,
       "bookable": true
     },
@@ -236,7 +236,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625247000000,
       "time": "17:30",
-      "available": 463,
+      "available": 461,
       "reserved": 68,
       "bookable": true
     },
@@ -460,8 +460,8 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628960400000,
       "time": "17:00",
-      "available": 0,
-      "reserved": 0,
+      "available": 773,
+      "reserved": 6,
       "bookable": true
     },
     {
@@ -718,7 +718,7 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625866200000,
       "time": "21:30",
-      "available": 419,
+      "available": 415,
       "reserved": 6,
       "bookable": true
     },
@@ -798,7 +798,7 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 426,
+      "available": 424,
       "reserved": 11,
       "bookable": true
     },
@@ -862,9 +862,9 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 3,
-      "reserved": 106,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -990,7 +990,7 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 460,
+      "available": 458,
       "reserved": 5,
       "bookable": true
     }
@@ -1024,8 +1024,8 @@
       "date": "Fr., 16.7.",
       "timestamp": 1626438600000,
       "time": "12:30",
-      "available": 555,
-      "reserved": 6,
+      "available": 554,
+      "reserved": 7,
       "bookable": true
     },
     {
@@ -1040,8 +1040,8 @@
       "date": "Sa., 17.7.",
       "timestamp": 1626525000000,
       "time": "12:30",
-      "available": 545,
-      "reserved": 6,
+      "available": 544,
+      "reserved": 7,
       "bookable": true
     },
     {
@@ -1558,8 +1558,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689214?layout=shows",
       "img": "https://media.kinoheld.de/-zs8YOCQI7Tf-_HTlKIaM8GgxVU=/200x280/images%2Ffilm%2Fpush-fuer-das-grundrecht-auf-wohnen-13187.v10.jpg",
-      "available": 69,
-      "reserved": 202,
+      "available": 56,
+      "reserved": 206,
       "bookable": true
     },
     {
@@ -1637,8 +1637,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689570?layout=shows",
       "img": "https://media.kinoheld.de/gfQK_AvCnEguvlg6razAUi-kIOU=/200x280/images%2Ffilm%2Fder-rausch-18282.v8.jpg",
-      "available": 583,
-      "reserved": 22,
+      "available": 573,
+      "reserved": 24,
       "bookable": true
     },
     {
@@ -1747,8 +1747,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689588?layout=shows",
       "img": "https://media.kinoheld.de/8O2-tT7mWcV0L7jkmZ5m7M5LbL0=/200x280/images%2Ffilm%2Fnomadland-18288.v2.png",
-      "available": 539,
-      "reserved": 31,
+      "available": 529,
+      "reserved": 33,
       "bookable": true
     },
     {
@@ -1870,7 +1870,7 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689595?layout=shows",
       "img": "https://media.kinoheld.de/8O2-tT7mWcV0L7jkmZ5m7M5LbL0=/200x280/images%2Ffilm%2Fnomadland-18288.v2.png",
-      "available": 649,
+      "available": 640,
       "reserved": 8,
       "bookable": true
     },
@@ -2183,8 +2183,8 @@
       "timestamp": 1624060800000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2381102361?layout=shows",
-      "available": 2,
-      "reserved": 111,
+      "available": 1,
+      "reserved": 114,
       "bookable": true
     },
     {
