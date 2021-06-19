@@ -28,7 +28,7 @@
       "date": "Di., 6.7.,",
       "timestamp": 1625607900000,
       "time": "21:45",
-      "available": 806,
+      "available": 804,
       "reserved": 12,
       "bookable": true
     },
@@ -124,7 +124,7 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 648,
+      "available": 646,
       "reserved": 42,
       "bookable": true
     },
@@ -236,8 +236,8 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625247000000,
       "time": "17:30",
-      "available": 469,
-      "reserved": 66,
+      "available": 468,
+      "reserved": 67,
       "bookable": true
     },
     {
@@ -412,7 +412,7 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624111200000,
       "time": "14:00",
-      "available": 801,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -428,8 +428,8 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 837,
-      "reserved": 9,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -444,8 +444,8 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625953500000,
       "time": "21:45",
-      "available": 867,
-      "reserved": 5,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -460,8 +460,8 @@
       "date": "Fr., 16.7.",
       "timestamp": 1626471000000,
       "time": "21:30",
-      "available": 869,
-      "reserved": 3,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -476,8 +476,8 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628960400000,
       "time": "17:00",
-      "available": 775,
-      "reserved": 6,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -606,7 +606,7 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
       "time": "21:30",
-      "available": 338,
+      "available": 334,
       "reserved": 21,
       "bookable": true
     },
@@ -654,7 +654,7 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 325,
+      "available": 323,
       "reserved": 24,
       "bookable": true
     },
@@ -702,7 +702,7 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 423,
+      "available": 419,
       "reserved": 8,
       "bookable": true
     },
@@ -958,7 +958,7 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 278,
+      "available": 276,
       "reserved": 21,
       "bookable": true
     },
@@ -1200,7 +1200,7 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 480,
+      "available": 478,
       "reserved": 5,
       "bookable": true
     },
@@ -1216,7 +1216,7 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 2,
+      "available": 4,
       "reserved": 89,
       "bookable": true
     },
@@ -1547,9 +1547,8 @@
       "timestamp": 1624147200000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689443?layout=shows",
-      "available": 1,
-      "reserved": 191,
-      "bookable": true
+      "reserved": 192,
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1655,8 +1654,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689570?layout=shows",
       "img": "https://media.kinoheld.de/gfQK_AvCnEguvlg6razAUi-kIOU=/200x280/images%2Ffilm%2Fder-rausch-18282.v8.jpg",
-      "available": 615,
-      "reserved": 17,
+      "available": 605,
+      "reserved": 19,
       "bookable": true
     },
     {
@@ -1765,8 +1764,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689588?layout=shows",
       "img": "https://media.kinoheld.de/8O2-tT7mWcV0L7jkmZ5m7M5LbL0=/200x280/images%2Ffilm%2Fnomadland-18288.v2.png",
-      "available": 559,
-      "reserved": 25,
+      "available": 557,
+      "reserved": 27,
       "bookable": true
     },
     {
@@ -1781,8 +1780,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689589?layout=shows",
       "img": "https://media.kinoheld.de/Tzn6s2vdhVd9hVP7qRo3JQnK0o4=/200x280/images%2Ffilm%2Fminari-18286.v8.png",
-      "available": 644,
-      "reserved": 7,
+      "available": 636,
+      "reserved": 9,
       "bookable": true
     },
     {
