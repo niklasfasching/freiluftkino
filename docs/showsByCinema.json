@@ -60,8 +60,8 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624651200000,
       "time": "20:00",
-      "available": 293,
-      "reserved": 88,
+      "available": 290,
+      "reserved": 91,
       "bookable": true
     },
     {
@@ -124,7 +124,7 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 631,
+      "available": 629,
       "reserved": 49,
       "bookable": true
     },
@@ -204,7 +204,7 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 758,
+      "available": 756,
       "reserved": 26,
       "bookable": true
     },
@@ -284,9 +284,9 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624138200000,
       "time": "21:30",
-      "available": 5,
-      "reserved": 197,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "cinemaId": "fh_freiluftkino",
@@ -460,8 +460,8 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628960400000,
       "time": "17:00",
-      "available": 0,
-      "reserved": 0,
+      "available": 773,
+      "reserved": 6,
       "bookable": true
     },
     {
@@ -606,8 +606,8 @@
       "date": "Do., 24.6.",
       "timestamp": 1624571100000,
       "time": "21:45",
-      "available": 420,
-      "reserved": 7,
+      "available": 418,
+      "reserved": 9,
       "bookable": true
     },
     {
@@ -638,8 +638,8 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 317,
-      "reserved": 24,
+      "available": 314,
+      "reserved": 25,
       "bookable": true
     },
     {
@@ -718,7 +718,7 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625866200000,
       "time": "21:30",
-      "available": 419,
+      "available": 417,
       "reserved": 6,
       "bookable": true
     },
@@ -894,7 +894,7 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 399,
+      "available": 397,
       "reserved": 14,
       "bookable": true
     },
@@ -958,8 +958,8 @@
       "date": "Mo., 5.7.,",
       "timestamp": 1625521500000,
       "time": "21:45",
-      "available": 464,
-      "reserved": 3,
+      "available": 462,
+      "reserved": 5,
       "bookable": true
     },
     {
@@ -990,8 +990,8 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 462,
-      "reserved": 3,
+      "available": 460,
+      "reserved": 5,
       "bookable": true
     }
   ],
@@ -1072,7 +1072,7 @@
       "date": "Di., 13.7.",
       "timestamp": 1626211800000,
       "time": "21:30",
-      "available": 545,
+      "available": 543,
       "reserved": 2,
       "bookable": true
     },
@@ -1232,7 +1232,7 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 509,
+      "available": 511,
       "reserved": 10,
       "bookable": true
     },
@@ -1264,7 +1264,7 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 557,
+      "available": 555,
       "reserved": 0,
       "bookable": true
     },
@@ -1344,7 +1344,7 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 530,
+      "available": 528,
       "reserved": 9,
       "bookable": true
     },
@@ -1440,8 +1440,8 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 5,
-      "reserved": 84,
+      "available": 1,
+      "reserved": 88,
       "bookable": true
     },
     {
@@ -1472,8 +1472,8 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625866200000,
       "time": "21:30",
-      "available": 0,
-      "reserved": 0,
+      "available": 534,
+      "reserved": 1,
       "bookable": true
     }
   ],
@@ -1489,7 +1489,6 @@
       "timestamp": 1624060800000,
       "time": "17:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689123?layout=shows",
-      "reserved": 61,
       "bookable": false
     },
     {
@@ -2072,7 +2071,7 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385354309?layout=shows",
       "img": "https://media.kinoheld.de/eYVzYOsRWBbljNMrjqLUA-CNEjQ=/200x280/images%2Ffilm%2Fkokon-17135.v7.png",
-      "available": 35,
+      "available": 37,
       "reserved": 11,
       "bookable": true
     },
