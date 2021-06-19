@@ -204,8 +204,8 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 761,
-      "reserved": 23,
+      "available": 758,
+      "reserved": 26,
       "bookable": true
     },
     {
@@ -284,8 +284,8 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624138200000,
       "time": "21:30",
-      "available": 13,
-      "reserved": 193,
+      "available": 7,
+      "reserved": 195,
       "bookable": true
     },
     {
@@ -412,7 +412,7 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 835,
+      "available": 837,
       "reserved": 9,
       "bookable": true
     },
@@ -444,8 +444,8 @@
       "date": "Fr., 16.7.",
       "timestamp": 1626471000000,
       "time": "21:30",
-      "available": 869,
-      "reserved": 3,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -460,8 +460,8 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628960400000,
       "time": "17:00",
-      "available": 775,
-      "reserved": 6,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -654,7 +654,7 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 387,
+      "available": 383,
       "reserved": 20,
       "bookable": true
     },
@@ -862,8 +862,8 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 11,
-      "reserved": 98,
+      "available": 9,
+      "reserved": 100,
       "bookable": true
     },
     {
@@ -1184,8 +1184,8 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 476,
-      "reserved": 5,
+      "available": 475,
+      "reserved": 6,
       "bookable": true
     },
     {
@@ -1232,7 +1232,7 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 516,
+      "available": 514,
       "reserved": 7,
       "bookable": true
     },
@@ -1424,7 +1424,7 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626125400000,
       "time": "21:30",
-      "available": 563,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -1440,8 +1440,8 @@
       "date": "Sa., 19.6.",
       "timestamp": 1624139100000,
       "time": "21:45",
-      "available": 9,
-      "reserved": 80,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -1456,7 +1456,7 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 559,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -1638,7 +1638,7 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689570?layout=shows",
       "img": "https://media.kinoheld.de/gfQK_AvCnEguvlg6razAUi-kIOU=/200x280/images%2Ffilm%2Fder-rausch-18282.v8.jpg",
-      "available": 603,
+      "available": 605,
       "reserved": 19,
       "bookable": true
     },
@@ -2072,7 +2072,7 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385354309?layout=shows",
       "img": "https://media.kinoheld.de/eYVzYOsRWBbljNMrjqLUA-CNEjQ=/200x280/images%2Ffilm%2Fkokon-17135.v7.png",
-      "available": 33,
+      "available": 35,
       "reserved": 11,
       "bookable": true
     },
@@ -2088,8 +2088,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385354334?layout=shows",
       "img": "https://media.kinoheld.de/2JvD8cV1ul7adcEPAovR1g93JSw=/200x280/images%2Ffilm%2F4%2Fcold-war-der-breitengrad-der-liebe-11272.v1.jpg",
-      "available": 52,
-      "reserved": 2,
+      "available": 48,
+      "reserved": 4,
       "bookable": true
     },
     {
@@ -2184,8 +2184,8 @@
       "timestamp": 1624060800000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2381102361?layout=shows",
-      "available": 5,
-      "reserved": 108,
+      "available": 4,
+      "reserved": 109,
       "bookable": true
     },
     {
