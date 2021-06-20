@@ -12,8 +12,8 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 99,
-      "reserved": 145,
+      "available": 111,
+      "reserved": 141,
       "bookable": true
     },
     {
@@ -44,8 +44,8 @@
       "date": "Di., 6.7.,",
       "timestamp": 1625607900000,
       "time": "21:45",
-      "available": 797,
-      "reserved": 15,
+      "available": 793,
+      "reserved": 19,
       "bookable": true
     },
     {
@@ -220,7 +220,7 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 736,
+      "available": 734,
       "reserved": 26,
       "bookable": true
     },
@@ -284,7 +284,7 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 614,
+      "available": 612,
       "reserved": 48,
       "bookable": true
     },
@@ -300,7 +300,7 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 680,
+      "available": 678,
       "reserved": 30,
       "bookable": true
     },
@@ -476,8 +476,8 @@
       "date": "Mo., 5.7.,",
       "timestamp": 1625521500000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 867,
+      "reserved": 3,
       "bookable": true
     },
     {
@@ -606,7 +606,7 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 285,
+      "available": 281,
       "reserved": 26,
       "bookable": true
     },
@@ -752,7 +752,7 @@
       "time": "21:30",
       "available": 0,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -766,8 +766,8 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 414,
-      "reserved": 11,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -782,8 +782,8 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626125400000,
       "time": "21:30",
-      "available": 472,
-      "reserved": 1,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -798,8 +798,8 @@
       "date": "Do., 8.7.,",
       "timestamp": 1625779800000,
       "time": "21:30",
-      "available": 442,
-      "reserved": 9,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -814,8 +814,8 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624657500000,
       "time": "21:45",
-      "available": 356,
-      "reserved": 11,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -830,7 +830,7 @@
       "date": "Do., 19.8.",
       "timestamp": 1629388800000,
       "time": "16:00",
-      "available": 492,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -894,8 +894,8 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 233,
-      "reserved": 36,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -942,7 +942,7 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 453,
+      "available": 451,
       "reserved": 8,
       "bookable": true
     }
@@ -1008,7 +1008,7 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 541,
+      "available": 543,
       "reserved": 0,
       "bookable": true
     },
@@ -1152,8 +1152,8 @@
       "date": "So., 20.6.",
       "timestamp": 1624224600000,
       "time": "21:30",
-      "available": 15,
-      "reserved": 74,
+      "available": 14,
+      "reserved": 75,
       "bookable": true
     },
     {
@@ -1168,7 +1168,7 @@
       "date": "Do., 24.6.",
       "timestamp": 1624571100000,
       "time": "21:45",
-      "available": 530,
+      "available": 528,
       "reserved": 3,
       "bookable": true
     },
@@ -1296,7 +1296,7 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 505,
+      "available": 503,
       "reserved": 14,
       "bookable": true
     },
@@ -1438,9 +1438,8 @@
       "timestamp": 1624147200000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689443?layout=shows",
-      "available": 1,
-      "reserved": 191,
-      "bookable": true
+      "reserved": 192,
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1529,8 +1528,8 @@
       "timestamp": 1624665600000,
       "time": "18:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689521?layout=shows",
-      "available": 511,
-      "reserved": 41,
+      "available": 503,
+      "reserved": 43,
       "bookable": true
     },
     {
@@ -1671,8 +1670,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689589?layout=shows",
       "img": "https://media.kinoheld.de/Tzn6s2vdhVd9hVP7qRo3JQnK0o4=/200x280/images%2Ffilm%2Fminari-18286.v8.png",
-      "available": 634,
-      "reserved": 11,
+      "available": 620,
+      "reserved": 13,
       "bookable": true
     },
     {
@@ -1841,7 +1840,7 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689599?layout=shows",
       "img": "https://media.kinoheld.de/NpDm3E3BkWMMgjG6IpF2i5IqGGs=/200x280/images%2Ffilm%2Fniemals-selten-manchmal-immer-17085.v356.jpg",
-      "available": 678,
+      "available": 692,
       "bookable": true
     }
   ],
