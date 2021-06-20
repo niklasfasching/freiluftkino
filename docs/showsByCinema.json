@@ -60,8 +60,8 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624651200000,
       "time": "20:00",
-      "available": 282,
-      "reserved": 91,
+      "available": 281,
+      "reserved": 92,
       "bookable": true
     },
     {
@@ -124,8 +124,8 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 614,
-      "reserved": 50,
+      "available": 610,
+      "reserved": 52,
       "bookable": true
     },
     {
@@ -284,7 +284,7 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 699,
+      "available": 697,
       "reserved": 29,
       "bookable": true
     },
@@ -622,7 +622,7 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 309,
+      "available": 307,
       "reserved": 24,
       "bookable": true
     },
@@ -670,7 +670,7 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 411,
+      "available": 409,
       "reserved": 8,
       "bookable": true
     },
@@ -782,7 +782,7 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 422,
+      "available": 420,
       "reserved": 11,
       "bookable": true
     },
@@ -1672,8 +1672,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689588?layout=shows",
       "img": "https://media.kinoheld.de/8O2-tT7mWcV0L7jkmZ5m7M5LbL0=/200x280/images%2Ffilm%2Fnomadland-18288.v2.png",
-      "available": 499,
-      "reserved": 41,
+      "available": 484,
+      "reserved": 45,
       "bookable": true
     },
     {
@@ -1981,8 +1981,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385354309?layout=shows",
       "img": "https://media.kinoheld.de/eYVzYOsRWBbljNMrjqLUA-CNEjQ=/200x280/images%2Ffilm%2Fkokon-17135.v7.png",
-      "available": 37,
-      "reserved": 11,
+      "available": 32,
+      "reserved": 14,
       "bookable": true
     },
     {
