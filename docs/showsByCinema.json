@@ -268,7 +268,7 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 588,
+      "available": 584,
       "reserved": 54,
       "bookable": true
     },
@@ -396,8 +396,8 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625953500000,
       "time": "21:45",
-      "available": 859,
-      "reserved": 5,
+      "available": 860,
+      "reserved": 6,
       "bookable": true
     },
     {
@@ -1406,8 +1406,9 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689215?layout=shows",
       "img": "https://media.kinoheld.de/PLPq8qVAZAPc-RESgLCtuDhS4ys=/200x280/images%2Ffilm%2Flittle-women-15673.v357.jpg",
-      "reserved": 240,
-      "bookable": false
+      "available": 2,
+      "reserved": 238,
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -1889,8 +1890,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385354334?layout=shows",
       "img": "https://media.kinoheld.de/2JvD8cV1ul7adcEPAovR1g93JSw=/200x280/images%2Ffilm%2F4%2Fcold-war-der-breitengrad-der-liebe-11272.v1.jpg",
-      "available": 35,
-      "reserved": 11,
+      "available": 32,
+      "reserved": 12,
       "bookable": true
     },
     {
