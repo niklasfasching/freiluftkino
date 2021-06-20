@@ -12,8 +12,8 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 765,
-      "reserved": 11,
+      "available": 762,
+      "reserved": 12,
       "bookable": true
     },
     {
@@ -60,7 +60,7 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624651200000,
       "time": "20:00",
-      "available": 279,
+      "available": 273,
       "reserved": 92,
       "bookable": true
     },
@@ -92,8 +92,8 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626126300000,
       "time": "21:45",
-      "available": 729,
-      "reserved": 15,
+      "available": 726,
+      "reserved": 18,
       "bookable": true
     },
     {
@@ -124,7 +124,7 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 601,
+      "available": 599,
       "reserved": 55,
       "bookable": true
     },
@@ -204,7 +204,7 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 738,
+      "available": 736,
       "reserved": 26,
       "bookable": true
     },
@@ -268,8 +268,8 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 627,
-      "reserved": 41,
+      "available": 624,
+      "reserved": 44,
       "bookable": true
     },
     {
@@ -284,7 +284,7 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 690,
+      "available": 684,
       "reserved": 30,
       "bookable": true
     },
@@ -332,7 +332,7 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 781,
+      "available": 783,
       "reserved": 21,
       "bookable": true
     },
@@ -590,8 +590,8 @@
       "date": "Do., 24.6.",
       "timestamp": 1624571100000,
       "time": "21:45",
-      "available": 404,
-      "reserved": 11,
+      "available": 403,
+      "reserved": 12,
       "bookable": true
     },
     {
@@ -798,8 +798,8 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626125400000,
       "time": "21:30",
-      "available": 471,
-      "reserved": 0,
+      "available": 472,
+      "reserved": 1,
       "bookable": true
     },
     {
@@ -862,7 +862,7 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 389,
+      "available": 385,
       "reserved": 14,
       "bookable": true
     },
@@ -926,7 +926,7 @@
       "date": "Mo., 5.7.,",
       "timestamp": 1625521500000,
       "time": "21:45",
-      "available": 460,
+      "available": 458,
       "reserved": 5,
       "bookable": true
     },
@@ -1104,7 +1104,7 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 508,
+      "available": 506,
       "reserved": 11,
       "bookable": true
     },
@@ -1136,8 +1136,8 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 545,
-      "reserved": 6,
+      "available": 542,
+      "reserved": 7,
       "bookable": true
     },
     {
@@ -1312,8 +1312,8 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 514,
-      "reserved": 11,
+      "available": 513,
+      "reserved": 12,
       "bookable": true
     },
     {
@@ -1441,7 +1441,7 @@
       "timestamp": 1624147200000,
       "time": "17:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689124?layout=shows",
-      "available": 5,
+      "available": 6,
       "reserved": 55,
       "bookable": true
     },
@@ -2096,8 +2096,9 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2381102367?layout=shows",
       "img": "https://media.kinoheld.de/gWsMhcB0cCMhAaMc8MBhIQR2-JM=/200x280/images%2Ffilm%2Fherr-bachmann-und-seine-klasse-19045.v1.jpg",
+      "available": 2,
       "reserved": 105,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "2153",
