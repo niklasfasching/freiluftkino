@@ -220,7 +220,7 @@
       "date": "Do., 8.7.,",
       "timestamp": 1625780700000,
       "time": "21:45",
-      "available": 868,
+      "available": 866,
       "reserved": 0,
       "bookable": true
     },
@@ -412,8 +412,8 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625953500000,
       "time": "21:45",
-      "available": 865,
-      "reserved": 5,
+      "available": 863,
+      "reserved": 7,
       "bookable": true
     },
     {
@@ -590,8 +590,8 @@
       "date": "Do., 24.6.",
       "timestamp": 1624571100000,
       "time": "21:45",
-      "available": 414,
-      "reserved": 9,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -606,8 +606,8 @@
       "date": "So., 4.7.,",
       "timestamp": 1625435100000,
       "time": "21:45",
-      "available": 447,
-      "reserved": 12,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -702,8 +702,8 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625866200000,
       "time": "21:30",
-      "available": 413,
-      "reserved": 6,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -734,8 +734,8 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 462,
-      "reserved": 9,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -768,7 +768,7 @@
       "time": "21:30",
       "available": 0,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "kb_freiluftkino",
@@ -782,7 +782,7 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 420,
+      "available": 418,
       "reserved": 11,
       "bookable": true
     },
@@ -798,7 +798,7 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626125400000,
       "time": "21:30",
-      "available": 473,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -958,8 +958,8 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 453,
-      "reserved": 8,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     }
   ],
