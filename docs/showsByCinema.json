@@ -60,7 +60,7 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624651200000,
       "time": "20:00",
-      "available": 214,
+      "available": 212,
       "reserved": 93,
       "bookable": true
     },
@@ -92,7 +92,7 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626126300000,
       "time": "21:45",
-      "available": 673,
+      "available": 671,
       "reserved": 31,
       "bookable": true
     },
@@ -124,7 +124,7 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 502,
+      "available": 498,
       "reserved": 68,
       "bookable": true
     },
@@ -204,8 +204,8 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 667,
-      "reserved": 31,
+      "available": 664,
+      "reserved": 32,
       "bookable": true
     },
     {
@@ -236,7 +236,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625247000000,
       "time": "17:30",
-      "available": 403,
+      "available": 399,
       "reserved": 76,
       "bookable": true
     },
@@ -284,7 +284,7 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 563,
+      "available": 553,
       "reserved": 53,
       "bookable": true
     },
@@ -300,8 +300,8 @@
       "date": "Do., 1.7.,",
       "timestamp": 1625175900000,
       "time": "21:45",
-      "available": 825,
-      "reserved": 3,
+      "available": 822,
+      "reserved": 6,
       "bookable": true
     },
     {
@@ -348,7 +348,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625262300000,
       "time": "21:45",
-      "available": 831,
+      "available": 827,
       "reserved": 15,
       "bookable": true
     },
@@ -476,7 +476,7 @@
       "date": "Do., 24.6.",
       "timestamp": 1624571100000,
       "time": "21:45",
-      "available": 822,
+      "available": 818,
       "reserved": 6,
       "bookable": true
     },
@@ -492,22 +492,6 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
-      "bookable": true
-    },
-    {
-      "cinemaId": "fh_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
-      "cinemaName": "Freiluftkino Friedrichshain",
-      "cinemaShortName": "fhain",
-      "id": "kinotickets-online-627",
-      "url": "https://kinotickets-online.com/fh_freiluftkino/seats/627",
-      "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=616",
-      "title": "Zeugnisverleihung Kurt-Tucholsky-Oberschule",
-      "date": "Mo., 21.6.",
-      "timestamp": 1624296600000,
-      "time": "17:30",
       "available": 0,
       "reserved": 0,
       "bookable": true
@@ -590,8 +574,8 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 226,
-      "reserved": 29,
+      "available": 221,
+      "reserved": 30,
       "bookable": true
     },
     {
@@ -606,7 +590,7 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 331,
+      "available": 327,
       "reserved": 24,
       "bookable": true
     },
@@ -862,8 +846,8 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 111,
-      "reserved": 52,
+      "available": 104,
+      "reserved": 55,
       "bookable": true
     },
     {
@@ -1088,8 +1072,8 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 538,
-      "reserved": 7,
+      "available": 535,
+      "reserved": 8,
       "bookable": true
     },
     {
@@ -1104,8 +1088,8 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 394,
-      "reserved": 23,
+      "available": 387,
+      "reserved": 28,
       "bookable": true
     },
     {
@@ -1232,7 +1216,7 @@
       "date": "Fr., 20.8.",
       "timestamp": 1629489600000,
       "time": "20:00",
-      "available": 350,
+      "available": 348,
       "reserved": 5,
       "bookable": true
     },
@@ -1248,8 +1232,8 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 464,
-      "reserved": 15,
+      "available": 461,
+      "reserved": 16,
       "bookable": true
     },
     {
@@ -1468,8 +1452,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689570?layout=shows",
       "img": "https://media.kinoheld.de/gfQK_AvCnEguvlg6razAUi-kIOU=/200x280/images%2Ffilm%2Fder-rausch-18282.v8.jpg",
-      "available": 238,
-      "reserved": 116,
+      "available": 237,
+      "reserved": 118,
       "bookable": true
     },
     {
@@ -1484,7 +1468,7 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689571?layout=shows",
       "img": "https://media.kinoheld.de/YfEa9kkIECdxHYD1YJURcweBbkc=/200x280/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v209.jpg",
-      "available": 580,
+      "available": 574,
       "reserved": 21,
       "bookable": true
     },
@@ -1563,8 +1547,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689587?layout=shows",
       "img": "https://media.kinoheld.de/4HRxvKqpeQKrYBgLMPJX0xRdOdQ=/200x280/images%2Ffilm%2Ftenet-16731.v2.png",
-      "available": 620,
-      "reserved": 14,
+      "available": 610,
+      "reserved": 16,
       "bookable": true
     },
     {
@@ -1579,8 +1563,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689588?layout=shows",
       "img": "https://media.kinoheld.de/8O2-tT7mWcV0L7jkmZ5m7M5LbL0=/200x280/images%2Ffilm%2Fnomadland-18288.v2.png",
-      "available": 166,
-      "reserved": 139,
+      "available": 156,
+      "reserved": 143,
       "bookable": true
     },
     {
@@ -1972,8 +1956,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385436965?layout=shows",
       "img": "https://media.kinoheld.de/hOKPyve9ZSTqgmuuvvhJe5bTi1M=/200x280/images%2Ffilm%2Ffemale-pleasure-11068.v26.jpg",
-      "available": 20,
-      "reserved": 17,
+      "available": 16,
+      "reserved": 19,
       "bookable": true
     }
   ],
