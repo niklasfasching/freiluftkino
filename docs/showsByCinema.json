@@ -316,7 +316,7 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 747,
+      "available": 745,
       "reserved": 25,
       "bookable": true
     },
@@ -494,7 +494,7 @@
       "date": "Di., 6.7.,",
       "timestamp": 1625607900000,
       "time": "21:45",
-      "available": 328,
+      "available": 326,
       "reserved": 23,
       "bookable": true
     },
@@ -1056,7 +1056,7 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 356,
+      "available": 358,
       "reserved": 31,
       "bookable": true
     },
@@ -1120,7 +1120,7 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 546,
+      "available": 544,
       "reserved": 1,
       "bookable": true
     },
@@ -1345,9 +1345,9 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689215?layout=shows",
       "img": "https://media.kinoheld.de/PLPq8qVAZAPc-RESgLCtuDhS4ys=/200x280/images%2Ffilm%2Flittle-women-15673.v357.jpg",
-      "available": 0,
-      "reserved": 241,
-      "bookable": false
+      "available": 2,
+      "reserved": 239,
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -1408,7 +1408,7 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689570?layout=shows",
       "img": "https://media.kinoheld.de/gfQK_AvCnEguvlg6razAUi-kIOU=/200x280/images%2Ffilm%2Fder-rausch-18282.v8.jpg",
-      "available": 166,
+      "available": 153,
       "reserved": 144,
       "bookable": true
     },
@@ -1519,7 +1519,7 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689588?layout=shows",
       "img": "https://media.kinoheld.de/8O2-tT7mWcV0L7jkmZ5m7M5LbL0=/200x280/images%2Ffilm%2Fnomadland-18288.v2.png",
-      "available": 57,
+      "available": 54,
       "reserved": 180,
       "bookable": true
     },
@@ -1858,8 +1858,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385354359?layout=shows",
       "img": "https://media.kinoheld.de/hGAaRFQV58UW2pzaQYJld-NU0zA=/200x280/images%2Ffilm%2Fmo%2F172-36517.v2.png",
-      "available": 39,
-      "reserved": 6,
+      "available": 35,
+      "reserved": 7,
       "bookable": true
     },
     {
