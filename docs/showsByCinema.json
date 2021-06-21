@@ -284,8 +284,8 @@
       "date": "Mo., 21.6.",
       "timestamp": 1624311900000,
       "time": "21:45",
-      "available": 661,
-      "reserved": 39,
+      "available": 656,
+      "reserved": 40,
       "bookable": true
     },
     {
@@ -348,7 +348,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625262300000,
       "time": "21:45",
-      "available": 837,
+      "available": 835,
       "reserved": 15,
       "bookable": true
     },
@@ -460,8 +460,8 @@
       "date": "Mo., 5.7.,",
       "timestamp": 1625521500000,
       "time": "21:45",
-      "available": 866,
-      "reserved": 4,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -606,7 +606,7 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 369,
+      "available": 365,
       "reserved": 22,
       "bookable": true
     },
@@ -638,7 +638,7 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 394,
+      "available": 392,
       "reserved": 9,
       "bookable": true
     },
@@ -976,7 +976,7 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 533,
+      "available": 531,
       "reserved": 0,
       "bookable": true
     },
@@ -1024,8 +1024,8 @@
       "date": "Do., 1.7.,",
       "timestamp": 1625175900000,
       "time": "21:45",
-      "available": 558,
-      "reserved": 1,
+      "available": 557,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -1407,8 +1407,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689215?layout=shows",
       "img": "https://media.kinoheld.de/PLPq8qVAZAPc-RESgLCtuDhS4ys=/200x280/images%2Ffilm%2Flittle-women-15673.v357.jpg",
-      "available": 2,
-      "reserved": 239,
+      "available": 7,
+      "reserved": 236,
       "bookable": true
     },
     {
@@ -1470,8 +1470,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689570?layout=shows",
       "img": "https://media.kinoheld.de/gfQK_AvCnEguvlg6razAUi-kIOU=/200x280/images%2Ffilm%2Fder-rausch-18282.v8.jpg",
-      "available": 349,
-      "reserved": 82,
+      "available": 334,
+      "reserved": 84,
       "bookable": true
     },
     {
@@ -1486,8 +1486,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689571?layout=shows",
       "img": "https://media.kinoheld.de/YfEa9kkIECdxHYD1YJURcweBbkc=/200x280/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v209.jpg",
-      "available": 630,
-      "reserved": 12,
+      "available": 619,
+      "reserved": 14,
       "bookable": true
     },
     {
@@ -1580,7 +1580,7 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689588?layout=shows",
       "img": "https://media.kinoheld.de/8O2-tT7mWcV0L7jkmZ5m7M5LbL0=/200x280/images%2Ffilm%2Fnomadland-18288.v2.png",
-      "available": 282,
+      "available": 285,
       "reserved": 104,
       "bookable": true
     },
