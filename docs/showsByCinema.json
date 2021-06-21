@@ -28,7 +28,7 @@
       "date": "Di., 6.7.,",
       "timestamp": 1625607900000,
       "time": "21:45",
-      "available": 775,
+      "available": 777,
       "reserved": 23,
       "bookable": true
     },
@@ -60,7 +60,7 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624651200000,
       "time": "20:00",
-      "available": 200,
+      "available": 192,
       "reserved": 93,
       "bookable": true
     },
@@ -108,7 +108,7 @@
       "date": "Mi., 7.7.,",
       "timestamp": 1625694300000,
       "time": "21:45",
-      "available": 863,
+      "available": 861,
       "reserved": 3,
       "bookable": true
     },
@@ -124,7 +124,7 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 481,
+      "available": 477,
       "reserved": 73,
       "bookable": true
     },
@@ -204,7 +204,7 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 643,
+      "available": 641,
       "reserved": 35,
       "bookable": true
     },
@@ -220,7 +220,7 @@
       "date": "Do., 8.7.,",
       "timestamp": 1625780700000,
       "time": "21:45",
-      "available": 858,
+      "available": 860,
       "reserved": 0,
       "bookable": true
     },
@@ -252,8 +252,8 @@
       "date": "So., 11.7.",
       "timestamp": 1626024600000,
       "time": "17:30",
-      "available": 648,
-      "reserved": 55,
+      "available": 645,
+      "reserved": 56,
       "bookable": true
     },
     {
@@ -268,8 +268,8 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 527,
-      "reserved": 63,
+      "available": 519,
+      "reserved": 65,
       "bookable": true
     },
     {
@@ -494,7 +494,7 @@
       "date": "Di., 6.7.,",
       "timestamp": 1625607900000,
       "time": "21:45",
-      "available": 330,
+      "available": 326,
       "reserved": 23,
       "bookable": true
     },
@@ -558,8 +558,8 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 206,
-      "reserved": 33,
+      "available": 194,
+      "reserved": 37,
       "bookable": true
     },
     {
@@ -606,7 +606,7 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 378,
+      "available": 376,
       "reserved": 9,
       "bookable": true
     },
@@ -702,8 +702,8 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 386,
-      "reserved": 17,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -750,8 +750,8 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624657500000,
       "time": "21:45",
-      "available": 317,
-      "reserved": 18,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -846,8 +846,8 @@
       "date": "Mo., 28.6.",
       "timestamp": 1624916700000,
       "time": "21:45",
-      "available": 312,
-      "reserved": 1,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -992,7 +992,7 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
       "time": "21:30",
-      "available": 487,
+      "available": 485,
       "reserved": 4,
       "bookable": true
     },
@@ -1056,7 +1056,7 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 360,
+      "available": 362,
       "reserved": 31,
       "bookable": true
     },
@@ -1313,6 +1313,8 @@
       "timestamp": 1624233600000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689213?layout=shows",
+      "available": 0,
+      "reserved": 0,
       "bookable": false
     },
     {
@@ -1327,6 +1329,7 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689214?layout=shows",
       "img": "https://media.kinoheld.de/-zs8YOCQI7Tf-_HTlKIaM8GgxVU=/200x280/images%2Ffilm%2Fpush-fuer-das-grundrecht-auf-wohnen-13187.v10.jpg",
+      "available": 0,
       "reserved": 242,
       "bookable": false
     },
@@ -1342,6 +1345,7 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689215?layout=shows",
       "img": "https://media.kinoheld.de/PLPq8qVAZAPc-RESgLCtuDhS4ys=/200x280/images%2Ffilm%2Flittle-women-15673.v357.jpg",
+      "available": 0,
       "reserved": 241,
       "bookable": false
     },
@@ -1357,8 +1361,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689569?layout=shows",
       "img": "https://media.kinoheld.de/jcyo8klR3swAz9sFUqDazVtwpCg=/200x280/images%2Ffilm%2Fbad-luck-banging-or-loony-porn-18954.v3.jpg",
-      "available": 409,
-      "reserved": 63,
+      "available": 400,
+      "reserved": 65,
       "bookable": true
     },
     {
@@ -1404,8 +1408,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689570?layout=shows",
       "img": "https://media.kinoheld.de/gfQK_AvCnEguvlg6razAUi-kIOU=/200x280/images%2Ffilm%2Fder-rausch-18282.v8.jpg",
-      "available": 189,
-      "reserved": 137,
+      "available": 165,
+      "reserved": 138,
       "bookable": true
     },
     {
@@ -1420,8 +1424,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689571?layout=shows",
       "img": "https://media.kinoheld.de/YfEa9kkIECdxHYD1YJURcweBbkc=/200x280/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v209.jpg",
-      "available": 550,
-      "reserved": 29,
+      "available": 536,
+      "reserved": 31,
       "bookable": true
     },
     {
@@ -1515,8 +1519,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689588?layout=shows",
       "img": "https://media.kinoheld.de/8O2-tT7mWcV0L7jkmZ5m7M5LbL0=/200x280/images%2Ffilm%2Fnomadland-18288.v2.png",
-      "available": 84,
-      "reserved": 169,
+      "available": 73,
+      "reserved": 172,
       "bookable": true
     },
     {
@@ -1563,6 +1567,7 @@
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689591?layout=shows",
       "available": 692,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -1672,8 +1677,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689597?layout=shows",
       "img": "https://media.kinoheld.de/gfQK_AvCnEguvlg6razAUi-kIOU=/200x280/images%2Ffilm%2Fder-rausch-18282.v8.jpg",
-      "available": 607,
-      "reserved": 18,
+      "available": 595,
+      "reserved": 20,
       "bookable": true
     },
     {
@@ -1723,7 +1728,8 @@
       "time": "22:00",
       "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2382069991?layout=shows",
       "img": "https://media.kinoheld.de/lEwjAGVQYpyC3h342cVXj3gVj98=/200x280/images%2Ffilm%2Fmo%2F3013-36051.v2.jpg",
-      "available": 1,
+      "available": -1,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -1738,7 +1744,8 @@
       "time": "22:00",
       "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2382070000?layout=shows",
       "img": "https://media.kinoheld.de/z0UBTqg1mvoMu-Woak1KAXv2IY0=/200x280/images%2Ffilm%2Fvor-mir-der-sueden-17826.v3.jpg",
-      "available": 1,
+      "available": -1,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -1753,7 +1760,8 @@
       "time": "22:00",
       "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2382074647?layout=shows",
       "img": "https://media.kinoheld.de/2Uiost_MJfJwZIDr1UTh9kI2YEU=/200x280/images%2Ffilm%2Fmo%2F3013-36035.v2.jpg",
-      "available": 1,
+      "available": -1,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -1768,7 +1776,8 @@
       "time": "22:00",
       "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2382747798?layout=shows",
       "img": "https://media.kinoheld.de/QnxbyFAB1OvhHqHFZ8Y_ZbvwS_w=/200x280/images%2Ffilm%2Fmo%2F3013-36357.v2.jpg",
-      "available": 1,
+      "available": -1,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -1783,7 +1792,8 @@
       "time": "22:00",
       "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2382074656?layout=shows",
       "img": "https://media.kinoheld.de/msa-HVJPdED_BlJeNEG_6i7Lrsg=/200x280/images%2Ffilm%2Fmo%2F3013-36027.v2.jpg",
-      "available": 1,
+      "available": -1,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -1798,7 +1808,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2382074665?layout=shows",
       "img": "https://media.kinoheld.de/NI3epKAH2APy0jToaFxOQjO5pX4=/200x280/images%2Ffilm%2Feine-frau-mit-berauschenden-talenten-17113.v1237.jpg",
-      "available": 1,
+      "available": -1,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -1813,7 +1824,8 @@
       "time": "20:45",
       "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2388193439?layout=shows",
       "img": "https://media.kinoheld.de/LDB3wYEVwIFJ8NEfRlVIV0LDBp4=/200x280/images%2Ffilm%2Fmo%2F3045-36949.v2.jpg",
-      "available": 1,
+      "available": -1,
+      "reserved": 0,
       "bookable": true
     }
   ],
@@ -1830,6 +1842,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385354334?layout=shows",
       "img": "https://media.kinoheld.de/2JvD8cV1ul7adcEPAovR1g93JSw=/200x280/images%2Ffilm%2F4%2Fcold-war-der-breitengrad-der-liebe-11272.v1.jpg",
+      "available": 0,
+      "reserved": 0,
       "bookable": false
     },
     {
@@ -1926,6 +1940,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2384585138?layout=shows",
       "img": "https://media.kinoheld.de/FvY5T8vkq7Ud-eJFci0m_AzyGtI=/200x280/images%2Ffilm%2Fdie-rueden-16521.v2.jpg",
+      "available": 0,
+      "reserved": 0,
       "bookable": false
     },
     {
@@ -1940,7 +1956,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2384587891?layout=shows",
       "img": "https://media.kinoheld.de/5GrX9WUMouF5wRlxyqq9_JPMPD8=/200x280/images%2Ffilm%2Fmo%2F2413-29415.v2.jpg",
-      "available": 1,
+      "available": -1,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -1955,7 +1972,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2384767493?layout=shows",
       "img": "https://media.kinoheld.de/gfQK_AvCnEguvlg6razAUi-kIOU=/200x280/images%2Ffilm%2Fder-rausch-18282.v8.jpg",
-      "available": 1,
+      "available": -1,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -1970,7 +1988,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2384588954?layout=shows",
       "img": "https://media.kinoheld.de/kmn9jDVK521drf-8vDV3UTbHaZU=/200x280/images%2Ffilm%2Fcourage-19043.v2.png",
-      "available": 1,
+      "available": -1,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -1985,7 +2004,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2384592928?layout=shows",
       "img": "https://media.kinoheld.de/MWg-SVNHeTqLmVD1RI8v-JY8yhw=/200x280/images%2Ffilm%2Fparasite-14289.v362.jpg",
-      "available": 1,
+      "available": -1,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -2000,7 +2020,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2384592936?layout=shows",
       "img": "https://media.kinoheld.de/MWg-SVNHeTqLmVD1RI8v-JY8yhw=/200x280/images%2Ffilm%2Fparasite-14289.v362.jpg",
-      "available": 1,
+      "available": -1,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -2015,7 +2036,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2384592759?layout=shows",
       "img": "https://media.kinoheld.de/gfQK_AvCnEguvlg6razAUi-kIOU=/200x280/images%2Ffilm%2Fder-rausch-18282.v8.jpg",
-      "available": 1,
+      "available": -1,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -2030,7 +2052,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2384593027?layout=shows",
       "img": "https://media.kinoheld.de/3bhGv3mPyWIhUQ8VWql3a_nm4NE=/200x280/images%2Ffilm%2Fdas-geheime-leben-der-baeume-15561.v252.jpg",
-      "available": 1,
+      "available": -1,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -2045,7 +2068,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2384593055?layout=shows",
       "img": "https://media.kinoheld.de/2apDDavpHFAKXwQIIlgua95QrSs=/200x280/images%2Ffilm%2Fals-wir-tanzten-16083.v204.jpg",
-      "available": 1,
+      "available": -1,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -2060,7 +2084,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2384593091?layout=shows",
       "img": "https://media.kinoheld.de/coz_qg0a_6C0Ai4d8M6vBK7TKjg=/200x280/images%2Ffilm%2Fpreview-6-jahre-il-kino-there-is-no-evil-doch-das-boese-gibt-es-nicht-17723.v22.jpg",
-      "available": 1,
+      "available": -1,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -2075,7 +2100,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2386573069?layout=shows",
       "img": "https://media.kinoheld.de/cyNqtPwzhwqykcGmeky1xwSDg7A=/200x280/images%2Ffilm%2Fmo%2F2413-36521.v2.jpg",
-      "available": 1,
+      "available": -1,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -2090,7 +2116,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2386573077?layout=shows",
       "img": "https://media.kinoheld.de/YfEa9kkIECdxHYD1YJURcweBbkc=/200x280/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v209.jpg",
-      "available": 1,
+      "available": -1,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -2105,7 +2132,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2386573085?layout=shows",
       "img": "https://media.kinoheld.de/-mujoWtnVI9wHRxPgN9dMLPkAvo=/200x280/images%2Ffilm%2Fmo%2F2413-36547.v2.jpg",
-      "available": 1,
+      "available": -1,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -2120,7 +2148,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2386573093?layout=shows",
       "img": "https://media.kinoheld.de/9HpFkzhVXPYUAdN0iie62EPsn5c=/200x280/images%2Ffilm%2Fdemon-slayer-kimetsu-no-yaiba-mugen-train-18801.v10.jpg",
-      "available": 1,
+      "available": -1,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -2135,7 +2164,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2388613217?layout=shows",
       "img": "https://media.kinoheld.de/0PxaL1EZGwApK_mFgH1i5_jT4is=/200x280/images%2Ffilm%2Fmo%2F2413-36731.v2.jpg",
-      "available": 1,
+      "available": -1,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -2150,7 +2180,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2386573101?layout=shows",
       "img": "https://media.kinoheld.de/YfEa9kkIECdxHYD1YJURcweBbkc=/200x280/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v209.jpg",
-      "available": 1,
+      "available": -1,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -2165,7 +2196,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2386573109?layout=shows",
       "img": "https://media.kinoheld.de/vmHi7vXMPqEuNB_g-QS75CF8T-o=/200x280/images%2Ffilm%2Fmo%2F2413-36549.v2.jpg",
-      "available": 1,
+      "available": -1,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -2180,7 +2212,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2388621667?layout=shows",
       "img": "https://media.kinoheld.de/5GrX9WUMouF5wRlxyqq9_JPMPD8=/200x280/images%2Ffilm%2Fmo%2F2413-29415.v2.jpg",
-      "available": 1,
+      "available": -1,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -2195,7 +2228,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2388621675?layout=shows",
       "img": "https://media.kinoheld.de/ENy5uRIggErcAp7jNQ5MsqF9IyA=/200x280/images%2Ffilm%2Fund-morgen-die-ganze-welt-17457.v140.jpg",
-      "available": 1,
+      "available": -1,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -2210,7 +2244,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2388621683?layout=shows",
       "img": "https://media.kinoheld.de/9HpFkzhVXPYUAdN0iie62EPsn5c=/200x280/images%2Ffilm%2Fdemon-slayer-kimetsu-no-yaiba-mugen-train-18801.v10.jpg",
-      "available": 1,
+      "available": -1,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -2225,7 +2260,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2388621691?layout=shows",
       "img": "https://media.kinoheld.de/FYlTtOflIE4hnxIKarWRVzGfhzQ=/200x280/images%2Ffilm%2Fmo%2F2413-36733.v2.jpg",
-      "available": 1,
+      "available": -1,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -2240,7 +2276,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2388621699?layout=shows",
       "img": "https://media.kinoheld.de/CB9ZQupiLYa6ncCZ_dv-2YSN_74=/200x280/images%2Ffilm%2Fschlingensief-in-das-schweigen-hineinschreien-16431.v164.jpg",
-      "available": 1,
+      "available": -1,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -2255,7 +2292,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2388621707?layout=shows",
       "img": "https://media.kinoheld.de/2apDDavpHFAKXwQIIlgua95QrSs=/200x280/images%2Ffilm%2Fals-wir-tanzten-16083.v204.jpg",
-      "available": 1,
+      "available": -1,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -2270,7 +2308,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2388621715?layout=shows",
       "img": "https://media.kinoheld.de/ENy5uRIggErcAp7jNQ5MsqF9IyA=/200x280/images%2Ffilm%2Fund-morgen-die-ganze-welt-17457.v140.jpg",
-      "available": 1,
+      "available": -1,
+      "reserved": 0,
       "bookable": true
     }
   ],
@@ -2287,7 +2326,8 @@
       "time": "22:00",
       "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openairprinzessinnengarten-kollektiv-neukoell/show/2383675895?layout=shows",
       "img": "https://media.kinoheld.de/jcyo8klR3swAz9sFUqDazVtwpCg=/200x280/images%2Ffilm%2Fbad-luck-banging-or-loony-porn-18954.v3.jpg",
-      "available": 1,
+      "available": -1,
+      "reserved": 0,
       "bookable": true
     }
   ]
