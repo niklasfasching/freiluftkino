@@ -12,7 +12,7 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 700,
+      "available": 698,
       "reserved": 28,
       "bookable": true
     },
@@ -28,8 +28,8 @@
       "date": "Di., 6.7.,",
       "timestamp": 1625607900000,
       "time": "21:45",
-      "available": 779,
-      "reserved": 21,
+      "available": 775,
+      "reserved": 23,
       "bookable": true
     },
     {
@@ -92,7 +92,7 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626126300000,
       "time": "21:45",
-      "available": 667,
+      "available": 665,
       "reserved": 31,
       "bookable": true
     },
@@ -124,7 +124,7 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 487,
+      "available": 481,
       "reserved": 73,
       "bookable": true
     },
@@ -156,7 +156,7 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625867100000,
       "time": "21:45",
-      "available": 810,
+      "available": 808,
       "reserved": 4,
       "bookable": true
     },
@@ -220,7 +220,7 @@
       "date": "Do., 8.7.,",
       "timestamp": 1625780700000,
       "time": "21:45",
-      "available": 860,
+      "available": 858,
       "reserved": 0,
       "bookable": true
     },
@@ -268,24 +268,8 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 531,
+      "available": 527,
       "reserved": 63,
-      "bookable": true
-    },
-    {
-      "cinemaId": "fh_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
-      "cinemaName": "Freiluftkino Friedrichshain",
-      "cinemaShortName": "fhain",
-      "id": "kinotickets-online-674",
-      "url": "https://kinotickets-online.com/fh_freiluftkino/seats/674",
-      "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=661",
-      "title": "Kings Of Hollywood",
-      "date": "Mo., 21.6.",
-      "timestamp": 1624311900000,
-      "time": "21:45",
-      "available": 480,
-      "reserved": 56,
       "bookable": true
     },
     {
@@ -332,8 +316,8 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 752,
-      "reserved": 22,
+      "available": 749,
+      "reserved": 25,
       "bookable": true
     },
     {
@@ -428,7 +412,7 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628960400000,
       "time": "17:00",
-      "available": 759,
+      "available": 757,
       "reserved": 12,
       "bookable": true
     },
@@ -476,8 +460,8 @@
       "date": "Do., 24.6.",
       "timestamp": 1624571100000,
       "time": "21:45",
-      "available": 816,
-      "reserved": 6,
+      "available": 813,
+      "reserved": 7,
       "bookable": true
     },
     {
@@ -590,7 +574,7 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 319,
+      "available": 315,
       "reserved": 24,
       "bookable": true
     },
@@ -606,8 +590,8 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625262300000,
       "time": "21:45",
-      "available": 362,
-      "reserved": 11,
+      "available": 359,
+      "reserved": 14,
       "bookable": true
     },
     {
@@ -622,7 +606,7 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 380,
+      "available": 378,
       "reserved": 9,
       "bookable": true
     },
@@ -766,7 +750,7 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624657500000,
       "time": "21:45",
-      "available": 319,
+      "available": 317,
       "reserved": 18,
       "bookable": true
     },
@@ -832,22 +816,6 @@
       "time": "21:30",
       "available": 463,
       "reserved": 0,
-      "bookable": true
-    },
-    {
-      "cinemaId": "kb_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
-      "cinemaName": "Freiluftkino Kreuzberg",
-      "cinemaShortName": "xberg",
-      "id": "kinotickets-online-603",
-      "url": "https://kinotickets-online.com/kb_freiluftkino/seats/603",
-      "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=591",
-      "title": "Und morgen die ganze Welt",
-      "date": "Mo., 21.6.",
-      "timestamp": 1624311900000,
-      "time": "21:45",
-      "available": 82,
-      "reserved": 55,
       "bookable": true
     },
     {
@@ -960,7 +928,7 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 527,
+      "available": 525,
       "reserved": 0,
       "bookable": true
     },
@@ -1088,7 +1056,7 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 368,
+      "available": 360,
       "reserved": 31,
       "bookable": true
     },
@@ -1120,7 +1088,7 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 493,
+      "available": 491,
       "reserved": 10,
       "bookable": true
     },
@@ -1216,24 +1184,8 @@
       "date": "Fr., 20.8.",
       "timestamp": 1629489600000,
       "time": "20:00",
-      "available": 348,
-      "reserved": 5,
-      "bookable": true
-    },
-    {
-      "cinemaId": "rb_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
-      "cinemaName": "Freiluftkino Rehberge",
-      "cinemaShortName": "rehberge",
-      "id": "kinotickets-online-596",
-      "url": "https://kinotickets-online.com/rb_freiluftkino/seats/596",
-      "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=576",
-      "title": "Rosas Hochzeit",
-      "date": "Mo., 21.6.",
-      "timestamp": 1624311900000,
-      "time": "21:45",
-      "available": 457,
-      "reserved": 16,
+      "available": 345,
+      "reserved": 8,
       "bookable": true
     },
     {
@@ -1344,7 +1296,7 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625866200000,
       "time": "21:30",
-      "available": 534,
+      "available": 530,
       "reserved": 1,
       "bookable": true
     }
@@ -1405,7 +1357,7 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689569?layout=shows",
       "img": "https://media.kinoheld.de/jcyo8klR3swAz9sFUqDazVtwpCg=/200x280/images%2Ffilm%2Fbad-luck-banging-or-loony-porn-18954.v3.jpg",
-      "available": 407,
+      "available": 409,
       "reserved": 63,
       "bookable": true
     },
@@ -1452,8 +1404,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689570?layout=shows",
       "img": "https://media.kinoheld.de/gfQK_AvCnEguvlg6razAUi-kIOU=/200x280/images%2Ffilm%2Fder-rausch-18282.v8.jpg",
-      "available": 196,
-      "reserved": 133,
+      "available": 189,
+      "reserved": 137,
       "bookable": true
     },
     {
@@ -1688,8 +1640,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689595?layout=shows",
       "img": "https://media.kinoheld.de/8O2-tT7mWcV0L7jkmZ5m7M5LbL0=/200x280/images%2Ffilm%2Fnomadland-18288.v2.png",
-      "available": 546,
-      "reserved": 31,
+      "available": 542,
+      "reserved": 33,
       "bookable": true
     },
     {
@@ -1721,7 +1673,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689597?layout=shows",
       "img": "https://media.kinoheld.de/gfQK_AvCnEguvlg6razAUi-kIOU=/200x280/images%2Ffilm%2Fder-rausch-18282.v8.jpg",
       "available": 607,
-      "reserved": 16,
+      "reserved": 18,
       "bookable": true
     },
     {
@@ -1878,8 +1830,7 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385354334?layout=shows",
       "img": "https://media.kinoheld.de/2JvD8cV1ul7adcEPAovR1g93JSw=/200x280/images%2Ffilm%2F4%2Fcold-war-der-breitengrad-der-liebe-11272.v1.jpg",
-      "reserved": 28,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "1839",
@@ -1909,8 +1860,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385354384?layout=shows",
       "img": "https://media.kinoheld.de/YfEa9kkIECdxHYD1YJURcweBbkc=/200x280/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v209.jpg",
-      "available": 3,
-      "reserved": 29,
+      "available": 2,
+      "reserved": 30,
       "bookable": true
     },
     {
@@ -1975,8 +1926,7 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2384585138?layout=shows",
       "img": "https://media.kinoheld.de/FvY5T8vkq7Ud-eJFci0m_AzyGtI=/200x280/images%2Ffilm%2Fdie-rueden-16521.v2.jpg",
-      "available": 1,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "2153",
