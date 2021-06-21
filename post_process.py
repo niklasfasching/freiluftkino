@@ -10,6 +10,7 @@ def file_versions(path):
 def build_history():
     history = {}
     for timestamp, contents in file_versions("docs/showsByCinema.json"):
+        timestamp_ms = timestamp * 1000
         for cinema, shows in json.loads(contents).items():
             for show in shows:
                 if history.get(show["url"]):
@@ -18,7 +19,7 @@ def build_history():
                         continue
                 else:
                      history[show["url"]] = []
-                history[show["url"]].append((timestamp, show.get("available"), show.get("reserved")))
+                history[show["url"]].append((timestamp_ms, show.get("available"), show.get("reserved")))
     return history
 
 
