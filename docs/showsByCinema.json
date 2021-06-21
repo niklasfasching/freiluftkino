@@ -380,7 +380,7 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 831,
+      "available": 833,
       "reserved": 11,
       "bookable": true
     },
@@ -1216,7 +1216,7 @@
       "date": "Mo., 28.6.",
       "timestamp": 1624916700000,
       "time": "21:45",
-      "available": 531,
+      "available": 529,
       "reserved": 2,
       "bookable": true
     },
@@ -1391,8 +1391,9 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689214?layout=shows",
       "img": "https://media.kinoheld.de/-zs8YOCQI7Tf-_HTlKIaM8GgxVU=/200x280/images%2Ffilm%2Fpush-fuer-das-grundrecht-auf-wohnen-13187.v10.jpg",
+      "available": 1,
       "reserved": 241,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -1407,7 +1408,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689215?layout=shows",
       "img": "https://media.kinoheld.de/PLPq8qVAZAPc-RESgLCtuDhS4ys=/200x280/images%2Ffilm%2Flittle-women-15673.v357.jpg",
       "available": 2,
-      "reserved": 238,
+      "reserved": 239,
       "bookable": true
     },
     {
@@ -1484,7 +1485,7 @@
       "timestamp": 1624752000000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689571?layout=shows",
-      "img": "https://media.kinoheld.de/UKM06SeNFTd4aN3lIhDINzQL2ok=/200x280/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v208.jpg",
+      "img": "https://media.kinoheld.de/YfEa9kkIECdxHYD1YJURcweBbkc=/200x280/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v209.jpg",
       "available": 630,
       "reserved": 12,
       "bookable": true
@@ -1890,8 +1891,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385354334?layout=shows",
       "img": "https://media.kinoheld.de/2JvD8cV1ul7adcEPAovR1g93JSw=/200x280/images%2Ffilm%2F4%2Fcold-war-der-breitengrad-der-liebe-11272.v1.jpg",
-      "available": 32,
-      "reserved": 12,
+      "available": 29,
+      "reserved": 13,
       "bookable": true
     },
     {
@@ -1920,7 +1921,7 @@
       "timestamp": 1624406400000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385354384?layout=shows",
-      "img": "https://media.kinoheld.de/UKM06SeNFTd4aN3lIhDINzQL2ok=/200x280/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v208.jpg",
+      "img": "https://media.kinoheld.de/YfEa9kkIECdxHYD1YJURcweBbkc=/200x280/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v209.jpg",
       "available": 3,
       "reserved": 29,
       "bookable": true
@@ -2151,7 +2152,7 @@
       "timestamp": 1625184000000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2386573077?layout=shows",
-      "img": "https://media.kinoheld.de/UKM06SeNFTd4aN3lIhDINzQL2ok=/200x280/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v208.jpg",
+      "img": "https://media.kinoheld.de/YfEa9kkIECdxHYD1YJURcweBbkc=/200x280/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v209.jpg",
       "available": 1,
       "bookable": true
     },
@@ -2211,7 +2212,7 @@
       "timestamp": 1625529600000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2386573101?layout=shows",
-      "img": "https://media.kinoheld.de/UKM06SeNFTd4aN3lIhDINzQL2ok=/200x280/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v208.jpg",
+      "img": "https://media.kinoheld.de/YfEa9kkIECdxHYD1YJURcweBbkc=/200x280/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v209.jpg",
       "available": 1,
       "bookable": true
     },
