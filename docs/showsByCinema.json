@@ -60,7 +60,7 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624651200000,
       "time": "20:00",
-      "available": 190,
+      "available": 188,
       "reserved": 93,
       "bookable": true
     },
@@ -476,8 +476,8 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 773,
-      "reserved": 15,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     }
   ],
@@ -558,7 +558,7 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 190,
+      "available": 188,
       "reserved": 37,
       "bookable": true
     },
@@ -782,7 +782,7 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 355,
+      "available": 353,
       "reserved": 24,
       "bookable": true
     },
@@ -1056,7 +1056,7 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 342,
+      "available": 344,
       "reserved": 33,
       "bookable": true
     },
@@ -1393,7 +1393,7 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689570?layout=shows",
       "img": "https://media.kinoheld.de/gfQK_AvCnEguvlg6razAUi-kIOU=/200x280/images%2Ffilm%2Fder-rausch-18282.v8.jpg",
-      "available": 153,
+      "available": 158,
       "reserved": 146,
       "bookable": true
     },
