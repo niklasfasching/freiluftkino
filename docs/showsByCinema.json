@@ -14,7 +14,7 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 537,
+      "available": 535,
       "reserved": 35,
       "bookable": true
     },
@@ -139,7 +139,7 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 389,
+      "available": 387,
       "reserved": 79,
       "bookable": true
     },
@@ -227,7 +227,7 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 594,
+      "available": 592,
       "reserved": 42,
       "bookable": true
     },
@@ -508,7 +508,7 @@
       "date": "Do., 24.6.",
       "timestamp": 1624571100000,
       "time": "21:45",
-      "available": 793,
+      "available": 797,
       "reserved": 11,
       "bookable": true
     },
@@ -526,8 +526,8 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 745,
+      "reserved": 15,
       "bookable": true
     }
   ],
@@ -546,8 +546,8 @@
       "date": "Di., 6.7.,",
       "timestamp": 1625607900000,
       "time": "21:45",
-      "available": 368,
-      "reserved": 29,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -618,8 +618,8 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 180,
-      "reserved": 49,
+      "available": 181,
+      "reserved": 50,
       "bookable": true
     },
     {
@@ -636,7 +636,7 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 343,
+      "available": 339,
       "reserved": 26,
       "bookable": true
     },
@@ -690,8 +690,8 @@
       "date": "So., 11.7.",
       "timestamp": 1626039000000,
       "time": "21:30",
-      "available": 511,
-      "reserved": 2,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -726,7 +726,7 @@
       "date": "Di., 13.7.",
       "timestamp": 1626211800000,
       "time": "21:30",
-      "available": 529,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -780,8 +780,8 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 433,
-      "reserved": 20,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -815,8 +815,8 @@
       "date": "Do., 8.7.,",
       "timestamp": 1625779800000,
       "time": "21:30",
-      "available": 485,
-      "reserved": 10,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -867,8 +867,8 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 402,
-      "reserved": 25,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -885,8 +885,8 @@
       "date": "Mi., 7.7.,",
       "timestamp": 1625694300000,
       "time": "21:45",
-      "available": 511,
-      "reserved": 4,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -903,7 +903,7 @@
       "date": "Do., 15.7.",
       "timestamp": 1626384600000,
       "time": "21:30",
-      "available": 521,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -920,8 +920,8 @@
       "date": "Mo., 5.7.,",
       "timestamp": 1625521500000,
       "time": "21:45",
-      "available": 514,
-      "reserved": 5,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -938,8 +938,8 @@
       "date": "Mo., 28.6.",
       "timestamp": 1624916700000,
       "time": "21:45",
-      "available": 363,
-      "reserved": 4,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -956,8 +956,8 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 502,
-      "reserved": 9,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     }
   ],
@@ -1027,7 +1027,7 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 520,
+      "available": 518,
       "reserved": 1,
       "bookable": true
     },
@@ -1188,7 +1188,7 @@
       "date": "Do., 24.6.",
       "timestamp": 1624571100000,
       "time": "21:45",
-      "available": 504,
+      "available": 502,
       "reserved": 3,
       "bookable": true
     },
@@ -1242,8 +1242,8 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 529,
-      "reserved": 2,
+      "available": 526,
+      "reserved": 5,
       "bookable": true
     },
     {
@@ -1278,8 +1278,8 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624657500000,
       "time": "21:45",
-      "available": 482,
-      "reserved": 5,
+      "available": 473,
+      "reserved": 8,
       "bookable": true
     },
     {
@@ -1543,8 +1543,8 @@
       "img": "https://media.kinoheld.de/gfQK_AvCnEguvlg6razAUi-kIOU=/200x280/images%2Ffilm%2Fder-rausch-18282.v8.jpg",
       "description": "Früher war Martin Lehrer aus Leidenschaft – heute sind nicht nur die Schüler von seinem fehlenden Enthusiasmus gelangweilt, auch in Martins Ehe ist die Luft raus. Seinen drei Freunden, die am selben Gymnasium unterrichten, geht es nicht viel besser. Bei einer angeheiterten Geburtstagsrunde diskutieren sie die Theorie eines norwegischen Philosophen: Nach dieser ist ein Mensch nur mit einem erhöhten Alkoholgehalt im Blut zu Bestleistungen fähig. Solch eine gewagte These muss überprüft werden. Die vier beschließen den Selbsttest zu machen und während der Arbeit einen bestimmten Pegel zu halten. Soll nicht sogar Churchill den Zweiten Weltkrieg in einem Alkoholrausch gewonnen haben? Mit neuem Antrieb stürzen sie sich in ihre geheime wissenschaftliche Studie. Die Wirkung lässt nicht lange auf sich warten …",
       "trailer": "https://www.youtube.com/watch?v=b2z6M24yq2Y",
-      "available": 22,
-      "reserved": 198,
+      "available": 16,
+      "reserved": 202,
       "bookable": true
     },
     {
@@ -1561,8 +1561,8 @@
       "img": "https://media.kinoheld.de/YfEa9kkIECdxHYD1YJURcweBbkc=/200x280/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v209.jpg",
       "description": "Aufgewachsen im komfortablen Wohlstand seiner iranischen Einwanderer-Eltern entzieht sich Millenial Parvis dem Provinzleben in Hildesheim durch Popkultur, Grindr-Dates und Raves. Als Strafe für einen Ladendiebstahl muß er Sozialstunden als Übersetzer in einer Unterkunft für Geflüchtete leisten, in der er auf das iranische Geschwisterpaar Banafshe und Amon trifft. Zwischen ihnen entwickelt sich eine fragile Dreierbeziehung, die zunehmend von dem Bewusstsein geprägt ist, dass ihre Zukunft in Deutschland ungleich ist.",
       "trailer": "https://www.youtube.com/watch?v=DitVsuZ66fQ",
-      "available": 459,
-      "reserved": 51,
+      "available": 444,
+      "reserved": 55,
       "bookable": true
     },
     {
@@ -1578,7 +1578,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689572?layout=shows",
       "img": "https://media.kinoheld.de/WG6DXuYMzdjGMJxxh_h9uM0q_gc=/200x280/images%2Ffilm%2Fgefangen-im-netz-17749.v5.jpg",
       "description": "Silvester 2049. Die Welt ist von Krieg und Zerstörung geprägt. In dieser Zeit entwickelt sich die Welt-Sicherheits-Organisation, die unabhängig von Regierungen agiert und die Welt, insbesondere das allesbestimmende Internet, überwacht und somit das Leben der Menschen bestimmt. Sobald das Jahr 2050 beginnt möchte die WSO einen neuen Mega-Server in Betrieb nehmen, der einerseits der Weltbevölkerung ganz neue Möglichkeiten, andererseits aber auch der WSO Macht über jeden und Alles verleihen würde. Auf dem gigantischen Gelände des Servers lebt zusätzlich auch eine Gruppe von Jugendlichen, die auf spätere Führungspositionen der WSO vorbereitet wird. Kurz vor Beginn des Jahres 2050 wird der Gebäudekomplex von Rebellen gestürmt und besetzt. Der Anführer richtet sich in einer Fernsehansprache an die Bevölkerung  und offenbart die wahren Konsequenzen der Inbetriebnahme des neuen Servers. Nun stellt sich für die Jugendlichen die Frage auf wessen Seite sie sich stellen sollen. Doch wem können sie noch vertrauen?",
-      "available": 657,
+      "available": 650,
       "reserved": 5,
       "bookable": true
     },
@@ -1664,8 +1664,8 @@
       "img": "https://media.kinoheld.de/8O2-tT7mWcV0L7jkmZ5m7M5LbL0=/200x280/images%2Ffilm%2Fnomadland-18288.v2.png",
       "description": "Nach dem wirtschaftlichen Zusammenbruch einer Stadt im ländlichen Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren weißen Van und macht sich auf den Weg, um als moderne Nomadin im Westen der USA ein Leben außerhalb der konventionellen Gesellschaft zu erkunden.",
       "trailer": "https://www.youtube.com/watch?v=iEcIDpnv3qQ",
-      "available": 14,
-      "reserved": 201,
+      "available": 12,
+      "reserved": 203,
       "bookable": true
     },
     {
@@ -1766,8 +1766,8 @@
       "timestamp": 1625702400000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689520?layout=shows",
-      "available": 459,
-      "reserved": 46,
+      "available": 453,
+      "reserved": 48,
       "bookable": true
     },
     {
@@ -2021,8 +2021,8 @@
       "img": "https://media.kinoheld.de/hGAaRFQV58UW2pzaQYJld-NU0zA=/200x280/images%2Ffilm%2Fmo%2F172-36517.v2.png",
       "description": "The Age of Wonder (feature, 61 minutes)\r\n\r\nthe new york Amsterdam news (short, 25 minutes)",
       "trailer": "www.vimeo.com/431797074",
-      "available": 14,
-      "reserved": 17,
+      "available": 10,
+      "reserved": 19,
       "bookable": true
     },
     {
