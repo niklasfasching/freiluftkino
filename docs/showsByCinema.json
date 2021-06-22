@@ -60,8 +60,8 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624651200000,
       "time": "20:00",
-      "available": 178,
-      "reserved": 93,
+      "available": 167,
+      "reserved": 94,
       "bookable": true
     },
     {
@@ -124,7 +124,7 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 462,
+      "available": 456,
       "reserved": 76,
       "bookable": true
     },
@@ -156,7 +156,7 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625867100000,
       "time": "21:45",
-      "available": 808,
+      "available": 806,
       "reserved": 4,
       "bookable": true
     },
@@ -204,7 +204,7 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 618,
+      "available": 614,
       "reserved": 36,
       "bookable": true
     },
@@ -444,8 +444,8 @@
       "date": "Mo., 5.7.,",
       "timestamp": 1625521500000,
       "time": "21:45",
-      "available": 863,
-      "reserved": 5,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -460,8 +460,8 @@
       "date": "Do., 24.6.",
       "timestamp": 1624571100000,
       "time": "21:45",
-      "available": 810,
-      "reserved": 8,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -476,8 +476,8 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 765,
-      "reserved": 15,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     }
   ],
@@ -558,7 +558,7 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 242,
+      "available": 238,
       "reserved": 38,
       "bookable": true
     },
@@ -574,8 +574,8 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 359,
-      "reserved": 26,
+      "available": 360,
+      "reserved": 25,
       "bookable": true
     },
     {
@@ -734,7 +734,7 @@
       "date": "Do., 8.7.,",
       "timestamp": 1625779800000,
       "time": "21:30",
-      "available": 491,
+      "available": 487,
       "reserved": 10,
       "bookable": true
     },
@@ -1008,7 +1008,7 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 471,
+      "available": 469,
       "reserved": 12,
       "bookable": true
     },
@@ -1314,8 +1314,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689214?layout=shows",
       "img": "https://media.kinoheld.de/-zs8YOCQI7Tf-_HTlKIaM8GgxVU=/200x280/images%2Ffilm%2Fpush-fuer-das-grundrecht-auf-wohnen-13187.v10.jpg",
-      "available": 4,
-      "reserved": 238,
+      "available": 3,
+      "reserved": 239,
       "bookable": true
     },
     {
