@@ -1,8 +1,8 @@
 const cinemas = {
   kinoTicketsOnline: {
-    fh_freiluftkino: ["Freiluftkino Friedrichshain", "fhain"],
-    kb_freiluftkino: ["Freiluftkino Kreuzberg", "xberg"],
-    rb_freiluftkino: ["Freiluftkino Rehberge", "rehberge"],
+    fh_freiluftkino: ["Freiluftkino Friedrichshain", "fhain", "http://www.freiluftkino-berlin.de/eine_woche.php"],
+    kb_freiluftkino: ["Freiluftkino Kreuzberg", "xberg", "http://www.freiluftkino-kreuzberg.de/index.php"],
+    rb_freiluftkino: ["Freiluftkino Rehberge", "rehberge", "http://www.freiluftkino-rehberge.de/index.php"],
   },
   kinoHeld: {
     581: ["freiluftkino-insel-im-cassiopeia", "cassiopeia"],
@@ -17,9 +17,9 @@ const cinemas = {
 (async () => {
   try {
     const showsByCinema = {};
-    for (let [id, [name, shortName]] of Object.entries(cinemas.kinoTicketsOnline)) {
+    for (let [id, [name, shortName, url]] of Object.entries(cinemas.kinoTicketsOnline)) {
       console.log(name);
-      showsByCinema[name] = await getKinoTicketsOnlineCinema(id, name, shortName);
+      showsByCinema[name] = await getKinoTicketsOnlineCinema(id, name, shortName, url);
     }
     for (let [id, [name, shortName]] of Object.entries(cinemas.kinoHeld)) {
       console.log(name);
@@ -53,6 +53,7 @@ async function getKinoheldCinema(cinemaId, cinemaName, cinemaShortName) {
     const hasSeatSelection = seatResult.seat_selection_available;
     const seatMap = Object.values(seatResult.seats || []).reduce((acc, e) => acc.set(e.status, (acc.get(e.status) || 0) + 1), new Map());
     const bookable = seatResult.sectors?.some(s => s.availableSeats.order || s.availableSeats.reservation) || false;
+    const movie = result.movies[show.movieId];
     return {
       cinemaId,
       cinemaUrl: `https://www.kinoheld.de/kino-berlin/${cinemaName}/shows/movies`,
@@ -64,7 +65,9 @@ async function getKinoheldCinema(cinemaId, cinemaName, cinemaShortName) {
       timestamp: new Date(show.date + " UTC").getTime(),
       time: show.time,
       url: `https://www.kinoheld.de/cinema-berlin/${cinemaName}/show/${show.id}?layout=shows`,
-      img: result.movies[show.movieId]?.lazyImage,
+      img: movie?.lazyImage,
+      description: movie?.description,
+      trailer: movie?.trailers?.[0]?.url,
       available: hasSeatSelection ? seatMap.get("sf") || 0 : bookable ? -1 : 0,
       reserved: hasSeatSelection ? seatMap.get("ss") || 0 : 0,
       bookable,
@@ -72,7 +75,16 @@ async function getKinoheldCinema(cinemaId, cinemaName, cinemaShortName) {
   }));
 }
 
-async function getKinoTicketsOnlineCinema(cinemaId, cinemaName, cinemaShortName) {
+async function getKinoTicketsOnlineCinema(cinemaId, cinemaName, cinemaShortName, cinemaIndexUrl) {
+  const index = await getDocument(cinemaIndexUrl), meta = {};
+  for (const el of [...index.querySelectorAll(".lazyload")]) {
+    el.innerHTML = el.firstChild.textContent; // <span class=lazyload><!-- $html --></span>
+    const id = el.querySelector("a[href*=kinotickets-online]")?.href?.match(/\/(\d+$)/)[1];
+    meta[id] = {
+      trailer: el.querySelector("a[data-fancybox]")?.href,
+      description: el.querySelector(".teasertext").innerText,
+    };
+  }
   const cinemaUrl = `https://kinotickets-online.com/${cinemaId}`;
   const d = await getDocument(cinemaUrl);
   return Promise.all([...d.querySelectorAll("main > div > ul > li")].map(async (li) => {
@@ -82,7 +94,7 @@ async function getKinoTicketsOnlineCinema(cinemaId, cinemaName, cinemaShortName)
     const [_, day, month, time] = li.querySelector("ul li").innerText.match(/(\d+)\.(\d+)\s*(\d+:\d+)/m);
     const date = new Date(`${new Date().getFullYear()}-${month}-${day} ${time} UTC`);
     const d = await getDocument(url);
-    return {
+    return Object.assign({}, meta[id], {
       cinemaId,
       cinemaUrl,
       cinemaName,
@@ -97,7 +109,7 @@ async function getKinoTicketsOnlineCinema(cinemaId, cinemaName, cinemaShortName)
       available: d.querySelectorAll("#__seats-container button").length,
       reserved: d.querySelectorAll("#__seats-container .bg-seat-res").length,
       bookable: !d.body.textContent.includes("Diese Vorstellung ist leider ausverkauft!"),
-    };
+    });
   }));
 }
 
