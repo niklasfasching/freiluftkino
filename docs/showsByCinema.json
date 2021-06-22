@@ -60,7 +60,7 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624651200000,
       "time": "20:00",
-      "available": 188,
+      "available": 186,
       "reserved": 93,
       "bookable": true
     },
@@ -124,7 +124,7 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 467,
+      "available": 465,
       "reserved": 75,
       "bookable": true
     },
@@ -220,8 +220,8 @@
       "date": "Do., 8.7.,",
       "timestamp": 1625780700000,
       "time": "21:45",
-      "available": 858,
-      "reserved": 0,
+      "available": 856,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -268,7 +268,7 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 515,
+      "available": 511,
       "reserved": 63,
       "bookable": true
     },
@@ -542,7 +542,7 @@
       "date": "So., 4.7.,",
       "timestamp": 1625435100000,
       "time": "21:45",
-      "available": 443,
+      "available": 441,
       "reserved": 12,
       "bookable": true
     },
@@ -574,7 +574,7 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 311,
+      "available": 309,
       "reserved": 24,
       "bookable": true
     },
@@ -734,7 +734,7 @@
       "date": "Do., 8.7.,",
       "timestamp": 1625779800000,
       "time": "21:30",
-      "available": 435,
+      "available": 431,
       "reserved": 10,
       "bookable": true
     },
@@ -750,8 +750,8 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624657500000,
       "time": "21:45",
-      "available": 313,
-      "reserved": 20,
+      "available": 310,
+      "reserved": 21,
       "bookable": true
     },
     {
@@ -782,7 +782,7 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 349,
+      "available": 345,
       "reserved": 24,
       "bookable": true
     },
@@ -1120,7 +1120,7 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 544,
+      "available": 542,
       "reserved": 1,
       "bookable": true
     },
