@@ -108,7 +108,7 @@
       "date": "Mi., 7.7.,",
       "timestamp": 1625694300000,
       "time": "21:45",
-      "available": 861,
+      "available": 859,
       "reserved": 3,
       "bookable": true
     },
@@ -236,7 +236,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625247000000,
       "time": "17:30",
-      "available": 392,
+      "available": 388,
       "reserved": 79,
       "bookable": true
     },
@@ -460,8 +460,8 @@
       "date": "Do., 24.6.",
       "timestamp": 1624571100000,
       "time": "21:45",
-      "available": 813,
-      "reserved": 7,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -782,7 +782,7 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 353,
+      "available": 349,
       "reserved": 24,
       "bookable": true
     },
@@ -1008,7 +1008,7 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 477,
+      "available": 475,
       "reserved": 12,
       "bookable": true
     },
@@ -1314,8 +1314,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689214?layout=shows",
       "img": "https://media.kinoheld.de/-zs8YOCQI7Tf-_HTlKIaM8GgxVU=/200x280/images%2Ffilm%2Fpush-fuer-das-grundrecht-auf-wohnen-13187.v10.jpg",
-      "available": 2,
-      "reserved": 240,
+      "available": 3,
+      "reserved": 239,
       "bookable": true
     },
     {
@@ -1393,8 +1393,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689570?layout=shows",
       "img": "https://media.kinoheld.de/gfQK_AvCnEguvlg6razAUi-kIOU=/200x280/images%2Ffilm%2Fder-rausch-18282.v8.jpg",
-      "available": 158,
-      "reserved": 146,
+      "available": 153,
+      "reserved": 148,
       "bookable": true
     },
     {
@@ -1409,8 +1409,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689571?layout=shows",
       "img": "https://media.kinoheld.de/YfEa9kkIECdxHYD1YJURcweBbkc=/200x280/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v209.jpg",
-      "available": 528,
-      "reserved": 33,
+      "available": 522,
+      "reserved": 36,
       "bookable": true
     },
     {
@@ -1504,8 +1504,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689588?layout=shows",
       "img": "https://media.kinoheld.de/8O2-tT7mWcV0L7jkmZ5m7M5LbL0=/200x280/images%2Ffilm%2Fnomadland-18288.v2.png",
-      "available": 52,
-      "reserved": 184,
+      "available": 44,
+      "reserved": 186,
       "bookable": true
     },
     {
@@ -1567,8 +1567,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689592?layout=shows",
       "img": "https://media.kinoheld.de/TXSacN7Pnx1FgX8EXL13Khy2sT8=/200x280/images%2Ffilm%2Fin-the-mood-for-love-18803.v1.jpg",
-      "available": 655,
-      "reserved": 6,
+      "available": 649,
+      "reserved": 7,
       "bookable": true
     },
     {
@@ -1859,8 +1859,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385436816?layout=shows",
       "img": "https://media.kinoheld.de/6ExA9Nb6dlEuGJ-yg_oFDBhDEPk=/200x280/images%2Ffilm%2Fseret-berlin-kiss-me-kosher-17231.v544.jpg",
-      "available": 46,
-      "reserved": 7,
+      "available": 42,
+      "reserved": 11,
       "bookable": true
     },
     {
