@@ -12,8 +12,8 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 547,
-      "reserved": 31,
+      "available": 550,
+      "reserved": 30,
       "bookable": true
     },
     {
@@ -92,7 +92,7 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626126300000,
       "time": "21:45",
-      "available": 643,
+      "available": 641,
       "reserved": 31,
       "bookable": true
     },
@@ -124,7 +124,7 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 422,
+      "available": 412,
       "reserved": 76,
       "bookable": true
     },
@@ -204,7 +204,7 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 608,
+      "available": 606,
       "reserved": 36,
       "bookable": true
     },
@@ -268,7 +268,7 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 485,
+      "available": 479,
       "reserved": 69,
       "bookable": true
     },
@@ -364,7 +364,7 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 810,
+      "available": 812,
       "reserved": 16,
       "bookable": true
     },
@@ -460,7 +460,7 @@
       "date": "Do., 24.6.",
       "timestamp": 1624571100000,
       "time": "21:45",
-      "available": 801,
+      "available": 797,
       "reserved": 11,
       "bookable": true
     },
@@ -476,7 +476,7 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 755,
+      "available": 749,
       "reserved": 15,
       "bookable": true
     }
@@ -526,7 +526,7 @@
       "date": "Do., 24.6.",
       "timestamp": 1624571100000,
       "time": "21:45",
-      "available": 432,
+      "available": 430,
       "reserved": 17,
       "bookable": true
     },
@@ -558,8 +558,8 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 206,
-      "reserved": 41,
+      "available": 203,
+      "reserved": 40,
       "bookable": true
     },
     {
@@ -590,7 +590,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625262300000,
       "time": "21:45",
-      "available": 413,
+      "available": 409,
       "reserved": 14,
       "bookable": true
     },
@@ -862,8 +862,8 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 503,
-      "reserved": 8,
+      "available": 502,
+      "reserved": 9,
       "bookable": true
     }
   ],
@@ -992,8 +992,8 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
       "time": "21:30",
-      "available": 471,
-      "reserved": 4,
+      "available": 468,
+      "reserved": 5,
       "bookable": true
     },
     {
@@ -1056,8 +1056,8 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 301,
-      "reserved": 40,
+      "available": 298,
+      "reserved": 41,
       "bookable": true
     },
     {
@@ -1088,8 +1088,8 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 489,
-      "reserved": 12,
+      "available": 484,
+      "reserved": 13,
       "bookable": true
     },
     {
@@ -1393,8 +1393,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689570?layout=shows",
       "img": "https://media.kinoheld.de/gfQK_AvCnEguvlg6razAUi-kIOU=/200x280/images%2Ffilm%2Fder-rausch-18282.v8.jpg",
-      "available": 71,
-      "reserved": 176,
+      "available": 57,
+      "reserved": 183,
       "bookable": true
     },
     {
@@ -1827,8 +1827,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385354359?layout=shows",
       "img": "https://media.kinoheld.de/hGAaRFQV58UW2pzaQYJld-NU0zA=/200x280/images%2Ffilm%2Fmo%2F172-36517.v2.png",
-      "available": 16,
-      "reserved": 13,
+      "available": 22,
+      "reserved": 11,
       "bookable": true
     },
     {
