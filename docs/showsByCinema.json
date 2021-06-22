@@ -92,7 +92,7 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626126300000,
       "time": "21:45",
-      "available": 663,
+      "available": 657,
       "reserved": 31,
       "bookable": true
     },
@@ -124,7 +124,7 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 462,
+      "available": 460,
       "reserved": 76,
       "bookable": true
     },
@@ -268,7 +268,7 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 511,
+      "available": 507,
       "reserved": 63,
       "bookable": true
     },
@@ -300,7 +300,7 @@
       "date": "Di., 13.7.",
       "timestamp": 1626212700000,
       "time": "21:45",
-      "available": 861,
+      "available": 859,
       "reserved": 1,
       "bookable": true
     },
@@ -476,7 +476,7 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 763,
+      "available": 765,
       "reserved": 15,
       "bookable": true
     }
@@ -606,7 +606,7 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 429,
+      "available": 427,
       "reserved": 12,
       "bookable": true
     },
@@ -814,7 +814,7 @@
       "date": "Do., 15.7.",
       "timestamp": 1626384600000,
       "time": "21:30",
-      "available": 523,
+      "available": 521,
       "reserved": 0,
       "bookable": true
     },
@@ -992,7 +992,7 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
       "time": "21:30",
-      "available": 481,
+      "available": 475,
       "reserved": 4,
       "bookable": true
     },
@@ -1056,8 +1056,8 @@
       "date": "Di., 22.6.",
       "timestamp": 1624398300000,
       "time": "21:45",
-      "available": 342,
-      "reserved": 33,
+      "available": 339,
+      "reserved": 34,
       "bookable": true
     },
     {
@@ -1393,8 +1393,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689570?layout=shows",
       "img": "https://media.kinoheld.de/gfQK_AvCnEguvlg6razAUi-kIOU=/200x280/images%2Ffilm%2Fder-rausch-18282.v8.jpg",
-      "available": 152,
-      "reserved": 149,
+      "available": 145,
+      "reserved": 151,
       "bookable": true
     },
     {
@@ -1598,7 +1598,7 @@
       "timestamp": 1625702400000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689520?layout=shows",
-      "available": 475,
+      "available": 485,
       "reserved": 41,
       "bookable": true
     },
@@ -1630,7 +1630,7 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689595?layout=shows",
       "img": "https://media.kinoheld.de/8O2-tT7mWcV0L7jkmZ5m7M5LbL0=/200x280/images%2Ffilm%2Fnomadland-18288.v2.png",
-      "available": 517,
+      "available": 522,
       "reserved": 37,
       "bookable": true
     },
@@ -1827,8 +1827,8 @@
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385354359?layout=shows",
       "img": "https://media.kinoheld.de/hGAaRFQV58UW2pzaQYJld-NU0zA=/200x280/images%2Ffilm%2Fmo%2F172-36517.v2.png",
-      "available": 35,
-      "reserved": 7,
+      "available": 32,
+      "reserved": 8,
       "bookable": true
     },
     {
