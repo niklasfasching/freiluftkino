@@ -14,7 +14,7 @@
       "date": "Di., 6.7.,",
       "timestamp": 1625607900000,
       "time": "21:45",
-      "available": 774,
+      "available": 772,
       "reserved": 22,
       "bookable": true
     },
@@ -121,7 +121,7 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 383,
+      "available": 381,
       "reserved": 79,
       "bookable": true
     },
@@ -209,7 +209,7 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 585,
+      "available": 583,
       "reserved": 43,
       "bookable": true
     },
@@ -227,7 +227,7 @@
       "date": "Do., 8.7.,",
       "timestamp": 1625780700000,
       "time": "21:45",
-      "available": 852,
+      "available": 850,
       "reserved": 2,
       "bookable": true
     },
@@ -508,7 +508,7 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 737,
+      "available": 735,
       "reserved": 17,
       "bookable": true
     }
@@ -528,7 +528,7 @@
       "date": "Di., 6.7.,",
       "timestamp": 1625607900000,
       "time": "21:45",
-      "available": 368,
+      "available": 364,
       "reserved": 29,
       "bookable": true
     },
@@ -546,7 +546,7 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
       "time": "21:30",
-      "available": 341,
+      "available": 339,
       "reserved": 24,
       "bookable": true
     },
@@ -600,8 +600,8 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 330,
-      "reserved": 27,
+      "available": 328,
+      "reserved": 29,
       "bookable": true
     },
     {
@@ -636,8 +636,8 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 409,
-      "reserved": 16,
+      "available": 410,
+      "reserved": 17,
       "bookable": true
     },
     {
@@ -708,7 +708,7 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 513,
+      "available": 511,
       "reserved": 10,
       "bookable": true
     },
@@ -849,8 +849,8 @@
       "date": "Mi., 7.7.,",
       "timestamp": 1625694300000,
       "time": "21:45",
-      "available": 509,
-      "reserved": 4,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -867,7 +867,7 @@
       "date": "Do., 15.7.",
       "timestamp": 1626384600000,
       "time": "21:30",
-      "available": 521,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -884,8 +884,8 @@
       "date": "Mo., 5.7.,",
       "timestamp": 1625521500000,
       "time": "21:45",
-      "available": 514,
-      "reserved": 5,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -902,8 +902,8 @@
       "date": "Mo., 28.6.",
       "timestamp": 1624916700000,
       "time": "21:45",
-      "available": 355,
-      "reserved": 4,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -1080,7 +1080,7 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 467,
+      "available": 465,
       "reserved": 12,
       "bookable": true
     },
@@ -1224,7 +1224,7 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624657500000,
       "time": "21:45",
-      "available": 471,
+      "available": 467,
       "reserved": 8,
       "bookable": true
     },
@@ -1403,9 +1403,9 @@
       "img": "https://media.kinoheld.de/PLPq8qVAZAPc-RESgLCtuDhS4ys=/200x280/images%2Ffilm%2Flittle-women-15673.v357.jpg",
       "description": "Vier junge Frauen im Amerika Mitte des 19. Jahrhunderts, die ihr Leben selbstbestimmt nach eigenen Vorstellungen gestalten wollen und dabei teils große gesellschaftliche Hindernisse überwinden: LITTLE WOMEN folgt den unterschiedlichen Lebenswegen der March-Schwestern Jo (Saoirse Ronan), Meg (Emma Watson), Amy (Florence Pugh) und Beth (Eliza Scanlen) zu einer Zeit, in der die Möglichkeiten für Frauen begrenzt waren. Erzählt aus der Perspektive von Jo March, dem Alter Ego von Autorin Louisa May Alcott, und sowohl basierend auf dem Roman wie auch auf den persönlichen Schriften Alcotts. (Quelle: Verleih)",
       "trailer": "https://www.youtube.com/watch?v=XoXqEWNewdI",
-      "available": 4,
-      "reserved": 240,
-      "bookable": true
+      "available": 0,
+      "reserved": 244,
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1694,8 +1694,8 @@
       "timestamp": 1625702400000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689520?layout=shows",
-      "available": 439,
-      "reserved": 49,
+      "available": 435,
+      "reserved": 55,
       "bookable": true
     },
     {
@@ -1931,8 +1931,8 @@
       "img": "https://media.kinoheld.de/YfEa9kkIECdxHYD1YJURcweBbkc=/200x280/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v209.jpg",
       "description": "Aufgewachsen im komfortablen Wohlstand seiner iranischen Einwanderer-Eltern entzieht sich Millenial Parvis dem Provinzleben in Hildesheim durch Popkultur, Grindr-Dates und Raves. Als Strafe für einen Ladendiebstahl muß er Sozialstunden als Übersetzer in einer Unterkunft für Geflüchtete leisten, in der er auf das iranische Geschwisterpaar Banafshe und Amon trifft. Zwischen ihnen entwickelt sich eine fragile Dreierbeziehung, die zunehmend von dem Bewusstsein geprägt ist, dass ihre Zukunft in Deutschland ungleich ist.",
       "trailer": "https://www.youtube.com/watch?v=DitVsuZ66fQ",
-      "available": 0,
-      "reserved": 35,
+      "available": 4,
+      "reserved": 33,
       "bookable": true
     },
     {
