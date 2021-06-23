@@ -49,7 +49,7 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624651200000,
       "time": "20:00",
-      "available": 141,
+      "available": 135,
       "reserved": 94,
       "bookable": true
     },
@@ -209,8 +209,8 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 573,
-      "reserved": 43,
+      "available": 561,
+      "reserved": 45,
       "bookable": true
     },
     {
@@ -279,7 +279,7 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 446,
+      "available": 440,
       "reserved": 74,
       "bookable": true
     },
@@ -472,7 +472,7 @@
       "date": "Mo., 5.7.,",
       "timestamp": 1625521500000,
       "time": "21:45",
-      "available": 861,
+      "available": 857,
       "reserved": 5,
       "bookable": true
     },
@@ -508,8 +508,8 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 731,
-      "reserved": 17,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     }
   ],
@@ -636,7 +636,7 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 407,
+      "available": 405,
       "reserved": 20,
       "bookable": true
     },
@@ -672,7 +672,7 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625866200000,
       "time": "21:30",
-      "available": 443,
+      "available": 441,
       "reserved": 12,
       "bookable": true
     },
@@ -744,8 +744,8 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 423,
-      "reserved": 24,
+      "available": 417,
+      "reserved": 28,
       "bookable": true
     },
     {
@@ -884,7 +884,7 @@
       "date": "Mo., 5.7.,",
       "timestamp": 1625521500000,
       "time": "21:45",
-      "available": 514,
+      "available": 510,
       "reserved": 5,
       "bookable": true
     },
@@ -940,7 +940,7 @@
       "date": "Mo., 5.7.,",
       "timestamp": 1625521500000,
       "time": "21:45",
-      "available": 553,
+      "available": 551,
       "reserved": 2,
       "bookable": true
     },
@@ -1044,7 +1044,7 @@
       "date": "Do., 1.7.,",
       "timestamp": 1625175900000,
       "time": "21:45",
-      "available": 552,
+      "available": 548,
       "reserved": 3,
       "bookable": true
     },
@@ -1098,7 +1098,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625262300000,
       "time": "21:45",
-      "available": 522,
+      "available": 520,
       "reserved": 1,
       "bookable": true
     },
@@ -1116,7 +1116,7 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 524,
+      "available": 526,
       "reserved": 11,
       "bookable": true
     },
@@ -1134,7 +1134,7 @@
       "date": "Do., 24.6.",
       "timestamp": 1624571100000,
       "time": "21:45",
-      "available": 492,
+      "available": 490,
       "reserved": 5,
       "bookable": true
     },
@@ -1152,7 +1152,7 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 474,
+      "available": 472,
       "reserved": 13,
       "bookable": true
     },
@@ -1729,7 +1729,7 @@
       "img": "https://media.kinoheld.de/8O2-tT7mWcV0L7jkmZ5m7M5LbL0=/200x280/images%2Ffilm%2Fnomadland-18288.v2.png",
       "description": "Nach dem wirtschaftlichen Zusammenbruch einer Stadt im ländlichen Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren weißen Van und macht sich auf den Weg, um als moderne Nomadin im Westen der USA ein Leben außerhalb der konventionellen Gesellschaft zu erkunden.",
       "trailer": "https://www.youtube.com/watch?v=iEcIDpnv3qQ",
-      "available": 425,
+      "available": 420,
       "reserved": 65,
       "bookable": true
     },
