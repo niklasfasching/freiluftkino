@@ -49,7 +49,7 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624651200000,
       "time": "20:00",
-      "available": 135,
+      "available": 129,
       "reserved": 94,
       "bookable": true
     },
@@ -156,7 +156,7 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625867100000,
       "time": "21:45",
-      "available": 806,
+      "available": 802,
       "reserved": 4,
       "bookable": true
     },
@@ -209,8 +209,8 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 561,
-      "reserved": 45,
+      "available": 560,
+      "reserved": 44,
       "bookable": true
     },
     {
@@ -438,8 +438,8 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628960400000,
       "time": "17:00",
-      "available": 751,
-      "reserved": 12,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -454,7 +454,7 @@
       "date": "Di., 27.7.",
       "timestamp": 1627419600000,
       "time": "21:00",
-      "available": 851,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -472,8 +472,8 @@
       "date": "Mo., 5.7.,",
       "timestamp": 1625521500000,
       "time": "21:45",
-      "available": 857,
-      "reserved": 5,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -490,8 +490,8 @@
       "date": "Do., 24.6.",
       "timestamp": 1624571100000,
       "time": "21:45",
-      "available": 789,
-      "reserved": 13,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -600,7 +600,7 @@
       "date": "Mi., 23.6.",
       "timestamp": 1624484700000,
       "time": "21:45",
-      "available": 317,
+      "available": 313,
       "reserved": 36,
       "bookable": true
     },
@@ -618,8 +618,8 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625262300000,
       "time": "21:45",
-      "available": 398,
-      "reserved": 15,
+      "available": 397,
+      "reserved": 16,
       "bookable": true
     },
     {
@@ -636,8 +636,8 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 405,
-      "reserved": 20,
+      "available": 400,
+      "reserved": 21,
       "bookable": true
     },
     {
@@ -672,7 +672,7 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625866200000,
       "time": "21:30",
-      "available": 441,
+      "available": 439,
       "reserved": 12,
       "bookable": true
     },
@@ -744,8 +744,8 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 417,
-      "reserved": 28,
+      "available": 416,
+      "reserved": 25,
       "bookable": true
     },
     {
@@ -797,7 +797,7 @@
       "date": "Fr., 25.6.",
       "timestamp": 1624657500000,
       "time": "21:45",
-      "available": 321,
+      "available": 319,
       "reserved": 30,
       "bookable": true
     },
@@ -849,7 +849,7 @@
       "date": "Mi., 7.7.,",
       "timestamp": 1625694300000,
       "time": "21:45",
-      "available": 509,
+      "available": 507,
       "reserved": 4,
       "bookable": true
     },
@@ -940,7 +940,7 @@
       "date": "Mo., 5.7.,",
       "timestamp": 1625521500000,
       "time": "21:45",
-      "available": 551,
+      "available": 553,
       "reserved": 2,
       "bookable": true
     },
@@ -1044,8 +1044,8 @@
       "date": "Do., 1.7.,",
       "timestamp": 1625175900000,
       "time": "21:45",
-      "available": 548,
-      "reserved": 3,
+      "available": 545,
+      "reserved": 4,
       "bookable": true
     },
     {
@@ -1116,8 +1116,8 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 526,
-      "reserved": 11,
+      "available": 525,
+      "reserved": 12,
       "bookable": true
     },
     {
@@ -1188,7 +1188,7 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 521,
+      "available": 519,
       "reserved": 6,
       "bookable": true
     },
@@ -1206,7 +1206,7 @@
       "date": "Mi., 14.7.",
       "timestamp": 1626298200000,
       "time": "21:30",
-      "available": 532,
+      "available": 524,
       "reserved": 3,
       "bookable": true
     },
@@ -1311,8 +1311,8 @@
       "date": "Mi., 7.7.,",
       "timestamp": 1625694300000,
       "time": "21:45",
-      "available": 550,
-      "reserved": 1,
+      "available": 547,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -1730,7 +1730,7 @@
       "description": "Nach dem wirtschaftlichen Zusammenbruch einer Stadt im ländlichen Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren weißen Van und macht sich auf den Weg, um als moderne Nomadin im Westen der USA ein Leben außerhalb der konventionellen Gesellschaft zu erkunden.",
       "trailer": "https://www.youtube.com/watch?v=iEcIDpnv3qQ",
       "available": 420,
-      "reserved": 65,
+      "reserved": 67,
       "bookable": true
     },
     {
