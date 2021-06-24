@@ -27,6 +27,9 @@ const cinemas = {
     }
     await fetch("/create?path=docs/showsByCinema.json", {method: "POST", body: JSON.stringify(showsByCinema, null, 2)});
     console.info("wrote docs/showsByCinema.json");
+    const shows = Object.values(showsByCinema).flat().reduce((xs, x) => Object.assign(xs, {[x.id]: x}), {});
+    await fetch("/create?path=docs/shows.json", {method: "POST", body: JSON.stringify(shows, null, 2)});
+    console.info("wrote docs/shows.json");
     if (!window.args.includes("dev")) console.clear(0);
   } catch(err) {
     console.error(err);
