@@ -48,7 +48,7 @@
     "date": "Fr., 25.6.",
     "timestamp": 1624651200000,
     "time": "20:00",
-    "available": 188,
+    "available": 184,
     "reserved": 103,
     "bookable": true
   },
@@ -84,7 +84,7 @@
     "date": "Mo., 12.7.",
     "timestamp": 1626126300000,
     "time": "21:45",
-    "available": 567,
+    "available": 565,
     "reserved": 53,
     "bookable": true
   },
@@ -120,7 +120,7 @@
     "date": "Sa., 26.6.",
     "timestamp": 1624743900000,
     "time": "21:45",
-    "available": 172,
+    "available": 166,
     "reserved": 100,
     "bookable": true
   },
@@ -277,7 +277,7 @@
     "date": "Mi., 30.6.",
     "timestamp": 1625089500000,
     "time": "21:45",
-    "available": 346,
+    "available": 342,
     "reserved": 94,
     "bookable": true
   },
@@ -452,7 +452,7 @@
     "date": "Di., 27.7.",
     "timestamp": 1627419600000,
     "time": "21:00",
-    "available": 0,
+    "available": 1049,
     "reserved": 0,
     "bookable": true
   },
@@ -470,8 +470,8 @@
     "date": "Mo., 5.7.,",
     "timestamp": 1625521500000,
     "time": "21:45",
-    "available": 0,
-    "reserved": 0,
+    "available": 853,
+    "reserved": 5,
     "bookable": true
   },
   "fhain-678": {
@@ -506,7 +506,7 @@
     "date": "Di., 6.7.,",
     "timestamp": 1625607900000,
     "time": "21:45",
-    "available": 333,
+    "available": 331,
     "reserved": 36,
     "bookable": true
   },
@@ -524,7 +524,7 @@
     "date": "Sa., 10.7.",
     "timestamp": 1625952600000,
     "time": "21:30",
-    "available": 285,
+    "available": 283,
     "reserved": 34,
     "bookable": true
   },
@@ -755,7 +755,7 @@
     "date": "Do., 19.8.",
     "timestamp": 1629388800000,
     "time": "16:00",
-    "available": 0,
+    "available": 492,
     "reserved": 0,
     "bookable": true
   },
@@ -773,8 +773,8 @@
     "date": "Mi., 30.6.",
     "timestamp": 1625089500000,
     "time": "21:45",
-    "available": 381,
-    "reserved": 26,
+    "available": 0,
+    "reserved": 0,
     "bookable": true
   },
   "xberg-620": {
@@ -809,7 +809,7 @@
     "date": "Do., 15.7.",
     "timestamp": 1626384600000,
     "time": "21:30",
-    "available": 0,
+    "available": 519,
     "reserved": 0,
     "bookable": true
   },
@@ -844,7 +844,7 @@
     "date": "Mo., 28.6.",
     "timestamp": 1624916700000,
     "time": "21:45",
-    "available": 335,
+    "available": 333,
     "reserved": 8,
     "bookable": true
   },
@@ -862,8 +862,8 @@
     "date": "Di., 29.6.",
     "timestamp": 1625003100000,
     "time": "21:45",
-    "available": 493,
-    "reserved": 10,
+    "available": 0,
+    "reserved": 0,
     "bookable": true
   },
   "rehberge-609": {
@@ -1145,8 +1145,8 @@
     "date": "Mo., 28.6.",
     "timestamp": 1624916700000,
     "time": "21:45",
-    "available": 499,
-    "reserved": 2,
+    "available": 498,
+    "reserved": 3,
     "bookable": true
   },
   "rehberge-585": {
@@ -1407,8 +1407,8 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689573?layout=shows",
     "img": "https://media.kinoheld.de/z0UBTqg1mvoMu-Woak1KAXv2IY0=/200x280/images%2Ffilm%2Fvor-mir-der-sueden-17826.v3.jpg",
     "description": "Im September/ Oktober 2017 reist die Crew um Oscar-Regisseur Pepe Danquart und Kameramann Thomas Schneider sieben Wochen durch Italien, auf den Spuren von Pier Paolo Pasolini, dieses Autors, Dichters, Regisseurs, der schon früh - zärtlich, melancholisch, zornig - vor den Folgen jener Ökonomisierung aller Lebensbereiche warnte, die wir heute erleben. Pier Paolo Pasolini setzte sich im Juni des Jahres 1959 im Auftrag der Zeitschrift \"Successo\" in Ventimiglia an der französischen Grenze in seinen Fiat Millecento und fuhr die etwa dreitausend Küstenkilometer Italiens bis hinauf nach Triest. Seine Texte und Bilder über diese Reise sind heute ein eigenwilliges Dokument dieser Zeit zwischen dem Ende der Traditionen und der aufziehenden Globalisierung. Pepe Danquarts Dokumentarfilm fängt entlang der Route die Bilder und Stimmungen fünfzig Jahre später ein, in einer anderen Wirklichkeit …\"",
-    "available": 555,
-    "reserved": 30,
+    "available": 540,
+    "reserved": 34,
     "bookable": true
   },
   "hasenheide-689574": {
@@ -1512,8 +1512,8 @@
     "img": "https://media.kinoheld.de/XumU5kU2r_zhNGfY7BDTedClrJI=/200x280/images%2Ffilm%2Fundine-16403.v45.jpg",
     "description": "Im Liebesdrama Undine wird Paula Beer von ihrem Freund verlassen, wodurch ein Fluch ans Licht kommt, der sie dazu zwingt, ihn zu ertränken. Doch dann verliebt die Nixe sich in einen Taucher.",
     "trailer": "https://www.youtube.com/watch?v=_XSzVgjeyfM",
-    "available": 650,
-    "reserved": 7,
+    "available": 635,
+    "reserved": 10,
     "bookable": true
   },
   "hasenheide-689591": {
@@ -1578,7 +1578,7 @@
     "timestamp": 1625702400000,
     "time": "21:45",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689520?layout=shows",
-    "available": 385,
+    "available": 379,
     "reserved": 72,
     "bookable": true
   },
@@ -1613,8 +1613,8 @@
     "img": "https://media.kinoheld.de/8O2-tT7mWcV0L7jkmZ5m7M5LbL0=/200x280/images%2Ffilm%2Fnomadland-18288.v2.png",
     "description": "Nach dem wirtschaftlichen Zusammenbruch einer Stadt im ländlichen Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren weißen Van und macht sich auf den Weg, um als moderne Nomadin im Westen der USA ein Leben außerhalb der konventionellen Gesellschaft zu erkunden.",
     "trailer": "https://www.youtube.com/watch?v=iEcIDpnv3qQ",
-    "available": 84,
-    "reserved": 174,
+    "available": 75,
+    "reserved": 178,
     "bookable": true
   },
   "hasenheide-689596": {
