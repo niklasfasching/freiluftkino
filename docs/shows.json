@@ -48,7 +48,7 @@
     "date": "Fr., 25.6.",
     "timestamp": 1624651200000,
     "time": "20:00",
-    "available": 192,
+    "available": 188,
     "reserved": 103,
     "bookable": true
   },
@@ -84,7 +84,7 @@
     "date": "Mo., 12.7.",
     "timestamp": 1626126300000,
     "time": "21:45",
-    "available": 569,
+    "available": 567,
     "reserved": 53,
     "bookable": true
   },
@@ -120,7 +120,7 @@
     "date": "Sa., 26.6.",
     "timestamp": 1624743900000,
     "time": "21:45",
-    "available": 186,
+    "available": 172,
     "reserved": 100,
     "bookable": true
   },
@@ -173,7 +173,7 @@
     "date": "Mo., 28.6.",
     "timestamp": 1624916700000,
     "time": "21:45",
-    "available": 753,
+    "available": 749,
     "reserved": 19,
     "bookable": true
   },
@@ -331,8 +331,8 @@
     "date": "Sa., 3.7.,",
     "timestamp": 1625348700000,
     "time": "21:45",
-    "available": 696,
-    "reserved": 38,
+    "available": 695,
+    "reserved": 39,
     "bookable": true
   },
   "fhain-683": {
@@ -452,7 +452,7 @@
     "date": "Di., 27.7.",
     "timestamp": 1627419600000,
     "time": "21:00",
-    "available": 1049,
+    "available": 0,
     "reserved": 0,
     "bookable": true
   },
@@ -470,8 +470,8 @@
     "date": "Mo., 5.7.,",
     "timestamp": 1625521500000,
     "time": "21:45",
-    "available": 853,
-    "reserved": 5,
+    "available": 0,
+    "reserved": 0,
     "bookable": true
   },
   "fhain-678": {
@@ -488,8 +488,8 @@
     "date": "So., 27.6.",
     "timestamp": 1624830300000,
     "time": "21:45",
-    "available": 657,
-    "reserved": 25,
+    "available": 0,
+    "reserved": 0,
     "bookable": true
   },
   "xberg-619": {
@@ -578,7 +578,7 @@
     "date": "So., 27.6.",
     "timestamp": 1624830300000,
     "time": "21:45",
-    "available": 350,
+    "available": 346,
     "reserved": 25,
     "bookable": true
   },
@@ -668,7 +668,7 @@
     "date": "Do., 1.7.,",
     "timestamp": 1625175900000,
     "time": "21:45",
-    "available": 476,
+    "available": 478,
     "reserved": 5,
     "bookable": true
   },
@@ -739,7 +739,7 @@
     "date": "Fr., 25.6.",
     "timestamp": 1624657500000,
     "time": "21:45",
-    "available": 231,
+    "available": 227,
     "reserved": 40,
     "bookable": true
   },
@@ -755,7 +755,7 @@
     "date": "Do., 19.8.",
     "timestamp": 1629388800000,
     "time": "16:00",
-    "available": 492,
+    "available": 0,
     "reserved": 0,
     "bookable": true
   },
@@ -773,8 +773,8 @@
     "date": "Mi., 30.6.",
     "timestamp": 1625089500000,
     "time": "21:45",
-    "available": 0,
-    "reserved": 0,
+    "available": 381,
+    "reserved": 26,
     "bookable": true
   },
   "xberg-620": {
@@ -791,8 +791,8 @@
     "date": "Mi., 7.7.,",
     "timestamp": 1625694300000,
     "time": "21:45",
-    "available": 507,
-    "reserved": 4,
+    "available": 0,
+    "reserved": 0,
     "bookable": true
   },
   "xberg-627": {
@@ -826,7 +826,7 @@
     "date": "Mo., 5.7.,",
     "timestamp": 1625521500000,
     "time": "21:45",
-    "available": 496,
+    "available": 494,
     "reserved": 5,
     "bookable": true
   },
@@ -844,8 +844,8 @@
     "date": "Mo., 28.6.",
     "timestamp": 1624916700000,
     "time": "21:45",
-    "available": 336,
-    "reserved": 7,
+    "available": 335,
+    "reserved": 8,
     "bookable": true
   },
   "xberg-612": {
@@ -931,8 +931,8 @@
     "date": "Sa., 26.6.",
     "timestamp": 1624743900000,
     "time": "21:45",
-    "available": 466,
-    "reserved": 11,
+    "available": 463,
+    "reserved": 14,
     "bookable": true
   },
   "rehberge-618": {
@@ -1020,7 +1020,7 @@
     "date": "Sa., 3.7.,",
     "timestamp": 1625348700000,
     "time": "21:45",
-    "available": 451,
+    "available": 447,
     "reserved": 12,
     "bookable": true
   },
@@ -1038,7 +1038,7 @@
     "date": "Fr., 2.7.,",
     "timestamp": 1625262300000,
     "time": "21:45",
-    "available": 501,
+    "available": 499,
     "reserved": 2,
     "bookable": true
   },
@@ -1056,7 +1056,7 @@
     "date": "Di., 29.6.",
     "timestamp": 1625003100000,
     "time": "21:45",
-    "available": 511,
+    "available": 509,
     "reserved": 14,
     "bookable": true
   },
@@ -1128,7 +1128,7 @@
     "date": "Fr., 25.6.",
     "timestamp": 1624657500000,
     "time": "21:45",
-    "available": 416,
+    "available": 412,
     "reserved": 15,
     "bookable": true
   },
@@ -1322,8 +1322,8 @@
     "img": "https://media.kinoheld.de/1KipLgLbsIj_5-UtT5XVg1GOqmw=/200x280/images%2Ffilm%2F2%2Fdie-karte-meiner-traeume-537.v3.jpg",
     "description": "Der zwölfjährige T.S. Spivet ist das eher ungewöhnliche Kind einer eher ungewöhnlichen Familie. Während sein Vater als Cowboy durchs Leben geht, ist seine Mutter eine leidenschaftliche Käferexpertin und seine ältere Schwester träumt davon, ein echter Star zu werden. T.S. dagegen ist mit Leib und Seele Kartograf und verbringt seine Zeit am liebsten mit dem Zeichnen von Karten. Als er deshalb eines Tages nach Washington eingeladen wird, zögert der Junge natürlich nicht lange und macht sich auf den Weg quer durchs Land. (j.b.)",
     "trailer": "https://www.youtube.com/watch?v=v9eTIiq6pSk",
-    "available": 354,
-    "reserved": 88,
+    "available": 337,
+    "reserved": 96,
     "bookable": true
   },
   "hasenheide-689521": {
@@ -1337,8 +1337,8 @@
     "timestamp": 1624665600000,
     "time": "18:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689521?layout=shows",
-    "available": 354,
-    "reserved": 82,
+    "available": 346,
+    "reserved": 84,
     "bookable": true
   },
   "hasenheide-689570": {
@@ -1374,7 +1374,7 @@
     "description": "Aufgewachsen im komfortablen Wohlstand seiner iranischen Einwanderer-Eltern entzieht sich Millenial Parvis dem Provinzleben in Hildesheim durch Popkultur, Grindr-Dates und Raves. Als Strafe für einen Ladendiebstahl muß er Sozialstunden als Übersetzer in einer Unterkunft für Geflüchtete leisten, in der er auf das iranische Geschwisterpaar Banafshe und Amon trifft. Zwischen ihnen entwickelt sich eine fragile Dreierbeziehung, die zunehmend von dem Bewusstsein geprägt ist, dass ihre Zukunft in Deutschland ungleich ist.",
     "trailer": "https://www.youtube.com/watch?v=DitVsuZ66fQ",
     "available": 150,
-    "reserved": 143,
+    "reserved": 145,
     "bookable": true
   },
   "hasenheide-689572": {
@@ -1407,8 +1407,8 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689573?layout=shows",
     "img": "https://media.kinoheld.de/z0UBTqg1mvoMu-Woak1KAXv2IY0=/200x280/images%2Ffilm%2Fvor-mir-der-sueden-17826.v3.jpg",
     "description": "Im September/ Oktober 2017 reist die Crew um Oscar-Regisseur Pepe Danquart und Kameramann Thomas Schneider sieben Wochen durch Italien, auf den Spuren von Pier Paolo Pasolini, dieses Autors, Dichters, Regisseurs, der schon früh - zärtlich, melancholisch, zornig - vor den Folgen jener Ökonomisierung aller Lebensbereiche warnte, die wir heute erleben. Pier Paolo Pasolini setzte sich im Juni des Jahres 1959 im Auftrag der Zeitschrift \"Successo\" in Ventimiglia an der französischen Grenze in seinen Fiat Millecento und fuhr die etwa dreitausend Küstenkilometer Italiens bis hinauf nach Triest. Seine Texte und Bilder über diese Reise sind heute ein eigenwilliges Dokument dieser Zeit zwischen dem Ende der Traditionen und der aufziehenden Globalisierung. Pepe Danquarts Dokumentarfilm fängt entlang der Route die Bilder und Stimmungen fünfzig Jahre später ein, in einer anderen Wirklichkeit …\"",
-    "available": 567,
-    "reserved": 26,
+    "available": 555,
+    "reserved": 30,
     "bookable": true
   },
   "hasenheide-689574": {
@@ -1494,7 +1494,7 @@
     "img": "https://media.kinoheld.de/u3wDB1Wdcq7CxgpNhKO8OjB9dS4=/200x280/images%2Ffilm%2Fminari-18286.v2.png",
     "description": "Jacob beschließt, mit seiner koreanisch-amerikanischen Familie von Los Angeles nach Arkansas zu ziehen, um als Farmer sein Glück zu versuchen. Seine Frau Monica und die Kinder David und Anne fühlen sich jedoch fremd in der neuen Heimat, und das fragile Familienleben wird zusätzlich auf die Probe gestellt, als die schlagfertige und liebevolle Großmutter Soonja von Südkorea zu ihnen auf die Farm zieht.",
     "trailer": "https://www.youtube.com/watch?v=TlOqMFPS00g",
-    "available": 461,
+    "available": 471,
     "reserved": 55,
     "bookable": true
   },
@@ -1545,7 +1545,7 @@
     "img": "https://media.kinoheld.de/TXSacN7Pnx1FgX8EXL13Khy2sT8=/200x280/images%2Ffilm%2Fin-the-mood-for-love-18803.v1.jpg",
     "description": "\"In the Mood for Love\" spielt in Hong Kong im Jahre 1962 und handelt von zwei jungen Ehepaaren und deren ungewöhnlicher Beziehung zueinander. Die Paare ziehen in benachbarte Appartements. Die schöne Li-Zhen und der Journalist Chow sind im Gegensatz zu ihren Partnern oft zu Hause. Beide verbindet sehr bald eine innige Freundschaft. Durch Zufall entdecken sie, dass ihre Ehepartner ein Verhältnis miteinander haben und geraten in einen Strudel verwirrender Gefühle. (BB)",
     "trailer": "https://www.youtube.com/watch?v=yEkyYBRNWdw",
-    "available": 584,
+    "available": 586,
     "reserved": 19,
     "bookable": true
   },
@@ -1613,8 +1613,8 @@
     "img": "https://media.kinoheld.de/8O2-tT7mWcV0L7jkmZ5m7M5LbL0=/200x280/images%2Ffilm%2Fnomadland-18288.v2.png",
     "description": "Nach dem wirtschaftlichen Zusammenbruch einer Stadt im ländlichen Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren weißen Van und macht sich auf den Weg, um als moderne Nomadin im Westen der USA ein Leben außerhalb der konventionellen Gesellschaft zu erkunden.",
     "trailer": "https://www.youtube.com/watch?v=iEcIDpnv3qQ",
-    "available": 89,
-    "reserved": 172,
+    "available": 84,
+    "reserved": 174,
     "bookable": true
   },
   "hasenheide-689596": {
@@ -1703,9 +1703,9 @@
     "img": "https://media.kinoheld.de/2Uiost_MJfJwZIDr1UTh9kI2YEU=/200x280/images%2Ffilm%2Fmo%2F3013-36035.v2.jpg",
     "description": "Anfang der Sechzigerjahre nähert sich der Kalte Krieg zwischen den beiden Supermächten seinem Höhepunkt. Oleg Penkowski (MERAB NINIDZE), ein vormals hochrangiger Sowjetoffizier mit Freunden im Kreml, füttert die westlichen Geheimdienste mit brisanten Informationen. Um Penkowski aus der direkten Gefahrenlinie zu nehmen, beschließen CIA und MI6, ihm einen Kontaktmann zur Seite zu stellen, der keinerlei Aufsehen erregt: Greville Wynne (BENEDICT CUMBERBATCH) ist ein harmloser britischer Geschäftsmann, der mit Spionage nichts am Hut hat und sich nur widerstrebend überreden lässt. Erstaunlicherweise freundet Wynne sich mit dem Russen an. Als Penkowski in Moskau aufzufliegen droht, startet Wynne gegen den Rat der Geheimdienste eine letzte Mission in den Osten, um den Freund zu retten – oder selbst in die Hände des KGB zu fallen...",
     "trailer": "https://youtu.be/cq4qKvvR76E",
-    "available": -1,
+    "available": 0,
     "reserved": 0,
-    "bookable": true
+    "bookable": false
   },
   "fmp-2382747798": {
     "cinemaId": "1657",
