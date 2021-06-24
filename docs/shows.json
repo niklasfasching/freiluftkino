@@ -84,8 +84,8 @@
     "date": "Mo., 12.7.",
     "timestamp": 1626126300000,
     "time": "21:45",
-    "available": 572,
-    "reserved": 52,
+    "available": 569,
+    "reserved": 53,
     "bookable": true
   },
   "fhain-687": {
@@ -277,7 +277,7 @@
     "date": "Mi., 30.6.",
     "timestamp": 1625089500000,
     "time": "21:45",
-    "available": 350,
+    "available": 346,
     "reserved": 94,
     "bookable": true
   },
@@ -384,8 +384,8 @@
     "date": "Di., 29.6.",
     "timestamp": 1625003100000,
     "time": "21:45",
-    "available": 782,
-    "reserved": 18,
+    "available": 779,
+    "reserved": 19,
     "bookable": true
   },
   "fhain-672": {
@@ -474,24 +474,6 @@
     "reserved": 5,
     "bookable": true
   },
-  "fhain-676": {
-    "trailer": "https://www.youtube-nocookie.com/embed/AlrWRttLTkg?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
-    "description": "Ein Cowboy wird bei einem Rodeo vom Pferd abgeworfen und schwer am Kopf verletzt. Mühsam kämpft er sich ins Leben zurück. Doch als Pferdetrainer wird er nicht mehr arbeiten können. Anrührendes, überaus menschlich inszeniertes Drama über den Neuanfang eines jungen Mannes, der auch um seine Identität kämpfen muss.",
-    "cinemaId": "fh_freiluftkino",
-    "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
-    "cinemaName": "Freiluftkino Friedrichshain",
-    "cinemaShortName": "fhain",
-    "id": "fhain-676",
-    "url": "https://kinotickets-online.com/fh_freiluftkino/seats/676",
-    "img": "https://kinotickets-online.com/fh_freiluftkino/poster?movieId=663",
-    "title": "The Rider",
-    "date": "Do., 24.6.",
-    "timestamp": 1624571100000,
-    "time": "21:45",
-    "available": 567,
-    "reserved": 23,
-    "bookable": true
-  },
   "fhain-678": {
     "trailer": "https://www.youtube-nocookie.com/embed/ajN8FZ9hnMk?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
     "description": "\"Vermag bereits mit den ersten Bildern ein Gefühl der Dringlichkeit zu vermitteln\" Süddeutsche Zeitung. \nDie 20-jährige Luisa beobachtet besorgt die Ausbreitung rechter Strömungen und das Erstarken populistischer Parteien in Deutschland. Nicht zuletzt deshalb studiert sie Jura. Doch das reicht ihr zunehmend nicht mehr aus und so beginnt sie sich mit einer Gruppe von Freunden klar gegen die neue Rechte zu positionieren.\nAlfa und Lenor nehmen die junge Frau aus gutem Haus mit in eine Welt des aktiven Widerstands, der auch vor Gewalttaten nicht zurückschreckt. Luisa ist gleichermaßen fasziniert und schockiert von dieser Welt. Und sieht sich zunehmend vor die Frage gestellt, wie weit zu gehen sie bereit ist. \"Ein packender, ein schmerzlich aktueller, aber auch ein erfrischend junger Film\"  zdf Heute Journal\n\n",
@@ -506,7 +488,7 @@
     "date": "So., 27.6.",
     "timestamp": 1624830300000,
     "time": "21:45",
-    "available": 661,
+    "available": 657,
     "reserved": 25,
     "bookable": true
   },
@@ -542,26 +524,8 @@
     "date": "Sa., 10.7.",
     "timestamp": 1625952600000,
     "time": "21:30",
-    "available": 285,
+    "available": 287,
     "reserved": 34,
-    "bookable": true
-  },
-  "xberg-607": {
-    "trailer": "https://www.youtube-nocookie.com/embed/pO2WjKdkP7k?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
-    "description": "Ezra, ein junger Amerikaner verbringt seine Zeit hauptsächlich damit, Drogen zu nehmen, die Berliner Clubszene zu erkunden und pseudo-philosophische Gespräche zu führen. Gleichzeitig träumt er von einer Karriere als Schriftsteller. Liebe kommt ins Spiel, als er  Sascha kennen lernt, der als Escort arbeitet. Ezra nimmt ihn und uns mit auf seine Reise durch die Nacht. Immer wieder begegnen ihnen dabei Berliner Szene-Größen, wie die 'Godmother of Punk' Nina Hagen, die Kult-Musikerin und Performance-Künstlerin Peaches, Rosa von Praunheim, Rummelsnuff, Blood Orange, Einstürzende Neubauten und Blixa Bargeld. Ein Liebesfilm und ein toller Trip durch’s Berliner (Nacht-) Leben.",
-    "cinemaId": "kb_freiluftkino",
-    "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
-    "cinemaName": "Freiluftkino Kreuzberg",
-    "cinemaShortName": "xberg",
-    "id": "xberg-607",
-    "url": "https://kinotickets-online.com/kb_freiluftkino/seats/607",
-    "img": "https://kinotickets-online.com/kb_freiluftkino/poster?movieId=594",
-    "title": "Desire Will Set You Free",
-    "date": "Do., 24.6.",
-    "timestamp": 1624571100000,
-    "time": "21:45",
-    "available": 396,
-    "reserved": 21,
     "bookable": true
   },
   "xberg-617": {
@@ -578,7 +542,7 @@
     "date": "So., 4.7.,",
     "timestamp": 1625435100000,
     "time": "21:45",
-    "available": 493,
+    "available": 489,
     "reserved": 12,
     "bookable": true
   },
@@ -596,7 +560,7 @@
     "date": "Fr., 2.7.,",
     "timestamp": 1625262300000,
     "time": "21:45",
-    "available": 374,
+    "available": 372,
     "reserved": 17,
     "bookable": true
   },
@@ -704,7 +668,7 @@
     "date": "Do., 1.7.,",
     "timestamp": 1625175900000,
     "time": "21:45",
-    "available": 480,
+    "available": 478,
     "reserved": 5,
     "bookable": true
   },
@@ -775,7 +739,7 @@
     "date": "Fr., 25.6.",
     "timestamp": 1624657500000,
     "time": "21:45",
-    "available": 235,
+    "available": 229,
     "reserved": 40,
     "bookable": true
   },
@@ -880,8 +844,8 @@
     "date": "Mo., 28.6.",
     "timestamp": 1624916700000,
     "time": "21:45",
-    "available": 340,
-    "reserved": 5,
+    "available": 336,
+    "reserved": 9,
     "bookable": true
   },
   "xberg-612": {
@@ -967,8 +931,8 @@
     "date": "Sa., 26.6.",
     "timestamp": 1624743900000,
     "time": "21:45",
-    "available": 470,
-    "reserved": 11,
+    "available": 465,
+    "reserved": 12,
     "bookable": true
   },
   "rehberge-618": {
@@ -1096,24 +1060,6 @@
     "reserved": 14,
     "bookable": true
   },
-  "rehberge-599": {
-    "trailer": "https://www.youtube-nocookie.com/embed/YuvbFxFiE_c?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
-    "description": "Der 10-jährige Jojo wünscht sich nichts sehnlicher als in die Hitlerjugend einzutreten, um sein Vaterland zu schützen. Zur moralischen Unterstützung an seiner Seite ein imaginärer Freund: Adolf Hitler, immer sofort zur Stelle, wenn Jojo dringend Rat braucht. Und davon benötigt Jojo so einigen, als er herausfindet, dass seine Mutter ein jüdisches Mädchen versteckt ...\n\"Es ist Waititis Fähigkeit unangreifbar alberne Momente mit einer Anerkennung von tiefen Abgründen zu balancieren, die den Film so außergewöhnlich machen.\" Time Magazine",
-    "cinemaId": "rb_freiluftkino",
-    "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
-    "cinemaName": "Freiluftkino Rehberge",
-    "cinemaShortName": "rehberge",
-    "id": "rehberge-599",
-    "url": "https://kinotickets-online.com/rb_freiluftkino/seats/599",
-    "img": "https://kinotickets-online.com/rb_freiluftkino/poster?movieId=579",
-    "title": "Jojo Rabbit",
-    "date": "Do., 24.6.",
-    "timestamp": 1624571100000,
-    "time": "21:45",
-    "available": 456,
-    "reserved": 17,
-    "bookable": true
-  },
   "rehberge-615": {
     "trailer": "https://www.youtube-nocookie.com/embed/VaxObo77lmA?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
     "description": "Nordische Filmtage Lübeck: Publikumspreis für Mika Kaurismäkis Sommerwohlfühl-Film.\nAuf der Suche nach einem alten finnischen Freund reist der chinesische Koch Cheng in ein abgelegenes Dorf in Lappland. Bei der Ankunft scheint niemand im Dorf seinen Freund zu kennen, aber die lokale Cafébesitzerin Sirkka bietet ihm eine Unterkunft an. Im Gegenzug hilft Cheng ihr in der Küche, und bald werden die Einheimischen mit den Köstlichkeiten der chinesischen Küche überrascht. Cheng findet trotz kultureller Unterschiede schnell Anerkennung und neue Freunde unter den Finnen. Als sein Touristenvisum abläuft, schmieden die Dorfbewohner einen Plan, der ihm helfen soll zu bleiben.\n\"Urige Typen, lakonischer Witz und eine große Portion Warmherzigkeit, das sind die Zutaten für dieses bezaubernde Kinomärchen.\" ZDF Heute Journal",
@@ -1182,7 +1128,7 @@
     "date": "Fr., 25.6.",
     "timestamp": 1624657500000,
     "time": "21:45",
-    "available": 418,
+    "available": 416,
     "reserved": 15,
     "bookable": true
   },
@@ -1323,7 +1269,7 @@
     "date": "Mi., 30.6.",
     "timestamp": 1625089500000,
     "time": "21:45",
-    "available": 523,
+    "available": 521,
     "reserved": 6,
     "bookable": true
   },
@@ -1358,9 +1304,9 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689569?layout=shows",
     "img": "https://media.kinoheld.de/jcyo8klR3swAz9sFUqDazVtwpCg=/200x280/images%2Ffilm%2Fbad-luck-banging-or-loony-porn-18954.v3.jpg",
     "description": "Am 18. Juni Vorpremiere im Open Air Kinosommer am Waschhaus \n\nEin Video geht viral. Es zeigt einen Mann und eine Frau beim Sex. Sie tragen Masken, trotzdem wird die Frau erkannt. Dumm nur, dass sie als Lehrerin eigentlich ein Vorbild sein soll. Und das in einer Gesellschaft (der postsozialistischen, aber letztlich unser aller), welche drauf und dran ist, sich im Social-Network-Diskurs aus restaurativen Saubermannattitüden, pseudopolitischer Besserwisserei, scheinheiligem Chauvinismus und grotesken Verschwörungstheorien zu verlieren. Alle haben Meinung. Die Debatte wird zum Tribunal – über konsensualen Sex, Pornografie und mehr. Radu Jude, wie stets zu innovativen Filmexperimenten bereit, bastelt aus dieser Konstellation ein intelligentes, satirisches Triptychon. Der erste Teil zeigt mit nonchalant-präziser Kamera und irrer, im Bukarester Straßenalltagsstress aufgespürter Komik wie zeitgenössisches Kino an der doku-fiktionalen Schnittstelle aussehen kann. Der zweite Teil ist eine schräge, lakonisch kommentierte Skizze einzelner statischer Bilder, gedacht als Symbol-Enzyklopädie unserer Zeit. Den krönenden Abschluss – bei doch offenem Ende – bildet die Diskussion in der Schule, die zu einem Urteil über die Existenzberechtigung unserer Heldin kommen wird.\n\nGewinner des Goldenen Bären bei der Berlinale 2021!!!",
-    "available": 94,
-    "reserved": 166,
-    "bookable": true
+    "available": 0,
+    "reserved": 0,
+    "bookable": false
   },
   "hasenheide-689544": {
     "cinemaId": "580",
@@ -1391,7 +1337,7 @@
     "timestamp": 1624665600000,
     "time": "18:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689521?layout=shows",
-    "available": 354,
+    "available": 346,
     "reserved": 82,
     "bookable": true
   },
@@ -1667,8 +1613,8 @@
     "img": "https://media.kinoheld.de/8O2-tT7mWcV0L7jkmZ5m7M5LbL0=/200x280/images%2Ffilm%2Fnomadland-18288.v2.png",
     "description": "Nach dem wirtschaftlichen Zusammenbruch einer Stadt im ländlichen Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren weißen Van und macht sich auf den Weg, um als moderne Nomadin im Westen der USA ein Leben außerhalb der konventionellen Gesellschaft zu erkunden.",
     "trailer": "https://www.youtube.com/watch?v=iEcIDpnv3qQ",
-    "available": 115,
-    "reserved": 164,
+    "available": 99,
+    "reserved": 166,
     "bookable": true
   },
   "hasenheide-689596": {
@@ -1900,9 +1846,9 @@
     "img": "https://media.kinoheld.de/kmn9jDVK521drf-8vDV3UTbHaZU=/200x280/images%2Ffilm%2Fcourage-19043.v2.png",
     "description": "In seinem Dokumentarfilm begleitet Aliaksei Paluyan die Freunde Maryna, Pavel und Denis, die Mitglieder einer Untergrund-Theatergruppe in Minsk sind. Als es 2020 im Zuge der Präsidentschaftswahlen in Belarus zu friedlichen Massenprotesten kommt, nimmt die Gruppe gemeinsam mit vielen anderen Menschen daran teil. Dabei entkommen sie nur knapp einer Verhaftung. Trotzdem lassen sie sich nicht beirren und hoffen weiter auf Meinungsfreiheit und Demokratie in ihrem Land.",
     "trailer": "https://youtu.be/q7OIMQrjJAs",
-    "available": -1,
+    "available": 0,
     "reserved": 0,
-    "bookable": true
+    "bookable": false
   },
   "pompeji ostkreuz-2384592928": {
     "cinemaId": "2153",
