@@ -120,8 +120,8 @@
     "date": "Sa., 26.6.",
     "timestamp": 1624743900000,
     "time": "21:45",
-    "available": 346,
-    "reserved": 100,
+    "available": 338,
+    "reserved": 104,
     "bookable": true
   },
   "fhain-668": {
@@ -173,7 +173,7 @@
     "date": "Mo., 28.6.",
     "timestamp": 1624916700000,
     "time": "21:45",
-    "available": 931,
+    "available": 929,
     "reserved": 19,
     "bookable": true
   },
@@ -207,8 +207,8 @@
     "date": "So., 4.7.,",
     "timestamp": 1625435100000,
     "time": "21:45",
-    "available": 1065,
-    "reserved": 1,
+    "available": 1063,
+    "reserved": 3,
     "bookable": true
   },
   "fhain-688": {
@@ -349,7 +349,7 @@
     "date": "Fr., 2.7.,",
     "timestamp": 1625262300000,
     "time": "21:45",
-    "available": 983,
+    "available": 981,
     "reserved": 17,
     "bookable": true
   },
@@ -560,7 +560,7 @@
     "date": "Fr., 2.7.,",
     "timestamp": 1625262300000,
     "time": "21:45",
-    "available": 364,
+    "available": 366,
     "reserved": 23,
     "bookable": true
   },
@@ -596,7 +596,7 @@
     "date": "So., 11.7.",
     "timestamp": 1626039000000,
     "time": "21:30",
-    "available": 505,
+    "available": 507,
     "reserved": 2,
     "bookable": true
   },
@@ -686,7 +686,7 @@
     "date": "Sa., 26.6.",
     "timestamp": 1624743900000,
     "time": "21:45",
-    "available": 331,
+    "available": 329,
     "reserved": 40,
     "bookable": true
   },
@@ -880,7 +880,7 @@
     "date": "Mo., 5.7.,",
     "timestamp": 1625521500000,
     "time": "21:45",
-    "available": 551,
+    "available": 368,
     "reserved": 2,
     "bookable": true
   },
@@ -897,7 +897,7 @@
     "date": "Fr., 16.7.",
     "timestamp": 1626438600000,
     "time": "12:30",
-    "available": 515,
+    "available": 332,
     "reserved": 6,
     "bookable": true
   },
@@ -914,7 +914,7 @@
     "date": "Sa., 17.7.",
     "timestamp": 1626525000000,
     "time": "12:30",
-    "available": 504,
+    "available": 321,
     "reserved": 7,
     "bookable": true
   },
@@ -931,7 +931,7 @@
     "date": "Sa., 26.6.",
     "timestamp": 1624743900000,
     "time": "21:45",
-    "available": 481,
+    "available": 298,
     "reserved": 10,
     "bookable": true
   },
@@ -949,7 +949,7 @@
     "date": "Di., 13.7.",
     "timestamp": 1626211800000,
     "time": "21:30",
-    "available": 523,
+    "available": 340,
     "reserved": 4,
     "bookable": true
   },
@@ -966,7 +966,7 @@
     "date": "Sa., 31.7.",
     "timestamp": 1627740000000,
     "time": "14:00",
-    "available": 565,
+    "available": 382,
     "reserved": 0,
     "bookable": true
   },
@@ -984,8 +984,8 @@
     "date": "Do., 1.7.,",
     "timestamp": 1625175900000,
     "time": "21:45",
-    "available": 524,
-    "reserved": 9,
+    "available": 338,
+    "reserved": 10,
     "bookable": true
   },
   "rehberge-614": {
@@ -1002,7 +1002,7 @@
     "date": "Sa., 10.7.",
     "timestamp": 1625952600000,
     "time": "21:30",
-    "available": 469,
+    "available": 286,
     "reserved": 4,
     "bookable": true
   },
@@ -1020,7 +1020,7 @@
     "date": "Sa., 3.7.,",
     "timestamp": 1625348700000,
     "time": "21:45",
-    "available": 468,
+    "available": 283,
     "reserved": 9,
     "bookable": true
   },
@@ -1038,7 +1038,7 @@
     "date": "Fr., 2.7.,",
     "timestamp": 1625262300000,
     "time": "21:45",
-    "available": 515,
+    "available": 332,
     "reserved": 2,
     "bookable": true
   },
@@ -1056,7 +1056,7 @@
     "date": "Di., 29.6.",
     "timestamp": 1625003100000,
     "time": "21:45",
-    "available": 519,
+    "available": 336,
     "reserved": 14,
     "bookable": true
   },
@@ -1074,7 +1074,7 @@
     "date": "So., 11.7.",
     "timestamp": 1626039000000,
     "time": "21:30",
-    "available": 555,
+    "available": 372,
     "reserved": 0,
     "bookable": true
   },
@@ -1092,7 +1092,7 @@
     "date": "So., 27.6.",
     "timestamp": 1624830300000,
     "time": "21:45",
-    "available": 509,
+    "available": 326,
     "reserved": 14,
     "bookable": true
   },
@@ -1110,7 +1110,7 @@
     "date": "Mi., 14.7.",
     "timestamp": 1626298200000,
     "time": "21:30",
-    "available": 537,
+    "available": 354,
     "reserved": 2,
     "bookable": true
   },
@@ -1128,7 +1128,7 @@
     "date": "Fr., 25.6.",
     "timestamp": 1624657500000,
     "time": "21:45",
-    "available": 451,
+    "available": 264,
     "reserved": 12,
     "bookable": true
   },
@@ -1145,7 +1145,7 @@
     "date": "Mo., 28.6.",
     "timestamp": 1624916700000,
     "time": "21:45",
-    "available": 503,
+    "available": 320,
     "reserved": 4,
     "bookable": true
   },
@@ -1180,7 +1180,7 @@
     "date": "So., 4.7.,",
     "timestamp": 1625435100000,
     "time": "21:45",
-    "available": 545,
+    "available": 362,
     "reserved": 2,
     "bookable": true
   },
@@ -1198,7 +1198,7 @@
     "date": "Do., 8.7.,",
     "timestamp": 1625779800000,
     "time": "21:30",
-    "available": 550,
+    "available": 367,
     "reserved": 1,
     "bookable": true
   },
@@ -1215,7 +1215,7 @@
     "date": "Mi., 7.7.,",
     "timestamp": 1625694300000,
     "time": "21:45",
-    "available": 549,
+    "available": 366,
     "reserved": 2,
     "bookable": true
   },
@@ -1233,7 +1233,7 @@
     "date": "Di., 6.7.,",
     "timestamp": 1625607900000,
     "time": "21:45",
-    "available": 561,
+    "available": 378,
     "reserved": 2,
     "bookable": true
   },
@@ -1251,7 +1251,7 @@
     "date": "Mo., 12.7.",
     "timestamp": 1626125400000,
     "time": "21:30",
-    "available": 563,
+    "available": 380,
     "reserved": 0,
     "bookable": true
   },
@@ -1269,7 +1269,7 @@
     "date": "Mi., 30.6.",
     "timestamp": 1625089500000,
     "time": "21:45",
-    "available": 531,
+    "available": 348,
     "reserved": 2,
     "bookable": true
   },
@@ -1287,7 +1287,7 @@
     "date": "Fr., 9.7.,",
     "timestamp": 1625866200000,
     "time": "21:30",
-    "available": 519,
+    "available": 336,
     "reserved": 2,
     "bookable": true
   },
@@ -1305,7 +1305,7 @@
     "img": "https://media.kinoheld.de/1KipLgLbsIj_5-UtT5XVg1GOqmw=/200x280/images%2Ffilm%2F2%2Fdie-karte-meiner-traeume-537.v3.jpg",
     "description": "Der zwölfjährige T.S. Spivet ist das eher ungewöhnliche Kind einer eher ungewöhnlichen Familie. Während sein Vater als Cowboy durchs Leben geht, ist seine Mutter eine leidenschaftliche Käferexpertin und seine ältere Schwester träumt davon, ein echter Star zu werden. T.S. dagegen ist mit Leib und Seele Kartograf und verbringt seine Zeit am liebsten mit dem Zeichnen von Karten. Als er deshalb eines Tages nach Washington eingeladen wird, zögert der Junge natürlich nicht lange und macht sich auf den Weg quer durchs Land. (j.b.)",
     "trailer": "https://www.youtube.com/watch?v=v9eTIiq6pSk",
-    "available": 333,
+    "available": 337,
     "reserved": 96,
     "bookable": true
   },
@@ -1356,8 +1356,8 @@
     "img": "https://media.kinoheld.de/YfEa9kkIECdxHYD1YJURcweBbkc=/200x280/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v209.jpg",
     "description": "Aufgewachsen im komfortablen Wohlstand seiner iranischen Einwanderer-Eltern entzieht sich Millenial Parvis dem Provinzleben in Hildesheim durch Popkultur, Grindr-Dates und Raves. Als Strafe für einen Ladendiebstahl muß er Sozialstunden als Übersetzer in einer Unterkunft für Geflüchtete leisten, in der er auf das iranische Geschwisterpaar Banafshe und Amon trifft. Zwischen ihnen entwickelt sich eine fragile Dreierbeziehung, die zunehmend von dem Bewusstsein geprägt ist, dass ihre Zukunft in Deutschland ungleich ist.",
     "trailer": "https://www.youtube.com/watch?v=DitVsuZ66fQ",
-    "available": 141,
-    "reserved": 148,
+    "available": 133,
+    "reserved": 150,
     "bookable": true
   },
   "hasenheide-689572": {
@@ -1477,8 +1477,8 @@
     "img": "https://media.kinoheld.de/u3wDB1Wdcq7CxgpNhKO8OjB9dS4=/200x280/images%2Ffilm%2Fminari-18286.v2.png",
     "description": "Jacob beschließt, mit seiner koreanisch-amerikanischen Familie von Los Angeles nach Arkansas zu ziehen, um als Farmer sein Glück zu versuchen. Seine Frau Monica und die Kinder David und Anne fühlen sich jedoch fremd in der neuen Heimat, und das fragile Familienleben wird zusätzlich auf die Probe gestellt, als die schlagfertige und liebevolle Großmutter Soonja von Südkorea zu ihnen auf die Farm zieht.",
     "trailer": "https://www.youtube.com/watch?v=TlOqMFPS00g",
-    "available": 471,
-    "reserved": 55,
+    "available": 463,
+    "reserved": 57,
     "bookable": true
   },
   "hasenheide-689590": {
@@ -1596,8 +1596,8 @@
     "img": "https://media.kinoheld.de/8O2-tT7mWcV0L7jkmZ5m7M5LbL0=/200x280/images%2Ffilm%2Fnomadland-18288.v2.png",
     "description": "Nach dem wirtschaftlichen Zusammenbruch einer Stadt im ländlichen Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren weißen Van und macht sich auf den Weg, um als moderne Nomadin im Westen der USA ein Leben außerhalb der konventionellen Gesellschaft zu erkunden.",
     "trailer": "https://www.youtube.com/watch?v=iEcIDpnv3qQ",
-    "available": 53,
-    "reserved": 186,
+    "available": 37,
+    "reserved": 188,
     "bookable": true
   },
   "hasenheide-689596": {
@@ -1775,8 +1775,8 @@
     "img": "https://media.kinoheld.de/QSspiYKAFiYDk_tywE9MXpUmb1Y=/200x280/images%2Ffilm%2Ffrau-stern-13721.v57.jpg",
     "description": "Frau Stern hat viel gesehen in ihrem Leben. Vieles gelebt und überlebt. Viele Männer hat sie geliebt, ein Restaurant geführt und vor allem: viel geraucht. Frau Stern ist 90 Jahre alt, Jüdin und hat die Nazis überlebt. Liebe, das hat sie gelernt, ist eine Entscheidung. Der Tod genauso. Und so entscheidet Frau Stern, dass es nun an der Zeit ist, aus der Welt zu gehen. Doch der Arzt mag ihr keine Hilfe sein, aus der Badewanne rettet sie ein Räuberpärchen und von den Schienen hilft ihr ein Spaziergänger wieder hoch. Der Einfachheit halber würde die resolute Dame gern an eine Waffe kommen. Enkelin Elli, das \"Schätzchen\", könnte wohl am besten helfen, denn sie kennt den coolsten Dealer in Berlin-Neukölln. Doch Elli bringt Frau Stern den Tod nicht näher. Im Gegenteil. Die Liebe zwischen Großmutter und Enkeltochter ist so innig, dass Frau Stern irgendwie in den Freundeskreis der jungen Frau gerät, ganz selbstverständlich bei Karaoke-Abenden und Theater-Performances mitfeiert und das so natürlich und respektvoll, wie es nur sein kann. Doch bei aller Lebensfreude, die das Berlin-Neukölln der Gegenwart auch versprühen mag - mit ihrer Entscheidung ist Frau Stern letztlich allein. Gleichzeitig mit großem Respekt, viel Wahrhaftigkeit und doch auch mit viel Humor von der letzten Entscheidung eines Menschen zu erzählen, ist nichts weniger als eine hohe Kunst. Anatol Schuster gelingt sie. Jeder Einstellung in \"Frau Stern\" ist die Liebe für seine Protagonistin, grandios gespielt von Ahuva Sommerfeld, eingeschrieben, und auch der Mut und die Lust an Überzeichnung und Unterhaltung. Warmes, geistvolles Kino aus Deutschland ist \"Frau Stern\", zutiefst einfühlsam und absolut bereichernd. (Quelle: Verleih)",
     "trailer": "https://www.youtube.com/watch?v=OLsCKMbeLqc",
-    "available": 43,
-    "reserved": 8,
+    "available": 39,
+    "reserved": 10,
     "bookable": true
   },
   "central-2385436965": {
