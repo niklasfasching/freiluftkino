@@ -48,8 +48,8 @@
     "date": "Fr., 25.6.",
     "timestamp": 1624651200000,
     "time": "20:00",
-    "available": 93,
-    "reserved": 122,
+    "available": 87,
+    "reserved": 123,
     "bookable": true
   },
   "fhain-693": {
@@ -120,8 +120,8 @@
     "date": "Sa., 26.6.",
     "timestamp": 1624743900000,
     "time": "21:45",
-    "available": 197,
-    "reserved": 117,
+    "available": 191,
+    "reserved": 115,
     "bookable": true
   },
   "fhain-668": {
@@ -207,7 +207,7 @@
     "date": "So., 4.7.,",
     "timestamp": 1625435100000,
     "time": "21:45",
-    "available": 1059,
+    "available": 1057,
     "reserved": 3,
     "bookable": true
   },
@@ -242,8 +242,8 @@
     "date": "Fr., 2.7.,",
     "timestamp": 1625247000000,
     "time": "17:30",
-    "available": 303,
-    "reserved": 96,
+    "available": 298,
+    "reserved": 99,
     "bookable": true
   },
   "fhain-666": {
@@ -259,7 +259,7 @@
     "date": "So., 11.7.",
     "timestamp": 1626024600000,
     "time": "17:30",
-    "available": 635,
+    "available": 633,
     "reserved": 56,
     "bookable": true
   },
@@ -277,7 +277,7 @@
     "date": "Mi., 30.6.",
     "timestamp": 1625089500000,
     "time": "21:45",
-    "available": 491,
+    "available": 489,
     "reserved": 99,
     "bookable": true
   },
@@ -366,7 +366,7 @@
     "date": "So., 11.7.",
     "timestamp": 1626039900000,
     "time": "21:45",
-    "available": 1015,
+    "available": 1013,
     "reserved": 5,
     "bookable": true
   },
@@ -470,8 +470,8 @@
     "date": "Mo., 5.7.,",
     "timestamp": 1625521500000,
     "time": "21:45",
-    "available": 0,
-    "reserved": 0,
+    "available": 1038,
+    "reserved": 6,
     "bookable": true
   },
   "fhain-678": {
@@ -488,8 +488,8 @@
     "date": "So., 27.6.",
     "timestamp": 1624830300000,
     "time": "21:45",
-    "available": 0,
-    "reserved": 0,
+    "available": 788,
+    "reserved": 34,
     "bookable": true
   },
   "xberg-619": {
@@ -524,7 +524,7 @@
     "date": "Sa., 10.7.",
     "timestamp": 1625952600000,
     "time": "21:30",
-    "available": 265,
+    "available": 257,
     "reserved": 34,
     "bookable": true
   },
@@ -542,7 +542,7 @@
     "date": "So., 4.7.,",
     "timestamp": 1625435100000,
     "time": "21:45",
-    "available": 486,
+    "available": 484,
     "reserved": 15,
     "bookable": true
   },
@@ -686,7 +686,7 @@
     "date": "Sa., 26.6.",
     "timestamp": 1624743900000,
     "time": "21:45",
-    "available": 283,
+    "available": 279,
     "reserved": 44,
     "bookable": true
   },
@@ -721,7 +721,7 @@
     "date": "Do., 8.7.,",
     "timestamp": 1625779800000,
     "time": "21:30",
-    "available": 471,
+    "available": 469,
     "reserved": 14,
     "bookable": true
   },
@@ -739,8 +739,8 @@
     "date": "Fr., 25.6.",
     "timestamp": 1624657500000,
     "time": "21:45",
-    "available": 113,
-    "reserved": 54,
+    "available": 92,
+    "reserved": 55,
     "bookable": true
   },
   "xberg-602": {
@@ -773,8 +773,8 @@
     "date": "Mi., 30.6.",
     "timestamp": 1625089500000,
     "time": "21:45",
-    "available": 357,
-    "reserved": 26,
+    "available": 354,
+    "reserved": 29,
     "bookable": true
   },
   "xberg-620": {
@@ -826,7 +826,7 @@
     "date": "Mo., 5.7.,",
     "timestamp": 1625521500000,
     "time": "21:45",
-    "available": 494,
+    "available": 492,
     "reserved": 5,
     "bookable": true
   },
@@ -931,7 +931,7 @@
     "date": "Sa., 26.6.",
     "timestamp": 1624743900000,
     "time": "21:45",
-    "available": 248,
+    "available": 242,
     "reserved": 18,
     "bookable": true
   },
@@ -984,8 +984,8 @@
     "date": "Do., 1.7.,",
     "timestamp": 1625175900000,
     "time": "21:45",
-    "available": 336,
-    "reserved": 10,
+    "available": 333,
+    "reserved": 11,
     "bookable": true
   },
   "rehberge-614": {
@@ -1002,7 +1002,7 @@
     "date": "Sa., 10.7.",
     "timestamp": 1625952600000,
     "time": "21:30",
-    "available": 282,
+    "available": 280,
     "reserved": 4,
     "bookable": true
   },
@@ -1056,7 +1056,7 @@
     "date": "Di., 29.6.",
     "timestamp": 1625003100000,
     "time": "21:45",
-    "available": 336,
+    "available": 334,
     "reserved": 14,
     "bookable": true
   },
@@ -1145,7 +1145,7 @@
     "date": "Mo., 28.6.",
     "timestamp": 1624916700000,
     "time": "21:45",
-    "available": 310,
+    "available": 306,
     "reserved": 4,
     "bookable": true
   },
@@ -1180,7 +1180,7 @@
     "date": "So., 4.7.,",
     "timestamp": 1625435100000,
     "time": "21:45",
-    "available": 356,
+    "available": 354,
     "reserved": 2,
     "bookable": true
   },
@@ -1305,8 +1305,8 @@
     "img": "https://media.kinoheld.de/1KipLgLbsIj_5-UtT5XVg1GOqmw=/200x280/images%2Ffilm%2F2%2Fdie-karte-meiner-traeume-537.v3.jpg",
     "description": "Der zwölfjährige T.S. Spivet ist das eher ungewöhnliche Kind einer eher ungewöhnlichen Familie. Während sein Vater als Cowboy durchs Leben geht, ist seine Mutter eine leidenschaftliche Käferexpertin und seine ältere Schwester träumt davon, ein echter Star zu werden. T.S. dagegen ist mit Leib und Seele Kartograf und verbringt seine Zeit am liebsten mit dem Zeichnen von Karten. Als er deshalb eines Tages nach Washington eingeladen wird, zögert der Junge natürlich nicht lange und macht sich auf den Weg quer durchs Land. (j.b.)",
     "trailer": "https://www.youtube.com/watch?v=v9eTIiq6pSk",
-    "available": 224,
-    "reserved": 137,
+    "available": 193,
+    "reserved": 145,
     "bookable": true
   },
   "hasenheide-689521": {
@@ -1320,8 +1320,8 @@
     "timestamp": 1624665600000,
     "time": "18:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689521?layout=shows",
-    "available": 319,
-    "reserved": 92,
+    "available": 311,
+    "reserved": 94,
     "bookable": true
   },
   "hasenheide-689570": {
@@ -1356,8 +1356,8 @@
     "img": "https://media.kinoheld.de/YfEa9kkIECdxHYD1YJURcweBbkc=/200x280/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v209.jpg",
     "description": "Aufgewachsen im komfortablen Wohlstand seiner iranischen Einwanderer-Eltern entzieht sich Millenial Parvis dem Provinzleben in Hildesheim durch Popkultur, Grindr-Dates und Raves. Als Strafe für einen Ladendiebstahl muß er Sozialstunden als Übersetzer in einer Unterkunft für Geflüchtete leisten, in der er auf das iranische Geschwisterpaar Banafshe und Amon trifft. Zwischen ihnen entwickelt sich eine fragile Dreierbeziehung, die zunehmend von dem Bewusstsein geprägt ist, dass ihre Zukunft in Deutschland ungleich ist.",
     "trailer": "https://www.youtube.com/watch?v=DitVsuZ66fQ",
-    "available": 65,
-    "reserved": 174,
+    "available": 58,
+    "reserved": 177,
     "bookable": true
   },
   "hasenheide-689572": {
@@ -1373,7 +1373,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689572?layout=shows",
     "img": "https://media.kinoheld.de/WG6DXuYMzdjGMJxxh_h9uM0q_gc=/200x280/images%2Ffilm%2Fgefangen-im-netz-17749.v5.jpg",
     "description": "Silvester 2049. Die Welt ist von Krieg und Zerstörung geprägt. In dieser Zeit entwickelt sich die Welt-Sicherheits-Organisation, die unabhängig von Regierungen agiert und die Welt, insbesondere das allesbestimmende Internet, überwacht und somit das Leben der Menschen bestimmt. Sobald das Jahr 2050 beginnt möchte die WSO einen neuen Mega-Server in Betrieb nehmen, der einerseits der Weltbevölkerung ganz neue Möglichkeiten, andererseits aber auch der WSO Macht über jeden und Alles verleihen würde. Auf dem gigantischen Gelände des Servers lebt zusätzlich auch eine Gruppe von Jugendlichen, die auf spätere Führungspositionen der WSO vorbereitet wird. Kurz vor Beginn des Jahres 2050 wird der Gebäudekomplex von Rebellen gestürmt und besetzt. Der Anführer richtet sich in einer Fernsehansprache an die Bevölkerung  und offenbart die wahren Konsequenzen der Inbetriebnahme des neuen Servers. Nun stellt sich für die Jugendlichen die Frage auf wessen Seite sie sich stellen sollen. Doch wem können sie noch vertrauen?",
-    "available": 639,
+    "available": 625,
     "reserved": 9,
     "bookable": true
   },
@@ -1441,8 +1441,8 @@
     "img": "https://media.kinoheld.de/4HRxvKqpeQKrYBgLMPJX0xRdOdQ=/200x280/images%2Ffilm%2Ftenet-16731.v2.png",
     "description": "Ein Agent wird rekrutiert, um einen besonderen Auftrag auszuführen: Er soll den 3. Weltkrieg verhindern. Diesmal ist jedoch keine nukleare Bedrohung der Grund, sondern es muss eine Person gestoppt werden, welche die Fähigkeit besitzt, die Zeit zu manipulieren.",
     "trailer": "https://www.youtube.com/watch?v=jfEQ0BdeQJQ",
-    "available": 488,
-    "reserved": 42,
+    "available": 482,
+    "reserved": 44,
     "bookable": true
   },
   "hasenheide-689588": {
@@ -1561,8 +1561,8 @@
     "timestamp": 1625702400000,
     "time": "21:45",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689520?layout=shows",
-    "available": 374,
-    "reserved": 76,
+    "available": 361,
+    "reserved": 78,
     "bookable": true
   },
   "hasenheide-689594": {
@@ -1757,8 +1757,8 @@
     "img": "https://media.kinoheld.de/6ExA9Nb6dlEuGJ-yg_oFDBhDEPk=/200x280/images%2Ffilm%2Fseret-berlin-kiss-me-kosher-17231.v544.jpg",
     "description": "Die quirlige jüdische Grossmutter Berta und ihre nicht weniger leidenschaftliche Enkelin Shira streiten inniglich über die Liebe und darüber, was Frau darf und was nicht. Vor allem als sich ihre geliebte Enkeltochter ausgerechnet für Maria, eine Deutsche, entscheidet. Die beiden jungen Frauen machen richtig ernst sie wollen heiraten. So unterschiedlich beide Familien sind, so einig sind sich alle in einem Punkt: Die Hochzeit muss geplant werden. Nur eine versucht mit allen Mitteln diesen Bund des Lebens zu verhindern Berta. Für sie ist eine Ehe zwischen einer Israelin und einer Deutschen ein Ding der Unmöglichkeit. Obwohl auch sie mit dem Palästinenser Ibrahim ein recht unkonventionelles Liebesglück gefunden hat, das sie im Gegensatz zur lebensfrohen Enkeltochter vor der Familie verheimlicht. Aber wie lange kann das noch so gutgehen? Am Ende der turbulenten Familienfehde wird geheiratet.",
     "trailer": "https://www.youtube.com/watch?v=vbjXqyWpT74",
-    "available": 5,
-    "reserved": 32,
+    "available": 2,
+    "reserved": 35,
     "bookable": true
   },
   "central-2385436888": {
