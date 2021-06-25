@@ -13,7 +13,7 @@
     "date": "Di., 6.7.,",
     "timestamp": 1625607900000,
     "time": "21:45",
-    "available": 937,
+    "available": 933,
     "reserved": 25,
     "bookable": true
   },
@@ -48,7 +48,7 @@
     "date": "Fr., 25.6.",
     "timestamp": 1624651200000,
     "time": "20:00",
-    "available": 189,
+    "available": 185,
     "reserved": 104,
     "bookable": true
   },
@@ -506,7 +506,7 @@
     "date": "Di., 6.7.,",
     "timestamp": 1625607900000,
     "time": "21:45",
-    "available": 331,
+    "available": 327,
     "reserved": 36,
     "bookable": true
   },
@@ -560,7 +560,7 @@
     "date": "Fr., 2.7.,",
     "timestamp": 1625262300000,
     "time": "21:45",
-    "available": 366,
+    "available": 364,
     "reserved": 23,
     "bookable": true
   },
@@ -596,7 +596,7 @@
     "date": "So., 11.7.",
     "timestamp": 1626039000000,
     "time": "21:30",
-    "available": 507,
+    "available": 505,
     "reserved": 2,
     "bookable": true
   },
@@ -686,7 +686,7 @@
     "date": "Sa., 26.6.",
     "timestamp": 1624743900000,
     "time": "21:45",
-    "available": 339,
+    "available": 331,
     "reserved": 40,
     "bookable": true
   },
@@ -739,7 +739,7 @@
     "date": "Fr., 25.6.",
     "timestamp": 1624657500000,
     "time": "21:45",
-    "available": 216,
+    "available": 214,
     "reserved": 43,
     "bookable": true
   },
@@ -880,7 +880,7 @@
     "date": "Mo., 5.7.,",
     "timestamp": 1625521500000,
     "time": "21:45",
-    "available": 549,
+    "available": 551,
     "reserved": 2,
     "bookable": true
   },
@@ -897,8 +897,8 @@
     "date": "Fr., 16.7.",
     "timestamp": 1626438600000,
     "time": "12:30",
-    "available": 507,
-    "reserved": 10,
+    "available": 515,
+    "reserved": 6,
     "bookable": true
   },
   "rehberge-591": {
@@ -914,8 +914,8 @@
     "date": "Sa., 17.7.",
     "timestamp": 1626525000000,
     "time": "12:30",
-    "available": 494,
-    "reserved": 9,
+    "available": 504,
+    "reserved": 7,
     "bookable": true
   },
   "rehberge-601": {
@@ -931,8 +931,8 @@
     "date": "Sa., 26.6.",
     "timestamp": 1624743900000,
     "time": "21:45",
-    "available": 463,
-    "reserved": 14,
+    "available": 481,
+    "reserved": 10,
     "bookable": true
   },
   "rehberge-618": {
@@ -949,8 +949,8 @@
     "date": "Di., 13.7.",
     "timestamp": 1626211800000,
     "time": "21:30",
-    "available": 518,
-    "reserved": 5,
+    "available": 523,
+    "reserved": 4,
     "bookable": true
   },
   "rehberge-592": {
@@ -984,8 +984,8 @@
     "date": "Do., 1.7.,",
     "timestamp": 1625175900000,
     "time": "21:45",
-    "available": 521,
-    "reserved": 10,
+    "available": 524,
+    "reserved": 9,
     "bookable": true
   },
   "rehberge-614": {
@@ -1002,8 +1002,8 @@
     "date": "Sa., 10.7.",
     "timestamp": 1625952600000,
     "time": "21:30",
-    "available": 456,
-    "reserved": 7,
+    "available": 469,
+    "reserved": 4,
     "bookable": true
   },
   "rehberge-607": {
@@ -1020,8 +1020,8 @@
     "date": "Sa., 3.7.,",
     "timestamp": 1625348700000,
     "time": "21:45",
-    "available": 447,
-    "reserved": 12,
+    "available": 468,
+    "reserved": 9,
     "bookable": true
   },
   "rehberge-606": {
@@ -1038,7 +1038,7 @@
     "date": "Fr., 2.7.,",
     "timestamp": 1625262300000,
     "time": "21:45",
-    "available": 499,
+    "available": 515,
     "reserved": 2,
     "bookable": true
   },
@@ -1056,7 +1056,7 @@
     "date": "Di., 29.6.",
     "timestamp": 1625003100000,
     "time": "21:45",
-    "available": 509,
+    "available": 519,
     "reserved": 14,
     "bookable": true
   },
@@ -1092,8 +1092,8 @@
     "date": "So., 27.6.",
     "timestamp": 1624830300000,
     "time": "21:45",
-    "available": 494,
-    "reserved": 15,
+    "available": 509,
+    "reserved": 14,
     "bookable": true
   },
   "rehberge-619": {
@@ -1110,8 +1110,8 @@
     "date": "Mi., 14.7.",
     "timestamp": 1626298200000,
     "time": "21:30",
-    "available": 522,
-    "reserved": 3,
+    "available": 537,
+    "reserved": 2,
     "bookable": true
   },
   "rehberge-600": {
@@ -1128,8 +1128,8 @@
     "date": "Fr., 25.6.",
     "timestamp": 1624657500000,
     "time": "21:45",
-    "available": 405,
-    "reserved": 16,
+    "available": 451,
+    "reserved": 12,
     "bookable": true
   },
   "rehberge-603": {
@@ -1145,8 +1145,8 @@
     "date": "Mo., 28.6.",
     "timestamp": 1624916700000,
     "time": "21:45",
-    "available": 498,
-    "reserved": 3,
+    "available": 503,
+    "reserved": 4,
     "bookable": true
   },
   "rehberge-585": {
@@ -1180,7 +1180,7 @@
     "date": "So., 4.7.,",
     "timestamp": 1625435100000,
     "time": "21:45",
-    "available": 541,
+    "available": 545,
     "reserved": 2,
     "bookable": true
   },
@@ -1198,8 +1198,8 @@
     "date": "Do., 8.7.,",
     "timestamp": 1625779800000,
     "time": "21:30",
-    "available": 545,
-    "reserved": 2,
+    "available": 550,
+    "reserved": 1,
     "bookable": true
   },
   "rehberge-611": {
@@ -1215,7 +1215,7 @@
     "date": "Mi., 7.7.,",
     "timestamp": 1625694300000,
     "time": "21:45",
-    "available": 541,
+    "available": 549,
     "reserved": 2,
     "bookable": true
   },
@@ -1233,8 +1233,8 @@
     "date": "Di., 6.7.,",
     "timestamp": 1625607900000,
     "time": "21:45",
-    "available": 558,
-    "reserved": 3,
+    "available": 561,
+    "reserved": 2,
     "bookable": true
   },
   "rehberge-616": {
@@ -1251,8 +1251,8 @@
     "date": "Mo., 12.7.",
     "timestamp": 1626125400000,
     "time": "21:30",
-    "available": 558,
-    "reserved": 1,
+    "available": 563,
+    "reserved": 0,
     "bookable": true
   },
   "rehberge-604": {
@@ -1269,8 +1269,8 @@
     "date": "Mi., 30.6.",
     "timestamp": 1625089500000,
     "time": "21:45",
-    "available": 521,
-    "reserved": 6,
+    "available": 531,
+    "reserved": 2,
     "bookable": true
   },
   "rehberge-613": {
@@ -1287,7 +1287,7 @@
     "date": "Fr., 9.7.,",
     "timestamp": 1625866200000,
     "time": "21:30",
-    "available": 509,
+    "available": 519,
     "reserved": 2,
     "bookable": true
   },
@@ -1305,7 +1305,7 @@
     "img": "https://media.kinoheld.de/1KipLgLbsIj_5-UtT5XVg1GOqmw=/200x280/images%2Ffilm%2F2%2Fdie-karte-meiner-traeume-537.v3.jpg",
     "description": "Der zwölfjährige T.S. Spivet ist das eher ungewöhnliche Kind einer eher ungewöhnlichen Familie. Während sein Vater als Cowboy durchs Leben geht, ist seine Mutter eine leidenschaftliche Käferexpertin und seine ältere Schwester träumt davon, ein echter Star zu werden. T.S. dagegen ist mit Leib und Seele Kartograf und verbringt seine Zeit am liebsten mit dem Zeichnen von Karten. Als er deshalb eines Tages nach Washington eingeladen wird, zögert der Junge natürlich nicht lange und macht sich auf den Weg quer durchs Land. (j.b.)",
     "trailer": "https://www.youtube.com/watch?v=v9eTIiq6pSk",
-    "available": 337,
+    "available": 333,
     "reserved": 96,
     "bookable": true
   },
@@ -1356,8 +1356,8 @@
     "img": "https://media.kinoheld.de/YfEa9kkIECdxHYD1YJURcweBbkc=/200x280/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v209.jpg",
     "description": "Aufgewachsen im komfortablen Wohlstand seiner iranischen Einwanderer-Eltern entzieht sich Millenial Parvis dem Provinzleben in Hildesheim durch Popkultur, Grindr-Dates und Raves. Als Strafe für einen Ladendiebstahl muß er Sozialstunden als Übersetzer in einer Unterkunft für Geflüchtete leisten, in der er auf das iranische Geschwisterpaar Banafshe und Amon trifft. Zwischen ihnen entwickelt sich eine fragile Dreierbeziehung, die zunehmend von dem Bewusstsein geprägt ist, dass ihre Zukunft in Deutschland ungleich ist.",
     "trailer": "https://www.youtube.com/watch?v=DitVsuZ66fQ",
-    "available": 150,
-    "reserved": 145,
+    "available": 141,
+    "reserved": 148,
     "bookable": true
   },
   "hasenheide-689572": {
@@ -1596,8 +1596,8 @@
     "img": "https://media.kinoheld.de/8O2-tT7mWcV0L7jkmZ5m7M5LbL0=/200x280/images%2Ffilm%2Fnomadland-18288.v2.png",
     "description": "Nach dem wirtschaftlichen Zusammenbruch einer Stadt im ländlichen Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren weißen Van und macht sich auf den Weg, um als moderne Nomadin im Westen der USA ein Leben außerhalb der konventionellen Gesellschaft zu erkunden.",
     "trailer": "https://www.youtube.com/watch?v=iEcIDpnv3qQ",
-    "available": 61,
-    "reserved": 182,
+    "available": 53,
+    "reserved": 186,
     "bookable": true
   },
   "hasenheide-689596": {
