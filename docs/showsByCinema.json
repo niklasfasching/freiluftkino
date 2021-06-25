@@ -104,7 +104,7 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 128,
+      "available": 124,
       "reserved": 132,
       "bookable": true
     },
@@ -157,7 +157,7 @@
       "date": "Mo., 28.6.",
       "timestamp": 1624916700000,
       "time": "21:45",
-      "available": 919,
+      "available": 915,
       "reserved": 23,
       "bookable": true
     },
@@ -226,7 +226,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625247000000,
       "time": "17:30",
-      "available": 288,
+      "available": 290,
       "reserved": 99,
       "bookable": true
     },
@@ -472,7 +472,7 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 767,
+      "available": 765,
       "reserved": 35,
       "bookable": true
     }
@@ -510,7 +510,7 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
       "time": "21:30",
-      "available": 253,
+      "available": 255,
       "reserved": 34,
       "bookable": true
     },
@@ -636,8 +636,8 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 491,
-      "reserved": 14,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -812,7 +812,7 @@
       "date": "Mo., 28.6.",
       "timestamp": 1624916700000,
       "time": "21:45",
-      "available": 304,
+      "available": 302,
       "reserved": 15,
       "bookable": true
     },
