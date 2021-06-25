@@ -103,7 +103,7 @@
     "date": "Sa., 26.6.",
     "timestamp": 1624743900000,
     "time": "21:45",
-    "available": 124,
+    "available": 122,
     "reserved": 132,
     "bookable": true
   },
@@ -278,7 +278,7 @@
     "date": "Do., 1.7.,",
     "timestamp": 1625175900000,
     "time": "21:45",
-    "available": 981,
+    "available": 979,
     "reserved": 11,
     "bookable": true
   },
@@ -471,7 +471,7 @@
     "date": "So., 27.6.",
     "timestamp": 1624830300000,
     "time": "21:45",
-    "available": 765,
+    "available": 763,
     "reserved": 35,
     "bookable": true
   },
@@ -561,7 +561,7 @@
     "date": "So., 27.6.",
     "timestamp": 1624830300000,
     "time": "21:45",
-    "available": 318,
+    "available": 316,
     "reserved": 29,
     "bookable": true
   },
@@ -633,8 +633,8 @@
     "date": "Sa., 3.7.,",
     "timestamp": 1625348700000,
     "time": "21:45",
-    "available": 0,
-    "reserved": 0,
+    "available": 491,
+    "reserved": 14,
     "bookable": true
   },
   "xberg-614": {
@@ -738,7 +738,7 @@
     "date": "Mi., 30.6.",
     "timestamp": 1625089500000,
     "time": "21:45",
-    "available": 354,
+    "available": 352,
     "reserved": 29,
     "bookable": true
   },
@@ -896,7 +896,7 @@
     "date": "Sa., 26.6.",
     "timestamp": 1624743900000,
     "time": "21:45",
-    "available": 210,
+    "available": 208,
     "reserved": 18,
     "bookable": true
   },
@@ -1003,7 +1003,7 @@
     "date": "Fr., 2.7.,",
     "timestamp": 1625262300000,
     "time": "21:45",
-    "available": 327,
+    "available": 325,
     "reserved": 3,
     "bookable": true
   },
@@ -1075,7 +1075,7 @@
     "date": "Mi., 14.7.",
     "timestamp": 1626298200000,
     "time": "21:30",
-    "available": 352,
+    "available": 348,
     "reserved": 2,
     "bookable": true
   },
@@ -1092,7 +1092,7 @@
     "date": "Mo., 28.6.",
     "timestamp": 1624916700000,
     "time": "21:45",
-    "available": 298,
+    "available": 296,
     "reserved": 6,
     "bookable": true
   },
@@ -1109,7 +1109,7 @@
     "date": "Fr., 20.8.",
     "timestamp": 1629489600000,
     "time": "20:00",
-    "available": 324,
+    "available": 322,
     "reserved": 11,
     "bookable": true
   },
@@ -1237,24 +1237,6 @@
     "available": 332,
     "reserved": 2,
     "bookable": true
-  },
-  "hasenheide-689544": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-689544",
-    "title": "Karte meiner Träume, Die (subtitled OV German)",
-    "date": "Fr., 25.6.",
-    "timestamp": 1624579200000,
-    "time": "21:45",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689544?layout=shows",
-    "img": "https://media.kinoheld.de/1KipLgLbsIj_5-UtT5XVg1GOqmw=/200x280/images%2Ffilm%2F2%2Fdie-karte-meiner-traeume-537.v3.jpg",
-    "description": "Der zwölfjährige T.S. Spivet ist das eher ungewöhnliche Kind einer eher ungewöhnlichen Familie. Während sein Vater als Cowboy durchs Leben geht, ist seine Mutter eine leidenschaftliche Käferexpertin und seine ältere Schwester träumt davon, ein echter Star zu werden. T.S. dagegen ist mit Leib und Seele Kartograf und verbringt seine Zeit am liebsten mit dem Zeichnen von Karten. Als er deshalb eines Tages nach Washington eingeladen wird, zögert der Junge natürlich nicht lange und macht sich auf den Weg quer durchs Land. (j.b.)",
-    "trailer": "https://www.youtube.com/watch?v=v9eTIiq6pSk",
-    "available": 0,
-    "reserved": 0,
-    "bookable": false
   },
   "hasenheide-689521": {
     "cinemaId": "580",
@@ -1619,24 +1601,6 @@
     "reserved": 8,
     "bookable": true
   },
-  "fmp-2382747798": {
-    "cinemaId": "1657",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
-    "cinemaName": "b-ware-openair-fmp",
-    "cinemaShortName": "fmp",
-    "id": "fmp-2382747798",
-    "title": "DIE WELT WIRD EINE ANDERE SEIN - BERLINALE 2021/FILM PREVIEW ",
-    "date": "Fr., 25.6.",
-    "timestamp": 1624579200000,
-    "time": "22:00",
-    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2382747798?layout=shows",
-    "img": "https://media.kinoheld.de/QnxbyFAB1OvhHqHFZ8Y_ZbvwS_w=/200x280/images%2Ffilm%2Fmo%2F3013-36357.v2.jpg",
-    "description": "Auf einem Jahrmarkt, Mitte der 1990er-Jahre, trifft Asli zum ersten Mal auf Saeed. Sie kommen sich näher. Asli ist fasziniert von Saeeds Charisma und seinem Selbstbewusstsein. Obwohl ihre Mutter gegen die Beziehung ist, heiraten die beiden heimlich. Es ist die Geschichte einer großen Liebe. In einer Moschee versprechen sie einander, für immer zusammenzubleiben und die Geheimnisse des anderen zu wahren. Ein Versprechen, dass Asli schon bald bereut, denn Saeed verschwindet ohne Erklärung. Asli und Saeed scheinen sich immer mehr voneinander zu entfernen. Und doch glaubt Asli fest an eine gemeinsame Zukunft, in der sie ihre Liebe retten und doch auch sich selbst treu bleiben kann. Saeed jedoch trifft eine Entscheidung, die zuerst Aslis Leben erschüttert, bevor er auch die ganze Welt für immer verändert.\r\nRegisseurin Anne Zohra Berrached schafft mit großer Meisterschaft ein Kino der Wahrhaftigkeit. Kaum jemandem gelingt es, eine so intensive filmische Sprache für das Unsagbare zu finden, das sich in unseren Gefühlswelten verborgen hält. In DIE WELT WIRD EINE ANDERE SEIN erzählt sie von der unauflöslichen Verwandtschaft zwischen Intimität und Fremdheit. Es entsteht eine eigene Dramaturgie der Liebe, die jedes Knistern, jede Sehnsucht und jeden Verlust körperlich spüren lässt. Ein großes Stück Kino über die Politik des Privaten, das jede Minute unter die Haut geht, umhaut, unvergesslich bleibt.",
-    "trailer": "https://www.youtube.com/watch?v=p0Y_qZyaKdI",
-    "available": 0,
-    "reserved": 0,
-    "bookable": false
-  },
   "fmp-2382074656": {
     "cinemaId": "1657",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
@@ -1650,7 +1614,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2382074656?layout=shows",
     "img": "https://media.kinoheld.de/msa-HVJPdED_BlJeNEG_6i7Lrsg=/200x280/images%2Ffilm%2Fmo%2F3013-36027.v2.jpg",
     "description": "Ein Sex-Tape gelangt ins Internet und geht dort viral. Es zeigt eine Frau und einen Mann, die beide Masken tragen, beim Geschlechtsakt. Doch die Frau in dem Video lässt sich als Emi (Katia Pascariu) identifizieren - eine Lehrerin.\r\n\r\nEmis Ruf und Karriere geraten in Bedrängnis, als die Eltern ihrer Schüler ihren augenblicklichen Rücktritt fordern. Doch die Lehrerin weigert sich, dem öffentlichen Druck nachzugeben, nur weil die anderen ihre Vorbild-Funktion anzweifeln.\r\n\r\nVorurteile, Heuchelei und Chauvinismus prallen in Folge dessen aufeinander, als immer mehr Verschwörungstheorien die Runde machen und ein Streit über den gesellschaftlichen Umgang mit pornografischen Inhalten entbrennt.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://youtu.be/8AEgcTSMSOY",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -1743,24 +1707,6 @@
     "available": 6,
     "reserved": 24,
     "bookable": true
-  },
-  "pompeji ostkreuz-2384592928": {
-    "cinemaId": "2153",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-    "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-    "cinemaShortName": "pompeji ostkreuz",
-    "id": "pompeji ostkreuz-2384592928",
-    "title": "PARASITE (subtitled OV English)",
-    "date": "Fr., 25.6.",
-    "timestamp": 1624579200000,
-    "time": "21:45",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2384592928?layout=shows",
-    "img": "https://media.kinoheld.de/MWg-SVNHeTqLmVD1RI8v-JY8yhw=/200x280/images%2Ffilm%2Fparasite-14289.v362.jpg",
-    "description": "Familie Kim ist ganz unten angekommen: Vater, Mutter, Sohn und Tochter hausen in einem grünlich-schummrigen Keller, kriechen für kostenloses W-LAN in jeden Winkel und sind sich für keinen Aushilfsjob zu schade. Erst als der Jüngste eine Anstellung als Nachhilfelehrer in der todschicken Villa der Familie Park antritt, steigen die Kims ein ins Karussell der Klassenkämpfe. Mit findigen Tricksereien, bemerkenswertem Talent und großem Mannschaftsgeist gelingt es ihnen, die bisherigen Bediensteten der Familie Park nach und nach loszuwerden. Bald schon sind die Kims unverzichtbar für ihre neuen Herrschaften. Doch dann löst ein unerwarteter Zwischenfall eine Kette von Ereignissen aus, die so unvorhersehbar wie unfassbar sind.",
-    "trailer": "https://youtu.be/isOGD_7hNIY",
-    "available": 0,
-    "reserved": 0,
-    "bookable": false
   },
   "pompeji ostkreuz-2384592936": {
     "cinemaId": "2153",
@@ -2103,23 +2049,5 @@
     "available": -1,
     "reserved": 0,
     "bookable": true
-  },
-  "prinzessinengärten-2383675895": {
-    "cinemaId": "2339",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openairprinzessinnengarten-kollektiv-neukoell/shows/movies",
-    "cinemaName": "b-ware-openairprinzessinnengarten-kollektiv-neukoell",
-    "cinemaShortName": "prinzessinengärten",
-    "id": "prinzessinengärten-2383675895",
-    "title": "BAD LUCK BANGING OR LOONY PORN - BERLINALE 2021/FILM PREVIEW (subtitled OV / OmeU)",
-    "date": "Fr., 25.6.",
-    "timestamp": 1624579200000,
-    "time": "22:00",
-    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openairprinzessinnengarten-kollektiv-neukoell/show/2383675895?layout=shows",
-    "img": "https://media.kinoheld.de/jcyo8klR3swAz9sFUqDazVtwpCg=/200x280/images%2Ffilm%2Fbad-luck-banging-or-loony-porn-18954.v3.jpg",
-    "description": "Ein Sex-Tape gelangt ins Internet und geht dort viral. Es zeigt eine Frau und einen Mann, die beide Masken tragen, beim Geschlechtsakt. Doch die Frau in dem Video lässt sich als Emi (Katia Pascariu) identifizieren - eine Lehrerin. Emis Ruf und Karriere geraten in Bedrängnis, als die Eltern ihrer Schüler ihren augenblicklichen Rücktritt fordern. Doch die Lehrerin weigert sich, dem öffentlichen Druck nachzugeben, nur weil die anderen ihre Vorbild-Funktion anzweifeln. Vorurteile, Heuchelei und Chauvinismus prallen in Folge dessen aufeinander, als immer mehr Verschwörungstheorien die Runde machen und ein Streit über den gesellschaftlichen Umgang mit pornografischen Inhalten entbrennt.\r\nRadu Judes Werk Bad Luck Banging or Loony Porn (OT: Babardeală cu bucluc sau porno balamuc) gewannt 2021 den Hauptpreis auf der Berlinale: den goldenen Bären für den Besten Film. (ES)",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
-    "available": 0,
-    "reserved": 0,
-    "bookable": false
   }
 }
