@@ -173,7 +173,7 @@
     "date": "Mo., 28.6.",
     "timestamp": 1624916700000,
     "time": "21:45",
-    "available": 747,
+    "available": 743,
     "reserved": 19,
     "bookable": true
   },
@@ -242,8 +242,8 @@
     "date": "Fr., 2.7.,",
     "timestamp": 1625247000000,
     "time": "17:30",
-    "available": 329,
-    "reserved": 94,
+    "available": 327,
+    "reserved": 96,
     "bookable": true
   },
   "fhain-666": {
@@ -277,7 +277,7 @@
     "date": "Mi., 30.6.",
     "timestamp": 1625089500000,
     "time": "21:45",
-    "available": 342,
+    "available": 340,
     "reserved": 94,
     "bookable": true
   },
@@ -488,7 +488,7 @@
     "date": "So., 27.6.",
     "timestamp": 1624830300000,
     "time": "21:45",
-    "available": 641,
+    "available": 637,
     "reserved": 33,
     "bookable": true
   },
@@ -524,8 +524,8 @@
     "date": "Sa., 10.7.",
     "timestamp": 1625952600000,
     "time": "21:30",
-    "available": 283,
-    "reserved": 34,
+    "available": 0,
+    "reserved": 0,
     "bookable": true
   },
   "xberg-617": {
@@ -542,8 +542,8 @@
     "date": "So., 4.7.,",
     "timestamp": 1625435100000,
     "time": "21:45",
-    "available": 486,
-    "reserved": 15,
+    "available": 0,
+    "reserved": 0,
     "bookable": true
   },
   "xberg-615": {
@@ -578,7 +578,7 @@
     "date": "So., 27.6.",
     "timestamp": 1624830300000,
     "time": "21:45",
-    "available": 346,
+    "available": 344,
     "reserved": 25,
     "bookable": true
   },
@@ -686,7 +686,7 @@
     "date": "Sa., 26.6.",
     "timestamp": 1624743900000,
     "time": "21:45",
-    "available": 347,
+    "available": 345,
     "reserved": 40,
     "bookable": true
   },
@@ -931,7 +931,7 @@
     "date": "Sa., 26.6.",
     "timestamp": 1624743900000,
     "time": "21:45",
-    "available": 461,
+    "available": 463,
     "reserved": 14,
     "bookable": true
   },
@@ -1128,7 +1128,7 @@
     "date": "Fr., 25.6.",
     "timestamp": 1624657500000,
     "time": "21:45",
-    "available": 412,
+    "available": 410,
     "reserved": 15,
     "bookable": true
   },
