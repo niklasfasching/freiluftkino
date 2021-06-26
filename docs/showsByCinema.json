@@ -68,7 +68,7 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626126300000,
       "time": "21:45",
-      "available": 709,
+      "available": 707,
       "reserved": 53,
       "bookable": true
     },
@@ -157,7 +157,7 @@
       "date": "Mo., 28.6.",
       "timestamp": 1624916700000,
       "time": "21:45",
-      "available": 898,
+      "available": 896,
       "reserved": 30,
       "bookable": true
     },
@@ -209,7 +209,7 @@
       "date": "Do., 8.7.,",
       "timestamp": 1625780700000,
       "time": "21:45",
-      "available": 1032,
+      "available": 1034,
       "reserved": 2,
       "bookable": true
     },
@@ -226,7 +226,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625247000000,
       "time": "17:30",
-      "available": 285,
+      "available": 283,
       "reserved": 100,
       "bookable": true
     },
@@ -315,7 +315,7 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 856,
+      "available": 854,
       "reserved": 48,
       "bookable": true
     },
@@ -472,7 +472,7 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 697,
+      "available": 693,
       "reserved": 43,
       "bookable": true
     }
@@ -510,7 +510,7 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
       "time": "21:30",
-      "available": 241,
+      "available": 239,
       "reserved": 34,
       "bookable": true
     },
@@ -546,7 +546,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625262300000,
       "time": "21:45",
-      "available": 347,
+      "available": 345,
       "reserved": 28,
       "bookable": true
     },
@@ -672,9 +672,9 @@
       "date": "Sa., 26.6.",
       "timestamp": 1624743900000,
       "time": "21:45",
-      "available": 38,
-      "reserved": 55,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "description": "Dominic ist schwer verliebt – und zwar in sich selbst. Sein Narzissmus grenzt schon an einen Fetisch, so fasziniert ist er von seinem Spiegelbild, auch und gerade beim Sex. Gemeinsam mit seiner liebevollen Großmutter lebt er im kanadischen Québec der frühen 1970er Jahre. Als sie überraschend stirbt, findet Dominic einen Brief seiner totgeglaubten Mutter. Er macht sich auf die Suche nach ihr und wird auch bald fündig. Doch nicht nur das: Plötzlich steht Dominic seinem leibhaftigen Ebenbild gegenüber. Der gutaussehende junge Mann lebt im Kloster und steht in einer – gelinde gesagt – toxischen Beziehung zu einem der älteren Priester. Doch ist Dominics Doppelgänger der Zwillingsbruder, von dem er nichts wusste? Oder eine narzisstische Projektion?\n",
@@ -741,7 +741,7 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 333,
+      "available": 331,
       "reserved": 30,
       "bookable": true
     },
@@ -1008,8 +1008,8 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625262300000,
       "time": "21:45",
-      "available": 315,
-      "reserved": 3,
+      "available": 312,
+      "reserved": 6,
       "bookable": true
     },
     {
@@ -1413,8 +1413,8 @@
       "img": "https://media.kinoheld.de/u3wDB1Wdcq7CxgpNhKO8OjB9dS4=/200x280/images%2Ffilm%2Fminari-18286.v2.png",
       "description": "Jacob beschließt, mit seiner koreanisch-amerikanischen Familie von Los Angeles nach Arkansas zu ziehen, um als Farmer sein Glück zu versuchen. Seine Frau Monica und die Kinder David und Anne fühlen sich jedoch fremd in der neuen Heimat, und das fragile Familienleben wird zusätzlich auf die Probe gestellt, als die schlagfertige und liebevolle Großmutter Soonja von Südkorea zu ihnen auf die Farm zieht.",
       "trailer": "https://www.youtube.com/watch?v=TlOqMFPS00g",
-      "available": 329,
-      "reserved": 104,
+      "available": 321,
+      "reserved": 106,
       "bookable": true
     },
     {
