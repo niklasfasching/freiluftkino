@@ -67,7 +67,7 @@
     "date": "Mo., 12.7.",
     "timestamp": 1626126300000,
     "time": "21:45",
-    "available": 723,
+    "available": 721,
     "reserved": 53,
     "bookable": true
   },
@@ -138,7 +138,7 @@
     "date": "Fr., 9.7.,",
     "timestamp": 1625867100000,
     "time": "21:45",
-    "available": 962,
+    "available": 958,
     "reserved": 4,
     "bookable": true
   },
@@ -471,7 +471,7 @@
     "date": "So., 27.6.",
     "timestamp": 1624830300000,
     "time": "21:45",
-    "available": 759,
+    "available": 755,
     "reserved": 35,
     "bookable": true
   },
@@ -597,7 +597,7 @@
     "date": "Fr., 9.7.,",
     "timestamp": 1625866200000,
     "time": "21:30",
-    "available": 409,
+    "available": 407,
     "reserved": 14,
     "bookable": true
   },
@@ -669,7 +669,7 @@
     "date": "Sa., 26.6.",
     "timestamp": 1624743900000,
     "time": "21:45",
-    "available": 219,
+    "available": 217,
     "reserved": 48,
     "bookable": true
   },
@@ -896,7 +896,7 @@
     "date": "Sa., 26.6.",
     "timestamp": 1624743900000,
     "time": "21:45",
-    "available": 204,
+    "available": 202,
     "reserved": 18,
     "bookable": true
   },
@@ -985,7 +985,7 @@
     "date": "Sa., 3.7.,",
     "timestamp": 1625348700000,
     "time": "21:45",
-    "available": 262,
+    "available": 264,
     "reserved": 10,
     "bookable": true
   },
@@ -1057,7 +1057,7 @@
     "date": "So., 27.6.",
     "timestamp": 1624830300000,
     "time": "21:45",
-    "available": 287,
+    "available": 285,
     "reserved": 23,
     "bookable": true
   },
@@ -1285,8 +1285,8 @@
     "img": "https://media.kinoheld.de/YfEa9kkIECdxHYD1YJURcweBbkc=/200x280/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v209.jpg",
     "description": "Aufgewachsen im komfortablen Wohlstand seiner iranischen Einwanderer-Eltern entzieht sich Millenial Parvis dem Provinzleben in Hildesheim durch Popkultur, Grindr-Dates und Raves. Als Strafe für einen Ladendiebstahl muß er Sozialstunden als Übersetzer in einer Unterkunft für Geflüchtete leisten, in der er auf das iranische Geschwisterpaar Banafshe und Amon trifft. Zwischen ihnen entwickelt sich eine fragile Dreierbeziehung, die zunehmend von dem Bewusstsein geprägt ist, dass ihre Zukunft in Deutschland ungleich ist.",
     "trailer": "https://www.youtube.com/watch?v=DitVsuZ66fQ",
-    "available": 26,
-    "reserved": 189,
+    "available": 24,
+    "reserved": 191,
     "bookable": true
   },
   "hasenheide-689572": {
@@ -1525,9 +1525,9 @@
     "img": "https://media.kinoheld.de/8O2-tT7mWcV0L7jkmZ5m7M5LbL0=/200x280/images%2Ffilm%2Fnomadland-18288.v2.png",
     "description": "Nach dem wirtschaftlichen Zusammenbruch einer Stadt im ländlichen Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren weißen Van und macht sich auf den Weg, um als moderne Nomadin im Westen der USA ein Leben außerhalb der konventionellen Gesellschaft zu erkunden.",
     "trailer": "https://www.youtube.com/watch?v=iEcIDpnv3qQ",
-    "available": 1,
-    "reserved": 218,
-    "bookable": true
+    "available": 0,
+    "reserved": 219,
+    "bookable": false
   },
   "hasenheide-689596": {
     "cinemaId": "580",
