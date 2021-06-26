@@ -103,9 +103,9 @@
     "date": "Sa., 26.6.",
     "timestamp": 1624743900000,
     "time": "21:45",
-    "available": 57,
-    "reserved": 149,
-    "bookable": true
+    "available": 0,
+    "reserved": 0,
+    "bookable": false
   },
   "fhain-668": {
     "description": "Eckart von Hirschhausen zeigt uns in seinem aktuellen Buch was die globalen Krisen unserer Zeit für die Gesundheit von jedem Einzelnen von uns bedeuten. Er trifft Vordenker und Vorbilder und macht sich auf die Suche nach guten Ideen für eine bessere Welt. Warum kann man gegen Viren immun werden, aber nie gegen Wassermangel und Hitze? Wieso haben wir für nichts Zeit, aber so viel Zeug? Verbrauchen wir so viel, weil wir nicht wissen, was wir wirklich brauchen? Und wie viel CO2 stößt man eigentlich aus, wenn man über die eigenen Widersprüche lacht?",
@@ -156,8 +156,8 @@
     "date": "Mo., 28.6.",
     "timestamp": 1624916700000,
     "time": "21:45",
-    "available": 913,
-    "reserved": 23,
+    "available": 910,
+    "reserved": 26,
     "bookable": true
   },
   "fhain-670": {
@@ -314,8 +314,8 @@
     "date": "Sa., 3.7.,",
     "timestamp": 1625348700000,
     "time": "21:45",
-    "available": 862,
-    "reserved": 42,
+    "available": 859,
+    "reserved": 43,
     "bookable": true
   },
   "fhain-683": {
@@ -332,7 +332,7 @@
     "date": "Fr., 2.7.,",
     "timestamp": 1625262300000,
     "time": "21:45",
-    "available": 965,
+    "available": 967,
     "reserved": 17,
     "bookable": true
   },
@@ -453,7 +453,7 @@
     "date": "Mo., 5.7.,",
     "timestamp": 1625521500000,
     "time": "21:45",
-    "available": 1038,
+    "available": 1036,
     "reserved": 6,
     "bookable": true
   },
@@ -471,8 +471,8 @@
     "date": "So., 27.6.",
     "timestamp": 1624830300000,
     "time": "21:45",
-    "available": 742,
-    "reserved": 36,
+    "available": 737,
+    "reserved": 35,
     "bookable": true
   },
   "xberg-619": {
@@ -633,7 +633,7 @@
     "date": "Sa., 3.7.,",
     "timestamp": 1625348700000,
     "time": "21:45",
-    "available": 491,
+    "available": 489,
     "reserved": 14,
     "bookable": true
   },
@@ -651,8 +651,8 @@
     "date": "Do., 1.7.,",
     "timestamp": 1625175900000,
     "time": "21:45",
-    "available": 467,
-    "reserved": 6,
+    "available": 464,
+    "reserved": 9,
     "bookable": true
   },
   "xberg-609": {
@@ -669,8 +669,8 @@
     "date": "Sa., 26.6.",
     "timestamp": 1624743900000,
     "time": "21:45",
-    "available": 171,
-    "reserved": 52,
+    "available": 166,
+    "reserved": 55,
     "bookable": true
   },
   "xberg-625": {
@@ -704,7 +704,7 @@
     "date": "Do., 8.7.,",
     "timestamp": 1625779800000,
     "time": "21:30",
-    "available": 467,
+    "available": 465,
     "reserved": 14,
     "bookable": true
   },
@@ -809,7 +809,7 @@
     "date": "Mo., 28.6.",
     "timestamp": 1624916700000,
     "time": "21:45",
-    "available": 296,
+    "available": 292,
     "reserved": 17,
     "bookable": true
   },
@@ -845,7 +845,7 @@
     "date": "Mo., 5.7.,",
     "timestamp": 1625521500000,
     "time": "21:45",
-    "available": 362,
+    "available": 360,
     "reserved": 2,
     "bookable": true
   },
@@ -896,8 +896,8 @@
     "date": "Sa., 26.6.",
     "timestamp": 1624743900000,
     "time": "21:45",
-    "available": 176,
-    "reserved": 18,
+    "available": 155,
+    "reserved": 19,
     "bookable": true
   },
   "rehberge-618": {
@@ -967,7 +967,7 @@
     "date": "Sa., 10.7.",
     "timestamp": 1625952600000,
     "time": "21:30",
-    "available": 269,
+    "available": 267,
     "reserved": 5,
     "bookable": true
   },
@@ -985,8 +985,8 @@
     "date": "Sa., 3.7.,",
     "timestamp": 1625348700000,
     "time": "21:45",
-    "available": 262,
-    "reserved": 10,
+    "available": 261,
+    "reserved": 11,
     "bookable": true
   },
   "rehberge-606": {
@@ -1092,7 +1092,7 @@
     "date": "Mo., 28.6.",
     "timestamp": 1624916700000,
     "time": "21:45",
-    "available": 296,
+    "available": 294,
     "reserved": 6,
     "bookable": true
   },
@@ -1216,7 +1216,7 @@
     "date": "Mi., 30.6.",
     "timestamp": 1625089500000,
     "time": "21:45",
-    "available": 339,
+    "available": 337,
     "reserved": 3,
     "bookable": true
   },
@@ -1285,8 +1285,8 @@
     "img": "https://media.kinoheld.de/YfEa9kkIECdxHYD1YJURcweBbkc=/200x280/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v209.jpg",
     "description": "Aufgewachsen im komfortablen Wohlstand seiner iranischen Einwanderer-Eltern entzieht sich Millenial Parvis dem Provinzleben in Hildesheim durch Popkultur, Grindr-Dates und Raves. Als Strafe für einen Ladendiebstahl muß er Sozialstunden als Übersetzer in einer Unterkunft für Geflüchtete leisten, in der er auf das iranische Geschwisterpaar Banafshe und Amon trifft. Zwischen ihnen entwickelt sich eine fragile Dreierbeziehung, die zunehmend von dem Bewusstsein geprägt ist, dass ihre Zukunft in Deutschland ungleich ist.",
     "trailer": "https://www.youtube.com/watch?v=DitVsuZ66fQ",
-    "available": 15,
-    "reserved": 196,
+    "available": 11,
+    "reserved": 198,
     "bookable": true
   },
   "hasenheide-689572": {
@@ -1406,8 +1406,8 @@
     "img": "https://media.kinoheld.de/u3wDB1Wdcq7CxgpNhKO8OjB9dS4=/200x280/images%2Ffilm%2Fminari-18286.v2.png",
     "description": "Jacob beschließt, mit seiner koreanisch-amerikanischen Familie von Los Angeles nach Arkansas zu ziehen, um als Farmer sein Glück zu versuchen. Seine Frau Monica und die Kinder David und Anne fühlen sich jedoch fremd in der neuen Heimat, und das fragile Familienleben wird zusätzlich auf die Probe gestellt, als die schlagfertige und liebevolle Großmutter Soonja von Südkorea zu ihnen auf die Farm zieht.",
     "trailer": "https://www.youtube.com/watch?v=TlOqMFPS00g",
-    "available": 374,
-    "reserved": 88,
+    "available": 353,
+    "reserved": 90,
     "bookable": true
   },
   "hasenheide-689590": {
