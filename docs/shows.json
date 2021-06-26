@@ -156,7 +156,7 @@
     "date": "Mo., 28.6.",
     "timestamp": 1624916700000,
     "time": "21:45",
-    "available": 904,
+    "available": 900,
     "reserved": 30,
     "bookable": true
   },
@@ -190,7 +190,7 @@
     "date": "So., 4.7.,",
     "timestamp": 1625435100000,
     "time": "21:45",
-    "available": 1051,
+    "available": 1049,
     "reserved": 3,
     "bookable": true
   },
@@ -260,7 +260,7 @@
     "date": "Mi., 30.6.",
     "timestamp": 1625089500000,
     "time": "21:45",
-    "available": 450,
+    "available": 448,
     "reserved": 118,
     "bookable": true
   },
@@ -278,7 +278,7 @@
     "date": "Do., 1.7.,",
     "timestamp": 1625175900000,
     "time": "21:45",
-    "available": 979,
+    "available": 977,
     "reserved": 11,
     "bookable": true
   },
@@ -314,8 +314,8 @@
     "date": "Sa., 3.7.,",
     "timestamp": 1625348700000,
     "time": "21:45",
-    "available": 859,
-    "reserved": 45,
+    "available": 856,
+    "reserved": 48,
     "bookable": true
   },
   "fhain-683": {
@@ -332,8 +332,8 @@
     "date": "Fr., 2.7.,",
     "timestamp": 1625262300000,
     "time": "21:45",
-    "available": 963,
-    "reserved": 17,
+    "available": 961,
+    "reserved": 19,
     "bookable": true
   },
   "fhain-690": {
@@ -471,8 +471,8 @@
     "date": "So., 27.6.",
     "timestamp": 1624830300000,
     "time": "21:45",
-    "available": 719,
-    "reserved": 37,
+    "available": 712,
+    "reserved": 40,
     "bookable": true
   },
   "xberg-619": {
@@ -561,7 +561,7 @@
     "date": "So., 27.6.",
     "timestamp": 1624830300000,
     "time": "21:45",
-    "available": 300,
+    "available": 298,
     "reserved": 33,
     "bookable": true
   },
@@ -669,7 +669,7 @@
     "date": "Sa., 26.6.",
     "timestamp": 1624743900000,
     "time": "21:45",
-    "available": 120,
+    "available": 100,
     "reserved": 55,
     "bookable": true
   },
@@ -738,7 +738,7 @@
     "date": "Mi., 30.6.",
     "timestamp": 1625089500000,
     "time": "21:45",
-    "available": 348,
+    "available": 342,
     "reserved": 29,
     "bookable": true
   },
@@ -809,8 +809,8 @@
     "date": "Mo., 28.6.",
     "timestamp": 1624916700000,
     "time": "21:45",
-    "available": 288,
-    "reserved": 19,
+    "available": 287,
+    "reserved": 20,
     "bookable": true
   },
   "xberg-612": {
@@ -896,9 +896,9 @@
     "date": "Sa., 26.6.",
     "timestamp": 1624743900000,
     "time": "21:45",
-    "available": 144,
-    "reserved": 22,
-    "bookable": true
+    "available": 0,
+    "reserved": 0,
+    "bookable": false
   },
   "rehberge-618": {
     "trailer": "https://www.youtube-nocookie.com/embed/Z9AYPxH5NTM?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
@@ -985,7 +985,7 @@
     "date": "Sa., 3.7.,",
     "timestamp": 1625348700000,
     "time": "21:45",
-    "available": 258,
+    "available": 256,
     "reserved": 12,
     "bookable": true
   },
@@ -1003,7 +1003,7 @@
     "date": "Fr., 2.7.,",
     "timestamp": 1625262300000,
     "time": "21:45",
-    "available": 321,
+    "available": 317,
     "reserved": 3,
     "bookable": true
   },
@@ -1021,7 +1021,7 @@
     "date": "Di., 29.6.",
     "timestamp": 1625003100000,
     "time": "21:45",
-    "available": 326,
+    "available": 324,
     "reserved": 14,
     "bookable": true
   },
@@ -1092,7 +1092,7 @@
     "date": "Mo., 28.6.",
     "timestamp": 1624916700000,
     "time": "21:45",
-    "available": 288,
+    "available": 286,
     "reserved": 6,
     "bookable": true
   },
@@ -1319,8 +1319,8 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689573?layout=shows",
     "img": "https://media.kinoheld.de/z0UBTqg1mvoMu-Woak1KAXv2IY0=/200x280/images%2Ffilm%2Fvor-mir-der-sueden-17826.v3.jpg",
     "description": "Im September/ Oktober 2017 reist die Crew um Oscar-Regisseur Pepe Danquart und Kameramann Thomas Schneider sieben Wochen durch Italien, auf den Spuren von Pier Paolo Pasolini, dieses Autors, Dichters, Regisseurs, der schon früh - zärtlich, melancholisch, zornig - vor den Folgen jener Ökonomisierung aller Lebensbereiche warnte, die wir heute erleben. Pier Paolo Pasolini setzte sich im Juni des Jahres 1959 im Auftrag der Zeitschrift \"Successo\" in Ventimiglia an der französischen Grenze in seinen Fiat Millecento und fuhr die etwa dreitausend Küstenkilometer Italiens bis hinauf nach Triest. Seine Texte und Bilder über diese Reise sind heute ein eigenwilliges Dokument dieser Zeit zwischen dem Ende der Traditionen und der aufziehenden Globalisierung. Pepe Danquarts Dokumentarfilm fängt entlang der Route die Bilder und Stimmungen fünfzig Jahre später ein, in einer anderen Wirklichkeit …\"",
-    "available": 512,
-    "reserved": 40,
+    "available": 503,
+    "reserved": 42,
     "bookable": true
   },
   "hasenheide-689574": {
@@ -1370,8 +1370,8 @@
     "img": "https://media.kinoheld.de/4HRxvKqpeQKrYBgLMPJX0xRdOdQ=/200x280/images%2Ffilm%2Ftenet-16731.v2.png",
     "description": "Ein Agent wird rekrutiert, um einen besonderen Auftrag auszuführen: Er soll den 3. Weltkrieg verhindern. Diesmal ist jedoch keine nukleare Bedrohung der Grund, sondern es muss eine Person gestoppt werden, welche die Fähigkeit besitzt, die Zeit zu manipulieren.",
     "trailer": "https://www.youtube.com/watch?v=jfEQ0BdeQJQ",
-    "available": 460,
-    "reserved": 50,
+    "available": 453,
+    "reserved": 52,
     "bookable": true
   },
   "hasenheide-689588": {
@@ -1406,8 +1406,8 @@
     "img": "https://media.kinoheld.de/u3wDB1Wdcq7CxgpNhKO8OjB9dS4=/200x280/images%2Ffilm%2Fminari-18286.v2.png",
     "description": "Jacob beschließt, mit seiner koreanisch-amerikanischen Familie von Los Angeles nach Arkansas zu ziehen, um als Farmer sein Glück zu versuchen. Seine Frau Monica und die Kinder David und Anne fühlen sich jedoch fremd in der neuen Heimat, und das fragile Familienleben wird zusätzlich auf die Probe gestellt, als die schlagfertige und liebevolle Großmutter Soonja von Südkorea zu ihnen auf die Farm zieht.",
     "trailer": "https://www.youtube.com/watch?v=TlOqMFPS00g",
-    "available": 355,
-    "reserved": 94,
+    "available": 329,
+    "reserved": 102,
     "bookable": true
   },
   "hasenheide-689590": {
@@ -1686,8 +1686,8 @@
     "img": "https://media.kinoheld.de/QSspiYKAFiYDk_tywE9MXpUmb1Y=/200x280/images%2Ffilm%2Ffrau-stern-13721.v57.jpg",
     "description": "Frau Stern hat viel gesehen in ihrem Leben. Vieles gelebt und überlebt. Viele Männer hat sie geliebt, ein Restaurant geführt und vor allem: viel geraucht. Frau Stern ist 90 Jahre alt, Jüdin und hat die Nazis überlebt. Liebe, das hat sie gelernt, ist eine Entscheidung. Der Tod genauso. Und so entscheidet Frau Stern, dass es nun an der Zeit ist, aus der Welt zu gehen. Doch der Arzt mag ihr keine Hilfe sein, aus der Badewanne rettet sie ein Räuberpärchen und von den Schienen hilft ihr ein Spaziergänger wieder hoch. Der Einfachheit halber würde die resolute Dame gern an eine Waffe kommen. Enkelin Elli, das \"Schätzchen\", könnte wohl am besten helfen, denn sie kennt den coolsten Dealer in Berlin-Neukölln. Doch Elli bringt Frau Stern den Tod nicht näher. Im Gegenteil. Die Liebe zwischen Großmutter und Enkeltochter ist so innig, dass Frau Stern irgendwie in den Freundeskreis der jungen Frau gerät, ganz selbstverständlich bei Karaoke-Abenden und Theater-Performances mitfeiert und das so natürlich und respektvoll, wie es nur sein kann. Doch bei aller Lebensfreude, die das Berlin-Neukölln der Gegenwart auch versprühen mag - mit ihrer Entscheidung ist Frau Stern letztlich allein. Gleichzeitig mit großem Respekt, viel Wahrhaftigkeit und doch auch mit viel Humor von der letzten Entscheidung eines Menschen zu erzählen, ist nichts weniger als eine hohe Kunst. Anatol Schuster gelingt sie. Jeder Einstellung in \"Frau Stern\" ist die Liebe für seine Protagonistin, grandios gespielt von Ahuva Sommerfeld, eingeschrieben, und auch der Mut und die Lust an Überzeichnung und Unterhaltung. Warmes, geistvolles Kino aus Deutschland ist \"Frau Stern\", zutiefst einfühlsam und absolut bereichernd. (Quelle: Verleih)",
     "trailer": "https://www.youtube.com/watch?v=OLsCKMbeLqc",
-    "available": 39,
-    "reserved": 10,
+    "available": 35,
+    "reserved": 12,
     "bookable": true
   },
   "central-2385436965": {
