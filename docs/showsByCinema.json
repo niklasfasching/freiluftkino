@@ -139,7 +139,7 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625867100000,
       "time": "21:45",
-      "available": 958,
+      "available": 956,
       "reserved": 4,
       "bookable": true
     },
@@ -226,8 +226,8 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625247000000,
       "time": "17:30",
-      "available": 283,
-      "reserved": 100,
+      "available": 281,
+      "reserved": 102,
       "bookable": true
     },
     {
@@ -261,7 +261,7 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 441,
+      "available": 439,
       "reserved": 119,
       "bookable": true
     },
@@ -315,7 +315,7 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 854,
+      "available": 852,
       "reserved": 48,
       "bookable": true
     },
@@ -350,7 +350,7 @@
       "date": "So., 11.7.",
       "timestamp": 1626039900000,
       "time": "21:45",
-      "available": 1005,
+      "available": 1003,
       "reserved": 5,
       "bookable": true
     },
@@ -368,7 +368,7 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 958,
+      "available": 954,
       "reserved": 22,
       "bookable": true
     },
@@ -472,8 +472,8 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 693,
-      "reserved": 43,
+      "available": 689,
+      "reserved": 45,
       "bookable": true
     }
   ],
@@ -564,7 +564,7 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 282,
+      "available": 278,
       "reserved": 35,
       "bookable": true
     },
@@ -654,8 +654,8 @@
       "date": "Do., 1.7.,",
       "timestamp": 1625175900000,
       "time": "21:45",
-      "available": 459,
-      "reserved": 10,
+      "available": 456,
+      "reserved": 13,
       "bookable": true
     },
     {
@@ -741,8 +741,8 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 331,
-      "reserved": 30,
+      "available": 328,
+      "reserved": 33,
       "bookable": true
     },
     {
@@ -812,8 +812,8 @@
       "date": "Mo., 28.6.",
       "timestamp": 1624916700000,
       "time": "21:45",
-      "available": 278,
-      "reserved": 23,
+      "available": 275,
+      "reserved": 24,
       "bookable": true
     },
     {
@@ -972,7 +972,7 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
       "time": "21:30",
-      "available": 262,
+      "available": 260,
       "reserved": 6,
       "bookable": true
     },
@@ -990,7 +990,7 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 256,
+      "available": 254,
       "reserved": 12,
       "bookable": true
     },
@@ -1026,8 +1026,8 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 322,
-      "reserved": 14,
+      "available": 317,
+      "reserved": 15,
       "bookable": true
     },
     {
@@ -1062,7 +1062,7 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 262,
+      "available": 258,
       "reserved": 24,
       "bookable": true
     },
@@ -1097,7 +1097,7 @@
       "date": "Mo., 28.6.",
       "timestamp": 1624916700000,
       "time": "21:45",
-      "available": 279,
+      "available": 275,
       "reserved": 7,
       "bookable": true
     },
@@ -1256,9 +1256,9 @@
       "timestamp": 1624665600000,
       "time": "18:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689521?layout=shows",
-      "available": 263,
-      "reserved": 106,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1377,8 +1377,8 @@
       "img": "https://media.kinoheld.de/4HRxvKqpeQKrYBgLMPJX0xRdOdQ=/200x280/images%2Ffilm%2Ftenet-16731.v2.png",
       "description": "Ein Agent wird rekrutiert, um einen besonderen Auftrag auszuführen: Er soll den 3. Weltkrieg verhindern. Diesmal ist jedoch keine nukleare Bedrohung der Grund, sondern es muss eine Person gestoppt werden, welche die Fähigkeit besitzt, die Zeit zu manipulieren.",
       "trailer": "https://www.youtube.com/watch?v=jfEQ0BdeQJQ",
-      "available": 453,
-      "reserved": 52,
+      "available": 440,
+      "reserved": 56,
       "bookable": true
     },
     {
@@ -1413,8 +1413,8 @@
       "img": "https://media.kinoheld.de/u3wDB1Wdcq7CxgpNhKO8OjB9dS4=/200x280/images%2Ffilm%2Fminari-18286.v2.png",
       "description": "Jacob beschließt, mit seiner koreanisch-amerikanischen Familie von Los Angeles nach Arkansas zu ziehen, um als Farmer sein Glück zu versuchen. Seine Frau Monica und die Kinder David und Anne fühlen sich jedoch fremd in der neuen Heimat, und das fragile Familienleben wird zusätzlich auf die Probe gestellt, als die schlagfertige und liebevolle Großmutter Soonja von Südkorea zu ihnen auf die Farm zieht.",
       "trailer": "https://www.youtube.com/watch?v=TlOqMFPS00g",
-      "available": 321,
-      "reserved": 106,
+      "available": 310,
+      "reserved": 108,
       "bookable": true
     },
     {
@@ -1568,8 +1568,8 @@
       "img": "https://media.kinoheld.de/rKb1xBbLt7KW1Ga7KLmsQ-GkY3A=/200x280/images%2Ffilm%2Fder-rausch-18282.v10.jpg",
       "description": "Früher war Martin Lehrer aus Leidenschaft – heute sind nicht nur die Schüler von seinem fehlenden Enthusiasmus gelangweilt, auch in Martins Ehe ist die Luft raus. Seinen drei Freunden, die am selben Gymnasium unterrichten, geht es nicht viel besser. Bei einer angeheiterten Geburtstagsrunde diskutieren sie die Theorie eines norwegischen Philosophen: Nach dieser ist ein Mensch nur mit einem erhöhten Alkoholgehalt im Blut zu Bestleistungen fähig. Solch eine gewagte These muss überprüft werden. Die vier beschließen den Selbsttest zu machen und während der Arbeit einen bestimmten Pegel zu halten. Soll nicht sogar Churchill den Zweiten Weltkrieg in einem Alkoholrausch gewonnen haben? Mit neuem Antrieb stürzen sie sich in ihre geheime wissenschaftliche Studie. Die Wirkung lässt nicht lange auf sich warten …",
       "trailer": "https://www.youtube.com/watch?v=oJwlO6vcsm0",
-      "available": 328,
-      "reserved": 89,
+      "available": 316,
+      "reserved": 91,
       "bookable": true
     },
     {
@@ -1586,8 +1586,8 @@
       "img": "https://media.kinoheld.de/jg9ibZvfO5CNwOI56ZkbgDVeqQo=/200x280/images%2Ffilm%2Fund-morgen-die-ganze-welt-17457.v143.jpg",
       "description": "Luisa ist 20 Jahre alt, stammt aus gutem Haus, studiert Jura im ersten Semester. Und sie will, dass sich etwas verändert in Deutschland. Alarmiert vom Rechtsruck im Land und der zunehmenden Beliebtheit populistischer Parteien, tut sie sich mit ihren Freunden zusammen, um sich klar gegen die neue Rechte zu positionieren. Schnell findet sie Anschluss bei dem charismatischen Alfa und dessen besten Freund Lenor: Für die beiden ist auch der Einsatz von Gewalt ein legitimes Mittel, um Widerstand zu leisten. Bald schon überstürzen sich die Ereignisse. Und Luisa muss entscheiden, wie weit zu gehen sie bereit ist – auch wenn das fatale Konsequenzen für sie und ihre Freunde haben könnte.",
       "trailer": "https://www.youtube.com/watch?v=5jtj8DcAqz0",
-      "available": 650,
-      "reserved": 8,
+      "available": 640,
+      "reserved": 10,
       "bookable": true
     },
     {
@@ -1716,8 +1716,8 @@
       "img": "https://media.kinoheld.de/hOKPyve9ZSTqgmuuvvhJe5bTi1M=/200x280/images%2Ffilm%2Ffemale-pleasure-11068.v26.jpg",
       "description": "Fünf mutige, kluge und selbstbestimmte Frauen stehen im Zentrum von Barbara Millers Dokumentarfilm \"#Female Pleasure\". Sie brechen das Tabu des Schweigens und der Scham, das ihnen die Gesellschaft oder ihre religiösen Gemeinschaften mit ihren archaisch-patriarchalen Strukturen auferlegen. Mit einer unfassbaren positiven Energie und aller Kraft setzen sich Deborah Feldman, Leyla Hussein, Rokudenashiko, Doris Wagner und Vithika Yadav für sexuelle Aufklärung und Selbstbestimmung aller Frauen ein, hinweg über jedwede gesellschaftliche sowie religiöse Normen und Schranken. Dafür zahlen sie einen hohen Preis - sie werden öffentlich diffamiert, verfolgt und bedroht, von ihrem ehemaligen Umfeld werden sie verstoßen und von Religionsführern und fanatischen Gläubigen sogar mit dem Tod bedroht. (Quelle: Verleih)",
       "trailer": "https://www.youtube.com/watch?v=VP-7Et3bv7s",
-      "available": 6,
-      "reserved": 24,
+      "available": 3,
+      "reserved": 26,
       "bookable": true
     }
   ],
