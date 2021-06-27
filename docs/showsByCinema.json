@@ -139,7 +139,7 @@
       "date": "Mo., 28.6.",
       "timestamp": 1624916700000,
       "time": "21:45",
-      "available": 852,
+      "available": 848,
       "reserved": 32,
       "bookable": true
     },
@@ -173,7 +173,7 @@
       "date": "So., 4.7.,",
       "timestamp": 1625435100000,
       "time": "21:45",
-      "available": 1040,
+      "available": 1038,
       "reserved": 6,
       "bookable": true
     },
@@ -208,7 +208,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625247000000,
       "time": "17:30",
-      "available": 258,
+      "available": 256,
       "reserved": 103,
       "bookable": true
     },
@@ -367,7 +367,7 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625953500000,
       "time": "21:45",
-      "available": 1039,
+      "available": 1041,
       "reserved": 7,
       "bookable": true
     },
@@ -454,7 +454,7 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 527,
+      "available": 525,
       "reserved": 89,
       "bookable": true
     }
@@ -474,7 +474,7 @@
       "date": "Di., 6.7.,",
       "timestamp": 1625607900000,
       "time": "21:45",
-      "available": 296,
+      "available": 298,
       "reserved": 41,
       "bookable": true
     },
@@ -492,7 +492,7 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
       "time": "21:30",
-      "available": 222,
+      "available": 218,
       "reserved": 37,
       "bookable": true
     },
@@ -528,7 +528,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625262300000,
       "time": "21:45",
-      "available": 310,
+      "available": 306,
       "reserved": 35,
       "bookable": true
     },
@@ -546,8 +546,8 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 110,
-      "reserved": 55,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -814,7 +814,7 @@
       "date": "Mo., 5.7.,",
       "timestamp": 1625521500000,
       "time": "21:45",
-      "available": 353,
+      "available": 349,
       "reserved": 3,
       "bookable": true
     },
@@ -919,7 +919,7 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
       "time": "21:30",
-      "available": 242,
+      "available": 240,
       "reserved": 6,
       "bookable": true
     },
@@ -973,8 +973,8 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 311,
-      "reserved": 15,
+      "available": 308,
+      "reserved": 16,
       "bookable": true
     },
     {
@@ -1009,7 +1009,7 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 157,
+      "available": 155,
       "reserved": 35,
       "bookable": true
     },
@@ -1044,7 +1044,7 @@
       "date": "Mo., 28.6.",
       "timestamp": 1624916700000,
       "time": "21:45",
-      "available": 235,
+      "available": 231,
       "reserved": 11,
       "bookable": true
     },
@@ -1061,7 +1061,7 @@
       "date": "Fr., 20.8.",
       "timestamp": 1629489600000,
       "time": "20:00",
-      "available": 316,
+      "available": 314,
       "reserved": 11,
       "bookable": true
     },
@@ -1345,7 +1345,7 @@
       "img": "https://media.kinoheld.de/XumU5kU2r_zhNGfY7BDTedClrJI=/200x280/images%2Ffilm%2Fundine-16403.v45.jpg",
       "description": "Im Liebesdrama Undine wird Paula Beer von ihrem Freund verlassen, wodurch ein Fluch ans Licht kommt, der sie dazu zwingt, ihn zu ertränken. Doch dann verliebt die Nixe sich in einen Taucher.",
       "trailer": "https://www.youtube.com/watch?v=_XSzVgjeyfM",
-      "available": 591,
+      "available": 601,
       "reserved": 16,
       "bookable": true
     },
