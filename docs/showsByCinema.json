@@ -173,7 +173,7 @@
       "date": "So., 4.7.,",
       "timestamp": 1625435100000,
       "time": "21:45",
-      "available": 1038,
+      "available": 1040,
       "reserved": 6,
       "bookable": true
     },
@@ -208,7 +208,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625247000000,
       "time": "17:30",
-      "available": 256,
+      "available": 254,
       "reserved": 103,
       "bookable": true
     },
@@ -225,7 +225,7 @@
       "date": "So., 11.7.",
       "timestamp": 1626024600000,
       "time": "17:30",
-      "available": 630,
+      "available": 628,
       "reserved": 57,
       "bookable": true
     },
@@ -243,8 +243,8 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 382,
-      "reserved": 134,
+      "available": 377,
+      "reserved": 137,
       "bookable": true
     },
     {
@@ -454,7 +454,7 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 525,
+      "available": 523,
       "reserved": 89,
       "bookable": true
     }
@@ -474,7 +474,7 @@
       "date": "Di., 6.7.,",
       "timestamp": 1625607900000,
       "time": "21:45",
-      "available": 298,
+      "available": 296,
       "reserved": 41,
       "bookable": true
     },
@@ -492,8 +492,8 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
       "time": "21:30",
-      "available": 218,
-      "reserved": 37,
+      "available": 215,
+      "reserved": 40,
       "bookable": true
     },
     {
@@ -528,7 +528,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625262300000,
       "time": "21:45",
-      "available": 306,
+      "available": 302,
       "reserved": 35,
       "bookable": true
     },
@@ -546,8 +546,8 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 102,
+      "reserved": 55,
       "bookable": true
     },
     {
@@ -636,7 +636,7 @@
       "date": "Do., 1.7.,",
       "timestamp": 1625175900000,
       "time": "21:45",
-      "available": 448,
+      "available": 446,
       "reserved": 17,
       "bookable": true
     },
@@ -776,7 +776,7 @@
       "date": "Mo., 28.6.",
       "timestamp": 1624916700000,
       "time": "21:45",
-      "available": 236,
+      "available": 234,
       "reserved": 37,
       "bookable": true
     },
@@ -937,7 +937,7 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 226,
+      "available": 220,
       "reserved": 14,
       "bookable": true
     },
@@ -1009,9 +1009,9 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 155,
-      "reserved": 35,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "trailer": "https://www.youtube-nocookie.com/embed/Hs-7YQNg5UU?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
@@ -1044,8 +1044,8 @@
       "date": "Mo., 28.6.",
       "timestamp": 1624916700000,
       "time": "21:45",
-      "available": 231,
-      "reserved": 11,
+      "available": 223,
+      "reserved": 13,
       "bookable": true
     },
     {
@@ -1079,7 +1079,7 @@
       "date": "So., 4.7.,",
       "timestamp": 1625435100000,
       "time": "21:45",
-      "available": 349,
+      "available": 343,
       "reserved": 3,
       "bookable": true
     },
@@ -1186,7 +1186,7 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625866200000,
       "time": "21:30",
-      "available": 313,
+      "available": 311,
       "reserved": 3,
       "bookable": true
     }
@@ -1327,8 +1327,8 @@
       "img": "https://media.kinoheld.de/u3wDB1Wdcq7CxgpNhKO8OjB9dS4=/200x280/images%2Ffilm%2Fminari-18286.v2.png",
       "description": "Jacob beschließt, mit seiner koreanisch-amerikanischen Familie von Los Angeles nach Arkansas zu ziehen, um als Farmer sein Glück zu versuchen. Seine Frau Monica und die Kinder David und Anne fühlen sich jedoch fremd in der neuen Heimat, und das fragile Familienleben wird zusätzlich auf die Probe gestellt, als die schlagfertige und liebevolle Großmutter Soonja von Südkorea zu ihnen auf die Farm zieht.",
       "trailer": "https://www.youtube.com/watch?v=TlOqMFPS00g",
-      "available": 266,
-      "reserved": 124,
+      "available": 250,
+      "reserved": 128,
       "bookable": true
     },
     {
