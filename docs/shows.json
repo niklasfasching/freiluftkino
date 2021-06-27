@@ -13,7 +13,7 @@
     "date": "Di., 6.7.,",
     "timestamp": 1625607900000,
     "time": "21:45",
-    "available": 907,
+    "available": 905,
     "reserved": 33,
     "bookable": true
   },
@@ -49,7 +49,7 @@
     "date": "Mi., 14.7.",
     "timestamp": 1626299100000,
     "time": "21:45",
-    "available": 1041,
+    "available": 1039,
     "reserved": 3,
     "bookable": true
   },
@@ -67,7 +67,7 @@
     "date": "Mo., 12.7.",
     "timestamp": 1626126300000,
     "time": "21:45",
-    "available": 683,
+    "available": 679,
     "reserved": 57,
     "bookable": true
   },
@@ -138,7 +138,7 @@
     "date": "Mo., 28.6.",
     "timestamp": 1624916700000,
     "time": "21:45",
-    "available": 835,
+    "available": 833,
     "reserved": 33,
     "bookable": true
   },
@@ -314,7 +314,7 @@
     "date": "Fr., 2.7.,",
     "timestamp": 1625262300000,
     "time": "21:45",
-    "available": 943,
+    "available": 941,
     "reserved": 19,
     "bookable": true
   },
@@ -331,7 +331,7 @@
     "date": "So., 11.7.",
     "timestamp": 1626039900000,
     "time": "21:45",
-    "available": 998,
+    "available": 996,
     "reserved": 8,
     "bookable": true
   },
@@ -349,7 +349,7 @@
     "date": "Di., 29.6.",
     "timestamp": 1625003100000,
     "time": "21:45",
-    "available": 936,
+    "available": 938,
     "reserved": 24,
     "bookable": true
   },
@@ -453,7 +453,7 @@
     "date": "Di., 6.7.,",
     "timestamp": 1625607900000,
     "time": "21:45",
-    "available": 294,
+    "available": 292,
     "reserved": 41,
     "bookable": true
   },
@@ -489,7 +489,7 @@
     "date": "So., 4.7.,",
     "timestamp": 1625435100000,
     "time": "21:45",
-    "available": 474,
+    "available": 472,
     "reserved": 15,
     "bookable": true
   },
@@ -507,8 +507,8 @@
     "date": "Fr., 2.7.,",
     "timestamp": 1625262300000,
     "time": "21:45",
-    "available": 300,
-    "reserved": 35,
+    "available": 0,
+    "reserved": 0,
     "bookable": true
   },
   "xberg-624": {
@@ -579,8 +579,8 @@
     "date": "Sa., 3.7.,",
     "timestamp": 1625348700000,
     "time": "21:45",
-    "available": 460,
-    "reserved": 21,
+    "available": 0,
+    "reserved": 0,
     "bookable": true
   },
   "xberg-614": {
@@ -597,8 +597,8 @@
     "date": "Do., 1.7.,",
     "timestamp": 1625175900000,
     "time": "21:45",
-    "available": 435,
-    "reserved": 20,
+    "available": 0,
+    "reserved": 0,
     "bookable": true
   },
   "xberg-625": {
@@ -614,8 +614,8 @@
     "date": "Mo., 12.7.",
     "timestamp": 1626125400000,
     "time": "21:30",
-    "available": 518,
-    "reserved": 5,
+    "available": 0,
+    "reserved": 0,
     "bookable": true
   },
   "xberg-621": {
@@ -684,8 +684,8 @@
     "date": "Mi., 7.7.,",
     "timestamp": 1625694300000,
     "time": "21:45",
-    "available": 499,
-    "reserved": 4,
+    "available": 0,
+    "reserved": 0,
     "bookable": true
   },
   "xberg-627": {
@@ -702,7 +702,7 @@
     "date": "Do., 15.7.",
     "timestamp": 1626384600000,
     "time": "21:30",
-    "available": 515,
+    "available": 0,
     "reserved": 0,
     "bookable": true
   },
@@ -737,7 +737,7 @@
     "date": "Mo., 28.6.",
     "timestamp": 1624916700000,
     "time": "21:45",
-    "available": 222,
+    "available": 220,
     "reserved": 39,
     "bookable": true
   },
@@ -896,7 +896,7 @@
     "date": "Sa., 3.7.,",
     "timestamp": 1625348700000,
     "time": "21:45",
-    "available": 218,
+    "available": 214,
     "reserved": 14,
     "bookable": true
   },
@@ -914,8 +914,8 @@
     "date": "Fr., 2.7.,",
     "timestamp": 1625262300000,
     "time": "21:45",
-    "available": 266,
-    "reserved": 14,
+    "available": 265,
+    "reserved": 17,
     "bookable": true
   },
   "rehberge-620": {
@@ -932,8 +932,8 @@
     "date": "Di., 29.6.",
     "timestamp": 1625003100000,
     "time": "21:45",
-    "available": 308,
-    "reserved": 16,
+    "available": 305,
+    "reserved": 19,
     "bookable": true
   },
   "rehberge-615": {
@@ -985,7 +985,7 @@
     "date": "Mo., 28.6.",
     "timestamp": 1624916700000,
     "time": "21:45",
-    "available": 209,
+    "available": 205,
     "reserved": 15,
     "bookable": true
   },
@@ -1002,7 +1002,7 @@
     "date": "Fr., 20.8.",
     "timestamp": 1629489600000,
     "time": "20:00",
-    "available": 314,
+    "available": 312,
     "reserved": 11,
     "bookable": true
   },
@@ -1299,8 +1299,8 @@
     "timestamp": 1625443200000,
     "time": "21:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689591?layout=shows",
-    "available": 641,
-    "reserved": 10,
+    "available": 423,
+    "reserved": 82,
     "bookable": true
   },
   "hasenheide-689592": {
@@ -1350,8 +1350,8 @@
     "timestamp": 1625702400000,
     "time": "21:45",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689520?layout=shows",
-    "available": 317,
-    "reserved": 92,
+    "available": 299,
+    "reserved": 96,
     "bookable": true
   },
   "hasenheide-689594": {
@@ -1528,8 +1528,8 @@
     "img": "https://media.kinoheld.de/QSspiYKAFiYDk_tywE9MXpUmb1Y=/200x280/images%2Ffilm%2Ffrau-stern-13721.v57.jpg",
     "description": "Frau Stern hat viel gesehen in ihrem Leben. Vieles gelebt und überlebt. Viele Männer hat sie geliebt, ein Restaurant geführt und vor allem: viel geraucht. Frau Stern ist 90 Jahre alt, Jüdin und hat die Nazis überlebt. Liebe, das hat sie gelernt, ist eine Entscheidung. Der Tod genauso. Und so entscheidet Frau Stern, dass es nun an der Zeit ist, aus der Welt zu gehen. Doch der Arzt mag ihr keine Hilfe sein, aus der Badewanne rettet sie ein Räuberpärchen und von den Schienen hilft ihr ein Spaziergänger wieder hoch. Der Einfachheit halber würde die resolute Dame gern an eine Waffe kommen. Enkelin Elli, das \"Schätzchen\", könnte wohl am besten helfen, denn sie kennt den coolsten Dealer in Berlin-Neukölln. Doch Elli bringt Frau Stern den Tod nicht näher. Im Gegenteil. Die Liebe zwischen Großmutter und Enkeltochter ist so innig, dass Frau Stern irgendwie in den Freundeskreis der jungen Frau gerät, ganz selbstverständlich bei Karaoke-Abenden und Theater-Performances mitfeiert und das so natürlich und respektvoll, wie es nur sein kann. Doch bei aller Lebensfreude, die das Berlin-Neukölln der Gegenwart auch versprühen mag - mit ihrer Entscheidung ist Frau Stern letztlich allein. Gleichzeitig mit großem Respekt, viel Wahrhaftigkeit und doch auch mit viel Humor von der letzten Entscheidung eines Menschen zu erzählen, ist nichts weniger als eine hohe Kunst. Anatol Schuster gelingt sie. Jeder Einstellung in \"Frau Stern\" ist die Liebe für seine Protagonistin, grandios gespielt von Ahuva Sommerfeld, eingeschrieben, und auch der Mut und die Lust an Überzeichnung und Unterhaltung. Warmes, geistvolles Kino aus Deutschland ist \"Frau Stern\", zutiefst einfühlsam und absolut bereichernd. (Quelle: Verleih)",
     "trailer": "https://www.youtube.com/watch?v=OLsCKMbeLqc",
-    "available": 14,
-    "reserved": 22,
+    "available": 10,
+    "reserved": 24,
     "bookable": true
   },
   "central-2385436965": {
