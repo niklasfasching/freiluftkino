@@ -68,8 +68,8 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626126300000,
       "time": "21:45",
-      "available": 690,
-      "reserved": 56,
+      "available": 687,
+      "reserved": 57,
       "bookable": true
     },
     {
@@ -139,7 +139,7 @@
       "date": "Mo., 28.6.",
       "timestamp": 1624916700000,
       "time": "21:45",
-      "available": 848,
+      "available": 846,
       "reserved": 32,
       "bookable": true
     },
@@ -243,7 +243,7 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 377,
+      "available": 375,
       "reserved": 137,
       "bookable": true
     },
@@ -297,8 +297,8 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 835,
-      "reserved": 49,
+      "available": 832,
+      "reserved": 50,
       "bookable": true
     },
     {
@@ -332,7 +332,7 @@
       "date": "So., 11.7.",
       "timestamp": 1626039900000,
       "time": "21:45",
-      "available": 1000,
+      "available": 998,
       "reserved": 8,
       "bookable": true
     },
@@ -454,7 +454,7 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 523,
+      "available": 519,
       "reserved": 89,
       "bookable": true
     }
@@ -474,7 +474,7 @@
       "date": "Di., 6.7.,",
       "timestamp": 1625607900000,
       "time": "21:45",
-      "available": 296,
+      "available": 294,
       "reserved": 41,
       "bookable": true
     },
@@ -492,7 +492,7 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
       "time": "21:30",
-      "available": 215,
+      "available": 213,
       "reserved": 40,
       "bookable": true
     },
@@ -528,8 +528,8 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625262300000,
       "time": "21:45",
-      "available": 302,
-      "reserved": 35,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -546,7 +546,7 @@
       "date": "So., 27.6.",
       "timestamp": 1624830300000,
       "time": "21:45",
-      "available": 102,
+      "available": 100,
       "reserved": 55,
       "bookable": true
     },
@@ -582,8 +582,8 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625866200000,
       "time": "21:30",
-      "available": 399,
-      "reserved": 14,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -600,7 +600,7 @@
       "date": "Di., 13.7.",
       "timestamp": 1626211800000,
       "time": "21:30",
-      "available": 527,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -636,8 +636,8 @@
       "date": "Do., 1.7.,",
       "timestamp": 1625175900000,
       "time": "21:45",
-      "available": 446,
-      "reserved": 17,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -653,8 +653,8 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626125400000,
       "time": "21:30",
-      "available": 518,
-      "reserved": 5,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -671,8 +671,8 @@
       "date": "Do., 8.7.,",
       "timestamp": 1625779800000,
       "time": "21:30",
-      "available": 465,
-      "reserved": 14,
+      "available": 463,
+      "reserved": 16,
       "bookable": true
     },
     {
@@ -723,8 +723,8 @@
       "date": "Mi., 7.7.,",
       "timestamp": 1625694300000,
       "time": "21:45",
-      "available": 501,
-      "reserved": 4,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -776,8 +776,8 @@
       "date": "Mo., 28.6.",
       "timestamp": 1624916700000,
       "time": "21:45",
-      "available": 234,
-      "reserved": 37,
+      "available": 231,
+      "reserved": 38,
       "bookable": true
     },
     {
@@ -794,7 +794,7 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 473,
+      "available": 471,
       "reserved": 14,
       "bookable": true
     }
@@ -955,7 +955,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625262300000,
       "time": "21:45",
-      "available": 271,
+      "available": 269,
       "reserved": 13,
       "bookable": true
     },
@@ -1044,7 +1044,7 @@
       "date": "Mo., 28.6.",
       "timestamp": 1624916700000,
       "time": "21:45",
-      "available": 223,
+      "available": 217,
       "reserved": 13,
       "bookable": true
     },
@@ -1411,8 +1411,8 @@
       "timestamp": 1625702400000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689520?layout=shows",
-      "available": 334,
-      "reserved": 88,
+      "available": 326,
+      "reserved": 90,
       "bookable": true
     },
     {
@@ -1775,7 +1775,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2386573093?layout=shows",
       "img": "https://media.kinoheld.de/DccjGbyTiVyAm2yl35grNJBYCmE=/200x280/images%2Ffilm%2Fdemon-slayer-kimetsu-no-yaiba-mugen-train-18801.v15.jpg",
       "description": "Der Kinofilm zur gleichnamigen Anime-Serie ist der erfolgreichste Anime aller Zeiten, mit aktuellem Stand führt er mit großem Abstand vor den bisherigen Spitzenreitern CHIHIROS REISE INS ZAUBERLAND (2001) von Hayao Miyazaki und YOUR NAME (2016) von Makoto Shinkai. Eine Sensation, wenn man bedenkt, dass gerade einmal ein Jahr seit dem Start in Japan vergangen ist und der Film einfach die direkte Fortsetzung der Serie, also eher eine überlange Episode ist. Doch anbetracht der Tatsache, dass die Serie zu den besten im japanischen Anime-Universum gehört und die Hauptfiguren überhaus sympathisch sind, dürfen sich alle Anime-Fans auf ein schönes Kinoabenteuer freuen. Es kann nicht schaden, zuvor schnell die Serie zu schauen. Oder hinterher.",
-      "trailer": "https://www.youtube.com/watch?v=ATJYac_dORw",
+      "trailer": "https://youtu.be/bBaKrECITsg",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -1883,7 +1883,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2388621683?layout=shows",
       "img": "https://media.kinoheld.de/DccjGbyTiVyAm2yl35grNJBYCmE=/200x280/images%2Ffilm%2Fdemon-slayer-kimetsu-no-yaiba-mugen-train-18801.v15.jpg",
       "description": "Der Kinofilm zur gleichnamigen Anime-Serie ist der erfolgreichste Anime aller Zeiten, mit aktuellem Stand führt er mit großem Abstand vor den bisherigen Spitzenreitern CHIHIROS REISE INS ZAUBERLAND (2001) von Hayao Miyazaki und YOUR NAME (2016) von Makoto Shinkai. Eine Sensation, wenn man bedenkt, dass gerade einmal ein Jahr seit dem Start in Japan vergangen ist und der Film einfach die direkte Fortsetzung der Serie, also eher eine überlange Episode ist. Doch anbetracht der Tatsache, dass die Serie zu den besten im japanischen Anime-Universum gehört und die Hauptfiguren überhaus sympathisch sind, dürfen sich alle Anime-Fans auf ein schönes Kinoabenteuer freuen. Es kann nicht schaden, zuvor schnell die Serie zu schauen. Oder hinterher.",
-      "trailer": "https://www.youtube.com/watch?v=ATJYac_dORw",
+      "trailer": "https://youtu.be/bBaKrECITsg",
       "available": -1,
       "reserved": 0,
       "bookable": true
