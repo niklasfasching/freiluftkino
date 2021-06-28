@@ -67,7 +67,7 @@
     "date": "Mo., 12.7.",
     "timestamp": 1626126300000,
     "time": "21:45",
-    "available": 631,
+    "available": 627,
     "reserved": 65,
     "bookable": true
   },
@@ -120,7 +120,7 @@
     "date": "Fr., 9.7.,",
     "timestamp": 1625867100000,
     "time": "21:45",
-    "available": 943,
+    "available": 941,
     "reserved": 5,
     "bookable": true
   },
@@ -138,8 +138,8 @@
     "date": "Mo., 28.6.",
     "timestamp": 1624916700000,
     "time": "21:45",
-    "available": 705,
-    "reserved": 65,
+    "available": 696,
+    "reserved": 66,
     "bookable": true
   },
   "fhain-670": {
@@ -207,7 +207,7 @@
     "date": "Fr., 2.7.,",
     "timestamp": 1625247000000,
     "time": "17:30",
-    "available": 389,
+    "available": 385,
     "reserved": 109,
     "bookable": true
   },
@@ -242,7 +242,7 @@
     "date": "Mi., 30.6.",
     "timestamp": 1625089500000,
     "time": "21:45",
-    "available": 272,
+    "available": 266,
     "reserved": 146,
     "bookable": true
   },
@@ -296,7 +296,7 @@
     "date": "Sa., 3.7.,",
     "timestamp": 1625348700000,
     "time": "21:45",
-    "available": 801,
+    "available": 799,
     "reserved": 55,
     "bookable": true
   },
@@ -314,7 +314,7 @@
     "date": "Fr., 2.7.,",
     "timestamp": 1625262300000,
     "time": "21:45",
-    "available": 926,
+    "available": 924,
     "reserved": 20,
     "bookable": true
   },
@@ -435,8 +435,8 @@
     "date": "Mo., 5.7.,",
     "timestamp": 1625521500000,
     "time": "21:45",
-    "available": 1013,
-    "reserved": 9,
+    "available": 0,
+    "reserved": 0,
     "bookable": true
   },
   "xberg-619": {
@@ -453,7 +453,7 @@
     "date": "Di., 6.7.,",
     "timestamp": 1625607900000,
     "time": "21:45",
-    "available": 282,
+    "available": 280,
     "reserved": 41,
     "bookable": true
   },
@@ -597,7 +597,7 @@
     "date": "Do., 1.7.,",
     "timestamp": 1625175900000,
     "time": "21:45",
-    "available": 414,
+    "available": 410,
     "reserved": 23,
     "bookable": true
   },
@@ -737,7 +737,7 @@
     "date": "Mo., 28.6.",
     "timestamp": 1624916700000,
     "time": "21:45",
-    "available": 64,
+    "available": 61,
     "reserved": 55,
     "bookable": true
   },
@@ -755,7 +755,7 @@
     "date": "Di., 29.6.",
     "timestamp": 1625003100000,
     "time": "21:45",
-    "available": 446,
+    "available": 448,
     "reserved": 19,
     "bookable": true
   },
@@ -860,8 +860,8 @@
     "date": "Do., 1.7.,",
     "timestamp": 1625175900000,
     "time": "21:45",
-    "available": 306,
-    "reserved": 16,
+    "available": 303,
+    "reserved": 19,
     "bookable": true
   },
   "rehberge-614": {
@@ -985,7 +985,7 @@
     "date": "Mo., 28.6.",
     "timestamp": 1624916700000,
     "time": "21:45",
-    "available": 98,
+    "available": 96,
     "reserved": 34,
     "bookable": true
   },
@@ -1091,7 +1091,7 @@
     "date": "Mo., 12.7.",
     "timestamp": 1626125400000,
     "time": "21:30",
-    "available": 380,
+    "available": 378,
     "reserved": 0,
     "bookable": true
   },
@@ -1161,8 +1161,8 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689573?layout=shows",
     "img": "https://media.kinoheld.de/z0UBTqg1mvoMu-Woak1KAXv2IY0=/200x280/images%2Ffilm%2Fvor-mir-der-sueden-17826.v3.jpg",
     "description": "Im September/ Oktober 2017 reist die Crew um Oscar-Regisseur Pepe Danquart und Kameramann Thomas Schneider sieben Wochen durch Italien, auf den Spuren von Pier Paolo Pasolini, dieses Autors, Dichters, Regisseurs, der schon früh - zärtlich, melancholisch, zornig - vor den Folgen jener Ökonomisierung aller Lebensbereiche warnte, die wir heute erleben. Pier Paolo Pasolini setzte sich im Juni des Jahres 1959 im Auftrag der Zeitschrift \"Successo\" in Ventimiglia an der französischen Grenze in seinen Fiat Millecento und fuhr die etwa dreitausend Küstenkilometer Italiens bis hinauf nach Triest. Seine Texte und Bilder über diese Reise sind heute ein eigenwilliges Dokument dieser Zeit zwischen dem Ende der Traditionen und der aufziehenden Globalisierung. Pepe Danquarts Dokumentarfilm fängt entlang der Route die Bilder und Stimmungen fünfzig Jahre später ein, in einer anderen Wirklichkeit …\"",
-    "available": 361,
-    "reserved": 80,
+    "available": 359,
+    "reserved": 81,
     "bookable": true
   },
   "hasenheide-689574": {
@@ -1212,8 +1212,8 @@
     "img": "https://media.kinoheld.de/4HRxvKqpeQKrYBgLMPJX0xRdOdQ=/200x280/images%2Ffilm%2Ftenet-16731.v2.png",
     "description": "Ein Agent wird rekrutiert, um einen besonderen Auftrag auszuführen: Er soll den 3. Weltkrieg verhindern. Diesmal ist jedoch keine nukleare Bedrohung der Grund, sondern es muss eine Person gestoppt werden, welche die Fähigkeit besitzt, die Zeit zu manipulieren.",
     "trailer": "https://www.youtube.com/watch?v=jfEQ0BdeQJQ",
-    "available": 381,
-    "reserved": 76,
+    "available": 378,
+    "reserved": 79,
     "bookable": true
   },
   "hasenheide-689588": {
@@ -1349,8 +1349,8 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689594?layout=shows",
     "img": "https://media.kinoheld.de/eIzHNVH3PlVcdirasujSwEZR3_c=/200x280/images%2Ffilm%2Fsommer-85-19153.v5.jpg",
     "description": "\"Ein originell verpackter Liebesfilm mit leinwandpräsenten Helden, ebenso hübschen Bildern sowie nostalgisch korrekter Ausstattung. Ein echter Ozon!\" Programmkino.de",
-    "available": 543,
-    "reserved": 31,
+    "available": 531,
+    "reserved": 33,
     "bookable": true
   },
   "hasenheide-689595": {
@@ -1544,6 +1544,9 @@
     "timestamp": 1625356800000,
     "time": "21:45",
     "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2392528846?layout=shows",
+    "img": "https://media.kinoheld.de/eqnKPQwxltauY7STy_08Ijlr4yA=/200x280/images%2Ffilm%2Fmo%2F3013-37555.v2.jpg",
+    "description": "Los Reyes (deutsch: “Die Könige“) ist der älteste Skatepark in der chilenischen Hauptstadt Santiago. Der Film handelt aber nicht in erster Linie von den Skatern, sondern von den wahren Königen dieses Mikrokosmos: Futbol und Chola, zwei unzertrennbaren streunenden Hunden, die zwischen rasenden Skateboards und lärmenden Teenagern im Park ihr Zuhause gefunden haben.\r\n\r\n\r\nDie jüngere und lebhaftere Chola liebt es, mit den Bällen zu spielen, die überall herumliegen. Ihr Lieblingsspiel ist es, einen Ball auf den Rand des Parkours, wo die Skater ihre Tricks zeigen, zu legen und zu versuchen, ihn aufzufangen, kurz bevor er herunterfällt. Futbol, der ältere von den beiden, schaut ihr dabei oft ungeduldig zu. Er wiederum trägt ständig irgendetwas im Maul herum und findet großen Spaß daran, Dinge durch die Gegend zu schleppen und anzunagen.\r\n\r\nDie Teenager um sie herum kommen aus sehr unterschiedlichen, manchmal schwierigen Verhältnissen. Sie haben alle ihre eigenen Geschichten und Probleme, die man im Hintergrund in ihren Gesprächen mitverfolgt, während die Kamera die subtile Interaktion zwischen den beiden Hunden einfängt, wie sie schlummern, einem Ball nachjagen oder einfach nur herumschnüffeln.",
+    "trailer": "https://youtu.be/XieuhArZ_uU",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -1559,6 +1562,9 @@
     "timestamp": 1625529600000,
     "time": "20:45",
     "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2392528855?layout=shows",
+    "img": "https://media.kinoheld.de/HPUqF3s-7rZDD5KuaX_aP195Cys=/200x280/images%2Ffilm%2Fmo%2F3013-37557.v2.jpg",
+    "description": "Eine Gruppe junger Leute in einer ostdeutschen Kleinstadt der 1980er-Jahre. Die Umgebung wirkt trostlos, die Häuser sind grau in grau. Die Jugendlichen warten darauf, dass etwas passiert. Sie spielen Streiche und entdecken erste Gefühle füreinander. Im Mittelpunkt steht der treuherzige Dekorationslehrling Tom (gespielt von Hendrik Duryn), der Hals über Kopf in die neu zugezogene Corinna (Susanne Hoss) verliebt ist und ihr versucht zu imponieren. Als er von Floh (Antje Straßburger), der Freundin seit Kindertagen hört, dass Corinna Schauspielerin werden will, ist dies plötzlich auch sein Lebenswunsch. Gemeinsam mit ihr probt er für die Schauspielaufnahmeprüfung. Die melancholische Szenerie wird immer wieder durch Komisches gebrochen, etwa wenn Tom sich von seinem Rivalen Major (Ahmad Mesgarha) das ABC der Verführung in einem abgewrackten Auto erklären lässt. Die Selbstfindungsprozesse der jungen Helden erhalten so einen unterhaltsamen Charme.",
+    "trailer": "https://youtu.be/G8S3DCUoco0",
     "available": -1,
     "reserved": 0,
     "bookable": true
