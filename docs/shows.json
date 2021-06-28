@@ -67,8 +67,8 @@
     "date": "Mo., 12.7.",
     "timestamp": 1626126300000,
     "time": "21:45",
-    "available": 667,
-    "reserved": 57,
+    "available": 666,
+    "reserved": 58,
     "bookable": true
   },
   "fhain-687": {
@@ -242,8 +242,8 @@
     "date": "Mi., 30.6.",
     "timestamp": 1625089500000,
     "time": "21:45",
-    "available": 339,
-    "reserved": 141,
+    "available": 336,
+    "reserved": 142,
     "bookable": true
   },
   "fhain-682": {
@@ -260,8 +260,8 @@
     "date": "Do., 1.7.,",
     "timestamp": 1625175900000,
     "time": "21:45",
-    "available": 956,
-    "reserved": 16,
+    "available": 953,
+    "reserved": 17,
     "bookable": true
   },
   "fhain-692": {
@@ -296,7 +296,7 @@
     "date": "Sa., 3.7.,",
     "timestamp": 1625348700000,
     "time": "21:45",
-    "available": 826,
+    "available": 824,
     "reserved": 50,
     "bookable": true
   },
@@ -349,8 +349,8 @@
     "date": "Di., 29.6.",
     "timestamp": 1625003100000,
     "time": "21:45",
-    "available": 929,
-    "reserved": 25,
+    "available": 0,
+    "reserved": 0,
     "bookable": true
   },
   "fhain-672": {
@@ -366,8 +366,8 @@
     "date": "Sa., 10.7.",
     "timestamp": 1625953500000,
     "time": "21:45",
-    "available": 1039,
-    "reserved": 7,
+    "available": 0,
+    "reserved": 0,
     "bookable": true
   },
   "fhain-695": {
@@ -384,8 +384,8 @@
     "date": "Fr., 16.7.",
     "timestamp": 1626471000000,
     "time": "21:30",
-    "available": 1024,
-    "reserved": 8,
+    "available": 0,
+    "reserved": 0,
     "bookable": true
   },
   "fhain-667": {
@@ -401,8 +401,8 @@
     "date": "Sa., 14.8.",
     "timestamp": 1628960400000,
     "time": "17:00",
-    "available": 741,
-    "reserved": 14,
+    "available": 0,
+    "reserved": 0,
     "bookable": true
   },
   "fhain-697": {
@@ -417,7 +417,7 @@
     "date": "Di., 27.7.",
     "timestamp": 1627419600000,
     "time": "21:00",
-    "available": 1058,
+    "available": 0,
     "reserved": 0,
     "bookable": true
   },
@@ -435,8 +435,8 @@
     "date": "Mo., 5.7.,",
     "timestamp": 1625521500000,
     "time": "21:45",
-    "available": 1021,
-    "reserved": 9,
+    "available": 0,
+    "reserved": 0,
     "bookable": true
   },
   "xberg-619": {
@@ -453,7 +453,7 @@
     "date": "Di., 6.7.,",
     "timestamp": 1625607900000,
     "time": "21:45",
-    "available": 288,
+    "available": 286,
     "reserved": 41,
     "bookable": true
   },
@@ -507,7 +507,7 @@
     "date": "Fr., 2.7.,",
     "timestamp": 1625262300000,
     "time": "21:45",
-    "available": 288,
+    "available": 286,
     "reserved": 35,
     "bookable": true
   },
@@ -525,7 +525,7 @@
     "date": "So., 11.7.",
     "timestamp": 1626039000000,
     "time": "21:30",
-    "available": 499,
+    "available": 497,
     "reserved": 2,
     "bookable": true
   },
@@ -737,8 +737,8 @@
     "date": "Mo., 28.6.",
     "timestamp": 1624916700000,
     "time": "21:45",
-    "available": 161,
-    "reserved": 48,
+    "available": 156,
+    "reserved": 49,
     "bookable": true
   },
   "xberg-612": {
@@ -790,8 +790,8 @@
     "date": "Fr., 16.7.",
     "timestamp": 1626438600000,
     "time": "12:30",
-    "available": 326,
-    "reserved": 8,
+    "available": 325,
+    "reserved": 9,
     "bookable": true
   },
   "rehberge-591": {
@@ -896,7 +896,7 @@
     "date": "Sa., 3.7.,",
     "timestamp": 1625348700000,
     "time": "21:45",
-    "available": 203,
+    "available": 205,
     "reserved": 17,
     "bookable": true
   },
@@ -914,8 +914,8 @@
     "date": "Fr., 2.7.,",
     "timestamp": 1625262300000,
     "time": "21:45",
-    "available": 268,
-    "reserved": 14,
+    "available": 263,
+    "reserved": 15,
     "bookable": true
   },
   "rehberge-620": {
@@ -932,7 +932,7 @@
     "date": "Di., 29.6.",
     "timestamp": 1625003100000,
     "time": "21:45",
-    "available": 303,
+    "available": 305,
     "reserved": 19,
     "bookable": true
   },
@@ -968,7 +968,7 @@
     "date": "Mi., 14.7.",
     "timestamp": 1626298200000,
     "time": "21:30",
-    "available": 350,
+    "available": 346,
     "reserved": 2,
     "bookable": true
   },
@@ -985,8 +985,8 @@
     "date": "Mo., 28.6.",
     "timestamp": 1624916700000,
     "time": "21:45",
-    "available": 142,
-    "reserved": 26,
+    "available": 143,
+    "reserved": 25,
     "bookable": true
   },
   "rehberge-585": {
@@ -1002,7 +1002,7 @@
     "date": "Fr., 20.8.",
     "timestamp": 1629489600000,
     "time": "20:00",
-    "available": 312,
+    "available": 308,
     "reserved": 11,
     "bookable": true
   },
@@ -1038,7 +1038,7 @@
     "date": "Do., 8.7.,",
     "timestamp": 1625779800000,
     "time": "21:30",
-    "available": 367,
+    "available": 365,
     "reserved": 1,
     "bookable": true
   },
@@ -1332,8 +1332,8 @@
     "timestamp": 1625702400000,
     "time": "21:45",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689520?layout=shows",
-    "available": 291,
-    "reserved": 98,
+    "available": 282,
+    "reserved": 100,
     "bookable": true
   },
   "hasenheide-689594": {
@@ -1403,8 +1403,8 @@
     "img": "https://media.kinoheld.de/VwbS9hbnTEWiyF2X37p6XQJyFAg=/200x280/images%2Ffilm%2Fder-rausch-18282.v12.jpg",
     "description": "Früher war Martin Lehrer aus Leidenschaft – heute sind nicht nur die Schüler von seinem fehlenden Enthusiasmus gelangweilt, auch in Martins Ehe ist die Luft raus. Seinen drei Freunden, die am selben Gymnasium unterrichten, geht es nicht viel besser. Bei einer angeheiterten Geburtstagsrunde diskutieren sie die Theorie eines norwegischen Philosophen: Nach dieser ist ein Mensch nur mit einem erhöhten Alkoholgehalt im Blut zu Bestleistungen fähig. Solch eine gewagte These muss überprüft werden. Die vier beschließen den Selbsttest zu machen und während der Arbeit einen bestimmten Pegel zu halten. Soll nicht sogar Churchill den Zweiten Weltkrieg in einem Alkoholrausch gewonnen haben? Mit neuem Antrieb stürzen sie sich in ihre geheime wissenschaftliche Studie. Die Wirkung lässt nicht lange auf sich warten …",
     "trailer": "https://www.youtube.com/watch?v=oJwlO6vcsm0",
-    "available": 231,
-    "reserved": 119,
+    "available": 224,
+    "reserved": 121,
     "bookable": true
   },
   "hasenheide-689598": {
