@@ -224,7 +224,7 @@
     "date": "Mi., 30.6.",
     "timestamp": 1625089500000,
     "time": "21:45",
-    "available": 258,
+    "available": 256,
     "reserved": 146,
     "bookable": true
   },
@@ -278,8 +278,8 @@
     "date": "Sa., 3.7.,",
     "timestamp": 1625348700000,
     "time": "21:45",
-    "available": 799,
-    "reserved": 55,
+    "available": 798,
+    "reserved": 56,
     "bookable": true
   },
   "fhain-683": {
@@ -296,8 +296,8 @@
     "date": "Fr., 2.7.,",
     "timestamp": 1625262300000,
     "time": "21:45",
-    "available": 920,
-    "reserved": 20,
+    "available": 919,
+    "reserved": 21,
     "bookable": true
   },
   "fhain-690": {
@@ -471,8 +471,8 @@
     "date": "So., 4.7.,",
     "timestamp": 1625435100000,
     "time": "21:45",
-    "available": 0,
-    "reserved": 0,
+    "available": 461,
+    "reserved": 18,
     "bookable": true
   },
   "xberg-615": {
@@ -489,8 +489,8 @@
     "date": "Fr., 2.7.,",
     "timestamp": 1625262300000,
     "time": "21:45",
-    "available": 252,
-    "reserved": 37,
+    "available": 249,
+    "reserved": 40,
     "bookable": true
   },
   "xberg-624": {
@@ -525,8 +525,8 @@
     "date": "Fr., 9.7.,",
     "timestamp": 1625866200000,
     "time": "21:30",
-    "available": 0,
-    "reserved": 0,
+    "available": 373,
+    "reserved": 20,
     "bookable": true
   },
   "xberg-626": {
@@ -561,8 +561,8 @@
     "date": "Sa., 3.7.,",
     "timestamp": 1625348700000,
     "time": "21:45",
-    "available": 0,
-    "reserved": 0,
+    "available": 448,
+    "reserved": 21,
     "bookable": true
   },
   "xberg-614": {
@@ -614,7 +614,7 @@
     "date": "Do., 8.7.,",
     "timestamp": 1625779800000,
     "time": "21:30",
-    "available": 457,
+    "available": 455,
     "reserved": 16,
     "bookable": true
   },
@@ -719,8 +719,8 @@
     "date": "Di., 29.6.",
     "timestamp": 1625003100000,
     "time": "21:45",
-    "available": 440,
-    "reserved": 19,
+    "available": 439,
+    "reserved": 20,
     "bookable": true
   },
   "rehberge-609": {
@@ -1078,23 +1078,6 @@
     "reserved": 4,
     "bookable": true
   },
-  "hasenheide-689572": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-689572",
-    "title": "Gefangen im Netz ",
-    "date": "Mo., 28.6.",
-    "timestamp": 1624838400000,
-    "time": "21:45",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689572?layout=shows",
-    "img": "https://media.kinoheld.de/WG6DXuYMzdjGMJxxh_h9uM0q_gc=/200x280/images%2Ffilm%2Fgefangen-im-netz-17749.v5.jpg",
-    "description": "Silvester 2049. Die Welt ist von Krieg und Zerstörung geprägt. In dieser Zeit entwickelt sich die Welt-Sicherheits-Organisation, die unabhängig von Regierungen agiert und die Welt, insbesondere das allesbestimmende Internet, überwacht und somit das Leben der Menschen bestimmt. Sobald das Jahr 2050 beginnt möchte die WSO einen neuen Mega-Server in Betrieb nehmen, der einerseits der Weltbevölkerung ganz neue Möglichkeiten, andererseits aber auch der WSO Macht über jeden und Alles verleihen würde. Auf dem gigantischen Gelände des Servers lebt zusätzlich auch eine Gruppe von Jugendlichen, die auf spätere Führungspositionen der WSO vorbereitet wird. Kurz vor Beginn des Jahres 2050 wird der Gebäudekomplex von Rebellen gestürmt und besetzt. Der Anführer richtet sich in einer Fernsehansprache an die Bevölkerung  und offenbart die wahren Konsequenzen der Inbetriebnahme des neuen Servers. Nun stellt sich für die Jugendlichen die Frage auf wessen Seite sie sich stellen sollen. Doch wem können sie noch vertrauen?",
-    "available": 0,
-    "reserved": 0,
-    "bookable": false
-  },
   "hasenheide-689573": {
     "cinemaId": "580",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
@@ -1195,7 +1178,7 @@
     "img": "https://media.kinoheld.de/u3wDB1Wdcq7CxgpNhKO8OjB9dS4=/200x280/images%2Ffilm%2Fminari-18286.v2.png",
     "description": "Jacob beschließt, mit seiner koreanisch-amerikanischen Familie von Los Angeles nach Arkansas zu ziehen, um als Farmer sein Glück zu versuchen. Seine Frau Monica und die Kinder David und Anne fühlen sich jedoch fremd in der neuen Heimat, und das fragile Familienleben wird zusätzlich auf die Probe gestellt, als die schlagfertige und liebevolle Großmutter Soonja von Südkorea zu ihnen auf die Farm zieht.",
     "trailer": "https://www.youtube.com/watch?v=TlOqMFPS00g",
-    "available": 142,
+    "available": 137,
     "reserved": 157,
     "bookable": true
   },
@@ -1618,7 +1601,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2392542630?layout=shows",
     "img": "https://media.kinoheld.de/msa-HVJPdED_BlJeNEG_6i7Lrsg=/200x280/images%2Ffilm%2Fmo%2F3013-36027.v2.jpg",
     "description": "Ein Sex-Tape gelangt ins Internet und geht dort viral. Es zeigt eine Frau und einen Mann, die beide Masken tragen, beim Geschlechtsakt. Doch die Frau in dem Video lässt sich als Emi (Katia Pascariu) identifizieren - eine Lehrerin.\r\n\r\nEmis Ruf und Karriere geraten in Bedrängnis, als die Eltern ihrer Schüler ihren augenblicklichen Rücktritt fordern. Doch die Lehrerin weigert sich, dem öffentlichen Druck nachzugeben, nur weil die anderen ihre Vorbild-Funktion anzweifeln.\r\n\r\nVorurteile, Heuchelei und Chauvinismus prallen in Folge dessen aufeinander, als immer mehr Verschwörungstheorien die Runde machen und ein Streit über den gesellschaftlichen Umgang mit pornografischen Inhalten entbrennt.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://youtu.be/8AEgcTSMSOY",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -1758,24 +1741,6 @@
     "available": -1,
     "reserved": 0,
     "bookable": true
-  },
-  "central-2385436888": {
-    "cinemaId": "1839",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
-    "cinemaName": "central-kino-open-air",
-    "cinemaShortName": "central",
-    "id": "central-2385436888",
-    "title": "open air: Frau Stern (Deutsch with English subs) (subtitled OV English)",
-    "date": "Mo., 28.6.",
-    "timestamp": 1624838400000,
-    "time": "21:45",
-    "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385436888?layout=shows",
-    "img": "https://media.kinoheld.de/QSspiYKAFiYDk_tywE9MXpUmb1Y=/200x280/images%2Ffilm%2Ffrau-stern-13721.v57.jpg",
-    "description": "Frau Stern hat viel gesehen in ihrem Leben. Vieles gelebt und überlebt. Viele Männer hat sie geliebt, ein Restaurant geführt und vor allem: viel geraucht. Frau Stern ist 90 Jahre alt, Jüdin und hat die Nazis überlebt. Liebe, das hat sie gelernt, ist eine Entscheidung. Der Tod genauso. Und so entscheidet Frau Stern, dass es nun an der Zeit ist, aus der Welt zu gehen. Doch der Arzt mag ihr keine Hilfe sein, aus der Badewanne rettet sie ein Räuberpärchen und von den Schienen hilft ihr ein Spaziergänger wieder hoch. Der Einfachheit halber würde die resolute Dame gern an eine Waffe kommen. Enkelin Elli, das \"Schätzchen\", könnte wohl am besten helfen, denn sie kennt den coolsten Dealer in Berlin-Neukölln. Doch Elli bringt Frau Stern den Tod nicht näher. Im Gegenteil. Die Liebe zwischen Großmutter und Enkeltochter ist so innig, dass Frau Stern irgendwie in den Freundeskreis der jungen Frau gerät, ganz selbstverständlich bei Karaoke-Abenden und Theater-Performances mitfeiert und das so natürlich und respektvoll, wie es nur sein kann. Doch bei aller Lebensfreude, die das Berlin-Neukölln der Gegenwart auch versprühen mag - mit ihrer Entscheidung ist Frau Stern letztlich allein. Gleichzeitig mit großem Respekt, viel Wahrhaftigkeit und doch auch mit viel Humor von der letzten Entscheidung eines Menschen zu erzählen, ist nichts weniger als eine hohe Kunst. Anatol Schuster gelingt sie. Jeder Einstellung in \"Frau Stern\" ist die Liebe für seine Protagonistin, grandios gespielt von Ahuva Sommerfeld, eingeschrieben, und auch der Mut und die Lust an Überzeichnung und Unterhaltung. Warmes, geistvolles Kino aus Deutschland ist \"Frau Stern\", zutiefst einfühlsam und absolut bereichernd. (Quelle: Verleih)",
-    "trailer": "https://www.youtube.com/watch?v=OLsCKMbeLqc",
-    "available": 0,
-    "reserved": 0,
-    "bookable": false
   },
   "central-2385436965": {
     "cinemaId": "1839",
@@ -1934,24 +1899,6 @@
     "available": 70,
     "reserved": 0,
     "bookable": true
-  },
-  "pompeji ostkreuz-2384593027": {
-    "cinemaId": "2153",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-    "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-    "cinemaShortName": "pompeji ostkreuz",
-    "id": "pompeji ostkreuz-2384593027",
-    "title": "DAS GEHEIME LEBEN DER BÄUME ",
-    "date": "Mo., 28.6.",
-    "timestamp": 1624838400000,
-    "time": "21:45",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2384593027?layout=shows",
-    "img": "https://media.kinoheld.de/3bhGv3mPyWIhUQ8VWql3a_nm4NE=/200x280/images%2Ffilm%2Fdas-geheime-leben-der-baeume-15561.v252.jpg",
-    "description": "Als Peter Wohlleben 2015 sein Buch \"Das geheime Leben der Bäume\" veröffentlicht, stürmt er damit über Nacht alle Bestsellerlisten: Wie der Förster aus der Gemeinde Wershofen hat noch niemand über den deutschen Wald geschrieben. Auf unterhaltsame und erhellende Weise erzählt Wohlleben von der Solidarität und dem Zusammenhalt der Bäume und trifft damit bei seiner stetig wachsenden Lesergemeinde einen Nerv: In Waldführungen und Lesungen bringt er den Menschen diese außergewöhnlichen Lebewesen näher. Wohlleben reist nach Schweden zum ältesten Baum der Erde, er besucht Betriebe in Vancouver, die einen neuen Ansatz im Umgang mit dem Wald suchen, er schlägt sich auf die Seite der Demonstranten im Hambacher Forst. Weil er weiß, dass wir Menschen nur dann überleben werden, wenn es auch dem Wald gut geht - und es bereits Fünf vor Zwölf ist... (Quelle: Verleih)",
-    "trailer": "https://www.youtube.com/watch?v=HlXmw3Lxy-E",
-    "available": 0,
-    "reserved": 0,
-    "bookable": false
   },
   "pompeji ostkreuz-2384593055": {
     "cinemaId": "2153",
