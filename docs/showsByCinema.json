@@ -14,7 +14,7 @@
       "date": "Di., 6.7.,",
       "timestamp": 1625607900000,
       "time": "21:45",
-      "available": 894,
+      "available": 892,
       "reserved": 36,
       "bookable": true
     },
@@ -50,7 +50,7 @@
       "date": "Mi., 14.7.",
       "timestamp": 1626299100000,
       "time": "21:45",
-      "available": 1037,
+      "available": 1035,
       "reserved": 3,
       "bookable": true
     },
@@ -121,8 +121,8 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625867100000,
       "time": "21:45",
-      "available": 950,
-      "reserved": 4,
+      "available": 945,
+      "reserved": 5,
       "bookable": true
     },
     {
@@ -139,8 +139,8 @@
       "date": "Mo., 28.6.",
       "timestamp": 1624916700000,
       "time": "21:45",
-      "available": 716,
-      "reserved": 64,
+      "available": 713,
+      "reserved": 63,
       "bookable": true
     },
     {
@@ -208,8 +208,8 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625247000000,
       "time": "17:30",
-      "available": 393,
-      "reserved": 105,
+      "available": 389,
+      "reserved": 109,
       "bookable": true
     },
     {
@@ -243,8 +243,8 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 297,
-      "reserved": 145,
+      "available": 288,
+      "reserved": 146,
       "bookable": true
     },
     {
@@ -261,7 +261,7 @@
       "date": "Do., 1.7.,",
       "timestamp": 1625175900000,
       "time": "21:45",
-      "available": 942,
+      "available": 940,
       "reserved": 20,
       "bookable": true
     },
@@ -297,7 +297,7 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 805,
+      "available": 803,
       "reserved": 55,
       "bookable": true
     },
@@ -332,7 +332,7 @@
       "date": "So., 11.7.",
       "timestamp": 1626039900000,
       "time": "21:45",
-      "available": 992,
+      "available": 988,
       "reserved": 8,
       "bookable": true
     },
@@ -350,7 +350,7 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 923,
+      "available": 921,
       "reserved": 25,
       "bookable": true
     },
@@ -402,7 +402,7 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628960400000,
       "time": "17:00",
-      "available": 886,
+      "available": 884,
       "reserved": 14,
       "bookable": true
     },
@@ -510,8 +510,8 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625262300000,
       "time": "21:45",
-      "available": 265,
-      "reserved": 36,
+      "available": 264,
+      "reserved": 37,
       "bookable": true
     },
     {
@@ -546,8 +546,8 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625866200000,
       "time": "21:30",
-      "available": 389,
-      "reserved": 16,
+      "available": 383,
+      "reserved": 20,
       "bookable": true
     },
     {
@@ -669,7 +669,7 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 293,
+      "available": 291,
       "reserved": 36,
       "bookable": true
     },
@@ -722,8 +722,8 @@
       "date": "Mo., 5.7.,",
       "timestamp": 1625521500000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 485,
+      "reserved": 6,
       "bookable": true
     },
     {
@@ -740,8 +740,8 @@
       "date": "Mo., 28.6.",
       "timestamp": 1624916700000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
+      "available": 68,
+      "reserved": 55,
       "bookable": true
     },
     {
@@ -758,8 +758,8 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 452,
-      "reserved": 17,
+      "available": 451,
+      "reserved": 18,
       "bookable": true
     }
   ],
@@ -883,7 +883,7 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
       "time": "21:30",
-      "available": 222,
+      "available": 220,
       "reserved": 8,
       "bookable": true
     },
@@ -901,8 +901,8 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 198,
-      "reserved": 18,
+      "available": 195,
+      "reserved": 19,
       "bookable": true
     },
     {
@@ -937,8 +937,8 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 297,
-      "reserved": 19,
+      "available": 290,
+      "reserved": 20,
       "bookable": true
     },
     {
@@ -973,7 +973,7 @@
       "date": "Mi., 14.7.",
       "timestamp": 1626298200000,
       "time": "21:30",
-      "available": 342,
+      "available": 338,
       "reserved": 2,
       "bookable": true
     },
@@ -990,8 +990,8 @@
       "date": "Mo., 28.6.",
       "timestamp": 1624916700000,
       "time": "21:45",
-      "available": 109,
-      "reserved": 31,
+      "available": 104,
+      "reserved": 32,
       "bookable": true
     },
     {
@@ -1007,7 +1007,7 @@
       "date": "Fr., 20.8.",
       "timestamp": 1629489600000,
       "time": "20:00",
-      "available": 296,
+      "available": 292,
       "reserved": 23,
       "bookable": true
     },
@@ -1060,7 +1060,7 @@
       "date": "Mi., 7.7.,",
       "timestamp": 1625694300000,
       "time": "21:45",
-      "available": 353,
+      "available": 351,
       "reserved": 3,
       "bookable": true
     },
@@ -1151,8 +1151,8 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689572?layout=shows",
       "img": "https://media.kinoheld.de/WG6DXuYMzdjGMJxxh_h9uM0q_gc=/200x280/images%2Ffilm%2Fgefangen-im-netz-17749.v5.jpg",
       "description": "Silvester 2049. Die Welt ist von Krieg und Zerstörung geprägt. In dieser Zeit entwickelt sich die Welt-Sicherheits-Organisation, die unabhängig von Regierungen agiert und die Welt, insbesondere das allesbestimmende Internet, überwacht und somit das Leben der Menschen bestimmt. Sobald das Jahr 2050 beginnt möchte die WSO einen neuen Mega-Server in Betrieb nehmen, der einerseits der Weltbevölkerung ganz neue Möglichkeiten, andererseits aber auch der WSO Macht über jeden und Alles verleihen würde. Auf dem gigantischen Gelände des Servers lebt zusätzlich auch eine Gruppe von Jugendlichen, die auf spätere Führungspositionen der WSO vorbereitet wird. Kurz vor Beginn des Jahres 2050 wird der Gebäudekomplex von Rebellen gestürmt und besetzt. Der Anführer richtet sich in einer Fernsehansprache an die Bevölkerung  und offenbart die wahren Konsequenzen der Inbetriebnahme des neuen Servers. Nun stellt sich für die Jugendlichen die Frage auf wessen Seite sie sich stellen sollen. Doch wem können sie noch vertrauen?",
-      "available": 464,
-      "reserved": 47,
+      "available": 459,
+      "reserved": 49,
       "bookable": true
     },
     {
@@ -1186,7 +1186,7 @@
       "img": "https://media.kinoheld.de/dEVC92cLUyzg5K95p7f7i6LBXq4=/200x280/images%2Ffilm%2Frosas-hochzeit-17580.v2.png",
       "description": "Kurz vor ihrem 45. Geburtstag beschließt Rosa, dass es Zeit für einen radikalen Wandel in ihrem Leben ist. Immer hat sie für die anderen gelebt, in ihrem Job als Kostümbildnerin bis zum Umfallen gearbeitet, den Vater zum Arzt begleitet, sich um die Kinder ihres Bruders gekümmert. Knall auf Fall verlässt sie Valencia, um sich im alten Schneiderladen ihrer Mutter in einem kleinen Küstenort den Traum vom eigenen Geschäft zu erfüllen. Aber es ist nicht so leicht, sein Leben in die eigenen Hände zu nehmen. Der Job, ihr Vater, die Geschwister, ihr Freund und ihre Tochter, alle mit ihren eigenen Plänen und Problemen: Das Handy hört gar nicht mehr auf zu klingeln. Rosa beschließt, ein Zeichen zu setzen: Sie will heiraten. Und diese Hochzeit wird eine ganz besondere sein…<br><br>„Rosas Hochzeit“, ist die Geschichte einer Befreiung, eine dramatische Komödie, mit einer umwerfenden Candela Peña in der Titelrolle.",
       "trailer": "https://www.youtube.com/watch?v=IxtxWHMl5sA",
-      "available": 557,
+      "available": 566,
       "reserved": 23,
       "bookable": true
     },
@@ -1255,8 +1255,8 @@
       "img": "https://media.kinoheld.de/u3wDB1Wdcq7CxgpNhKO8OjB9dS4=/200x280/images%2Ffilm%2Fminari-18286.v2.png",
       "description": "Jacob beschließt, mit seiner koreanisch-amerikanischen Familie von Los Angeles nach Arkansas zu ziehen, um als Farmer sein Glück zu versuchen. Seine Frau Monica und die Kinder David und Anne fühlen sich jedoch fremd in der neuen Heimat, und das fragile Familienleben wird zusätzlich auf die Probe gestellt, als die schlagfertige und liebevolle Großmutter Soonja von Südkorea zu ihnen auf die Farm zieht.",
       "trailer": "https://www.youtube.com/watch?v=TlOqMFPS00g",
-      "available": 157,
-      "reserved": 154,
+      "available": 149,
+      "reserved": 156,
       "bookable": true
     },
     {
@@ -1273,8 +1273,8 @@
       "img": "https://media.kinoheld.de/XumU5kU2r_zhNGfY7BDTedClrJI=/200x280/images%2Ffilm%2Fundine-16403.v45.jpg",
       "description": "Im Liebesdrama Undine wird Paula Beer von ihrem Freund verlassen, wodurch ein Fluch ans Licht kommt, der sie dazu zwingt, ihn zu ertränken. Doch dann verliebt die Nixe sich in einen Taucher.",
       "trailer": "https://www.youtube.com/watch?v=_XSzVgjeyfM",
-      "available": 529,
-      "reserved": 33,
+      "available": 515,
+      "reserved": 37,
       "bookable": true
     },
     {
@@ -1288,8 +1288,8 @@
       "timestamp": 1625443200000,
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689591?layout=shows",
-      "available": 206,
-      "reserved": 165,
+      "available": 181,
+      "reserved": 171,
       "bookable": true
     },
     {
@@ -1832,7 +1832,7 @@
       "img": "https://media.kinoheld.de/QSspiYKAFiYDk_tywE9MXpUmb1Y=/200x280/images%2Ffilm%2Ffrau-stern-13721.v57.jpg",
       "description": "Frau Stern hat viel gesehen in ihrem Leben. Vieles gelebt und überlebt. Viele Männer hat sie geliebt, ein Restaurant geführt und vor allem: viel geraucht. Frau Stern ist 90 Jahre alt, Jüdin und hat die Nazis überlebt. Liebe, das hat sie gelernt, ist eine Entscheidung. Der Tod genauso. Und so entscheidet Frau Stern, dass es nun an der Zeit ist, aus der Welt zu gehen. Doch der Arzt mag ihr keine Hilfe sein, aus der Badewanne rettet sie ein Räuberpärchen und von den Schienen hilft ihr ein Spaziergänger wieder hoch. Der Einfachheit halber würde die resolute Dame gern an eine Waffe kommen. Enkelin Elli, das \"Schätzchen\", könnte wohl am besten helfen, denn sie kennt den coolsten Dealer in Berlin-Neukölln. Doch Elli bringt Frau Stern den Tod nicht näher. Im Gegenteil. Die Liebe zwischen Großmutter und Enkeltochter ist so innig, dass Frau Stern irgendwie in den Freundeskreis der jungen Frau gerät, ganz selbstverständlich bei Karaoke-Abenden und Theater-Performances mitfeiert und das so natürlich und respektvoll, wie es nur sein kann. Doch bei aller Lebensfreude, die das Berlin-Neukölln der Gegenwart auch versprühen mag - mit ihrer Entscheidung ist Frau Stern letztlich allein. Gleichzeitig mit großem Respekt, viel Wahrhaftigkeit und doch auch mit viel Humor von der letzten Entscheidung eines Menschen zu erzählen, ist nichts weniger als eine hohe Kunst. Anatol Schuster gelingt sie. Jeder Einstellung in \"Frau Stern\" ist die Liebe für seine Protagonistin, grandios gespielt von Ahuva Sommerfeld, eingeschrieben, und auch der Mut und die Lust an Überzeichnung und Unterhaltung. Warmes, geistvolles Kino aus Deutschland ist \"Frau Stern\", zutiefst einfühlsam und absolut bereichernd. (Quelle: Verleih)",
       "trailer": "https://www.youtube.com/watch?v=OLsCKMbeLqc",
-      "available": 1,
+      "available": 2,
       "reserved": 32,
       "bookable": true
     },
