@@ -67,7 +67,7 @@
     "date": "Mo., 12.7.",
     "timestamp": 1626126300000,
     "time": "21:45",
-    "available": 617,
+    "available": 615,
     "reserved": 71,
     "bookable": true
   },
@@ -224,7 +224,7 @@
     "date": "Mi., 30.6.",
     "timestamp": 1625089500000,
     "time": "21:45",
-    "available": 260,
+    "available": 258,
     "reserved": 146,
     "bookable": true
   },
@@ -296,7 +296,7 @@
     "date": "Fr., 2.7.,",
     "timestamp": 1625262300000,
     "time": "21:45",
-    "available": 924,
+    "available": 920,
     "reserved": 20,
     "bookable": true
   },
@@ -313,7 +313,7 @@
     "date": "So., 11.7.",
     "timestamp": 1626039900000,
     "time": "21:45",
-    "available": 986,
+    "available": 984,
     "reserved": 8,
     "bookable": true
   },
@@ -471,8 +471,8 @@
     "date": "So., 4.7.,",
     "timestamp": 1625435100000,
     "time": "21:45",
-    "available": 461,
-    "reserved": 18,
+    "available": 0,
+    "reserved": 0,
     "bookable": true
   },
   "xberg-615": {
@@ -489,7 +489,7 @@
     "date": "Fr., 2.7.,",
     "timestamp": 1625262300000,
     "time": "21:45",
-    "available": 250,
+    "available": 252,
     "reserved": 37,
     "bookable": true
   },
@@ -525,8 +525,8 @@
     "date": "Fr., 9.7.,",
     "timestamp": 1625866200000,
     "time": "21:30",
-    "available": 373,
-    "reserved": 20,
+    "available": 0,
+    "reserved": 0,
     "bookable": true
   },
   "xberg-626": {
@@ -561,8 +561,8 @@
     "date": "Sa., 3.7.,",
     "timestamp": 1625348700000,
     "time": "21:45",
-    "available": 448,
-    "reserved": 21,
+    "available": 0,
+    "reserved": 0,
     "bookable": true
   },
   "xberg-614": {
@@ -648,7 +648,7 @@
     "date": "Mi., 30.6.",
     "timestamp": 1625089500000,
     "time": "21:45",
-    "available": 289,
+    "available": 287,
     "reserved": 36,
     "bookable": true
   },
@@ -666,7 +666,7 @@
     "date": "Mi., 7.7.,",
     "timestamp": 1625694300000,
     "time": "21:45",
-    "available": 489,
+    "available": 487,
     "reserved": 6,
     "bookable": true
   },
@@ -719,7 +719,7 @@
     "date": "Di., 29.6.",
     "timestamp": 1625003100000,
     "time": "21:45",
-    "available": 438,
+    "available": 440,
     "reserved": 19,
     "bookable": true
   },
@@ -896,8 +896,8 @@
     "date": "Di., 29.6.",
     "timestamp": 1625003100000,
     "time": "21:45",
-    "available": 288,
-    "reserved": 20,
+    "available": 285,
+    "reserved": 21,
     "bookable": true
   },
   "rehberge-615": {
@@ -1108,8 +1108,8 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689573?layout=shows",
     "img": "https://media.kinoheld.de/z0UBTqg1mvoMu-Woak1KAXv2IY0=/200x280/images%2Ffilm%2Fvor-mir-der-sueden-17826.v3.jpg",
     "description": "Im September/ Oktober 2017 reist die Crew um Oscar-Regisseur Pepe Danquart und Kameramann Thomas Schneider sieben Wochen durch Italien, auf den Spuren von Pier Paolo Pasolini, dieses Autors, Dichters, Regisseurs, der schon früh - zärtlich, melancholisch, zornig - vor den Folgen jener Ökonomisierung aller Lebensbereiche warnte, die wir heute erleben. Pier Paolo Pasolini setzte sich im Juni des Jahres 1959 im Auftrag der Zeitschrift \"Successo\" in Ventimiglia an der französischen Grenze in seinen Fiat Millecento und fuhr die etwa dreitausend Küstenkilometer Italiens bis hinauf nach Triest. Seine Texte und Bilder über diese Reise sind heute ein eigenwilliges Dokument dieser Zeit zwischen dem Ende der Traditionen und der aufziehenden Globalisierung. Pepe Danquarts Dokumentarfilm fängt entlang der Route die Bilder und Stimmungen fünfzig Jahre später ein, in einer anderen Wirklichkeit …\"",
-    "available": 358,
-    "reserved": 82,
+    "available": 351,
+    "reserved": 83,
     "bookable": true
   },
   "hasenheide-689574": {
