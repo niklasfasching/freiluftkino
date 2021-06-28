@@ -14,7 +14,7 @@
       "date": "Di., 6.7.,",
       "timestamp": 1625607900000,
       "time": "21:45",
-      "available": 898,
+      "available": 896,
       "reserved": 36,
       "bookable": true
     },
@@ -68,7 +68,7 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626126300000,
       "time": "21:45",
-      "available": 653,
+      "available": 649,
       "reserved": 65,
       "bookable": true
     },
@@ -139,8 +139,8 @@
       "date": "Mo., 28.6.",
       "timestamp": 1624916700000,
       "time": "21:45",
-      "available": 745,
-      "reserved": 61,
+      "available": 738,
+      "reserved": 60,
       "bookable": true
     },
     {
@@ -191,7 +191,7 @@
       "date": "Do., 8.7.,",
       "timestamp": 1625780700000,
       "time": "21:45",
-      "available": 1028,
+      "available": 1026,
       "reserved": 2,
       "bookable": true
     },
@@ -243,7 +243,7 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 314,
+      "available": 312,
       "reserved": 144,
       "bookable": true
     },
@@ -261,8 +261,8 @@
       "date": "Do., 1.7.,",
       "timestamp": 1625175900000,
       "time": "21:45",
-      "available": 951,
-      "reserved": 17,
+      "available": 948,
+      "reserved": 20,
       "bookable": true
     },
     {
@@ -297,8 +297,8 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 818,
-      "reserved": 52,
+      "available": 815,
+      "reserved": 55,
       "bookable": true
     },
     {
@@ -350,7 +350,7 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 927,
+      "available": 925,
       "reserved": 25,
       "bookable": true
     },
@@ -436,7 +436,7 @@
       "date": "Mo., 5.7.,",
       "timestamp": 1625521500000,
       "time": "21:45",
-      "available": 1017,
+      "available": 1015,
       "reserved": 9,
       "bookable": true
     }
@@ -740,8 +740,8 @@
       "date": "Mo., 28.6.",
       "timestamp": 1624916700000,
       "time": "21:45",
-      "available": 92,
-      "reserved": 53,
+      "available": 87,
+      "reserved": 54,
       "bookable": true
     },
     {
@@ -883,8 +883,8 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
       "time": "21:30",
-      "available": 229,
-      "reserved": 7,
+      "available": 226,
+      "reserved": 8,
       "bookable": true
     },
     {
@@ -901,7 +901,7 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 200,
+      "available": 198,
       "reserved": 18,
       "bookable": true
     },
@@ -937,7 +937,7 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 299,
+      "available": 297,
       "reserved": 19,
       "bookable": true
     },
@@ -990,9 +990,9 @@
       "date": "Mo., 28.6.",
       "timestamp": 1624916700000,
       "time": "21:45",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 130,
+      "reserved": 28,
+      "bookable": true
     },
     {
       "description": "Draußen ist es warm. Sommerwarm. Es gibt sehr wenig Gründe, den 20.8. drinnen zu verbringen, und wenige Gründe sich übermäßig zu bewegen; und deshalb triffst du eine sehr kluge Entscheidung: Kultur zum Zuschauen, aber bitte an der frischen Luft. Am besten im Park oder Wald, weil es da kühler ist. Praktischerweise gibt es genau dort im Weddinger Rehberge-Park das Freiluftkino. Und am 20.8. findet da auch noch Live-Kultur statt! Ein Poetry Slam genau genommen, von den Kiezpoeten. Könnte das nicht eine richtig gute Idee sein, fragst du dich. Mit einem kühlen Bier in der Hand unter schattigen Bäumen fläzen und dabei großartig unterhalten werden? Und du hast Recht, genau das wird passieren. Du wirst lachen, du wirst träumen, du wirst in Wortwasserfällen baden und dich von Slam-Champions begeistern lassen, die auf einem solchen Best Of Slam gefälligst anzutreffen sein werden. \n\"Das ist ein richtig guter Sommer\", wirst du dir denken, wenn du mit deinen Freund:innen im Schlepptau den Sonnenuntergang hinter der Bühne des Rehberge Freiluftkinos genießt, \"wer hätte das gedacht, als wir alle im Dauerlockdown waren. Zum Glück hab ich mir richtig früh das Early Bird Ticket für diesen Slam gekauft\", jetzt hast du nämlich deshalb noch ein paar Euro übrig für ein Eis und ein Kaltgetränk. Du kluger Mensch, du. \nWir sehen uns dann am 20.8. um 20:00 zum Rehberge Freiluft Slam, super, wir freuen uns. Deine Kiezpoeten. Sichert euch noch bis zum 27. Juni den Early Bird Preis!",
@@ -1007,7 +1007,7 @@
       "date": "Fr., 20.8.",
       "timestamp": 1629489600000,
       "time": "20:00",
-      "available": 310,
+      "available": 306,
       "reserved": 11,
       "bookable": true
     },
@@ -1151,8 +1151,8 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689572?layout=shows",
       "img": "https://media.kinoheld.de/WG6DXuYMzdjGMJxxh_h9uM0q_gc=/200x280/images%2Ffilm%2Fgefangen-im-netz-17749.v5.jpg",
       "description": "Silvester 2049. Die Welt ist von Krieg und Zerstörung geprägt. In dieser Zeit entwickelt sich die Welt-Sicherheits-Organisation, die unabhängig von Regierungen agiert und die Welt, insbesondere das allesbestimmende Internet, überwacht und somit das Leben der Menschen bestimmt. Sobald das Jahr 2050 beginnt möchte die WSO einen neuen Mega-Server in Betrieb nehmen, der einerseits der Weltbevölkerung ganz neue Möglichkeiten, andererseits aber auch der WSO Macht über jeden und Alles verleihen würde. Auf dem gigantischen Gelände des Servers lebt zusätzlich auch eine Gruppe von Jugendlichen, die auf spätere Führungspositionen der WSO vorbereitet wird. Kurz vor Beginn des Jahres 2050 wird der Gebäudekomplex von Rebellen gestürmt und besetzt. Der Anführer richtet sich in einer Fernsehansprache an die Bevölkerung  und offenbart die wahren Konsequenzen der Inbetriebnahme des neuen Servers. Nun stellt sich für die Jugendlichen die Frage auf wessen Seite sie sich stellen sollen. Doch wem können sie noch vertrauen?",
-      "available": 532,
-      "reserved": 31,
+      "available": 521,
+      "reserved": 33,
       "bookable": true
     },
     {
@@ -1168,8 +1168,8 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689573?layout=shows",
       "img": "https://media.kinoheld.de/z0UBTqg1mvoMu-Woak1KAXv2IY0=/200x280/images%2Ffilm%2Fvor-mir-der-sueden-17826.v3.jpg",
       "description": "Im September/ Oktober 2017 reist die Crew um Oscar-Regisseur Pepe Danquart und Kameramann Thomas Schneider sieben Wochen durch Italien, auf den Spuren von Pier Paolo Pasolini, dieses Autors, Dichters, Regisseurs, der schon früh - zärtlich, melancholisch, zornig - vor den Folgen jener Ökonomisierung aller Lebensbereiche warnte, die wir heute erleben. Pier Paolo Pasolini setzte sich im Juni des Jahres 1959 im Auftrag der Zeitschrift \"Successo\" in Ventimiglia an der französischen Grenze in seinen Fiat Millecento und fuhr die etwa dreitausend Küstenkilometer Italiens bis hinauf nach Triest. Seine Texte und Bilder über diese Reise sind heute ein eigenwilliges Dokument dieser Zeit zwischen dem Ende der Traditionen und der aufziehenden Globalisierung. Pepe Danquarts Dokumentarfilm fängt entlang der Route die Bilder und Stimmungen fünfzig Jahre später ein, in einer anderen Wirklichkeit …\"",
-      "available": 388,
-      "reserved": 73,
+      "available": 381,
+      "reserved": 75,
       "bookable": true
     },
     {
@@ -1186,7 +1186,7 @@
       "img": "https://media.kinoheld.de/dEVC92cLUyzg5K95p7f7i6LBXq4=/200x280/images%2Ffilm%2Frosas-hochzeit-17580.v2.png",
       "description": "Kurz vor ihrem 45. Geburtstag beschließt Rosa, dass es Zeit für einen radikalen Wandel in ihrem Leben ist. Immer hat sie für die anderen gelebt, in ihrem Job als Kostümbildnerin bis zum Umfallen gearbeitet, den Vater zum Arzt begleitet, sich um die Kinder ihres Bruders gekümmert. Knall auf Fall verlässt sie Valencia, um sich im alten Schneiderladen ihrer Mutter in einem kleinen Küstenort den Traum vom eigenen Geschäft zu erfüllen. Aber es ist nicht so leicht, sein Leben in die eigenen Hände zu nehmen. Der Job, ihr Vater, die Geschwister, ihr Freund und ihre Tochter, alle mit ihren eigenen Plänen und Problemen: Das Handy hört gar nicht mehr auf zu klingeln. Rosa beschließt, ein Zeichen zu setzen: Sie will heiraten. Und diese Hochzeit wird eine ganz besondere sein…<br><br>„Rosas Hochzeit“, ist die Geschichte einer Befreiung, eine dramatische Komödie, mit einer umwerfenden Candela Peña in der Titelrolle.",
       "trailer": "https://www.youtube.com/watch?v=IxtxWHMl5sA",
-      "available": 566,
+      "available": 559,
       "reserved": 23,
       "bookable": true
     },
@@ -1410,8 +1410,8 @@
       "img": "https://media.kinoheld.de/VwbS9hbnTEWiyF2X37p6XQJyFAg=/200x280/images%2Ffilm%2Fder-rausch-18282.v12.jpg",
       "description": "Früher war Martin Lehrer aus Leidenschaft – heute sind nicht nur die Schüler von seinem fehlenden Enthusiasmus gelangweilt, auch in Martins Ehe ist die Luft raus. Seinen drei Freunden, die am selben Gymnasium unterrichten, geht es nicht viel besser. Bei einer angeheiterten Geburtstagsrunde diskutieren sie die Theorie eines norwegischen Philosophen: Nach dieser ist ein Mensch nur mit einem erhöhten Alkoholgehalt im Blut zu Bestleistungen fähig. Solch eine gewagte These muss überprüft werden. Die vier beschließen den Selbsttest zu machen und während der Arbeit einen bestimmten Pegel zu halten. Soll nicht sogar Churchill den Zweiten Weltkrieg in einem Alkoholrausch gewonnen haben? Mit neuem Antrieb stürzen sie sich in ihre geheime wissenschaftliche Studie. Die Wirkung lässt nicht lange auf sich warten …",
       "trailer": "https://www.youtube.com/watch?v=oJwlO6vcsm0",
-      "available": 217,
-      "reserved": 123,
+      "available": 219,
+      "reserved": 121,
       "bookable": true
     },
     {
