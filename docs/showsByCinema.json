@@ -139,8 +139,8 @@
       "date": "Mo., 28.6.",
       "timestamp": 1624916700000,
       "time": "21:45",
-      "available": 825,
-      "reserved": 37,
+      "available": 821,
+      "reserved": 39,
       "bookable": true
     },
     {
@@ -208,7 +208,7 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625247000000,
       "time": "17:30",
-      "available": 252,
+      "available": 250,
       "reserved": 105,
       "bookable": true
     },
@@ -243,7 +243,7 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 350,
+      "available": 348,
       "reserved": 140,
       "bookable": true
     },
@@ -546,7 +546,7 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625866200000,
       "time": "21:30",
-      "available": 399,
+      "available": 397,
       "reserved": 14,
       "bookable": true
     },
@@ -635,8 +635,8 @@
       "date": "Do., 8.7.,",
       "timestamp": 1625779800000,
       "time": "21:30",
-      "available": 461,
-      "reserved": 16,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -651,7 +651,7 @@
       "date": "Do., 19.8.",
       "timestamp": 1629388800000,
       "time": "16:00",
-      "available": 492,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -669,8 +669,8 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 315,
-      "reserved": 34,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -687,8 +687,8 @@
       "date": "Mi., 7.7.,",
       "timestamp": 1625694300000,
       "time": "21:45",
-      "available": 499,
-      "reserved": 4,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -705,7 +705,7 @@
       "date": "Do., 15.7.",
       "timestamp": 1626384600000,
       "time": "21:30",
-      "available": 515,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -722,8 +722,8 @@
       "date": "Mo., 5.7.,",
       "timestamp": 1625521500000,
       "time": "21:45",
-      "available": 491,
-      "reserved": 6,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -740,8 +740,8 @@
       "date": "Mo., 28.6.",
       "timestamp": 1624916700000,
       "time": "21:45",
-      "available": 197,
-      "reserved": 42,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -758,8 +758,8 @@
       "date": "Di., 29.6.",
       "timestamp": 1625003100000,
       "time": "21:45",
-      "available": 471,
-      "reserved": 14,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     }
   ],
@@ -1356,8 +1356,8 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689594?layout=shows",
       "img": "https://media.kinoheld.de/eIzHNVH3PlVcdirasujSwEZR3_c=/200x280/images%2Ffilm%2Fsommer-85-19153.v5.jpg",
       "description": "\"Ein originell verpackter Liebesfilm mit leinwandpräsenten Helden, ebenso hübschen Bildern sowie nostalgisch korrekter Ausstattung. Ein echter Ozon!\" Programmkino.de",
-      "available": 562,
-      "reserved": 26,
+      "available": 551,
+      "reserved": 29,
       "bookable": true
     },
     {
