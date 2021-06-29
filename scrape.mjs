@@ -15,6 +15,7 @@ const cinemas = {
   },
   yorck: {
     "54eefd0b683138488b190000": ["sommerkino-kulturforum", "kulturforum"],
+    "60a3b5ed61444058ac0797a2": ["sommerkino-schloss-charlottenburg", "schloss-charlottenburg"],
   }
 };
 
