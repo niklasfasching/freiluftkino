@@ -68,7 +68,7 @@ async function getKinoheldCinema(cinemaId, cinemaName, cinemaShortName) {
       timestamp: new Date(show.date + " UTC").getTime(),
       time: show.time,
       url: `https://www.kinoheld.de/cinema-berlin/${cinemaName}/show/${show.id}?layout=shows`,
-      img: movie?.lazyImage,
+      img: movie?.largeImage,
       description: movie?.description,
       trailer: movie?.trailers?.[0]?.url,
       available: hasSeatSelection ? seatMap.get("sf") || 0 : bookable ? -1 : 0,
@@ -92,7 +92,7 @@ async function getKinoTicketsOnlineCinema(cinemaId, cinemaName, cinemaShortName,
   const d = await getDocument(cinemaUrl);
   return Promise.all([...d.querySelectorAll("main > div > ul > li")].map(async (li) => {
     const id = li.querySelector("a").href.match(/\/(\d+$)/)[1];
-    const url = `https://kinotickets-online.com/${cinemaId}/seats/${id}`;
+    const url = `https://kinotickets-online.com/${cinemaId}/sale/seats/${id}`;
     const movieId = li.querySelector("img").src.match(/movieId=(\d+)/)[1];
     const [_, day, month, time] = li.querySelector("ul li").innerText.match(/(\d+)\.(\d+)\s*(\d+:\d+)/m);
     const date = new Date(`${new Date().getFullYear()}-${month}-${day} ${time} UTC`);
@@ -104,7 +104,7 @@ async function getKinoTicketsOnlineCinema(cinemaId, cinemaName, cinemaShortName,
       cinemaShortName,
       id: cinemaShortName + "-" + id,
       url,
-      img: `https://kinotickets-online.com/${cinemaId}/poster?movieId=${movieId}`,
+      img: `https://kinotickets-online.com/${cinemaId}/assets/poster?movieId=${movieId}`,
 	  title: li.querySelector(".font-bold.text-primary").innerText,
       date: formatDate(date),
       timestamp: date.getTime(),
