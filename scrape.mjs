@@ -11,6 +11,7 @@ const cinemas = {
     1839: ["central-kino-open-air", "central"],
     1657: ["b-ware-openair-fmp", "fmp"],
     2339: ["b-ware-openairprinzessinnengarten-kollektiv-neukoell", "prinzessinengärten"],
+    1621: ["nomadenkino-berlin", "nomadenkino"],
   },
   yorck: {
     "54eefd0b683138488b190000": ["sommerkino-kulturforum", "kulturforum"],
