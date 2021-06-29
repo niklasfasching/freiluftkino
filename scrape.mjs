@@ -12,6 +12,9 @@ const cinemas = {
     1657: ["b-ware-openair-fmp", "fmp"],
     2339: ["b-ware-openairprinzessinnengarten-kollektiv-neukoell", "prinzessinengärten"],
   },
+  yorck: {
+    "54eefd0b683138488b190000": ["sommerkino-kulturforum", "kulturforum"],
+  }
 };
 
 (async () => {
@@ -24,6 +27,10 @@ const cinemas = {
     for (let [id, [name, shortName]] of Object.entries(cinemas.kinoHeld)) {
       console.log(name);
       showsByCinema[name] = await getKinoheldCinema(id, name, shortName);
+    }
+    for (let [id, [name, shortName]] of Object.entries(cinemas.yorck)) {
+      console.log(name);
+      showsByCinema[name] = await getYorckCinema(id, name, shortName);
     }
     await fetch("/create?path=docs/showsByCinema.json", {method: "POST", body: JSON.stringify(showsByCinema, null, 2)});
     console.info("wrote docs/showsByCinema.json");
@@ -75,6 +82,49 @@ async function getKinoheldCinema(cinemaId, cinemaName, cinemaShortName) {
       reserved: hasSeatSelection ? seatMap.get("ss") || 0 : 0,
       bookable,
     };
+  }));
+}
+
+
+async function getYorckCinema(cinemaId, cinemaName, cinemaShortName) {
+  const result = await fetch(`https://yorck.de/shows/foobar/movies.js?cinemaid=${cinemaId}`).then(r => r.text());
+  const div = document.createElement("div");
+  div.innerHTML = result.match(/.replaceWith\("(.*)"\);\n/)[1].replaceAll("\\", "");
+  const movies = await Promise.all([...div.querySelectorAll(".cinema-program .movie-info")].map(async (el) => {
+    const url = `https://yorck.de${el.querySelector(".movie-details a").getAttribute("href")}`;
+    const d = await getDocument(url);
+    return {
+      title: el.querySelector(".movie-details h3").innerText.trim(),
+      img: d.querySelector(".movie-poster img ").src,
+      description: d.querySelector(".movie-description-text").innerText.trim(),
+      trailer: d.querySelector(".trailer-play-button").href,
+    };
+  }));
+  const movieMap = movies.reduce((xs, x) => Object.assign(xs, {[x.title.toLowerCase()]: x}), {});
+  return Promise.all([...div.querySelectorAll(".cinema-program .ticket-link")].map(async (el) => {
+    const url = `https://yorck.de${el.getAttribute("href")}`;
+    const time = el.innerText.replace(/[^\d:]/g, "").trim();
+    const [day, month] = el.closest(".show-times-column").querySelector(".program-header span").innerText.trim().split(".");
+    const date = new Date(`${new Date().getFullYear()}-${month}-${day} ${time} UTC`);
+    const id = cinemaShortName + "-" + url.match(/showid=(\d+)/)[1];
+    const d = await getDocument(url);
+    const facts = [...d.querySelectorAll(".facts .row .p-big")];
+    const title = facts[0].innerText.trim().replace(/\s+/mg, " ").replace("OmU", "(OmU)");
+    return Object.assign({}, movieMap[title.toLowerCase().replace(/\(.*\)/g, "").trim()], {
+      cinemaId,
+      cinemaUrl: `https://yorck.de/kinos/${cinemaName}`,
+      cinemaName,
+      cinemaShortName,
+      id,
+      title,
+      url,
+      time,
+      date: formatDate(date),
+      timestamp: date.getTime(),
+      available: d.querySelectorAll(".seats-room .seat:not(.taken)").length,
+      reserved: d.querySelectorAll(".seats-room .seat.taken").length,
+      bookable: !!d.querySelectorAll(".seats-room .seat:not(.taken)").length,
+    });
   }));
 }
 
