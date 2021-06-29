@@ -85,7 +85,7 @@
     "date": "Mi., 7.7.,",
     "timestamp": 1625694300000,
     "time": "21:45",
-    "available": 1019,
+    "available": 1017,
     "reserved": 7,
     "bookable": true
   },
@@ -630,7 +630,7 @@
     "date": "Do., 19.8.",
     "timestamp": 1629388800000,
     "time": "16:00",
-    "available": 492,
+    "available": 0,
     "reserved": 0,
     "bookable": true
   },
@@ -648,8 +648,8 @@
     "date": "Mi., 30.6.",
     "timestamp": 1625089500000,
     "time": "21:45",
-    "available": 285,
-    "reserved": 36,
+    "available": 0,
+    "reserved": 0,
     "bookable": true
   },
   "xberg-620": {
