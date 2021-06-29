@@ -14,7 +14,7 @@
       "date": "Di., 6.7.,",
       "timestamp": 1625607900000,
       "time": "21:45",
-      "available": 868,
+      "available": 866,
       "reserved": 38,
       "bookable": true
     },
@@ -155,8 +155,8 @@
       "date": "So., 4.7.,",
       "timestamp": 1625435100000,
       "time": "21:45",
-      "available": 1006,
-      "reserved": 6,
+      "available": 1005,
+      "reserved": 7,
       "bookable": true
     },
     {
@@ -225,8 +225,8 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 221,
-      "reserved": 151,
+      "available": 216,
+      "reserved": 152,
       "bookable": true
     },
     {
@@ -243,7 +243,7 @@
       "date": "Do., 1.7.,",
       "timestamp": 1625175900000,
       "time": "21:45",
-      "available": 926,
+      "available": 924,
       "reserved": 20,
       "bookable": true
     },
@@ -510,7 +510,7 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625866200000,
       "time": "21:30",
-      "available": 352,
+      "available": 344,
       "reserved": 21,
       "bookable": true
     },
@@ -564,8 +564,8 @@
       "date": "Do., 1.7.,",
       "timestamp": 1625175900000,
       "time": "21:45",
-      "available": 402,
-      "reserved": 25,
+      "available": 401,
+      "reserved": 26,
       "bookable": true
     },
     {
@@ -633,7 +633,7 @@
       "date": "Mi., 30.6.",
       "timestamp": 1625089500000,
       "time": "21:45",
-      "available": 256,
+      "available": 254,
       "reserved": 43,
       "bookable": true
     },
@@ -865,7 +865,7 @@
       "date": "So., 11.7.",
       "timestamp": 1626039000000,
       "time": "21:30",
-      "available": 353,
+      "available": 351,
       "reserved": 3,
       "bookable": true
     },
@@ -1031,23 +1031,6 @@
     }
   ],
   "freiluftkino-hasenheide": [
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "hasenheide-689573",
-      "title": "Vor mir der Süden ",
-      "date": "Di., 29.6.",
-      "timestamp": 1624924800000,
-      "time": "21:45",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689573?layout=shows",
-      "img": "https://media.kinoheld.de/xW1XNZAmBMJj2-Fvl22gXhclT50=/400x560/images%2Ffilm%2Fvor-mir-der-sueden-17826.v3.jpg",
-      "description": "Im September/ Oktober 2017 reist die Crew um Oscar-Regisseur Pepe Danquart und Kameramann Thomas Schneider sieben Wochen durch Italien, auf den Spuren von Pier Paolo Pasolini, dieses Autors, Dichters, Regisseurs, der schon früh - zärtlich, melancholisch, zornig - vor den Folgen jener Ökonomisierung aller Lebensbereiche warnte, die wir heute erleben. Pier Paolo Pasolini setzte sich im Juni des Jahres 1959 im Auftrag der Zeitschrift \"Successo\" in Ventimiglia an der französischen Grenze in seinen Fiat Millecento und fuhr die etwa dreitausend Küstenkilometer Italiens bis hinauf nach Triest. Seine Texte und Bilder über diese Reise sind heute ein eigenwilliges Dokument dieser Zeit zwischen dem Ende der Traditionen und der aufziehenden Globalisierung. Pepe Danquarts Dokumentarfilm fängt entlang der Route die Bilder und Stimmungen fünfzig Jahre später ein, in einer anderen Wirklichkeit …\"",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
     {
       "cinemaId": "580",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
@@ -1286,8 +1269,8 @@
       "img": "https://media.kinoheld.de/MxoVzusSV669JJJuULf5SfAJ6Dw=/400x560/images%2Ffilm%2Fder-rausch-18282.v12.jpg",
       "description": "Früher war Martin Lehrer aus Leidenschaft – heute sind nicht nur die Schüler von seinem fehlenden Enthusiasmus gelangweilt, auch in Martins Ehe ist die Luft raus. Seinen drei Freunden, die am selben Gymnasium unterrichten, geht es nicht viel besser. Bei einer angeheiterten Geburtstagsrunde diskutieren sie die Theorie eines norwegischen Philosophen: Nach dieser ist ein Mensch nur mit einem erhöhten Alkoholgehalt im Blut zu Bestleistungen fähig. Solch eine gewagte These muss überprüft werden. Die vier beschließen den Selbsttest zu machen und während der Arbeit einen bestimmten Pegel zu halten. Soll nicht sogar Churchill den Zweiten Weltkrieg in einem Alkoholrausch gewonnen haben? Mit neuem Antrieb stürzen sie sich in ihre geheime wissenschaftliche Studie. Die Wirkung lässt nicht lange auf sich warten …",
       "trailer": "https://www.youtube.com/watch?v=oJwlO6vcsm0",
-      "available": 99,
-      "reserved": 161,
+      "available": 97,
+      "reserved": 163,
       "bookable": true
     },
     {
@@ -1329,23 +1312,6 @@
   ],
   "freiluftkino-insel-im-cassiopeia": [],
   "nomadenkino-berlin": [
-    {
-      "cinemaId": "1621",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/nomadenkino-berlin/shows/movies",
-      "cinemaName": "nomadenkino-berlin",
-      "cinemaShortName": "nomadenkino",
-      "id": "nomadenkino-2389672131",
-      "title": "FÜR SAMA ",
-      "date": "Di., 29.6.",
-      "timestamp": 1624924800000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/nomadenkino-berlin/show/2389672131?layout=shows",
-      "img": "https://media.kinoheld.de/q5_DbDfteBuL6AAWfr3ON6-MN_4=/400x560/images%2Ffilm%2Ffuer-sama-15479.v2.jpg",
-      "description": "Der in Cannes ausgezeichnete und für den OSCAR nominierte, preisgekrönte Film FÜR SAMA ist ein beeindruckender, persönlicher und zutiefst ergreifender Film und zugleich eine Liebeserklärung der jungen Mutter Waad al-Kateab an ihre Tochter Sama. Über einen Zeitraum von fünf Jahren erzählt sie von ihrem Leben im aufständischen Aleppo, wo sie sich verliebt, heiratet und ihr Kind zur Welt bringt, während um sie herum der verheerende Bürgerkrieg immer größere Zerstörung anrichtet. Ihre Kamera zeigt berührende Episoden von Verlust, Überleben und Lebensfreude inmitten des Leids. Waad muss sich entscheiden, ob sie fliehen und ihre Tochter in Sicherheit bringen oder bleiben und den Kampf für die Freiheit weiterführen soll, für den sie schon so viel geopfert hat. <br><br>Gerade der Blick aus dem Inneren des Geschehens heraus macht den Film zu einem besonderen Dokument über das Leid und den verzweifelten Kampf ums Überleben, er zeigt aber auch, wie die Menschen miteinander in der Not umgehen und sich gegenseitig helfen. Damit ist der Film auch ein Plädoyer für unbedingte Menschlichkeit, Solidarität und Toleranz.",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
     {
       "cinemaId": "1621",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/nomadenkino-berlin/shows/movies",
@@ -1484,24 +1450,6 @@
     }
   ],
   "b-ware-openair-fmp": [
-    {
-      "cinemaId": "1657",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
-      "cinemaName": "b-ware-openair-fmp",
-      "cinemaShortName": "fmp",
-      "id": "fmp-2382074665",
-      "title": "EINE FRAU MIT BERAUSCHENDEN TALENTEN ",
-      "date": "Di., 29.6.",
-      "timestamp": 1624924800000,
-      "time": "21:45",
-      "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2382074665?layout=shows",
-      "img": "https://media.kinoheld.de/PnAEkP5wBimLWhkdEqAVF1D935s=/400x560/images%2Ffilm%2Feine-frau-mit-berauschenden-talenten-17113.v1237.jpg",
-      "description": "Patience ist selbstbewusst, unabhängig und vor allem schlagfertig. Als Dolmetscherin im Drogendezernat übersetzt sie abgehörte Telefonate der Drogenszene und ist dafür massiv unterbezahlt. Als das kostspielige Pflegeheim ihrer Mutter wegen unbezahlter Rechnungen droht, die alte Dame auszuquartieren, gerät Patience unter Handlungsdruck. Der Zufall will es, dass gerade eine Drogenlieferung auf dem Weg nach Paris ist. Patience entscheidet sich spontan gegen die Ehrlichkeit und sabotiert die Beschlagnahmung der Drogen. In Eigenregie fahndet sie nach dem hochwertigen Hasch - und wird fündig. Patience macht sich sofort fröhlich ans Werk und zeigt sich von ihrer besten Seite: als begnadete Verkäuferin mischt sie den Pariser Drogenmarkt maximal auf. Sie ist die neue Drogen-Autorität der Stadt und für die Polizei ein Phantom. Doch die Drogendiva muss sich sputen, denn ausgerechnet ihr Verehrer Philippe, Leiter des Drogendezernats, hat einen Verdacht, wer hinter dem Phantom wirklich steckt ...",
-      "trailer": "https://www.youtube.com/watch?v=Nw27GQLIaiM",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
     {
       "cinemaId": "1657",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
@@ -1713,7 +1661,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2392542630?layout=shows",
       "img": "https://media.kinoheld.de/R8VDXSPvszmiJwKj83Io0hLKCVY=/400x560/images%2Ffilm%2Fmo%2F3013-36027.v2.jpg",
       "description": "Ein Sex-Tape gelangt ins Internet und geht dort viral. Es zeigt eine Frau und einen Mann, die beide Masken tragen, beim Geschlechtsakt. Doch die Frau in dem Video lässt sich als Emi (Katia Pascariu) identifizieren - eine Lehrerin.\r\n\r\nEmis Ruf und Karriere geraten in Bedrängnis, als die Eltern ihrer Schüler ihren augenblicklichen Rücktritt fordern. Doch die Lehrerin weigert sich, dem öffentlichen Druck nachzugeben, nur weil die anderen ihre Vorbild-Funktion anzweifeln.\r\n\r\nVorurteile, Heuchelei und Chauvinismus prallen in Folge dessen aufeinander, als immer mehr Verschwörungstheorien die Runde machen und ein Streit über den gesellschaftlichen Umgang mit pornografischen Inhalten entbrennt.",
-      "trailer": "https://youtu.be/MKJ-nXADsVk",
+      "trailer": "https://youtu.be/8AEgcTSMSOY",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -1749,7 +1697,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2392542649?layout=shows",
       "img": "https://media.kinoheld.de/DQsE2bJ2xtRqdKQPdV3MXrumGew=/400x560/images%2Ffilm%2Fmo%2F3013-37597.v2.jpg",
       "description": "FREAKSCENE THE STORY OF DINOSAUR JR. is a homage of one of the most influential bands on the American East Coast, which inspired the rock scene – including Nirvana and Sonic Youth – in the 1990s. Their style and unmistakable sound, later referred as “Grunge”, laid the foundation for the entire “Slacker” culture of Generation X.\r\nIt is also the story of the eloquent and eccentric guitarist and bandleader J. Mascis, the bassist Lou Barlow and drummer Murph and a band that insanely does not talk to each other. Communication takes place exclusively through music. Philipp Reichenheim nevertheless manages to make the closed and shy icons speak.\r\nAn emotional, tragically funny and sometimes noisy rollercoaster ride by a dysfunctional family – Dinosaur Jr.\r\nThrough several decades, the film offers rare insights into the crazy everyday life of the band and illuminates the inner workings of a cult band from its beginnings in the 1980s and 90s to the present day.",
-      "trailer": "https://youtu.be/MKJ-nXADsVk",
+      "trailer": "https://youtu.be/O5w28bJKmxY",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -1868,24 +1816,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
       "cinemaName": "central-kino-open-air",
       "cinemaShortName": "central",
-      "id": "central-2385436965",
-      "title": "open air: #Female Pleasure (subtitled OV English)",
-      "date": "Di., 29.6.",
-      "timestamp": 1624924800000,
-      "time": "21:45",
-      "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2385436965?layout=shows",
-      "img": "https://media.kinoheld.de/JfmjFnXDwzBMtltuddj3E52LFTk=/400x560/images%2Ffilm%2Ffemale-pleasure-11068.v26.jpg",
-      "description": "Fünf mutige, kluge und selbstbestimmte Frauen stehen im Zentrum von Barbara Millers Dokumentarfilm \"#Female Pleasure\". Sie brechen das Tabu des Schweigens und der Scham, das ihnen die Gesellschaft oder ihre religiösen Gemeinschaften mit ihren archaisch-patriarchalen Strukturen auferlegen. Mit einer unfassbaren positiven Energie und aller Kraft setzen sich Deborah Feldman, Leyla Hussein, Rokudenashiko, Doris Wagner und Vithika Yadav für sexuelle Aufklärung und Selbstbestimmung aller Frauen ein, hinweg über jedwede gesellschaftliche sowie religiöse Normen und Schranken. Dafür zahlen sie einen hohen Preis - sie werden öffentlich diffamiert, verfolgt und bedroht, von ihrem ehemaligen Umfeld werden sie verstoßen und von Religionsführern und fanatischen Gläubigen sogar mit dem Tod bedroht. (Quelle: Verleih)",
-      "trailer": "https://www.youtube.com/watch?v=VP-7Et3bv7s",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "1839",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
-      "cinemaName": "central-kino-open-air",
-      "cinemaShortName": "central",
       "id": "central-2392263378",
       "title": "open air: Yung (Deutsch with English subs) in attendance of the team (subtitled OV English)",
       "date": "So., 4.7.,",
@@ -1895,8 +1825,8 @@
       "img": "https://media.kinoheld.de/S4qyzQmlpKzdz_5kv6436ixaA8o=/400x560/images%2Ffilm%2Fyung-in-anwesenheit-des-regisseurs-14831.v1.jpg",
       "description": "Vier junge und selbstbewusste Frauen aus Berlin feiern das Leben und ihre Jugend als endlose Party quer durch die angesagten Spots der Szene und dem Underground der Metropole. Da ist die noch nicht ganz volljährige Janaina, die sich mit Sex vor der Webcam ein kleines Extra-Taschengeld verdient, und ihre beste Freundin Emi. Die 18-Jährige erlebt den Rausch ihres Lebens und realisiert zunächst nicht, dass sie immer tiefer in die Abhängigkeit rutscht. Und während Dealerin Joy toxische Illusionen verkauft, träumt sie von der großen Liebe, die süße 16-jährige Abbie indes würde am liebsten eher heute als morgen nach Los Angeles abhauen. (vf)",
       "trailer": "https://www.youtube.com/watch?v=lLF1sPjBJug",
-      "available": 70,
-      "reserved": 0,
+      "available": 66,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -1931,8 +1861,8 @@
       "img": "https://media.kinoheld.de/FsNKn9KVQQJ1JOoT5CdMA2H0bfI=/400x560/images%2Ffilm%2F4%2Fder-himmel-ueber-berlin-9307.v21.jpg",
       "description": "Damiel ist ein Engel. Und gemeinsam mit seinem himmlischen Kollegen Cassiel wandert er durch das geteilte Berlin und wacht über die Menschen. Doch als Engel bleibt Damiel der menschlichen Welt verborgen. Er kann sie nur beobachten und ihren Gedanken lauschen, mitfühlen und miterleben kann er ihre Empfindungen nicht. Als er sich eines Tages in die zauberhafte Trapezkünstlerin Marion verliebt, beschließt er, selbst ein Mensch zu werden. Doch dafür muss er ein großes Opfer bringen: seine Unsterblichkeit. (j.b.)",
       "trailer": "https://www.youtube.com/watch?v=_Zih4o6NLCc",
-      "available": 47,
-      "reserved": 14,
+      "available": 37,
+      "reserved": 18,
       "bookable": true
     },
     {
@@ -2023,24 +1953,6 @@
     }
   ],
   "freiluftkino-pompeji-open-air-am-ostkreuz-berlin": [
-    {
-      "cinemaId": "2153",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-      "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-      "cinemaShortName": "pompeji ostkreuz",
-      "id": "pompeji ostkreuz-2384593055",
-      "title": "ALS WIR TANZTEN (subtitled OV German)",
-      "date": "Di., 29.6.",
-      "timestamp": 1624924800000,
-      "time": "21:45",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2384593055?layout=shows",
-      "img": "https://media.kinoheld.de/uNQLRuFoS4UM-IB2kSIRJOPQeJY=/400x560/images%2Ffilm%2Fals-wir-tanzten-16083.v204.jpg",
-      "description": "Merab ist Student an der Akademie des Georgischen Nationalballetts in Tiflis. Sein größter Traum ist es, professioneller Tänzer zu werden. Als Irakli neu in die Klasse kommt, sieht Merab in ihm zunächst einen ernstzunehmenden Rivalen auf den ersehnten Platz im festen Ensemble. Aus der Konkurrenz wird bald ein immer stärkeres Begehren. Doch im homophoben Umfeld der Schule, in der konservative Vorstellungen von Männlichkeit hochgehalten werden, wird von den beiden erwartet, dass sie ihre Liebe geheim halten.",
-      "trailer": "https://youtu.be/hgPuh2nI-Pc",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
     {
       "cinemaId": "2153",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
@@ -2383,8 +2295,8 @@
       "time": "21:45",
       "date": "Do., 1.7.,",
       "timestamp": 1625175900000,
-      "available": 389,
-      "reserved": 71,
+      "available": 390,
+      "reserved": 70,
       "bookable": true
     },
     {
@@ -2401,8 +2313,8 @@
       "time": "21:45",
       "date": "Fr., 2.7.,",
       "timestamp": 1625262300000,
-      "available": 221,
-      "reserved": 239,
+      "available": 220,
+      "reserved": 240,
       "bookable": true
     },
     {
@@ -2473,8 +2385,8 @@
       "time": "21:45",
       "date": "Fr., 2.7.,",
       "timestamp": 1625262300000,
-      "available": 221,
-      "reserved": 239,
+      "available": 220,
+      "reserved": 240,
       "bookable": true
     },
     {
@@ -2509,8 +2421,8 @@
       "time": "21:45",
       "date": "Do., 1.7.,",
       "timestamp": 1625175900000,
-      "available": 389,
-      "reserved": 71,
+      "available": 390,
+      "reserved": 70,
       "bookable": true
     },
     {
