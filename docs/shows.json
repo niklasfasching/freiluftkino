@@ -260,7 +260,7 @@
     "date": "Di., 13.7.",
     "timestamp": 1626212700000,
     "time": "21:45",
-    "available": 1039,
+    "available": 1037,
     "reserved": 1,
     "bookable": true
   },
@@ -435,7 +435,7 @@
     "date": "Sa., 10.7.",
     "timestamp": 1625952600000,
     "time": "21:30",
-    "available": 170,
+    "available": 168,
     "reserved": 47,
     "bookable": true
   },
@@ -471,7 +471,7 @@
     "date": "Fr., 2.7.,",
     "timestamp": 1625262300000,
     "time": "21:45",
-    "available": 204,
+    "available": 200,
     "reserved": 45,
     "bookable": true
   },
@@ -948,7 +948,7 @@
     "date": "Mi., 7.7.,",
     "timestamp": 1625694300000,
     "time": "21:45",
-    "available": 327,
+    "available": 325,
     "reserved": 3,
     "bookable": true
   },
@@ -2312,8 +2312,8 @@
     "time": "21:45",
     "date": "Sa., 3.7.,",
     "timestamp": 1625348700000,
-    "available": 356,
-    "reserved": 104,
+    "available": 354,
+    "reserved": 106,
     "bookable": true
   },
   "kulturforum-249": {
@@ -2348,8 +2348,8 @@
     "time": "21:45",
     "date": "Mi., 30.6.",
     "timestamp": 1625089500000,
-    "available": 428,
-    "reserved": 201,
+    "available": 429,
+    "reserved": 200,
     "bookable": true
   },
   "schloss-charlottenburg-34": {
@@ -2402,8 +2402,8 @@
     "time": "21:30",
     "date": "Sa., 3.7.,",
     "timestamp": 1625347800000,
-    "available": 138,
-    "reserved": 519,
+    "available": 135,
+    "reserved": 522,
     "bookable": true
   },
   "schloss-charlottenburg-33": {
