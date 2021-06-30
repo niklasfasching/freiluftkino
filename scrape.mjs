@@ -164,7 +164,7 @@ async function getKinoTicketsOnlineCinema(cinemaId, cinemaName, cinemaShortName,
       timestamp: date.getTime(),
       time,
       available: d.querySelectorAll("#__seats-container button").length,
-      reserved: d.querySelectorAll("#__seats-container .bg-seat-res").length,
+      reserved: d.querySelectorAll("#__seats-container [class*=bg-seat-res]").length,
       bookable: !d.body.textContent.includes("Diese Vorstellung ist leider ausverkauft!"),
     });
   }));
