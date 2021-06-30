@@ -49,7 +49,7 @@
     "date": "Mi., 14.7.",
     "timestamp": 1626299100000,
     "time": "21:45",
-    "available": 1031,
+    "available": 1027,
     "reserved": 3,
     "bookable": true
   },
@@ -67,7 +67,7 @@
     "date": "Mo., 12.7.",
     "timestamp": 1626126300000,
     "time": "21:45",
-    "available": 586,
+    "available": 584,
     "reserved": 72,
     "bookable": true
   },
@@ -153,7 +153,7 @@
     "date": "So., 4.7.,",
     "timestamp": 1625435100000,
     "time": "21:45",
-    "available": 1003,
+    "available": 1001,
     "reserved": 7,
     "bookable": true
   },
@@ -171,7 +171,7 @@
     "date": "Do., 8.7.,",
     "timestamp": 1625780700000,
     "time": "21:45",
-    "available": 1024,
+    "available": 1022,
     "reserved": 2,
     "bookable": true
   },
@@ -188,8 +188,8 @@
     "date": "Fr., 2.7.,",
     "timestamp": 1625247000000,
     "time": "17:30",
-    "available": 244,
-    "reserved": 119,
+    "available": 239,
+    "reserved": 122,
     "bookable": true
   },
   "fhain-666": {
@@ -223,7 +223,7 @@
     "date": "Mi., 30.6.",
     "timestamp": 1625089500000,
     "time": "21:45",
-    "available": 214,
+    "available": 210,
     "reserved": 152,
     "bookable": true
   },
@@ -241,7 +241,7 @@
     "date": "Do., 1.7.,",
     "timestamp": 1625175900000,
     "time": "21:45",
-    "available": 916,
+    "available": 918,
     "reserved": 20,
     "bookable": true
   },
@@ -277,7 +277,7 @@
     "date": "Sa., 3.7.,",
     "timestamp": 1625348700000,
     "time": "21:45",
-    "available": 761,
+    "available": 755,
     "reserved": 59,
     "bookable": true
   },
@@ -295,7 +295,7 @@
     "date": "Fr., 2.7.,",
     "timestamp": 1625262300000,
     "time": "21:45",
-    "available": 893,
+    "available": 889,
     "reserved": 23,
     "bookable": true
   },
@@ -312,7 +312,7 @@
     "date": "So., 11.7.",
     "timestamp": 1626039900000,
     "time": "21:45",
-    "available": 975,
+    "available": 973,
     "reserved": 9,
     "bookable": true
   },
@@ -398,7 +398,7 @@
     "date": "Mo., 5.7.,",
     "timestamp": 1625521500000,
     "time": "21:45",
-    "available": 1005,
+    "available": 1001,
     "reserved": 9,
     "bookable": true
   },
@@ -416,8 +416,8 @@
     "date": "Di., 6.7.,",
     "timestamp": 1625607900000,
     "time": "21:45",
-    "available": 243,
-    "reserved": 46,
+    "available": 240,
+    "reserved": 47,
     "bookable": true
   },
   "xberg-623": {
@@ -434,7 +434,7 @@
     "date": "Sa., 10.7.",
     "timestamp": 1625952600000,
     "time": "21:30",
-    "available": 160,
+    "available": 156,
     "reserved": 47,
     "bookable": true
   },
@@ -452,8 +452,8 @@
     "date": "So., 4.7.,",
     "timestamp": 1625435100000,
     "time": "21:45",
-    "available": 450,
-    "reserved": 21,
+    "available": 445,
+    "reserved": 22,
     "bookable": true
   },
   "xberg-615": {
@@ -470,7 +470,7 @@
     "date": "Fr., 2.7.,",
     "timestamp": 1625262300000,
     "time": "21:45",
-    "available": 194,
+    "available": 186,
     "reserved": 45,
     "bookable": true
   },
@@ -542,7 +542,7 @@
     "date": "Sa., 3.7.,",
     "timestamp": 1625348700000,
     "time": "21:45",
-    "available": 431,
+    "available": 429,
     "reserved": 22,
     "bookable": true
   },
@@ -577,7 +577,7 @@
     "date": "Mo., 12.7.",
     "timestamp": 1626125400000,
     "time": "21:30",
-    "available": 516,
+    "available": 514,
     "reserved": 5,
     "bookable": true
   },
@@ -595,7 +595,7 @@
     "date": "Do., 8.7.,",
     "timestamp": 1625779800000,
     "time": "21:30",
-    "available": 445,
+    "available": 443,
     "reserved": 16,
     "bookable": true
   },
@@ -629,7 +629,7 @@
     "date": "Mi., 30.6.",
     "timestamp": 1625089500000,
     "time": "21:45",
-    "available": 252,
+    "available": 250,
     "reserved": 43,
     "bookable": true
   },
@@ -647,7 +647,7 @@
     "date": "Mi., 7.7.,",
     "timestamp": 1625694300000,
     "time": "21:45",
-    "available": 485,
+    "available": 483,
     "reserved": 6,
     "bookable": true
   },
@@ -682,8 +682,8 @@
     "date": "Mo., 5.7.,",
     "timestamp": 1625521500000,
     "time": "21:45",
-    "available": 470,
-    "reserved": 13,
+    "available": 467,
+    "reserved": 16,
     "bookable": true
   },
   "rehberge-609": {
@@ -700,7 +700,7 @@
     "date": "Mo., 5.7.,",
     "timestamp": 1625521500000,
     "time": "21:45",
-    "available": 346,
+    "available": 342,
     "reserved": 4,
     "bookable": true
   },
@@ -805,7 +805,7 @@
     "date": "Sa., 10.7.",
     "timestamp": 1625952600000,
     "time": "21:30",
-    "available": 160,
+    "available": 156,
     "reserved": 20,
     "bookable": true
   },
@@ -823,7 +823,7 @@
     "date": "Sa., 3.7.,",
     "timestamp": 1625348700000,
     "time": "21:45",
-    "available": 166,
+    "available": 164,
     "reserved": 30,
     "bookable": true
   },
@@ -841,8 +841,8 @@
     "date": "Fr., 2.7.,",
     "timestamp": 1625262300000,
     "time": "21:45",
-    "available": 225,
-    "reserved": 19,
+    "available": 222,
+    "reserved": 20,
     "bookable": true
   },
   "rehberge-615": {
@@ -1019,7 +1019,7 @@
     "date": "Fr., 9.7.,",
     "timestamp": 1625866200000,
     "time": "21:30",
-    "available": 298,
+    "available": 292,
     "reserved": 4,
     "bookable": true
   },
@@ -1037,8 +1037,8 @@
     "img": "https://media.kinoheld.de/oF6ul_nUx_R48MQrDk7elRhxH5I=/400x560/images%2Ffilm%2Fmo%2F1863-37075.v2.jpeg",
     "description": "Lux Æterna (OmU) + La Cravate (Kurzfilm)\r\nWir starten unsere reguläre OpenAir Kino Saison mit dem neusten Film von Gaspar Noé Lux Æterna! Da der Film mit 50 Minuten Spielzeit etwas kurz ist, haben wir noch eine Begleitung eingeladen: La Cravate von Alejandro Jodorowsky!\r\n\r\n> La Cravate ist ein französischer Kurzfilm von Alejandro Jodorowsky aus dem Jahr 1957. Der Film wurde zwischen 1953 und 1957 in Paris gedreht und basiert auf der Erzählung Die vertauschten Köpfe von Thomas Mann. Er galt knapp 50 Jahre lang als verschollen und wurde erst 2006 auf einem Dachboden in Deutschland gefunden.\r\n\r\n> Die exzentrische Schauspielerin Béatrice (Béatrice Dalle) möchte in ihrem ersten Spielfilm eine der größten Verfehlungen der Menschheitsgeschichte aufarbeiten: die grauenvollen Hexenverbrennungen des Mittelalters. Unterstützt wird sie dabei von ihrer Schauspiel-Kollegin Charlotte (Charlotte Gainsbourg), mit der sie anfangs noch ausgelassen Anekdoten vergangener Dreharbeiten austauscht. Doch als am Set immer mehr Dinge schieflaufen und die gesamte Produktion im Chaos zu versinken droht, ist schnell eine Schuldige gefunden: Béatrice! Bald findet die Hexenjagd nicht mehr bloß vor der Kamera statt und die Stimmung am Set spitzt sich zu – bis zur totalen Eskalation. LUX ÆTERNA ist ein Liebesbrief an das Filmemachen im Allgemeinen und zugleich ein fesselnder, eindringlicher Blick auf das Chaos und die Hysterie, die an so manchem Filmset herrschen. Eine reizüberflutende, intensive Odyssee par Noé, die bei den Filmfestspielen in Cannes ihre Weltpremiere feierte.",
     "trailer": "https://youtu.be/MKJ-nXADsVk",
-    "available": 72,
-    "reserved": 13,
+    "available": 66,
+    "reserved": 19,
     "bookable": true
   },
   "filmrauschpalast-2389914103": {
@@ -1267,8 +1267,8 @@
     "img": "https://media.kinoheld.de/peBTGdk0crIQds4N6tgwDScNI60=/400x560/images%2Ffilm%2Fundine-16403.v45.jpg",
     "description": "Im Liebesdrama Undine wird Paula Beer von ihrem Freund verlassen, wodurch ein Fluch ans Licht kommt, der sie dazu zwingt, ihn zu ertränken. Doch dann verliebt die Nixe sich in einen Taucher.",
     "trailer": "https://www.youtube.com/watch?v=_XSzVgjeyfM",
-    "available": 464,
-    "reserved": 50,
+    "available": 472,
+    "reserved": 52,
     "bookable": true
   },
   "hasenheide-689591": {
@@ -1282,8 +1282,8 @@
     "timestamp": 1625443200000,
     "time": "21:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689591?layout=shows",
-    "available": 52,
-    "reserved": 221,
+    "available": 51,
+    "reserved": 222,
     "bookable": true
   },
   "hasenheide-689592": {
@@ -1318,8 +1318,8 @@
     "img": "https://media.kinoheld.de/GfLOd1LQsa02ny_3ukH3Xsx_-XQ=/400x560/images%2Ffilm%2Fmutter-mother-17562.v39.jpg",
     "description": "Ema ist Tänzerin und lebt zusammen mit Gastón. Sie hatten ein Waisenkind adoptiert, doch nach kurzer Zeit entschied sich Ema, ihn „zurückzugeben“, da er mit Feuer spielte und jemanden verletzt hat. Ihr Umfeld reagierte entsetzt und auch Ema scheint es sich überlegt zu haben. Doch als das Adoptionsamt ihr sagt, dass er bei einer neuen Familie ist, ist Ema klar: Sie zieht in den Krieg! Ihre Waffen: Sex, Tanz – und ein Flammenwerfer!",
     "trailer": "https://www.youtube.com/watch?v=3xVGjzPaV6s",
-    "available": 557,
-    "reserved": 29,
+    "available": 536,
+    "reserved": 34,
     "bookable": true
   },
   "hasenheide-689520": {
@@ -1350,8 +1350,8 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689594?layout=shows",
     "img": "https://media.kinoheld.de/OCKYA9OiSUnKtigdUvJWePMDaso=/400x560/images%2Ffilm%2Fsommer-85-19153.v5.jpg",
     "description": "\"Ein originell verpackter Liebesfilm mit leinwandpräsenten Helden, ebenso hübschen Bildern sowie nostalgisch korrekter Ausstattung. Ein echter Ozon!\" Programmkino.de",
-    "available": 517,
-    "reserved": 36,
+    "available": 495,
+    "reserved": 41,
     "bookable": true
   },
   "hasenheide-689595": {
@@ -1386,8 +1386,8 @@
     "img": "https://media.kinoheld.de/DjXNUmH-Vg-O6UoXMGqxdGhenA0=/400x560/images%2Ffilm%2Fportraet-einer-jungen-frau-in-flammen-14653.v128.jpg",
     "description": "Ein ungewöhnlicher Auftrag führt die Pariser Malerin Marianne (Noémie Marchant) im Jahr 1770 auf eine einsame Insel an der Küste der Bretagne: Sie soll heimlich ein Gemälde von Héloïse (Adèle Haenel) anfertigen, die gerade eine Klosterschule für junge adelige Frauen verlassen hat und bald verheiratet werden soll. Denn Héloïse weigert sich, Modell zu sitzen, um gegen die von ihrer Mutter (Valeria Golino) arrangierte Ehe zu protestieren. So beobachtet Marianne Héloïse während ihrer Spaziergänge an die Küste und malt abends aus dem Gedächtnis heraus ihr Porträt. Langsam wächst zwischen den eindringlichen Blicken eine unwiderstehliche Anziehungskraft... (Quelle: Verleih)",
     "trailer": "https://www.youtube.com/watch?v=95Sfa-nonVU",
-    "available": 600,
-    "reserved": 17,
+    "available": 590,
+    "reserved": 19,
     "bookable": true
   },
   "hasenheide-689597": {
@@ -1404,8 +1404,8 @@
     "img": "https://media.kinoheld.de/MxoVzusSV669JJJuULf5SfAJ6Dw=/400x560/images%2Ffilm%2Fder-rausch-18282.v12.jpg",
     "description": "Früher war Martin Lehrer aus Leidenschaft – heute sind nicht nur die Schüler von seinem fehlenden Enthusiasmus gelangweilt, auch in Martins Ehe ist die Luft raus. Seinen drei Freunden, die am selben Gymnasium unterrichten, geht es nicht viel besser. Bei einer angeheiterten Geburtstagsrunde diskutieren sie die Theorie eines norwegischen Philosophen: Nach dieser ist ein Mensch nur mit einem erhöhten Alkoholgehalt im Blut zu Bestleistungen fähig. Solch eine gewagte These muss überprüft werden. Die vier beschließen den Selbsttest zu machen und während der Arbeit einen bestimmten Pegel zu halten. Soll nicht sogar Churchill den Zweiten Weltkrieg in einem Alkoholrausch gewonnen haben? Mit neuem Antrieb stürzen sie sich in ihre geheime wissenschaftliche Studie. Die Wirkung lässt nicht lange auf sich warten …",
     "trailer": "https://www.youtube.com/watch?v=oJwlO6vcsm0",
-    "available": 61,
-    "reserved": 176,
+    "available": 51,
+    "reserved": 178,
     "bookable": true
   },
   "hasenheide-689598": {
@@ -1442,23 +1442,6 @@
     "trailer": "https://www.youtube.com/watch?v=7ZUOzlVsNp8",
     "available": 604,
     "reserved": 16,
-    "bookable": true
-  },
-  "nomadenkino-2383799962": {
-    "cinemaId": "1621",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/nomadenkino-berlin/shows/movies",
-    "cinemaName": "nomadenkino-berlin",
-    "cinemaShortName": "nomadenkino",
-    "id": "nomadenkino-2383799962",
-    "title": "Clubkultur Berlin ",
-    "date": "Mi., 30.6.",
-    "timestamp": 1625011200000,
-    "time": "21:30",
-    "url": "https://www.kinoheld.de/cinema-berlin/nomadenkino-berlin/show/2383799962?layout=shows",
-    "img": "https://media.kinoheld.de/b1NN6NmN9x412seHeI2J4XbR87E=/400x560/images%2Ffilm%2Fmo%2F366-1621-8078.v3.png",
-    "description": "CLUBKULTUR SCREENING TOUR Informationen\r\n\r\nBerlins CLUBKULTUR taucht ab ins prä-pandemische Berliner Nachtleben.\r\n Berlin galt seit dem Mauerfall weltweit als das Superlativ der Clubszene. Mit der Pandemie ist eine Industrie und Subkultur, samt deren Einnahmen, Einkommen, und nahezu tabufreien Rückzugsorte und schillernden Persönlichkeiten verschwunden. Wird es ein Zurück geben, und wenn ja, welche neue Form der CLUBKULTUR wird entstehen? Welchen Einfluss hat das Sterben der Clubs auf die mentale Gesundheit derjenigen, für die Clubs nicht nur zum Feiern, sondern Arbeitsplatz oder Schutzraum waren, an denen sie Lust und Laster wertfrei ausleben konnten?\r\n\r\nDie Regisseurinnen Leonie Gerner & Andrea Schumacher haben eine kritische, rasante Dokumentation produziert. Eine Dokumentation, in der Club-Betreiber, Musiker, DJs und Psychologen zu Wort kommen, und bisher unveröffentlichtes Footage aus den Clubs gezeigt werden darf.\r\nDas Topic ist hochbrisant, denn der Verlust von Unbeschwertheit und Offenheit, betrifft eine internationale Zielgruppe von New York bis Tel Aviv – die nur aus einem Grund nach Berlin kam: um ‚once in a lifetime‘ all das zu erleben, was woanders tabu ist.\r\n\r\nInside Berlin’s Club Scene: für viele Hoffnung, Sehnsucht und Elexier aus einer verblassenden Erinnerung an Intimität, Sex, Musik, Ekstase und Freude.\r\nWir sind sicher, dass unsere Open Air Kino Tour derzeit die absolut richtige Plattform ist, um Zuschauer zu erreichen, die sich nichts sehnlicher wünschen als in die facettenreiche Berliner Clubszene abtauchen zu können. In die „Roaring 20s“ unseres Jahrhunderts.",
-    "available": -1,
-    "reserved": 0,
     "bookable": true
   },
   "nomadenkino-2389672156": {
@@ -1580,6 +1563,23 @@
     "reserved": 0,
     "bookable": true
   },
+  "nomadenkino-2394768749": {
+    "cinemaId": "1621",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/nomadenkino-berlin/shows/movies",
+    "cinemaName": "nomadenkino-berlin",
+    "cinemaShortName": "nomadenkino",
+    "id": "nomadenkino-2394768749",
+    "title": "Clubkultur Berlin ",
+    "date": "Fr., 30.7.",
+    "timestamp": 1627603200000,
+    "time": "21:30",
+    "url": "https://www.kinoheld.de/cinema-berlin/nomadenkino-berlin/show/2394768749?layout=shows",
+    "img": "https://media.kinoheld.de/b1NN6NmN9x412seHeI2J4XbR87E=/400x560/images%2Ffilm%2Fmo%2F366-1621-8078.v3.png",
+    "description": "CLUBKULTUR SCREENING TOUR Informationen\r\n\r\nBerlins CLUBKULTUR taucht ab ins prä-pandemische Berliner Nachtleben.\r\n Berlin galt seit dem Mauerfall weltweit als das Superlativ der Clubszene. Mit der Pandemie ist eine Industrie und Subkultur, samt deren Einnahmen, Einkommen, und nahezu tabufreien Rückzugsorte und schillernden Persönlichkeiten verschwunden. Wird es ein Zurück geben, und wenn ja, welche neue Form der CLUBKULTUR wird entstehen? Welchen Einfluss hat das Sterben der Clubs auf die mentale Gesundheit derjenigen, für die Clubs nicht nur zum Feiern, sondern Arbeitsplatz oder Schutzraum waren, an denen sie Lust und Laster wertfrei ausleben konnten?\r\n\r\nDie Regisseurinnen Leonie Gerner & Andrea Schumacher haben eine kritische, rasante Dokumentation produziert. Eine Dokumentation, in der Club-Betreiber, Musiker, DJs und Psychologen zu Wort kommen, und bisher unveröffentlichtes Footage aus den Clubs gezeigt werden darf.\r\nDas Topic ist hochbrisant, denn der Verlust von Unbeschwertheit und Offenheit, betrifft eine internationale Zielgruppe von New York bis Tel Aviv – die nur aus einem Grund nach Berlin kam: um ‚once in a lifetime‘ all das zu erleben, was woanders tabu ist.\r\n\r\nInside Berlin’s Club Scene: für viele Hoffnung, Sehnsucht und Elexier aus einer verblassenden Erinnerung an Intimität, Sex, Musik, Ekstase und Freude.\r\nWir sind sicher, dass unsere Open Air Kino Tour derzeit die absolut richtige Plattform ist, um Zuschauer zu erreichen, die sich nichts sehnlicher wünschen als in die facettenreiche Berliner Clubszene abtauchen zu können. In die „Roaring 20s“ unseres Jahrhunderts.",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
   "fmp-2391287694": {
     "cinemaId": "1657",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
@@ -1627,7 +1627,7 @@
     "timestamp": 1625184000000,
     "time": "21:45",
     "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2392528828?layout=shows",
-    "img": "https://media.kinoheld.de/5UsoxdrHxT_fQG2KarXBkb8JogI=/400x560/images%2Ffilm%2Fdemon-slayer-kimetsu-no-yaiba-mugen-train-18801.v18.jpg",
+    "img": "https://media.kinoheld.de/nBBqUhyfaJtjtGDKWIhOXLYJ__U=/400x560/images%2Ffilm%2Fdemon-slayer-kimetsu-no-yaiba-mugen-train-18801.v19.jpg",
     "description": "Tanjirō und seine Gefährten haben ihr Rehabilitationstraining im Schmetterlingsanwesen abgeschlossen und erreichen den Ort ihrer nächsten Mission. Im »Mugen-Zug« sind über 40 Leute innerhalb kürzester Zeit verschwunden. Tanjirō, Nezuko, Zenitsu und Inosuke schließen sich einem der mächtigsten Schwertkämpfer unter den Dämonenjägern an: der Säule der Flammen Kyōjurō Rengoku. Zusammen wollen sie sich dem Dämon stellen, der im »Mugen-Zug« lauert und begeben sich auf eine Fahrt in die Dunkelheit.",
     "trailer": "https://youtu.be/MKJ-nXADsVk",
     "available": -1,
@@ -1843,7 +1843,7 @@
     "timestamp": 1626912000000,
     "time": "21:30",
     "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2392542992?layout=shows",
-    "img": "https://media.kinoheld.de/5UsoxdrHxT_fQG2KarXBkb8JogI=/400x560/images%2Ffilm%2Fdemon-slayer-kimetsu-no-yaiba-mugen-train-18801.v18.jpg",
+    "img": "https://media.kinoheld.de/nBBqUhyfaJtjtGDKWIhOXLYJ__U=/400x560/images%2Ffilm%2Fdemon-slayer-kimetsu-no-yaiba-mugen-train-18801.v19.jpg",
     "description": "Tanjirō und seine Gefährten haben ihr Rehabilitationstraining im Schmetterlingsanwesen abgeschlossen und erreichen den Ort ihrer nächsten Mission. Im »Mugen-Zug« sind über 40 Leute innerhalb kürzester Zeit verschwunden. Tanjirō, Nezuko, Zenitsu und Inosuke schließen sich einem der mächtigsten Schwertkämpfer unter den Dämonenjägern an: der Säule der Flammen Kyōjurō Rengoku. Zusammen wollen sie sich dem Dämon stellen, der im »Mugen-Zug« lauert und begeben sich auf eine Fahrt in die Dunkelheit.",
     "trailer": "https://youtu.be/MKJ-nXADsVk",
     "available": -1,
@@ -2163,7 +2163,7 @@
     "timestamp": 1625356800000,
     "time": "21:45",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2386573093?layout=shows",
-    "img": "https://media.kinoheld.de/5UsoxdrHxT_fQG2KarXBkb8JogI=/400x560/images%2Ffilm%2Fdemon-slayer-kimetsu-no-yaiba-mugen-train-18801.v18.jpg",
+    "img": "https://media.kinoheld.de/nBBqUhyfaJtjtGDKWIhOXLYJ__U=/400x560/images%2Ffilm%2Fdemon-slayer-kimetsu-no-yaiba-mugen-train-18801.v19.jpg",
     "description": "Der Kinofilm zur gleichnamigen Anime-Serie ist der erfolgreichste Anime aller Zeiten, mit aktuellem Stand führt er mit großem Abstand vor den bisherigen Spitzenreitern CHIHIROS REISE INS ZAUBERLAND (2001) von Hayao Miyazaki und YOUR NAME (2016) von Makoto Shinkai. Eine Sensation, wenn man bedenkt, dass gerade einmal ein Jahr seit dem Start in Japan vergangen ist und der Film einfach die direkte Fortsetzung der Serie, also eher eine überlange Episode ist. Doch anbetracht der Tatsache, dass die Serie zu den besten im japanischen Anime-Universum gehört und die Hauptfiguren überhaus sympathisch sind, dürfen sich alle Anime-Fans auf ein schönes Kinoabenteuer freuen. Es kann nicht schaden, zuvor schnell die Serie zu schauen. Oder hinterher.",
     "trailer": "https://youtu.be/bBaKrECITsg",
     "available": -1,
@@ -2271,7 +2271,7 @@
     "timestamp": 1625875200000,
     "time": "21:45",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2388621683?layout=shows",
-    "img": "https://media.kinoheld.de/5UsoxdrHxT_fQG2KarXBkb8JogI=/400x560/images%2Ffilm%2Fdemon-slayer-kimetsu-no-yaiba-mugen-train-18801.v18.jpg",
+    "img": "https://media.kinoheld.de/nBBqUhyfaJtjtGDKWIhOXLYJ__U=/400x560/images%2Ffilm%2Fdemon-slayer-kimetsu-no-yaiba-mugen-train-18801.v19.jpg",
     "description": "Der Kinofilm zur gleichnamigen Anime-Serie ist der erfolgreichste Anime aller Zeiten, mit aktuellem Stand führt er mit großem Abstand vor den bisherigen Spitzenreitern CHIHIROS REISE INS ZAUBERLAND (2001) von Hayao Miyazaki und YOUR NAME (2016) von Makoto Shinkai. Eine Sensation, wenn man bedenkt, dass gerade einmal ein Jahr seit dem Start in Japan vergangen ist und der Film einfach die direkte Fortsetzung der Serie, also eher eine überlange Episode ist. Doch anbetracht der Tatsache, dass die Serie zu den besten im japanischen Anime-Universum gehört und die Hauptfiguren überhaus sympathisch sind, dürfen sich alle Anime-Fans auf ein schönes Kinoabenteuer freuen. Es kann nicht schaden, zuvor schnell die Serie zu schauen. Oder hinterher.",
     "trailer": "https://youtu.be/bBaKrECITsg",
     "available": -1,
@@ -2386,21 +2386,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "mobile kino-2390683284": {
-    "cinemaId": "3033",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/mobile-kino-berlin/shows/movies",
-    "cinemaName": "mobile-kino-berlin",
-    "cinemaShortName": "mobile kino",
-    "id": "mobile kino-2390683284",
-    "title": "BACURAU (subtitled OV English)",
-    "date": "Mi., 30.6.",
-    "timestamp": 1625011200000,
-    "time": "21:45",
-    "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2390683284?layout=shows",
-    "available": 108,
-    "reserved": 0,
-    "bookable": true
-  },
   "mobile kino-2390691136": {
     "cinemaId": "3033",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/mobile-kino-berlin/shows/movies",
@@ -2412,8 +2397,8 @@
     "timestamp": 1625097600000,
     "time": "21:45",
     "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2390691136?layout=shows",
-    "available": 46,
-    "reserved": 62,
+    "available": 47,
+    "reserved": 61,
     "bookable": true
   },
   "mobile kino-2388331212": {
@@ -2442,8 +2427,8 @@
     "timestamp": 1625184000000,
     "time": "21:45",
     "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2391260436?layout=shows",
-    "available": 29,
-    "reserved": 79,
+    "available": 28,
+    "reserved": 80,
     "bookable": true
   },
   "mobile kino-2390326352": {
@@ -2457,8 +2442,8 @@
     "timestamp": 1625184000000,
     "time": "21:45",
     "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2390326352?layout=shows",
-    "available": 19,
-    "reserved": 44,
+    "available": 17,
+    "reserved": 46,
     "bookable": true
   },
   "mobile kino-2384770936": {
@@ -2489,8 +2474,8 @@
     "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2386733318?layout=shows",
     "img": "https://media.kinoheld.de/OCKYA9OiSUnKtigdUvJWePMDaso=/400x560/images%2Ffilm%2Fsommer-85-19153.v5.jpg",
     "description": "\"Ein originell verpackter Liebesfilm mit leinwandpräsenten Helden, ebenso hübschen Bildern sowie nostalgisch korrekter Ausstattung. Ein echter Ozon!\" Programmkino.de",
-    "available": 49,
-    "reserved": 67,
+    "available": 46,
+    "reserved": 70,
     "bookable": true
   },
   "mobile kino-2386736592": {
@@ -2526,6 +2511,24 @@
     "trailer": "https://www.youtube.com/watch?v=WDYRjCKQFQs",
     "available": 72,
     "reserved": 3,
+    "bookable": true
+  },
+  "mobile kino-2394397747": {
+    "cinemaId": "3033",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/mobile-kino-berlin/shows/movies",
+    "cinemaName": "mobile-kino-berlin",
+    "cinemaShortName": "mobile kino",
+    "id": "mobile kino-2394397747",
+    "title": "BOHEMIAN RHAPSODY (subtitled OV German)",
+    "date": "Sa., 10.7.",
+    "timestamp": 1625875200000,
+    "time": "21:45",
+    "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2394397747?layout=shows",
+    "img": "https://media.kinoheld.de/xHEKbQH_NBKFpdJ5cuJ32pwd-BQ=/400x560/images%2Ffilm%2Fbohemian-rhapsody-10842.v1.png",
+    "description": "\"Bohemian Rhapsody\" erzählt die Geschichte, wie Freddie Mercury und seine Bandmitglieder Brian May, Roger Taylor und John Deacon Queen gründeten - eine der legendärsten Rockgruppen aller Zeiten. Der Film begleitet Queen, während sie Hit über Hit produzieren, die Musikcharts anführen und dabei ihre Musik immer weiter entwickeln. Durch so grundverschiedene Songs wie \"Killer Queen\", \"Bohemian Rhapsody\", \"We Are The Champions\" und \"We Will Rock You\" sowie unzählige weitere Songs gelang der Band ein beispielloser Erfolg, der Freddie zu einem der beliebtesten Entertainer weltweit machte. Doch hinter der Fassade von Erfolg kämpft Freddie mit seiner inneren Zerrissenheit. Der aus Sansibar stammende Parse sucht unablässig nach seinem Platz in der Welt, während er gleichzeitig versucht, sich in einer Gesellschaft, die in Stereotypen und Erwartungen gefangen ist, mit einer Sexualität zu arrangieren, die er selbst kaum definieren kann. Freddie wagt es, sich zu widersetzen, aber zahlt auch den Preis dafür. Zum exzessiven Leben verführt und von dunklen Kräften getrieben, trennt sich Freddie von Queen, um eine Solo-Karriere zu starten. Sein Versuch, sich als Solo-Künstler neu zu erfinden, endet mit Enttäuschung und weiterer Isolation. Freddie, der unter der fehlenden Zusammenarbeit mit Brian, Roger und John - seiner Rock'n'Roll-Familie leidet, erkennt schließlich, dass die Magie von Queen und das Geheimnis ihres Erfolges darin liegt, dass sie zusammenarbeiten und sich gegenseitig beflügeln. Freddie gelingt es rechtzeitig für \"Live Aid\" - dem größten Konzert aller Zeiten - die Band wieder zu vereinen. Aber das Schicksal und sein exzessiver Lebensstil legen ihm ein niederschmetterndes Hindernis in den Weg, eins das in zwingt, sich seiner eigenen Sterblichkeit zu stellen und sie zu akzeptieren. Nachdem er es ein weiteres Mal schafft, seine persönlichen Konflikte und alle Schwierigkeiten zu überwinden, gibt die Band das beste Konzert in der Geschichte der Rockmusik. Queen zementiert damit ein Vermächtnis, das noch heute Außenstehende, Träumer und Musikliebhaber inspiriert. Auf Freddies Weise, und nicht der vom Rest der Welt.",
+    "trailer": "https://www.youtube.com/watch?v=2Xw1jDUIACE",
+    "available": 75,
+    "reserved": 0,
     "bookable": true
   },
   "mobile kino-2391604818": {
@@ -2605,26 +2608,8 @@
     "img": "https://media.kinoheld.de/VJ575z3Wugek2Jcv3PLs2shT8AY=/400x560/images%2Ffilm%2Fmatthias-maxime-17408.v5.jpg",
     "description": "Matthias und Maxime sind schon seit ihrer Kindheit beste Freunde und können sich gar nicht vorstellen, plötzlich getrennte Wege zu gehen. Doch das Erwachsenwerden bedeutet Veränderung und so zieht es Maxime für längere Zeit nach Australien.\r\n\r\nIn den Tagen vor seiner Abreise ziehen die beiden im Kreis ihrer Freunde von einer Party zur nächsten. Als eine ihrer Freundinnen, eine Filmstudentin, für ihren neuesten Kurzfilm noch zwei Schauspieler sucht, werden Matthias und Maxime kurzerhand und nicht ganz gegen ihren Willen engagiert. Der Knackpunkt des Ganzen? Die beiden Freunde müssen sich vor der Kamera küssen und dies bringt plötzlich alles ins Wanken.\r\n\r\nUngeahnte und unterdrückte Gefühle erwachen, die die beiden vor Entscheidungen und Herausforderungen stellen, die unüberwindbar scheinen. Denn während Matthias sich krampfhaft gegen seine Gefühle zu wehren versucht, wächst in Maxime mehr und mehr der Wunsch, Matthias noch näher zu kommen, bevor sie der Ozean endgültig trennt. Gibt es für die beiden doch noch ein Happy End?",
     "trailer": "https://www.youtube.com/watch?v=EVE6XP2HcH8",
-    "available": 112,
-    "reserved": 4,
-    "bookable": true
-  },
-  "kulturforum-244": {
-    "title": "Schwesterlein",
-    "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/5f86ea6769f5b57e91f0e69f/show_5851399.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg",
-    "description": "Lisa, einst brillante Theaterautorin, schreibt nicht mehr. Sie lebt mit ihrer Familie in der Schweiz, doch ihr Herz ist in Berlin geblieben – bei ihrem Zwillingsbruder Sven, dem berühmten Bühnendarsteller. Seit dieser an einer aggressiven Leukämie erkrankt ist, sind die Geschwister noch enger verbunden. Lisa weigert sich, den Schicksalsschlag hinzunehmen und setzt alle Hebel in Bewegung, um Sven wieder auf die Bühne zu bringen.",
-    "trailer": "https://www.youtube.com/watch?v=9etgeTUFYi4&ab_channel=vipmagazinvipmagazin",
-    "cinemaId": "54eefd0b683138488b190000",
-    "cinemaUrl": "https://yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-244",
-    "url": "https://yorck.de/checkout/step01?showid=244&siteid=1015",
-    "time": "21:45",
-    "date": "Mi., 30.6.",
-    "timestamp": 1625089500000,
-    "available": 351,
-    "reserved": 89,
+    "available": 110,
+    "reserved": 6,
     "bookable": true
   },
   "kulturforum-250": {
@@ -2659,8 +2644,8 @@
     "time": "21:45",
     "date": "Fr., 2.7.,",
     "timestamp": 1625262300000,
-    "available": 219,
-    "reserved": 241,
+    "available": 217,
+    "reserved": 243,
     "bookable": true
   },
   "kulturforum-248": {
@@ -2677,8 +2662,8 @@
     "time": "21:45",
     "date": "Sa., 3.7.,",
     "timestamp": 1625348700000,
-    "available": 354,
-    "reserved": 106,
+    "available": 349,
+    "reserved": 111,
     "bookable": true
   },
   "kulturforum-249": {
@@ -2695,26 +2680,114 @@
     "time": "21:45",
     "date": "So., 4.7.,",
     "timestamp": 1625435100000,
-    "available": 408,
-    "reserved": 52,
+    "available": 409,
+    "reserved": 51,
     "bookable": true
   },
-  "schloss-charlottenburg-30": {
-    "title": "Rosas Hochzeit",
-    "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/5f9962b76144400825a81bc7/show_index_s_retina_plakat_RH_Plakat_03final.jpg",
-    "description": "„Rosas Hochzeit“ ist die Geschichte von unendlich vielen Frauen – in jeder Familie gibt es eine Rosa, aber auch eine Lidia, eine Violeta, einen Antonio… Rosas Hochzeit ist Gefühl und Wirklichkeit, es ist eine Geschichte über das Menschsein, das Mitgefühl und die Liebe.\nDer Box-Office-Hit in Spanien – nach „El Olivo“ und „Yuli“) der neue Film von Iciar Bollain: Die Geschichte einer Befreiung, eine dramatische Komödie, mit einem herausragenden Ensemble, allen voran die umwerfende Candela Peña in der Titelrolle!",
-    "trailer": "https://www.youtube.com/watch?v=CsVS5vbMGQs&ab_channel=vipmagazinvipmagazin",
-    "cinemaId": "60a3b5ed61444058ac0797a2",
-    "cinemaUrl": "https://yorck.de/kinos/sommerkino-schloss-charlottenburg",
-    "cinemaName": "sommerkino-schloss-charlottenburg",
-    "cinemaShortName": "schloss-charlottenburg",
-    "id": "schloss-charlottenburg-30",
-    "url": "https://yorck.de/checkout/step01?showid=30&siteid=1020",
+  "kulturforum-251": {
+    "title": "Und Morgen die ganze Welt",
+    "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/5f5f39cb69f5b55fa833316d/show_und-morgen-die-ganze-welt.jpg",
+    "description": "Luisa ist 20 Jahre alt, stammt aus gutem Haus, studiert Jura im ersten Semester. Und sie will, dass sich etwas verändert in Deutschland. Alarmiert vom Rechtsdruck im Land und der zunehmenden Beliebtheit populistischer Parteien, tut sie sich mit ihren Freunden zusammen, um sich klar gegen die neue Rechte zu positionieren. Schnell findet sie Anschluss bei dem charismatischen Alfa und dessen besten Freund Lenor: Für die beiden ist auch der Einsatz von Gewalt ein legitimes Mittel, um Widerstand zu leisten. Bald schon überstürzen sich die Ereignisse. Und Luisa muss entscheiden, wie weit zu gehen sie bereit ist – auch wenn das fatale Konsequenzen für sie und ihre Freunde haben könnte.",
+    "trailer": "https://www.youtube.com/watch?v=aYQnSwDpdQo&ab_channel=CinemalditoCinemaldito",
+    "cinemaId": "54eefd0b683138488b190000",
+    "cinemaUrl": "https://yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-251",
+    "url": "https://yorck.de/checkout/step01?showid=251&siteid=1015",
     "time": "21:45",
-    "date": "Mi., 30.6.",
-    "timestamp": 1625089500000,
-    "available": 492,
-    "reserved": 137,
+    "date": "Mo., 5.7.,",
+    "timestamp": 1625521500000,
+    "available": 437,
+    "reserved": 23,
+    "bookable": true
+  },
+  "kulturforum-252": {
+    "title": "Persischstunden",
+    "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/5e96ce1f69f5b55893daaa3a/show_Poster_PS_deutsch_RGB.jpg",
+    "description": "1942 im besetzten Frankreich wird der junge Belgier Gilles von der SS verhaftet und in ein KZ gebracht. Um der Exekution zu entgehen behauptet er, Perser zu sein – eine Lüge die ihm zunächst das Leben rettet. Als der Lagerkommandant Klaus Koch (Lars Eidinger) davon hört denkt er an seinen großen Traum – nach Kriegsende ein Restaurant im Iran zu eröffnen. Er beauftragt Gilles, ihm Farsi beizubringen. Da gibt es nur ein Problem: Gilles spricht kein Farsi. Wort für Wort muss er eine Sprache erfinden. Es beginnt eine heikle Beziehung zwischen den Männern, denn jeder Fehltritt könnte Gilles auffliegen lassen.",
+    "trailer": "https://www.youtube.com/watch?v=5PlNW3_xHvU",
+    "cinemaId": "54eefd0b683138488b190000",
+    "cinemaUrl": "https://yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-252",
+    "url": "https://yorck.de/checkout/step01?showid=252&siteid=1015",
+    "time": "21:45",
+    "date": "Mi., 7.7.,",
+    "timestamp": 1625694300000,
+    "available": 439,
+    "reserved": 21,
+    "bookable": true
+  },
+  "kulturforum-253": {
+    "title": "Demon Slayer: Kimetsu no Yaiba - Mugen Train (OmU)",
+    "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60db25c661444027749f6994/show_demon-slayer-the-movie-mugen-train-5a5d58d4949c360763597484623eca39_poster.jpg",
+    "description": "Magie, Schwertkämpfer, Typen mit Wildschweinköpfen & ein fieser Dämon – alle in einem Zug, der unaufhaltsam der Düsternis entgegenbrettert. Zeit für das Demon Slayer Corps. Mit seinen fantastischen Animationen avancierte dieses Werk trotz Pandemie zum erfolgreichsten japanischen Film aller Zeiten.",
+    "cinemaId": "54eefd0b683138488b190000",
+    "cinemaUrl": "https://yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-253",
+    "url": "https://yorck.de/checkout/step01?showid=253&siteid=1015",
+    "time": "21:45",
+    "date": "Do., 8.7.,",
+    "timestamp": 1625780700000,
+    "available": 439,
+    "reserved": 21,
+    "bookable": true
+  },
+  "kulturforum-259": {
+    "title": "Eyes Wide Shut (OmU)",
+    "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60db270169f5b52f21cdb2fb/show_4120KmPGB4L._AC_.jpg",
+    "description": "Ein Streit um die Liebe & Treue lässt einen verheirateten Arzt in die Nacht taumeln, wo er sich in einer surrealen Abfolge sexueller Begegnungen wiederfindet. Im New York Ende der 90er Jahre , mit Nicole Kidman und Tom Cruise in den Hauptrollen.",
+    "cinemaId": "54eefd0b683138488b190000",
+    "cinemaUrl": "https://yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-259",
+    "url": "https://yorck.de/checkout/step01?showid=259&siteid=1015",
+    "time": "21:45",
+    "date": "Fr., 9.7.,",
+    "timestamp": 1625867100000,
+    "available": 439,
+    "reserved": 21,
+    "bookable": true
+  },
+  "kulturforum-254": {
+    "title": "Der Rausch",
+    "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60a79f9a69f5b543b871ec2a/show_Der_Rausch_Poster_S.jpg",
+    "description": "Vier Lehrer starten ein Experiment: dauerhaft halten sie einen niedrigen Alkoholpegel aufrecht. Ausgezeichnet mit 2 Oscars.",
+    "trailer": "https://www.youtube.com/watch?v=BQyIaFreaQA&ab_channel=FilmladenFilmverleihFilmladenFilmverleih",
+    "cinemaId": "54eefd0b683138488b190000",
+    "cinemaUrl": "https://yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-254",
+    "url": "https://yorck.de/checkout/step01?showid=254&siteid=1015",
+    "time": "21:45",
+    "date": "Sa., 10.7.",
+    "timestamp": 1625953500000,
+    "available": 440,
+    "reserved": 20,
+    "bookable": true
+  },
+  "kulturforum-260": {
+    "title": "Als wir tanzten",
+    "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/5d3efef761444019c3816084/show_s592.jpg",
+    "description": "Merab ist Student an der Akademie des Georgischen Nationalballetts in Tiflis. Sein größter Traum ist es, professioneller Tänzer zu werden. Als Irakli neu in die Klasse kommt, sieht Merab in ihm zunächst einen ernstzunehmenden Rivalen auf den ersehnten Platz im festen Ensemble. Doch aus der Konkurrenz wird bald ein immer stärkeres Begehren. Im homophoben Umfeld der Schule, in der konservative Vorstellungen von Männlichkeit hochgehalten werden, wird von den beiden jedoch erwartet, dass sie ihre Liebe geheim halten.",
+    "trailer": "https://www.youtube.com/watch?v=hgPuh2nI-Pc",
+    "cinemaId": "54eefd0b683138488b190000",
+    "cinemaUrl": "https://yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-260",
+    "url": "https://yorck.de/checkout/step01?showid=260&siteid=1015",
+    "time": "21:45",
+    "date": "So., 11.7.",
+    "timestamp": 1626039900000,
+    "available": 440,
+    "reserved": 20,
     "bookable": true
   },
   "schloss-charlottenburg-34": {
@@ -2731,8 +2804,8 @@
     "time": "21:30",
     "date": "Do., 1.7.,",
     "timestamp": 1625175000000,
-    "available": 588,
-    "reserved": 69,
+    "available": 590,
+    "reserved": 67,
     "bookable": true
   },
   "schloss-charlottenburg-31": {
@@ -2767,8 +2840,8 @@
     "time": "21:30",
     "date": "Sa., 3.7.,",
     "timestamp": 1625347800000,
-    "available": 111,
-    "reserved": 546,
+    "available": 86,
+    "reserved": 571,
     "bookable": true
   },
   "schloss-charlottenburg-33": {
