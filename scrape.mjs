@@ -101,7 +101,7 @@ async function getYorckCinema(cinemaId, cinemaName, cinemaShortName) {
       title: el.querySelector(".movie-details h3").innerText.trim(),
       img: d.querySelector(".movie-poster img ").src,
       description: d.querySelector(".movie-description-text").innerText.trim(),
-      trailer: d.querySelector(".trailer-play-button").href,
+      trailer: d.querySelector(".trailer-play-button")?.href,
     };
   }));
   const movieMap = movies.reduce((xs, x) => Object.assign(xs, {[x.title.toLowerCase()]: x}), {});
