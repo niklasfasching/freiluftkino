@@ -154,8 +154,8 @@
       "date": "So., 4.7.,",
       "timestamp": 1625435100000,
       "time": "21:45",
-      "available": 993,
-      "reserved": 77,
+      "available": 995,
+      "reserved": 75,
       "bookable": true
     },
     {
@@ -278,8 +278,8 @@
       "date": "Fr., 2.7.,",
       "timestamp": 1625262300000,
       "time": "21:45",
-      "available": 885,
-      "reserved": 185,
+      "available": 883,
+      "reserved": 187,
       "bookable": true
     },
     {
@@ -312,8 +312,8 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625953500000,
       "time": "21:45",
-      "available": 1035,
-      "reserved": 35,
+      "available": 1033,
+      "reserved": 37,
       "bookable": true
     },
     {
@@ -401,8 +401,8 @@
       "date": "Di., 6.7.,",
       "timestamp": 1625607900000,
       "time": "21:45",
-      "available": 232,
-      "reserved": 305,
+      "available": 231,
+      "reserved": 306,
       "bookable": true
     },
     {
@@ -774,8 +774,8 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
       "time": "21:30",
-      "available": 152,
-      "reserved": 230,
+      "available": 151,
+      "reserved": 231,
       "bookable": true
     },
     {
@@ -881,8 +881,8 @@
       "date": "So., 4.7.,",
       "timestamp": 1625435100000,
       "time": "21:45",
-      "available": 327,
-      "reserved": 55,
+      "available": 324,
+      "reserved": 58,
       "bookable": true
     },
     {
@@ -1118,24 +1118,6 @@
     }
   ],
   "freiluftkino-hasenheide": [
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "hasenheide-689574",
-      "title": "Rosas Hochzeit ",
-      "date": "Mi., 30.6.",
-      "timestamp": 1625011200000,
-      "time": "21:45",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689574?layout=shows",
-      "img": "https://media.kinoheld.de/TKIketINYpTHAjLhdsjSjqCltJ4=/400x560/images%2Ffilm%2Frosas-hochzeit-17580.v2.png",
-      "description": "Kurz vor ihrem 45. Geburtstag beschließt Rosa, dass es Zeit für einen radikalen Wandel in ihrem Leben ist. Immer hat sie für die anderen gelebt, in ihrem Job als Kostümbildnerin bis zum Umfallen gearbeitet, den Vater zum Arzt begleitet, sich um die Kinder ihres Bruders gekümmert. Knall auf Fall verlässt sie Valencia, um sich im alten Schneiderladen ihrer Mutter in einem kleinen Küstenort den Traum vom eigenen Geschäft zu erfüllen. Aber es ist nicht so leicht, sein Leben in die eigenen Hände zu nehmen. Der Job, ihr Vater, die Geschwister, ihr Freund und ihre Tochter, alle mit ihren eigenen Plänen und Problemen: Das Handy hört gar nicht mehr auf zu klingeln. Rosa beschließt, ein Zeichen zu setzen: Sie will heiraten. Und diese Hochzeit wird eine ganz besondere sein…<br><br>„Rosas Hochzeit“, ist die Geschichte einer Befreiung, eine dramatische Komödie, mit einer umwerfenden Candela Peña in der Titelrolle.",
-      "trailer": "https://www.youtube.com/watch?v=IxtxWHMl5sA",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
     {
       "cinemaId": "580",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
@@ -1542,24 +1524,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
       "cinemaName": "b-ware-openair-fmp",
       "cinemaShortName": "fmp",
-      "id": "fmp-2391287694",
-      "title": "nd-FilmClub: EINMAL IST KEINMAL (DEFA 1955) ",
-      "date": "Mi., 30.6.",
-      "timestamp": 1625011200000,
-      "time": "20:45",
-      "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2391287694?layout=shows",
-      "img": "https://media.kinoheld.de/mKn-9DwlAREJ5T3afAxKo0zuOJQ=/400x560/images%2Ffilm%2Fmo%2F3045-37185.v3.jpg",
-      "description": "Peter Weselin, ein Düsseldorfer Musiker, kommt ins vogtländische Klingenthal, um bei seinem Onkel ein paar Wochen geruhsamen Urlaub zu verbringen. Doch dort, in der Stadt des Instrumentenbaus, stehen die jährlichen Musiktage vor der Tür, und alle stürzen sich mit Kompositionswünschen auf Peter. Das Akkordeonwerk bittet um eine große Komposition fürs Sinfonieorchester, und die hübsche Anna möchte einen Schlager für ihre Jugendtanzkapelle. Aus beschaulichen Ferien wird also nichts, zumal sich Peter in die kecke und anfangs ziemlich launenhafte Anna verliebt. Und auch die Liebesangelegenheiten von Onkel Edeltanne, der ein Auge auf Annas Freundin Elvira geworfen hat, müssen einer Lösung nähergebracht werden.",
-      "trailer": "https://youtu.be/wKUvBJYiiTA",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "1657",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
-      "cinemaName": "b-ware-openair-fmp",
-      "cinemaShortName": "fmp",
       "id": "fmp-2392528819",
       "title": "THE UNITED STATES VS. BILLIE HOLIDAY (subtitled OV / en)",
       "date": "Do., 1.7.,",
@@ -1748,7 +1712,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2392542630?layout=shows",
       "img": "https://media.kinoheld.de/R8VDXSPvszmiJwKj83Io0hLKCVY=/400x560/images%2Ffilm%2Fmo%2F3013-36027.v2.jpg",
       "description": "Ein Sex-Tape gelangt ins Internet und geht dort viral. Es zeigt eine Frau und einen Mann, die beide Masken tragen, beim Geschlechtsakt. Doch die Frau in dem Video lässt sich als Emi (Katia Pascariu) identifizieren - eine Lehrerin.\r\n\r\nEmis Ruf und Karriere geraten in Bedrängnis, als die Eltern ihrer Schüler ihren augenblicklichen Rücktritt fordern. Doch die Lehrerin weigert sich, dem öffentlichen Druck nachzugeben, nur weil die anderen ihre Vorbild-Funktion anzweifeln.\r\n\r\nVorurteile, Heuchelei und Chauvinismus prallen in Folge dessen aufeinander, als immer mehr Verschwörungstheorien die Runde machen und ein Streit über den gesellschaftlichen Umgang mit pornografischen Inhalten entbrennt.",
-      "trailer": "https://youtu.be/MKJ-nXADsVk",
+      "trailer": "https://youtu.be/8AEgcTSMSOY",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -1784,7 +1748,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2392542649?layout=shows",
       "img": "https://media.kinoheld.de/DQsE2bJ2xtRqdKQPdV3MXrumGew=/400x560/images%2Ffilm%2Fmo%2F3013-37597.v2.jpg",
       "description": "FREAKSCENE THE STORY OF DINOSAUR JR. is a homage of one of the most influential bands on the American East Coast, which inspired the rock scene – including Nirvana and Sonic Youth – in the 1990s. Their style and unmistakable sound, later referred as “Grunge”, laid the foundation for the entire “Slacker” culture of Generation X.\r\nIt is also the story of the eloquent and eccentric guitarist and bandleader J. Mascis, the bassist Lou Barlow and drummer Murph and a band that insanely does not talk to each other. Communication takes place exclusively through music. Philipp Reichenheim nevertheless manages to make the closed and shy icons speak.\r\nAn emotional, tragically funny and sometimes noisy rollercoaster ride by a dysfunctional family – Dinosaur Jr.\r\nThrough several decades, the film offers rare insights into the crazy everyday life of the band and illuminates the inner workings of a cult band from its beginnings in the 1980s and 90s to the present day.",
-      "trailer": "https://youtu.be/MKJ-nXADsVk",
+      "trailer": "https://youtu.be/O5w28bJKmxY",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -2236,24 +2200,6 @@
     }
   ],
   "freiluftkino-pompeji-open-air-am-ostkreuz-berlin": [
-    {
-      "cinemaId": "2153",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-      "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-      "cinemaShortName": "pompeji ostkreuz",
-      "id": "pompeji ostkreuz-2384593091",
-      "title": "DOCH DAS BÖSE GIBT ES NICHT (subtitled OV German)",
-      "date": "Mi., 30.6.",
-      "timestamp": 1625011200000,
-      "time": "21:45",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2384593091?layout=shows",
-      "img": "https://media.kinoheld.de/Jcf8bwiQK3d5htTZbF9nyZetDuw=/400x560/images%2Ffilm%2Fpreview-6-jahre-il-kino-there-is-no-evil-doch-das-boese-gibt-es-nicht-17723.v22.jpg",
-      "description": "Heshmat ist ein vorbildlicher Ehemann und Vater, jeden Morgen bricht er sehr früh zur Arbeit auf. Wohin fährt er? Pouya kann sich nicht vorstellen, einen anderen Menschen zu töten, trotzdem bekommt er den Befehl. Kann es einen Ausweg für ihn geben? Javad besucht seine Freundin Nana um ihr einen Heiratsantrag zu machen. Doch dieser Tag hält für beide noch eine andere Überraschung bereit. Bahram ist Arzt, darf aber nicht praktizieren. Als ihn seine Nichte Darya aus Deutschland besucht, beschließt er, ihr den Grund für sein Außenseiterdasein zu offenbaren. DOCH DAS BÖSE GIBT ES NICHT erzählt vier Geschichten über Menschen, deren Leben vor existenziellen Herausforderungen stehen. Sie werfen die Fragen auf, wie integer ein Mensch in einem absoluten Regime bleiben, welche moralische Schuld er ertragen kann, ohne zu zerbrechen, und zu welchem Preis es gelingt, die individuelle Freiheit zu bewahren.",
-      "trailer": "https://vimeo.com/453997250",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
     {
       "cinemaId": "2153",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
@@ -2841,8 +2787,8 @@
       "time": "21:45",
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
-      "available": 345,
-      "reserved": 115,
+      "available": 347,
+      "reserved": 113,
       "bookable": true
     },
     {
@@ -2970,6 +2916,23 @@
       "bookable": true
     },
     {
+      "title": "Das Fest (OmU)",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60dc8d0d6144405026aecdde/show_6e00e8da.jpeg",
+      "description": "Hotelier Helge feiert seinen 60. Geburtstag. Die ganze Familie, Freunde und Verwandte reisen an, um in dem schönen Landhotel das Jubiläum zu begehen. Aber wie so oft bei Familienfesten ist es hinter den Kulissen alles andere als idyllisch. Doch das soll die große Party nicht stören. Man setzt sich an die feierliche Tafel, und es kann beginnen. Christian, der älteste Sohn, hält die Eröffnungsrede und deckt völlig unerwartet ein düsteres Kapitel in der Familiengeschichte auf..",
+      "cinemaId": "54eefd0b683138488b190000",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-255",
+      "url": "https://yorck.de/checkout/step01?showid=255&siteid=1015",
+      "time": "21:30",
+      "date": "Mo., 12.7.",
+      "timestamp": 1626125400000,
+      "available": 437,
+      "reserved": 23,
+      "bookable": true
+    },
+    {
       "title": "Als wir tanzten",
       "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/5d3efef761444019c3816084/show_s592.jpg",
       "description": "Merab ist Student an der Akademie des Georgischen Nationalballetts in Tiflis. Sein größter Traum ist es, professioneller Tänzer zu werden. Als Irakli neu in die Klasse kommt, sieht Merab in ihm zunächst einen ernstzunehmenden Rivalen auf den ersehnten Platz im festen Ensemble. Doch aus der Konkurrenz wird bald ein immer stärkeres Begehren. Im homophoben Umfeld der Schule, in der konservative Vorstellungen von Männlichkeit hochgehalten werden, wird von den beiden jedoch erwartet, dass sie ihre Liebe geheim halten.",
@@ -2985,6 +2948,23 @@
       "timestamp": 1626039900000,
       "available": 440,
       "reserved": 20,
+      "bookable": true
+    },
+    {
+      "title": "Das Fest (OmU)",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60dc8d0d6144405026aecdde/show_6e00e8da.jpeg",
+      "description": "Hotelier Helge feiert seinen 60. Geburtstag. Die ganze Familie, Freunde und Verwandte reisen an, um in dem schönen Landhotel das Jubiläum zu begehen. Aber wie so oft bei Familienfesten ist es hinter den Kulissen alles andere als idyllisch. Doch das soll die große Party nicht stören. Man setzt sich an die feierliche Tafel, und es kann beginnen. Christian, der älteste Sohn, hält die Eröffnungsrede und deckt völlig unerwartet ein düsteres Kapitel in der Familiengeschichte auf..",
+      "cinemaId": "54eefd0b683138488b190000",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-255",
+      "url": "https://yorck.de/checkout/step01?showid=255&siteid=1015",
+      "time": "21:30",
+      "date": "Mo., 12.7.",
+      "timestamp": 1626125400000,
+      "available": 437,
+      "reserved": 23,
       "bookable": true
     },
     {
@@ -3036,8 +3016,8 @@
       "time": "21:45",
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
-      "available": 345,
-      "reserved": 115,
+      "available": 347,
+      "reserved": 113,
       "bookable": true
     },
     {
