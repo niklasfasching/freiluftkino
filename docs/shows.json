@@ -13,8 +13,8 @@
     "date": "Di., 6.7.,",
     "timestamp": 1625607900000,
     "time": "21:45",
-    "available": 833,
-    "reserved": 237,
+    "available": 829,
+    "reserved": 241,
     "bookable": true
   },
   "fhain-694": {
@@ -120,8 +120,8 @@
     "date": "Fr., 9.7.,",
     "timestamp": 1625867100000,
     "time": "21:45",
-    "available": 904,
-    "reserved": 166,
+    "available": 901,
+    "reserved": 169,
     "bookable": true
   },
   "fhain-670": {
@@ -223,8 +223,8 @@
     "date": "Di., 13.7.",
     "timestamp": 1626212700000,
     "time": "21:45",
-    "available": 1035,
-    "reserved": 35,
+    "available": 1032,
+    "reserved": 38,
     "bookable": true
   },
   "fhain-684": {
@@ -241,8 +241,8 @@
     "date": "Sa., 3.7.,",
     "timestamp": 1625348700000,
     "time": "21:45",
-    "available": 652,
-    "reserved": 418,
+    "available": 653,
+    "reserved": 417,
     "bookable": true
   },
   "fhain-683": {
@@ -259,8 +259,8 @@
     "date": "Fr., 2.7.,",
     "timestamp": 1625262300000,
     "time": "21:45",
-    "available": 779,
-    "reserved": 291,
+    "available": 777,
+    "reserved": 293,
     "bookable": true
   },
   "fhain-690": {
@@ -628,8 +628,8 @@
     "date": "Mo., 5.7.,",
     "timestamp": 1625521500000,
     "time": "21:45",
-    "available": 336,
-    "reserved": 46,
+    "available": 333,
+    "reserved": 49,
     "bookable": true
   },
   "rehberge-590": {
@@ -2389,9 +2389,9 @@
     "timestamp": 1625270400000,
     "time": "21:45",
     "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2384770936?layout=shows",
-    "available": 0,
-    "reserved": 51,
-    "bookable": false
+    "available": 1,
+    "reserved": 50,
+    "bookable": true
   },
   "mobile kino-2394398382": {
     "cinemaId": "3033",
@@ -2608,8 +2608,8 @@
     "time": "21:45",
     "date": "Sa., 3.7.,",
     "timestamp": 1625348700000,
-    "available": 316,
-    "reserved": 144,
+    "available": 314,
+    "reserved": 146,
     "bookable": true
   },
   "kulturforum-249": {
@@ -2679,8 +2679,8 @@
     "time": "21:45",
     "date": "Do., 8.7.,",
     "timestamp": 1625780700000,
-    "available": 430,
-    "reserved": 30,
+    "available": 431,
+    "reserved": 29,
     "bookable": true
   },
   "kulturforum-259": {
@@ -2840,8 +2840,8 @@
     "time": "21:30",
     "date": "Mo., 5.7.,",
     "timestamp": 1625520600000,
-    "available": 459,
-    "reserved": 40,
+    "available": 462,
+    "reserved": 37,
     "bookable": true
   },
   "schloss-charlottenburg-37": {
@@ -2855,8 +2855,8 @@
     "time": "21:30",
     "date": "Di., 6.7.,",
     "timestamp": 1625607000000,
-    "available": 471,
-    "reserved": 28,
+    "available": 470,
+    "reserved": 29,
     "bookable": true
   },
   "schloss-charlottenburg-38": {
@@ -2873,8 +2873,8 @@
     "time": "21:30",
     "date": "Mi., 7.7.,",
     "timestamp": 1625693400000,
-    "available": 451,
-    "reserved": 48,
+    "available": 450,
+    "reserved": 49,
     "bookable": true
   },
   "schloss-charlottenburg-39": {
