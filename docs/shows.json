@@ -120,8 +120,8 @@
     "date": "Fr., 9.7.,",
     "timestamp": 1625867100000,
     "time": "21:45",
-    "available": 912,
-    "reserved": 158,
+    "available": 906,
+    "reserved": 164,
     "bookable": true
   },
   "fhain-670": {
@@ -223,8 +223,8 @@
     "date": "Do., 1.7.,",
     "timestamp": 1625175900000,
     "time": "21:45",
-    "available": 915,
-    "reserved": 155,
+    "available": 916,
+    "reserved": 154,
     "bookable": true
   },
   "fhain-692": {
@@ -259,8 +259,8 @@
     "date": "Sa., 3.7.,",
     "timestamp": 1625348700000,
     "time": "21:45",
-    "available": 733,
-    "reserved": 337,
+    "available": 731,
+    "reserved": 339,
     "bookable": true
   },
   "fhain-683": {
@@ -329,8 +329,8 @@
     "date": "Fr., 16.7.",
     "timestamp": 1626471000000,
     "time": "21:30",
-    "available": 1019,
-    "reserved": 51,
+    "available": 1017,
+    "reserved": 53,
     "bookable": true
   },
   "fhain-667": {
@@ -452,8 +452,8 @@
     "date": "Fr., 2.7.,",
     "timestamp": 1625262300000,
     "time": "21:45",
-    "available": 182,
-    "reserved": 355,
+    "available": 180,
+    "reserved": 357,
     "bookable": true
   },
   "xberg-624": {
@@ -716,8 +716,8 @@
     "date": "Di., 13.7.",
     "timestamp": 1626211800000,
     "time": "21:30",
-    "available": 302,
-    "reserved": 80,
+    "available": 299,
+    "reserved": 83,
     "bookable": true
   },
   "rehberge-592": {
@@ -805,8 +805,8 @@
     "date": "Fr., 2.7.,",
     "timestamp": 1625262300000,
     "time": "21:45",
-    "available": 224,
-    "reserved": 158,
+    "available": 223,
+    "reserved": 159,
     "bookable": true
   },
   "rehberge-615": {
@@ -1123,9 +1123,9 @@
     "timestamp": 1625097600000,
     "time": "19:00",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689529?layout=shows",
-    "available": 549,
-    "reserved": 28,
-    "bookable": true
+    "available": 0,
+    "reserved": 0,
+    "bookable": false
   },
   "hasenheide-689587": {
     "cinemaId": "580",
@@ -1141,8 +1141,8 @@
     "img": "https://media.kinoheld.de/6Qu2TJ0HehGLKgwa4dBGTKappvI=/400x560/images%2Ffilm%2Ftenet-16731.v2.png",
     "description": "Ein Agent wird rekrutiert, um einen besonderen Auftrag auszuführen: Er soll den 3. Weltkrieg verhindern. Diesmal ist jedoch keine nukleare Bedrohung der Grund, sondern es muss eine Person gestoppt werden, welche die Fähigkeit besitzt, die Zeit zu manipulieren.",
     "trailer": "https://www.youtube.com/watch?v=jfEQ0BdeQJQ",
-    "available": 398,
-    "reserved": 69,
+    "available": 405,
+    "reserved": 66,
     "bookable": true
   },
   "hasenheide-689588": {
@@ -1261,8 +1261,8 @@
     "timestamp": 1625702400000,
     "time": "21:45",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689520?layout=shows",
-    "available": 187,
-    "reserved": 131,
+    "available": 177,
+    "reserved": 134,
     "bookable": true
   },
   "hasenheide-689594": {
@@ -1332,8 +1332,8 @@
     "img": "https://media.kinoheld.de/MxoVzusSV669JJJuULf5SfAJ6Dw=/400x560/images%2Ffilm%2Fder-rausch-18282.v12.jpg",
     "description": "Früher war Martin Lehrer aus Leidenschaft – heute sind nicht nur die Schüler von seinem fehlenden Enthusiasmus gelangweilt, auch in Martins Ehe ist die Luft raus. Seinen drei Freunden, die am selben Gymnasium unterrichten, geht es nicht viel besser. Bei einer angeheiterten Geburtstagsrunde diskutieren sie die Theorie eines norwegischen Philosophen: Nach dieser ist ein Mensch nur mit einem erhöhten Alkoholgehalt im Blut zu Bestleistungen fähig. Solch eine gewagte These muss überprüft werden. Die vier beschließen den Selbsttest zu machen und während der Arbeit einen bestimmten Pegel zu halten. Soll nicht sogar Churchill den Zweiten Weltkrieg in einem Alkoholrausch gewonnen haben? Mit neuem Antrieb stürzen sie sich in ihre geheime wissenschaftliche Studie. Die Wirkung lässt nicht lange auf sich warten …",
     "trailer": "https://www.youtube.com/watch?v=oJwlO6vcsm0",
-    "available": 35,
-    "reserved": 185,
+    "available": 24,
+    "reserved": 190,
     "bookable": true
   },
   "hasenheide-689598": {
@@ -2547,8 +2547,8 @@
     "timestamp": 1625184000000,
     "time": "21:45",
     "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2390326352?layout=shows",
-    "available": 15,
-    "reserved": 48,
+    "available": 17,
+    "reserved": 46,
     "bookable": true
   },
   "mobile kino-2384770936": {
@@ -2855,8 +2855,8 @@
     "time": "21:45",
     "date": "Do., 8.7.,",
     "timestamp": 1625780700000,
-    "available": 436,
-    "reserved": 24,
+    "available": 435,
+    "reserved": 25,
     "bookable": true
   },
   "kulturforum-259": {
@@ -2890,8 +2890,8 @@
     "time": "21:45",
     "date": "Sa., 10.7.",
     "timestamp": 1625953500000,
-    "available": 430,
-    "reserved": 30,
+    "available": 429,
+    "reserved": 31,
     "bookable": true
   },
   "kulturforum-260": {
@@ -2979,8 +2979,8 @@
     "time": "21:30",
     "date": "Sa., 3.7.,",
     "timestamp": 1625347800000,
-    "available": 55,
-    "reserved": 602,
+    "available": 51,
+    "reserved": 606,
     "bookable": true
   },
   "schloss-charlottenburg-33": {
