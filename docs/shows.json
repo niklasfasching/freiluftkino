@@ -66,8 +66,8 @@
     "date": "Di., 6.7.,",
     "timestamp": 1625607900000,
     "time": "21:45",
-    "available": 781,
-    "reserved": 289,
+    "available": 775,
+    "reserved": 295,
     "bookable": true
   },
   "fhain-694": {
@@ -242,8 +242,8 @@
     "date": "Fr., 9.7.,",
     "timestamp": 1625867100000,
     "time": "21:45",
-    "available": 870,
-    "reserved": 200,
+    "available": 866,
+    "reserved": 204,
     "bookable": true
   },
   "fhain-670": {
@@ -675,8 +675,8 @@
     "date": "So., 4.7.,",
     "timestamp": 1625435100000,
     "time": "21:45",
-    "available": 357,
-    "reserved": 180,
+    "available": 351,
+    "reserved": 186,
     "bookable": true
   },
   "xberg-624": {
@@ -990,8 +990,8 @@
     "date": "Sa., 10.7.",
     "timestamp": 1625952600000,
     "time": "21:30",
-    "available": 277,
-    "reserved": 296,
+    "available": 281,
+    "reserved": 292,
     "bookable": true
   },
   "rehberge-625": {
@@ -1341,8 +1341,8 @@
     "date": "Do., 15.7.",
     "timestamp": 1626384600000,
     "time": "21:30",
-    "available": 565,
-    "reserved": 8,
+    "available": 563,
+    "reserved": 10,
     "bookable": true
   },
   "rehberge-610": {
@@ -1398,23 +1398,6 @@
     "available": 461,
     "reserved": 112,
     "bookable": true
-  },
-  "filmrauschpalast-2389914103": {
-    "cinemaId": "535",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/filmrauschpalast/shows/movies",
-    "cinemaName": "filmrauschpalast",
-    "cinemaShortName": "filmrauschpalast",
-    "id": "filmrauschpalast-2389914103",
-    "title": "OPEN AIR: HOLY MOTORS (subtitled OV)",
-    "date": "Sa., 3.7.,",
-    "timestamp": 1625270400000,
-    "time": "22:00",
-    "url": "https://www.kinoheld.de/cinema-berlin/filmrauschpalast/show/2389914103?layout=shows",
-    "img": "https://media.kinoheld.de/0ajUxKtkj-ue7ITjzw_HKDmjXww=/400x560/images%2Ffilm%2F4%2Fholy-motors-2970.v2.jpg",
-    "description": "Nach über zehn Jahren Abwesenheit kehrte Leos Carax 2012 mit einem Genre-Experiment zurück: eine spielerische, verblüffende Fantasie, getragen von der Tour de Force-Performance des unnachahmlichen Denis Lavant. Als Mann mit mannigfaltigen Identitäten setzt er seine Körperlichkeit gelungen in Szene. Nun wird er dieses Jahr mit Annette die Filmfestspiele von Cannes eröffnen. Grund genug nochmal auf sein Werk zurückzublicken!\r\n> Vom Sonnenaufgang bis tief in die Nacht: einige Stunden im Leben von Monsieur Oscar, einer schattenhaften Existenz, die von einem Leben ins nächste schweift. Mal ist er ein Industriekapitän, mal ein Killer, ein Bettler, ein Monster oder ein treusorgender Familienvater. Aber wann ist er er selbst?",
-    "available": 0,
-    "reserved": 0,
-    "bookable": false
   },
   "filmrauschpalast-2389914876": {
     "cinemaId": "535",
@@ -1522,24 +1505,6 @@
     "reserved": 3,
     "bookable": true
   },
-  "hasenheide-689589": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-689589",
-    "title": "Minari - Wo wir Wurzeln schlagen (subtitled OV German)",
-    "date": "Sa., 3.7.,",
-    "timestamp": 1625270400000,
-    "time": "21:45",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689589?layout=shows",
-    "img": "https://media.kinoheld.de/DbWHTKT3neGjvULOXqsnipemH2A=/400x560/images%2Ffilm%2Fminari-18286.v2.png",
-    "description": "Jacob beschließt, mit seiner koreanisch-amerikanischen Familie von Los Angeles nach Arkansas zu ziehen, um als Farmer sein Glück zu versuchen. Seine Frau Monica und die Kinder David und Anne fühlen sich jedoch fremd in der neuen Heimat, und das fragile Familienleben wird zusätzlich auf die Probe gestellt, als die schlagfertige und liebevolle Großmutter Soonja von Südkorea zu ihnen auf die Farm zieht.",
-    "trailer": "https://www.youtube.com/watch?v=TlOqMFPS00g",
-    "available": 0,
-    "reserved": 0,
-    "bookable": false
-  },
   "hasenheide-689590": {
     "cinemaId": "580",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
@@ -1554,8 +1519,8 @@
     "img": "https://media.kinoheld.de/peBTGdk0crIQds4N6tgwDScNI60=/400x560/images%2Ffilm%2Fundine-16403.v45.jpg",
     "description": "Im Liebesdrama Undine wird Paula Beer von ihrem Freund verlassen, wodurch ein Fluch ans Licht kommt, der sie dazu zwingt, ihn zu ertränken. Doch dann verliebt die Nixe sich in einen Taucher.",
     "trailer": "https://www.youtube.com/watch?v=_XSzVgjeyfM",
-    "available": 183,
-    "reserved": 137,
+    "available": 178,
+    "reserved": 140,
     "bookable": true
   },
   "hasenheide-689591": {
@@ -1587,8 +1552,8 @@
     "img": "https://media.kinoheld.de/QGcy05bNHPg76Qgvi9y_5L5XXvI=/400x560/images%2Ffilm%2Fin-the-mood-for-love-18803.v1.jpg",
     "description": "\"In the Mood for Love\" spielt in Hong Kong im Jahre 1962 und handelt von zwei jungen Ehepaaren und deren ungewöhnlicher Beziehung zueinander. Die Paare ziehen in benachbarte Appartements. Die schöne Li-Zhen und der Journalist Chow sind im Gegensatz zu ihren Partnern oft zu Hause. Beide verbindet sehr bald eine innige Freundschaft. Durch Zufall entdecken sie, dass ihre Ehepartner ein Verhältnis miteinander haben und geraten in einen Strudel verwirrender Gefühle. (BB)",
     "trailer": "https://www.youtube.com/watch?v=yEkyYBRNWdw",
-    "available": 394,
-    "reserved": 74,
+    "available": 388,
+    "reserved": 76,
     "bookable": true
   },
   "hasenheide-689593": {
@@ -1731,23 +1696,6 @@
     "reserved": 14,
     "bookable": true
   },
-  "nomadenkino-2383800473": {
-    "cinemaId": "1621",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/nomadenkino-berlin/shows/movies",
-    "cinemaName": "nomadenkino-berlin",
-    "cinemaShortName": "nomadenkino",
-    "id": "nomadenkino-2383800473",
-    "title": "Clubkultur Berlin ",
-    "date": "Sa., 3.7.,",
-    "timestamp": 1625270400000,
-    "time": "21:30",
-    "url": "https://www.kinoheld.de/cinema-berlin/nomadenkino-berlin/show/2383800473?layout=shows",
-    "img": "https://media.kinoheld.de/b1NN6NmN9x412seHeI2J4XbR87E=/400x560/images%2Ffilm%2Fmo%2F366-1621-8078.v3.png",
-    "description": "CLUBKULTUR SCREENING TOUR Informationen\r\n\r\nBerlins CLUBKULTUR taucht ab ins prä-pandemische Berliner Nachtleben.\r\n Berlin galt seit dem Mauerfall weltweit als das Superlativ der Clubszene. Mit der Pandemie ist eine Industrie und Subkultur, samt deren Einnahmen, Einkommen, und nahezu tabufreien Rückzugsorte und schillernden Persönlichkeiten verschwunden. Wird es ein Zurück geben, und wenn ja, welche neue Form der CLUBKULTUR wird entstehen? Welchen Einfluss hat das Sterben der Clubs auf die mentale Gesundheit derjenigen, für die Clubs nicht nur zum Feiern, sondern Arbeitsplatz oder Schutzraum waren, an denen sie Lust und Laster wertfrei ausleben konnten?\r\n\r\nDie Regisseurinnen Leonie Gerner & Andrea Schumacher haben eine kritische, rasante Dokumentation produziert. Eine Dokumentation, in der Club-Betreiber, Musiker, DJs und Psychologen zu Wort kommen, und bisher unveröffentlichtes Footage aus den Clubs gezeigt werden darf.\r\nDas Topic ist hochbrisant, denn der Verlust von Unbeschwertheit und Offenheit, betrifft eine internationale Zielgruppe von New York bis Tel Aviv – die nur aus einem Grund nach Berlin kam: um ‚once in a lifetime‘ all das zu erleben, was woanders tabu ist.\r\n\r\nInside Berlin’s Club Scene: für viele Hoffnung, Sehnsucht und Elexier aus einer verblassenden Erinnerung an Intimität, Sex, Musik, Ekstase und Freude.\r\nWir sind sicher, dass unsere Open Air Kino Tour derzeit die absolut richtige Plattform ist, um Zuschauer zu erreichen, die sich nichts sehnlicher wünschen als in die facettenreiche Berliner Clubszene abtauchen zu können. In die „Roaring 20s“ unseres Jahrhunderts.",
-    "available": 0,
-    "reserved": 0,
-    "bookable": false
-  },
   "nomadenkino-2383800508": {
     "cinemaId": "1621",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/nomadenkino-berlin/shows/movies",
@@ -1849,24 +1797,6 @@
     "available": -1,
     "reserved": 0,
     "bookable": true
-  },
-  "fmp-2392528837": {
-    "cinemaId": "1657",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
-    "cinemaName": "b-ware-openair-fmp",
-    "cinemaShortName": "fmp",
-    "id": "fmp-2392528837",
-    "title": "DER RAUSCH - FILM PREVIEW (subtitled OV)",
-    "date": "Sa., 3.7.,",
-    "timestamp": 1625270400000,
-    "time": "21:45",
-    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2392528837?layout=shows",
-    "img": "https://media.kinoheld.de/MxoVzusSV669JJJuULf5SfAJ6Dw=/400x560/images%2Ffilm%2Fder-rausch-18282.v12.jpg",
-    "description": "Früher war Martin Lehrer aus Leidenschaft – heute sind nicht nur die Schüler von seinem fehlenden Enthusiasmus gelangweilt, auch in Martins Ehe ist die Luft raus. Seinen drei Freunden, die am selben Gymnasium unterrichten, geht es nicht viel besser. Bei einer angeheiterten Geburtstagsrunde diskutieren sie die Theorie eines norwegischen Philosophen: Nach dieser ist ein Mensch nur mit einem erhöhten Alkoholgehalt im Blut zu Bestleistungen fähig. Solch eine gewagte These muss überprüft werden. Die vier beschließen den Selbsttest zu machen und während der Arbeit einen bestimmten Pegel zu halten. Soll nicht sogar Churchill den Zweiten Weltkrieg in einem Alkoholrausch gewonnen haben? Mit neuem Antrieb stürzen sie sich in ihre geheime wissenschaftliche Studie. Die Wirkung lässt nicht lange auf sich warten …",
-    "trailer": "https://www.youtube.com/watch?v=b2z6M24yq2Y",
-    "available": 0,
-    "reserved": 0,
-    "bookable": false
   },
   "fmp-2392528846": {
     "cinemaId": "1657",
@@ -2007,7 +1937,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2392542630?layout=shows",
     "img": "https://media.kinoheld.de/R8VDXSPvszmiJwKj83Io0hLKCVY=/400x560/images%2Ffilm%2Fmo%2F3013-36027.v2.jpg",
     "description": "Ein Sex-Tape gelangt ins Internet und geht dort viral. Es zeigt eine Frau und einen Mann, die beide Masken tragen, beim Geschlechtsakt. Doch die Frau in dem Video lässt sich als Emi (Katia Pascariu) identifizieren - eine Lehrerin.\r\n\r\nEmis Ruf und Karriere geraten in Bedrängnis, als die Eltern ihrer Schüler ihren augenblicklichen Rücktritt fordern. Doch die Lehrerin weigert sich, dem öffentlichen Druck nachzugeben, nur weil die anderen ihre Vorbild-Funktion anzweifeln.\r\n\r\nVorurteile, Heuchelei und Chauvinismus prallen in Folge dessen aufeinander, als immer mehr Verschwörungstheorien die Runde machen und ein Streit über den gesellschaftlichen Umgang mit pornografischen Inhalten entbrennt.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://youtu.be/8AEgcTSMSOY",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2058,7 +1988,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2392542649?layout=shows",
     "img": "https://media.kinoheld.de/DQsE2bJ2xtRqdKQPdV3MXrumGew=/400x560/images%2Ffilm%2Fmo%2F3013-37597.v2.jpg",
     "description": "FREAKSCENE THE STORY OF DINOSAUR JR. is a homage of one of the most influential bands on the American East Coast, which inspired the rock scene – including Nirvana and Sonic Youth – in the 1990s. Their style and unmistakable sound, later referred as “Grunge”, laid the foundation for the entire “Slacker” culture of Generation X.\r\nIt is also the story of the eloquent and eccentric guitarist and bandleader J. Mascis, the bassist Lou Barlow and drummer Murph and a band that insanely does not talk to each other. Communication takes place exclusively through music. Philipp Reichenheim nevertheless manages to make the closed and shy icons speak.\r\nAn emotional, tragically funny and sometimes noisy rollercoaster ride by a dysfunctional family – Dinosaur Jr.\r\nThrough several decades, the film offers rare insights into the crazy everyday life of the band and illuminates the inner workings of a cult band from its beginnings in the 1980s and 90s to the present day.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://youtu.be/O5w28bJKmxY",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2239,7 +2169,7 @@
     "description": "Damiel ist ein Engel. Und gemeinsam mit seinem himmlischen Kollegen Cassiel wandert er durch das geteilte Berlin und wacht über die Menschen. Doch als Engel bleibt Damiel der menschlichen Welt verborgen. Er kann sie nur beobachten und ihren Gedanken lauschen, mitfühlen und miterleben kann er ihre Empfindungen nicht. Als er sich eines Tages in die zauberhafte Trapezkünstlerin Marion verliebt, beschließt er, selbst ein Mensch zu werden. Doch dafür muss er ein großes Opfer bringen: seine Unsterblichkeit. (j.b.)",
     "trailer": "https://www.youtube.com/watch?v=_Zih4o6NLCc",
     "available": 20,
-    "reserved": 33,
+    "reserved": 34,
     "bookable": true
   },
   "central-2392681454": {
@@ -2919,24 +2849,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "pompeji ostkreuz-2386573085": {
-    "cinemaId": "2153",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-    "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-    "cinemaShortName": "pompeji ostkreuz",
-    "id": "pompeji ostkreuz-2386573085",
-    "title": "DAS MÄDCHEN UND DIE SPINNE (subtitled OV English)",
-    "date": "Sa., 3.7.,",
-    "timestamp": 1625270400000,
-    "time": "21:45",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2386573085?layout=shows",
-    "img": "https://media.kinoheld.de/TWWdppnlHO5nicvPyz_DUBZlttw=/400x560/images%2Ffilm%2Fmo%2F2413-36547.v2.jpg",
-    "description": "Lisa zieht aus, Mara bleibt zurück. Während Kisten geschleppt, Wände gestrichen und Schränke aufgebaut werden, tun sich Abgründe auf, lassen Sehnsüchte den Raum anschwellen und ein Begehrenskarussel nimmt immer mehr Fahrt auf. In ihrem zweiten Film komponieren die Schweizer Zwillingsbrüder Ramon und Silvan Zürcher ein poetisches Panoptikum menschlicher Beziehungsformen, das sich zwischen Alltagsstudie, Märchen und Psychogramm einer brüchig gewordenen Welt bewegt. Nach ihrem Berlinale-Hit „Das merkwürdige Kätzchen“ (2013) ist „Das Mädchen und die Spinne“ der zweite Teil einer Trilogie über menschliches Zusammensein. Ein tragikomischer Katastrophenfilm. Eine Ballade über das Verlangen nach Nähe und den Schmerz von Trennung, über Veränderung und Vergänglichkeit.",
-    "trailer": "https://youtu.be/638FUhi7LtY",
-    "available": 0,
-    "reserved": 0,
-    "bookable": false
-  },
   "pompeji ostkreuz-2386573093": {
     "cinemaId": "2153",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
@@ -3171,21 +3083,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "mobile kino-2384770936": {
-    "cinemaId": "3033",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/mobile-kino-berlin/shows/movies",
-    "cinemaName": "mobile-kino-berlin",
-    "cinemaShortName": "mobile kino",
-    "id": "mobile kino-2384770936",
-    "title": "NOTES OF BERLIN (subtitled OV English)",
-    "date": "Sa., 3.7.,",
-    "timestamp": 1625270400000,
-    "time": "21:45",
-    "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2384770936?layout=shows",
-    "available": 0,
-    "reserved": 0,
-    "bookable": false
-  },
   "mobile kino-2394398382": {
     "cinemaId": "3033",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/mobile-kino-berlin/shows/movies",
@@ -3217,8 +3114,8 @@
     "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2386733318?layout=shows",
     "img": "https://media.kinoheld.de/8AF3hb-XqmSaaZt5dYhxEYEBR-w=/400x560/images%2Ffilm%2Fsommer-85-19153.v6.jpg",
     "description": "\"Ein originell verpackter Liebesfilm mit leinwandpräsenten Helden, ebenso hübschen Bildern sowie nostalgisch korrekter Ausstattung. Ein echter Ozon!\" Programmkino.de",
-    "available": 39,
-    "reserved": 77,
+    "available": 37,
+    "reserved": 79,
     "bookable": true
   },
   "mobile kino-2395500442": {
@@ -3285,8 +3182,8 @@
     "img": "https://media.kinoheld.de/xHEKbQH_NBKFpdJ5cuJ32pwd-BQ=/400x560/images%2Ffilm%2Fbohemian-rhapsody-10842.v1.png",
     "description": "\"Bohemian Rhapsody\" erzählt die Geschichte, wie Freddie Mercury und seine Bandmitglieder Brian May, Roger Taylor und John Deacon Queen gründeten - eine der legendärsten Rockgruppen aller Zeiten. Der Film begleitet Queen, während sie Hit über Hit produzieren, die Musikcharts anführen und dabei ihre Musik immer weiter entwickeln. Durch so grundverschiedene Songs wie \"Killer Queen\", \"Bohemian Rhapsody\", \"We Are The Champions\" und \"We Will Rock You\" sowie unzählige weitere Songs gelang der Band ein beispielloser Erfolg, der Freddie zu einem der beliebtesten Entertainer weltweit machte. Doch hinter der Fassade von Erfolg kämpft Freddie mit seiner inneren Zerrissenheit. Der aus Sansibar stammende Parse sucht unablässig nach seinem Platz in der Welt, während er gleichzeitig versucht, sich in einer Gesellschaft, die in Stereotypen und Erwartungen gefangen ist, mit einer Sexualität zu arrangieren, die er selbst kaum definieren kann. Freddie wagt es, sich zu widersetzen, aber zahlt auch den Preis dafür. Zum exzessiven Leben verführt und von dunklen Kräften getrieben, trennt sich Freddie von Queen, um eine Solo-Karriere zu starten. Sein Versuch, sich als Solo-Künstler neu zu erfinden, endet mit Enttäuschung und weiterer Isolation. Freddie, der unter der fehlenden Zusammenarbeit mit Brian, Roger und John - seiner Rock'n'Roll-Familie leidet, erkennt schließlich, dass die Magie von Queen und das Geheimnis ihres Erfolges darin liegt, dass sie zusammenarbeiten und sich gegenseitig beflügeln. Freddie gelingt es rechtzeitig für \"Live Aid\" - dem größten Konzert aller Zeiten - die Band wieder zu vereinen. Aber das Schicksal und sein exzessiver Lebensstil legen ihm ein niederschmetterndes Hindernis in den Weg, eins das in zwingt, sich seiner eigenen Sterblichkeit zu stellen und sie zu akzeptieren. Nachdem er es ein weiteres Mal schafft, seine persönlichen Konflikte und alle Schwierigkeiten zu überwinden, gibt die Band das beste Konzert in der Geschichte der Rockmusik. Queen zementiert damit ein Vermächtnis, das noch heute Außenstehende, Träumer und Musikliebhaber inspiriert. Auf Freddies Weise, und nicht der vom Rest der Welt.",
     "trailer": "https://www.youtube.com/watch?v=2Xw1jDUIACE",
-    "available": 71,
-    "reserved": 4,
+    "available": 69,
+    "reserved": 6,
     "bookable": true
   },
   "mobile kino-2391604818": {
@@ -3434,8 +3331,8 @@
     "time": "21:45",
     "date": "Mo., 5.7.,",
     "timestamp": 1625521500000,
-    "available": 420,
-    "reserved": 40,
+    "available": 417,
+    "reserved": 43,
     "bookable": true
   },
   "kulturforum-252": {
@@ -3469,8 +3366,8 @@
     "time": "21:45",
     "date": "Do., 8.7.,",
     "timestamp": 1625780700000,
-    "available": 419,
-    "reserved": 41,
+    "available": 416,
+    "reserved": 44,
     "bookable": true
   },
   "kulturforum-259": {
@@ -3504,8 +3401,8 @@
     "time": "21:45",
     "date": "Sa., 10.7.",
     "timestamp": 1625953500000,
-    "available": 318,
-    "reserved": 142,
+    "available": 317,
+    "reserved": 143,
     "bookable": true
   },
   "kulturforum-260": {
@@ -3522,8 +3419,8 @@
     "time": "21:45",
     "date": "So., 11.7.",
     "timestamp": 1626039900000,
-    "available": 422,
-    "reserved": 38,
+    "available": 420,
+    "reserved": 40,
     "bookable": true
   },
   "kulturforum-255": {
@@ -3576,6 +3473,21 @@
     "time": "21:30",
     "date": "Mi., 14.7.",
     "timestamp": 1626298200000,
+    "available": 425,
+    "reserved": 35,
+    "bookable": true
+  },
+  "kulturforum-258": {
+    "cinemaId": "54eefd0b683138488b190000",
+    "cinemaUrl": "https://yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-258",
+    "title": "Der Rausch OmeU",
+    "url": "https://yorck.de/checkout/step01?showid=258&siteid=1015",
+    "time": "21:30",
+    "date": "Do., 15.7.",
+    "timestamp": 1626384600000,
     "available": 425,
     "reserved": 35,
     "bookable": true
@@ -3645,8 +3557,8 @@
     "time": "21:30",
     "date": "Mi., 7.7.,",
     "timestamp": 1625693400000,
-    "available": 371,
-    "reserved": 128,
+    "available": 369,
+    "reserved": 130,
     "bookable": true
   },
   "schloss-charlottenburg-39": {
@@ -3772,6 +3684,24 @@
     "timestamp": 1626298200000,
     "available": 479,
     "reserved": 20,
+    "bookable": true
+  },
+  "schloss-charlottenburg-46": {
+    "title": "Futur 3",
+    "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/5f3cea6f6144402d3e8fd1c1/show_futur3_plakat_rgb_150.jpg",
+    "description": "Mit zärtlicher Wucht und nach autobiographischen Motiven erzählt Faraz Shariat vom jungen Deutschiraner Parvis, der in einem Flüchtlingsheim seine Strafe wegen Ladendiebstahls abarbeitet und dort Banafshe und ihren Bruder Amon kennenlernt. Ausgezeichnet mit dem Teddy als bester queerer Spielfilm der Berlinale 2020. Absolut sehenswert!",
+    "trailer": "https://www.youtube.com/watch?v=DitVsuZ66fQ&ab_channel=SalzgeberSalzgeber",
+    "cinemaId": "60a3b5ed61444058ac0797a2",
+    "cinemaUrl": "https://yorck.de/kinos/sommerkino-schloss-charlottenburg",
+    "cinemaName": "sommerkino-schloss-charlottenburg",
+    "cinemaShortName": "schloss-charlottenburg",
+    "id": "schloss-charlottenburg-46",
+    "url": "https://yorck.de/checkout/step01?showid=46&siteid=1020",
+    "time": "21:30",
+    "date": "Do., 15.7.",
+    "timestamp": 1626384600000,
+    "available": 475,
+    "reserved": 24,
     "bookable": true
   }
 }
