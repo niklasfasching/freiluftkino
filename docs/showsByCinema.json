@@ -14,8 +14,8 @@
       "date": "Sa., 7.8.,",
       "timestamp": 1628368200000,
       "time": "20:30",
-      "available": 723,
-      "reserved": 347,
+      "available": 719,
+      "reserved": 351,
       "bookable": true
     },
     {
@@ -156,8 +156,8 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626126300000,
       "time": "21:45",
-      "available": 505,
-      "reserved": 565,
+      "available": 503,
+      "reserved": 567,
       "bookable": true
     },
     {
@@ -173,8 +173,8 @@
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
       "time": "21:30",
-      "available": 1070,
-      "reserved": 0,
+      "available": 1066,
+      "reserved": 4,
       "bookable": true
     },
     {
@@ -208,8 +208,8 @@
       "date": "Mi., 7.7.,",
       "timestamp": 1625694300000,
       "time": "21:45",
-      "available": 997,
-      "reserved": 73,
+      "available": 993,
+      "reserved": 77,
       "bookable": true
     },
     {
@@ -276,8 +276,8 @@
       "date": "So., 4.7.,",
       "timestamp": 1625435100000,
       "time": "21:45",
-      "available": 871,
-      "reserved": 199,
+      "available": 868,
+      "reserved": 202,
       "bookable": true
     },
     {
@@ -329,8 +329,8 @@
       "date": "Do., 8.7.,",
       "timestamp": 1625780700000,
       "time": "21:45",
-      "available": 1018,
-      "reserved": 52,
+      "available": 1016,
+      "reserved": 54,
       "bookable": true
     },
     {
@@ -432,8 +432,8 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 266,
-      "reserved": 804,
+      "available": 226,
+      "reserved": 844,
       "bookable": true
     },
     {
@@ -449,8 +449,8 @@
       "date": "So., 11.7.",
       "timestamp": 1626039900000,
       "time": "21:45",
-      "available": 956,
-      "reserved": 114,
+      "available": 954,
+      "reserved": 116,
       "bookable": true
     },
     {
@@ -696,8 +696,8 @@
       "date": "So., 4.7.,",
       "timestamp": 1625435100000,
       "time": "21:45",
-      "available": 393,
-      "reserved": 144,
+      "available": 391,
+      "reserved": 146,
       "bookable": true
     },
     {
@@ -768,8 +768,8 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 255,
-      "reserved": 282,
+      "available": 231,
+      "reserved": 306,
       "bookable": true
     },
     {
@@ -785,8 +785,8 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626125400000,
       "time": "21:30",
-      "available": 492,
-      "reserved": 45,
+      "available": 489,
+      "reserved": 48,
       "bookable": true
     },
     {
@@ -909,8 +909,8 @@
       "date": "Fr., 16.7.",
       "timestamp": 1626438600000,
       "time": "12:30",
-      "available": 483,
-      "reserved": 78,
+      "available": 482,
+      "reserved": 79,
       "bookable": true
     },
     {
@@ -1066,8 +1066,8 @@
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
       "time": "21:45",
-      "available": 186,
-      "reserved": 375,
+      "available": 167,
+      "reserved": 394,
       "bookable": true
     },
     {
@@ -1418,8 +1418,8 @@
       "date": "Di., 6.7.,",
       "timestamp": 1625607900000,
       "time": "21:45",
-      "available": 545,
-      "reserved": 16,
+      "available": 543,
+      "reserved": 18,
       "bookable": true
     },
     {
@@ -1474,8 +1474,8 @@
       "img": "https://media.kinoheld.de/0ajUxKtkj-ue7ITjzw_HKDmjXww=/400x560/images%2Ffilm%2F4%2Fholy-motors-2970.v2.jpg",
       "description": "Nach über zehn Jahren Abwesenheit kehrte Leos Carax 2012 mit einem Genre-Experiment zurück: eine spielerische, verblüffende Fantasie, getragen von der Tour de Force-Performance des unnachahmlichen Denis Lavant. Als Mann mit mannigfaltigen Identitäten setzt er seine Körperlichkeit gelungen in Szene. Nun wird er dieses Jahr mit Annette die Filmfestspiele von Cannes eröffnen. Grund genug nochmal auf sein Werk zurückzublicken!\r\n> Vom Sonnenaufgang bis tief in die Nacht: einige Stunden im Leben von Monsieur Oscar, einer schattenhaften Existenz, die von einem Leben ins nächste schweift. Mal ist er ein Industriekapitän, mal ein Killer, ein Bettler, ein Monster oder ein treusorgender Familienvater. Aber wann ist er er selbst?",
       "trailer": "https://youtu.be/MKJ-nXADsVk",
-      "available": 45,
-      "reserved": 40,
+      "available": 43,
+      "reserved": 42,
       "bookable": true
     },
     {
@@ -1601,9 +1601,9 @@
       "img": "https://media.kinoheld.de/DbWHTKT3neGjvULOXqsnipemH2A=/400x560/images%2Ffilm%2Fminari-18286.v2.png",
       "description": "Jacob beschließt, mit seiner koreanisch-amerikanischen Familie von Los Angeles nach Arkansas zu ziehen, um als Farmer sein Glück zu versuchen. Seine Frau Monica und die Kinder David und Anne fühlen sich jedoch fremd in der neuen Heimat, und das fragile Familienleben wird zusätzlich auf die Probe gestellt, als die schlagfertige und liebevolle Großmutter Soonja von Südkorea zu ihnen auf die Farm zieht.",
       "trailer": "https://www.youtube.com/watch?v=TlOqMFPS00g",
-      "available": 0,
-      "reserved": 216,
-      "bookable": false
+      "available": 1,
+      "reserved": 215,
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -1619,8 +1619,8 @@
       "img": "https://media.kinoheld.de/peBTGdk0crIQds4N6tgwDScNI60=/400x560/images%2Ffilm%2Fundine-16403.v45.jpg",
       "description": "Im Liebesdrama Undine wird Paula Beer von ihrem Freund verlassen, wodurch ein Fluch ans Licht kommt, der sie dazu zwingt, ihn zu ertränken. Doch dann verliebt die Nixe sich in einen Taucher.",
       "trailer": "https://www.youtube.com/watch?v=_XSzVgjeyfM",
-      "available": 256,
-      "reserved": 114,
+      "available": 250,
+      "reserved": 116,
       "bookable": true
     },
     {
@@ -1634,7 +1634,7 @@
       "timestamp": 1625443200000,
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689591?layout=shows",
-      "available": 19,
+      "available": 17,
       "reserved": 236,
       "bookable": true
     },
@@ -3295,8 +3295,8 @@
       "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2386733318?layout=shows",
       "img": "https://media.kinoheld.de/8AF3hb-XqmSaaZt5dYhxEYEBR-w=/400x560/images%2Ffilm%2Fsommer-85-19153.v6.jpg",
       "description": "\"Ein originell verpackter Liebesfilm mit leinwandpräsenten Helden, ebenso hübschen Bildern sowie nostalgisch korrekter Ausstattung. Ein echter Ozon!\" Programmkino.de",
-      "available": 43,
-      "reserved": 73,
+      "available": 41,
+      "reserved": 75,
       "bookable": true
     },
     {
@@ -3378,8 +3378,8 @@
       "timestamp": 1626048000000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2391604818?layout=shows",
-      "available": 51,
-      "reserved": 57,
+      "available": 50,
+      "reserved": 58,
       "bookable": true
     },
     {
@@ -3496,8 +3496,8 @@
       "time": "21:45",
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
-      "available": 145,
-      "reserved": 315,
+      "available": 125,
+      "reserved": 335,
       "bookable": true
     },
     {
@@ -3763,8 +3763,8 @@
       "time": "21:45",
       "date": "Sa., 3.7.,",
       "timestamp": 1625348700000,
-      "available": 145,
-      "reserved": 315,
+      "available": 125,
+      "reserved": 335,
       "bookable": true
     },
     {
@@ -3890,9 +3890,9 @@
       "time": "21:30",
       "date": "Sa., 3.7.,",
       "timestamp": 1625347800000,
-      "available": 9,
-      "reserved": 648,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "title": "Kajillionaire (OmU)",
@@ -3908,8 +3908,8 @@
       "time": "21:30",
       "date": "So., 4.7.,",
       "timestamp": 1625434200000,
-      "available": 513,
-      "reserved": 144,
+      "available": 511,
+      "reserved": 146,
       "bookable": true
     },
     {
@@ -3926,8 +3926,8 @@
       "time": "21:30",
       "date": "Mo., 5.7.,",
       "timestamp": 1625520600000,
-      "available": 439,
-      "reserved": 60,
+      "available": 437,
+      "reserved": 62,
       "bookable": true
     },
     {
@@ -3959,8 +3959,8 @@
       "time": "21:30",
       "date": "Mi., 7.7.,",
       "timestamp": 1625693400000,
-      "available": 391,
-      "reserved": 108,
+      "available": 382,
+      "reserved": 117,
       "bookable": true
     },
     {
@@ -4013,8 +4013,8 @@
       "time": "21:30",
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
-      "available": 453,
-      "reserved": 46,
+      "available": 451,
+      "reserved": 48,
       "bookable": true
     },
     {
@@ -4066,8 +4066,8 @@
       "time": "21:30",
       "date": "Di., 13.7.",
       "timestamp": 1626211800000,
-      "available": 478,
-      "reserved": 21,
+      "available": 476,
+      "reserved": 23,
       "bookable": true
     },
     {
@@ -4102,8 +4102,8 @@
       "time": "21:30",
       "date": "Mo., 5.7.,",
       "timestamp": 1625520600000,
-      "available": 439,
-      "reserved": 60,
+      "available": 437,
+      "reserved": 62,
       "bookable": true
     },
     {
@@ -4170,9 +4170,9 @@
       "time": "21:30",
       "date": "Sa., 3.7.,",
       "timestamp": 1625347800000,
-      "available": 9,
-      "reserved": 648,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "title": "Der Rausch (OmU)",
@@ -4188,8 +4188,8 @@
       "time": "21:30",
       "date": "Mi., 7.7.,",
       "timestamp": 1625693400000,
-      "available": 391,
-      "reserved": 108,
+      "available": 382,
+      "reserved": 117,
       "bookable": true
     },
     {
@@ -4206,8 +4206,8 @@
       "time": "21:30",
       "date": "Di., 13.7.",
       "timestamp": 1626211800000,
-      "available": 478,
-      "reserved": 21,
+      "available": 476,
+      "reserved": 23,
       "bookable": true
     },
     {
@@ -4224,8 +4224,8 @@
       "time": "21:30",
       "date": "So., 4.7.,",
       "timestamp": 1625434200000,
-      "available": 513,
-      "reserved": 144,
+      "available": 511,
+      "reserved": 146,
       "bookable": true
     },
     {
@@ -4260,8 +4260,8 @@
       "time": "21:30",
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
-      "available": 453,
-      "reserved": 46,
+      "available": 451,
+      "reserved": 48,
       "bookable": true
     },
     {
