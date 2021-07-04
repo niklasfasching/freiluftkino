@@ -66,8 +66,8 @@
     "date": "Di., 6.7.,",
     "timestamp": 1625607900000,
     "time": "21:45",
-    "available": 713,
-    "reserved": 357,
+    "available": 711,
+    "reserved": 359,
     "bookable": true
   },
   "fhain-694": {
@@ -242,8 +242,8 @@
     "date": "Fr., 9.7.,",
     "timestamp": 1625867100000,
     "time": "21:45",
-    "available": 819,
-    "reserved": 251,
+    "available": 818,
+    "reserved": 252,
     "bookable": true
   },
   "fhain-670": {
@@ -328,8 +328,8 @@
     "date": "So., 11.7.",
     "timestamp": 1626024600000,
     "time": "17:30",
-    "available": 666,
-    "reserved": 329,
+    "available": 665,
+    "reserved": 330,
     "bookable": true
   },
   "fhain-711": {
@@ -535,8 +535,8 @@
     "date": "Mo., 5.7.,",
     "timestamp": 1625521500000,
     "time": "21:45",
-    "available": 951,
-    "reserved": 119,
+    "available": 949,
+    "reserved": 121,
     "bookable": true
   },
   "fhain-708": {
@@ -640,8 +640,8 @@
     "date": "Sa., 10.7.",
     "timestamp": 1625952600000,
     "time": "21:30",
-    "available": 50,
-    "reserved": 487,
+    "available": 46,
+    "reserved": 491,
     "bookable": true
   },
   "xberg-624": {
@@ -676,8 +676,8 @@
     "date": "Fr., 9.7.,",
     "timestamp": 1625866200000,
     "time": "21:30",
-    "available": 262,
-    "reserved": 275,
+    "available": 264,
+    "reserved": 273,
     "bookable": true
   },
   "xberg-626": {
@@ -763,8 +763,8 @@
     "date": "Mi., 7.7.,",
     "timestamp": 1625694300000,
     "time": "21:45",
-    "available": 463,
-    "reserved": 74,
+    "available": 461,
+    "reserved": 76,
     "bookable": true
   },
   "xberg-627": {
@@ -798,8 +798,8 @@
     "date": "Mo., 5.7.,",
     "timestamp": 1625521500000,
     "time": "21:45",
-    "available": 413,
-    "reserved": 124,
+    "available": 407,
+    "reserved": 130,
     "bookable": true
   },
   "rehberge-609": {
@@ -816,8 +816,8 @@
     "date": "Mo., 5.7.,",
     "timestamp": 1625521500000,
     "time": "21:45",
-    "available": 499,
-    "reserved": 74,
+    "available": 497,
+    "reserved": 76,
     "bookable": true
   },
   "rehberge-590": {
@@ -1452,24 +1452,6 @@
     "reserved": 3,
     "bookable": true
   },
-  "hasenheide-689590": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-689590",
-    "title": "Undine (subtitled OV English)",
-    "date": "So., 4.7.,",
-    "timestamp": 1625356800000,
-    "time": "21:45",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689590?layout=shows",
-    "img": "https://media.kinoheld.de/peBTGdk0crIQds4N6tgwDScNI60=/400x560/images%2Ffilm%2Fundine-16403.v45.jpg",
-    "description": "Im Liebesdrama Undine wird Paula Beer von ihrem Freund verlassen, wodurch ein Fluch ans Licht kommt, der sie dazu zwingt, ihn zu ertränken. Doch dann verliebt die Nixe sich in einen Taucher.",
-    "trailer": "https://www.youtube.com/watch?v=_XSzVgjeyfM",
-    "available": 0,
-    "reserved": 0,
-    "bookable": false
-  },
   "hasenheide-689591": {
     "cinemaId": "580",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
@@ -1549,8 +1531,8 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689594?layout=shows",
     "img": "https://media.kinoheld.de/8AF3hb-XqmSaaZt5dYhxEYEBR-w=/400x560/images%2Ffilm%2Fsommer-85-19153.v6.jpg",
     "description": "\"Ein originell verpackter Liebesfilm mit leinwandpräsenten Helden, ebenso hübschen Bildern sowie nostalgisch korrekter Ausstattung. Ein echter Ozon!\" Programmkino.de",
-    "available": 385,
-    "reserved": 75,
+    "available": 376,
+    "reserved": 79,
     "bookable": true
   },
   "hasenheide-689595": {
@@ -1869,24 +1851,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "fmp-2392528846": {
-    "cinemaId": "1657",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
-    "cinemaName": "b-ware-openair-fmp",
-    "cinemaShortName": "fmp",
-    "id": "fmp-2392528846",
-    "title": "LOS REYES - KÖNIGLICHE STREUNER - FILM PREVIEW + Q&A Regie (subtitled OV)",
-    "date": "So., 4.7.,",
-    "timestamp": 1625356800000,
-    "time": "21:45",
-    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2392528846?layout=shows",
-    "img": "https://media.kinoheld.de/mb_4h_KQEWFLm0cB-UUQ26V7_0c=/400x560/images%2Ffilm%2Fmo%2F3013-37555.v2.jpg",
-    "description": "Los Reyes (deutsch: “Die Könige“) ist der älteste Skatepark in der chilenischen Hauptstadt Santiago. Der Film handelt aber nicht in erster Linie von den Skatern, sondern von den wahren Königen dieses Mikrokosmos: Futbol und Chola, zwei unzertrennbaren streunenden Hunden, die zwischen rasenden Skateboards und lärmenden Teenagern im Park ihr Zuhause gefunden haben.\r\n\r\n\r\nDie jüngere und lebhaftere Chola liebt es, mit den Bällen zu spielen, die überall herumliegen. Ihr Lieblingsspiel ist es, einen Ball auf den Rand des Parkours, wo die Skater ihre Tricks zeigen, zu legen und zu versuchen, ihn aufzufangen, kurz bevor er herunterfällt. Futbol, der ältere von den beiden, schaut ihr dabei oft ungeduldig zu. Er wiederum trägt ständig irgendetwas im Maul herum und findet großen Spaß daran, Dinge durch die Gegend zu schleppen und anzunagen.\r\n\r\nDie Teenager um sie herum kommen aus sehr unterschiedlichen, manchmal schwierigen Verhältnissen. Sie haben alle ihre eigenen Geschichten und Probleme, die man im Hintergrund in ihren Gesprächen mitverfolgt, während die Kamera die subtile Interaktion zwischen den beiden Hunden einfängt, wie sie schlummern, einem Ball nachjagen oder einfach nur herumschnüffeln.",
-    "trailer": "https://youtu.be/XieuhArZ_uU",
-    "available": 0,
-    "reserved": 0,
-    "bookable": false
-  },
   "fmp-2392528855": {
     "cinemaId": "1657",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
@@ -2008,7 +1972,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2392542630?layout=shows",
     "img": "https://media.kinoheld.de/R8VDXSPvszmiJwKj83Io0hLKCVY=/400x560/images%2Ffilm%2Fmo%2F3013-36027.v2.jpg",
     "description": "Ein Sex-Tape gelangt ins Internet und geht dort viral. Es zeigt eine Frau und einen Mann, die beide Masken tragen, beim Geschlechtsakt. Doch die Frau in dem Video lässt sich als Emi (Katia Pascariu) identifizieren - eine Lehrerin.\r\n\r\nEmis Ruf und Karriere geraten in Bedrängnis, als die Eltern ihrer Schüler ihren augenblicklichen Rücktritt fordern. Doch die Lehrerin weigert sich, dem öffentlichen Druck nachzugeben, nur weil die anderen ihre Vorbild-Funktion anzweifeln.\r\n\r\nVorurteile, Heuchelei und Chauvinismus prallen in Folge dessen aufeinander, als immer mehr Verschwörungstheorien die Runde machen und ein Streit über den gesellschaftlichen Umgang mit pornografischen Inhalten entbrennt.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://youtu.be/8AEgcTSMSOY",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2059,7 +2023,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2392542649?layout=shows",
     "img": "https://media.kinoheld.de/DQsE2bJ2xtRqdKQPdV3MXrumGew=/400x560/images%2Ffilm%2Fmo%2F3013-37597.v2.jpg",
     "description": "FREAKSCENE THE STORY OF DINOSAUR JR. is a homage of one of the most influential bands on the American East Coast, which inspired the rock scene – including Nirvana and Sonic Youth – in the 1990s. Their style and unmistakable sound, later referred as “Grunge”, laid the foundation for the entire “Slacker” culture of Generation X.\r\nIt is also the story of the eloquent and eccentric guitarist and bandleader J. Mascis, the bassist Lou Barlow and drummer Murph and a band that insanely does not talk to each other. Communication takes place exclusively through music. Philipp Reichenheim nevertheless manages to make the closed and shy icons speak.\r\nAn emotional, tragically funny and sometimes noisy rollercoaster ride by a dysfunctional family – Dinosaur Jr.\r\nThrough several decades, the film offers rare insights into the crazy everyday life of the band and illuminates the inner workings of a cult band from its beginnings in the 1980s and 90s to the present day.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://youtu.be/O5w28bJKmxY",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2189,24 +2153,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "central-2392263378": {
-    "cinemaId": "1839",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
-    "cinemaName": "central-kino-open-air",
-    "cinemaShortName": "central",
-    "id": "central-2392263378",
-    "title": "open air: Yung (Deutsch with English subs) in attendance of the team (subtitled OV English)",
-    "date": "So., 4.7.,",
-    "timestamp": 1625356800000,
-    "time": "21:30",
-    "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2392263378?layout=shows",
-    "img": "https://media.kinoheld.de/S4qyzQmlpKzdz_5kv6436ixaA8o=/400x560/images%2Ffilm%2Fyung-in-anwesenheit-des-regisseurs-14831.v1.jpg",
-    "description": "Vier junge und selbstbewusste Frauen aus Berlin feiern das Leben und ihre Jugend als endlose Party quer durch die angesagten Spots der Szene und dem Underground der Metropole. Da ist die noch nicht ganz volljährige Janaina, die sich mit Sex vor der Webcam ein kleines Extra-Taschengeld verdient, und ihre beste Freundin Emi. Die 18-Jährige erlebt den Rausch ihres Lebens und realisiert zunächst nicht, dass sie immer tiefer in die Abhängigkeit rutscht. Und während Dealerin Joy toxische Illusionen verkauft, träumt sie von der großen Liebe, die süße 16-jährige Abbie indes würde am liebsten eher heute als morgen nach Los Angeles abhauen. (vf)",
-    "trailer": "https://www.youtube.com/watch?v=lLF1sPjBJug",
-    "available": 0,
-    "reserved": 0,
-    "bookable": false
-  },
   "central-2392681268": {
     "cinemaId": "1839",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
@@ -2221,8 +2167,8 @@
     "img": "https://media.kinoheld.de/8M9A-GCWRp67puz9iCaeTahq9kg=/400x560/images%2Ffilm%2Fjojo-rabbit-15227.v164.jpg",
     "description": "Jojo Rabbit handelt von einem kleinen Jungen, der während des Zweiten Weltkriegs lebt. Er kann der rauen Wirklichkeit nur durch seinen imaginären Freund entkommen, eine ethnisch ungenaue Version von Adolf Hitler, der die naiven patriotischen Überzeugungen des kleinen Jungen vorantreibt. Das ändert sich jedoch alles, als ein junges Mädchen diese Ansichten hinterfragt und Jojo dazu bringt, sich seinen eigenen Problemen zu stellen.",
     "trailer": "https://www.youtube.com/watch?v=PCFcHvkm1KE",
-    "available": 49,
-    "reserved": 16,
+    "available": 46,
+    "reserved": 18,
     "bookable": true
   },
   "central-2392681292": {
@@ -2920,24 +2866,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "pompeji ostkreuz-2386573093": {
-    "cinemaId": "2153",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-    "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-    "cinemaShortName": "pompeji ostkreuz",
-    "id": "pompeji ostkreuz-2386573093",
-    "title": "DEMON SLAYER - THE MOVIE: MUGEN TRAIN (subtitled OV German)",
-    "date": "So., 4.7.,",
-    "timestamp": 1625356800000,
-    "time": "21:45",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2386573093?layout=shows",
-    "img": "https://media.kinoheld.de/nBBqUhyfaJtjtGDKWIhOXLYJ__U=/400x560/images%2Ffilm%2Fdemon-slayer-kimetsu-no-yaiba-mugen-train-18801.v19.jpg",
-    "description": "Der Kinofilm zur gleichnamigen Anime-Serie ist der erfolgreichste Anime aller Zeiten, mit aktuellem Stand führt er mit großem Abstand vor den bisherigen Spitzenreitern CHIHIROS REISE INS ZAUBERLAND (2001) von Hayao Miyazaki und YOUR NAME (2016) von Makoto Shinkai. Eine Sensation, wenn man bedenkt, dass gerade einmal ein Jahr seit dem Start in Japan vergangen ist und der Film einfach die direkte Fortsetzung der Serie, also eher eine überlange Episode ist. Doch anbetracht der Tatsache, dass die Serie zu den besten im japanischen Anime-Universum gehört und die Hauptfiguren überhaus sympathisch sind, dürfen sich alle Anime-Fans auf ein schönes Kinoabenteuer freuen. Es kann nicht schaden, zuvor schnell die Serie zu schauen. Oder hinterher.",
-    "trailer": "https://youtu.be/bBaKrECITsg",
-    "available": 0,
-    "reserved": 0,
-    "bookable": false
-  },
   "pompeji ostkreuz-2388613217": {
     "cinemaId": "2153",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
@@ -3185,8 +3113,8 @@
     "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2386733318?layout=shows",
     "img": "https://media.kinoheld.de/8AF3hb-XqmSaaZt5dYhxEYEBR-w=/400x560/images%2Ffilm%2Fsommer-85-19153.v6.jpg",
     "description": "\"Ein originell verpackter Liebesfilm mit leinwandpräsenten Helden, ebenso hübschen Bildern sowie nostalgisch korrekter Ausstattung. Ein echter Ozon!\" Programmkino.de",
-    "available": 33,
-    "reserved": 83,
+    "available": 29,
+    "reserved": 87,
     "bookable": true
   },
   "mobile kino-2395500442": {
@@ -3469,8 +3397,8 @@
     "time": "21:45",
     "date": "Sa., 10.7.",
     "timestamp": 1625953500000,
-    "available": 251,
-    "reserved": 209,
+    "available": 249,
+    "reserved": 211,
     "bookable": true
   },
   "kulturforum-260": {
@@ -3589,8 +3517,8 @@
     "time": "21:30",
     "date": "Di., 6.7.,",
     "timestamp": 1625607000000,
-    "available": 418,
-    "reserved": 81,
+    "available": 417,
+    "reserved": 82,
     "bookable": true
   },
   "schloss-charlottenburg-38": {
@@ -3714,8 +3642,8 @@
     "time": "21:30",
     "date": "Di., 13.7.",
     "timestamp": 1626211800000,
-    "available": 468,
-    "reserved": 31,
+    "available": 470,
+    "reserved": 29,
     "bookable": true
   },
   "schloss-charlottenburg-45": {
@@ -3732,8 +3660,8 @@
     "time": "21:30",
     "date": "Mi., 14.7.",
     "timestamp": 1626298200000,
-    "available": 477,
-    "reserved": 22,
+    "available": 475,
+    "reserved": 24,
     "bookable": true
   },
   "schloss-charlottenburg-46": {
