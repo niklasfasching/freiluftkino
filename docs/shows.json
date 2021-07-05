@@ -66,8 +66,8 @@
     "date": "Di., 6.7.,",
     "timestamp": 1625607900000,
     "time": "21:45",
-    "available": 694,
-    "reserved": 376,
+    "available": 572,
+    "reserved": 498,
     "bookable": true
   },
   "fhain-694": {
@@ -155,8 +155,8 @@
     "date": "Mo., 12.7.",
     "timestamp": 1626126300000,
     "time": "21:45",
-    "available": 419,
-    "reserved": 651,
+    "available": 415,
+    "reserved": 655,
     "bookable": true
   },
   "fhain-710": {
@@ -224,8 +224,8 @@
     "date": "Do., 19.8.",
     "timestamp": 1629392400000,
     "time": "17:00",
-    "available": 950,
-    "reserved": 45,
+    "available": 948,
+    "reserved": 47,
     "bookable": true
   },
   "fhain-689": {
@@ -242,8 +242,8 @@
     "date": "Fr., 9.7.,",
     "timestamp": 1625867100000,
     "time": "21:45",
-    "available": 814,
-    "reserved": 256,
+    "available": 811,
+    "reserved": 259,
     "bookable": true
   },
   "fhain-670": {
@@ -328,8 +328,8 @@
     "date": "So., 11.7.",
     "timestamp": 1626024600000,
     "time": "17:30",
-    "available": 562,
-    "reserved": 433,
+    "available": 559,
+    "reserved": 436,
     "bookable": true
   },
   "fhain-711": {
@@ -413,8 +413,8 @@
     "date": "So., 11.7.",
     "timestamp": 1626039900000,
     "time": "21:45",
-    "available": 942,
-    "reserved": 128,
+    "available": 940,
+    "reserved": 130,
     "bookable": true
   },
   "fhain-715": {
@@ -448,8 +448,8 @@
     "date": "Sa., 10.7.",
     "timestamp": 1625953500000,
     "time": "21:45",
-    "available": 1005,
-    "reserved": 65,
+    "available": 964,
+    "reserved": 106,
     "bookable": true
   },
   "fhain-695": {
@@ -466,8 +466,8 @@
     "date": "Fr., 16.7.",
     "timestamp": 1626471000000,
     "time": "21:30",
-    "available": 998,
-    "reserved": 72,
+    "available": 996,
+    "reserved": 74,
     "bookable": true
   },
   "fhain-667": {
@@ -535,8 +535,8 @@
     "date": "Mo., 5.7.,",
     "timestamp": 1625521500000,
     "time": "21:45",
-    "available": 817,
-    "reserved": 253,
+    "available": 807,
+    "reserved": 263,
     "bookable": true
   },
   "fhain-708": {
@@ -622,8 +622,8 @@
     "date": "Di., 6.7.,",
     "timestamp": 1625607900000,
     "time": "21:45",
-    "available": 76,
-    "reserved": 461,
+    "available": 58,
+    "reserved": 479,
     "bookable": true
   },
   "xberg-633": {
@@ -675,8 +675,8 @@
     "date": "Fr., 16.7.",
     "timestamp": 1626471000000,
     "time": "21:30",
-    "available": 535,
-    "reserved": 2,
+    "available": 537,
+    "reserved": 0,
     "bookable": true
   },
   "xberg-623": {
@@ -693,9 +693,9 @@
     "date": "Sa., 10.7.",
     "timestamp": 1625952600000,
     "time": "21:30",
-    "available": 42,
-    "reserved": 495,
-    "bookable": true
+    "available": 0,
+    "reserved": 0,
+    "bookable": false
   },
   "xberg-648": {
     "description": "",
@@ -727,8 +727,8 @@
     "date": "Mi., 21.7.",
     "timestamp": 1626903000000,
     "time": "21:30",
-    "available": 537,
-    "reserved": 0,
+    "available": 536,
+    "reserved": 1,
     "bookable": true
   },
   "xberg-638": {
@@ -851,8 +851,8 @@
     "date": "Fr., 9.7.,",
     "timestamp": 1625866200000,
     "time": "21:30",
-    "available": 262,
-    "reserved": 275,
+    "available": 258,
+    "reserved": 279,
     "bookable": true
   },
   "xberg-626": {
@@ -1062,8 +1062,8 @@
     "date": "Mo., 5.7.,",
     "timestamp": 1625521500000,
     "time": "21:45",
-    "available": 402,
-    "reserved": 135,
+    "available": 399,
+    "reserved": 138,
     "bookable": true
   },
   "rehberge-609": {
@@ -1219,8 +1219,8 @@
     "date": "Sa., 10.7.",
     "timestamp": 1625952600000,
     "time": "21:30",
-    "available": 232,
-    "reserved": 341,
+    "available": 229,
+    "reserved": 344,
     "bookable": true
   },
   "rehberge-625": {
@@ -1394,8 +1394,8 @@
     "date": "Mi., 14.7.",
     "timestamp": 1626298200000,
     "time": "21:30",
-    "available": 504,
-    "reserved": 69,
+    "available": 502,
+    "reserved": 71,
     "bookable": true
   },
   "rehberge-638": {
@@ -1412,8 +1412,8 @@
     "date": "Mi., 28.7.",
     "timestamp": 1627507800000,
     "time": "21:30",
-    "available": 572,
-    "reserved": 1,
+    "available": 571,
+    "reserved": 2,
     "bookable": true
   },
   "rehberge-639": {
@@ -1570,8 +1570,8 @@
     "date": "Di., 6.7.,",
     "timestamp": 1625607900000,
     "time": "21:45",
-    "available": 521,
-    "reserved": 52,
+    "available": 517,
+    "reserved": 56,
     "bookable": true
   },
   "rehberge-616": {
@@ -1606,8 +1606,8 @@
     "date": "Fr., 9.7.,",
     "timestamp": 1625866200000,
     "time": "21:30",
-    "available": 453,
-    "reserved": 120,
+    "available": 451,
+    "reserved": 122,
     "bookable": true
   },
   "filmrauschpalast-2389914876": {
@@ -1643,7 +1643,7 @@
     "description": "Therese Koppes vielschichtiges dokumentarisches Porträt ist ein Film über das Leben, die Kunst und selbst geschaffene Freiräume in der DDR, über Liebe im Alter und die Frage, wie man sich und seinen Idealen treu bleiben kann.\r\n> Erika und Tine sind beide 81 und seit über 40 Jahren ein Paar. Zusammen leben und arbeiten sie auf dem Kunsthof Lietzen in Brandenburg – und blicken auf ein bewegtes Stück gemeinsame Geschichte zurück. Mit ihrer Neugier und Offenheit stellen Erika und Tine alles in Frage, das Vergangene und das Bestehende.",
     "trailer": "https://vimeo.com/451150791",
     "available": 80,
-    "reserved": 3,
+    "reserved": 5,
     "bookable": true
   },
   "filmrauschpalast-2389917881": {
@@ -1729,7 +1729,7 @@
     "time": "21:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689591?layout=shows",
     "available": 1,
-    "reserved": 248,
+    "reserved": 249,
     "bookable": true
   },
   "hasenheide-689592": {
@@ -1746,8 +1746,8 @@
     "img": "https://media.kinoheld.de/QGcy05bNHPg76Qgvi9y_5L5XXvI=/400x560/images%2Ffilm%2Fin-the-mood-for-love-18803.v1.jpg",
     "description": "\"In the Mood for Love\" spielt in Hong Kong im Jahre 1962 und handelt von zwei jungen Ehepaaren und deren ungewöhnlicher Beziehung zueinander. Die Paare ziehen in benachbarte Appartements. Die schöne Li-Zhen und der Journalist Chow sind im Gegensatz zu ihren Partnern oft zu Hause. Beide verbindet sehr bald eine innige Freundschaft. Durch Zufall entdecken sie, dass ihre Ehepartner ein Verhältnis miteinander haben und geraten in einen Strudel verwirrender Gefühle. (BB)",
     "trailer": "https://www.youtube.com/watch?v=yEkyYBRNWdw",
-    "available": 277,
-    "reserved": 116,
+    "available": 268,
+    "reserved": 119,
     "bookable": true
   },
   "hasenheide-689593": {
@@ -1796,8 +1796,8 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689594?layout=shows",
     "img": "https://media.kinoheld.de/8AF3hb-XqmSaaZt5dYhxEYEBR-w=/400x560/images%2Ffilm%2Fsommer-85-19153.v6.jpg",
     "description": "\"Ein originell verpackter Liebesfilm mit leinwandpräsenten Helden, ebenso hübschen Bildern sowie nostalgisch korrekter Ausstattung. Ein echter Ozon!\" Programmkino.de",
-    "available": 368,
-    "reserved": 81,
+    "available": 362,
+    "reserved": 83,
     "bookable": true
   },
   "hasenheide-689595": {
@@ -1832,8 +1832,8 @@
     "img": "https://media.kinoheld.de/DjXNUmH-Vg-O6UoXMGqxdGhenA0=/400x560/images%2Ffilm%2Fportraet-einer-jungen-frau-in-flammen-14653.v128.jpg",
     "description": "Ein ungewöhnlicher Auftrag führt die Pariser Malerin Marianne (Noémie Marchant) im Jahr 1770 auf eine einsame Insel an der Küste der Bretagne: Sie soll heimlich ein Gemälde von Héloïse (Adèle Haenel) anfertigen, die gerade eine Klosterschule für junge adelige Frauen verlassen hat und bald verheiratet werden soll. Denn Héloïse weigert sich, Modell zu sitzen, um gegen die von ihrer Mutter (Valeria Golino) arrangierte Ehe zu protestieren. So beobachtet Marianne Héloïse während ihrer Spaziergänge an die Küste und malt abends aus dem Gedächtnis heraus ihr Porträt. Langsam wächst zwischen den eindringlichen Blicken eine unwiderstehliche Anziehungskraft... (Quelle: Verleih)",
     "trailer": "https://www.youtube.com/watch?v=95Sfa-nonVU",
-    "available": 514,
-    "reserved": 36,
+    "available": 507,
+    "reserved": 39,
     "bookable": true
   },
   "hasenheide-689597": {
@@ -1923,7 +1923,7 @@
     "description": "Früher war Martin Lehrer aus Leidenschaft – heute sind nicht nur die Schüler von seinem fehlenden Enthusiasmus gelangweilt, auch in Martins Ehe ist die Luft raus. Seinen drei Freunden, die am selben Gymnasium unterrichten, geht es nicht viel besser. Bei einer angeheiterten Geburtstagsrunde diskutieren sie die Theorie eines norwegischen Philosophen: Nach dieser ist ein Mensch nur mit einem erhöhten Alkoholgehalt im Blut zu Bestleistungen fähig. Solch eine gewagte These muss überprüft werden. Die vier beschließen den Selbsttest zu machen und während der Arbeit einen bestimmten Pegel zu halten. Soll nicht sogar Churchill den Zweiten Weltkrieg in einem Alkoholrausch gewonnen haben? Mit neuem Antrieb stürzen sie sich in ihre geheime wissenschaftliche Studie. Die Wirkung lässt nicht lange auf sich warten …",
     "trailer": "https://www.youtube.com/watch?v=oJwlO6vcsm0",
     "available": 678,
-    "reserved": 0,
+    "reserved": 2,
     "bookable": true
   },
   "hasenheide-691214": {
@@ -2304,7 +2304,7 @@
     "timestamp": 1626912000000,
     "time": "21:30",
     "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2392542992?layout=shows",
-    "img": "https://media.kinoheld.de/nBBqUhyfaJtjtGDKWIhOXLYJ__U=/400x560/images%2Ffilm%2Fdemon-slayer-kimetsu-no-yaiba-mugen-train-18801.v19.jpg",
+    "img": "https://media.kinoheld.de/JisUE2y_H3w7rbtGuXl12JT9ANk=/400x560/images%2Ffilm%2Fdemon-slayer-kimetsu-no-yaiba-mugen-train-18801.v20.jpg",
     "description": "Tanjirō und seine Gefährten haben ihr Rehabilitationstraining im Schmetterlingsanwesen abgeschlossen und erreichen den Ort ihrer nächsten Mission. Im »Mugen-Zug« sind über 40 Leute innerhalb kürzester Zeit verschwunden. Tanjirō, Nezuko, Zenitsu und Inosuke schließen sich einem der mächtigsten Schwertkämpfer unter den Dämonenjägern an: der Säule der Flammen Kyōjurō Rengoku. Zusammen wollen sie sich dem Dämon stellen, der im »Mugen-Zug« lauert und begeben sich auf eine Fahrt in die Dunkelheit.",
     "trailer": "https://youtu.be/MKJ-nXADsVk",
     "available": -1,
@@ -2432,8 +2432,8 @@
     "img": "https://media.kinoheld.de/8M9A-GCWRp67puz9iCaeTahq9kg=/400x560/images%2Ffilm%2Fjojo-rabbit-15227.v164.jpg",
     "description": "Jojo Rabbit handelt von einem kleinen Jungen, der während des Zweiten Weltkriegs lebt. Er kann der rauen Wirklichkeit nur durch seinen imaginären Freund entkommen, eine ethnisch ungenaue Version von Adolf Hitler, der die naiven patriotischen Überzeugungen des kleinen Jungen vorantreibt. Das ändert sich jedoch alles, als ein junges Mädchen diese Ansichten hinterfragt und Jojo dazu bringt, sich seinen eigenen Problemen zu stellen.",
     "trailer": "https://www.youtube.com/watch?v=PCFcHvkm1KE",
-    "available": 46,
-    "reserved": 18,
+    "available": 43,
+    "reserved": 21,
     "bookable": true
   },
   "central-2392681292": {
@@ -2450,8 +2450,8 @@
     "img": "https://media.kinoheld.de/FsNKn9KVQQJ1JOoT5CdMA2H0bfI=/400x560/images%2Ffilm%2F4%2Fder-himmel-ueber-berlin-9307.v21.jpg",
     "description": "Damiel ist ein Engel. Und gemeinsam mit seinem himmlischen Kollegen Cassiel wandert er durch das geteilte Berlin und wacht über die Menschen. Doch als Engel bleibt Damiel der menschlichen Welt verborgen. Er kann sie nur beobachten und ihren Gedanken lauschen, mitfühlen und miterleben kann er ihre Empfindungen nicht. Als er sich eines Tages in die zauberhafte Trapezkünstlerin Marion verliebt, beschließt er, selbst ein Mensch zu werden. Doch dafür muss er ein großes Opfer bringen: seine Unsterblichkeit. (j.b.)",
     "trailer": "https://www.youtube.com/watch?v=_Zih4o6NLCc",
-    "available": 4,
-    "reserved": 38,
+    "available": 1,
+    "reserved": 41,
     "bookable": true
   },
   "central-2392681454": {
@@ -3232,7 +3232,7 @@
     "timestamp": 1625875200000,
     "time": "21:45",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2388621683?layout=shows",
-    "img": "https://media.kinoheld.de/nBBqUhyfaJtjtGDKWIhOXLYJ__U=/400x560/images%2Ffilm%2Fdemon-slayer-kimetsu-no-yaiba-mugen-train-18801.v19.jpg",
+    "img": "https://media.kinoheld.de/JisUE2y_H3w7rbtGuXl12JT9ANk=/400x560/images%2Ffilm%2Fdemon-slayer-kimetsu-no-yaiba-mugen-train-18801.v20.jpg",
     "description": "Der Kinofilm zur gleichnamigen Anime-Serie ist der erfolgreichste Anime aller Zeiten, mit aktuellem Stand führt er mit großem Abstand vor den bisherigen Spitzenreitern CHIHIROS REISE INS ZAUBERLAND (2001) von Hayao Miyazaki und YOUR NAME (2016) von Makoto Shinkai. Eine Sensation, wenn man bedenkt, dass gerade einmal ein Jahr seit dem Start in Japan vergangen ist und der Film einfach die direkte Fortsetzung der Serie, also eher eine überlange Episode ist. Doch anbetracht der Tatsache, dass die Serie zu den besten im japanischen Anime-Universum gehört und die Hauptfiguren überhaus sympathisch sind, dürfen sich alle Anime-Fans auf ein schönes Kinoabenteuer freuen. Es kann nicht schaden, zuvor schnell die Serie zu schauen. Oder hinterher.",
     "trailer": "https://youtu.be/bBaKrECITsg",
     "available": -1,
@@ -3361,8 +3361,8 @@
     "img": "https://media.kinoheld.de/3TtFHvGtCKwO-D_FUg8uwJCd_d4=/400x560/images%2Ffilm%2F4%2Fthis-ain-t-california-207.v3.jpg",
     "description": "Wir glauben heute, viel über die Zeit der DDR zu wissen, vielleicht sogar alles, aber die Dokumentation \"This Ain't California\" zeigt uns eine ganz neue Seite. Denn in einer Welt, in der der Alltag staatlich verordnet war, bildete sich - allen Zwängen und Verboten zum Trotz - eine eigene Subkultur heraus, die sich am kalifornischen Lebensgefühl orientierte und sich dem Wertesystem der Deutschen Demokratischen Republik widersetzte. Der Film gibt einen Einblick in diese Szene - in die \"Rollbrettfahrer\"-Szene. (j.b.)",
     "trailer": "https://www.youtube.com/watch?v=2JN5mWmUWqM",
-    "available": 92,
-    "reserved": 16,
+    "available": 91,
+    "reserved": 17,
     "bookable": true
   },
   "mobile kino-2386733318": {
@@ -3592,8 +3592,8 @@
     "time": "21:45",
     "date": "Mo., 5.7.,",
     "timestamp": 1625521500000,
-    "available": 412,
-    "reserved": 48,
+    "available": 409,
+    "reserved": 51,
     "bookable": true
   },
   "kulturforum-252": {
@@ -3610,8 +3610,8 @@
     "time": "21:45",
     "date": "Mi., 7.7.,",
     "timestamp": 1625694300000,
-    "available": 419,
-    "reserved": 41,
+    "available": 417,
+    "reserved": 43,
     "bookable": true
   },
   "kulturforum-253": {
@@ -3662,8 +3662,8 @@
     "time": "21:45",
     "date": "Sa., 10.7.",
     "timestamp": 1625953500000,
-    "available": 242,
-    "reserved": 218,
+    "available": 241,
+    "reserved": 219,
     "bookable": true
   },
   "kulturforum-260": {
@@ -3716,8 +3716,8 @@
     "time": "21:30",
     "date": "Di., 13.7.",
     "timestamp": 1626211800000,
-    "available": 436,
-    "reserved": 24,
+    "available": 428,
+    "reserved": 32,
     "bookable": true
   },
   "kulturforum-257": {
@@ -3767,8 +3767,8 @@
     "time": "21:30",
     "date": "Mo., 5.7.,",
     "timestamp": 1625520600000,
-    "available": 410,
-    "reserved": 89,
+    "available": 404,
+    "reserved": 95,
     "bookable": true
   },
   "schloss-charlottenburg-37": {
@@ -3800,8 +3800,8 @@
     "time": "21:30",
     "date": "Mi., 7.7.,",
     "timestamp": 1625693400000,
-    "available": 337,
-    "reserved": 162,
+    "available": 331,
+    "reserved": 168,
     "bookable": true
   },
   "schloss-charlottenburg-39": {
@@ -3818,8 +3818,8 @@
     "time": "21:30",
     "date": "Do., 8.7.,",
     "timestamp": 1625779800000,
-    "available": 446,
-    "reserved": 53,
+    "available": 444,
+    "reserved": 55,
     "bookable": true
   },
   "schloss-charlottenburg-40": {
@@ -3836,8 +3836,8 @@
     "time": "21:30",
     "date": "Fr., 9.7.,",
     "timestamp": 1625866200000,
-    "available": 390,
-    "reserved": 109,
+    "available": 386,
+    "reserved": 113,
     "bookable": true
   },
   "schloss-charlottenburg-41": {
@@ -3889,8 +3889,8 @@
     "time": "21:30",
     "date": "Mo., 12.7.",
     "timestamp": 1626125400000,
-    "available": 467,
-    "reserved": 32,
+    "available": 464,
+    "reserved": 35,
     "bookable": true
   },
   "schloss-charlottenburg-44": {
