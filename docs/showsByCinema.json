@@ -67,8 +67,8 @@
       "date": "Di., 6.7.,",
       "timestamp": 1625607900000,
       "time": "21:45",
-      "available": 698,
-      "reserved": 372,
+      "available": 694,
+      "reserved": 376,
       "bookable": true
     },
     {
@@ -156,8 +156,8 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626126300000,
       "time": "21:45",
-      "available": 425,
-      "reserved": 645,
+      "available": 419,
+      "reserved": 651,
       "bookable": true
     },
     {
@@ -243,8 +243,8 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625867100000,
       "time": "21:45",
-      "available": 816,
-      "reserved": 254,
+      "available": 814,
+      "reserved": 256,
       "bookable": true
     },
     {
@@ -294,8 +294,8 @@
       "date": "Mi., 21.7.",
       "timestamp": 1626903000000,
       "time": "21:30",
-      "available": 1070,
-      "reserved": 0,
+      "available": 1067,
+      "reserved": 3,
       "bookable": true
     },
     {
@@ -329,8 +329,8 @@
       "date": "So., 11.7.",
       "timestamp": 1626024600000,
       "time": "17:30",
-      "available": 662,
-      "reserved": 333,
+      "available": 562,
+      "reserved": 433,
       "bookable": true
     },
     {
@@ -536,8 +536,8 @@
       "date": "Mo., 5.7.,",
       "timestamp": 1625521500000,
       "time": "21:45",
-      "available": 915,
-      "reserved": 155,
+      "available": 817,
+      "reserved": 253,
       "bookable": true
     },
     {
@@ -625,8 +625,61 @@
       "date": "Di., 6.7.,",
       "timestamp": 1625607900000,
       "time": "21:45",
-      "available": 82,
-      "reserved": 455,
+      "available": 76,
+      "reserved": 461,
+      "bookable": true
+    },
+    {
+      "trailer": "https://www.youtube-nocookie.com/embed/Z9AYPxH5NTM?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
+      "description": "Sinnliches Gefühlskino, basierend auf dem feinsinnigen Drehbuch von Altmeister James Ivory (Maurice, Wiedersehen in Howards End, Zimmer mit Aussicht) Norditalien, 1983: Familie Perlman verbringt den Sommer in ihrer mondänen Villa. In einer Mischung aus erfreulicher Zielstrebigkeit, jungendlicher Selbstüberschätzung und überspielter Schüchternheit nähert sich der 17 Jahre alte Elio dem auf römische Kulturgeschichte spezialisierten Archäologie-Doktoranden Oliver, den der Vater für die Saison angestellt hat. ",
+      "cinemaId": "kb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+      "cinemaName": "Freiluftkino Kreuzberg",
+      "cinemaShortName": "xberg",
+      "id": "xberg-633",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/633",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=621",
+      "title": "Call me by your Name",
+      "date": "Mo., 19.7.",
+      "timestamp": 1626730200000,
+      "time": "21:30",
+      "available": 537,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "trailer": "https://www.youtube-nocookie.com/embed/_Zih4o6NLCc?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
+      "description": "Die Engel Damiel (Bruno Ganz) und Cassiel (Otto Sander) wandern durch das geteilte Berlin, beobachten die Menschen und lauschen ihren Gedanken. Als Damiel sich in die Trapezkünstlerin Marion verliebt, erwächst in ihm das Verlangen, selbst Mensch zu werden. Er gibt seine Unsterblichkeit auf, um das zu erleben, was Engeln vorenthalten bleibt: die irdische Existenz und die sinnliche Erfahrung des Menschseins…",
+      "cinemaId": "kb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+      "cinemaName": "Freiluftkino Kreuzberg",
+      "cinemaShortName": "xberg",
+      "id": "xberg-641",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/641",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=629",
+      "title": "Der Himmel über Berlin",
+      "date": "Mi., 28.7.",
+      "timestamp": 1627507800000,
+      "time": "21:30",
+      "available": 537,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "description": "",
+      "cinemaId": "kb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+      "cinemaName": "Freiluftkino Kreuzberg",
+      "cinemaShortName": "xberg",
+      "id": "xberg-630",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/630",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=617",
+      "title": "Der Mauretanier",
+      "date": "Fr., 16.7.",
+      "timestamp": 1626471000000,
+      "time": "21:30",
+      "available": 535,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -643,8 +696,130 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
       "time": "21:30",
-      "available": 46,
-      "reserved": 491,
+      "available": 42,
+      "reserved": 495,
+      "bookable": true
+    },
+    {
+      "description": "",
+      "cinemaId": "kb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+      "cinemaName": "Freiluftkino Kreuzberg",
+      "cinemaShortName": "xberg",
+      "id": "xberg-648",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/648",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=635",
+      "title": "Der Spion",
+      "date": "Sa., 24.7.",
+      "timestamp": 1627162200000,
+      "time": "21:30",
+      "available": 537,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "description": "Das Xposed Queer Film Festival hat aus seinen 15 Jahren Programm einen Berlin-Abend zusammengestellt. Wir freuen uns auf einen tollen Abend.",
+      "cinemaId": "kb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+      "cinemaName": "Freiluftkino Kreuzberg",
+      "cinemaShortName": "xberg",
+      "id": "xberg-643",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/643",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=631",
+      "title": "Exposed Berlin Special",
+      "date": "Mi., 21.7.",
+      "timestamp": 1626903000000,
+      "time": "21:30",
+      "available": 537,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "trailer": "https://www.youtube-nocookie.com/embed/DitVsuZ66fQ?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
+      "description": "Mit zärtlicher Wucht und nach autobiographischen Motiven erzählt Regisseur Faraz Shariat vom jungen Deutschiraner Parvis, der sich sein Leben bequem zwischen Grindr-Dates und langen Clubnächten eingerichtet hat. Doch dann wird er bei einem Ladendiebstahl erwischt und muss in einem Wohnprojekt für Flüchtlinge seine Sozialstunden ableisten. Dort trifft er auf das iranische Geschwis­ter­paar Banafshe und Amon; der Beginn einer intensiven Freundschaft. Zu dritt erleben sie einen Sommer stürmisch durchfeierter Nächte und zwischen Parvis und Amon knistert es ganz gewaltig. \n\"Futur Drei\" erzählt ein doppeltes Coming-out, ein queeres und ein kulturelles (Tagesspiegel). ",
+      "cinemaId": "kb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+      "cinemaName": "Freiluftkino Kreuzberg",
+      "cinemaShortName": "xberg",
+      "id": "xberg-638",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/638",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=603",
+      "title": "Futur Drei",
+      "date": "So., 25.7.",
+      "timestamp": 1627248600000,
+      "time": "21:30",
+      "available": 537,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "description": "",
+      "cinemaId": "kb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+      "cinemaName": "Freiluftkino Kreuzberg",
+      "cinemaShortName": "xberg",
+      "id": "xberg-631",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/631",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=619",
+      "title": "HOME",
+      "date": "Sa., 17.7.",
+      "timestamp": 1626557400000,
+      "time": "21:30",
+      "available": 537,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "description": "",
+      "cinemaId": "kb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+      "cinemaName": "Freiluftkino Kreuzberg",
+      "cinemaShortName": "xberg",
+      "id": "xberg-647",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/647",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=625",
+      "title": "In the Mood for Love",
+      "date": "Fr., 23.7.",
+      "timestamp": 1627075800000,
+      "time": "21:30",
+      "available": 537,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "trailer": "https://www.youtube-nocookie.com/embed/K2J5wHNGiyQ?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
+      "description": "26 Jahre lang haben das Betrügerpaar Theresa und Robert ihre Tochter Old Dolio darin geschult, zu lügen, zu betrügen, zu stehlen, kurz: Jede Chance auf einen nächsten Coup zu nutzen. Während eines etwas zu hastig konzipierten Überfalls überzeugen sie eine freundliche Fremde, Melanie, sich ihrem nächsten Plan anzuschließen. Doch diese Begegnung bringt den Alltag von Old Dolio völlig durcheinander. Sie fühlt sich zu Melanie hingezogen und beginnt erstmals die seltsame und stoische Realität ihres Familienlebens in Frage zu stellen und sich zu fragen, was sie selbst eigentlich vom Leben will. \n\"Julys Filme sind immer ein bisschen schräg und voller Sonderbarkeiten. Man steht drauf oder nicht. Aber wenn man mitgeht, erlebt man die Filme in einem unschuldig, kindgleichen Zustand, in dem real und surreal gleichzeitige Erfahrungen sind.\" (Associated Press)",
+      "cinemaId": "kb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+      "cinemaName": "Freiluftkino Kreuzberg",
+      "cinemaShortName": "xberg",
+      "id": "xberg-639",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/639",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=627",
+      "title": "Kajillionaire",
+      "date": "Mo., 26.7.",
+      "timestamp": 1627335000000,
+      "time": "21:30",
+      "available": 537,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "trailer": "https://www.youtube-nocookie.com/embed/31_ZH8_4nVs?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
+      "description": "Der Kiez ist ihr Mikrokosmos. Überall ist Nora, die stille Beobachterin, mit dabei: Party, Schule, Freibad, Hausdach, Wohnung. Im Schlepptau ihrer großen Schwester und deren Freund*innen zieht sie um die immer gleichen Häuserblocks und fängt Eindrücke ein, die sich im sommerlichen Licht überblenden. Mädchen, die schlank und schön sein wollen. Jungs, die Sprüche klopfen – manchmal verliebt, oft provozierend. Fiese Handykameras und zerbrechliche Teenager*innen. Doch Nora hat ihren eigenen Blick auf die Welt, und als sie Romy kennenlernt, weiß sie, warum. \n\"Ein in jeder Hinsicht sinnlicher Film, mit dem man als Zuschauer ganz direkt ins Lebensgefühl der Stadt und des Erwachsenwerdens eintauchen kann.\" (RBB)\n",
+      "cinemaId": "kb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+      "cinemaName": "Freiluftkino Kreuzberg",
+      "cinemaShortName": "xberg",
+      "id": "xberg-642",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/642",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=630",
+      "title": "Kokon",
+      "date": "Do., 29.7.",
+      "timestamp": 1627594200000,
+      "time": "21:30",
+      "available": 537,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -702,6 +877,42 @@
       "bookable": true
     },
     {
+      "trailer": "https://www.youtube-nocookie.com/embed/ugVw6YwrdT4?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
+      "description": "In Bong Joon Hos brilliant undurchsichtiger Sozialsatire mit vielfach doppeltem Boden, nistet sich eine mittellose Familie als Hausangestellte in einer reichen Familie ein: ein minutiös geplanter Coup, der perfekt umgesetzt gelingt. So scheint es jedenfalls zunächst, doch dann laufen die Ereignisse so richtig aus dem Ruder. \"Selten hat man ein solch verblüffendes Kinoabenteuer erlebt.\" Berliner Zeitung\n",
+      "cinemaId": "kb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+      "cinemaName": "Freiluftkino Kreuzberg",
+      "cinemaShortName": "xberg",
+      "id": "xberg-634",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/634",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=622",
+      "title": "Parasite",
+      "date": "Di., 20.7.",
+      "timestamp": 1626816600000,
+      "time": "21:30",
+      "available": 537,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "trailer": "https://www.youtube-nocookie.com/embed/JcRgZpeEFMs?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
+      "description": "Eigentlich hatten die beiden jungen Afroamerikaner Queen & Slim gerade vor, ihr erstes missglücktes Date einfach zu vergessen, als eine Verkehrskontrolle aus dem Ruder läuft. Wohl wissend, dass ihnen niemals ein fairer Prozess erwarten können, fliehen sie. Doch der Vorfall wurde von einer Kamera aufgezeichnet — und die Aufnahmen gehen viral.  \n\"Daniel Kaluuya (\"Get Out\") und Jodie Turner-Smith schenken diesem Paar eine verletzliche Menschlichkeit, die in kein Heldenschema passt.\" Knut Elstermann, radioeins",
+      "cinemaId": "kb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+      "cinemaName": "Freiluftkino Kreuzberg",
+      "cinemaShortName": "xberg",
+      "id": "xberg-640",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/640",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=628",
+      "title": "Queen &amp;amp; Slim",
+      "date": "Di., 27.7.",
+      "timestamp": 1627421400000,
+      "time": "21:30",
+      "available": 537,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
       "description": "Dominic ist schwer verliebt – und zwar in sich selbst. Sein Narzissmus grenzt schon an einen Fetisch, so fasziniert ist er von seinem Spiegelbild, auch und gerade beim Sex. Gemeinsam mit seiner liebevollen Großmutter lebt er im kanadischen Québec der frühen 1970er Jahre. Als sie überraschend stirbt, findet Dominic einen Brief seiner totgeglaubten Mutter. Er macht sich auf die Suche nach ihr und wird auch bald fündig. Doch nicht nur das: Plötzlich steht Dominic seinem leibhaftigen Ebenbild gegenüber. Der gutaussehende junge Mann lebt im Kloster und steht in einer – gelinde gesagt – toxischen Beziehung zu einem der älteren Priester. Doch ist Dominics Doppelgänger der Zwillingsbruder, von dem er nichts wusste? Oder eine narzisstische Projektion?\n",
       "cinemaId": "kb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
@@ -737,6 +948,23 @@
       "bookable": true
     },
     {
+      "description": "Ein heißer Sommer in der Normandie, 1985: Der 16-jährige Alexis verbringt die Ferien gemeinsam mit seinen Eltern in einem kleinen malerischen Örtchen an der Küste. Als ihn eines Tages ein überraschend aufziehendes Unwetter in seiner kleinen Segeljolle zum Kentern bringt, wird er wie durch ein Wunder von dem etwas älteren David gerettet. Eine große, besondere Sommerliebe nimmt ihren Anfang, doch nach wenigen Wochen wird das unbeschwerte Liebesglück der beiden Teenager getrübt. Die Ereignisse überschlagen sich und Alexis muss ein letztes Versprechen einlösen...",
+      "cinemaId": "kb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+      "cinemaName": "Freiluftkino Kreuzberg",
+      "cinemaShortName": "xberg",
+      "id": "xberg-645",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/645",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=632",
+      "title": "Sommer 85",
+      "date": "Do., 22.7.",
+      "timestamp": 1626989400000,
+      "time": "21:30",
+      "available": 537,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
       "cinemaId": "kb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
       "cinemaName": "Freiluftkino Kreuzberg",
@@ -749,6 +977,24 @@
       "timestamp": 1629388800000,
       "time": "16:00",
       "available": 492,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "trailer": "https://www.youtube-nocookie.com/embed/ptnV_GkOMy4?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
+      "description": "Scott lebt mit Mitte 20 immer noch bei seiner Mutter und hängt am liebsten ziel- und planlos kiffend mit seinen Freunden ab. Etwas Hobbytätowieren inklusive. Als seine Mutter 17 Jahre nach dem Tod des Vaters einen neuen Freund hat, der sehr zu seinem Entsetzen auch noch Feuerwehrmann ist wie sein Vater, kommt Scotts Leben ungewollt in Bewegung. Nicht nur, dass er sich um die Kinder des neuen Partners seiner Mutter kümmern muss - er soll auf eigenen Beinen stehen und ausziehen. Doch wie geht das: auf eigenen Beinen stehen? \n\"Wie kein anderer kann Judd Apatow über die Tragikomik im Kleinen, die Welt im Großen erklären.\" artechok ",
+      "cinemaId": "kb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+      "cinemaName": "Freiluftkino Kreuzberg",
+      "cinemaShortName": "xberg",
+      "id": "xberg-644",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/644",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=633",
+      "title": "The King of Staten Island",
+      "date": "Fr., 30.7.",
+      "timestamp": 1627678800000,
+      "time": "21:00",
+      "available": 537,
       "reserved": 0,
       "bookable": true
     },
@@ -786,6 +1032,24 @@
       "time": "21:30",
       "available": 505,
       "reserved": 32,
+      "bookable": true
+    },
+    {
+      "trailer": "https://www.youtube-nocookie.com/embed/D1N5FsXlbTE?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
+      "description": "Die schwarze Sängerin Billie Holiday (Andra Day) wird in den 1940er als Sängerin gefeiert. Doch dass die Texte mancher ihrer Songs die Bürgerrechtsbewegung befeuern, sehen die Behörden nicht gern. Bundesagent Harry Anslinger (Garrett Hedlund) macht es sich wegen des Anti-Lynching-Songs \"Strange Fruit\" zur Aufgabe, die Sängerin in Verruf zu ziehen. Er will ihre Heroin-Sucht nutzen und sie ins Gefängnis bringen. Doch Billie Holiday will sich ganz sicher nicht mundtot machen lassen.\n\"Andra Day bringt die Leinwand zum glühen.\" Hollywood Reporter",
+      "cinemaId": "kb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+      "cinemaName": "Freiluftkino Kreuzberg",
+      "cinemaShortName": "xberg",
+      "id": "xberg-632",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/632",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=620",
+      "title": "United States vs. Billie Holiday",
+      "date": "So., 18.7.",
+      "timestamp": 1626643800000,
+      "time": "21:30",
+      "available": 537,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -855,8 +1119,8 @@
       "date": "Sa., 17.7.",
       "timestamp": 1626525000000,
       "time": "12:30",
-      "available": 455,
-      "reserved": 118,
+      "available": 454,
+      "reserved": 119,
       "bookable": true
     },
     {
@@ -873,8 +1137,8 @@
       "date": "Di., 13.7.",
       "timestamp": 1626211800000,
       "time": "21:30",
-      "available": 467,
-      "reserved": 106,
+      "available": 465,
+      "reserved": 108,
       "bookable": true
     },
     {
@@ -960,8 +1224,8 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
       "time": "21:30",
-      "available": 233,
-      "reserved": 340,
+      "available": 232,
+      "reserved": 341,
       "bookable": true
     },
     {
@@ -1012,8 +1276,8 @@
       "date": "Mo., 19.7.",
       "timestamp": 1626730200000,
       "time": "21:30",
-      "available": 573,
-      "reserved": 0,
+      "available": 571,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -1153,8 +1417,8 @@
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
       "time": "21:30",
-      "available": 573,
-      "reserved": 0,
+      "available": 572,
+      "reserved": 1,
       "bookable": true
     },
     {
@@ -1293,8 +1557,8 @@
       "date": "Do., 15.7.",
       "timestamp": 1626384600000,
       "time": "21:30",
-      "available": 553,
-      "reserved": 20,
+      "available": 551,
+      "reserved": 22,
       "bookable": true
     },
     {
@@ -1385,7 +1649,7 @@
       "img": "https://media.kinoheld.de/HjuD31sg7BQBV0tFkfblAV-_gvc=/400x560/images%2Ffilm%2Fmo%2F1863-37073.v2.jpg",
       "description": "Therese Koppes vielschichtiges dokumentarisches Porträt ist ein Film über das Leben, die Kunst und selbst geschaffene Freiräume in der DDR, über Liebe im Alter und die Frage, wie man sich und seinen Idealen treu bleiben kann.\r\n> Erika und Tine sind beide 81 und seit über 40 Jahren ein Paar. Zusammen leben und arbeiten sie auf dem Kunsthof Lietzen in Brandenburg – und blicken auf ein bewegtes Stück gemeinsame Geschichte zurück. Mit ihrer Neugier und Offenheit stellen Erika und Tine alles in Frage, das Vergangene und das Bestehende.",
       "trailer": "https://vimeo.com/451150791",
-      "available": 82,
+      "available": 80,
       "reserved": 3,
       "bookable": true
     },
@@ -1473,7 +1737,7 @@
       "timestamp": 1625443200000,
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689591?layout=shows",
-      "available": 2,
+      "available": 1,
       "reserved": 248,
       "bookable": true
     },
@@ -1491,8 +1755,8 @@
       "img": "https://media.kinoheld.de/QGcy05bNHPg76Qgvi9y_5L5XXvI=/400x560/images%2Ffilm%2Fin-the-mood-for-love-18803.v1.jpg",
       "description": "\"In the Mood for Love\" spielt in Hong Kong im Jahre 1962 und handelt von zwei jungen Ehepaaren und deren ungewöhnlicher Beziehung zueinander. Die Paare ziehen in benachbarte Appartements. Die schöne Li-Zhen und der Journalist Chow sind im Gegensatz zu ihren Partnern oft zu Hause. Beide verbindet sehr bald eine innige Freundschaft. Durch Zufall entdecken sie, dass ihre Ehepartner ein Verhältnis miteinander haben und geraten in einen Strudel verwirrender Gefühle. (BB)",
       "trailer": "https://www.youtube.com/watch?v=yEkyYBRNWdw",
-      "available": 288,
-      "reserved": 114,
+      "available": 277,
+      "reserved": 116,
       "bookable": true
     },
     {
@@ -1509,8 +1773,8 @@
       "img": "https://media.kinoheld.de/GfLOd1LQsa02ny_3ukH3Xsx_-XQ=/400x560/images%2Ffilm%2Fmutter-mother-17562.v39.jpg",
       "description": "Ema ist Tänzerin und lebt zusammen mit Gastón. Sie hatten ein Waisenkind adoptiert, doch nach kurzer Zeit entschied sich Ema, ihn „zurückzugeben“, da er mit Feuer spielte und jemanden verletzt hat. Ihr Umfeld reagierte entsetzt und auch Ema scheint es sich überlegt zu haben. Doch als das Adoptionsamt ihr sagt, dass er bei einer neuen Familie ist, ist Ema klar: Sie zieht in den Krieg! Ihre Waffen: Sex, Tanz – und ein Flammenwerfer!",
       "trailer": "https://www.youtube.com/watch?v=3xVGjzPaV6s",
-      "available": 340,
-      "reserved": 90,
+      "available": 330,
+      "reserved": 92,
       "bookable": true
     },
     {
@@ -1667,7 +1931,7 @@
       "img": "https://media.kinoheld.de/MxoVzusSV669JJJuULf5SfAJ6Dw=/400x560/images%2Ffilm%2Fder-rausch-18282.v12.jpg",
       "description": "Früher war Martin Lehrer aus Leidenschaft – heute sind nicht nur die Schüler von seinem fehlenden Enthusiasmus gelangweilt, auch in Martins Ehe ist die Luft raus. Seinen drei Freunden, die am selben Gymnasium unterrichten, geht es nicht viel besser. Bei einer angeheiterten Geburtstagsrunde diskutieren sie die Theorie eines norwegischen Philosophen: Nach dieser ist ein Mensch nur mit einem erhöhten Alkoholgehalt im Blut zu Bestleistungen fähig. Solch eine gewagte These muss überprüft werden. Die vier beschließen den Selbsttest zu machen und während der Arbeit einen bestimmten Pegel zu halten. Soll nicht sogar Churchill den Zweiten Weltkrieg in einem Alkoholrausch gewonnen haben? Mit neuem Antrieb stürzen sie sich in ihre geheime wissenschaftliche Studie. Die Wirkung lässt nicht lange auf sich warten …",
       "trailer": "https://www.youtube.com/watch?v=oJwlO6vcsm0",
-      "available": 692,
+      "available": 678,
       "reserved": 0,
       "bookable": true
     },
@@ -2535,8 +2799,8 @@
       "img": "https://media.kinoheld.de/DjXNUmH-Vg-O6UoXMGqxdGhenA0=/400x560/images%2Ffilm%2Fportraet-einer-jungen-frau-in-flammen-14653.v128.jpg",
       "description": "Ein ungewöhnlicher Auftrag führt die Pariser Malerin Marianne (Noémie Marchant) im Jahr 1770 auf eine einsame Insel an der Küste der Bretagne: Sie soll heimlich ein Gemälde von Héloïse (Adèle Haenel) anfertigen, die gerade eine Klosterschule für junge adelige Frauen verlassen hat und bald verheiratet werden soll. Denn Héloïse weigert sich, Modell zu sitzen, um gegen die von ihrer Mutter (Valeria Golino) arrangierte Ehe zu protestieren. So beobachtet Marianne Héloïse während ihrer Spaziergänge an die Küste und malt abends aus dem Gedächtnis heraus ihr Porträt. Langsam wächst zwischen den eindringlichen Blicken eine unwiderstehliche Anziehungskraft... (Quelle: Verleih)",
       "trailer": "https://www.youtube.com/watch?v=95Sfa-nonVU",
-      "available": 70,
-      "reserved": 0,
+      "available": 67,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -3136,8 +3400,8 @@
       "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2386733318?layout=shows",
       "img": "https://media.kinoheld.de/8AF3hb-XqmSaaZt5dYhxEYEBR-w=/400x560/images%2Ffilm%2Fsommer-85-19153.v6.jpg",
       "description": "\"Ein originell verpackter Liebesfilm mit leinwandpräsenten Helden, ebenso hübschen Bildern sowie nostalgisch korrekter Ausstattung. Ein echter Ozon!\" Programmkino.de",
-      "available": 29,
-      "reserved": 87,
+      "available": 27,
+      "reserved": 89,
       "bookable": true
     },
     {
@@ -3168,8 +3432,8 @@
       "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2386736592?layout=shows",
       "img": "https://media.kinoheld.de/8AF3hb-XqmSaaZt5dYhxEYEBR-w=/400x560/images%2Ffilm%2Fsommer-85-19153.v6.jpg",
       "description": "\"Ein originell verpackter Liebesfilm mit leinwandpräsenten Helden, ebenso hübschen Bildern sowie nostalgisch korrekter Ausstattung. Ein echter Ozon!\" Programmkino.de",
-      "available": 39,
-      "reserved": 12,
+      "available": 38,
+      "reserved": 13,
       "bookable": true
     },
     {
@@ -3422,8 +3686,8 @@
       "time": "21:45",
       "date": "Sa., 10.7.",
       "timestamp": 1625953500000,
-      "available": 247,
-      "reserved": 213,
+      "available": 242,
+      "reserved": 218,
       "bookable": true
     },
     {
@@ -3458,8 +3722,8 @@
       "time": "21:30",
       "date": "Mo., 12.7.",
       "timestamp": 1626125400000,
-      "available": 422,
-      "reserved": 38,
+      "available": 421,
+      "reserved": 39,
       "bookable": true
     },
     {
@@ -3545,8 +3809,8 @@
       "time": "21:30",
       "date": "Mo., 12.7.",
       "timestamp": 1626125400000,
-      "available": 422,
-      "reserved": 38,
+      "available": 421,
+      "reserved": 39,
       "bookable": true
     },
     {
@@ -3580,8 +3844,8 @@
       "time": "21:45",
       "date": "Sa., 10.7.",
       "timestamp": 1625953500000,
-      "available": 247,
-      "reserved": 213,
+      "available": 242,
+      "reserved": 218,
       "bookable": true
     },
     {
@@ -3719,8 +3983,8 @@
       "time": "21:30",
       "date": "Di., 6.7.,",
       "timestamp": 1625607000000,
-      "available": 417,
-      "reserved": 82,
+      "available": 416,
+      "reserved": 83,
       "bookable": true
     },
     {
@@ -3755,8 +4019,8 @@
       "time": "21:30",
       "date": "Do., 8.7.,",
       "timestamp": 1625779800000,
-      "available": 444,
-      "reserved": 55,
+      "available": 446,
+      "reserved": 53,
       "bookable": true
     },
     {
@@ -3773,8 +4037,8 @@
       "time": "21:30",
       "date": "Fr., 9.7.,",
       "timestamp": 1625866200000,
-      "available": 392,
-      "reserved": 107,
+      "available": 390,
+      "reserved": 109,
       "bookable": true
     },
     {
@@ -3916,8 +4180,8 @@
       "time": "21:30",
       "date": "Do., 8.7.,",
       "timestamp": 1625779800000,
-      "available": 444,
-      "reserved": 55,
+      "available": 446,
+      "reserved": 53,
       "bookable": true
     },
     {
@@ -3931,8 +4195,8 @@
       "time": "21:30",
       "date": "Di., 6.7.,",
       "timestamp": 1625607000000,
-      "available": 417,
-      "reserved": 82,
+      "available": 416,
+      "reserved": 83,
       "bookable": true
     },
     {
@@ -4020,8 +4284,8 @@
       "time": "21:30",
       "date": "Fr., 9.7.,",
       "timestamp": 1625866200000,
-      "available": 392,
-      "reserved": 107,
+      "available": 390,
+      "reserved": 109,
       "bookable": true
     },
     {
