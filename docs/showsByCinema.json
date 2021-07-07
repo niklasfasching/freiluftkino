@@ -14,8 +14,8 @@
       "date": "Sa., 7.8.,",
       "timestamp": 1628368200000,
       "time": "20:30",
-      "available": 386,
-      "reserved": 684,
+      "available": 378,
+      "reserved": 692,
       "bookable": true
     },
     {
@@ -138,8 +138,8 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626126300000,
       "time": "21:45",
-      "available": 233,
-      "reserved": 837,
+      "available": 235,
+      "reserved": 835,
       "bookable": true
     },
     {
@@ -209,8 +209,8 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625867100000,
       "time": "21:45",
-      "available": 729,
-      "reserved": 341,
+      "available": 719,
+      "reserved": 351,
       "bookable": true
     },
     {
@@ -279,8 +279,8 @@
       "date": "Do., 8.7.,",
       "timestamp": 1625780700000,
       "time": "21:45",
-      "available": 840,
-      "reserved": 230,
+      "available": 838,
+      "reserved": 232,
       "bookable": true
     },
     {
@@ -401,8 +401,8 @@
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
       "time": "21:30",
-      "available": 1068,
-      "reserved": 2,
+      "available": 1066,
+      "reserved": 4,
       "bookable": true
     },
     {
@@ -615,9 +615,9 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
       "time": "21:30",
-      "available": 2,
-      "reserved": 535,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "trailer": "https://www.youtube-nocookie.com/embed/cq4qKvvR76E?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
@@ -758,8 +758,8 @@
       "date": "So., 11.7.",
       "timestamp": 1626039000000,
       "time": "21:30",
-      "available": 455,
-      "reserved": 82,
+      "available": 452,
+      "reserved": 85,
       "bookable": true
     },
     {
@@ -776,8 +776,8 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625866200000,
       "time": "21:30",
-      "available": 122,
-      "reserved": 415,
+      "available": 120,
+      "reserved": 417,
       "bookable": true
     },
     {
@@ -847,8 +847,8 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626125400000,
       "time": "21:30",
-      "available": 402,
-      "reserved": 135,
+      "available": 400,
+      "reserved": 137,
       "bookable": true
     },
     {
@@ -1075,8 +1075,8 @@
       "date": "Mi., 21.7.",
       "timestamp": 1626903000000,
       "time": "21:30",
-      "available": 563,
-      "reserved": 10,
+      "available": 561,
+      "reserved": 12,
       "bookable": true
     },
     {
@@ -1272,8 +1272,8 @@
       "date": "Mi., 14.7.",
       "timestamp": 1626298200000,
       "time": "21:30",
-      "available": 478,
-      "reserved": 95,
+      "available": 476,
+      "reserved": 97,
       "bookable": true
     },
     {
@@ -1449,8 +1449,8 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625866200000,
       "time": "21:30",
-      "available": 402,
-      "reserved": 171,
+      "available": 400,
+      "reserved": 173,
       "bookable": true
     }
   ],
@@ -1609,8 +1609,8 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689594?layout=shows",
       "img": "https://media.kinoheld.de/8AF3hb-XqmSaaZt5dYhxEYEBR-w=/400x560/images%2Ffilm%2Fsommer-85-19153.v6.jpg",
       "description": "\"Ein originell verpackter Liebesfilm mit leinwandpräsenten Helden, ebenso hübschen Bildern sowie nostalgisch korrekter Ausstattung. Ein echter Ozon!\" Programmkino.de",
-      "available": 263,
-      "reserved": 113,
+      "available": 253,
+      "reserved": 115,
       "bookable": true
     },
     {
@@ -1681,7 +1681,7 @@
       "img": "https://media.kinoheld.de/bWgBMhcTZGShU1q7tv7OUJhaDRs=/400x560/images%2Ffilm%2Fund-morgen-die-ganze-welt-17457.v143.jpg",
       "description": "Luisa ist 20 Jahre alt, stammt aus gutem Haus, studiert Jura im ersten Semester. Und sie will, dass sich etwas verändert in Deutschland. Alarmiert vom Rechtsruck im Land und der zunehmenden Beliebtheit populistischer Parteien, tut sie sich mit ihren Freunden zusammen, um sich klar gegen die neue Rechte zu positionieren. Schnell findet sie Anschluss bei dem charismatischen Alfa und dessen besten Freund Lenor: Für die beiden ist auch der Einsatz von Gewalt ein legitimes Mittel, um Widerstand zu leisten. Bald schon überstürzen sich die Ereignisse. Und Luisa muss entscheiden, wie weit zu gehen sie bereit ist – auch wenn das fatale Konsequenzen für sie und ihre Freunde haben könnte.",
       "trailer": "https://www.youtube.com/watch?v=5jtj8DcAqz0",
-      "available": 488,
+      "available": 483,
       "reserved": 44,
       "bookable": true
     },
@@ -1735,8 +1735,8 @@
       "img": "https://media.kinoheld.de/6fELjvqxeuQo4wIlhB_G4DAyIXM=/400x560/images%2Ffilm%2Fder-rausch-18282.v14.jpg",
       "description": "Früher war Martin Lehrer aus Leidenschaft – heute sind nicht nur die Schüler von seinem fehlenden Enthusiasmus gelangweilt, auch in Martins Ehe ist die Luft raus. Seinen drei Freunden, die am selben Gymnasium unterrichten, geht es nicht viel besser. Bei einer angeheiterten Geburtstagsrunde diskutieren sie die Theorie eines norwegischen Philosophen: Nach dieser ist ein Mensch nur mit einem erhöhten Alkoholgehalt im Blut zu Bestleistungen fähig. Solch eine gewagte These muss überprüft werden. Die vier beschließen den Selbsttest zu machen und während der Arbeit einen bestimmten Pegel zu halten. Soll nicht sogar Churchill den Zweiten Weltkrieg in einem Alkoholrausch gewonnen haben? Mit neuem Antrieb stürzen sie sich in ihre geheime wissenschaftliche Studie. Die Wirkung lässt nicht lange auf sich warten …",
       "trailer": "https://www.youtube.com/watch?v=oJwlO6vcsm0",
-      "available": 460,
-      "reserved": 56,
+      "available": 443,
+      "reserved": 62,
       "bookable": true
     },
     {
@@ -1787,8 +1787,8 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691189?layout=shows",
       "img": "https://media.kinoheld.de/l0-Js7LTKrFcwLTstog6WbTLek4=/400x560/images%2Ffilm%2Fthe-nest-17767.v17.jpg",
       "description": "Rory, ein ehrgeiziger Unternehmer und ehemaliger Rohstoffmakler, überredet seine amerikanische Frau Allison und seine Kinder, die Annehmlichkeiten der amerikanischen Vorstadt zu verlassen und in den 1980er Jahren in sein Heimatland England zurückzukehren. Rory wittert eine Gelegenheit und pachtet ein jahrhundertealtes Landgut mit Grundstücken für Allisons Pferde und Plänen zum Bau eines Stalls. Bald beginnt sich das Versprechen eines lukrativen Neuanfangs im englischen Herrenhaus aufzulösen und das Paar muss sich den unwillkommenen Wahrheiten stellen, die unter der Oberfläche seiner Ehe liegen. Die unheimliche Isolation, in der sich Rorys Familie im neuen Haus befindet, tut ihr Übriges, die Mitglieder voneinander zu entfernen. Ein Kreislauf der Selbstzerstörung beginnt ...",
-      "available": 678,
-      "reserved": 2,
+      "available": 664,
+      "reserved": 4,
       "bookable": true
     },
     {
@@ -1858,8 +1858,8 @@
       "img": "https://media.kinoheld.de/GwZHiD65bCVb3mxAuT7jVcFqH9M=/400x560/images%2Ffilm%2Fnomadland-18288.v2.png",
       "description": "Nach dem wirtschaftlichen Zusammenbruch einer Stadt im ländlichen Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren weißen Van und macht sich auf den Weg, um als moderne Nomadin im Westen der USA ein Leben außerhalb der konventionellen Gesellschaft zu erkunden.",
       "trailer": "https://www.youtube.com/watch?v=iEcIDpnv3qQ",
-      "available": 265,
-      "reserved": 111,
+      "available": 255,
+      "reserved": 113,
       "bookable": true
     },
     {
@@ -2054,9 +2054,9 @@
       "img": "https://media.kinoheld.de/DbWHTKT3neGjvULOXqsnipemH2A=/400x560/images%2Ffilm%2Fminari-18286.v2.png",
       "description": "Jacob beschließt, mit seiner koreanisch-amerikanischen Familie aus Los Angeles auf eine kleine Farm in Arkansas zu ziehen. Für ihn sind die wilden Ozarks das gelobte Land. Seine Frau und die beiden Kinder David und Anne fühlen sich jedoch fremd in der neuen Heimat. Als die schlagfertige, liebevolle Großmutter Soonja aus Korea zu ihnen zieht, wird das Familienleben plötzlich auf den Kopf gestellt. Soonja findet bald in ihrem neugierigen, aufmüpfigen Enkelsohn David einen Verbündeten. Zusammen gelingt es den beiden, das magische Band zwischen den Familienmitgliedern trotz aller Rückschläge und Schwierigkeiten immer wieder neu zu knüpfen und ihnen dadurch den Weg in eine hoffnungsvolle gemeinsame Zukunft zu ebnen.",
       "trailer": "https://youtu.be/Hs-7YQNg5UU",
-      "available": -1,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "1657",
@@ -2376,8 +2376,8 @@
       "img": "https://media.kinoheld.de/bt35dR1MiKAnqPafUcDUqWnTbmE=/400x560/images%2Ffilm%2Fshoplifters-familienbande-11080.v2.jpg",
       "description": "Nach einer Diebestour in einer kalten Winternacht treffen Osamu Shibata (Lily Franky) und sein Sohn Shota (Kairi Jyo) auf das kleine, verwahrloste Mädchen Yuri (Miyu Sasaki). Kurzerhand tut Osamu das, was der Gelegenheitsarbeiter am besten kann - er \"stibitzt\" Yuri und nimmt sie für eine warme Mahlzeit mit nach Hause. Die anfänglichen Bedenken seiner Frau Nobuyo (Sakura Andô) über das neue Familienmitglied sind schnell verflogen. Auch Großmutter Hatsue (Kilin Kiki) und Halbschwester Aki (Mayu Matsuoka), die hinter einem Einwegspiegel in einem Stripclub arbeitet, heißen Yuri in der Enge ihrer alten Behausung willkommen. Umgeben von anonymen Wohnblöcken lebt die bunte Truppe mithilfe von kleinen Betrügereien, Ladendiebstählen und trotz widriger Umstände glücklich zusammen. Bis zu dem Tag, an dem ein unvorhergesehener Vorfall bisher gut geschützte Familiengeheimnisse enthüllt. Jetzt muss sich beweisen, ob diese Menschen mehr verbindet, als ihr Dasein als Kleingauner und Lebenskünstler... (Quelle: Verleih)",
       "trailer": "https://www.youtube.com/watch?v=UwAaD_2BjCE",
-      "available": 63,
-      "reserved": 5,
+      "available": 60,
+      "reserved": 7,
       "bookable": true
     },
     {
@@ -3235,8 +3235,8 @@
       "img": "https://media.kinoheld.de/zomTvzpecv9zVfd7mTpsMVAxEgo=/400x560/images%2Ffilm%2Fthe-united-states-vs-billie-holiday-18781.v1.jpg",
       "description": "Ende der 1930er-Jahre, zur Zeit der Rassentrennung in den USA: Das Elend ihrer Jugend hinter sich gelassen, ist Billie Holiday zu einer der erfolgreichsten Jazzsängerinnen der Welt aufgestiegen. Der Regierung jedoch ist die gefeierte „Lady Day“ ein Dorn im Auge – nicht zuletzt wegen ihres kraftvollen Protestsongs „Strange Fruit“, in dem sie offen die rassistisch motivierten Lynchmorde anprangert, die in den Südstaaten begangen werden. Weil sie das Lied trotz Aufführverbot weiterhin öffentlich singt, setzen die Behörden den Bundesagenten Jimmy Fletcher auf sie an. Er soll ihre Schwäche für Drogen und Männer publik machen und gegen sie verwenden. Doch als Fletcher der Frau mit der unverwechselbaren Stimme begegnet, verliebt er sich in sie …",
       "trailer": "https://www.youtube.com/watch?v=WDYRjCKQFQs",
-      "available": 50,
-      "reserved": 25,
+      "available": 45,
+      "reserved": 30,
       "bookable": true
     },
     {
@@ -3406,24 +3406,6 @@
   ],
   "sommerkino-kulturforum": [
     {
-      "title": "Persischstunden",
-      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/5e96ce1f69f5b55893daaa3a/show_Poster_PS_deutsch_RGB.jpg",
-      "description": "1942 im besetzten Frankreich wird der junge Belgier Gilles von der SS verhaftet und in ein KZ gebracht. Um der Exekution zu entgehen behauptet er, Perser zu sein – eine Lüge die ihm zunächst das Leben rettet. Als der Lagerkommandant Klaus Koch (Lars Eidinger) davon hört denkt er an seinen großen Traum – nach Kriegsende ein Restaurant im Iran zu eröffnen. Er beauftragt Gilles, ihm Farsi beizubringen. Da gibt es nur ein Problem: Gilles spricht kein Farsi. Wort für Wort muss er eine Sprache erfinden. Es beginnt eine heikle Beziehung zwischen den Männern, denn jeder Fehltritt könnte Gilles auffliegen lassen.",
-      "trailer": "https://www.youtube.com/watch?v=5PlNW3_xHvU",
-      "cinemaId": "54eefd0b683138488b190000",
-      "cinemaUrl": "https://yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-252",
-      "url": "https://yorck.de/checkout/step01?showid=252&siteid=1015",
-      "time": "21:45",
-      "date": "Mi., 7.7.,",
-      "timestamp": 1625694300000,
-      "available": 377,
-      "reserved": 83,
-      "bookable": true
-    },
-    {
       "title": "Demon Slayer: Kimetsu no Yaiba - Mugen Train (OmU)",
       "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60db25c661444027749f6994/show_demon-slayer-the-movie-mugen-train-5a5d58d4949c360763597484623eca39_poster.jpg",
       "description": "Magie, Schwertkämpfer, Typen mit Wildschweinköpfen & ein fieser Dämon – alle in einem Zug, der unaufhaltsam der Düsternis entgegenbrettert. Zeit für das Demon Slayer Corps. Mit seinen fantastischen Animationen avancierte dieses Werk trotz Pandemie zum erfolgreichsten japanischen Film aller Zeiten.",
@@ -3453,8 +3435,8 @@
       "time": "21:45",
       "date": "Fr., 9.7.,",
       "timestamp": 1625867100000,
-      "available": 367,
-      "reserved": 93,
+      "available": 366,
+      "reserved": 94,
       "bookable": true
     },
     {
@@ -3471,8 +3453,8 @@
       "time": "21:45",
       "date": "Sa., 10.7.",
       "timestamp": 1625953500000,
-      "available": 31,
-      "reserved": 429,
+      "available": 27,
+      "reserved": 433,
       "bookable": true
     },
     {
@@ -3558,8 +3540,8 @@
       "time": "21:30",
       "date": "Do., 15.7.",
       "timestamp": 1626384600000,
-      "available": 336,
-      "reserved": 124,
+      "available": 332,
+      "reserved": 128,
       "bookable": true
     },
     {
@@ -3629,8 +3611,8 @@
       "time": "21:45",
       "date": "Sa., 10.7.",
       "timestamp": 1625953500000,
-      "available": 31,
-      "reserved": 429,
+      "available": 27,
+      "reserved": 433,
       "bookable": true
     },
     {
@@ -3644,8 +3626,8 @@
       "time": "21:30",
       "date": "Do., 15.7.",
       "timestamp": 1626384600000,
-      "available": 336,
-      "reserved": 124,
+      "available": 332,
+      "reserved": 128,
       "bookable": true
     },
     {
@@ -3661,8 +3643,8 @@
       "time": "21:45",
       "date": "Fr., 9.7.,",
       "timestamp": 1625867100000,
-      "available": 367,
-      "reserved": 93,
+      "available": 366,
+      "reserved": 94,
       "bookable": true
     },
     {
@@ -3681,24 +3663,6 @@
       "timestamp": 1626211800000,
       "available": 428,
       "reserved": 32,
-      "bookable": true
-    },
-    {
-      "title": "Persischstunden",
-      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/5e96ce1f69f5b55893daaa3a/show_Poster_PS_deutsch_RGB.jpg",
-      "description": "1942 im besetzten Frankreich wird der junge Belgier Gilles von der SS verhaftet und in ein KZ gebracht. Um der Exekution zu entgehen behauptet er, Perser zu sein – eine Lüge die ihm zunächst das Leben rettet. Als der Lagerkommandant Klaus Koch (Lars Eidinger) davon hört denkt er an seinen großen Traum – nach Kriegsende ein Restaurant im Iran zu eröffnen. Er beauftragt Gilles, ihm Farsi beizubringen. Da gibt es nur ein Problem: Gilles spricht kein Farsi. Wort für Wort muss er eine Sprache erfinden. Es beginnt eine heikle Beziehung zwischen den Männern, denn jeder Fehltritt könnte Gilles auffliegen lassen.",
-      "trailer": "https://www.youtube.com/watch?v=5PlNW3_xHvU",
-      "cinemaId": "54eefd0b683138488b190000",
-      "cinemaUrl": "https://yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-252",
-      "url": "https://yorck.de/checkout/step01?showid=252&siteid=1015",
-      "time": "21:45",
-      "date": "Mi., 7.7.,",
-      "timestamp": 1625694300000,
-      "available": 377,
-      "reserved": 83,
       "bookable": true
     },
     {
@@ -3753,8 +3717,8 @@
       "time": "21:30",
       "date": "Fr., 9.7.,",
       "timestamp": 1625866200000,
-      "available": 316,
-      "reserved": 183,
+      "available": 312,
+      "reserved": 187,
       "bookable": true
     },
     {
@@ -3788,8 +3752,8 @@
       "time": "21:30",
       "date": "So., 11.7.",
       "timestamp": 1626039000000,
-      "available": 456,
-      "reserved": 43,
+      "available": 454,
+      "reserved": 45,
       "bookable": true
     },
     {
@@ -3877,8 +3841,8 @@
       "time": "21:30",
       "date": "So., 11.7.",
       "timestamp": 1626039000000,
-      "available": 456,
-      "reserved": 43,
+      "available": 454,
+      "reserved": 45,
       "bookable": true
     },
     {
@@ -3931,8 +3895,8 @@
       "time": "21:30",
       "date": "Fr., 9.7.,",
       "timestamp": 1625866200000,
-      "available": 316,
-      "reserved": 183,
+      "available": 312,
+      "reserved": 187,
       "bookable": true
     },
     {
