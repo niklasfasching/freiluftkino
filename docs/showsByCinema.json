@@ -68,8 +68,8 @@
       "date": "Do., 15.7.",
       "timestamp": 1626384600000,
       "time": "21:30",
-      "available": 1036,
-      "reserved": 34,
+      "available": 1034,
+      "reserved": 36,
       "bookable": true
     },
     {
@@ -210,8 +210,8 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625867100000,
       "time": "21:45",
-      "available": 693,
-      "reserved": 377,
+      "available": 686,
+      "reserved": 384,
       "bookable": true
     },
     {
@@ -244,8 +244,8 @@
       "date": "Fr., 30.7.",
       "timestamp": 1627679700000,
       "time": "21:15",
-      "available": 1064,
-      "reserved": 6,
+      "available": 1062,
+      "reserved": 8,
       "bookable": true
     },
     {
@@ -280,8 +280,8 @@
       "date": "Do., 8.7.,",
       "timestamp": 1625780700000,
       "time": "21:45",
-      "available": 807,
-      "reserved": 263,
+      "available": 804,
+      "reserved": 266,
       "bookable": true
     },
     {
@@ -419,8 +419,8 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625953500000,
       "time": "21:45",
-      "available": 815,
-      "reserved": 255,
+      "available": 813,
+      "reserved": 257,
       "bookable": true
     },
     {
@@ -581,8 +581,8 @@
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
       "time": "21:30",
-      "available": 550,
-      "reserved": 17,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -618,7 +618,7 @@
       "time": "21:30",
       "available": 0,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "trailer": "https://www.youtube-nocookie.com/embed/cq4qKvvR76E?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
@@ -741,8 +741,8 @@
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
       "time": "21:30",
-      "available": 560,
-      "reserved": 7,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -759,8 +759,8 @@
       "date": "So., 11.7.",
       "timestamp": 1626039000000,
       "time": "21:30",
-      "available": 480,
-      "reserved": 87,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -777,8 +777,8 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625866200000,
       "time": "21:30",
-      "available": 126,
-      "reserved": 441,
+      "available": 124,
+      "reserved": 443,
       "bookable": true
     },
     {
@@ -795,8 +795,8 @@
       "date": "Di., 13.7.",
       "timestamp": 1626211800000,
       "time": "21:30",
-      "available": 514,
-      "reserved": 53,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -848,8 +848,8 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626125400000,
       "time": "21:30",
-      "available": 420,
-      "reserved": 147,
+      "available": 415,
+      "reserved": 152,
       "bookable": true
     },
     {
@@ -866,8 +866,8 @@
       "date": "Do., 8.7.,",
       "timestamp": 1625779800000,
       "time": "21:30",
-      "available": 404,
-      "reserved": 163,
+      "available": 402,
+      "reserved": 165,
       "bookable": true
     },
     {
@@ -883,8 +883,8 @@
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
       "time": "21:30",
-      "available": 563,
-      "reserved": 4,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -917,8 +917,8 @@
       "date": "Fr., 30.7.",
       "timestamp": 1627678800000,
       "time": "21:00",
-      "available": 557,
-      "reserved": 10,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -935,8 +935,8 @@
       "date": "Do., 15.7.",
       "timestamp": 1626384600000,
       "time": "21:30",
-      "available": 527,
-      "reserved": 40,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -953,8 +953,8 @@
       "date": "So., 18.7.",
       "timestamp": 1626643800000,
       "time": "21:30",
-      "available": 549,
-      "reserved": 18,
+      "available": 547,
+      "reserved": 20,
       "bookable": true
     }
   ],
@@ -972,8 +972,8 @@
       "date": "Fr., 16.7.",
       "timestamp": 1626438600000,
       "time": "12:30",
-      "available": 481,
-      "reserved": 92,
+      "available": 479,
+      "reserved": 94,
       "bookable": true
     },
     {
@@ -989,8 +989,8 @@
       "date": "Sa., 17.7.",
       "timestamp": 1626525000000,
       "time": "12:30",
-      "available": 438,
-      "reserved": 135,
+      "available": 436,
+      "reserved": 137,
       "bookable": true
     },
     {
@@ -1007,8 +1007,8 @@
       "date": "Di., 13.7.",
       "timestamp": 1626211800000,
       "time": "21:30",
-      "available": 422,
-      "reserved": 151,
+      "available": 420,
+      "reserved": 153,
       "bookable": true
     },
     {
@@ -1112,8 +1112,8 @@
       "date": "Sa., 17.7.",
       "timestamp": 1626557400000,
       "time": "21:30",
-      "available": 550,
-      "reserved": 23,
+      "available": 546,
+      "reserved": 27,
       "bookable": true
     },
     {
@@ -1166,8 +1166,8 @@
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
       "time": "21:30",
-      "available": 568,
-      "reserved": 5,
+      "available": 566,
+      "reserved": 7,
       "bookable": true
     },
     {
@@ -1238,8 +1238,8 @@
       "date": "So., 11.7.",
       "timestamp": 1626039000000,
       "time": "21:30",
-      "available": 516,
-      "reserved": 57,
+      "available": 508,
+      "reserved": 65,
       "bookable": true
     },
     {
@@ -1398,8 +1398,8 @@
       "date": "Do., 8.7.,",
       "timestamp": 1625779800000,
       "time": "21:30",
-      "available": 484,
-      "reserved": 89,
+      "available": 482,
+      "reserved": 91,
       "bookable": true
     },
     {
@@ -1433,8 +1433,8 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626125400000,
       "time": "21:30",
-      "available": 550,
-      "reserved": 23,
+      "available": 549,
+      "reserved": 24,
       "bookable": true
     },
     {
@@ -1451,8 +1451,8 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625866200000,
       "time": "21:30",
-      "available": 382,
-      "reserved": 191,
+      "available": 380,
+      "reserved": 193,
       "bookable": true
     }
   ],
@@ -1577,8 +1577,8 @@
       "timestamp": 1625702400000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689520?layout=shows",
-      "available": 13,
-      "reserved": 189,
+      "available": 3,
+      "reserved": 201,
       "bookable": true
     },
     {
@@ -1594,8 +1594,8 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689594?layout=shows",
       "img": "https://media.kinoheld.de/8AF3hb-XqmSaaZt5dYhxEYEBR-w=/400x560/images%2Ffilm%2Fsommer-85-19153.v6.jpg",
       "description": "\"Ein originell verpackter Liebesfilm mit leinwandpräsenten Helden, ebenso hübschen Bildern sowie nostalgisch korrekter Ausstattung. Ein echter Ozon!\" Programmkino.de",
-      "available": 232,
-      "reserved": 117,
+      "available": 220,
+      "reserved": 120,
       "bookable": true
     },
     {
@@ -1613,7 +1613,7 @@
       "description": "Nach dem wirtschaftlichen Zusammenbruch einer Stadt im ländlichen Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren weißen Van und macht sich auf den Weg, um als moderne Nomadin im Westen der USA ein Leben außerhalb der konventionellen Gesellschaft zu erkunden.",
       "trailer": "https://www.youtube.com/watch?v=iEcIDpnv3qQ",
       "available": 0,
-      "reserved": 217,
+      "reserved": 219,
       "bookable": false
     },
     {
@@ -1843,8 +1843,8 @@
       "img": "https://media.kinoheld.de/GwZHiD65bCVb3mxAuT7jVcFqH9M=/400x560/images%2Ffilm%2Fnomadland-18288.v2.png",
       "description": "Nach dem wirtschaftlichen Zusammenbruch einer Stadt im ländlichen Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren weißen Van und macht sich auf den Weg, um als moderne Nomadin im Westen der USA ein Leben außerhalb der konventionellen Gesellschaft zu erkunden.",
       "trailer": "https://www.youtube.com/watch?v=iEcIDpnv3qQ",
-      "available": 124,
-      "reserved": 157,
+      "available": 117,
+      "reserved": 158,
       "bookable": true
     },
     {
@@ -1913,8 +1913,8 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691238?layout=shows",
       "img": "https://media.kinoheld.de/Oyw4j5X6-APA71HNlPwWligxMDc=/400x560/images%2Ffilm%2Ffabiana-19170.v1.jpg",
       "description": "Am 31. Juli Vorpremiere im Open Air Kinosommer am Waschhaus \n\nIm Berlin der goldenen 20er-Jahre lässt sich der Germanist und Werbetexter Fabian (Tom Schilling) durch das Leben treiben. Während er tagsüber für die Werbung einer Zigarettenfirma zuständig ist, ist er nachts oft mit seinem Studienkollegen Labude (Albrecht Schuch) unterwegs und macht die Unterweltkneipen, Bordelle und Künstlerateliers unsicher. Das sorglose Leben der beiden jungen Männer wird durch eine durch Kommunisten und Nationalsozialisten geteilte Gesellschaft zunehmend bedroht und auch Labude träumt davon, dass die Klassen gegen die Obrigkeit revolutionieren. Fabian kann mit dem politischen Umbruch nicht viel anfangen und kommentiert die Geschehnisse ironisch. Eines Tages trifft er in einem Atelier auf Cornelia (Saskia Rosendahl) und verliebt sich auf dem ersten Blick in sie. Fabians naives Leben nimmt eine dramatische Wendung, als er einer Entlassungswelle zum Opfer fällt, Cornelias Karriere als Schauspielerin jedoch an Fahrt aufnimmt. Basiert auf Erich Kästners Roman „Der Gang vor die Hunde“, der eine Rekonstruktion von der Urfassung des Romans „Fabian“ ist.",
-      "available": 603,
-      "reserved": 17,
+      "available": 589,
+      "reserved": 19,
       "bookable": true
     },
     {
@@ -1951,9 +1951,9 @@
       "url": "https://www.kinoheld.de/cinema-berlin/nomadenkino-berlin/show/2383800626?layout=shows",
       "img": "https://media.kinoheld.de/b1NN6NmN9x412seHeI2J4XbR87E=/400x560/images%2Ffilm%2Fmo%2F366-1621-8078.v3.png",
       "description": "CLUBKULTUR SCREENING TOUR Informationen\r\n\r\nBerlins CLUBKULTUR taucht ab ins prä-pandemische Berliner Nachtleben.\r\n Berlin galt seit dem Mauerfall weltweit als das Superlativ der Clubszene. Mit der Pandemie ist eine Industrie und Subkultur, samt deren Einnahmen, Einkommen, und nahezu tabufreien Rückzugsorte und schillernden Persönlichkeiten verschwunden. Wird es ein Zurück geben, und wenn ja, welche neue Form der CLUBKULTUR wird entstehen? Welchen Einfluss hat das Sterben der Clubs auf die mentale Gesundheit derjenigen, für die Clubs nicht nur zum Feiern, sondern Arbeitsplatz oder Schutzraum waren, an denen sie Lust und Laster wertfrei ausleben konnten?\r\n\r\nDie Regisseurinnen Leonie Gerner & Andrea Schumacher haben eine kritische, rasante Dokumentation produziert. Eine Dokumentation, in der Club-Betreiber, Musiker, DJs und Psychologen zu Wort kommen, und bisher unveröffentlichtes Footage aus den Clubs gezeigt werden darf.\r\nDas Topic ist hochbrisant, denn der Verlust von Unbeschwertheit und Offenheit, betrifft eine internationale Zielgruppe von New York bis Tel Aviv – die nur aus einem Grund nach Berlin kam: um ‚once in a lifetime‘ all das zu erleben, was woanders tabu ist.\r\n\r\nInside Berlin’s Club Scene: für viele Hoffnung, Sehnsucht und Elexier aus einer verblassenden Erinnerung an Intimität, Sex, Musik, Ekstase und Freude.\r\nWir sind sicher, dass unsere Open Air Kino Tour derzeit die absolut richtige Plattform ist, um Zuschauer zu erreichen, die sich nichts sehnlicher wünschen als in die facettenreiche Berliner Clubszene abtauchen zu können. In die „Roaring 20s“ unseres Jahrhunderts.",
-      "available": -1,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "1621",
@@ -3299,8 +3299,8 @@
       "time": "21:45",
       "date": "Do., 8.7.,",
       "timestamp": 1625780700000,
-      "available": 386,
-      "reserved": 74,
+      "available": 402,
+      "reserved": 58,
       "bookable": true
     },
     {
@@ -3316,8 +3316,8 @@
       "time": "21:45",
       "date": "Fr., 9.7.,",
       "timestamp": 1625867100000,
-      "available": 359,
-      "reserved": 101,
+      "available": 357,
+      "reserved": 103,
       "bookable": true
     },
     {
@@ -3334,9 +3334,9 @@
       "time": "21:45",
       "date": "Sa., 10.7.",
       "timestamp": 1625953500000,
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 8,
+      "reserved": 452,
+      "bookable": true
     },
     {
       "title": "Als wir tanzten",
@@ -3352,8 +3352,8 @@
       "time": "21:45",
       "date": "So., 11.7.",
       "timestamp": 1626039900000,
-      "available": 385,
-      "reserved": 75,
+      "available": 387,
+      "reserved": 73,
       "bookable": true
     },
     {
@@ -3507,8 +3507,8 @@
       "time": "21:45",
       "date": "So., 11.7.",
       "timestamp": 1626039900000,
-      "available": 385,
-      "reserved": 75,
+      "available": 387,
+      "reserved": 73,
       "bookable": true
     },
     {
@@ -3559,8 +3559,8 @@
       "time": "21:45",
       "date": "Do., 8.7.,",
       "timestamp": 1625780700000,
-      "available": 386,
-      "reserved": 74,
+      "available": 402,
+      "reserved": 58,
       "bookable": true
     },
     {
@@ -3595,9 +3595,9 @@
       "time": "21:45",
       "date": "Sa., 10.7.",
       "timestamp": 1625953500000,
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 8,
+      "reserved": 452,
+      "bookable": true
     },
     {
       "cinemaId": "54eefd0b683138488b190000",
@@ -3627,8 +3627,8 @@
       "time": "21:45",
       "date": "Fr., 9.7.,",
       "timestamp": 1625867100000,
-      "available": 359,
-      "reserved": 101,
+      "available": 357,
+      "reserved": 103,
       "bookable": true
     },
     {
@@ -3716,8 +3716,8 @@
       "time": "21:30",
       "date": "Do., 8.7.,",
       "timestamp": 1625779800000,
-      "available": 425,
-      "reserved": 74,
+      "available": 415,
+      "reserved": 84,
       "bookable": true
     },
     {
@@ -3734,8 +3734,8 @@
       "time": "21:30",
       "date": "Fr., 9.7.,",
       "timestamp": 1625866200000,
-      "available": 302,
-      "reserved": 197,
+      "available": 295,
+      "reserved": 204,
       "bookable": true
     },
     {
@@ -3752,8 +3752,8 @@
       "time": "21:30",
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
-      "available": 327,
-      "reserved": 172,
+      "available": 325,
+      "reserved": 174,
       "bookable": true
     },
     {
@@ -3787,8 +3787,8 @@
       "time": "21:30",
       "date": "Mo., 12.7.",
       "timestamp": 1626125400000,
-      "available": 442,
-      "reserved": 57,
+      "available": 440,
+      "reserved": 59,
       "bookable": true
     },
     {
@@ -3876,8 +3876,8 @@
       "time": "21:30",
       "date": "Sa., 17.7.",
       "timestamp": 1626557400000,
-      "available": 479,
-      "reserved": 20,
+      "available": 477,
+      "reserved": 22,
       "bookable": true
     },
     {
@@ -3928,8 +3928,8 @@
       "time": "21:30",
       "date": "Sa., 17.7.",
       "timestamp": 1626557400000,
-      "available": 479,
-      "reserved": 20,
+      "available": 477,
+      "reserved": 22,
       "bookable": true
     },
     {
@@ -4035,8 +4035,8 @@
       "time": "21:30",
       "date": "Fr., 9.7.,",
       "timestamp": 1625866200000,
-      "available": 302,
-      "reserved": 197,
+      "available": 295,
+      "reserved": 204,
       "bookable": true
     },
     {
@@ -4053,8 +4053,8 @@
       "time": "21:30",
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
-      "available": 327,
-      "reserved": 172,
+      "available": 325,
+      "reserved": 174,
       "bookable": true
     },
     {
@@ -4089,8 +4089,8 @@
       "time": "21:30",
       "date": "Mo., 12.7.",
       "timestamp": 1626125400000,
-      "available": 442,
-      "reserved": 57,
+      "available": 440,
+      "reserved": 59,
       "bookable": true
     },
     {
@@ -4124,8 +4124,8 @@
       "time": "21:30",
       "date": "Do., 8.7.,",
       "timestamp": 1625779800000,
-      "available": 425,
-      "reserved": 74,
+      "available": 415,
+      "reserved": 84,
       "bookable": true
     }
   ]
