@@ -13,8 +13,8 @@
     "date": "Sa., 7.8.,",
     "timestamp": 1628368200000,
     "time": "20:30",
-    "available": 374,
-    "reserved": 696,
+    "available": 372,
+    "reserved": 698,
     "bookable": true
   },
   "fhain-707": {
@@ -138,8 +138,8 @@
     "date": "Mo., 12.7.",
     "timestamp": 1626126300000,
     "time": "21:45",
-    "available": 163,
-    "reserved": 907,
+    "available": 157,
+    "reserved": 913,
     "bookable": true
   },
   "fhain-710": {
@@ -279,8 +279,8 @@
     "date": "Do., 8.7.,",
     "timestamp": 1625780700000,
     "time": "21:45",
-    "available": 827,
-    "reserved": 243,
+    "available": 823,
+    "reserved": 247,
     "bookable": true
   },
   "fhain-666": {
@@ -383,8 +383,8 @@
     "date": "So., 11.7.",
     "timestamp": 1626039900000,
     "time": "21:45",
-    "available": 904,
-    "reserved": 166,
+    "available": 902,
+    "reserved": 168,
     "bookable": true
   },
   "fhain-715": {
@@ -418,8 +418,8 @@
     "date": "Sa., 10.7.",
     "timestamp": 1625953500000,
     "time": "21:45",
-    "available": 817,
-    "reserved": 253,
+    "available": 815,
+    "reserved": 255,
     "bookable": true
   },
   "fhain-695": {
@@ -489,8 +489,8 @@
     "date": "Di., 20.7.",
     "timestamp": 1626816600000,
     "time": "21:30",
-    "available": 1065,
-    "reserved": 5,
+    "available": 1063,
+    "reserved": 7,
     "bookable": true
   },
   "fhain-714": {
@@ -542,7 +542,7 @@
     "date": "Mi., 14.7.",
     "timestamp": 1626298200000,
     "time": "21:30",
-    "available": 428,
+    "available": 458,
     "reserved": 109,
     "bookable": true
   },
@@ -560,7 +560,7 @@
     "date": "Mo., 19.7.",
     "timestamp": 1626730200000,
     "time": "21:30",
-    "available": 523,
+    "available": 553,
     "reserved": 14,
     "bookable": true
   },
@@ -578,7 +578,7 @@
     "date": "Mi., 28.7.",
     "timestamp": 1627507800000,
     "time": "21:30",
-    "available": 520,
+    "available": 550,
     "reserved": 17,
     "bookable": true
   },
@@ -595,7 +595,7 @@
     "date": "Fr., 16.7.",
     "timestamp": 1626471000000,
     "time": "21:30",
-    "available": 511,
+    "available": 541,
     "reserved": 26,
     "bookable": true
   },
@@ -613,8 +613,8 @@
     "date": "Sa., 10.7.",
     "timestamp": 1625952600000,
     "time": "21:30",
-    "available": 0,
-    "reserved": 0,
+    "available": 26,
+    "reserved": 541,
     "bookable": true
   },
   "xberg-648": {
@@ -631,7 +631,7 @@
     "date": "Sa., 24.7.",
     "timestamp": 1627162200000,
     "time": "21:30",
-    "available": 519,
+    "available": 549,
     "reserved": 18,
     "bookable": true
   },
@@ -648,7 +648,7 @@
     "date": "Mi., 21.7.",
     "timestamp": 1626903000000,
     "time": "21:30",
-    "available": 521,
+    "available": 551,
     "reserved": 16,
     "bookable": true
   },
@@ -661,12 +661,12 @@
     "cinemaShortName": "xberg",
     "id": "xberg-638",
     "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/638",
-    "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=603",
+    "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=626",
     "title": "Futur Drei",
     "date": "So., 25.7.",
     "timestamp": 1627248600000,
     "time": "21:30",
-    "available": 535,
+    "available": 565,
     "reserved": 2,
     "bookable": true
   },
@@ -684,7 +684,7 @@
     "date": "Sa., 17.7.",
     "timestamp": 1626557400000,
     "time": "21:30",
-    "available": 533,
+    "available": 563,
     "reserved": 4,
     "bookable": true
   },
@@ -702,8 +702,8 @@
     "date": "Fr., 23.7.",
     "timestamp": 1627075800000,
     "time": "21:30",
-    "available": 533,
-    "reserved": 4,
+    "available": 562,
+    "reserved": 5,
     "bookable": true
   },
   "xberg-639": {
@@ -720,7 +720,7 @@
     "date": "Mo., 26.7.",
     "timestamp": 1627335000000,
     "time": "21:30",
-    "available": 527,
+    "available": 557,
     "reserved": 10,
     "bookable": true
   },
@@ -738,8 +738,8 @@
     "date": "Do., 29.7.",
     "timestamp": 1627594200000,
     "time": "21:30",
-    "available": 537,
-    "reserved": 0,
+    "available": 566,
+    "reserved": 1,
     "bookable": true
   },
   "xberg-624": {
@@ -756,7 +756,7 @@
     "date": "So., 11.7.",
     "timestamp": 1626039000000,
     "time": "21:30",
-    "available": 450,
+    "available": 480,
     "reserved": 87,
     "bookable": true
   },
@@ -774,7 +774,7 @@
     "date": "Fr., 9.7.,",
     "timestamp": 1625866200000,
     "time": "21:30",
-    "available": 107,
+    "available": 137,
     "reserved": 430,
     "bookable": true
   },
@@ -792,8 +792,8 @@
     "date": "Di., 13.7.",
     "timestamp": 1626211800000,
     "time": "21:30",
-    "available": 493,
-    "reserved": 44,
+    "available": 520,
+    "reserved": 47,
     "bookable": true
   },
   "xberg-634": {
@@ -810,7 +810,7 @@
     "date": "Di., 20.7.",
     "timestamp": 1626816600000,
     "time": "21:30",
-    "available": 530,
+    "available": 560,
     "reserved": 7,
     "bookable": true
   },
@@ -828,7 +828,7 @@
     "date": "Di., 27.7.",
     "timestamp": 1627421400000,
     "time": "21:30",
-    "available": 530,
+    "available": 560,
     "reserved": 7,
     "bookable": true
   },
@@ -845,8 +845,8 @@
     "date": "Mo., 12.7.",
     "timestamp": 1626125400000,
     "time": "21:30",
-    "available": 395,
-    "reserved": 142,
+    "available": 423,
+    "reserved": 144,
     "bookable": true
   },
   "xberg-621": {
@@ -863,7 +863,7 @@
     "date": "Do., 8.7.,",
     "timestamp": 1625779800000,
     "time": "21:30",
-    "available": 378,
+    "available": 408,
     "reserved": 159,
     "bookable": true
   },
@@ -880,7 +880,7 @@
     "date": "Do., 22.7.",
     "timestamp": 1626989400000,
     "time": "21:30",
-    "available": 533,
+    "available": 563,
     "reserved": 4,
     "bookable": true
   },
@@ -914,7 +914,7 @@
     "date": "Fr., 30.7.",
     "timestamp": 1627678800000,
     "time": "21:00",
-    "available": 529,
+    "available": 559,
     "reserved": 8,
     "bookable": true
   },
@@ -932,7 +932,7 @@
     "date": "Do., 15.7.",
     "timestamp": 1626384600000,
     "time": "21:30",
-    "available": 497,
+    "available": 527,
     "reserved": 40,
     "bookable": true
   },
@@ -950,7 +950,7 @@
     "date": "So., 18.7.",
     "timestamp": 1626643800000,
     "time": "21:30",
-    "available": 519,
+    "available": 549,
     "reserved": 18,
     "bookable": true
   },
@@ -1125,8 +1125,8 @@
     "date": "Do., 22.7.",
     "timestamp": 1626989400000,
     "time": "21:30",
-    "available": 564,
-    "reserved": 9,
+    "available": 562,
+    "reserved": 11,
     "bookable": true
   },
   "rehberge-627": {
@@ -1340,8 +1340,8 @@
     "date": "Fr., 20.8.",
     "timestamp": 1629489600000,
     "time": "20:00",
-    "available": 186,
-    "reserved": 269,
+    "available": 184,
+    "reserved": 271,
     "bookable": true
   },
   "rehberge-635": {
@@ -1446,8 +1446,8 @@
     "date": "Fr., 9.7.,",
     "timestamp": 1625866200000,
     "time": "21:30",
-    "available": 391,
-    "reserved": 182,
+    "available": 386,
+    "reserved": 187,
     "bookable": true
   },
   "filmrauschpalast-2389914876": {
@@ -1568,8 +1568,8 @@
     "timestamp": 1625702400000,
     "time": "21:45",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689520?layout=shows",
-    "available": 57,
-    "reserved": 171,
+    "available": 60,
+    "reserved": 172,
     "bookable": true
   },
   "hasenheide-689594": {
@@ -1585,8 +1585,8 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689594?layout=shows",
     "img": "https://media.kinoheld.de/8AF3hb-XqmSaaZt5dYhxEYEBR-w=/400x560/images%2Ffilm%2Fsommer-85-19153.v6.jpg",
     "description": "\"Ein originell verpackter Liebesfilm mit leinwandpräsenten Helden, ebenso hübschen Bildern sowie nostalgisch korrekter Ausstattung. Ein echter Ozon!\" Programmkino.de",
-    "available": 240,
-    "reserved": 117,
+    "available": 230,
+    "reserved": 119,
     "bookable": true
   },
   "hasenheide-689595": {
@@ -1693,8 +1693,8 @@
     "img": "https://media.kinoheld.de/FsNKn9KVQQJ1JOoT5CdMA2H0bfI=/400x560/images%2Ffilm%2F4%2Fder-himmel-ueber-berlin-9307.v21.jpg",
     "description": "Damiel ist ein Engel. Und gemeinsam mit seinem himmlischen Kollegen Cassiel wandert er durch das geteilte Berlin und wacht über die Menschen. Doch als Engel bleibt Damiel der menschlichen Welt verborgen. Er kann sie nur beobachten und ihren Gedanken lauschen, mitfühlen und miterleben kann er ihre Empfindungen nicht. Als er sich eines Tages in die zauberhafte Trapezkünstlerin Marion verliebt, beschließt er, selbst ein Mensch zu werden. Doch dafür muss er ein großes Opfer bringen: seine Unsterblichkeit. (j.b.)",
     "trailer": "https://www.youtube.com/watch?v=_Zih4o6NLCc",
-    "available": 662,
-    "reserved": 6,
+    "available": 647,
+    "reserved": 9,
     "bookable": true
   },
   "hasenheide-691191": {
@@ -3308,8 +3308,8 @@
     "time": "21:45",
     "date": "Do., 8.7.,",
     "timestamp": 1625780700000,
-    "available": 389,
-    "reserved": 71,
+    "available": 393,
+    "reserved": 67,
     "bookable": true
   },
   "kulturforum-259": {
@@ -3343,8 +3343,8 @@
     "time": "21:45",
     "date": "Sa., 10.7.",
     "timestamp": 1625953500000,
-    "available": 12,
-    "reserved": 448,
+    "available": 9,
+    "reserved": 451,
     "bookable": true
   },
   "kulturforum-260": {
@@ -3430,8 +3430,8 @@
     "time": "21:30",
     "date": "Do., 15.7.",
     "timestamp": 1626384600000,
-    "available": 305,
-    "reserved": 155,
+    "available": 301,
+    "reserved": 159,
     "bookable": true
   },
   "kulturforum-268": {
@@ -3463,8 +3463,8 @@
     "time": "21:30",
     "date": "Sa., 17.7.",
     "timestamp": 1626557400000,
-    "available": 439,
-    "reserved": 21,
+    "available": 436,
+    "reserved": 24,
     "bookable": true
   },
   "kulturforum-263": {
@@ -3516,8 +3516,8 @@
     "time": "21:30",
     "date": "Do., 8.7.,",
     "timestamp": 1625779800000,
-    "available": 413,
-    "reserved": 86,
+    "available": 416,
+    "reserved": 83,
     "bookable": true
   },
   "schloss-charlottenburg-40": {
@@ -3552,8 +3552,8 @@
     "time": "21:30",
     "date": "Sa., 10.7.",
     "timestamp": 1625952600000,
-    "available": 348,
-    "reserved": 151,
+    "available": 343,
+    "reserved": 156,
     "bookable": true
   },
   "schloss-charlottenburg-42": {
@@ -3569,8 +3569,8 @@
     "time": "21:30",
     "date": "So., 11.7.",
     "timestamp": 1626039000000,
-    "available": 454,
-    "reserved": 45,
+    "available": 452,
+    "reserved": 47,
     "bookable": true
   },
   "schloss-charlottenburg-43": {
@@ -3641,8 +3641,8 @@
     "time": "21:30",
     "date": "Do., 15.7.",
     "timestamp": 1626384600000,
-    "available": 463,
-    "reserved": 36,
+    "available": 461,
+    "reserved": 38,
     "bookable": true
   },
   "schloss-charlottenburg-47": {
@@ -3693,8 +3693,8 @@
     "time": "21:30",
     "date": "So., 18.7.",
     "timestamp": 1626643800000,
-    "available": 477,
-    "reserved": 22,
+    "available": 475,
+    "reserved": 24,
     "bookable": true
   },
   "schloss-charlottenburg-51": {
