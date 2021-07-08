@@ -138,8 +138,8 @@
     "date": "Mo., 12.7.",
     "timestamp": 1626126300000,
     "time": "21:45",
-    "available": 103,
-    "reserved": 967,
+    "available": 108,
+    "reserved": 962,
     "bookable": true
   },
   "fhain-710": {
@@ -400,8 +400,8 @@
     "date": "Sa., 10.7.",
     "timestamp": 1625953500000,
     "time": "21:45",
-    "available": 813,
-    "reserved": 257,
+    "available": 812,
+    "reserved": 258,
     "bookable": true
   },
   "fhain-695": {
@@ -1053,9 +1053,9 @@
     "date": "Sa., 10.7.",
     "timestamp": 1625952600000,
     "time": "21:30",
-    "available": 74,
-    "reserved": 499,
-    "bookable": true
+    "available": 0,
+    "reserved": 0,
+    "bookable": false
   },
   "rehberge-625": {
     "trailer": "https://www.youtube-nocookie.com/embed/cq4qKvvR76E?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
@@ -1764,8 +1764,8 @@
     "img": "https://media.kinoheld.de/GwZHiD65bCVb3mxAuT7jVcFqH9M=/400x560/images%2Ffilm%2Fnomadland-18288.v2.png",
     "description": "Nach dem wirtschaftlichen Zusammenbruch einer Stadt im ländlichen Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren weißen Van und macht sich auf den Weg, um als moderne Nomadin im Westen der USA ein Leben außerhalb der konventionellen Gesellschaft zu erkunden.",
     "trailer": "https://www.youtube.com/watch?v=iEcIDpnv3qQ",
-    "available": 84,
-    "reserved": 168,
+    "available": 76,
+    "reserved": 170,
     "bookable": true
   },
   "hasenheide-691235": {
@@ -3205,8 +3205,8 @@
     "img": "https://media.kinoheld.de/zomTvzpecv9zVfd7mTpsMVAxEgo=/400x560/images%2Ffilm%2Fthe-united-states-vs-billie-holiday-18781.v1.jpg",
     "description": "Ende der 1930er-Jahre, zur Zeit der Rassentrennung in den USA: Das Elend ihrer Jugend hinter sich gelassen, ist Billie Holiday zu einer der erfolgreichsten Jazzsängerinnen der Welt aufgestiegen. Der Regierung jedoch ist die gefeierte „Lady Day“ ein Dorn im Auge – nicht zuletzt wegen ihres kraftvollen Protestsongs „Strange Fruit“, in dem sie offen die rassistisch motivierten Lynchmorde anprangert, die in den Südstaaten begangen werden. Weil sie das Lied trotz Aufführverbot weiterhin öffentlich singt, setzen die Behörden den Bundesagenten Jimmy Fletcher auf sie an. Er soll ihre Schwäche für Drogen und Männer publik machen und gegen sie verwenden. Doch als Fletcher der Frau mit der unverwechselbaren Stimme begegnet, verliebt er sich in sie …",
     "trailer": "https://www.youtube.com/watch?v=WDYRjCKQFQs",
-    "available": 46,
-    "reserved": 29,
+    "available": 44,
+    "reserved": 31,
     "bookable": true
   },
   "mobile kino-2394397747": {
@@ -3663,8 +3663,8 @@
     "time": "21:30",
     "date": "Di., 13.7.",
     "timestamp": 1626211800000,
-    "available": 462,
-    "reserved": 37,
+    "available": 460,
+    "reserved": 39,
     "bookable": true
   },
   "schloss-charlottenburg-45": {
