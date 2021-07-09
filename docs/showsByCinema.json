@@ -139,8 +139,8 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626126300000,
       "time": "21:45",
-      "available": 75,
-      "reserved": 1003,
+      "available": 71,
+      "reserved": 1007,
       "bookable": true
     },
     {
@@ -210,8 +210,8 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625867100000,
       "time": "21:45",
-      "available": 682,
-      "reserved": 396,
+      "available": 680,
+      "reserved": 398,
       "bookable": true
     },
     {
@@ -279,8 +279,8 @@
       "date": "So., 11.7.",
       "timestamp": 1626024600000,
       "time": "17:30",
-      "available": 526,
-      "reserved": 469,
+      "available": 510,
+      "reserved": 485,
       "bookable": true
     },
     {
@@ -418,8 +418,8 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625953500000,
       "time": "21:45",
-      "available": 809,
-      "reserved": 269,
+      "available": 804,
+      "reserved": 274,
       "bookable": true
     },
     {
@@ -507,8 +507,8 @@
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
       "time": "21:30",
-      "available": 1067,
-      "reserved": 11,
+      "available": 1064,
+      "reserved": 14,
       "bookable": true
     },
     {
@@ -561,8 +561,8 @@
       "date": "Mi., 14.7.",
       "timestamp": 1626298200000,
       "time": "21:30",
-      "available": 439,
-      "reserved": 128,
+      "available": 437,
+      "reserved": 130,
       "bookable": true
     },
     {
@@ -793,8 +793,8 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625866200000,
       "time": "21:30",
-      "available": 101,
-      "reserved": 466,
+      "available": 98,
+      "reserved": 469,
       "bookable": true
     },
     {
@@ -864,8 +864,8 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626125400000,
       "time": "21:30",
-      "available": 402,
-      "reserved": 165,
+      "available": 400,
+      "reserved": 167,
       "bookable": true
     },
     {
@@ -958,6 +958,38 @@
   ],
   "Freiluftkino Rehberge": [
     {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "cinemaShortName": "rehberge",
+      "id": "rehberge-641",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/641",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=622",
+      "title": "50. Jahre Greenpeace: Markus Mauthe",
+      "date": "Fr., 6.8.,",
+      "timestamp": 1628283600000,
+      "time": "21:00",
+      "available": 573,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "cinemaShortName": "rehberge",
+      "id": "rehberge-640",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/640",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=621",
+      "title": "50 Jahre Greenpeace: Markus Mauthe (Naturfotograf)",
+      "date": "Do., 5.8.,",
+      "timestamp": 1628197200000,
+      "time": "21:00",
+      "available": 573,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
       "description": "Das African Book Festival Berlin versammelt jährlich die bekanntesten Autor*innen und Künstler*innen aus Afrika und der Diaspora zu Vorträgen, Diskussionsrunden, Lesungen, Interviews, Konzerten, Theater und Spoken Word Performances. Das Festival geht dabei weit über das bloße Präsentieren neuer Bücher und Autor*innen hinaus und greift stets politisch-soziale Trends auf. Mit \"Telling the Origin Stories\" stellt in diesem Sommer der renommierte angolanische Autor und Musiker Kalaf Epalanga als Kurator Fragen nach der Herkunft, Zugehörig­keit und Identität ins Zentrum. Im Fokus steht dabei auch die lusophone Literatur sowie die Verbindung zwischen Musik und Literatur. Neben der live Literatur auf der Bühne erwartet die Gäste wieder afrikanisches Essen und verschiedene Marktstände (u.a. mit Büchern, Kunst und Handwerk). InterKontinental e.V. präsentiert das African Book Festival Berlin mit einer jährlich wechselnden künstlerischen Leitung und einem thematischen Fokus, um dem afrikanischen Kontinent und seiner immensen Vielfalt bestmöglich gerecht zu werden.\nWeitere Infos: africanbookfestival.de\n",
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
@@ -1024,6 +1056,23 @@
       "time": "20:45",
       "available": 571,
       "reserved": 2,
+      "bookable": true
+    },
+    {
+      "description": "Der hypochondrische Argan hat sich in den Kopf gesetzt, seine Tochter mit einem Arzt\nzu verheiraten. Dann, so Argans Plan, k nnte er seine zahllosen eingebildeten\nZipperlein kostenlos von seinem Schwiegersohn behandeln lassen. Allerhand Intrigen\nund Quacksalbereien müssen veranstaltet werden, eingef delt vor allem von der\nschlauen Dienerin Toinette, bevor die Liebe siegen kann, alle Leichenfledderer\nvertrieben sind und der gel uterte Argan am Ende zu seinem eigenen Arzt promoviert\n– garantiert Corona-frei.\n",
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "cinemaShortName": "rehberge",
+      "id": "rehberge-644",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/644",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=625",
+      "title": "Der eingebildete Kranke von Moliére",
+      "date": "So., 5.9.,",
+      "timestamp": 1630861200000,
+      "time": "17:00",
+      "available": 573,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -1250,7 +1299,7 @@
       "id": "rehberge-637",
       "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/637",
       "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=616",
-      "title": "Mein Liebhaber, der Esel &amp;amp; Ich",
+      "title": "Mein Liebhaber, der Esel & Ich",
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
       "time": "21:30",
@@ -1322,7 +1371,7 @@
       "id": "rehberge-626",
       "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/626",
       "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=606",
-      "title": "Queen &amp;amp; Slim",
+      "title": "Queen & Slim",
       "date": "So., 18.7.",
       "timestamp": 1626643800000,
       "time": "21:30",
@@ -1365,6 +1414,40 @@
       "bookable": true
     },
     {
+      "description": "Der hypochondrische Argan hat sich in den Kopf gesetzt, seine Tochter mit einem Arzt\nzu verheiraten. Dann, so Argans Plan, k nnte er seine zahllosen eingebildeten\nZipperlein kostenlos von seinem Schwiegersohn behandeln lassen. Allerhand Intrigen\nund Quacksalbereien müssen veranstaltet werden, eingef delt vor allem von der\nschlauen Dienerin Toinette, bevor die Liebe siegen kann, alle Leichenfledderer\nvertrieben sind und der gel uterte Argan am Ende zu seinem eigenen Arzt promoviert\n– garantiert Corona-frei.\n",
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "cinemaShortName": "rehberge",
+      "id": "rehberge-643",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/643",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=624",
+      "title": "Theater: Der eingebildete Kranke von Molie´re",
+      "date": "Fr., 3.9.,",
+      "timestamp": 1630701000000,
+      "time": "20:30",
+      "available": 573,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "description": "Der hypochondrische Argan hat sich in den Kopf gesetzt, seine Tochter mit einem Arzt\nzu verheiraten. Dann, so Argans Plan, k nnte er seine zahllosen eingebildeten\nZipperlein kostenlos von seinem Schwiegersohn behandeln lassen. Allerhand Intrigen\nund Quacksalbereien müssen veranstaltet werden, eingef delt vor allem von der\nschlauen Dienerin Toinette, bevor die Liebe siegen kann, alle Leichenfledderer\nvertrieben sind und der gel uterte Argan am Ende zu seinem eigenen Arzt promoviert\n– garantiert Corona-frei.\n",
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "cinemaShortName": "rehberge",
+      "id": "rehberge-642",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/642",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=623",
+      "title": "Theater: Der eingebildete Kranke von Moliére",
+      "date": "Do., 2.9.,",
+      "timestamp": 1630614600000,
+      "time": "20:30",
+      "available": 573,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
       "trailer": "https://www.youtube-nocookie.com/embed/cd-go0oBF4Y?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
       "description": "\"Ich bin der Dude. Und so sollten Sie mich auch nennen, ist das klar? Entweder so oder Seine Dudeheit oder Duder oder auch El Duderino, falls Ihnen das mit den Kurznamen nicht so liegt.\" Eine Saison ohne ein Rendezvous mit dem Dude, Walter, Jesus, und den Nihilisten ist schwer vorstellbar. Auf also zum Lebowski-Fest: Lasst uns Teppiche würdigen, die den Raum erst so richtig gemütlich machen und die Alltagstauglichkeit eines White Russian wertschätzen. Kurz: Leinwand frei, der Dude gibt sich die Ehre!",
       "cinemaId": "rb_freiluftkino",
@@ -1395,8 +1478,8 @@
       "date": "Do., 15.7.",
       "timestamp": 1626384600000,
       "time": "21:30",
-      "available": 508,
-      "reserved": 65,
+      "available": 491,
+      "reserved": 82,
       "bookable": true
     },
     {
@@ -1413,8 +1496,8 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626125400000,
       "time": "21:30",
-      "available": 547,
-      "reserved": 26,
+      "available": 545,
+      "reserved": 28,
       "bookable": true
     },
     {
@@ -1431,8 +1514,8 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625866200000,
       "time": "21:30",
-      "available": 347,
-      "reserved": 226,
+      "available": 345,
+      "reserved": 228,
       "bookable": true
     }
   ],
@@ -1559,8 +1642,8 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/689594?layout=shows",
       "img": "https://media.kinoheld.de/8AF3hb-XqmSaaZt5dYhxEYEBR-w=/400x560/images%2Ffilm%2Fsommer-85-19153.v6.jpg",
       "description": "\"Ein originell verpackter Liebesfilm mit leinwandpräsenten Helden, ebenso hübschen Bildern sowie nostalgisch korrekter Ausstattung. Ein echter Ozon!\" Programmkino.de",
-      "available": 324,
-      "reserved": 86,
+      "available": 322,
+      "reserved": 88,
       "bookable": true
     },
     {
@@ -1667,8 +1750,8 @@
       "img": "https://media.kinoheld.de/FsNKn9KVQQJ1JOoT5CdMA2H0bfI=/400x560/images%2Ffilm%2F4%2Fder-himmel-ueber-berlin-9307.v21.jpg",
       "description": "Damiel ist ein Engel. Und gemeinsam mit seinem himmlischen Kollegen Cassiel wandert er durch das geteilte Berlin und wacht über die Menschen. Doch als Engel bleibt Damiel der menschlichen Welt verborgen. Er kann sie nur beobachten und ihren Gedanken lauschen, mitfühlen und miterleben kann er ihre Empfindungen nicht. Als er sich eines Tages in die zauberhafte Trapezkünstlerin Marion verliebt, beschließt er, selbst ein Mensch zu werden. Doch dafür muss er ein großes Opfer bringen: seine Unsterblichkeit. (j.b.)",
       "trailer": "https://www.youtube.com/watch?v=_Zih4o6NLCc",
-      "available": 618,
-      "reserved": 16,
+      "available": 606,
+      "reserved": 18,
       "bookable": true
     },
     {
@@ -1788,8 +1871,8 @@
       "timestamp": 1626912000000,
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691233?layout=shows",
-      "img": "https://media.kinoheld.de/dzSyfIfUZaj4TlPlsylJYwnpHio=/400x560/images%2Ffilm%2Fich-bin-dein-mensch-18809.v23.jpg",
-      "description": "Obwohl Alma (Maren Eggert) wenig davon hält, erklärt sie sich bereit, für die Ethikkommission einen Bericht zur Frage abzugeben, ob man humanoide und kaum vom Menschen zu unterscheidende Roboter in Deutschland zulassen soll, und am dafür nötigen Experiment teilzunehmen. Denn für ihre Forschung am renommierten Berliner Pergamonmuseum kann sie die ihr im Gegenzug in Aussicht gestellte Förderung dringend brauchen. Obwohl Liebe das Letzte ist, was sie aktuell im Leben zwischen viel Arbeit, einer gescheiterten Beziehung und der Sorge um ihren dementen Vater braucht, nimmt sie so den Partnerschafts-Roboter Tom (Dan Stevens) bei sich auf. Eigentlich will Alma Tom nur in die Ecke stellen, um weiter ungestört ihrem Alltag nachgehen zu können. Doch das ist gar nicht so einfach, denn Tom ist darauf programmiert, der perfekte Partner für sie zu sein und sie dazu zu bringen, sich in ihn zu verlieben.",
+      "img": "https://media.kinoheld.de/OLmmc6sdSgouUoi4O_QGGKjqIT4=/400x560/images%2Ffilm%2Fich-bin-dein-mensch-18809.v25.jpg",
+      "description": "Alma is a scientist at Berlin's famous Pergamon Museum. In order to obtain research funds for her studies, she accepts an offer to participate in an extraordinary experiment. For three weeks, she must live with a humanoid robot with artificial intelligence designed to allow it to morph into that of her ideal life partner. Enter Tom, a machine in human form, created to make her happy.",
       "available": 658,
       "reserved": 6,
       "bookable": true
@@ -1808,8 +1891,8 @@
       "img": "https://media.kinoheld.de/GwZHiD65bCVb3mxAuT7jVcFqH9M=/400x560/images%2Ffilm%2Fnomadland-18288.v2.png",
       "description": "Nach dem wirtschaftlichen Zusammenbruch einer Stadt im ländlichen Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren weißen Van und macht sich auf den Weg, um als moderne Nomadin im Westen der USA ein Leben außerhalb der konventionellen Gesellschaft zu erkunden.",
       "trailer": "https://www.youtube.com/watch?v=iEcIDpnv3qQ",
-      "available": 27,
-      "reserved": 189,
+      "available": 15,
+      "reserved": 195,
       "bookable": true
     },
     {
@@ -1878,8 +1961,8 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691238?layout=shows",
       "img": "https://media.kinoheld.de/Oyw4j5X6-APA71HNlPwWligxMDc=/400x560/images%2Ffilm%2Ffabiana-19170.v1.jpg",
       "description": "Am 31. Juli Vorpremiere im Open Air Kinosommer am Waschhaus \n\nIm Berlin der goldenen 20er-Jahre lässt sich der Germanist und Werbetexter Fabian (Tom Schilling) durch das Leben treiben. Während er tagsüber für die Werbung einer Zigarettenfirma zuständig ist, ist er nachts oft mit seinem Studienkollegen Labude (Albrecht Schuch) unterwegs und macht die Unterweltkneipen, Bordelle und Künstlerateliers unsicher. Das sorglose Leben der beiden jungen Männer wird durch eine durch Kommunisten und Nationalsozialisten geteilte Gesellschaft zunehmend bedroht und auch Labude träumt davon, dass die Klassen gegen die Obrigkeit revolutionieren. Fabian kann mit dem politischen Umbruch nicht viel anfangen und kommentiert die Geschehnisse ironisch. Eines Tages trifft er in einem Atelier auf Cornelia (Saskia Rosendahl) und verliebt sich auf dem ersten Blick in sie. Fabians naives Leben nimmt eine dramatische Wendung, als er einer Entlassungswelle zum Opfer fällt, Cornelias Karriere als Schauspielerin jedoch an Fahrt aufnimmt. Basiert auf Erich Kästners Roman „Der Gang vor die Hunde“, der eine Rekonstruktion von der Urfassung des Romans „Fabian“ ist.",
-      "available": 571,
-      "reserved": 22,
+      "available": 554,
+      "reserved": 25,
       "bookable": true
     },
     {
@@ -2090,7 +2173,7 @@
       "timestamp": 1626912000000,
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2392542992?layout=shows",
-      "img": "https://media.kinoheld.de/OTwskkG-K0BtzpDea_TePl3uRYE=/400x560/images%2Ffilm%2Fdemon-slayer-kimetsu-no-yaiba-mugen-train-18801.v24.jpg",
+      "img": "https://media.kinoheld.de/FHxbSWloujqv24-GebAhTyelk8o=/400x560/images%2Ffilm%2Fdemon-slayer-kimetsu-no-yaiba-mugen-train-18801.v25.jpg",
       "description": "Tanjirō und seine Gefährten haben ihr Rehabilitationstraining im Schmetterlingsanwesen abgeschlossen und erreichen den Ort ihrer nächsten Mission. Im »Mugen-Zug« sind über 40 Leute innerhalb kürzester Zeit verschwunden. Tanjirō, Nezuko, Zenitsu und Inosuke schließen sich einem der mächtigsten Schwertkämpfer unter den Dämonenjägern an: der Säule der Flammen Kyōjurō Rengoku. Zusammen wollen sie sich dem Dämon stellen, der im »Mugen-Zug« lauert und begeben sich auf eine Fahrt in die Dunkelheit.",
       "trailer": "https://youtu.be/MKJ-nXADsVk",
       "available": -1,
@@ -2896,7 +2979,7 @@
       "timestamp": 1625875200000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2388621683?layout=shows",
-      "img": "https://media.kinoheld.de/OTwskkG-K0BtzpDea_TePl3uRYE=/400x560/images%2Ffilm%2Fdemon-slayer-kimetsu-no-yaiba-mugen-train-18801.v24.jpg",
+      "img": "https://media.kinoheld.de/FHxbSWloujqv24-GebAhTyelk8o=/400x560/images%2Ffilm%2Fdemon-slayer-kimetsu-no-yaiba-mugen-train-18801.v25.jpg",
       "description": "Der Kinofilm zur gleichnamigen Anime-Serie ist der erfolgreichste Anime aller Zeiten, mit aktuellem Stand führt er mit großem Abstand vor den bisherigen Spitzenreitern CHIHIROS REISE INS ZAUBERLAND (2001) von Hayao Miyazaki und YOUR NAME (2016) von Makoto Shinkai. Eine Sensation, wenn man bedenkt, dass gerade einmal ein Jahr seit dem Start in Japan vergangen ist und der Film einfach die direkte Fortsetzung der Serie, also eher eine überlange Episode ist. Doch anbetracht der Tatsache, dass die Serie zu den besten im japanischen Anime-Universum gehört und die Hauptfiguren überhaus sympathisch sind, dürfen sich alle Anime-Fans auf ein schönes Kinoabenteuer freuen. Es kann nicht schaden, zuvor schnell die Serie zu schauen. Oder hinterher.",
       "trailer": "https://youtu.be/bBaKrECITsg",
       "available": -1,
@@ -3106,6 +3189,24 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
       "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
       "cinemaShortName": "pompeji ostkreuz",
+      "id": "pompeji ostkreuz-2400380115",
+      "title": "Litauisches Kino Goes Berlin: The Lawyer (subtitled OV English)",
+      "date": "Do., 22.7.",
+      "timestamp": 1626912000000,
+      "time": "21:30",
+      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2400380115?layout=shows",
+      "img": "https://media.kinoheld.de/K--T3vyq1TZ-N3ARowC3wil2Ut8=/400x560/images%2Ffilm%2Fmo%2F2413-38343.v2.jpg",
+      "description": "Der erfolgreiche Unternehmensanwalt Marius hat eigentlich alles, was er sich nur wünschen kann. Aber dennoch ist da eine Leere in seinem Leben, die er durch den Verlust seines Vaters noch stärker zu spüren beginnt. In dem Versuch seine Trauer zu bewältigen, sucht Marius online nach Gesellschaft und lernt über Videochat den charmanten Ali kennen; einen Flüchtling aus Syrien. Zwischen den beiden ganz unterschiedlichen Männern entwickelt sich eine enge Beziehung. Doch die gesellschaftlichen Hürden, die zwischen ihnen stehen, stellen ihre gemeinsame Zeit auf eine harte Probe.",
+      "trailer": "https://youtu.be/bVDSOFs_jOs",
+      "available": -1,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "2153",
+      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
+      "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
+      "cinemaShortName": "pompeji ostkreuz",
       "id": "pompeji ostkreuz-2399907180",
       "title": "CINEMATIC CONCERT: PLAYTIME (OV)",
       "date": "Fr., 23.7.",
@@ -3147,7 +3248,7 @@
       "timestamp": 1627171200000,
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2399907196?layout=shows",
-      "img": "https://media.kinoheld.de/dzSyfIfUZaj4TlPlsylJYwnpHio=/400x560/images%2Ffilm%2Fich-bin-dein-mensch-18809.v23.jpg",
+      "img": "https://media.kinoheld.de/OLmmc6sdSgouUoi4O_QGGKjqIT4=/400x560/images%2Ffilm%2Fich-bin-dein-mensch-18809.v25.jpg",
       "description": "Kann man sich in jemanden verlieben, der eine Ware ist, einzig dafür geschaffen, die Sehnsucht nach Nähe, Partnerschaft und Liebe zu erfüllen? Und was empfindet eigentlich ein Roboter? In ICH BIN DEIN MENSCH erzählt Maria Schrader von der Begegnung zwischen einer Frau und einem humanoiden Roboter. Alma (Maren Eggert) ist Wissenschaftlerin am berühmten Pergamon-Museum in Berlin. Um an Forschungsgelder für ihre Arbeit zu kommen, lässt sie sich zur Teilnahme an einer außergewöhnlichen Studie überreden. Drei Wochen lang soll sie mit einem ganz auf ihren Charakter und ihre Bedürfnisse zugeschnittenen humanoiden Roboter zusammenleben, dessen künstliche Intelligenz darauf angelegt ist, der perfekte Lebenspartner für sie zu sein. Alma trifft auf Tom (Dan Stevens), eine hochentwickelte Maschine in Menschengestalt, einzig dafür geschaffen, sie glücklich zu machen…. ICH BIN DEIN MENSCH erzählt von einer Begegnung, die uns in der nahen Zukunft vielleicht erwartet. Es ist eine melancholische Komödie um die Fragen der Liebe, der Sehnsucht und was den Menschen zum Menschen macht. ICH BIN DEIN MENSCH unter der Regie von Maria Schrader (“Unorthodox”, VOR DER MORGEN-RÖTE) feierte seine Premiere im Wettbewerb der 71. Internationalen Filmfestspiele Berlin. Die Geschichte mit Maren Eggert (ICH WAR ZU HAUSE, ABER…, GIRAFFE) und Dan Stevens („Legion“, „Eurovision“, DIE SCHÖNE UND DAS BIEST) in den Hauptrollen erzählt von der Begegnung einer Frau und einem humanoiden Roboter, der zu nichts anderem geschaffen wurde, als sie glücklich zu machen. Maren Eggert wurde für ihre darstellerische Leistung mit dem Silbernen Bären ausgezeichnet.",
       "trailer": "https://youtu.be/J8eq53SdH1E",
       "available": -1,
@@ -3294,8 +3395,8 @@
       "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2394853223?layout=shows",
       "img": "https://media.kinoheld.de/d0Mov4eHbxI7VvdvdVFQDHlOA90=/400x560/images%2Ffilm%2Fbad-luck-banging-or-loony-porn-18954.v8.jpg",
       "description": "Am 18. Juni Vorpremiere im Open Air Kinosommer am Waschhaus \n\nEin Video geht viral. Es zeigt einen Mann und eine Frau beim Sex. Sie tragen Masken, trotzdem wird die Frau erkannt. Dumm nur, dass sie als Lehrerin eigentlich ein Vorbild sein soll. Und das in einer Gesellschaft (der postsozialistischen, aber letztlich unser aller), welche drauf und dran ist, sich im Social-Network-Diskurs aus restaurativen Saubermannattitüden, pseudopolitischer Besserwisserei, scheinheiligem Chauvinismus und grotesken Verschwörungstheorien zu verlieren. Alle haben Meinung. Die Debatte wird zum Tribunal – über konsensualen Sex, Pornografie und mehr. Radu Jude, wie stets zu innovativen Filmexperimenten bereit, bastelt aus dieser Konstellation ein intelligentes, satirisches Triptychon. Der erste Teil zeigt mit nonchalant-präziser Kamera und irrer, im Bukarester Straßenalltagsstress aufgespürter Komik wie zeitgenössisches Kino an der doku-fiktionalen Schnittstelle aussehen kann. Der zweite Teil ist eine schräge, lakonisch kommentierte Skizze einzelner statischer Bilder, gedacht als Symbol-Enzyklopädie unserer Zeit. Den krönenden Abschluss – bei doch offenem Ende – bildet die Diskussion in der Schule, die zu einem Urteil über die Existenzberechtigung unserer Heldin kommen wird.\n\nGewinner des Goldenen Bären bei der Berlinale 2021!!!",
-      "available": 70,
-      "reserved": 38,
+      "available": 68,
+      "reserved": 40,
       "bookable": true
     },
     {
@@ -3415,23 +3516,6 @@
   ],
   "sommerkino-kulturforum": [
     {
-      "title": "Eyes Wide Shut (OmU)",
-      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60db270169f5b52f21cdb2fb/show_4120KmPGB4L._AC_.jpg",
-      "description": "Ein Streit um die Liebe & Treue lässt einen verheirateten Arzt in die Nacht taumeln, wo er sich in einer surrealen Abfolge sexueller Begegnungen wiederfindet. Im New York Ende der 90er Jahre , mit Nicole Kidman und Tom Cruise in den Hauptrollen.",
-      "cinemaId": "54eefd0b683138488b190000",
-      "cinemaUrl": "https://yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-259",
-      "url": "https://yorck.de/checkout/step01?showid=259&siteid=1015",
-      "time": "21:45",
-      "date": "Fr., 9.7.,",
-      "timestamp": 1625867100000,
-      "available": 460,
-      "reserved": 0,
-      "bookable": true
-    },
-    {
       "title": "Der Rausch",
       "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60a79f9a69f5b543b871ec2a/show_Der_Rausch_Poster_S.jpg",
       "description": "Vier Lehrer starten ein Experiment: dauerhaft halten sie einen niedrigen Alkoholpegel aufrecht. Ausgezeichnet mit 2 Oscars.",
@@ -3463,8 +3547,8 @@
       "time": "21:45",
       "date": "So., 11.7.",
       "timestamp": 1626039900000,
-      "available": 384,
-      "reserved": 76,
+      "available": 386,
+      "reserved": 74,
       "bookable": true
     },
     {
@@ -3517,8 +3601,8 @@
       "time": "21:30",
       "date": "Mi., 14.7.",
       "timestamp": 1626298200000,
-      "available": 400,
-      "reserved": 60,
+      "available": 397,
+      "reserved": 63,
       "bookable": true
     },
     {
@@ -3547,8 +3631,8 @@
       "time": "21:30",
       "date": "Fr., 16.7.",
       "timestamp": 1626471000000,
-      "available": 438,
-      "reserved": 22,
+      "available": 433,
+      "reserved": 27,
       "bookable": true
     },
     {
@@ -3633,8 +3717,8 @@
       "time": "21:45",
       "date": "So., 11.7.",
       "timestamp": 1626039900000,
-      "available": 384,
-      "reserved": 76,
+      "available": 386,
+      "reserved": 74,
       "bookable": true
     },
     {
@@ -3724,23 +3808,6 @@
       "bookable": true
     },
     {
-      "title": "Eyes Wide Shut (OmU)",
-      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60db270169f5b52f21cdb2fb/show_4120KmPGB4L._AC_.jpg",
-      "description": "Ein Streit um die Liebe & Treue lässt einen verheirateten Arzt in die Nacht taumeln, wo er sich in einer surrealen Abfolge sexueller Begegnungen wiederfindet. Im New York Ende der 90er Jahre , mit Nicole Kidman und Tom Cruise in den Hauptrollen.",
-      "cinemaId": "54eefd0b683138488b190000",
-      "cinemaUrl": "https://yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-259",
-      "url": "https://yorck.de/checkout/step01?showid=259&siteid=1015",
-      "time": "21:45",
-      "date": "Fr., 9.7.,",
-      "timestamp": 1625867100000,
-      "available": 460,
-      "reserved": 0,
-      "bookable": true
-    },
-    {
       "cinemaId": "54eefd0b683138488b190000",
       "cinemaUrl": "https://yorck.de/kinos/sommerkino-kulturforum",
       "cinemaName": "sommerkino-kulturforum",
@@ -3751,8 +3818,8 @@
       "time": "21:30",
       "date": "Fr., 16.7.",
       "timestamp": 1626471000000,
-      "available": 438,
-      "reserved": 22,
+      "available": 433,
+      "reserved": 27,
       "bookable": true
     },
     {
@@ -3820,8 +3887,8 @@
       "time": "21:30",
       "date": "Mi., 14.7.",
       "timestamp": 1626298200000,
-      "available": 400,
-      "reserved": 60,
+      "available": 397,
+      "reserved": 63,
       "bookable": true
     }
   ],
@@ -3840,8 +3907,8 @@
       "time": "21:30",
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
-      "available": 281,
-      "reserved": 218,
+      "available": 276,
+      "reserved": 223,
       "bookable": true
     },
     {
@@ -3875,8 +3942,8 @@
       "time": "21:30",
       "date": "Mo., 12.7.",
       "timestamp": 1626125400000,
-      "available": 430,
-      "reserved": 69,
+      "available": 425,
+      "reserved": 74,
       "bookable": true
     },
     {
@@ -4159,8 +4226,8 @@
       "time": "21:30",
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
-      "available": 281,
-      "reserved": 218,
+      "available": 276,
+      "reserved": 223,
       "bookable": true
     },
     {
@@ -4195,8 +4262,8 @@
       "time": "21:30",
       "date": "Mo., 12.7.",
       "timestamp": 1626125400000,
-      "available": 430,
-      "reserved": 69,
+      "available": 425,
+      "reserved": 74,
       "bookable": true
     },
     {
