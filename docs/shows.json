@@ -85,8 +85,8 @@
     "date": "Mi., 14.7.",
     "timestamp": 1626299100000,
     "time": "21:45",
-    "available": 1002,
-    "reserved": 76,
+    "available": 997,
+    "reserved": 81,
     "bookable": true
   },
   "fhain-706": {
@@ -399,8 +399,8 @@
     "date": "Sa., 10.7.",
     "timestamp": 1625953500000,
     "time": "21:45",
-    "available": 800,
-    "reserved": 278,
+    "available": 798,
+    "reserved": 280,
     "bookable": true
   },
   "fhain-695": {
@@ -664,8 +664,8 @@
     "date": "So., 25.7.",
     "timestamp": 1627248600000,
     "time": "21:30",
-    "available": 0,
-    "reserved": 0,
+    "available": 565,
+    "reserved": 2,
     "bookable": true
   },
   "xberg-631": {
@@ -790,8 +790,8 @@
     "date": "Di., 20.7.",
     "timestamp": 1626816600000,
     "time": "21:30",
-    "available": 558,
-    "reserved": 9,
+    "available": 556,
+    "reserved": 11,
     "bookable": true
   },
   "xberg-640": {
@@ -808,8 +808,8 @@
     "date": "Di., 27.7.",
     "timestamp": 1627421400000,
     "time": "21:30",
-    "available": 0,
-    "reserved": 0,
+    "available": 556,
+    "reserved": 11,
     "bookable": true
   },
   "xberg-625": {
@@ -978,8 +978,8 @@
     "date": "Sa., 17.7.",
     "timestamp": 1626525000000,
     "time": "12:30",
-    "available": 426,
-    "reserved": 147,
+    "available": 428,
+    "reserved": 145,
     "bookable": true
   },
   "rehberge-618": {
@@ -996,8 +996,8 @@
     "date": "Di., 13.7.",
     "timestamp": 1626211800000,
     "time": "21:30",
-    "available": 410,
-    "reserved": 163,
+    "available": 408,
+    "reserved": 165,
     "bookable": true
   },
   "rehberge-623": {
@@ -1614,8 +1614,8 @@
     "img": "https://media.kinoheld.de/DjXNUmH-Vg-O6UoXMGqxdGhenA0=/400x560/images%2Ffilm%2Fportraet-einer-jungen-frau-in-flammen-14653.v128.jpg",
     "description": "Ein ungewöhnlicher Auftrag führt die Pariser Malerin Marianne (Noémie Marchant) im Jahr 1770 auf eine einsame Insel an der Küste der Bretagne: Sie soll heimlich ein Gemälde von Héloïse (Adèle Haenel) anfertigen, die gerade eine Klosterschule für junge adelige Frauen verlassen hat und bald verheiratet werden soll. Denn Héloïse weigert sich, Modell zu sitzen, um gegen die von ihrer Mutter (Valeria Golino) arrangierte Ehe zu protestieren. So beobachtet Marianne Héloïse während ihrer Spaziergänge an die Küste und malt abends aus dem Gedächtnis heraus ihr Porträt. Langsam wächst zwischen den eindringlichen Blicken eine unwiderstehliche Anziehungskraft... (Quelle: Verleih)",
     "trailer": "https://www.youtube.com/watch?v=u3DrDtl2VBU",
-    "available": 385,
-    "reserved": 71,
+    "available": 380,
+    "reserved": 73,
     "bookable": true
   },
   "hasenheide-689597": {
@@ -1984,9 +1984,9 @@
     "img": "https://media.kinoheld.de/wK8Ycsf-6BwOhPvAGWlaQnaf244=/400x560/images%2Ffilm%2Fquo-vadis-aida-19249.v5.jpg",
     "description": "Bosnien, Juli 1995. Aida (Jasna Ðuriči) ist Übersetzerin für die UN in der Kleinstadt Srebrenica. Als die serbische Armee die Stadt einnimmt, gehört ihre Familie zu den Tausenden von Menschen, die im UN-Lager Schutz suchen. Als Dolmetscherin in den Verhandlungen hat Aida Zugang zu entscheidenden Informationen. Sie versucht dabei, Lügen und Wahrheiten auseinanderzuhalten, um herauszufinden, wie sie ihre Familie und ihre Mitbürger*innen retten könnte.",
     "trailer": "https://youtu.be/Nel7dVp-hd4",
-    "available": -1,
+    "available": 0,
     "reserved": 0,
-    "bookable": true
+    "bookable": false
   },
   "fmp-2392537991": {
     "cinemaId": "1657",
@@ -3394,9 +3394,9 @@
     "img": "https://media.kinoheld.de/zomTvzpecv9zVfd7mTpsMVAxEgo=/400x560/images%2Ffilm%2Fthe-united-states-vs-billie-holiday-18781.v1.jpg",
     "description": "Ende der 1930er-Jahre, zur Zeit der Rassentrennung in den USA: Das Elend ihrer Jugend hinter sich gelassen, ist Billie Holiday zu einer der erfolgreichsten Jazzsängerinnen der Welt aufgestiegen. Der Regierung jedoch ist die gefeierte „Lady Day“ ein Dorn im Auge – nicht zuletzt wegen ihres kraftvollen Protestsongs „Strange Fruit“, in dem sie offen die rassistisch motivierten Lynchmorde anprangert, die in den Südstaaten begangen werden. Weil sie das Lied trotz Aufführverbot weiterhin öffentlich singt, setzen die Behörden den Bundesagenten Jimmy Fletcher auf sie an. Er soll ihre Schwäche für Drogen und Männer publik machen und gegen sie verwenden. Doch als Fletcher der Frau mit der unverwechselbaren Stimme begegnet, verliebt er sich in sie …",
     "trailer": "https://www.youtube.com/watch?v=WDYRjCKQFQs",
-    "available": 38,
-    "reserved": 37,
-    "bookable": true
+    "available": 0,
+    "reserved": 0,
+    "bookable": false
   },
   "mobile kino-2394397747": {
     "cinemaId": "3033",
@@ -3680,8 +3680,8 @@
     "time": "21:30",
     "date": "Mo., 12.7.",
     "timestamp": 1626125400000,
-    "available": 408,
-    "reserved": 52,
+    "available": 406,
+    "reserved": 54,
     "bookable": true
   },
   "kulturforum-256": {
@@ -3731,8 +3731,8 @@
     "time": "21:30",
     "date": "Do., 15.7.",
     "timestamp": 1626384600000,
-    "available": 240,
-    "reserved": 220,
+    "available": 237,
+    "reserved": 223,
     "bookable": true
   },
   "kulturforum-268": {
@@ -3814,8 +3814,8 @@
     "time": "21:30",
     "date": "Di., 20.7.",
     "timestamp": 1626816600000,
-    "available": 431,
-    "reserved": 29,
+    "available": 430,
+    "reserved": 30,
     "bookable": true
   },
   "schloss-charlottenburg-41": {
@@ -3832,8 +3832,8 @@
     "time": "21:30",
     "date": "Sa., 10.7.",
     "timestamp": 1625952600000,
-    "available": 254,
-    "reserved": 245,
+    "available": 251,
+    "reserved": 248,
     "bookable": true
   },
   "schloss-charlottenburg-42": {
@@ -3921,8 +3921,8 @@
     "time": "21:30",
     "date": "Do., 15.7.",
     "timestamp": 1626384600000,
-    "available": 460,
-    "reserved": 39,
+    "available": 457,
+    "reserved": 42,
     "bookable": true
   },
   "schloss-charlottenburg-47": {
