@@ -86,8 +86,8 @@
       "date": "Mi., 14.7.",
       "timestamp": 1626299100000,
       "time": "21:45",
-      "available": 1009,
-      "reserved": 69,
+      "available": 1002,
+      "reserved": 76,
       "bookable": true
     },
     {
@@ -121,8 +121,8 @@
       "date": "Sa., 17.7.",
       "timestamp": 1626557400000,
       "time": "21:30",
-      "available": 1040,
-      "reserved": 38,
+      "available": 1038,
+      "reserved": 40,
       "bookable": true
     },
     {
@@ -139,8 +139,8 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626126300000,
       "time": "21:45",
-      "available": 87,
-      "reserved": 991,
+      "available": 75,
+      "reserved": 1003,
       "bookable": true
     },
     {
@@ -210,8 +210,8 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625867100000,
       "time": "21:45",
-      "available": 685,
-      "reserved": 393,
+      "available": 682,
+      "reserved": 396,
       "bookable": true
     },
     {
@@ -279,8 +279,8 @@
       "date": "So., 11.7.",
       "timestamp": 1626024600000,
       "time": "17:30",
-      "available": 528,
-      "reserved": 467,
+      "available": 526,
+      "reserved": 469,
       "bookable": true
     },
     {
@@ -314,8 +314,8 @@
       "date": "So., 15.8.",
       "timestamp": 1629043200000,
       "time": "16:00",
-      "available": 1078,
-      "reserved": 0,
+      "available": 1047,
+      "reserved": 31,
       "bookable": true
     },
     {
@@ -512,6 +512,23 @@
       "bookable": true
     },
     {
+      "description": "Wir hatten viel Spaß mit Godzilla vs. Kong. Man muss wissen, dass es erstmal nichts Gutes bedeutet, wenn Titanen -aus welchen Gründen auch immer- geweckt werden und, dass es eigentlich besser ist, wenn sie sich aus dem Weg gehen ....",
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
+      "cinemaShortName": "fhain",
+      "id": "fhain-720",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/720",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=705",
+      "title": "vodafone Filmnacht: Godzilla vs. Kong",
+      "date": "Fr., 6.8.,",
+      "timestamp": 1628283600000,
+      "time": "21:00",
+      "available": 1078,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
       "trailer": "https://www.youtube-nocookie.com/embed/4lEBn56PxiY?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
       "description": "Inspiriert von einem gleichnamigen Essay Roger Willemsens, reflektieren sechs bedeutende Denker*innen und Wissenschaftler*innen die Gegenwart und blicken in die Zukunft:  Alexander Gerst (Astronaut), Dennis Snower (Ökonom), Matthieu Ricard (Molekularbiologe und Buddhist), Sylvia Earle (Ozeanologin), Felwine Sarr (Ökonom, Soziologe und Philosoph) und Janina Loh (Philosophin und kritische Posthumanistin). Gemeinsam geht es in die Tiefen des Ozeans, über das Dach der Welt, bis in die Weiten des Weltraums und beleuchtet dabei die unglaublichen Fähigkeiten des menschlichen Gehirns, einen globalen Wirtschaftsgipfel, das Erbe der Kolonialisierung und die Gefühle eines Roboters.\n\"Ein Film als Forschungsreise. Ein poetischer Bilderrausch voller Hoffnung und Inspiration.\" (ZDF aspekte)\n",
       "cinemaId": "fh_freiluftkino",
@@ -544,8 +561,8 @@
       "date": "Mi., 14.7.",
       "timestamp": 1626298200000,
       "time": "21:30",
-      "available": 441,
-      "reserved": 126,
+      "available": 439,
+      "reserved": 128,
       "bookable": true
     },
     {
@@ -597,8 +614,8 @@
       "date": "Fr., 16.7.",
       "timestamp": 1626471000000,
       "time": "21:30",
-      "available": 537,
-      "reserved": 30,
+      "available": 530,
+      "reserved": 37,
       "bookable": true
     },
     {
@@ -668,8 +685,8 @@
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
       "time": "21:30",
-      "available": 0,
-      "reserved": 0,
+      "available": 565,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -704,8 +721,8 @@
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
       "time": "21:30",
-      "available": 562,
-      "reserved": 5,
+      "available": 561,
+      "reserved": 6,
       "bookable": true
     },
     {
@@ -776,8 +793,8 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625866200000,
       "time": "21:30",
-      "available": 108,
-      "reserved": 459,
+      "available": 101,
+      "reserved": 466,
       "bookable": true
     },
     {
@@ -847,8 +864,8 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626125400000,
       "time": "21:30",
-      "available": 404,
-      "reserved": 163,
+      "available": 402,
+      "reserved": 165,
       "bookable": true
     },
     {
@@ -916,8 +933,8 @@
       "date": "Do., 15.7.",
       "timestamp": 1626384600000,
       "time": "21:30",
-      "available": 525,
-      "reserved": 42,
+      "available": 527,
+      "reserved": 40,
       "bookable": true
     },
     {
@@ -970,8 +987,8 @@
       "date": "Sa., 17.7.",
       "timestamp": 1626525000000,
       "time": "12:30",
-      "available": 432,
-      "reserved": 141,
+      "available": 430,
+      "reserved": 143,
       "bookable": true
     },
     {
@@ -1040,8 +1057,8 @@
       "date": "Fr., 16.7.",
       "timestamp": 1626471000000,
       "time": "21:30",
-      "available": 564,
-      "reserved": 9,
+      "available": 562,
+      "reserved": 11,
       "bookable": true
     },
     {
@@ -1273,8 +1290,8 @@
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
       "time": "21:30",
-      "available": 564,
-      "reserved": 9,
+      "available": 565,
+      "reserved": 8,
       "bookable": true
     },
     {
@@ -1326,8 +1343,8 @@
       "date": "Fr., 20.8.",
       "timestamp": 1629489600000,
       "time": "20:00",
-      "available": 181,
-      "reserved": 274,
+      "available": 179,
+      "reserved": 276,
       "bookable": true
     },
     {
@@ -1414,8 +1431,8 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625866200000,
       "time": "21:30",
-      "available": 348,
-      "reserved": 225,
+      "available": 347,
+      "reserved": 226,
       "bookable": true
     }
   ],
@@ -1452,8 +1469,8 @@
       "img": "https://media.kinoheld.de/HjuD31sg7BQBV0tFkfblAV-_gvc=/400x560/images%2Ffilm%2Fmo%2F1863-37073.v2.jpg",
       "description": "Therese Koppes vielschichtiges dokumentarisches Porträt ist ein Film über das Leben, die Kunst und selbst geschaffene Freiräume in der DDR, über Liebe im Alter und die Frage, wie man sich und seinen Idealen treu bleiben kann.\r\n> Erika und Tine sind beide 81 und seit über 40 Jahren ein Paar. Zusammen leben und arbeiten sie auf dem Kunsthof Lietzen in Brandenburg – und blicken auf ein bewegtes Stück gemeinsame Geschichte zurück. Mit ihrer Neugier und Offenheit stellen Erika und Tine alles in Frage, das Vergangene und das Bestehende.",
       "trailer": "https://vimeo.com/451150791",
-      "available": 62,
-      "reserved": 23,
+      "available": 58,
+      "reserved": 27,
       "bookable": true
     },
     {
@@ -1579,7 +1596,7 @@
       "description": "Ein ungewöhnlicher Auftrag führt die Pariser Malerin Marianne (Noémie Marchant) im Jahr 1770 auf eine einsame Insel an der Küste der Bretagne: Sie soll heimlich ein Gemälde von Héloïse (Adèle Haenel) anfertigen, die gerade eine Klosterschule für junge adelige Frauen verlassen hat und bald verheiratet werden soll. Denn Héloïse weigert sich, Modell zu sitzen, um gegen die von ihrer Mutter (Valeria Golino) arrangierte Ehe zu protestieren. So beobachtet Marianne Héloïse während ihrer Spaziergänge an die Küste und malt abends aus dem Gedächtnis heraus ihr Porträt. Langsam wächst zwischen den eindringlichen Blicken eine unwiderstehliche Anziehungskraft... (Quelle: Verleih)",
       "trailer": "https://www.youtube.com/watch?v=u3DrDtl2VBU",
       "available": 385,
-      "reserved": 69,
+      "reserved": 71,
       "bookable": true
     },
     {
@@ -1614,7 +1631,7 @@
       "img": "https://media.kinoheld.de/bWgBMhcTZGShU1q7tv7OUJhaDRs=/400x560/images%2Ffilm%2Fund-morgen-die-ganze-welt-17457.v143.jpg",
       "description": "Luisa ist 20 Jahre alt, stammt aus gutem Haus, studiert Jura im ersten Semester. Und sie will, dass sich etwas verändert in Deutschland. Alarmiert vom Rechtsruck im Land und der zunehmenden Beliebtheit populistischer Parteien, tut sie sich mit ihren Freunden zusammen, um sich klar gegen die neue Rechte zu positionieren. Schnell findet sie Anschluss bei dem charismatischen Alfa und dessen besten Freund Lenor: Für die beiden ist auch der Einsatz von Gewalt ein legitimes Mittel, um Widerstand zu leisten. Bald schon überstürzen sich die Ereignisse. Und Luisa muss entscheiden, wie weit zu gehen sie bereit ist – auch wenn das fatale Konsequenzen für sie und ihre Freunde haben könnte.",
       "trailer": "https://www.youtube.com/watch?v=5jtj8DcAqz0",
-      "available": 453,
+      "available": 467,
       "reserved": 49,
       "bookable": true
     },
@@ -1738,8 +1755,8 @@
       "img": "https://media.kinoheld.de/Bs9C0qjqZBnidismnUoVfnUaR8Q=/400x560/images%2Ffilm%2Fpersischstunden-17031.v1643.jpg",
       "description": "1942. Gilles, ein junger Belgier, wird zusammen mit anderen Juden von der SS verhaftet und in ein Lager nach Deutschland gebracht. Er entgeht der Exekution, indem er schwört, kein Jude, sondern Perser zu sein – eine Lüge, die ihn zunächst rettet. Doch dann wird Gilles mit einer unmöglichen Mission beauftragt: Er soll Farsi unterrichten. Offizier Koch, Leiter der Lagerküche, träumt nämlich davon, nach Kriegsende ein Restaurant im Iran zu eröffnen. Wort für Wort muss Gilles eine Sprache erfinden, die er nicht beherrscht. Als in der besonderen Beziehung zwischen den beiden Männern Eifersucht und Misstrauen aufkommen, wird Gilles schmerzhaft bewusst, dass ihn jeder Fehltritt  auffliegen lassen könnte...",
       "trailer": "https://www.youtube.com/watch?v=qFigSSknLiY",
-      "available": 685,
-      "reserved": 2,
+      "available": 671,
+      "reserved": 4,
       "bookable": true
     },
     {
@@ -1771,7 +1788,7 @@
       "timestamp": 1626912000000,
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691233?layout=shows",
-      "img": "https://media.kinoheld.de/jd3WK2s_sD1I8P9NWwFT5X7A7Kk=/400x560/images%2Ffilm%2Fich-bin-dein-mensch-18809.v22.jpg",
+      "img": "https://media.kinoheld.de/dzSyfIfUZaj4TlPlsylJYwnpHio=/400x560/images%2Ffilm%2Fich-bin-dein-mensch-18809.v23.jpg",
       "description": "Obwohl Alma (Maren Eggert) wenig davon hält, erklärt sie sich bereit, für die Ethikkommission einen Bericht zur Frage abzugeben, ob man humanoide und kaum vom Menschen zu unterscheidende Roboter in Deutschland zulassen soll, und am dafür nötigen Experiment teilzunehmen. Denn für ihre Forschung am renommierten Berliner Pergamonmuseum kann sie die ihr im Gegenzug in Aussicht gestellte Förderung dringend brauchen. Obwohl Liebe das Letzte ist, was sie aktuell im Leben zwischen viel Arbeit, einer gescheiterten Beziehung und der Sorge um ihren dementen Vater braucht, nimmt sie so den Partnerschafts-Roboter Tom (Dan Stevens) bei sich auf. Eigentlich will Alma Tom nur in die Ecke stellen, um weiter ungestört ihrem Alltag nachgehen zu können. Doch das ist gar nicht so einfach, denn Tom ist darauf programmiert, der perfekte Partner für sie zu sein und sie dazu zu bringen, sich in ihn zu verlieben.",
       "available": 658,
       "reserved": 6,
@@ -1791,8 +1808,8 @@
       "img": "https://media.kinoheld.de/GwZHiD65bCVb3mxAuT7jVcFqH9M=/400x560/images%2Ffilm%2Fnomadland-18288.v2.png",
       "description": "Nach dem wirtschaftlichen Zusammenbruch einer Stadt im ländlichen Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren weißen Van und macht sich auf den Weg, um als moderne Nomadin im Westen der USA ein Leben außerhalb der konventionellen Gesellschaft zu erkunden.",
       "trailer": "https://www.youtube.com/watch?v=iEcIDpnv3qQ",
-      "available": 42,
-      "reserved": 183,
+      "available": 27,
+      "reserved": 189,
       "bookable": true
     },
     {
@@ -1861,8 +1878,8 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691238?layout=shows",
       "img": "https://media.kinoheld.de/Oyw4j5X6-APA71HNlPwWligxMDc=/400x560/images%2Ffilm%2Ffabiana-19170.v1.jpg",
       "description": "Am 31. Juli Vorpremiere im Open Air Kinosommer am Waschhaus \n\nIm Berlin der goldenen 20er-Jahre lässt sich der Germanist und Werbetexter Fabian (Tom Schilling) durch das Leben treiben. Während er tagsüber für die Werbung einer Zigarettenfirma zuständig ist, ist er nachts oft mit seinem Studienkollegen Labude (Albrecht Schuch) unterwegs und macht die Unterweltkneipen, Bordelle und Künstlerateliers unsicher. Das sorglose Leben der beiden jungen Männer wird durch eine durch Kommunisten und Nationalsozialisten geteilte Gesellschaft zunehmend bedroht und auch Labude träumt davon, dass die Klassen gegen die Obrigkeit revolutionieren. Fabian kann mit dem politischen Umbruch nicht viel anfangen und kommentiert die Geschehnisse ironisch. Eines Tages trifft er in einem Atelier auf Cornelia (Saskia Rosendahl) und verliebt sich auf dem ersten Blick in sie. Fabians naives Leben nimmt eine dramatische Wendung, als er einer Entlassungswelle zum Opfer fällt, Cornelias Karriere als Schauspielerin jedoch an Fahrt aufnimmt. Basiert auf Erich Kästners Roman „Der Gang vor die Hunde“, der eine Rekonstruktion von der Urfassung des Romans „Fabian“ ist.",
-      "available": 582,
-      "reserved": 20,
+      "available": 571,
+      "reserved": 22,
       "bookable": true
     },
     {
@@ -2362,8 +2379,8 @@
       "img": "https://media.kinoheld.de/yKvlkhqk_xqFAGPxf501ljlXzIg=/400x560/images%2Ffilm%2F4%2Fsuspiria-11018.v8.jpg",
       "description": "Die junge Amerikanerin Susie Bannion (Dakota Johnson) kommt 1977 zum renommierten Markos Tanzensemble nach Berlin. Während Susie unter der revolutionären künstlerischen Leiterin Madame Blanc (Tilda Swinton) außergewöhnliche Fortschritte macht, freundet sie sich mit der Tänzerin Sara (Mia Goth) an. Als Patricia (Chloë Grace Moretz), ebenfalls Mitglied des Ensembles, unter mysteriösen Umständen verschwindet, kommt der Psychotherapeut der jungen Tanzschülerin, Dr. Josef Klemperer (Lutz Ebersdorf), einem dunklen Geheimnis auf die Spur. Auch Susie und Sara ahnen, dass sich hinter der Fassade von Madame Blanc und ihrer Tanzschule unbarmherzige Hexen verbergen. (Text: Verleih)",
       "trailer": "https://youtu.be/MKJ-nXADsVk",
-      "available": 64,
-      "reserved": 4,
+      "available": 61,
+      "reserved": 6,
       "bookable": true
     },
     {
@@ -3130,7 +3147,7 @@
       "timestamp": 1627171200000,
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2399907196?layout=shows",
-      "img": "https://media.kinoheld.de/jd3WK2s_sD1I8P9NWwFT5X7A7Kk=/400x560/images%2Ffilm%2Fich-bin-dein-mensch-18809.v22.jpg",
+      "img": "https://media.kinoheld.de/dzSyfIfUZaj4TlPlsylJYwnpHio=/400x560/images%2Ffilm%2Fich-bin-dein-mensch-18809.v23.jpg",
       "description": "Kann man sich in jemanden verlieben, der eine Ware ist, einzig dafür geschaffen, die Sehnsucht nach Nähe, Partnerschaft und Liebe zu erfüllen? Und was empfindet eigentlich ein Roboter? In ICH BIN DEIN MENSCH erzählt Maria Schrader von der Begegnung zwischen einer Frau und einem humanoiden Roboter. Alma (Maren Eggert) ist Wissenschaftlerin am berühmten Pergamon-Museum in Berlin. Um an Forschungsgelder für ihre Arbeit zu kommen, lässt sie sich zur Teilnahme an einer außergewöhnlichen Studie überreden. Drei Wochen lang soll sie mit einem ganz auf ihren Charakter und ihre Bedürfnisse zugeschnittenen humanoiden Roboter zusammenleben, dessen künstliche Intelligenz darauf angelegt ist, der perfekte Lebenspartner für sie zu sein. Alma trifft auf Tom (Dan Stevens), eine hochentwickelte Maschine in Menschengestalt, einzig dafür geschaffen, sie glücklich zu machen…. ICH BIN DEIN MENSCH erzählt von einer Begegnung, die uns in der nahen Zukunft vielleicht erwartet. Es ist eine melancholische Komödie um die Fragen der Liebe, der Sehnsucht und was den Menschen zum Menschen macht. ICH BIN DEIN MENSCH unter der Regie von Maria Schrader (“Unorthodox”, VOR DER MORGEN-RÖTE) feierte seine Premiere im Wettbewerb der 71. Internationalen Filmfestspiele Berlin. Die Geschichte mit Maren Eggert (ICH WAR ZU HAUSE, ABER…, GIRAFFE) und Dan Stevens („Legion“, „Eurovision“, DIE SCHÖNE UND DAS BIEST) in den Hauptrollen erzählt von der Begegnung einer Frau und einem humanoiden Roboter, der zu nichts anderem geschaffen wurde, als sie glücklich zu machen. Maren Eggert wurde für ihre darstellerische Leistung mit dem Silbernen Bären ausgezeichnet.",
       "trailer": "https://youtu.be/J8eq53SdH1E",
       "available": -1,
@@ -3198,24 +3215,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openairprinzessinnengarten-kollektiv-neukoell/shows/movies",
       "cinemaName": "b-ware-openairprinzessinnengarten-kollektiv-neukoell",
       "cinemaShortName": "prinzessinengärten",
-      "id": "prinzessinengärten-2393421943",
-      "title": "UND MORGEN DIE GANZE WELT (subtitled OV)",
-      "date": "Fr., 9.7.,",
-      "timestamp": 1625788800000,
-      "time": "21:45",
-      "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openairprinzessinnengarten-kollektiv-neukoell/show/2393421943?layout=shows",
-      "img": "https://media.kinoheld.de/bWgBMhcTZGShU1q7tv7OUJhaDRs=/400x560/images%2Ffilm%2Fund-morgen-die-ganze-welt-17457.v143.jpg",
-      "description": "Luisa ist 20 Jahre alt, stammt aus gutem Haus, studiert Jura im ersten Semester. Und sie will, dass sich etwas verändert in Deutschland. Alarmiert vom Rechtsruck im Land und der zunehmenden Beliebtheit populistischer Parteien, tut sie sich mit ihren Freunden zusammen, um sich klar gegen die neue Rechte zu positionieren. Schnell findet sie Anschluss bei dem charismatischen Alfa und dessen besten Freund Lenor: Für die beiden ist auch der Einsatz von Gewalt ein legitimes Mittel, um Widerstand zu leisten. Bald schon überstürzen sich die Ereignisse. Und Luisa muss entscheiden, wie weit zu gehen sie bereit ist – auch wenn das fatale Konsequenzen für sie und ihre Freunde haben könnte.",
-      "trailer": "https://www.youtube.com/watch?v=5jtj8DcAqz0",
-      "available": -1,
-      "reserved": 0,
-      "bookable": true
-    },
-    {
-      "cinemaId": "2339",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openairprinzessinnengarten-kollektiv-neukoell/shows/movies",
-      "cinemaName": "b-ware-openairprinzessinnengarten-kollektiv-neukoell",
-      "cinemaShortName": "prinzessinengärten",
       "id": "prinzessinengärten-2393528697",
       "title": "FUTUR DREI (subtitled OV)",
       "date": "Fr., 23.7.",
@@ -3245,8 +3244,8 @@
       "img": "https://media.kinoheld.de/zomTvzpecv9zVfd7mTpsMVAxEgo=/400x560/images%2Ffilm%2Fthe-united-states-vs-billie-holiday-18781.v1.jpg",
       "description": "Ende der 1930er-Jahre, zur Zeit der Rassentrennung in den USA: Das Elend ihrer Jugend hinter sich gelassen, ist Billie Holiday zu einer der erfolgreichsten Jazzsängerinnen der Welt aufgestiegen. Der Regierung jedoch ist die gefeierte „Lady Day“ ein Dorn im Auge – nicht zuletzt wegen ihres kraftvollen Protestsongs „Strange Fruit“, in dem sie offen die rassistisch motivierten Lynchmorde anprangert, die in den Südstaaten begangen werden. Weil sie das Lied trotz Aufführverbot weiterhin öffentlich singt, setzen die Behörden den Bundesagenten Jimmy Fletcher auf sie an. Er soll ihre Schwäche für Drogen und Männer publik machen und gegen sie verwenden. Doch als Fletcher der Frau mit der unverwechselbaren Stimme begegnet, verliebt er sich in sie …",
       "trailer": "https://www.youtube.com/watch?v=WDYRjCKQFQs",
-      "available": 42,
-      "reserved": 33,
+      "available": 38,
+      "reserved": 37,
       "bookable": true
     },
     {
@@ -3295,8 +3294,8 @@
       "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2394853223?layout=shows",
       "img": "https://media.kinoheld.de/d0Mov4eHbxI7VvdvdVFQDHlOA90=/400x560/images%2Ffilm%2Fbad-luck-banging-or-loony-porn-18954.v8.jpg",
       "description": "Am 18. Juni Vorpremiere im Open Air Kinosommer am Waschhaus \n\nEin Video geht viral. Es zeigt einen Mann und eine Frau beim Sex. Sie tragen Masken, trotzdem wird die Frau erkannt. Dumm nur, dass sie als Lehrerin eigentlich ein Vorbild sein soll. Und das in einer Gesellschaft (der postsozialistischen, aber letztlich unser aller), welche drauf und dran ist, sich im Social-Network-Diskurs aus restaurativen Saubermannattitüden, pseudopolitischer Besserwisserei, scheinheiligem Chauvinismus und grotesken Verschwörungstheorien zu verlieren. Alle haben Meinung. Die Debatte wird zum Tribunal – über konsensualen Sex, Pornografie und mehr. Radu Jude, wie stets zu innovativen Filmexperimenten bereit, bastelt aus dieser Konstellation ein intelligentes, satirisches Triptychon. Der erste Teil zeigt mit nonchalant-präziser Kamera und irrer, im Bukarester Straßenalltagsstress aufgespürter Komik wie zeitgenössisches Kino an der doku-fiktionalen Schnittstelle aussehen kann. Der zweite Teil ist eine schräge, lakonisch kommentierte Skizze einzelner statischer Bilder, gedacht als Symbol-Enzyklopädie unserer Zeit. Den krönenden Abschluss – bei doch offenem Ende – bildet die Diskussion in der Schule, die zu einem Urteil über die Existenzberechtigung unserer Heldin kommen wird.\n\nGewinner des Goldenen Bären bei der Berlinale 2021!!!",
-      "available": 72,
-      "reserved": 36,
+      "available": 70,
+      "reserved": 38,
       "bookable": true
     },
     {
@@ -3428,8 +3427,8 @@
       "time": "21:45",
       "date": "Fr., 9.7.,",
       "timestamp": 1625867100000,
-      "available": 363,
-      "reserved": 97,
+      "available": 460,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -3464,8 +3463,8 @@
       "time": "21:45",
       "date": "So., 11.7.",
       "timestamp": 1626039900000,
-      "available": 382,
-      "reserved": 78,
+      "available": 384,
+      "reserved": 76,
       "bookable": true
     },
     {
@@ -3482,8 +3481,8 @@
       "time": "21:30",
       "date": "Mo., 12.7.",
       "timestamp": 1626125400000,
-      "available": 410,
-      "reserved": 50,
+      "available": 409,
+      "reserved": 51,
       "bookable": true
     },
     {
@@ -3533,8 +3532,8 @@
       "time": "21:30",
       "date": "Do., 15.7.",
       "timestamp": 1626384600000,
-      "available": 263,
-      "reserved": 197,
+      "available": 252,
+      "reserved": 208,
       "bookable": true
     },
     {
@@ -3548,8 +3547,8 @@
       "time": "21:30",
       "date": "Fr., 16.7.",
       "timestamp": 1626471000000,
-      "available": 439,
-      "reserved": 21,
+      "available": 438,
+      "reserved": 22,
       "bookable": true
     },
     {
@@ -3601,8 +3600,8 @@
       "time": "21:30",
       "date": "Mo., 19.7.",
       "timestamp": 1626730200000,
-      "available": 433,
-      "reserved": 27,
+      "available": 430,
+      "reserved": 30,
       "bookable": true
     },
     {
@@ -3634,8 +3633,8 @@
       "time": "21:45",
       "date": "So., 11.7.",
       "timestamp": 1626039900000,
-      "available": 382,
-      "reserved": 78,
+      "available": 384,
+      "reserved": 76,
       "bookable": true
     },
     {
@@ -3651,8 +3650,8 @@
       "time": "21:30",
       "date": "Mo., 19.7.",
       "timestamp": 1626730200000,
-      "available": 433,
-      "reserved": 27,
+      "available": 430,
+      "reserved": 30,
       "bookable": true
     },
     {
@@ -3669,8 +3668,8 @@
       "time": "21:30",
       "date": "Mo., 12.7.",
       "timestamp": 1626125400000,
-      "available": 410,
-      "reserved": 50,
+      "available": 409,
+      "reserved": 51,
       "bookable": true
     },
     {
@@ -3720,8 +3719,8 @@
       "time": "21:30",
       "date": "Do., 15.7.",
       "timestamp": 1626384600000,
-      "available": 263,
-      "reserved": 197,
+      "available": 252,
+      "reserved": 208,
       "bookable": true
     },
     {
@@ -3737,8 +3736,8 @@
       "time": "21:45",
       "date": "Fr., 9.7.,",
       "timestamp": 1625867100000,
-      "available": 363,
-      "reserved": 97,
+      "available": 460,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -3752,8 +3751,8 @@
       "time": "21:30",
       "date": "Fr., 16.7.",
       "timestamp": 1626471000000,
-      "available": 439,
-      "reserved": 21,
+      "available": 438,
+      "reserved": 22,
       "bookable": true
     },
     {
@@ -3828,24 +3827,6 @@
   ],
   "sommerkino-schloss-charlottenburg": [
     {
-      "title": "Léon - Der Profi (OmU)",
-      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/5d8dbb6c6144407bdd1b9b65/show_Leon_Poster_Kino_A4_Poster_S.jpg",
-      "description": "Leon ist Auftragskiller. Ein\"Cleaner\", der unglaublich präzise und perfekt arbeitet. Er gilt als unangreifbar und unzerstörbar. Sein Schatten hängt, wie eine bewaffnete Drohung, über den einschlägigen Quartieren der Mega-City New York. Bis er eines Tages einen Fehler macht. Er öffnet einem kleinen Mädchen mit großen Augen seine Tür: Mathilda.",
-      "trailer": "https://www.youtube.com/watch?v=3XgSLq-CePM&ab_channel=einenaccount",
-      "cinemaId": "60a3b5ed61444058ac0797a2",
-      "cinemaUrl": "https://yorck.de/kinos/sommerkino-schloss-charlottenburg",
-      "cinemaName": "sommerkino-schloss-charlottenburg",
-      "cinemaShortName": "schloss-charlottenburg",
-      "id": "schloss-charlottenburg-40",
-      "url": "https://yorck.de/checkout/step01?showid=40&siteid=1020",
-      "time": "21:30",
-      "date": "Fr., 9.7.,",
-      "timestamp": 1625866200000,
-      "available": 306,
-      "reserved": 193,
-      "bookable": true
-    },
-    {
       "title": "Master Cheng in Pohjanjoki",
       "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/5f103e0e61444052318a56ce/show_Master_Cheng_K.jpg",
       "description": "Mika Kaurismäki (THE GIRL KING, ZOMBIE AND THE GHOST TRAIN, MAMA AFRICA – MIRIAM MAKEBA), Weltreisender in Sachen Film, überrascht mit einer lakonisch-romantischen Komödie, deren Zutaten er fein ausbalanciert hat: Viel Humor, eine große Portion Warmherzigkeit, etwas Schwermut, romantische Sehnsucht und heiteres Sommerflair fügen sich zu einer filmkulinarischen Köstlichkeit, bei der finnisches Lokalkolorit auf chinesische Weisheit trifft.",
@@ -3859,8 +3840,8 @@
       "time": "21:30",
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
-      "available": 290,
-      "reserved": 209,
+      "available": 281,
+      "reserved": 218,
       "bookable": true
     },
     {
@@ -3894,8 +3875,8 @@
       "time": "21:30",
       "date": "Mo., 12.7.",
       "timestamp": 1626125400000,
-      "available": 434,
-      "reserved": 65,
+      "available": 430,
+      "reserved": 69,
       "bookable": true
     },
     {
@@ -4165,24 +4146,6 @@
       "bookable": true
     },
     {
-      "title": "Léon - Der Profi (OmU)",
-      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/5d8dbb6c6144407bdd1b9b65/show_Leon_Poster_Kino_A4_Poster_S.jpg",
-      "description": "Leon ist Auftragskiller. Ein\"Cleaner\", der unglaublich präzise und perfekt arbeitet. Er gilt als unangreifbar und unzerstörbar. Sein Schatten hängt, wie eine bewaffnete Drohung, über den einschlägigen Quartieren der Mega-City New York. Bis er eines Tages einen Fehler macht. Er öffnet einem kleinen Mädchen mit großen Augen seine Tür: Mathilda.",
-      "trailer": "https://www.youtube.com/watch?v=3XgSLq-CePM&ab_channel=einenaccount",
-      "cinemaId": "60a3b5ed61444058ac0797a2",
-      "cinemaUrl": "https://yorck.de/kinos/sommerkino-schloss-charlottenburg",
-      "cinemaName": "sommerkino-schloss-charlottenburg",
-      "cinemaShortName": "schloss-charlottenburg",
-      "id": "schloss-charlottenburg-40",
-      "url": "https://yorck.de/checkout/step01?showid=40&siteid=1020",
-      "time": "21:30",
-      "date": "Fr., 9.7.,",
-      "timestamp": 1625866200000,
-      "available": 306,
-      "reserved": 193,
-      "bookable": true
-    },
-    {
       "title": "Master Cheng in Pohjanjoki",
       "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/5f103e0e61444052318a56ce/show_Master_Cheng_K.jpg",
       "description": "Mika Kaurismäki (THE GIRL KING, ZOMBIE AND THE GHOST TRAIN, MAMA AFRICA – MIRIAM MAKEBA), Weltreisender in Sachen Film, überrascht mit einer lakonisch-romantischen Komödie, deren Zutaten er fein ausbalanciert hat: Viel Humor, eine große Portion Warmherzigkeit, etwas Schwermut, romantische Sehnsucht und heiteres Sommerflair fügen sich zu einer filmkulinarischen Köstlichkeit, bei der finnisches Lokalkolorit auf chinesische Weisheit trifft.",
@@ -4196,8 +4159,8 @@
       "time": "21:30",
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
-      "available": 290,
-      "reserved": 209,
+      "available": 281,
+      "reserved": 218,
       "bookable": true
     },
     {
@@ -4232,8 +4195,8 @@
       "time": "21:30",
       "date": "Mo., 12.7.",
       "timestamp": 1626125400000,
-      "available": 434,
-      "reserved": 65,
+      "available": 430,
+      "reserved": 69,
       "bookable": true
     },
     {
