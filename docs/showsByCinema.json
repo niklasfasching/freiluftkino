@@ -14,8 +14,8 @@
       "date": "Sa., 7.8.,",
       "timestamp": 1628368200000,
       "time": "20:30",
-      "available": 380,
-      "reserved": 698,
+      "available": 376,
+      "reserved": 702,
       "bookable": true
     },
     {
@@ -139,9 +139,9 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626126300000,
       "time": "21:45",
-      "available": 65,
-      "reserved": 1013,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "trailer": "https://www.youtube-nocookie.com/embed/cq4qKvvR76E?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
@@ -210,8 +210,8 @@
       "date": "Fr., 9.7.,",
       "timestamp": 1625867100000,
       "time": "21:45",
-      "available": 684,
-      "reserved": 394,
+      "available": 678,
+      "reserved": 400,
       "bookable": true
     },
     {
@@ -418,8 +418,8 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625953500000,
       "time": "21:45",
-      "available": 804,
-      "reserved": 274,
+      "available": 801,
+      "reserved": 277,
       "bookable": true
     },
     {
@@ -614,8 +614,8 @@
       "date": "Fr., 16.7.",
       "timestamp": 1626471000000,
       "time": "21:30",
-      "available": 526,
-      "reserved": 41,
+      "available": 528,
+      "reserved": 39,
       "bookable": true
     },
     {
@@ -703,8 +703,8 @@
       "date": "Sa., 17.7.",
       "timestamp": 1626557400000,
       "time": "21:30",
-      "available": 561,
-      "reserved": 6,
+      "available": 559,
+      "reserved": 8,
       "bookable": true
     },
     {
@@ -811,8 +811,8 @@
       "date": "Di., 13.7.",
       "timestamp": 1626211800000,
       "time": "21:30",
-      "available": 511,
-      "reserved": 56,
+      "available": 509,
+      "reserved": 58,
       "bookable": true
     },
     {
@@ -933,8 +933,8 @@
       "date": "Do., 15.7.",
       "timestamp": 1626384600000,
       "time": "21:30",
-      "available": 523,
-      "reserved": 44,
+      "available": 520,
+      "reserved": 47,
       "bookable": true
     },
     {
@@ -1019,8 +1019,8 @@
       "date": "Sa., 17.7.",
       "timestamp": 1626525000000,
       "time": "12:30",
-      "available": 430,
-      "reserved": 143,
+      "available": 428,
+      "reserved": 145,
       "bookable": true
     },
     {
@@ -1285,8 +1285,8 @@
       "date": "So., 11.7.",
       "timestamp": 1626039000000,
       "time": "21:30",
-      "available": 506,
-      "reserved": 67,
+      "available": 505,
+      "reserved": 68,
       "bookable": true
     },
     {
@@ -1339,8 +1339,8 @@
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
       "time": "21:30",
-      "available": 565,
-      "reserved": 8,
+      "available": 563,
+      "reserved": 10,
       "bookable": true
     },
     {
@@ -1553,7 +1553,7 @@
       "description": "Therese Koppes vielschichtiges dokumentarisches Porträt ist ein Film über das Leben, die Kunst und selbst geschaffene Freiräume in der DDR, über Liebe im Alter und die Frage, wie man sich und seinen Idealen treu bleiben kann.\r\n> Erika und Tine sind beide 81 und seit über 40 Jahren ein Paar. Zusammen leben und arbeiten sie auf dem Kunsthof Lietzen in Brandenburg – und blicken auf ein bewegtes Stück gemeinsame Geschichte zurück. Mit ihrer Neugier und Offenheit stellen Erika und Tine alles in Frage, das Vergangene und das Bestehende.",
       "trailer": "https://vimeo.com/451150791",
       "available": 56,
-      "reserved": 27,
+      "reserved": 29,
       "bookable": true
     },
     {
@@ -1891,8 +1891,8 @@
       "img": "https://media.kinoheld.de/GwZHiD65bCVb3mxAuT7jVcFqH9M=/400x560/images%2Ffilm%2Fnomadland-18288.v2.png",
       "description": "Nach dem wirtschaftlichen Zusammenbruch einer Stadt im ländlichen Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren weißen Van und macht sich auf den Weg, um als moderne Nomadin im Westen der USA ein Leben außerhalb der konventionellen Gesellschaft zu erkunden.",
       "trailer": "https://www.youtube.com/watch?v=iEcIDpnv3qQ",
-      "available": 12,
-      "reserved": 197,
+      "available": 10,
+      "reserved": 198,
       "bookable": true
     },
     {
@@ -3593,6 +3593,41 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/mobile-kino-berlin/shows/movies",
       "cinemaName": "mobile-kino-berlin",
       "cinemaShortName": "mobile kino",
+      "id": "mobile kino-2400475418",
+      "title": "THE TROUBLE WITH BEING BORN (subtitled OV English)",
+      "date": "Do., 22.7.",
+      "timestamp": 1626912000000,
+      "time": "21:30",
+      "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2400475418?layout=shows",
+      "img": "https://media.kinoheld.de/mF66qMqph7uv3v0PxDP6NzWJOdw=/400x560/images%2Ffilm%2Fthe-trouble-with-being-born-19295.v2.png",
+      "description": "Elli lebt mit einem Mann zusammen, den sie ihren Vater nennt.  Gemeinsam lassen sie sich durch den Sommer treiben. Tagsüber schwimmen sie im Pool und nachts bringt er sie ins Bett. Sie teilt seine Erinnerungen und alles andere, was er ihr einprogrammiert, damit sie sich daran erinnert. Erinnerungen, die ihm alles, aber ihr nichts bedeuten. Doch eines Nacht macht sie sich auf den Weg in den Wald und folgt einem verklingenden Echo...  Die Geschichte einer Maschine und der Geister, die wir alle in uns tragen.",
+      "trailer": "https://www.youtube.com/watch?v=515710227",
+      "available": 75,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "3033",
+      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/mobile-kino-berlin/shows/movies",
+      "cinemaName": "mobile-kino-berlin",
+      "cinemaShortName": "mobile kino",
+      "id": "mobile kino-2400476021",
+      "title": "GLÜCK 2021 (subtitled OV English)",
+      "date": "Fr., 23.7.",
+      "timestamp": 1626998400000,
+      "time": "21:30",
+      "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2400476021?layout=shows",
+      "img": "https://media.kinoheld.de/qVnneLWJ-1BHSsKCYvIBqUWe14Y=/400x560/images%2Ffilm%2Fglueck-19174.v1.jpg",
+      "description": "Zwei Sexarbeiterinnen verlieben sich ineinander – und das in einer Welt, in der der weibliche Körper ein teures Gut ist. Trotz ihres trostlosen Lebens erleben die erfahrene Sascha (Katharina Behrens) und ihre neue, aus Italien stammende Kollegin Maria (Adam Hoya) gemeinsam Momente des Glücks und drohen doch an den eigenen Abgründen zu scheitern...",
+      "available": 75,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "3033",
+      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/mobile-kino-berlin/shows/movies",
+      "cinemaName": "mobile-kino-berlin",
+      "cinemaShortName": "mobile kino",
       "id": "mobile kino-2391540390",
       "title": "NOTES OF BERLIN (subtitled OV English)",
       "date": "Mo., 26.7.",
@@ -3742,8 +3777,8 @@
       "time": "21:30",
       "date": "Do., 15.7.",
       "timestamp": 1626384600000,
-      "available": 250,
-      "reserved": 210,
+      "available": 245,
+      "reserved": 215,
       "bookable": true
     },
     {
@@ -3929,8 +3964,8 @@
       "time": "21:30",
       "date": "Do., 15.7.",
       "timestamp": 1626384600000,
-      "available": 250,
-      "reserved": 210,
+      "available": 245,
+      "reserved": 215,
       "bookable": true
     },
     {
@@ -4033,8 +4068,8 @@
       "time": "21:30",
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
-      "available": 269,
-      "reserved": 230,
+      "available": 265,
+      "reserved": 234,
       "bookable": true
     },
     {
@@ -4068,8 +4103,8 @@
       "time": "21:30",
       "date": "Mo., 12.7.",
       "timestamp": 1626125400000,
-      "available": 425,
-      "reserved": 74,
+      "available": 423,
+      "reserved": 76,
       "bookable": true
     },
     {
@@ -4352,8 +4387,8 @@
       "time": "21:30",
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
-      "available": 269,
-      "reserved": 230,
+      "available": 265,
+      "reserved": 234,
       "bookable": true
     },
     {
@@ -4388,8 +4423,8 @@
       "time": "21:30",
       "date": "Mo., 12.7.",
       "timestamp": 1626125400000,
-      "available": 425,
-      "reserved": 74,
+      "available": 423,
+      "reserved": 76,
       "bookable": true
     },
     {
