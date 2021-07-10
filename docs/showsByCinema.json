@@ -86,8 +86,8 @@
       "date": "Mi., 14.7.",
       "timestamp": 1626299100000,
       "time": "21:45",
-      "available": 997,
-      "reserved": 81,
+      "available": 995,
+      "reserved": 83,
       "bookable": true
     },
     {
@@ -365,8 +365,8 @@
       "date": "So., 11.7.",
       "timestamp": 1626039900000,
       "time": "21:45",
-      "available": 900,
-      "reserved": 178,
+      "available": 898,
+      "reserved": 180,
       "bookable": true
     },
     {
@@ -400,8 +400,8 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625953500000,
       "time": "21:45",
-      "available": 798,
-      "reserved": 280,
+      "available": 796,
+      "reserved": 282,
       "bookable": true
     },
     {
@@ -561,8 +561,8 @@
       "date": "Mo., 19.7.",
       "timestamp": 1626730200000,
       "time": "21:30",
-      "available": 551,
-      "reserved": 16,
+      "available": 547,
+      "reserved": 20,
       "bookable": true
     },
     {
@@ -811,8 +811,8 @@
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
       "time": "21:30",
-      "available": 556,
-      "reserved": 11,
+      "available": 555,
+      "reserved": 12,
       "bookable": true
     },
     {
@@ -828,8 +828,8 @@
       "date": "Mo., 12.7.",
       "timestamp": 1626125400000,
       "time": "21:30",
-      "available": 382,
-      "reserved": 185,
+      "available": 379,
+      "reserved": 188,
       "bookable": true
     },
     {
@@ -915,8 +915,8 @@
       "date": "So., 18.7.",
       "timestamp": 1626643800000,
       "time": "21:30",
-      "available": 541,
-      "reserved": 26,
+      "available": 540,
+      "reserved": 27,
       "bookable": true
     }
   ],
@@ -1105,9 +1105,9 @@
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
       "time": "21:30",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 50,
+      "reserved": 523,
+      "bookable": true
     },
     {
       "trailer": "https://www.youtube-nocookie.com/embed/cq4qKvvR76E?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
@@ -1679,7 +1679,7 @@
       "img": "https://media.kinoheld.de/6fELjvqxeuQo4wIlhB_G4DAyIXM=/400x560/images%2Ffilm%2Fder-rausch-18282.v14.jpg",
       "description": "Früher war Martin Lehrer aus Leidenschaft – heute sind nicht nur die Schüler von seinem fehlenden Enthusiasmus gelangweilt, auch in Martins Ehe ist die Luft raus. Seinen drei Freunden, die am selben Gymnasium unterrichten, geht es nicht viel besser. Bei einer angeheiterten Geburtstagsrunde diskutieren sie die Theorie eines norwegischen Philosophen: Nach dieser ist ein Mensch nur mit einem erhöhten Alkoholgehalt im Blut zu Bestleistungen fähig. Solch eine gewagte These muss überprüft werden. Die vier beschließen den Selbsttest zu machen und während der Arbeit einen bestimmten Pegel zu halten. Soll nicht sogar Churchill den Zweiten Weltkrieg in einem Alkoholrausch gewonnen haben? Mit neuem Antrieb stürzen sie sich in ihre geheime wissenschaftliche Studie. Die Wirkung lässt nicht lange auf sich warten …",
       "trailer": "https://www.youtube.com/watch?v=b2z6M24yq2Y",
-      "available": 278,
+      "available": 271,
       "reserved": 110,
       "bookable": true
     },
@@ -1731,8 +1731,8 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691189?layout=shows",
       "img": "https://media.kinoheld.de/l0-Js7LTKrFcwLTstog6WbTLek4=/400x560/images%2Ffilm%2Fthe-nest-17767.v17.jpg",
       "description": "Rory, ein ehrgeiziger Unternehmer und ehemaliger Rohstoffmakler, überredet seine amerikanische Frau Allison und seine Kinder, die Annehmlichkeiten der amerikanischen Vorstadt zu verlassen und in den 1980er Jahren in sein Heimatland England zurückzukehren. Rory wittert eine Gelegenheit und pachtet ein jahrhundertealtes Landgut mit Grundstücken für Allisons Pferde und Plänen zum Bau eines Stalls. Bald beginnt sich das Versprechen eines lukrativen Neuanfangs im englischen Herrenhaus aufzulösen und das Paar muss sich den unwillkommenen Wahrheiten stellen, die unter der Oberfläche seiner Ehe liegen. Die unheimliche Isolation, in der sich Rorys Familie im neuen Haus befindet, tut ihr Übriges, die Mitglieder voneinander zu entfernen. Ein Kreislauf der Selbstzerstörung beginnt ...",
-      "available": 655,
-      "reserved": 5,
+      "available": 641,
+      "reserved": 7,
       "bookable": true
     },
     {
@@ -1802,8 +1802,8 @@
       "img": "https://media.kinoheld.de/GwZHiD65bCVb3mxAuT7jVcFqH9M=/400x560/images%2Ffilm%2Fnomadland-18288.v2.png",
       "description": "Nach dem wirtschaftlichen Zusammenbruch einer Stadt im ländlichen Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren weißen Van und macht sich auf den Weg, um als moderne Nomadin im Westen der USA ein Leben außerhalb der konventionellen Gesellschaft zu erkunden.",
       "trailer": "https://www.youtube.com/watch?v=iEcIDpnv3qQ",
-      "available": 7,
-      "reserved": 201,
+      "available": 6,
+      "reserved": 202,
       "bookable": true
     },
     {
@@ -3509,8 +3509,8 @@
       "timestamp": 1627257600000,
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2391540390?layout=shows",
-      "available": 78,
-      "reserved": 30,
+      "available": 76,
+      "reserved": 32,
       "bookable": true
     },
     {
@@ -3580,8 +3580,8 @@
       "time": "21:45",
       "date": "Sa., 10.7.",
       "timestamp": 1625953500000,
-      "available": 10,
-      "reserved": 450,
+      "available": 8,
+      "reserved": 452,
       "bookable": true
     },
     {
@@ -3857,8 +3857,8 @@
       "time": "21:45",
       "date": "Sa., 10.7.",
       "timestamp": 1625953500000,
-      "available": 10,
-      "reserved": 450,
+      "available": 8,
+      "reserved": 452,
       "bookable": true
     },
     {
@@ -3994,8 +3994,8 @@
       "time": "21:30",
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
-      "available": 243,
-      "reserved": 256,
+      "available": 234,
+      "reserved": 265,
       "bookable": true
     },
     {
@@ -4047,8 +4047,8 @@
       "time": "21:30",
       "date": "Di., 13.7.",
       "timestamp": 1626211800000,
-      "available": 459,
-      "reserved": 40,
+      "available": 457,
+      "reserved": 42,
       "bookable": true
     },
     {
@@ -4295,8 +4295,8 @@
       "time": "21:30",
       "date": "Di., 13.7.",
       "timestamp": 1626211800000,
-      "available": 459,
-      "reserved": 40,
+      "available": 457,
+      "reserved": 42,
       "bookable": true
     },
     {
@@ -4349,8 +4349,8 @@
       "time": "21:30",
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
-      "available": 243,
-      "reserved": 256,
+      "available": 234,
+      "reserved": 265,
       "bookable": true
     },
     {
