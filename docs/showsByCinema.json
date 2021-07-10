@@ -1784,8 +1784,8 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691233?layout=shows",
       "img": "https://media.kinoheld.de/GPv5gW6xg_Tn765cxn2SEVinVwo=/400x560/images%2Ffilm%2Fich-bin-dein-mensch-18809.v33.jpg",
       "description": "Alma is a scientist at Berlin's famous Pergamon Museum. In order to obtain research funds for her studies, she accepts an offer to participate in an extraordinary experiment. For three weeks, she must live with a humanoid robot with artificial intelligence designed to allow it to morph into that of her ideal life partner. Enter Tom, a machine in human form, created to make her happy.",
-      "available": 658,
-      "reserved": 6,
+      "available": 631,
+      "reserved": 11,
       "bookable": true
     },
     {
@@ -1802,8 +1802,8 @@
       "img": "https://media.kinoheld.de/GwZHiD65bCVb3mxAuT7jVcFqH9M=/400x560/images%2Ffilm%2Fnomadland-18288.v2.png",
       "description": "Nach dem wirtschaftlichen Zusammenbruch einer Stadt im ländlichen Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren weißen Van und macht sich auf den Weg, um als moderne Nomadin im Westen der USA ein Leben außerhalb der konventionellen Gesellschaft zu erkunden.",
       "trailer": "https://www.youtube.com/watch?v=iEcIDpnv3qQ",
-      "available": 9,
-      "reserved": 199,
+      "available": 7,
+      "reserved": 201,
       "bookable": true
     },
     {
@@ -3580,9 +3580,9 @@
       "time": "21:45",
       "date": "Sa., 10.7.",
       "timestamp": 1625953500000,
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 10,
+      "reserved": 450,
+      "bookable": true
     },
     {
       "title": "Als wir tanzten",
@@ -3667,8 +3667,8 @@
       "time": "21:30",
       "date": "Do., 15.7.",
       "timestamp": 1626384600000,
-      "available": 236,
-      "reserved": 224,
+      "available": 229,
+      "reserved": 231,
       "bookable": true
     },
     {
@@ -3718,8 +3718,8 @@
       "time": "21:30",
       "date": "So., 18.7.",
       "timestamp": 1626643800000,
-      "available": 437,
-      "reserved": 23,
+      "available": 438,
+      "reserved": 22,
       "bookable": true
     },
     {
@@ -3735,8 +3735,8 @@
       "time": "21:30",
       "date": "Mo., 19.7.",
       "timestamp": 1626730200000,
-      "available": 430,
-      "reserved": 30,
+      "available": 429,
+      "reserved": 31,
       "bookable": true
     },
     {
@@ -3803,8 +3803,8 @@
       "time": "21:30",
       "date": "Mo., 19.7.",
       "timestamp": 1626730200000,
-      "available": 430,
-      "reserved": 30,
+      "available": 429,
+      "reserved": 31,
       "bookable": true
     },
     {
@@ -3857,9 +3857,9 @@
       "time": "21:45",
       "date": "Sa., 10.7.",
       "timestamp": 1625953500000,
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 10,
+      "reserved": 450,
+      "bookable": true
     },
     {
       "cinemaId": "54eefd0b683138488b190000",
@@ -3872,8 +3872,8 @@
       "time": "21:30",
       "date": "Do., 15.7.",
       "timestamp": 1626384600000,
-      "available": 236,
-      "reserved": 224,
+      "available": 229,
+      "reserved": 231,
       "bookable": true
     },
     {
@@ -3923,8 +3923,8 @@
       "time": "21:30",
       "date": "So., 18.7.",
       "timestamp": 1626643800000,
-      "available": 437,
-      "reserved": 23,
+      "available": 438,
+      "reserved": 22,
       "bookable": true
     },
     {
@@ -3994,8 +3994,8 @@
       "time": "21:30",
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
-      "available": 245,
-      "reserved": 254,
+      "available": 243,
+      "reserved": 256,
       "bookable": true
     },
     {
@@ -4349,8 +4349,8 @@
       "time": "21:30",
       "date": "Sa., 10.7.",
       "timestamp": 1625952600000,
-      "available": 245,
-      "reserved": 254,
+      "available": 243,
+      "reserved": 256,
       "bookable": true
     },
     {
