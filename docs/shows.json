@@ -49,8 +49,8 @@
     "date": "Do., 29.7.",
     "timestamp": 1627592400000,
     "time": "21:00",
-    "available": 1070,
-    "reserved": 8,
+    "available": 1068,
+    "reserved": 10,
     "bookable": true
   },
   "fhain-694": {
@@ -138,8 +138,8 @@
     "date": "Mo., 12.7.",
     "timestamp": 1626126300000,
     "time": "21:45",
-    "available": 8,
-    "reserved": 1070,
+    "available": 4,
+    "reserved": 1074,
     "bookable": true
   },
   "fhain-710": {
@@ -330,8 +330,8 @@
     "date": "Di., 13.7.",
     "timestamp": 1626212700000,
     "time": "21:45",
-    "available": 965,
-    "reserved": 113,
+    "available": 956,
+    "reserved": 122,
     "bookable": true
   },
   "fhain-690": {
@@ -347,8 +347,8 @@
     "date": "So., 11.7.",
     "timestamp": 1626039900000,
     "time": "21:45",
-    "available": 728,
-    "reserved": 350,
+    "available": 723,
+    "reserved": 355,
     "bookable": true
   },
   "fhain-715": {
@@ -383,8 +383,8 @@
     "date": "Fr., 16.7.",
     "timestamp": 1626471000000,
     "time": "21:30",
-    "available": 954,
-    "reserved": 124,
+    "available": 952,
+    "reserved": 126,
     "bookable": true
   },
   "fhain-667": {
@@ -524,8 +524,8 @@
     "date": "Mo., 19.7.",
     "timestamp": 1626730200000,
     "time": "21:30",
-    "available": 532,
-    "reserved": 35,
+    "available": 530,
+    "reserved": 37,
     "bookable": true
   },
   "xberg-641": {
@@ -559,8 +559,8 @@
     "date": "Fr., 16.7.",
     "timestamp": 1626471000000,
     "time": "21:30",
-    "available": 520,
-    "reserved": 47,
+    "available": 518,
+    "reserved": 49,
     "bookable": true
   },
   "xberg-648": {
@@ -648,8 +648,8 @@
     "date": "Fr., 23.7.",
     "timestamp": 1627075800000,
     "time": "21:30",
-    "available": 556,
-    "reserved": 11,
+    "available": 554,
+    "reserved": 13,
     "bookable": true
   },
   "xberg-639": {
@@ -684,8 +684,8 @@
     "date": "Do., 29.7.",
     "timestamp": 1627594200000,
     "time": "21:30",
-    "available": 560,
-    "reserved": 7,
+    "available": 0,
+    "reserved": 0,
     "bookable": true
   },
   "xberg-624": {
@@ -702,8 +702,8 @@
     "date": "So., 11.7.",
     "timestamp": 1626039000000,
     "time": "21:30",
-    "available": 347,
-    "reserved": 220,
+    "available": 341,
+    "reserved": 226,
     "bookable": true
   },
   "xberg-626": {
@@ -773,8 +773,8 @@
     "date": "Mo., 12.7.",
     "timestamp": 1626125400000,
     "time": "21:30",
-    "available": 344,
-    "reserved": 223,
+    "available": 340,
+    "reserved": 227,
     "bookable": true
   },
   "xberg-645": {
@@ -842,8 +842,8 @@
     "date": "Do., 15.7.",
     "timestamp": 1626384600000,
     "time": "21:30",
-    "available": 510,
-    "reserved": 57,
+    "available": 0,
+    "reserved": 0,
     "bookable": true
   },
   "xberg-632": {
@@ -860,8 +860,8 @@
     "date": "So., 18.7.",
     "timestamp": 1626643800000,
     "time": "21:30",
-    "available": 533,
-    "reserved": 34,
+    "available": 0,
+    "reserved": 0,
     "bookable": true
   },
   "rehberge-641": {
@@ -909,8 +909,8 @@
     "date": "Fr., 16.7.",
     "timestamp": 1626438600000,
     "time": "12:30",
-    "available": 471,
-    "reserved": 102,
+    "available": 470,
+    "reserved": 103,
     "bookable": true
   },
   "rehberge-591": {
@@ -944,8 +944,8 @@
     "date": "Di., 13.7.",
     "timestamp": 1626211800000,
     "time": "21:30",
-    "available": 362,
-    "reserved": 211,
+    "available": 356,
+    "reserved": 217,
     "bookable": true
   },
   "rehberge-623": {
@@ -1174,8 +1174,8 @@
     "date": "So., 11.7.",
     "timestamp": 1626039000000,
     "time": "21:30",
-    "available": 377,
-    "reserved": 196,
+    "available": 376,
+    "reserved": 197,
     "bookable": true
   },
   "rehberge-637": {
@@ -1210,8 +1210,8 @@
     "date": "Mi., 14.7.",
     "timestamp": 1626298200000,
     "time": "21:30",
-    "available": 453,
-    "reserved": 120,
+    "available": 451,
+    "reserved": 122,
     "bookable": true
   },
   "rehberge-638": {
@@ -1246,8 +1246,8 @@
     "date": "Do., 29.7.",
     "timestamp": 1627594200000,
     "time": "21:30",
-    "available": 568,
-    "reserved": 5,
+    "available": 566,
+    "reserved": 7,
     "bookable": true
   },
   "rehberge-626": {
@@ -1298,8 +1298,8 @@
     "date": "So., 25.7.",
     "timestamp": 1627248600000,
     "time": "21:30",
-    "available": 571,
-    "reserved": 2,
+    "available": 569,
+    "reserved": 4,
     "bookable": true
   },
   "rehberge-643": {
@@ -1510,8 +1510,8 @@
     "img": "https://media.kinoheld.de/bWgBMhcTZGShU1q7tv7OUJhaDRs=/400x560/images%2Ffilm%2Fund-morgen-die-ganze-welt-17457.v143.jpg",
     "description": "Luisa ist 20 Jahre alt, stammt aus gutem Haus, studiert Jura im ersten Semester. Und sie will, dass sich etwas verändert in Deutschland. Alarmiert vom Rechtsruck im Land und der zunehmenden Beliebtheit populistischer Parteien, tut sie sich mit ihren Freunden zusammen, um sich klar gegen die neue Rechte zu positionieren. Schnell findet sie Anschluss bei dem charismatischen Alfa und dessen besten Freund Lenor: Für die beiden ist auch der Einsatz von Gewalt ein legitimes Mittel, um Widerstand zu leisten. Bald schon überstürzen sich die Ereignisse. Und Luisa muss entscheiden, wie weit zu gehen sie bereit ist – auch wenn das fatale Konsequenzen für sie und ihre Freunde haben könnte.",
     "trailer": "https://www.youtube.com/watch?v=5jtj8DcAqz0",
-    "available": 398,
-    "reserved": 74,
+    "available": 394,
+    "reserved": 77,
     "bookable": true
   },
   "hasenheide-689599": {
@@ -1596,8 +1596,8 @@
     "img": "https://media.kinoheld.de/6fELjvqxeuQo4wIlhB_G4DAyIXM=/400x560/images%2Ffilm%2Fder-rausch-18282.v14.jpg",
     "description": "Früher war Martin Lehrer aus Leidenschaft – heute sind nicht nur die Schüler von seinem fehlenden Enthusiasmus gelangweilt, auch in Martins Ehe ist die Luft raus. Seinen drei Freunden, die am selben Gymnasium unterrichten, geht es nicht viel besser. Bei einer angeheiterten Geburtstagsrunde diskutieren sie die Theorie eines norwegischen Philosophen: Nach dieser ist ein Mensch nur mit einem erhöhten Alkoholgehalt im Blut zu Bestleistungen fähig. Solch eine gewagte These muss überprüft werden. Die vier beschließen den Selbsttest zu machen und während der Arbeit einen bestimmten Pegel zu halten. Soll nicht sogar Churchill den Zweiten Weltkrieg in einem Alkoholrausch gewonnen haben? Mit neuem Antrieb stürzen sie sich in ihre geheime wissenschaftliche Studie. Die Wirkung lässt nicht lange auf sich warten …",
     "trailer": "https://www.youtube.com/watch?v=b2z6M24yq2Y",
-    "available": 53,
-    "reserved": 182,
+    "available": 42,
+    "reserved": 186,
     "bookable": true
   },
   "hasenheide-691279": {
@@ -1650,7 +1650,7 @@
     "img": "https://media.kinoheld.de/PnAEkP5wBimLWhkdEqAVF1D935s=/400x560/images%2Ffilm%2Feine-frau-mit-berauschenden-talenten-17113.v1237.jpg",
     "description": "Patience ist selbstbewusst, unabhängig und vor allem schlagfertig. Als Dolmetscherin im Drogendezernat übersetzt sie abgehörte Telefonate der Drogenszene und ist dafür massiv unterbezahlt. Als das kostspielige Pflegeheim ihrer Mutter wegen unbezahlter Rechnungen droht, die alte Dame auszuquartieren, gerät Patience unter Handlungsdruck. Der Zufall will es, dass gerade eine Drogenlieferung auf dem Weg nach Paris ist. Patience entscheidet sich spontan gegen die Ehrlichkeit und sabotiert die Beschlagnahmung der Drogen. In Eigenregie fahndet sie nach dem hochwertigen Hasch - und wird fündig. Patience macht sich sofort fröhlich ans Werk und zeigt sich von ihrer besten Seite: als begnadete Verkäuferin mischt sie den Pariser Drogenmarkt maximal auf. Sie ist die neue Drogen-Autorität der Stadt und für die Polizei ein Phantom. Doch die Drogendiva muss sich sputen, denn ausgerechnet ihr Verehrer Philippe, Leiter des Drogendezernats, hat einen Verdacht, wer hinter dem Phantom wirklich steckt ...",
     "trailer": "https://www.youtube.com/watch?v=Nw27GQLIaiM",
-    "available": 622,
+    "available": 615,
     "reserved": 18,
     "bookable": true
   },
@@ -1665,9 +1665,9 @@
     "timestamp": 1626566400000,
     "time": "16:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691285?layout=shows",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-691314": {
     "cinemaId": "580",
@@ -2380,7 +2380,7 @@
     "img": "https://media.kinoheld.de/-dECS7O8QGHfULltY8QrE2JoGXk=/400x560/images%2Ffilm%2Fjoker-14395.v15.jpg",
     "description": "Gotham City im Jahr 1981: Der mental instabile Arthur Fleck führt wahrlich nicht das Leben, von dem man träumt: Vollgepumpt mit Medikamenten geht er seiner Arbeit als kostümierter Werbeschildträger nach und wird nicht selten das Ziel von Spott und Attacken. Abends zieht es ihn in sein heruntergekommenes Apartment, wo er sich um seine kranke Mutter kümmern muss. Gemeinsam hoffen sie auf ein besseres Leben, das Arthur als Stand-Up-Komiker realisieren will. Als plötzlich die Förderung für seine psychologische Betreuung gestrichen wird, nimmt das Unheil seinen Lauf. Die Schusswaffe eines Kollegen, die Suche nach seinem echten Vater und plötzlicher Ruhm sorgen dafür, dass der einstmals harmlose Exzentriker die ganze Stadt in Angst und Schrecken versetzt...",
     "trailer": "https://youtu.be/MKJ-nXADsVk",
-    "available": 49,
+    "available": 46,
     "reserved": 14,
     "bookable": true
   },
@@ -3684,8 +3684,8 @@
     "time": "21:45",
     "date": "So., 11.7.",
     "timestamp": 1626039900000,
-    "available": 353,
-    "reserved": 107,
+    "available": 347,
+    "reserved": 113,
     "bookable": true
   },
   "kulturforum-255": {
@@ -3702,8 +3702,8 @@
     "time": "21:30",
     "date": "Mo., 12.7.",
     "timestamp": 1626125400000,
-    "available": 389,
-    "reserved": 71,
+    "available": 387,
+    "reserved": 73,
     "bookable": true
   },
   "kulturforum-256": {
@@ -3753,8 +3753,8 @@
     "time": "21:30",
     "date": "Do., 15.7.",
     "timestamp": 1626384600000,
-    "available": 155,
-    "reserved": 305,
+    "available": 148,
+    "reserved": 312,
     "bookable": true
   },
   "kulturforum-268": {
@@ -3854,8 +3854,8 @@
     "time": "21:30",
     "date": "Mi., 21.7.",
     "timestamp": 1626903000000,
-    "available": 426,
-    "reserved": 34,
+    "available": 429,
+    "reserved": 31,
     "bookable": true
   },
   "kulturforum-267": {
@@ -3888,8 +3888,8 @@
     "time": "21:30",
     "date": "So., 11.7.",
     "timestamp": 1626039000000,
-    "available": 437,
-    "reserved": 62,
+    "available": 427,
+    "reserved": 72,
     "bookable": true
   },
   "schloss-charlottenburg-43": {
@@ -3906,8 +3906,8 @@
     "time": "21:30",
     "date": "Mo., 12.7.",
     "timestamp": 1626125400000,
-    "available": 391,
-    "reserved": 108,
+    "available": 393,
+    "reserved": 106,
     "bookable": true
   },
   "schloss-charlottenburg-44": {
@@ -3924,8 +3924,8 @@
     "time": "21:30",
     "date": "Di., 13.7.",
     "timestamp": 1626211800000,
-    "available": 436,
-    "reserved": 63,
+    "available": 434,
+    "reserved": 65,
     "bookable": true
   },
   "schloss-charlottenburg-45": {
@@ -3942,8 +3942,8 @@
     "time": "21:30",
     "date": "Mi., 14.7.",
     "timestamp": 1626298200000,
-    "available": 449,
-    "reserved": 50,
+    "available": 446,
+    "reserved": 53,
     "bookable": true
   },
   "schloss-charlottenburg-46": {
@@ -3960,8 +3960,8 @@
     "time": "21:30",
     "date": "Do., 15.7.",
     "timestamp": 1626384600000,
-    "available": 446,
-    "reserved": 53,
+    "available": 444,
+    "reserved": 55,
     "bookable": true
   },
   "schloss-charlottenburg-47": {
@@ -4066,8 +4066,8 @@
     "time": "21:30",
     "date": "Mi., 21.7.",
     "timestamp": 1626903000000,
-    "available": 474,
-    "reserved": 25,
+    "available": 471,
+    "reserved": 28,
     "bookable": true
   },
   "schloss-charlottenburg-49": {
