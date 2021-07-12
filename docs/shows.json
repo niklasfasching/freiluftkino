@@ -1642,9 +1642,9 @@
     "timestamp": 1626652800000,
     "time": "16:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691284?layout=shows",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-691315": {
     "cinemaId": "580",
@@ -1692,9 +1692,9 @@
     "img": "https://media.kinoheld.de/EhXAVaY_zOG7BqOdCiEN8DaAyCo=/400x560/images%2Ffilm%2F4%2Falfons-zitterbacke-das-chaos-ist-zurueck-12645.v14.jpg",
     "description": "Der 10jährige Alfons Zitterbacke leidet nicht nur unter seinem Nachnamen, sondern vor allem an der Tatsache, dass ihn das Pech stets verfolgt. Sein Freund Benni ist ihm zwar ein treuer Begleiter, aber von seinen Mitschülern, Lehrern und seinen Eltern - besonders von seinem Vater - fühlt er sich weder ernst genommen noch fair behandelt - zu schrullig scheint er zu sein, vor allem, weil er unbeirrbar daran glaubt, eines Tages ein berühmter Astronaut werden zu können. Bei einem Fluggeräte-Wettbewerb will Alfons der ganzen Welt beweisen, dass er kein Pechvogel, sondern ein kluger angehender Erfinder und Wissenschaftler ist. Mit Hilfe von Benni und seiner neuen Klassenkameradin Emilia bereitet er sich präzise vor und baut unermüdlich an der ultimativen Rakete, die alle anderen Flugmodelle seiner Klassenkameraden in den Schatten stellen soll! Und Alfons wäre nicht Alfons, wenn sein innovativer Knaller nicht wortwörtlich den Wettbewerb sprengen würde... \"Alfons Zitterbacke\" ist eine temporeiche, freche und liebevolle Komödie über Freundschaft, den Weltraum, Väter und Söhne und die besten Anleitungen zum Raketenbauen. (Quelle: Verleih)",
     "trailer": "https://www.youtube.com/watch?v=3YdLRdQDqTs",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-691317": {
     "cinemaId": "580",
@@ -1742,9 +1742,9 @@
     "timestamp": 1626825600000,
     "time": "16:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691287?layout=shows",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-691316": {
     "cinemaId": "580",
@@ -1900,9 +1900,9 @@
     "img": "https://media.kinoheld.de/WNTTBAAcsvd3_Bt2HpAxOhRhU5o=/400x560/images%2Ffilm%2Fcruella-18919.v20.jpg",
     "description": "London in den 1970er Jahren: Die junge Estella (Emma Stone) ist eine talentierte Designerin und träumt von einer großen Karriere als Modeschöpferin. Doch da sie verwaist und mittellos aufgewachsen ist, scheint ihr der Weg in höhere Kreise verschlossen. Mit ihren zwei Kumpels, den Amateur-Dieben Horace (Paul Walter Hauser) und Jasper (Joel Fry), streift sie durch London und begeht hier und da kleine Verbrechen – und wann immer sich die Möglichkeit ergibt, wenigstens kurz in den von ihr ersehnten Luxus der Schönen und Reichen einzutauchen, greift sie schamlos zu. Dann aber bietet sich ihr endlich eine einzigartige Gelegenheit, um der Gosse zu entkommen: Ein aufstrebender Rockstar entdeckt ihr Talent und beauftragt Estella damit, ihm ein einzigartiges Outfit zu entwerfen. Auf der Suche nach dem perfekten Material muss sich Estella, die ein Faible für Hundefell hat, fragen, was sie für ihren Erfolg zu opfern bereit ist.",
     "trailer": "https://www.youtube.com/watch?v=KIRKfx5Cbec",
-    "available": 0,
-    "reserved": 0,
-    "bookable": false
+    "available": 622,
+    "reserved": 12,
+    "bookable": true
   },
   "hasenheide-691331": {
     "cinemaId": "580",
