@@ -775,8 +775,8 @@
       "date": "Do., 15.7.",
       "timestamp": 1626384600000,
       "time": "21:30",
-      "available": 0,
-      "reserved": 0,
+      "available": 496,
+      "reserved": 71,
       "bookable": true
     },
     {
@@ -793,8 +793,8 @@
       "date": "So., 18.7.",
       "timestamp": 1626643800000,
       "time": "21:30",
-      "available": 0,
-      "reserved": 0,
+      "available": 522,
+      "reserved": 45,
       "bookable": true
     }
   ],
@@ -1803,7 +1803,7 @@
       "description": "Nach dem wirtschaftlichen Zusammenbruch einer Stadt im ländlichen Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren weißen Van und macht sich auf den Weg, um als moderne Nomadin im Westen der USA ein Leben außerhalb der konventionellen Gesellschaft zu erkunden.",
       "trailer": "https://www.youtube.com/watch?v=iEcIDpnv3qQ",
       "available": 0,
-      "reserved": 0,
+      "reserved": 204,
       "bookable": false
     },
     {
@@ -2139,9 +2139,9 @@
       "timestamp": 1628121600000,
       "time": "19:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691312?layout=shows",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     }
   ],
   "freiluftkino-insel-im-cassiopeia": [],
@@ -3802,8 +3802,8 @@
       "time": "21:30",
       "date": "Di., 13.7.",
       "timestamp": 1626211800000,
-      "available": 384,
-      "reserved": 76,
+      "available": 383,
+      "reserved": 77,
       "bookable": true
     },
     {
@@ -4053,8 +4053,8 @@
       "time": "21:30",
       "date": "Di., 13.7.",
       "timestamp": 1626211800000,
-      "available": 384,
-      "reserved": 76,
+      "available": 383,
+      "reserved": 77,
       "bookable": true
     },
     {
