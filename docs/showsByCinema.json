@@ -86,8 +86,8 @@
       "date": "Mi., 14.7.",
       "timestamp": 1626299100000,
       "time": "21:45",
-      "available": 941,
-      "reserved": 137,
+      "available": 943,
+      "reserved": 135,
       "bookable": true
     },
     {
@@ -121,8 +121,8 @@
       "date": "Sa., 17.7.",
       "timestamp": 1626557400000,
       "time": "21:30",
-      "available": 963,
-      "reserved": 115,
+      "available": 961,
+      "reserved": 117,
       "bookable": true
     },
     {
@@ -313,8 +313,8 @@
       "date": "Di., 13.7.",
       "timestamp": 1626212700000,
       "time": "21:45",
-      "available": 832,
-      "reserved": 246,
+      "available": 828,
+      "reserved": 250,
       "bookable": true
     },
     {
@@ -861,8 +861,8 @@
       "date": "Sa., 17.7.",
       "timestamp": 1626525000000,
       "time": "12:30",
-      "available": 429,
-      "reserved": 144,
+      "available": 428,
+      "reserved": 145,
       "bookable": true
     },
     {
@@ -879,8 +879,8 @@
       "date": "Di., 13.7.",
       "timestamp": 1626211800000,
       "time": "21:30",
-      "available": 247,
-      "reserved": 326,
+      "available": 245,
+      "reserved": 328,
       "bookable": true
     },
     {
@@ -1377,7 +1377,7 @@
       "img": "https://media.kinoheld.de/bWgBMhcTZGShU1q7tv7OUJhaDRs=/400x560/images%2Ffilm%2Fund-morgen-die-ganze-welt-17457.v143.jpg",
       "description": "Luisa ist 20 Jahre alt, stammt aus gutem Haus, studiert Jura im ersten Semester. Und sie will, dass sich etwas verändert in Deutschland. Alarmiert vom Rechtsruck im Land und der zunehmenden Beliebtheit populistischer Parteien, tut sie sich mit ihren Freunden zusammen, um sich klar gegen die neue Rechte zu positionieren. Schnell findet sie Anschluss bei dem charismatischen Alfa und dessen besten Freund Lenor: Für die beiden ist auch der Einsatz von Gewalt ein legitimes Mittel, um Widerstand zu leisten. Bald schon überstürzen sich die Ereignisse. Und Luisa muss entscheiden, wie weit zu gehen sie bereit ist – auch wenn das fatale Konsequenzen für sie und ihre Freunde haben könnte.",
       "trailer": "https://www.youtube.com/watch?v=5jtj8DcAqz0",
-      "available": 123,
+      "available": 115,
       "reserved": 159,
       "bookable": true
     },
@@ -1413,8 +1413,8 @@
       "img": "https://media.kinoheld.de/FsNKn9KVQQJ1JOoT5CdMA2H0bfI=/400x560/images%2Ffilm%2F4%2Fder-himmel-ueber-berlin-9307.v21.jpg",
       "description": "Damiel ist ein Engel. Und gemeinsam mit seinem himmlischen Kollegen Cassiel wandert er durch das geteilte Berlin und wacht über die Menschen. Doch als Engel bleibt Damiel der menschlichen Welt verborgen. Er kann sie nur beobachten und ihren Gedanken lauschen, mitfühlen und miterleben kann er ihre Empfindungen nicht. Als er sich eines Tages in die zauberhafte Trapezkünstlerin Marion verliebt, beschließt er, selbst ein Mensch zu werden. Doch dafür muss er ein großes Opfer bringen: seine Unsterblichkeit. (j.b.)",
       "trailer": "https://www.youtube.com/watch?v=_Zih4o6NLCc",
-      "available": 488,
-      "reserved": 48,
+      "available": 475,
+      "reserved": 52,
       "bookable": true
     },
     {
@@ -1696,9 +1696,9 @@
       "timestamp": 1626825600000,
       "time": "18:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691316?layout=shows",
-      "available": -1,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -3804,8 +3804,8 @@
       "time": "21:30",
       "date": "Di., 13.7.",
       "timestamp": 1626211800000,
-      "available": 379,
-      "reserved": 81,
+      "available": 375,
+      "reserved": 85,
       "bookable": true
     },
     {
@@ -3837,9 +3837,9 @@
       "time": "21:30",
       "date": "Do., 15.7.",
       "timestamp": 1626384600000,
-      "available": 7,
-      "reserved": 453,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "cinemaId": "54eefd0b683138488b190000",
@@ -3852,8 +3852,8 @@
       "time": "21:30",
       "date": "Fr., 16.7.",
       "timestamp": 1626471000000,
-      "available": 406,
-      "reserved": 54,
+      "available": 404,
+      "reserved": 56,
       "bookable": true
     },
     {
@@ -3870,8 +3870,8 @@
       "time": "21:30",
       "date": "Sa., 17.7.",
       "timestamp": 1626557400000,
-      "available": 391,
-      "reserved": 69,
+      "available": 389,
+      "reserved": 71,
       "bookable": true
     },
     {
@@ -4007,8 +4007,8 @@
       "time": "21:30",
       "date": "Sa., 17.7.",
       "timestamp": 1626557400000,
-      "available": 391,
-      "reserved": 69,
+      "available": 389,
+      "reserved": 71,
       "bookable": true
     },
     {
@@ -4022,9 +4022,9 @@
       "time": "21:30",
       "date": "Do., 15.7.",
       "timestamp": 1626384600000,
-      "available": 7,
-      "reserved": 453,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "cinemaId": "54eefd0b683138488b190000",
@@ -4037,8 +4037,8 @@
       "time": "21:30",
       "date": "Fr., 16.7.",
       "timestamp": 1626471000000,
-      "available": 406,
-      "reserved": 54,
+      "available": 404,
+      "reserved": 56,
       "bookable": true
     },
     {
@@ -4055,8 +4055,8 @@
       "time": "21:30",
       "date": "Di., 13.7.",
       "timestamp": 1626211800000,
-      "available": 379,
-      "reserved": 81,
+      "available": 375,
+      "reserved": 85,
       "bookable": true
     },
     {
@@ -4144,8 +4144,8 @@
       "time": "21:30",
       "date": "Di., 13.7.",
       "timestamp": 1626211800000,
-      "available": 379,
-      "reserved": 120,
+      "available": 374,
+      "reserved": 125,
       "bookable": true
     },
     {
@@ -4393,8 +4393,8 @@
       "time": "21:30",
       "date": "Di., 13.7.",
       "timestamp": 1626211800000,
-      "available": 379,
-      "reserved": 120,
+      "available": 374,
+      "reserved": 125,
       "bookable": true
     },
     {
