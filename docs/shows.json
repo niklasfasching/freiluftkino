@@ -667,8 +667,8 @@
     "date": "Di., 13.7.",
     "timestamp": 1626211800000,
     "time": "21:30",
-    "available": 450,
-    "reserved": 117,
+    "available": 452,
+    "reserved": 115,
     "bookable": true
   },
   "xberg-634": {
@@ -772,8 +772,8 @@
     "date": "Do., 15.7.",
     "timestamp": 1626384600000,
     "time": "21:30",
-    "available": 496,
-    "reserved": 71,
+    "available": 0,
+    "reserved": 0,
     "bookable": true
   },
   "xberg-632": {
@@ -790,8 +790,8 @@
     "date": "So., 18.7.",
     "timestamp": 1626643800000,
     "time": "21:30",
-    "available": 522,
-    "reserved": 45,
+    "available": 0,
+    "reserved": 0,
     "bookable": true
   },
   "rehberge-641": {
@@ -1794,7 +1794,7 @@
     "description": "Nach dem wirtschaftlichen Zusammenbruch einer Stadt im ländlichen Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren weißen Van und macht sich auf den Weg, um als moderne Nomadin im Westen der USA ein Leben außerhalb der konventionellen Gesellschaft zu erkunden.",
     "trailer": "https://www.youtube.com/watch?v=iEcIDpnv3qQ",
     "available": 0,
-    "reserved": 204,
+    "reserved": 0,
     "bookable": false
   },
   "hasenheide-691333": {
@@ -2130,9 +2130,9 @@
     "timestamp": 1628121600000,
     "time": "19:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691312?layout=shows",
-    "available": -1,
+    "available": 0,
     "reserved": 0,
-    "bookable": true
+    "bookable": false
   },
   "nomadenkino-2383800983": {
     "cinemaId": "1621",
@@ -2492,9 +2492,8 @@
     "timestamp": 1626739200000,
     "time": "21:30",
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2394921531?layout=shows",
-    "img": "https://media.kinoheld.de/BVSOhCc4czDBpW3JWKzQdQqQU2M=/400x560/images%2Ffilm%2Fkokon-17135.v7.png",
-    "description": "Mitten am Kottbusser Tor in Berlin Kreuzberg wächst Nora (Lena Urzendowsky) auf. Hier im turbulenten Herzen Berlins ist sie stets umgeben von Menschen, deren Lebensläufe nicht immer den geraden Weg gehen und aus den unterschiedlichsten Kulturkreisen der Welt stammen. Nun, wo Nora langsam erwachsen wird, sich ihr Körper verändert, fühlt sie sich in der Welt mehr und mehr verloren und weiß nicht, wie es weitergehen soll. Bei ihrer Schwester Jule (Lena Klenke) und deren bester Freundin Aylin (Elina Vildanova) sieht das Leben etwas anders aus. Für die jungen Frauen dreht sich alles nur um Styling, Mode und die Präsentation dessen in den sozialen Medien. Anfangs scheint sie sich dem Druck, für andere schön zu sein, ebenfalls hinzugeben, als jedoch Romy (Jella Haase) auftaucht, bringt diese ihr bei, zu sich und ihrem Körper zu stehen.",
-    "trailer": "https://www.youtube.com/watch?v=31_ZH8_4nVs",
+    "img": "https://media.kinoheld.de/A74SN7Qifrefn19rmOlr6S_6s1A=/400x560/images%2Ffilm%2Fkokon-17137.v49.jpg",
+    "description": "Als ein Paar auf einen gemeinsamen Ausflug geht, um einander nochmal näher zu kommen, treffen sie auf einen Künstler und sein zwielichtiges Gefolge, die die beiden terrorisieren und demütigen.",
     "available": 70,
     "reserved": 0,
     "bookable": true
@@ -3680,8 +3679,8 @@
     "timestamp": 1627257600000,
     "time": "21:30",
     "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2391540390?layout=shows",
-    "available": 68,
-    "reserved": 40,
+    "available": 66,
+    "reserved": 42,
     "bookable": true
   },
   "mobile kino-2386736877": {
@@ -3827,8 +3826,8 @@
     "time": "21:30",
     "date": "Fr., 16.7.",
     "timestamp": 1626471000000,
-    "available": 409,
-    "reserved": 51,
+    "available": 407,
+    "reserved": 53,
     "bookable": true
   },
   "kulturforum-262": {
@@ -3930,8 +3929,8 @@
     "time": "21:30",
     "date": "Do., 22.7.",
     "timestamp": 1626989400000,
-    "available": 395,
-    "reserved": 65,
+    "available": 396,
+    "reserved": 64,
     "bookable": true
   },
   "schloss-charlottenburg-44": {
@@ -3948,8 +3947,8 @@
     "time": "21:30",
     "date": "Di., 13.7.",
     "timestamp": 1626211800000,
-    "available": 380,
-    "reserved": 119,
+    "available": 379,
+    "reserved": 120,
     "bookable": true
   },
   "schloss-charlottenburg-45": {
