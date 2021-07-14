@@ -1073,8 +1073,8 @@
       "date": "Mi., 14.7.",
       "timestamp": 1626298200000,
       "time": "21:30",
-      "available": 353,
-      "reserved": 220,
+      "available": 351,
+      "reserved": 222,
       "bookable": true
     },
     {
@@ -1608,9 +1608,9 @@
       "timestamp": 1626825600000,
       "time": "16:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691287?layout=shows",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -1659,9 +1659,9 @@
       "img": "https://media.kinoheld.de/aeplxI5NP6wmy4XKeFur6LcxOX4=/400x560/images%2Ffilm%2Fzu-weit-weg-14763.v2.jpg",
       "description": "Da sein Heimatdorf einem Braunkohletagebau weichen soll, müssen Ben (12) und seine Familie in die nächstgrößere Stadt umziehen. In der neuen Schule ist er erst mal der Außenseiter. Und auch im neuen Fußballverein laufen die Dinge für den talentierten Stürmer nicht wie erhofft. Zu allem Überfluss gibt es noch einen weiteren Neuankömmling an der Schule: Tariq (11), Flüchtling aus Syrien, der ihm nicht nur in der Klasse die Show stehlt, sondern auch noch auf dem Fußballplatz punktet. Wird Ben im Abseits bleiben – oder hat sein Konkurrent doch mehr mit ihm gemeinsam als er denkt?",
       "trailer": "https://www.youtube.com/watch?v=lmELdP6RiMk",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -1712,9 +1712,9 @@
       "img": "https://media.kinoheld.de/KMQ6aS7JZ_xMGCdRDuCjQWFOk4g=/400x560/images%2Ffilm%2Fonward-16205.v766.jpg",
       "description": "Zauber und Magie? Diese Zeiten sind lange vorbei. In New Mushroomton leben Elfen, Zwerge, Riesen, hyperaktive Hausdrachen oder streunende Einhörner heute ganz modern mit all dem technischen Schnick-Schnack unserer Zeit. Die beiden Elfenbrüder Ian und Barley sind also etwas überfordert als sie einen uralten Zauberstab ihres verstorbenen Vaters geschenkt bekommen, der das Unmögliche möglich machen soll: ein Wiedersehen! Leider klappt das dann auch nur so halb und geht über die Hose nicht hinaus. Um auch die bessere Hälfte wiederherzustellen, geht es auf einen wahnwitzigen, rasanten Trip voller versteckter Hinweise, scheinbar unlösbarer Aufgaben und witziger Wendungen. Was für ein Abenteuer!",
       "trailer": "https://www.youtube.com/watch?v=b_DWYvZ4e08",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -1730,9 +1730,9 @@
       "img": "https://media.kinoheld.de/RZ4oo-DUsYCMMBSXzc7J4BulfXo=/400x560/images%2Ffilm%2F4%2Fthe-rider-9780.v6.jpg",
       "description": "Die Pferde waren das Wichtigste im Leben des jungen Cowboys und Sioux-Nachkommen Brady Blackburn. Doch nachdem er bei einem Rodeo verunglückte und fast gestorben wäre, wird er nie wieder reiten können. Blackburn hat alles, was ihm je etwas bedeutet hat, verloren: Das Freiheitsgefühl beim Reiten, die Bewunderung seiner Fans und auch die Achtung seines Vaters. Am schwersten aber wiegt, wie minderwertig er sich seitdem fühlt. (vf)",
       "trailer": "https://www.youtube.com/watch?v=u75sYnQksLY",
-      "available": 0,
+      "available": 79,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -1801,9 +1801,9 @@
       "img": "https://media.kinoheld.de/WNTTBAAcsvd3_Bt2HpAxOhRhU5o=/400x560/images%2Ffilm%2Fcruella-18919.v20.jpg",
       "description": "London in den 1970er Jahren: Die junge Estella (Emma Stone) ist eine talentierte Designerin und träumt von einer großen Karriere als Modeschöpferin. Doch da sie verwaist und mittellos aufgewachsen ist, scheint ihr der Weg in höhere Kreise verschlossen. Mit ihren zwei Kumpels, den Amateur-Dieben Horace (Paul Walter Hauser) und Jasper (Joel Fry), streift sie durch London und begeht hier und da kleine Verbrechen – und wann immer sich die Möglichkeit ergibt, wenigstens kurz in den von ihr ersehnten Luxus der Schönen und Reichen einzutauchen, greift sie schamlos zu. Dann aber bietet sich ihr endlich eine einzigartige Gelegenheit, um der Gosse zu entkommen: Ein aufstrebender Rockstar entdeckt ihr Talent und beauftragt Estella damit, ihm ein einzigartiges Outfit zu entwerfen. Auf der Suche nach dem perfekten Material muss sich Estella, die ein Faible für Hundefell hat, fragen, was sie für ihren Erfolg zu opfern bereit ist.",
       "trailer": "https://www.youtube.com/watch?v=KIRKfx5Cbec",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 614,
+      "reserved": 14,
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -1869,9 +1869,9 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691237?layout=shows",
       "img": "https://media.kinoheld.de/DVQcxtUYNoxr36fQFLasSd8kr_E=/400x560/images%2Ffilm%2Falles-ist-eins-ausser-der-0-19150.v1.jpg",
       "description": "ALLES IST EINS. AUSSER DER 0. erzählt eine Geschichte digitaler Subversion: vom exklusiven Club zu einer Instanz, die heute bei allen Fragen der Netzpolitik zu Rate gezogen wird. Der Dokumentarfilm von Klaus Maeck und Tanja Schwerdorf setzt der bekanntesten deutschen Hackervereinigung ein stilsicheres, kraftvolles und würdiges Denkmal. Selten hat man ein so eindringliches Porträt über Zeitgeist-Pioniere gesehen, deren Weitblick für die Gegenwart so beeindruckend wie bereichernd ist.",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 608,
+      "reserved": 16,
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -2006,9 +2006,9 @@
       "timestamp": 1627689600000,
       "time": "18:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691288?layout=shows",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -2024,9 +2024,9 @@
       "img": "https://media.kinoheld.de/FJ3wSVbmMxhboSMd_EWxUhYuFCI=/400x560/images%2Ffilm%2F4%2Fheidi-2223.v2.jpg",
       "description": "Das Waisenkind Heidi soll bei ihrem bärbeißigen Großvater in den Bergen leben. Obwohl dieser Plan zunächst von dem alten Mann als Unfug angesehen wird, schließt er das kleine lebensfrohe Geschöpf schnell in sein Herz und auch Heidi fühlt sich bei ihrem Almöhi mehr als wohl. Sie liebt die Natur mit ihren Pflanzen und Tieren und das Herumtollen mit den Ziegen und Peter. Doch dann wird Heidi wieder abgeholt. Sie soll in der Stadt der gelähmten Klara Gesellschaft leisten. Dort wird sie indes mit jedem Tag unglücklicher... (v.f.)",
       "trailer": "https://www.youtube.com/watch?v=QQA8dczTSEA",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -2054,9 +2054,9 @@
       "timestamp": 1627862400000,
       "time": "18:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691289?layout=shows",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -2069,9 +2069,9 @@
       "timestamp": 1627948800000,
       "time": "16:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691728?layout=shows",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -2087,9 +2087,9 @@
       "img": "https://media.kinoheld.de/WZGDOgvrj-rLVijqmTMGNet7Tj0=/400x560/images%2Ffilm%2F4%2Frettet-raffi-2125.v1.jpg",
       "description": "Der achtjährige Sammy ist am Boden zerstört: Erst wird sein Goldhamster Raffi, den er von seinem Vater - kurz bevor der die Familie nach einem Streit verlassen hat, um in Afghanistan zu arbeiten - schwer krank und kurz darauf entführt. Und das direkt nach der Operation, die Raffi das Leben gerettet hat! Weil Sammy um keinen Preis der Welt seinen geliebten Freund aufgeben will, macht sich der Junge auf eine lange, nicht ungefährliche Reise, die ihn zunächst zu dem Gangster Rocky, dann an den Hamburger Hafen und schließlich doch noch glücklich zu Raffi führt. (v.f.)",
       "trailer": "https://www.youtube.com/watch?v=kwtD7SNydFE",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -2381,7 +2381,7 @@
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2394835154?layout=shows",
       "img": "https://media.kinoheld.de/SW9yYj5664XaZfh1rUXniSIBO8I=/400x560/images%2Ffilm%2Fnew-order-die-neue-weltordnung-19296.v1.jpg",
-      "description": "In the near future, a popular uprising in Mexico City interrupts a wedding held at the home of a wealthy family. After the riots have been quashed, they discover the bride has gone missing and plea with the military to help locate her.",
+      "description": "Eine verschwenderische Hochzeit der Oberschicht gerät während eines unerwarteten Aufstands des Klassenkampfes aus den Fugen, der in einen gewaltsamen Staatsstreich mündet. Aus der Sicht der sympathischen jungen Braut und der Diener, die für und gegen ihre reiche Familie arbeiten, zeichnet der Film den Zusammenbruch eines politischen Systems nach, während in seinem Gefolge ein noch erschreckenderer Ersatz entsteht.",
       "trailer": "https://www.youtube.com/watch?v=4-XZCNRbOlw",
       "available": -1,
       "reserved": 0,
@@ -2454,8 +2454,9 @@
       "timestamp": 1626739200000,
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2394921531?layout=shows",
-      "img": "https://media.kinoheld.de/A74SN7Qifrefn19rmOlr6S_6s1A=/400x560/images%2Ffilm%2Fkokon-17137.v49.jpg",
-      "description": "Als ein Paar auf einen gemeinsamen Ausflug geht, um einander nochmal näher zu kommen, treffen sie auf einen Künstler und sein zwielichtiges Gefolge, die die beiden terrorisieren und demütigen.",
+      "img": "https://media.kinoheld.de/BVSOhCc4czDBpW3JWKzQdQqQU2M=/400x560/images%2Ffilm%2Fkokon-17135.v7.png",
+      "description": "Mitten am Kottbusser Tor in Berlin Kreuzberg wächst Nora (Lena Urzendowsky) auf. Hier im turbulenten Herzen Berlins ist sie stets umgeben von Menschen, deren Lebensläufe nicht immer den geraden Weg gehen und aus den unterschiedlichsten Kulturkreisen der Welt stammen. Nun, wo Nora langsam erwachsen wird, sich ihr Körper verändert, fühlt sie sich in der Welt mehr und mehr verloren und weiß nicht, wie es weitergehen soll. Bei ihrer Schwester Jule (Lena Klenke) und deren bester Freundin Aylin (Elina Vildanova) sieht das Leben etwas anders aus. Für die jungen Frauen dreht sich alles nur um Styling, Mode und die Präsentation dessen in den sozialen Medien. Anfangs scheint sie sich dem Druck, für andere schön zu sein, ebenfalls hinzugeben, als jedoch Romy (Jella Haase) auftaucht, bringt diese ihr bei, zu sich und ihrem Körper zu stehen.",
+      "trailer": "https://www.youtube.com/watch?v=31_ZH8_4nVs",
       "available": 70,
       "reserved": 0,
       "bookable": true
