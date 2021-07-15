@@ -1543,9 +1543,9 @@
     "timestamp": 1626825600000,
     "time": "18:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691316?layout=shows",
-    "available": -1,
+    "available": 0,
     "reserved": 0,
-    "bookable": true
+    "bookable": false
   },
   "hasenheide-691226": {
     "cinemaId": "580",
@@ -1860,9 +1860,9 @@
     "img": "https://media.kinoheld.de/-dECS7O8QGHfULltY8QrE2JoGXk=/400x560/images%2Ffilm%2Fjoker-14395.v15.jpg",
     "description": "Gotham City im Jahr 1981: Der mental instabile Arthur Fleck führt wahrlich nicht das Leben, von dem man träumt: Vollgepumpt mit Medikamenten geht er seiner Arbeit als kostümierter Werbeschildträger nach und wird nicht selten das Ziel von Spott und Attacken. Abends zieht es ihn in sein heruntergekommenes Apartment, wo er sich um seine kranke Mutter kümmern muss. Gemeinsam hoffen sie auf ein besseres Leben, das Arthur als Stand-Up-Komiker realisieren will. Als plötzlich die Förderung für seine psychologische Betreuung gestrichen wird, nimmt das Unheil seinen Lauf. Die Schusswaffe eines Kollegen, die Suche nach seinem echten Vater und plötzlicher Ruhm sorgen dafür, dass der einstmals harmlose Exzentriker die ganze Stadt in Angst und Schrecken versetzt...",
     "trailer": "https://www.youtube.com/watch?v=ZWHQqgvBhGA",
-    "available": 656,
-    "reserved": 5,
-    "bookable": true
+    "available": 0,
+    "reserved": 0,
+    "bookable": false
   },
   "hasenheide-691723": {
     "cinemaId": "580",
@@ -1959,9 +1959,9 @@
     "timestamp": 1627862400000,
     "time": "16:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691727?layout=shows",
-    "available": -1,
+    "available": 0,
     "reserved": 0,
-    "bookable": true
+    "bookable": false
   },
   "hasenheide-691289": {
     "cinemaId": "580",
@@ -3766,8 +3766,8 @@
     "time": "21:30",
     "date": "Sa., 17.7.",
     "timestamp": 1626557400000,
-    "available": 344,
-    "reserved": 116,
+    "available": 342,
+    "reserved": 118,
     "bookable": true
   },
   "kulturforum-263": {
