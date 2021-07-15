@@ -542,8 +542,8 @@
     "date": "Sa., 17.7.",
     "timestamp": 1626557400000,
     "time": "21:30",
-    "available": 516,
-    "reserved": 51,
+    "available": 518,
+    "reserved": 49,
     "bookable": true
   },
   "xberg-647": {
@@ -1182,7 +1182,7 @@
     "cinemaName": "filmrauschpalast",
     "cinemaShortName": "filmrauschpalast",
     "id": "filmrauschpalast-2389917881",
-    "title": "OPEN AIR: MATANGI / MAYA / M.I.A. (subtitled OV German)",
+    "title": "OPEN AIR: MATANGI / MAYA / M.I.A. (OmdU)",
     "date": "Fr., 16.7.",
     "timestamp": 1626393600000,
     "time": "22:00",
@@ -1200,7 +1200,7 @@
     "cinemaName": "filmrauschpalast",
     "cinemaShortName": "filmrauschpalast",
     "id": "filmrauschpalast-2389917887",
-    "title": "OPEN AIR: STUDIO 54 - THE DOCUMENTARY (subtitled OV German)",
+    "title": "OPEN AIR: STUDIO 54 - THE DOCUMENTARY (OmdU)",
     "date": "Sa., 17.7.",
     "timestamp": 1626480000000,
     "time": "22:00",
@@ -1218,7 +1218,7 @@
     "cinemaName": "filmrauschpalast",
     "cinemaShortName": "filmrauschpalast",
     "id": "filmrauschpalast-2389921688",
-    "title": "OPEN AIR: LA PISCINE (subtitled OV German)",
+    "title": "OPEN AIR: LA PISCINE (OmdU)",
     "date": "Fr., 23.7.",
     "timestamp": 1626998400000,
     "time": "22:00",
@@ -1235,7 +1235,7 @@
     "cinemaName": "filmrauschpalast",
     "cinemaShortName": "filmrauschpalast",
     "id": "filmrauschpalast-2389921681",
-    "title": "OPEN AIR: PETROLEUM-MIEZEN (subtitled OV German)",
+    "title": "OPEN AIR: PETROLEUM-MIEZEN (OmdU)",
     "date": "Sa., 24.7.",
     "timestamp": 1627084800000,
     "time": "22:00",
@@ -1896,9 +1896,9 @@
     "img": "https://media.kinoheld.de/gmbXUECjFkZFUAaGrtctv0b5EeQ=/400x560/images%2Ffilm%2Fder-kleine-rabe-socke-suche-nach-dem-verlorenen-schatz-13641.v187.jpg",
     "description": "Der kleine Rabe Socke ist von Frau Dachs zum Dachbodenaufräumen verdonnert worden, nachdem ihm mal wieder ein Malheur passiert ist und er ganz aus Versehen das alljährliche Waldfest ruiniert hat. Während er noch über die Ungerechtigkeit mault, macht er eine Riesenentdeckung: In einem geheimen Zimmer findet er eine waschechte Schatzkarte! Gezeichnet hat sie Opa Dachs, bevor er spurlos verschwunden ist. Um den verschollenen Schatz rankt sich eine geheimnisvolle Legende: Wer es schafft, bis zu ihm vorzudringen und alle Gefahren und Rätsel auf dem Weg besteht, der wird König des Waldes! Und König wollte Socke immer schon sein. Dann wären die anderen auch nicht mehr sauer auf ihn, glaubt er. Zusammen mit seinem besten Freund Eddi-Bär bricht Socke auf zum großen Schatzsucher-Abenteuer. Dabei heftet sich der Kleine Dachs, der endlich einmal beweisen will, dass viel mehr in ihm steckt als die anderen ahnen, an ihre Fersen. Auch Bibermädchen Fritzi gesellt sich zu dem Entdecker-Trupp, der die Freunde über Schluchten und Hängebrücken hoch hinauf auf den majestätischen Nebelberg und schließlich tief hinein in eine geheimnisvolle Höhle führt. Ihnen dicht auf den Fersen sind die Biberjungs Henry und Arthur, die ebenfalls Wind von der Sache bekommen haben und kurzerhand den Kleinen Dachs entführen, um den Freunden die Schatzkarte und damit den Schatz abzujagen. Socke muss sich entscheiden: Soll er seinen Freund retten oder den Schatz als erster finden und König werden? Während er noch grübelt, machen die Freunde eine aufregende Entdeckung, die das Leben der Waldbewohner gehörig durcheinander wirbelt... (Quelle: Verleih)",
     "trailer": "https://www.youtube.com/watch?v=_H9DJgT4c2w",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-691725": {
     "cinemaId": "580",
@@ -2052,9 +2052,9 @@
     "timestamp": 1629936000000,
     "time": "17:00",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691769?layout=shows",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-691770": {
     "cinemaId": "580",
@@ -2127,8 +2127,8 @@
     "timestamp": 1626739200000,
     "time": "21:30",
     "url": "https://www.kinoheld.de/cinema-berlin/nomadenkino-berlin/show/2404011673?layout=shows",
-    "img": "https://media.kinoheld.de/_bhstJhp4fwk5JjSFCbLFUCErb0=/400x560/images%2Ffilm%2Fcourage-19043.v2.png",
-    "description": "In seinem Dokumentarfilm begleitet Aliaksei Paluyan die Freunde Maryna, Pavel und Denis, die Mitglieder einer Untergrund-Theatergruppe in Minsk sind. Als es 2020 im Zuge der Präsidentschaftswahlen in Belarus zu friedlichen Massenprotesten kommt, nimmt die Gruppe gemeinsam mit vielen anderen Menschen daran teil. Dabei entkommen sie nur knapp einer Verhaftung. Trotzdem lassen sie sich nicht beirren und hoffen weiter auf Meinungsfreiheit und Demokratie in ihrem Land.",
+    "img": "https://media.kinoheld.de/zxpoY5FD9OdzMKrD-GCo_eLuBjA=/400x560/images%2Ffilm%2Fcourage-19033.v5.jpg",
+    "description": "Vor 15 Jahren schon haben Maryna, Pavel und Denis die engen Toleranzgrenzen des autoritären Regimes nicht länger hingenommen: Sie verließen das Staatstheater Minsk, um für das neu gegründete Belarus Free Theatre zu spielen. Zivilcourage als Gebot der Moral. Die Proben laufen heimlich, der Regisseur wird per Skype aus dem Exil zugeschaltet, die Mittel sind knapp, die Themen brisant. Das aktuelle Stück handelt (wie das Leben zwischen Alltag und Untergrund) von verschwundenen Oppositionspolitiker*innen und dem Verlust jeglicher Existenzgrundlage. Von Wahrheit. Wer sie ausspricht, nimmt Repressionen und sogar den Tod in Kauf. Denis hat sich deshalb bewusst für den „Verrat an der Kunst“ entschieden, wie er sagt, und sich zurückgezogen, um seine Familie zu schützen. Doch auch wer „nur“ zuschaut, setzt mittlerweile alles aufs Spiel. Denn Hinsehen heißt Wissen. Seit den Präsidentschaftswahlen im August 2020 sind es Hunderttausende, die nicht mehr wegschauen. Die „laut schweigend“, gewaltfrei für einen friedlichen Machtwechsel in Belarus protestieren. Von diesem Sog, die drei mittendrin, handelt Courage. Ein Film, der schmerzhaft anzusehen ist, gerade weil er mit Ruhe und äußerster Geduld den fragilen Handlungsspielraum der Massenprotestbewegung vermisst. Und der nachvollziehbar macht, warum dieser Widerstand für so viele selbstverständlich geworden ist. Wer hier als Mensch leben – und überleben – will, braucht Mut.",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2144,8 +2144,8 @@
     "timestamp": 1626825600000,
     "time": "21:30",
     "url": "https://www.kinoheld.de/cinema-berlin/nomadenkino-berlin/show/2404011682?layout=shows",
-    "img": "https://media.kinoheld.de/_bhstJhp4fwk5JjSFCbLFUCErb0=/400x560/images%2Ffilm%2Fcourage-19043.v2.png",
-    "description": "In seinem Dokumentarfilm begleitet Aliaksei Paluyan die Freunde Maryna, Pavel und Denis, die Mitglieder einer Untergrund-Theatergruppe in Minsk sind. Als es 2020 im Zuge der Präsidentschaftswahlen in Belarus zu friedlichen Massenprotesten kommt, nimmt die Gruppe gemeinsam mit vielen anderen Menschen daran teil. Dabei entkommen sie nur knapp einer Verhaftung. Trotzdem lassen sie sich nicht beirren und hoffen weiter auf Meinungsfreiheit und Demokratie in ihrem Land.",
+    "img": "https://media.kinoheld.de/zxpoY5FD9OdzMKrD-GCo_eLuBjA=/400x560/images%2Ffilm%2Fcourage-19033.v5.jpg",
+    "description": "Vor 15 Jahren schon haben Maryna, Pavel und Denis die engen Toleranzgrenzen des autoritären Regimes nicht länger hingenommen: Sie verließen das Staatstheater Minsk, um für das neu gegründete Belarus Free Theatre zu spielen. Zivilcourage als Gebot der Moral. Die Proben laufen heimlich, der Regisseur wird per Skype aus dem Exil zugeschaltet, die Mittel sind knapp, die Themen brisant. Das aktuelle Stück handelt (wie das Leben zwischen Alltag und Untergrund) von verschwundenen Oppositionspolitiker*innen und dem Verlust jeglicher Existenzgrundlage. Von Wahrheit. Wer sie ausspricht, nimmt Repressionen und sogar den Tod in Kauf. Denis hat sich deshalb bewusst für den „Verrat an der Kunst“ entschieden, wie er sagt, und sich zurückgezogen, um seine Familie zu schützen. Doch auch wer „nur“ zuschaut, setzt mittlerweile alles aufs Spiel. Denn Hinsehen heißt Wissen. Seit den Präsidentschaftswahlen im August 2020 sind es Hunderttausende, die nicht mehr wegschauen. Die „laut schweigend“, gewaltfrei für einen friedlichen Machtwechsel in Belarus protestieren. Von diesem Sog, die drei mittendrin, handelt Courage. Ein Film, der schmerzhaft anzusehen ist, gerade weil er mit Ruhe und äußerster Geduld den fragilen Handlungsspielraum der Massenprotestbewegung vermisst. Und der nachvollziehbar macht, warum dieser Widerstand für so viele selbstverständlich geworden ist. Wer hier als Mensch leben – und überleben – will, braucht Mut.",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2425,9 +2425,8 @@
     "timestamp": 1626739200000,
     "time": "21:30",
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2394921531?layout=shows",
-    "img": "https://media.kinoheld.de/BVSOhCc4czDBpW3JWKzQdQqQU2M=/400x560/images%2Ffilm%2Fkokon-17135.v7.png",
-    "description": "Mitten am Kottbusser Tor in Berlin Kreuzberg wächst Nora (Lena Urzendowsky) auf. Hier im turbulenten Herzen Berlins ist sie stets umgeben von Menschen, deren Lebensläufe nicht immer den geraden Weg gehen und aus den unterschiedlichsten Kulturkreisen der Welt stammen. Nun, wo Nora langsam erwachsen wird, sich ihr Körper verändert, fühlt sie sich in der Welt mehr und mehr verloren und weiß nicht, wie es weitergehen soll. Bei ihrer Schwester Jule (Lena Klenke) und deren bester Freundin Aylin (Elina Vildanova) sieht das Leben etwas anders aus. Für die jungen Frauen dreht sich alles nur um Styling, Mode und die Präsentation dessen in den sozialen Medien. Anfangs scheint sie sich dem Druck, für andere schön zu sein, ebenfalls hinzugeben, als jedoch Romy (Jella Haase) auftaucht, bringt diese ihr bei, zu sich und ihrem Körper zu stehen.",
-    "trailer": "https://www.youtube.com/watch?v=31_ZH8_4nVs",
+    "img": "https://media.kinoheld.de/A74SN7Qifrefn19rmOlr6S_6s1A=/400x560/images%2Ffilm%2Fkokon-17137.v49.jpg",
+    "description": "Als ein Paar auf einen gemeinsamen Ausflug geht, um einander nochmal näher zu kommen, treffen sie auf einen Künstler und sein zwielichtiges Gefolge, die die beiden terrorisieren und demütigen.",
     "available": 70,
     "reserved": 0,
     "bookable": true
@@ -3733,9 +3732,9 @@
     "time": "21:30",
     "date": "Do., 15.7.",
     "timestamp": 1626384600000,
-    "available": 0,
-    "reserved": 0,
-    "bookable": false
+    "available": 8,
+    "reserved": 452,
+    "bookable": true
   },
   "kulturforum-268": {
     "cinemaId": "54eefd0b683138488b190000",
@@ -3748,8 +3747,8 @@
     "time": "21:30",
     "date": "Fr., 16.7.",
     "timestamp": 1626471000000,
-    "available": 316,
-    "reserved": 144,
+    "available": 314,
+    "reserved": 146,
     "bookable": true
   },
   "kulturforum-262": {
