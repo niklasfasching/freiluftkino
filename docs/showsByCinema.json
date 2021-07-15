@@ -313,8 +313,8 @@
       "date": "Fr., 16.7.",
       "timestamp": 1626471000000,
       "time": "21:30",
-      "available": 854,
-      "reserved": 224,
+      "available": 852,
+      "reserved": 226,
       "bookable": true
     },
     {
@@ -652,8 +652,8 @@
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
       "time": "21:30",
-      "available": 543,
-      "reserved": 24,
+      "available": 541,
+      "reserved": 26,
       "bookable": true
     },
     {
@@ -1320,7 +1320,7 @@
       "description": "Früher war Martin Lehrer aus Leidenschaft – heute sind nicht nur die Schüler von seinem fehlenden Enthusiasmus gelangweilt, auch in Martins Ehe ist die Luft raus. Seinen drei Freunden, die am selben Gymnasium unterrichten, geht es nicht viel besser. Bei einer angeheiterten Geburtstagsrunde diskutieren sie die Theorie eines norwegischen Philosophen: Nach dieser ist ein Mensch nur mit einem erhöhten Alkoholgehalt im Blut zu Bestleistungen fähig. Solch eine gewagte These muss überprüft werden. Die vier beschließen den Selbsttest zu machen und während der Arbeit einen bestimmten Pegel zu halten. Soll nicht sogar Churchill den Zweiten Weltkrieg in einem Alkoholrausch gewonnen haben? Mit neuem Antrieb stürzen sie sich in ihre geheime wissenschaftliche Studie. Die Wirkung lässt nicht lange auf sich warten …",
       "trailer": "https://www.youtube.com/watch?v=oJwlO6vcsm0",
       "available": 0,
-      "reserved": 208,
+      "reserved": 0,
       "bookable": false
     },
     {
@@ -1537,9 +1537,9 @@
       "timestamp": 1626825600000,
       "time": "16:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691287?layout=shows",
-      "available": -1,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1552,9 +1552,9 @@
       "timestamp": 1626825600000,
       "time": "18:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691316?layout=shows",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -1623,9 +1623,9 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691233?layout=shows",
       "img": "https://media.kinoheld.de/U0hvJqfHfa8se2HP8BkoKfarsDY=/400x560/images%2Ffilm%2Fich-bin-dein-mensch-18809.v2.png",
       "description": "Die Wissenschaftlerin Alma lässt sich auf die Teilnahme an einer Studie ein, um Gelder für ihre Forschungen zu bekommen. Bei dem Experiment soll Alma einige Wochen mit einem humanoiden Roboter verbringen, der sich an ihre Wünsche und Bedürfnisse anpasst, um der perfekte Partner für Alma zu werden. Nach ein paar Anlaufschwierigkeiten finden Alma und der Roboter schließlich zueinander. Doch Alma fragt sich, welchen Sinn es hat, sich in einen Roboter zu verlieben.",
-      "available": 456,
-      "reserved": 48,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1730,9 +1730,9 @@
       "img": "https://media.kinoheld.de/WNTTBAAcsvd3_Bt2HpAxOhRhU5o=/400x560/images%2Ffilm%2Fcruella-18919.v20.jpg",
       "description": "London in den 1970er Jahren: Die junge Estella (Emma Stone) ist eine talentierte Designerin und träumt von einer großen Karriere als Modeschöpferin. Doch da sie verwaist und mittellos aufgewachsen ist, scheint ihr der Weg in höhere Kreise verschlossen. Mit ihren zwei Kumpels, den Amateur-Dieben Horace (Paul Walter Hauser) und Jasper (Joel Fry), streift sie durch London und begeht hier und da kleine Verbrechen – und wann immer sich die Möglichkeit ergibt, wenigstens kurz in den von ihr ersehnten Luxus der Schönen und Reichen einzutauchen, greift sie schamlos zu. Dann aber bietet sich ihr endlich eine einzigartige Gelegenheit, um der Gosse zu entkommen: Ein aufstrebender Rockstar entdeckt ihr Talent und beauftragt Estella damit, ihm ein einzigartiges Outfit zu entwerfen. Auf der Suche nach dem perfekten Material muss sich Estella, die ein Faible für Hundefell hat, fragen, was sie für ihren Erfolg zu opfern bereit ist.",
       "trailer": "https://www.youtube.com/watch?v=KIRKfx5Cbec",
-      "available": 580,
-      "reserved": 21,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1748,9 +1748,9 @@
       "img": "https://media.kinoheld.de/aeplxI5NP6wmy4XKeFur6LcxOX4=/400x560/images%2Ffilm%2Fzu-weit-weg-14763.v2.jpg",
       "description": "Da sein Heimatdorf einem Braunkohletagebau weichen soll, müssen Ben (12) und seine Familie in die nächstgrößere Stadt umziehen. In der neuen Schule ist er erst mal der Außenseiter. Und auch im neuen Fußballverein laufen die Dinge für den talentierten Stürmer nicht wie erhofft. Zu allem Überfluss gibt es noch einen weiteren Neuankömmling an der Schule: Tariq (11), Flüchtling aus Syrien, der ihm nicht nur in der Klasse die Show stehlt, sondern auch noch auf dem Fußballplatz punktet. Wird Ben im Abseits bleiben – oder hat sein Konkurrent doch mehr mit ihm gemeinsam als er denkt?",
       "trailer": "https://www.youtube.com/watch?v=lmELdP6RiMk",
-      "available": -1,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1781,9 +1781,9 @@
       "timestamp": 1627257600000,
       "time": "16:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691334?layout=shows",
-      "available": -1,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1920,9 +1920,9 @@
       "timestamp": 1627689600000,
       "time": "16:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691725?layout=shows",
-      "available": -1,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1935,9 +1935,9 @@
       "timestamp": 1627689600000,
       "time": "18:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691288?layout=shows",
-      "available": -1,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -3791,8 +3791,8 @@
       "time": "21:30",
       "date": "Sa., 17.7.",
       "timestamp": 1626557400000,
-      "available": 342,
-      "reserved": 118,
+      "available": 344,
+      "reserved": 116,
       "bookable": true
     },
     {
@@ -3928,8 +3928,8 @@
       "time": "21:30",
       "date": "Sa., 17.7.",
       "timestamp": 1626557400000,
-      "available": 342,
-      "reserved": 118,
+      "available": 344,
+      "reserved": 116,
       "bookable": true
     },
     {
