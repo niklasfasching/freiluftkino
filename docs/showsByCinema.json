@@ -32,8 +32,8 @@
       "date": "Mo., 19.7.",
       "timestamp": 1626730200000,
       "time": "21:30",
-      "available": 1044,
-      "reserved": 34,
+      "available": 1042,
+      "reserved": 36,
       "bookable": true
     },
     {
@@ -50,8 +50,8 @@
       "date": "Do., 29.7.",
       "timestamp": 1627592400000,
       "time": "21:00",
-      "available": 993,
-      "reserved": 85,
+      "available": 991,
+      "reserved": 87,
       "bookable": true
     },
     {
@@ -207,8 +207,8 @@
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
       "time": "21:30",
-      "available": 1062,
-      "reserved": 16,
+      "available": 1060,
+      "reserved": 18,
       "bookable": true
     },
     {
@@ -294,8 +294,8 @@
       "date": "Fr., 16.7.",
       "timestamp": 1626471000000,
       "time": "21:30",
-      "available": 765,
-      "reserved": 313,
+      "available": 757,
+      "reserved": 321,
       "bookable": true
     },
     {
@@ -365,8 +365,8 @@
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
       "time": "21:30",
-      "available": 1041,
-      "reserved": 37,
+      "available": 1038,
+      "reserved": 40,
       "bookable": true
     },
     {
@@ -455,8 +455,8 @@
       "date": "Fr., 16.7.",
       "timestamp": 1626471000000,
       "time": "21:30",
-      "available": 273,
-      "reserved": 294,
+      "available": 263,
+      "reserved": 304,
       "bookable": true
     },
     {
@@ -649,7 +649,7 @@
       "date": "Do., 19.8.",
       "timestamp": 1629388800000,
       "time": "16:00",
-      "available": 0,
+      "available": 492,
       "reserved": 0,
       "bookable": true
     },
@@ -667,8 +667,8 @@
       "date": "Fr., 30.7.",
       "timestamp": 1627678800000,
       "time": "21:00",
-      "available": 0,
-      "reserved": 0,
+      "available": 546,
+      "reserved": 21,
       "bookable": true
     },
     {
@@ -1302,8 +1302,8 @@
       "img": "https://media.kinoheld.de/PnAEkP5wBimLWhkdEqAVF1D935s=/400x560/images%2Ffilm%2Feine-frau-mit-berauschenden-talenten-17113.v1237.jpg",
       "description": "Patience ist selbstbewusst, unabhängig und vor allem schlagfertig. Als Dolmetscherin im Drogendezernat übersetzt sie abgehörte Telefonate der Drogenszene und ist dafür massiv unterbezahlt. Als das kostspielige Pflegeheim ihrer Mutter wegen unbezahlter Rechnungen droht, die alte Dame auszuquartieren, gerät Patience unter Handlungsdruck. Der Zufall will es, dass gerade eine Drogenlieferung auf dem Weg nach Paris ist. Patience entscheidet sich spontan gegen die Ehrlichkeit und sabotiert die Beschlagnahmung der Drogen. In Eigenregie fahndet sie nach dem hochwertigen Hasch - und wird fündig. Patience macht sich sofort fröhlich ans Werk und zeigt sich von ihrer besten Seite: als begnadete Verkäuferin mischt sie den Pariser Drogenmarkt maximal auf. Sie ist die neue Drogen-Autorität der Stadt und für die Polizei ein Phantom. Doch die Drogendiva muss sich sputen, denn ausgerechnet ihr Verehrer Philippe, Leiter des Drogendezernats, hat einen Verdacht, wer hinter dem Phantom wirklich steckt ...",
       "trailer": "https://www.youtube.com/watch?v=Nw27GQLIaiM",
-      "available": 413,
-      "reserved": 74,
+      "available": 407,
+      "reserved": 76,
       "bookable": true
     },
     {
@@ -1451,8 +1451,8 @@
       "img": "https://media.kinoheld.de/Bs9C0qjqZBnidismnUoVfnUaR8Q=/400x560/images%2Ffilm%2Fpersischstunden-17031.v1643.jpg",
       "description": "1942. Gilles, ein junger Belgier, wird zusammen mit anderen Juden von der SS verhaftet und in ein Lager nach Deutschland gebracht. Er entgeht der Exekution, indem er schwört, kein Jude, sondern Perser zu sein – eine Lüge, die ihn zunächst rettet. Doch dann wird Gilles mit einer unmöglichen Mission beauftragt: Er soll Farsi unterrichten. Offizier Koch, Leiter der Lagerküche, träumt nämlich davon, nach Kriegsende ein Restaurant im Iran zu eröffnen. Wort für Wort muss Gilles eine Sprache erfinden, die er nicht beherrscht. Als in der besonderen Beziehung zwischen den beiden Männern Eifersucht und Misstrauen aufkommen, wird Gilles schmerzhaft bewusst, dass ihn jeder Fehltritt  auffliegen lassen könnte...",
       "trailer": "https://www.youtube.com/watch?v=qFigSSknLiY",
-      "available": 553,
-      "reserved": 31,
+      "available": 545,
+      "reserved": 33,
       "bookable": true
     },
     {
@@ -1535,9 +1535,9 @@
       "img": "https://media.kinoheld.de/-I0CPHVuCYVVilRIJXYtLJ5Rgjw=/400x560/images%2Ffilm%2F4%2Fthe-human-scale-2231.v1.jpg",
       "description": "Das Leben der Menschen ist zunehmend ein Leben in Städten. Immer weniger Leute wohnen heute nämlich auf dem Land und immer mehr von ihnen in immer größeren Städten - Tendenz steigend. Aber welchen Einfluss haben sogenannte Megacitys auf unsere Verhaltensweisen? Und wie hängen sie mit dem Klimawandel, der Gesundheitsversorgung und einer zunehmenden Vereinsamung durch Anonymität zusammen? Diesen Fragen geht der Dokumentarfilm nach. (j.b.)",
       "trailer": "https://www.youtube.com/watch?v=yFbfhJ15Xek",
-      "available": -1,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -2394,8 +2394,8 @@
       "img": "https://media.kinoheld.de/dBOzEMaRZeOQFGWcotd00yIacV8=/400x560/images%2Ffilm%2Fseret-berlin-kiss-me-kosher-17231.v544.jpg",
       "description": "Die quirlige jüdische Grossmutter Berta und ihre nicht weniger leidenschaftliche Enkelin Shira streiten inniglich über die Liebe und darüber, was Frau darf und was nicht. Vor allem als sich ihre geliebte Enkeltochter ausgerechnet für Maria, eine Deutsche, entscheidet. Die beiden jungen Frauen machen richtig ernst sie wollen heiraten. So unterschiedlich beide Familien sind, so einig sind sich alle in einem Punkt: Die Hochzeit muss geplant werden. Nur eine versucht mit allen Mitteln diesen Bund des Lebens zu verhindern Berta. Für sie ist eine Ehe zwischen einer Israelin und einer Deutschen ein Ding der Unmöglichkeit. Obwohl auch sie mit dem Palästinenser Ibrahim ein recht unkonventionelles Liebesglück gefunden hat, das sie im Gegensatz zur lebensfrohen Enkeltochter vor der Familie verheimlicht. Aber wie lange kann das noch so gutgehen? Am Ende der turbulenten Familienfehde wird geheiratet.",
       "trailer": "https://www.youtube.com/watch?v=vbjXqyWpT74",
-      "available": 64,
-      "reserved": 4,
+      "available": 61,
+      "reserved": 6,
       "bookable": true
     },
     {
@@ -3657,8 +3657,8 @@
       "time": "21:30",
       "date": "Sa., 17.7.",
       "timestamp": 1626557400000,
-      "available": 305,
-      "reserved": 155,
+      "available": 302,
+      "reserved": 158,
       "bookable": true
     },
     {
@@ -3830,8 +3830,8 @@
       "time": "21:30",
       "date": "Sa., 17.7.",
       "timestamp": 1626557400000,
-      "available": 305,
-      "reserved": 155,
+      "available": 302,
+      "reserved": 158,
       "bookable": true
     },
     {
@@ -3952,8 +3952,8 @@
       "time": "21:30",
       "date": "Fr., 16.7.",
       "timestamp": 1626471000000,
-      "available": 225,
-      "reserved": 274,
+      "available": 221,
+      "reserved": 278,
       "bookable": true
     },
     {
@@ -4111,8 +4111,8 @@
       "time": "21:30",
       "date": "Fr., 16.7.",
       "timestamp": 1626471000000,
-      "available": 225,
-      "reserved": 274,
+      "available": 221,
+      "reserved": 278,
       "bookable": true
     },
     {
