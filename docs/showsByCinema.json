@@ -50,8 +50,8 @@
       "date": "Do., 29.7.",
       "timestamp": 1627592400000,
       "time": "21:00",
-      "available": 984,
-      "reserved": 94,
+      "available": 731,
+      "reserved": 347,
       "bookable": true
     },
     {
@@ -85,8 +85,8 @@
       "date": "Sa., 17.7.",
       "timestamp": 1626557400000,
       "time": "21:30",
-      "available": 763,
-      "reserved": 315,
+      "available": 747,
+      "reserved": 331,
       "bookable": true
     },
     {
@@ -103,8 +103,8 @@
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
       "time": "21:30",
-      "available": 998,
-      "reserved": 80,
+      "available": 996,
+      "reserved": 82,
       "bookable": true
     },
     {
@@ -189,8 +189,8 @@
       "date": "Mi., 21.7.",
       "timestamp": 1626903000000,
       "time": "21:30",
-      "available": 936,
-      "reserved": 142,
+      "available": 934,
+      "reserved": 144,
       "bookable": true
     },
     {
@@ -294,8 +294,8 @@
       "date": "Fr., 16.7.",
       "timestamp": 1626471000000,
       "time": "21:30",
-      "available": 684,
-      "reserved": 394,
+      "available": 672,
+      "reserved": 406,
       "bookable": true
     },
     {
@@ -455,8 +455,8 @@
       "date": "Fr., 16.7.",
       "timestamp": 1626471000000,
       "time": "21:30",
-      "available": 141,
-      "reserved": 426,
+      "available": 128,
+      "reserved": 439,
       "bookable": true
     },
     {
@@ -526,8 +526,8 @@
       "date": "Sa., 17.7.",
       "timestamp": 1626557400000,
       "time": "21:30",
-      "available": 502,
-      "reserved": 65,
+      "available": 496,
+      "reserved": 71,
       "bookable": true
     },
     {
@@ -598,8 +598,8 @@
       "date": "Di., 20.7.",
       "timestamp": 1626816600000,
       "time": "21:30",
-      "available": 515,
-      "reserved": 52,
+      "available": 511,
+      "reserved": 56,
       "bookable": true
     },
     {
@@ -667,8 +667,8 @@
       "date": "Fr., 30.7.",
       "timestamp": 1627678800000,
       "time": "21:00",
-      "available": 544,
-      "reserved": 23,
+      "available": 542,
+      "reserved": 25,
       "bookable": true
     },
     {
@@ -685,12 +685,29 @@
       "date": "So., 18.7.",
       "timestamp": 1626643800000,
       "time": "21:30",
-      "available": 414,
-      "reserved": 153,
+      "available": 411,
+      "reserved": 156,
       "bookable": true
     }
   ],
   "Freiluftkino Rehberge": [
+    {
+      "description": "Das African Book Festival Berlin versammelt jährlich die bekanntesten Autor*innen und Künstler*innen aus Afrika und der Diaspora zu Vorträgen, Diskussionsrunden, Lesungen, Interviews, Konzerten, Theater und Spoken Word Performances. Das Festival geht dabei weit über das bloße Präsentieren neuer Bücher und Autor*innen hinaus und greift stets politisch-soziale Trends auf. Mit \"Telling the Origin Stories\" stellt in diesem Sommer der renommierte angolanische Autor und Musiker Kalaf Epalanga als Kurator Fragen nach der Herkunft, Zugehörig­keit und Identität ins Zentrum. Im Fokus steht dabei auch die lusophone Literatur sowie die Verbindung zwischen Musik und Literatur. Neben der live Literatur auf der Bühne erwartet die Gäste wieder afrikanisches Essen und verschiedene Marktstände (u.a. mit Büchern, Kunst und Handwerk). InterKontinental e.V. präsentiert das African Book Festival Berlin mit einer jährlich wechselnden künstlerischen Leitung und einem thematischen Fokus, um dem afrikanischen Kontinent und seiner immensen Vielfalt bestmöglich gerecht zu werden.\nWeitere Infos: africanbookfestival.de\n",
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "cinemaShortName": "rehberge",
+      "id": "rehberge-590",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/590",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=568",
+      "title": "African Book Festival Tag 1",
+      "date": "Fr., 16.7.",
+      "timestamp": 1626451200000,
+      "time": "16:00",
+      "available": 408,
+      "reserved": 165,
+      "bookable": true
+    },
     {
       "description": "Das African Book Festival Berlin versammelt jährlich die bekanntesten Autor*innen und Künstler*innen aus Afrika und der Diaspora zu Vorträgen, Diskussionsrunden, Lesungen, Interviews, Konzerten, Theater und Spoken Word Performances. Das Festival geht dabei weit über das bloße Präsentieren neuer Bücher und Autor*innen hinaus und greift stets politisch-soziale Trends auf. Mit \"Telling the Origin Stories\" stellt in diesem Sommer der renommierte angolanische Autor und Musiker Kalaf Epalanga als Kurator Fragen nach der Herkunft, Zugehörig­keit und Identität ins Zentrum. Im Fokus steht dabei auch die lusophone Literatur sowie die Verbindung zwischen Musik und Literatur. Neben der live Literatur auf der Bühne erwartet die Gäste wieder afrikanisches Essen und verschiedene Marktstände (u.a. mit Büchern, Kunst und Handwerk). InterKontinental e.V. präsentiert das African Book Festival Berlin mit einer jährlich wechselnden künstlerischen Leitung und einem thematischen Fokus, um dem afrikanischen Kontinent und seiner immensen Vielfalt bestmöglich gerecht zu werden.\nWeitere Infos: africanbookfestival.de\n",
       "cinemaId": "rb_freiluftkino",
@@ -704,8 +721,8 @@
       "date": "Sa., 17.7.",
       "timestamp": 1626525000000,
       "time": "12:30",
-      "available": 361,
-      "reserved": 212,
+      "available": 360,
+      "reserved": 213,
       "bookable": true
     },
     {
@@ -722,8 +739,8 @@
       "date": "Fr., 16.7.",
       "timestamp": 1626471000000,
       "time": "21:30",
-      "available": 449,
-      "reserved": 124,
+      "available": 439,
+      "reserved": 134,
       "bookable": true
     },
     {
@@ -739,8 +756,8 @@
       "date": "Mi., 21.7.",
       "timestamp": 1626903000000,
       "time": "21:30",
-      "available": 495,
-      "reserved": 78,
+      "available": 493,
+      "reserved": 80,
       "bookable": true
     },
     {
@@ -757,8 +774,8 @@
       "date": "Sa., 17.7.",
       "timestamp": 1626557400000,
       "time": "21:30",
-      "available": 414,
-      "reserved": 159,
+      "available": 406,
+      "reserved": 167,
       "bookable": true
     },
     {
@@ -775,8 +792,8 @@
       "date": "Mo., 19.7.",
       "timestamp": 1626730200000,
       "time": "21:30",
-      "available": 547,
-      "reserved": 26,
+      "available": 545,
+      "reserved": 28,
       "bookable": true
     },
     {
@@ -1038,8 +1055,8 @@
       "date": "So., 22.8.",
       "timestamp": 1629665100000,
       "time": "20:45",
-      "available": 571,
-      "reserved": 2,
+      "available": 569,
+      "reserved": 4,
       "bookable": true
     },
     {
@@ -1285,8 +1302,8 @@
       "img": "https://media.kinoheld.de/PnAEkP5wBimLWhkdEqAVF1D935s=/400x560/images%2Ffilm%2Feine-frau-mit-berauschenden-talenten-17113.v1237.jpg",
       "description": "Patience ist selbstbewusst, unabhängig und vor allem schlagfertig. Als Dolmetscherin im Drogendezernat übersetzt sie abgehörte Telefonate der Drogenszene und ist dafür massiv unterbezahlt. Als das kostspielige Pflegeheim ihrer Mutter wegen unbezahlter Rechnungen droht, die alte Dame auszuquartieren, gerät Patience unter Handlungsdruck. Der Zufall will es, dass gerade eine Drogenlieferung auf dem Weg nach Paris ist. Patience entscheidet sich spontan gegen die Ehrlichkeit und sabotiert die Beschlagnahmung der Drogen. In Eigenregie fahndet sie nach dem hochwertigen Hasch - und wird fündig. Patience macht sich sofort fröhlich ans Werk und zeigt sich von ihrer besten Seite: als begnadete Verkäuferin mischt sie den Pariser Drogenmarkt maximal auf. Sie ist die neue Drogen-Autorität der Stadt und für die Polizei ein Phantom. Doch die Drogendiva muss sich sputen, denn ausgerechnet ihr Verehrer Philippe, Leiter des Drogendezernats, hat einen Verdacht, wer hinter dem Phantom wirklich steckt ...",
       "trailer": "https://www.youtube.com/watch?v=Nw27GQLIaiM",
-      "available": 332,
-      "reserved": 95,
+      "available": 321,
+      "reserved": 100,
       "bookable": true
     },
     {
@@ -1500,9 +1517,9 @@
       "img": "https://media.kinoheld.de/aeplxI5NP6wmy4XKeFur6LcxOX4=/400x560/images%2Ffilm%2Fzu-weit-weg-14763.v2.jpg",
       "description": "Da sein Heimatdorf einem Braunkohletagebau weichen soll, müssen Ben (12) und seine Familie in die nächstgrößere Stadt umziehen. In der neuen Schule ist er erst mal der Außenseiter. Und auch im neuen Fußballverein laufen die Dinge für den talentierten Stürmer nicht wie erhofft. Zu allem Überfluss gibt es noch einen weiteren Neuankömmling an der Schule: Tariq (11), Flüchtling aus Syrien, der ihm nicht nur in der Klasse die Show stehlt, sondern auch noch auf dem Fußballplatz punktet. Wird Ben im Abseits bleiben – oder hat sein Konkurrent doch mehr mit ihm gemeinsam als er denkt?",
       "trailer": "https://www.youtube.com/watch?v=lmELdP6RiMk",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -1590,7 +1607,7 @@
       "description": "Nach dem wirtschaftlichen Zusammenbruch einer Stadt im ländlichen Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren weißen Van und macht sich auf den Weg, um als moderne Nomadin im Westen der USA ein Leben außerhalb der konventionellen Gesellschaft zu erkunden.",
       "trailer": "https://www.youtube.com/watch?v=iEcIDpnv3qQ",
       "available": 0,
-      "reserved": 0,
+      "reserved": 205,
       "bookable": false
     },
     {
@@ -1642,7 +1659,7 @@
       "img": "https://media.kinoheld.de/WNTTBAAcsvd3_Bt2HpAxOhRhU5o=/400x560/images%2Ffilm%2Fcruella-18919.v20.jpg",
       "description": "London in den 1970er Jahren: Die junge Estella (Emma Stone) ist eine talentierte Designerin und träumt von einer großen Karriere als Modeschöpferin. Doch da sie verwaist und mittellos aufgewachsen ist, scheint ihr der Weg in höhere Kreise verschlossen. Mit ihren zwei Kumpels, den Amateur-Dieben Horace (Paul Walter Hauser) und Jasper (Joel Fry), streift sie durch London und begeht hier und da kleine Verbrechen – und wann immer sich die Möglichkeit ergibt, wenigstens kurz in den von ihr ersehnten Luxus der Schönen und Reichen einzutauchen, greift sie schamlos zu. Dann aber bietet sich ihr endlich eine einzigartige Gelegenheit, um der Gosse zu entkommen: Ein aufstrebender Rockstar entdeckt ihr Talent und beauftragt Estella damit, ihm ein einzigartiges Outfit zu entwerfen. Auf der Suche nach dem perfekten Material muss sich Estella, die ein Faible für Hundefell hat, fragen, was sie für ihren Erfolg zu opfern bereit ist.",
       "trailer": "https://www.youtube.com/watch?v=gmRKv7n2If8",
-      "available": 546,
+      "available": 529,
       "reserved": 28,
       "bookable": true
     },
@@ -1693,9 +1710,9 @@
       "timestamp": 1627257600000,
       "time": "16:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691334?layout=shows",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -1728,9 +1745,9 @@
       "img": "https://media.kinoheld.de/6-ZJxmEw6bdKlUE39cg2CPT2xsI=/400x560/images%2Ffilm%2Fder-geheime-garten-17251.v435.jpg",
       "description": "Die in Indien lebende, 10-jährige Britin Mary Lennox wird nach dem unerwarteten Ableben ihrer Eltern auf das Landgut ihres Onkels Archibald geschickt. Weder Archibald noch die Haushälterin interessieren sich für das Mädchen und so wecken die Geheimnisse in dem großen Haus mit den verschlossenen Zimmern schnell Marys Neugier. Sie erfährt von einem geheimen Garten, den seit zehn Jahren niemand betreten hat und macht sich auf die Suche.",
       "trailer": "https://www.youtube.com/watch?v=eEyPvZxC5Mk",
-      "available": -1,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1764,9 +1781,9 @@
       "img": "https://media.kinoheld.de/TtqS0ER1ioFzwQjEjHtyRXqo4ZI=/400x560/images%2Ffilm%2F4%2Fpettersson-und-findus-findus-zieht-um-10424.v35.jpg",
       "description": "Findus hüpft Tag und Nacht auf seiner neuen Matratze herum, der genervte Pettersson (Stefan Kurt) aber möchte seine Ruhe haben. Die Lösung: ein eigenes Spiel- und Hüpf-Haus für Findus, das Pettersson ihm gleich nebenan baut! Der Kater aber findet solchen Gefallen daran, selbständig zu sein und alleine zu wohnen, dass er nicht nur zum Spielen, sondern gleich ganz und gar ins Häuschen umzieht. So hat Pettersson sich das allerdings nicht vorgestellt! Muss er sein Leben jetzt etwa ohne seinen kleinen fröhlichen Gefährten führen? Findus muss sich etwas einfallen lassen, um den alten Pettersson wieder aufzumuntern... (Quelle: Verleih)",
       "trailer": "https://www.youtube.com/watch?v=uu_dG5HF1lc",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -1833,9 +1850,9 @@
       "timestamp": 1627689600000,
       "time": "16:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691725?layout=shows",
-      "available": -1,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -2004,9 +2021,9 @@
       "timestamp": 1630368000000,
       "time": "19:00",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691782?layout=shows",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     }
   ],
   "freiluftkino-insel-im-cassiopeia": [
@@ -3367,8 +3384,8 @@
       "timestamp": 1626480000000,
       "time": "21:45",
       "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2392313584?layout=shows",
-      "available": 17,
-      "reserved": 58,
+      "available": 14,
+      "reserved": 61,
       "bookable": true
     },
     {
@@ -3661,8 +3678,8 @@
       "time": "21:30",
       "date": "Fr., 16.7.",
       "timestamp": 1626471000000,
-      "available": 218,
-      "reserved": 242,
+      "available": 216,
+      "reserved": 244,
       "bookable": true
     },
     {
@@ -3679,8 +3696,8 @@
       "time": "21:30",
       "date": "Sa., 17.7.",
       "timestamp": 1626557400000,
-      "available": 277,
-      "reserved": 183,
+      "available": 274,
+      "reserved": 186,
       "bookable": true
     },
     {
@@ -3764,8 +3781,8 @@
       "time": "21:30",
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
-      "available": 236,
-      "reserved": 224,
+      "available": 234,
+      "reserved": 226,
       "bookable": true
     },
     {
@@ -3796,8 +3813,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 436,
-      "reserved": 24,
+      "available": 437,
+      "reserved": 23,
       "bookable": true
     },
     {
@@ -3866,8 +3883,8 @@
       "time": "21:30",
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
-      "available": 236,
-      "reserved": 224,
+      "available": 234,
+      "reserved": 226,
       "bookable": true
     },
     {
@@ -3900,8 +3917,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 436,
-      "reserved": 24,
+      "available": 437,
+      "reserved": 23,
       "bookable": true
     },
     {
@@ -3918,8 +3935,8 @@
       "time": "21:30",
       "date": "Sa., 17.7.",
       "timestamp": 1626557400000,
-      "available": 277,
-      "reserved": 183,
+      "available": 274,
+      "reserved": 186,
       "bookable": true
     },
     {
@@ -3933,8 +3950,8 @@
       "time": "21:30",
       "date": "Fr., 16.7.",
       "timestamp": 1626471000000,
-      "available": 218,
-      "reserved": 242,
+      "available": 216,
+      "reserved": 244,
       "bookable": true
     },
     {
@@ -4072,8 +4089,8 @@
       "time": "21:30",
       "date": "Fr., 16.7.",
       "timestamp": 1626471000000,
-      "available": 174,
-      "reserved": 325,
+      "available": 163,
+      "reserved": 336,
       "bookable": true
     },
     {
@@ -4142,8 +4159,8 @@
       "time": "21:30",
       "date": "Di., 20.7.",
       "timestamp": 1626816600000,
-      "available": 447,
-      "reserved": 52,
+      "available": 443,
+      "reserved": 56,
       "bookable": true
     },
     {
@@ -4160,8 +4177,8 @@
       "time": "21:30",
       "date": "Mi., 21.7.",
       "timestamp": 1626903000000,
-      "available": 453,
-      "reserved": 46,
+      "available": 452,
+      "reserved": 47,
       "bookable": true
     },
     {
@@ -4183,6 +4200,131 @@
       "bookable": true
     },
     {
+      "title": "Nomadland (OmU)",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/6040ac56614440014e079840/show_Nomadland_Pos_Poster_S.jpg",
+      "description": "Fern (Frances McDormand) hat erst ihren Mann, dann ihre Heimatstadt verloren, nachdem der größte Arbeitgeber dort dichtgemacht hat. Sie packt alle Habseligkeiten in einen Transporter und beginnt, als Nomadin der Arbeit hinterherzuziehen. Wer wissen möchte, was großes Kino ist und kann, hat hier Termin!",
+      "trailer": "https://www.youtube.com/watch?v=cDNEH_68lM0&ab_channel=vipmagazinvipmagazin",
+      "cinemaId": "60a3b5ed61444058ac0797a2",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-schloss-charlottenburg",
+      "cinemaName": "sommerkino-schloss-charlottenburg",
+      "cinemaShortName": "schloss-charlottenburg",
+      "id": "schloss-charlottenburg-55",
+      "url": "https://yorck.de/checkout/step01?showid=55&siteid=1020",
+      "time": "21:30",
+      "date": "Fr., 23.7.",
+      "timestamp": 1627075800000,
+      "available": 604,
+      "reserved": 39,
+      "bookable": true
+    },
+    {
+      "title": "Minari",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/6040aff3614440766907979b/show_Minari-2.jpg",
+      "description": "Lee Isaac Chung erzählt inspiriert von seiner eigenen Biografie von einer koreanischen Familie, die in den 1980ern auf der Suche nach dem American Dream nach Arkansas zieht. Nominiert für 6 Oscars.",
+      "trailer": "https://www.youtube.com/watch?v=OwykvCg02gM&ab_channel=vipmagazinvipmagazin",
+      "cinemaId": "60a3b5ed61444058ac0797a2",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-schloss-charlottenburg",
+      "cinemaName": "sommerkino-schloss-charlottenburg",
+      "cinemaShortName": "schloss-charlottenburg",
+      "id": "schloss-charlottenburg-56",
+      "url": "https://yorck.de/checkout/step01?showid=56&siteid=1020",
+      "time": "21:30",
+      "date": "Sa., 24.7.",
+      "timestamp": 1627162200000,
+      "available": 623,
+      "reserved": 20,
+      "bookable": true
+    },
+    {
+      "title": "Undine",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/5e41232d614440652f1db42d/show_Undine_Poster_Poster_S.jpg",
+      "description": "Der neue Film von Christian Petzold ist eine faszinierende Neuinterpretation des Mythos der geheimnisvollen Wasserfrau Undine, die nur durch die Liebe eines Menschen ein irdisches Leben führen und eine Seele erlangen kann: Ein modernes Märchen in einer entzauberten Welt, die Geschichte einer Liebe auf Leben und Tod. UNDINE ist offizieller Wettbewerbsbeitrag der Berlinale 2020.",
+      "trailer": "https://www.youtube.com/watch?v=_XSzVgjeyfM",
+      "cinemaId": "60a3b5ed61444058ac0797a2",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-schloss-charlottenburg",
+      "cinemaName": "sommerkino-schloss-charlottenburg",
+      "cinemaShortName": "schloss-charlottenburg",
+      "id": "schloss-charlottenburg-57",
+      "url": "https://yorck.de/checkout/step01?showid=57&siteid=1020",
+      "time": "21:30",
+      "date": "So., 25.7.",
+      "timestamp": 1627248600000,
+      "available": 476,
+      "reserved": 23,
+      "bookable": true
+    },
+    {
+      "title": "Jazz an einem Sommerabend (OmU)",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60f172f369f5b52d0372886a/show_sAaGbgTTZodBByNu22zXtfC6WGu.jpg",
+      "description": "Einen Film hat der eher als Modefotograf bekannte Bert Stern gedreht. Dieser eine aber entstand auf dem Newport Jazz Festival 1958, wo Legenden wie Louis Armstrong, Thelonius Monk, Chuck Berry oder Mahalia Jackson auftraten. Entstanden ist ein wundervolles Zeitdokument über Jazz – und Yacht-Rennen.",
+      "cinemaId": "60a3b5ed61444058ac0797a2",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-schloss-charlottenburg",
+      "cinemaName": "sommerkino-schloss-charlottenburg",
+      "cinemaShortName": "schloss-charlottenburg",
+      "id": "schloss-charlottenburg-58",
+      "url": "https://yorck.de/checkout/step01?showid=58&siteid=1020",
+      "time": "21:30",
+      "date": "Mo., 26.7.",
+      "timestamp": 1627335000000,
+      "available": 479,
+      "reserved": 20,
+      "bookable": true
+    },
+    {
+      "title": "Frühling in Paris (OmU)",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60d9b2596144400536d999ad/show_Poster_FRUEHLING_IN_PARIS_neu.jpg",
+      "description": "Paris, Montmartre, Frühling. Suzanne ist 16 Jahre alt und ihre Altersgenossen langweilen sie zutiefst. Auf ihrem Weg zur Schule kommt sie jeden Tag an einem Theater vorbei. Dort begegnet sie dem 35-jährigen Schauspieler Raphaël, beide sind immer mehr fasziniert voneinander. Sie schweben durch das Viertel, tanzen verliebt durch die Straßen. Doch dann bekommt Suzanne Angst, dass sie etwas im Leben verpasst – das ganz normale Leben eines Mädchens in ihrem Alter.",
+      "trailer": "https://www.youtube.com/watch?v=H8Qj7BkHp0w&ab_channel=MFA%2BFilmdistribution",
+      "cinemaId": "60a3b5ed61444058ac0797a2",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-schloss-charlottenburg",
+      "cinemaName": "sommerkino-schloss-charlottenburg",
+      "cinemaShortName": "schloss-charlottenburg",
+      "id": "schloss-charlottenburg-59",
+      "url": "https://yorck.de/checkout/step01?showid=59&siteid=1020",
+      "time": "21:30",
+      "date": "Di., 27.7.",
+      "timestamp": 1627421400000,
+      "available": 479,
+      "reserved": 20,
+      "bookable": true
+    },
+    {
+      "title": "Nomadland (OmU)",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/6040ac56614440014e079840/show_Nomadland_Pos_Poster_S.jpg",
+      "description": "Fern (Frances McDormand) hat erst ihren Mann, dann ihre Heimatstadt verloren, nachdem der größte Arbeitgeber dort dichtgemacht hat. Sie packt alle Habseligkeiten in einen Transporter und beginnt, als Nomadin der Arbeit hinterherzuziehen. Wer wissen möchte, was großes Kino ist und kann, hat hier Termin!",
+      "trailer": "https://www.youtube.com/watch?v=cDNEH_68lM0&ab_channel=vipmagazinvipmagazin",
+      "cinemaId": "60a3b5ed61444058ac0797a2",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-schloss-charlottenburg",
+      "cinemaName": "sommerkino-schloss-charlottenburg",
+      "cinemaShortName": "schloss-charlottenburg",
+      "id": "schloss-charlottenburg-55",
+      "url": "https://yorck.de/checkout/step01?showid=55&siteid=1020",
+      "time": "21:30",
+      "date": "Fr., 23.7.",
+      "timestamp": 1627075800000,
+      "available": 604,
+      "reserved": 39,
+      "bookable": true
+    },
+    {
+      "title": "Minari",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/6040aff3614440766907979b/show_Minari-2.jpg",
+      "description": "Lee Isaac Chung erzählt inspiriert von seiner eigenen Biografie von einer koreanischen Familie, die in den 1980ern auf der Suche nach dem American Dream nach Arkansas zieht. Nominiert für 6 Oscars.",
+      "trailer": "https://www.youtube.com/watch?v=OwykvCg02gM&ab_channel=vipmagazinvipmagazin",
+      "cinemaId": "60a3b5ed61444058ac0797a2",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-schloss-charlottenburg",
+      "cinemaName": "sommerkino-schloss-charlottenburg",
+      "cinemaShortName": "schloss-charlottenburg",
+      "id": "schloss-charlottenburg-56",
+      "url": "https://yorck.de/checkout/step01?showid=56&siteid=1020",
+      "time": "21:30",
+      "date": "Sa., 24.7.",
+      "timestamp": 1627162200000,
+      "available": 623,
+      "reserved": 20,
+      "bookable": true
+    },
+    {
       "title": "Ema",
       "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/5f60995a614440708e548c53/show_2067996.jpg",
       "description": "Ema und Gastón sind künstlerische Freigeister einer Tanzkompanie. Ihr Leben wird von einem Tag auf den anderen aus den Angeln gerissen, als ihr kleiner Adoptivsohn Polo Emas Schwester schwer verletzt. Impulsiv und radikal wie sie ist, entscheidet sich Ema, das Kind wieder fortzugeben, ohne sich der Folgen bewusst zu sein. Plötzlich steht die junge Tänzerin im Kreuzfeuer der Kritik. Ihr Partner, die Kollegen, das Jugendamt - alle verurteilen ihre Entscheidung als eigenmächtig und herzlos. Was nun folgt, steht auf keinem Blatt der Welt geschrieben: Statt zu leiden, stürzt sich die selbstbewusste Ema ins Leben. Zusammen mit ihrer Mädchen-Gang legt sie die Welt um sich herum in Flammen. Reggaeton, der Tanz der Straße und der Jugend, ist dabei ihr Ventil. Liebe, Familie, Kunst - Ema sprengt alle Koordinaten. Sie experimentiert, überschreitet Grenzen, verführt Männer und Frauen - um am Ende alle Fäden des Schicksals selbst in der Hand zu halten.",
@@ -4213,8 +4355,8 @@
       "time": "21:30",
       "date": "Mi., 21.7.",
       "timestamp": 1626903000000,
-      "available": 453,
-      "reserved": 46,
+      "available": 452,
+      "reserved": 47,
       "bookable": true
     },
     {
@@ -4231,8 +4373,8 @@
       "time": "21:30",
       "date": "Fr., 16.7.",
       "timestamp": 1626471000000,
-      "available": 174,
-      "reserved": 325,
+      "available": 163,
+      "reserved": 336,
       "bookable": true
     },
     {
@@ -4249,8 +4391,26 @@
       "time": "21:30",
       "date": "Di., 20.7.",
       "timestamp": 1626816600000,
-      "available": 447,
-      "reserved": 52,
+      "available": 443,
+      "reserved": 56,
+      "bookable": true
+    },
+    {
+      "title": "Frühling in Paris (OmU)",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60d9b2596144400536d999ad/show_Poster_FRUEHLING_IN_PARIS_neu.jpg",
+      "description": "Paris, Montmartre, Frühling. Suzanne ist 16 Jahre alt und ihre Altersgenossen langweilen sie zutiefst. Auf ihrem Weg zur Schule kommt sie jeden Tag an einem Theater vorbei. Dort begegnet sie dem 35-jährigen Schauspieler Raphaël, beide sind immer mehr fasziniert voneinander. Sie schweben durch das Viertel, tanzen verliebt durch die Straßen. Doch dann bekommt Suzanne Angst, dass sie etwas im Leben verpasst – das ganz normale Leben eines Mädchens in ihrem Alter.",
+      "trailer": "https://www.youtube.com/watch?v=H8Qj7BkHp0w&ab_channel=MFA%2BFilmdistribution",
+      "cinemaId": "60a3b5ed61444058ac0797a2",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-schloss-charlottenburg",
+      "cinemaName": "sommerkino-schloss-charlottenburg",
+      "cinemaShortName": "schloss-charlottenburg",
+      "id": "schloss-charlottenburg-59",
+      "url": "https://yorck.de/checkout/step01?showid=59&siteid=1020",
+      "time": "21:30",
+      "date": "Di., 27.7.",
+      "timestamp": 1627421400000,
+      "available": 479,
+      "reserved": 20,
       "bookable": true
     },
     {
@@ -4272,6 +4432,23 @@
       "bookable": true
     },
     {
+      "title": "Jazz an einem Sommerabend (OmU)",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60f172f369f5b52d0372886a/show_sAaGbgTTZodBByNu22zXtfC6WGu.jpg",
+      "description": "Einen Film hat der eher als Modefotograf bekannte Bert Stern gedreht. Dieser eine aber entstand auf dem Newport Jazz Festival 1958, wo Legenden wie Louis Armstrong, Thelonius Monk, Chuck Berry oder Mahalia Jackson auftraten. Entstanden ist ein wundervolles Zeitdokument über Jazz – und Yacht-Rennen.",
+      "cinemaId": "60a3b5ed61444058ac0797a2",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-schloss-charlottenburg",
+      "cinemaName": "sommerkino-schloss-charlottenburg",
+      "cinemaShortName": "schloss-charlottenburg",
+      "id": "schloss-charlottenburg-58",
+      "url": "https://yorck.de/checkout/step01?showid=58&siteid=1020",
+      "time": "21:30",
+      "date": "Mo., 26.7.",
+      "timestamp": 1627335000000,
+      "available": 479,
+      "reserved": 20,
+      "bookable": true
+    },
+    {
       "title": "Oh Boy",
       "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/578e3c1d6144405e7f201e6c/show_ohoby_plakat.jpg",
       "description": "Heutzutage ist alles noch viel schlimmer als früher. Heute weiß nicht mehr nur die Jugend nicht mehr, was sie will. Auch junge Erwachsene um die 30 lassen sich vom Strom des Lebens einfach so treiben und wundern sich, dass sie nirgendwo ankommen. Der Regie-Debütant Jan Ole Gerster setzt diesen moderen Driftern ein wunderbares, zutiefst melancholisches Denkmal. Und inszeniert mit seinen poetischen schwarzweiß-Bildern gleichzeitig einen der schönsten Berlin-Filme der letzten Jahre.",
@@ -4286,6 +4463,24 @@
       "timestamp": 1626643800000,
       "available": 381,
       "reserved": 118,
+      "bookable": true
+    },
+    {
+      "title": "Undine",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/5e41232d614440652f1db42d/show_Undine_Poster_Poster_S.jpg",
+      "description": "Der neue Film von Christian Petzold ist eine faszinierende Neuinterpretation des Mythos der geheimnisvollen Wasserfrau Undine, die nur durch die Liebe eines Menschen ein irdisches Leben führen und eine Seele erlangen kann: Ein modernes Märchen in einer entzauberten Welt, die Geschichte einer Liebe auf Leben und Tod. UNDINE ist offizieller Wettbewerbsbeitrag der Berlinale 2020.",
+      "trailer": "https://www.youtube.com/watch?v=_XSzVgjeyfM",
+      "cinemaId": "60a3b5ed61444058ac0797a2",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-schloss-charlottenburg",
+      "cinemaName": "sommerkino-schloss-charlottenburg",
+      "cinemaShortName": "schloss-charlottenburg",
+      "id": "schloss-charlottenburg-57",
+      "url": "https://yorck.de/checkout/step01?showid=57&siteid=1020",
+      "time": "21:30",
+      "date": "So., 25.7.",
+      "timestamp": 1627248600000,
+      "available": 476,
+      "reserved": 23,
       "bookable": true
     },
     {
