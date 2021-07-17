@@ -1,21 +1,104 @@
 {
   "Freiluftkino Friedrichshain": [
     {
-      "trailer": "https://www.youtube-nocookie.com/embed/Kx_oZrx6OJc?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
-      "description": "In dem sizilianischen Städtchen Siculiana verehren die Menschen seit vielen Jahrhunderten die Statue eines schwarzen Jesus. Als der 19-jährige Edward aus Ghana, Bewohner des viel diskutierten Flüchtlingszentrums, darum bittet, gemeinsam mit den Einheimischen die Jesus-Statue in der großen jährlichen Prozession durch den Ort tragen zu dürfen, spaltet dieser Wunsch die Gemeinde.\nMit großem Gespür für Stimmen und und Stimmungen begibt sich der in malerischem CinemaScope gefilmte und von Wim Wenders produzierte Dokumentarfilm auf eine Reise, die den Ursprung von Angst und Vorurteilen gegenüber \"den anderen\" erforscht.\n\n",
+      "description": "Ein Roadtrip voller Komik, Dramatik und unvorhersehbarer Abzweigungen von Deutschlands Bestsellerautor Nr. 1 Sebastian Fitzek - mit zwei skurrilen, ans Herz gehenden Hauptfiguren, die unterschiedlicher nicht sein könnten. Livius Reimer macht sich auf den Weg von München nach Berlin, um seine Ehe zu retten. Als sein Flug gestrichen wird, muss er sich den einzig noch verfügbaren Mietwagen mit einer jungen Frau teilen, um die er sonst einen großen Bogen gemacht hätte. Zu schräg, zu laut, zu ungewöhnlich - mit ihrer unkonventionellen Sicht auf die Welt überfordert Lea von Armin Livius von der ersten Sekunde an. Bereits kurz nach der Abfahrt lässt Livius sich auf ein ungewöhnliches Gedankenexperiment von Lea ein – und weiß nicht, dass damit nicht nur ihr Roadtrip einen völlig neuen Verlauf nimmt, sondern sein ganzes Leben!",
       "cinemaId": "fh_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
       "cinemaName": "Freiluftkino Friedrichshain",
       "cinemaShortName": "fhain",
-      "id": "fhain-707",
-      "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/707",
-      "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=692",
-      "title": "A Black Jesus",
-      "date": "Mo., 19.7.",
-      "timestamp": 1626730200000,
+      "id": "fhain-667",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/667",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=655",
+      "title": "Sebastian Fitzek liest aus „Der erste letzte Tag“",
+      "date": "Sa., 14.8.",
+      "timestamp": 1628960400000,
+      "time": "17:00",
+      "available": 721,
+      "reserved": 272,
+      "bookable": true
+    },
+    {
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
+      "cinemaShortName": "fhain",
+      "id": "fhain-670",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/670",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=657",
+      "title": "Florian Schröder liest aus „Schluss mit der Mein..",
+      "date": "So., 22.8.",
+      "timestamp": 1629649800000,
+      "time": "16:30",
+      "available": 0,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "trailer": "https://www.youtube-nocookie.com/embed/c_Z31xU_eD8?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
+      "description": "Eben noch war Ben gefeierter Fußballheld und beliebtester Schüler, nun ist er Außenseiter und Ersatzspieler. Und das alles nur, weil unter seinem Heimatdorf riesige Braunkohlevorkommen entdeckt und alle Bewohner in die nächstgrößere Stadt umgesiedelt wurden. Und hier läuft nichts mehr, wie es Ben gewohnt ist: In der Schule wird der 12-Jährige gemobbt und auf dem Fußballplatz wird der vormals beste Stürmer auf die Ersatzbank verbannt. Zu allem Überfluss gibt es noch einen weiteren Neuankömmling an der Schule: Tariq (11), Flüchtling aus Syrien, der ihm nicht nur in der Klasse die Show stehlt, sondern auch noch auf dem Fußballplatz punktet. Wird Ben im Abseits bleiben – oder hat sein Konkurrent doch mehr mit ihm gemeinsam als er denkt?",
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
+      "cinemaShortName": "fhain",
+      "id": "fhain-702",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/702",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=687",
+      "title": "28. Kinderkino-MondLichtFest",
+      "date": "Sa., 7.8.,",
+      "timestamp": 1628368200000,
+      "time": "20:30",
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
+    },
+    {
+      "description": "In seinem Buch erzählt Savas Yurderi nicht nur unbekannte Storys aus den Anfangsjahren seiner Karriere, er berichtet auch von der Geschichte der Verfolgung und Flucht seiner Eltern und zeichnet seinen persönlichen Weg an die Spitze der Charts nach. Wegbegleiter, Freunde und Business-Profis wie Eko Fresh, Artur Abraham, Haftbefehl, Freddie Lau, Sido, Lena Gercke, Tim Raue, Kida Ramadan oder Sony-CEO Patrick Mushatsi-Kareba u.a. berichten von ihren persönlichen Erlebnissen mit Kool Savas.\n",
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
+      "cinemaShortName": "fhain",
+      "id": "fhain-703",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/703",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=688",
+      "title": "Literatur Live: Kool Savas",
+      "date": "Sa., 4.9.,",
+      "timestamp": 1630769400000,
+      "time": "15:30",
+      "available": 1070,
+      "reserved": 8,
+      "bookable": true
+    },
+    {
+      "description": "Was hat uns Jean-Luc Bannalec nicht schon alles zugemutet? Leichen an Traumstränden, Gewalttaten im wunderschönen Concarneau, der blauen Stadt am Meer. Mit jedem Band erkunden die Leserinnen und Leser andere Ecken der Bretagne und begegnen den Eigenarten der Bretonen. Im neuesten Buch »Bretonische Idylle« hat die Hitzewelle in diesem August sogar die Bretagne fest im Griff, keine Aussicht auf Abkühlung für Kommissar Dupin. Und zu allem Überfluss plant Nolwenn auch noch die große Feier seines zehnjährigen Dienstjubiläums. Doch dann wird eines Morgens ein Toter an der Küste bei Concarneau aus dem Meer gefischt, ein Bewohner der legendären Belle-Île – und ehe sich Dupin versieht, befindet er sich an Bord eines Schnellbootes auf dem Weg zur »schönsten Insel der Welt«. Buchpremiere von Literatur LIVE in Kooperation mit der Thalia Buchhandlung. ",
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
+      "cinemaShortName": "fhain",
+      "id": "fhain-704",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/704",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=689",
+      "title": "Literatur Live: Jean-Luc Bannalec",
+      "date": "So., 12.9.",
+      "timestamp": 1631458800000,
+      "time": "15:00",
+      "available": 1048,
+      "reserved": 30,
+      "bookable": true
+    },
+    {
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
+      "cinemaShortName": "fhain",
+      "id": "fhain-705",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/705",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=690",
+      "title": "Der Mauretanier",
+      "date": "Sa., 17.7.",
+      "timestamp": 1626557400000,
       "time": "21:30",
-      "available": 1030,
-      "reserved": 48,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -32,26 +115,26 @@
       "date": "So., 18.7.",
       "timestamp": 1626643800000,
       "time": "21:30",
-      "available": 830,
-      "reserved": 248,
+      "available": 819,
+      "reserved": 259,
       "bookable": true
     },
     {
-      "trailer": "https://www.youtube-nocookie.com/embed/pcnsRrFpOc4?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
-      "description": "Sascha arbeitet schon seit Jahren im Berliner Bordell Queens. Maria ist die Neue, unangepasst, autark, queer. Sascha fühlt sich sofort von dieser Andersartigkeit angezogen, Maria wiederum ist fasziniert von Saschas Souveränität. Aus der Anziehung wird eine Liebe, die anders funktioniert, als alles, was beide bisher kannten. Es ist die Verheißung auf das große Glück. Doch dann droht ihre Verbindung zu zerbrechen – an der Angst, sich einander wirklich zu zeigen und sich den eigenen Abgründen zu stellen.\nIn \"Glück\" erzählt Henrika Kull von zwei Frauen, die sich in einer Welt begegnen, in der weibliche Körper Waren sind. In authentischen, kraftvollen Bildern folgt sie ihren beiden Hauptfiguren, die sich erst umschleichen, dann umtanzen, bald nicht mehr ohne einander können, aber auch nicht wirklich miteinander. ",
+      "trailer": "https://www.youtube-nocookie.com/embed/Kx_oZrx6OJc?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
+      "description": "In dem sizilianischen Städtchen Siculiana verehren die Menschen seit vielen Jahrhunderten die Statue eines schwarzen Jesus. Als der 19-jährige Edward aus Ghana, Bewohner des viel diskutierten Flüchtlingszentrums, darum bittet, gemeinsam mit den Einheimischen die Jesus-Statue in der großen jährlichen Prozession durch den Ort tragen zu dürfen, spaltet dieser Wunsch die Gemeinde.\nMit großem Gespür für Stimmen und und Stimmungen begibt sich der in malerischem CinemaScope gefilmte und von Wim Wenders produzierte Dokumentarfilm auf eine Reise, die den Ursprung von Angst und Vorurteilen gegenüber \"den anderen\" erforscht.\n\n",
       "cinemaId": "fh_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
       "cinemaName": "Freiluftkino Friedrichshain",
       "cinemaShortName": "fhain",
-      "id": "fhain-709",
-      "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/709",
-      "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=694",
-      "title": "Glück",
-      "date": "Mi., 21.7.",
-      "timestamp": 1626903000000,
+      "id": "fhain-707",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/707",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=692",
+      "title": "A Black Jesus",
+      "date": "Mo., 19.7.",
+      "timestamp": 1626730200000,
       "time": "21:30",
-      "available": 923,
-      "reserved": 155,
+      "available": 1028,
+      "reserved": 50,
       "bookable": true
     },
     {
@@ -73,6 +156,24 @@
       "bookable": true
     },
     {
+      "trailer": "https://www.youtube-nocookie.com/embed/pcnsRrFpOc4?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
+      "description": "Sascha arbeitet schon seit Jahren im Berliner Bordell Queens. Maria ist die Neue, unangepasst, autark, queer. Sascha fühlt sich sofort von dieser Andersartigkeit angezogen, Maria wiederum ist fasziniert von Saschas Souveränität. Aus der Anziehung wird eine Liebe, die anders funktioniert, als alles, was beide bisher kannten. Es ist die Verheißung auf das große Glück. Doch dann droht ihre Verbindung zu zerbrechen – an der Angst, sich einander wirklich zu zeigen und sich den eigenen Abgründen zu stellen.\nIn \"Glück\" erzählt Henrika Kull von zwei Frauen, die sich in einer Welt begegnen, in der weibliche Körper Waren sind. In authentischen, kraftvollen Bildern folgt sie ihren beiden Hauptfiguren, die sich erst umschleichen, dann umtanzen, bald nicht mehr ohne einander können, aber auch nicht wirklich miteinander. ",
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
+      "cinemaShortName": "fhain",
+      "id": "fhain-709",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/709",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=694",
+      "title": "Glück",
+      "date": "Mi., 21.7.",
+      "timestamp": 1626903000000,
+      "time": "21:30",
+      "available": 923,
+      "reserved": 155,
+      "bookable": true
+    },
+    {
       "trailer": "https://www.youtube-nocookie.com/embed/cq4qKvvR76E?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
       "description": "Ein weiterer Beweis, dass das Leben noch immer die außergewöhnlichsten Geschichten schreibt, ist die wahre Lebensgeschichte des britischen Elektroartikelhändler Greville Wynne, der in den 1960er Jahren, die Welt steht kurz vor einem Nuklearkrieg,  vom britischen Geheimdienst rekrutiert wird. Als Spion hat er zwar keinerlei Erfahrung, ein James-Bond-Typ ist er auch nicht. So einen suchen seine Auftraggeber aber auch gar nicht: Sie wollen einen unauffälligen Geschäftsreisenden nach Moskau schicken, der dort den sowjetischen Geheimdienstmitarbeiter und Überläufer Oleg Penkowski treffen soll. Die beiden Männer verstehen sich, die Gefährlichkeit ihrer Mission ist ihnen bewusst und schweißt sie umso mehr zusammen. Schon bald bezeichnen sie sich als Freunde, die für einander jederzeit einstehen würden. Doch lange bald bleibt diese Freundschaft nicht unentdeckt. \n",
       "cinemaId": "fh_freiluftkino",
@@ -86,26 +187,8 @@
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
       "time": "21:30",
-      "available": 960,
-      "reserved": 118,
-      "bookable": true
-    },
-    {
-      "trailer": "https://www.youtube-nocookie.com/embed/6KgeaX9g0xA?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
-      "description": "Mitten in der der mongolischen Steppe wächst der elfjährige Amra in einer traditionellen Nomandengemeinschaft auf. Morgens wird er von seinem Vater in die Schule gefahren, abends hilft er, die Herde mit den Schafen und Ziegen zur Jurte zu treiben. Mit seinen gleichaltrigen Freunden schaut er YouTube-Videos und träumt davon bei Mongolia´s Got Talent aufzutreten. Zuhause treffen sich derweil die Erwachsenen unter der Führung seines Vaters, um über die Zukunft der Gemeinschaft zu beraten. Auf der Suche nach Gold bedrohen globale Bergbaukonzerne die Lebensgrundlage in der Steppe. Der unerwartete Tod des Vaters konfrontiert Amras Träume mit der Realität. Mit aller Macht nimmt er sich vor, dem Vermächtnis seines Vaters gerecht zu werden.",
-      "cinemaId": "fh_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
-      "cinemaName": "Freiluftkino Friedrichshain",
-      "cinemaShortName": "fhain",
-      "id": "fhain-713",
-      "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/713",
-      "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=698",
-      "title": "Die Adern der Welt",
-      "date": "So., 25.7.",
-      "timestamp": 1627248600000,
-      "time": "21:30",
-      "available": 1060,
-      "reserved": 18,
+      "available": 952,
+      "reserved": 126,
       "bookable": true
     },
     {
@@ -127,24 +210,6 @@
       "bookable": true
     },
     {
-      "trailer": "https://www.youtube-nocookie.com/embed/5PlNW3_xHvU?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
-      "description": "\"Ein starkes Schauspielerduell.\" (programmkino.de): Im besetzten Frankreich wird der junge Belgier Gilles von der SS verhaftet und in ein KZ gebracht. Um der Exekution zu entgehen behauptet er, Perser zu sein – eine Lüge, die ihm zunächst das Leben rettet. Doch als  Lagerkommandant Klaus Koch von einem Perser in seinem Lager hört, lässt er ihn zu sich bringen. Ausgerechnet in Teheran will Koch nach dem Krieg ein Restaurant eröffnen und daher auch Persisch lernen. Da gibt es nur ein Problem: Gilles spricht kein Persisch. Verzweifelt beginnt er Wörter, schließlich eine ganze Sprache zu erfinden. Ein Drahtseilakt beginnt, denn jeder Fehltritt könnte Gilles auffliegen lassen. ",
-      "cinemaId": "fh_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
-      "cinemaName": "Freiluftkino Friedrichshain",
-      "cinemaShortName": "fhain",
-      "id": "fhain-715",
-      "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/715",
-      "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=700",
-      "title": "Persischstunden",
-      "date": "Di., 27.7.",
-      "timestamp": 1627421400000,
-      "time": "21:30",
-      "available": 1065,
-      "reserved": 13,
-      "bookable": true
-    },
-    {
       "trailer": "https://www.youtube-nocookie.com/embed/cd-go0oBF4Y?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
       "description": "\"Ich bin der Dude. Und so sollten Sie mich auch nennen, ist das klar? Entweder so oder Seine Dudeheit oder Duder oder auch El Duderino, falls Ihnen das mit den Kurznamen nicht so liegt.\" Eine Saison ohne ein Rendezvous mit dem Dude, Walter, Jesus, und den Nihilisten ist schwer vorstellbar. Auf also zum Lebowski-Fest: Lasst uns Teppiche würdigen, die den Raum erst so richtig gemütlich machen und die Alltagstauglichkeit eines White Russian wertschätzen. Kurz: Leinwand frei, der Dude gibt sich die Ehre!",
       "cinemaId": "fh_freiluftkino",
@@ -163,6 +228,24 @@
       "bookable": true
     },
     {
+      "trailer": "https://www.youtube-nocookie.com/embed/6KgeaX9g0xA?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
+      "description": "Mitten in der der mongolischen Steppe wächst der elfjährige Amra in einer traditionellen Nomandengemeinschaft auf. Morgens wird er von seinem Vater in die Schule gefahren, abends hilft er, die Herde mit den Schafen und Ziegen zur Jurte zu treiben. Mit seinen gleichaltrigen Freunden schaut er YouTube-Videos und träumt davon bei Mongolia´s Got Talent aufzutreten. Zuhause treffen sich derweil die Erwachsenen unter der Führung seines Vaters, um über die Zukunft der Gemeinschaft zu beraten. Auf der Suche nach Gold bedrohen globale Bergbaukonzerne die Lebensgrundlage in der Steppe. Der unerwartete Tod des Vaters konfrontiert Amras Träume mit der Realität. Mit aller Macht nimmt er sich vor, dem Vermächtnis seines Vaters gerecht zu werden.",
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
+      "cinemaShortName": "fhain",
+      "id": "fhain-713",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/713",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=698",
+      "title": "Die Adern der Welt",
+      "date": "So., 25.7.",
+      "timestamp": 1627248600000,
+      "time": "21:30",
+      "available": 1060,
+      "reserved": 18,
+      "bookable": true
+    },
+    {
       "trailer": "https://www.youtube-nocookie.com/embed/D1N5FsXlbTE?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
       "description": "Die schwarze Sängerin Billie Holiday (Andra Day) wird in den 1940er als Sängerin gefeiert. Doch dass die Texte mancher ihrer Songs die Bürgerrechtsbewegung befeuern, sehen die Behörden nicht gern. Bundesagent Harry Anslinger (Garrett Hedlund) macht es sich wegen des Anti-Lynching-Songs \"Strange Fruit\" zur Aufgabe, die Sängerin in Verruf zu ziehen. Er will ihre Heroin-Sucht nutzen und sie ins Gefängnis bringen. Doch Billie Holiday will sich ganz sicher nicht mundtot machen lassen.\n\"Andra Day bringt die Leinwand zum glühen.\" Hollywood Reporter",
       "cinemaId": "fh_freiluftkino",
@@ -178,6 +261,24 @@
       "time": "21:30",
       "available": 1038,
       "reserved": 40,
+      "bookable": true
+    },
+    {
+      "trailer": "https://www.youtube-nocookie.com/embed/5PlNW3_xHvU?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
+      "description": "\"Ein starkes Schauspielerduell.\" (programmkino.de): Im besetzten Frankreich wird der junge Belgier Gilles von der SS verhaftet und in ein KZ gebracht. Um der Exekution zu entgehen behauptet er, Perser zu sein – eine Lüge, die ihm zunächst das Leben rettet. Doch als  Lagerkommandant Klaus Koch von einem Perser in seinem Lager hört, lässt er ihn zu sich bringen. Ausgerechnet in Teheran will Koch nach dem Krieg ein Restaurant eröffnen und daher auch Persisch lernen. Da gibt es nur ein Problem: Gilles spricht kein Persisch. Verzweifelt beginnt er Wörter, schließlich eine ganze Sprache zu erfinden. Ein Drahtseilakt beginnt, denn jeder Fehltritt könnte Gilles auffliegen lassen. ",
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
+      "cinemaShortName": "fhain",
+      "id": "fhain-715",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/715",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=700",
+      "title": "Persischstunden",
+      "date": "Di., 27.7.",
+      "timestamp": 1627421400000,
+      "time": "21:30",
+      "available": 1065,
+      "reserved": 13,
       "bookable": true
     },
     {
@@ -235,41 +336,6 @@
       "bookable": true
     },
     {
-      "trailer": "https://www.youtube-nocookie.com/embed/c_Z31xU_eD8?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
-      "description": "Eben noch war Ben gefeierter Fußballheld und beliebtester Schüler, nun ist er Außenseiter und Ersatzspieler. Und das alles nur, weil unter seinem Heimatdorf riesige Braunkohlevorkommen entdeckt und alle Bewohner in die nächstgrößere Stadt umgesiedelt wurden. Und hier läuft nichts mehr, wie es Ben gewohnt ist: In der Schule wird der 12-Jährige gemobbt und auf dem Fußballplatz wird der vormals beste Stürmer auf die Ersatzbank verbannt. Zu allem Überfluss gibt es noch einen weiteren Neuankömmling an der Schule: Tariq (11), Flüchtling aus Syrien, der ihm nicht nur in der Klasse die Show stehlt, sondern auch noch auf dem Fußballplatz punktet. Wird Ben im Abseits bleiben – oder hat sein Konkurrent doch mehr mit ihm gemeinsam als er denkt?",
-      "cinemaId": "fh_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
-      "cinemaName": "Freiluftkino Friedrichshain",
-      "cinemaShortName": "fhain",
-      "id": "fhain-702",
-      "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/702",
-      "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=687",
-      "title": "28. Kinderkino-MondLichtFest",
-      "date": "Sa., 7.8.,",
-      "timestamp": 1628368200000,
-      "time": "20:30",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "description": "Wir hatten viel Spaß mit Godzilla vs. Kong. Man muss wissen, dass es erstmal nichts Gutes bedeutet, wenn Titanen -aus welchen Gründen auch immer- geweckt werden und, dass es eigentlich besser ist, wenn sie sich aus dem Weg gehen ....",
-      "cinemaId": "fh_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
-      "cinemaName": "Freiluftkino Friedrichshain",
-      "cinemaShortName": "fhain",
-      "id": "fhain-720",
-      "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/720",
-      "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=705",
-      "title": "Vodafone Filmnacht: Godzilla vs. Kong",
-      "date": "Fr., 6.8.,",
-      "timestamp": 1628283600000,
-      "time": "21:00",
-      "available": 976,
-      "reserved": 102,
-      "bookable": true
-    },
-    {
       "description": "Als Anja Caspary die Diagnose Brustkrebs erhält, ist der Schock zunächst riesig. Statt sich mit der Frage nach dem Warum aufzuhalten oder die Krankheit zu verschweigen, nimmt sie ihr Schicksal selbstbewusst in die Hand. Sie spricht frei und ohne Tabus über ihr Leben mit dem Krebs und trifft unkonventionelle Entscheidungen – auch gegen den Rat der Ärzte, aber immer mit der 100-prozentigen Unterstützung von Hagen, ihrer großen Liebe seit mehr als 20 Jahren. Dann erkrankt Hagen schwer. In ihrem bewegenden Buch schreibt Anja Caspary darüber, dass ein Leben auch angesichts existentieller Verluste möglich ist. Und darüber, dass eine Liebe auch den Tod überdauern kann.",
       "cinemaId": "fh_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
@@ -287,70 +353,20 @@
       "bookable": true
     },
     {
-      "description": "Ein Roadtrip voller Komik, Dramatik und unvorhersehbarer Abzweigungen von Deutschlands Bestsellerautor Nr. 1 Sebastian Fitzek - mit zwei skurrilen, ans Herz gehenden Hauptfiguren, die unterschiedlicher nicht sein könnten. Livius Reimer macht sich auf den Weg von München nach Berlin, um seine Ehe zu retten. Als sein Flug gestrichen wird, muss er sich den einzig noch verfügbaren Mietwagen mit einer jungen Frau teilen, um die er sonst einen großen Bogen gemacht hätte. Zu schräg, zu laut, zu ungewöhnlich - mit ihrer unkonventionellen Sicht auf die Welt überfordert Lea von Armin Livius von der ersten Sekunde an. Bereits kurz nach der Abfahrt lässt Livius sich auf ein ungewöhnliches Gedankenexperiment von Lea ein – und weiß nicht, dass damit nicht nur ihr Roadtrip einen völlig neuen Verlauf nimmt, sondern sein ganzes Leben!",
+      "description": "Wir hatten viel Spaß mit Godzilla vs. Kong. Man muss wissen, dass es erstmal nichts Gutes bedeutet, wenn Titanen -aus welchen Gründen auch immer- geweckt werden und, dass es eigentlich besser ist, wenn sie sich aus dem Weg gehen ....",
       "cinemaId": "fh_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
       "cinemaName": "Freiluftkino Friedrichshain",
       "cinemaShortName": "fhain",
-      "id": "fhain-667",
-      "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/667",
-      "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=655",
-      "title": "Sebastian Fitzek liest aus „Der erste letzte Tag“",
-      "date": "Sa., 14.8.",
-      "timestamp": 1628960400000,
-      "time": "17:00",
-      "available": 721,
-      "reserved": 272,
-      "bookable": true
-    },
-    {
-      "cinemaId": "fh_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
-      "cinemaName": "Freiluftkino Friedrichshain",
-      "cinemaShortName": "fhain",
-      "id": "fhain-670",
-      "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/670",
-      "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=657",
-      "title": "Florian Schröder liest aus „Schluss mit der Mein..",
-      "date": "So., 22.8.",
-      "timestamp": 1629649800000,
-      "time": "16:30",
-      "available": 0,
-      "reserved": 0,
-      "bookable": true
-    },
-    {
-      "description": "In seinem Buch erzählt Savas Yurderi nicht nur unbekannte Storys aus den Anfangsjahren seiner Karriere, er berichtet auch von der Geschichte der Verfolgung und Flucht seiner Eltern und zeichnet seinen persönlichen Weg an die Spitze der Charts nach. Wegbegleiter, Freunde und Business-Profis wie Eko Fresh, Artur Abraham, Haftbefehl, Freddie Lau, Sido, Lena Gercke, Tim Raue, Kida Ramadan oder Sony-CEO Patrick Mushatsi-Kareba u.a. berichten von ihren persönlichen Erlebnissen mit Kool Savas.\n",
-      "cinemaId": "fh_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
-      "cinemaName": "Freiluftkino Friedrichshain",
-      "cinemaShortName": "fhain",
-      "id": "fhain-703",
-      "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/703",
-      "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=688",
-      "title": "Literatur Live: Kool Savas",
-      "date": "Sa., 4.9.,",
-      "timestamp": 1630769400000,
-      "time": "15:30",
-      "available": 1070,
-      "reserved": 8,
-      "bookable": true
-    },
-    {
-      "description": "Was hat uns Jean-Luc Bannalec nicht schon alles zugemutet? Leichen an Traumstränden, Gewalttaten im wunderschönen Concarneau, der blauen Stadt am Meer. Mit jedem Band erkunden die Leserinnen und Leser andere Ecken der Bretagne und begegnen den Eigenarten der Bretonen. Im neuesten Buch »Bretonische Idylle« hat die Hitzewelle in diesem August sogar die Bretagne fest im Griff, keine Aussicht auf Abkühlung für Kommissar Dupin. Und zu allem Überfluss plant Nolwenn auch noch die große Feier seines zehnjährigen Dienstjubiläums. Doch dann wird eines Morgens ein Toter an der Küste bei Concarneau aus dem Meer gefischt, ein Bewohner der legendären Belle-Île – und ehe sich Dupin versieht, befindet er sich an Bord eines Schnellbootes auf dem Weg zur »schönsten Insel der Welt«. Buchpremiere von Literatur LIVE in Kooperation mit der Thalia Buchhandlung. ",
-      "cinemaId": "fh_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
-      "cinemaName": "Freiluftkino Friedrichshain",
-      "cinemaShortName": "fhain",
-      "id": "fhain-704",
-      "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/704",
-      "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=689",
-      "title": "Literatur Live: Jean-Luc Bannalec",
-      "date": "So., 12.9.",
-      "timestamp": 1631458800000,
-      "time": "15:00",
-      "available": 1048,
-      "reserved": 30,
+      "id": "fhain-720",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/720",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=705",
+      "title": "Vodafone Filmnacht: Godzilla vs. Kong",
+      "date": "Fr., 6.8.,",
+      "timestamp": 1628283600000,
+      "time": "21:00",
+      "available": 974,
+      "reserved": 104,
       "bookable": true
     }
   ],
@@ -369,8 +385,8 @@
       "date": "Mo., 19.7.",
       "timestamp": 1626730200000,
       "time": "21:30",
-      "available": 372,
-      "reserved": 195,
+      "available": 367,
+      "reserved": 200,
       "bookable": true
     },
     {
@@ -404,8 +420,8 @@
       "date": "Sa., 17.7.",
       "timestamp": 1626557400000,
       "time": "21:30",
-      "available": 215,
-      "reserved": 352,
+      "available": 190,
+      "reserved": 377,
       "bookable": true
     },
     {
@@ -440,8 +456,8 @@
       "date": "So., 18.7.",
       "timestamp": 1626643800000,
       "time": "21:30",
-      "available": 327,
-      "reserved": 240,
+      "available": 323,
+      "reserved": 244,
       "bookable": true
     },
     {
@@ -476,8 +492,8 @@
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
       "time": "21:30",
-      "available": 476,
-      "reserved": 91,
+      "available": 474,
+      "reserved": 93,
       "bookable": true
     },
     {
@@ -654,8 +670,8 @@
       "date": "Sa., 17.7.",
       "timestamp": 1626557400000,
       "time": "21:30",
-      "available": 57,
-      "reserved": 516,
+      "available": 44,
+      "reserved": 529,
       "bookable": true
     },
     {
@@ -672,8 +688,8 @@
       "date": "Mo., 19.7.",
       "timestamp": 1626730200000,
       "time": "21:30",
-      "available": 523,
-      "reserved": 50,
+      "available": 517,
+      "reserved": 56,
       "bookable": true
     },
     {
@@ -834,8 +850,8 @@
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
       "time": "21:30",
-      "available": 562,
-      "reserved": 11,
+      "available": 560,
+      "reserved": 13,
       "bookable": true
     },
     {
@@ -952,8 +968,8 @@
       "date": "Fr., 20.8.",
       "timestamp": 1629489600000,
       "time": "20:00",
-      "available": 177,
-      "reserved": 278,
+      "available": 176,
+      "reserved": 279,
       "bookable": true
     },
     {
@@ -1023,8 +1039,8 @@
       "img": "https://media.kinoheld.de/X8gi67JwbS_J1nUXj3oEJMyMhlY=/400x560/images%2Ffilm%2Fstudio-54-13373.v2.jpg",
       "description": "Im New York der 1970er Jahre definierte und prägte das legendäre Studio 54 das Lebensgefühl der Disco-Ära. In dem Dokumentarfilm von Matt Tyrnauer erzählen erstmals die damaligen Beteiligten davon, wie der berühmteste Nachtclub der Welt entstand.\r\n> Wilde Partys, Drogenexzesse und hemmungsloser Sex – der New Yorker Nachtclub Studio 54 war das leuchtende Symbol für die Exzentrik und das Lebenshochgefühl der 1970er. Mit seinen ausschweifenden Feiern zog er Weltstars wie Michael Jackson, Andy Warhol und Liza Minelli in seinen Bann. Zum ersten Mal erzählt einer der beiden Gründer vom Aufstieg und Niedergang des Mythos Studio 54.",
       "trailer": "https://youtu.be/46G880wTR0U",
-      "available": 55,
-      "reserved": 25,
+      "available": 48,
+      "reserved": 35,
       "bookable": true
     },
     {
@@ -1210,8 +1226,8 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691189?layout=shows",
       "img": "https://media.kinoheld.de/kViFFMcK-hIHnoIIZk2Xx8vzPk0=/400x560/images%2Ffilm%2Fthe-nest-17767.v19.jpg",
       "description": "Rory, ein ehrgeiziger Unternehmer und ehemaliger Rohstoffmakler, überredet seine amerikanische Frau Allison und seine Kinder, die Annehmlichkeiten der amerikanischen Vorstadt zu verlassen und in den 1980er Jahren in sein Heimatland England zurückzukehren. Rory wittert eine Gelegenheit und pachtet ein jahrhundertealtes Landgut mit Grundstücken für Allisons Pferde und Plänen zum Bau eines Stalls. Bald beginnt sich das Versprechen eines lukrativen Neuanfangs im englischen Herrenhaus aufzulösen und das Paar muss sich den unwillkommenen Wahrheiten stellen, die unter der Oberfläche seiner Ehe liegen. Die unheimliche Isolation, in der sich Rorys Familie im neuen Haus befindet, tut ihr Übriges, die Mitglieder voneinander zu entfernen. Ein Kreislauf der Selbstzerstörung beginnt ...",
-      "available": 389,
-      "reserved": 71,
+      "available": 388,
+      "reserved": 72,
       "bookable": true
     },
     {
@@ -1347,9 +1363,9 @@
       "img": "https://media.kinoheld.de/-I0CPHVuCYVVilRIJXYtLJ5Rgjw=/400x560/images%2Ffilm%2F4%2Fthe-human-scale-2231.v1.jpg",
       "description": "Das Leben der Menschen ist zunehmend ein Leben in Städten. Immer weniger Leute wohnen heute nämlich auf dem Land und immer mehr von ihnen in immer größeren Städten - Tendenz steigend. Aber welchen Einfluss haben sogenannte Megacitys auf unsere Verhaltensweisen? Und wie hängen sie mit dem Klimawandel, der Gesundheitsversorgung und einer zunehmenden Vereinsamung durch Anonymität zusammen? Diesen Fragen geht der Dokumentarfilm nach. (j.b.)",
       "trailer": "https://www.youtube.com/watch?v=yFbfhJ15Xek",
-      "available": -1,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1522,9 +1538,9 @@
       "timestamp": 1627257600000,
       "time": "16:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691334?layout=shows",
-      "available": -1,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1773,9 +1789,9 @@
       "timestamp": 1628121600000,
       "time": "19:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691312?layout=shows",
-      "available": -1,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1833,9 +1849,9 @@
       "timestamp": 1630368000000,
       "time": "19:00",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691782?layout=shows",
-      "available": -1,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     }
   ],
   "freiluftkino-insel-im-cassiopeia": [
@@ -3143,8 +3159,8 @@
       "img": "https://media.kinoheld.de/oO1mnhwCgLFA2jiJXg5aKuZEIBE=/400x560/images%2Ffilm%2F4%2Fb-movie-lust-sound-in-west-berlin-1979-1989-1581.v15.jpg",
       "description": "Eine Dokumentation über Musik, Kunst & Chaos im wilden West-Berlin der 80er Jahre. Bevor der eiserne Vorhang fiel, war die eingemauerte Stadt ein kreativer Schmelztiegel für Sub- und Popkultur. Von Punk bis zur Love Parade - erzählt mit authentischen Zeitdokumenten aus unzähligen Archiven.",
       "trailer": "https://youtu.be/MKJ-nXADsVk",
-      "available": 89,
-      "reserved": 56,
+      "available": 86,
+      "reserved": 59,
       "bookable": true
     },
     {
@@ -3422,9 +3438,9 @@
       "time": "21:30",
       "date": "Sa., 17.7.",
       "timestamp": 1626557400000,
-      "available": 17,
-      "reserved": 443,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "title": "The Rider (OmU)",
@@ -3440,8 +3456,8 @@
       "time": "21:30",
       "date": "So., 18.7.",
       "timestamp": 1626643800000,
-      "available": 384,
-      "reserved": 76,
+      "available": 382,
+      "reserved": 78,
       "bookable": true
     },
     {
@@ -3457,8 +3473,8 @@
       "time": "21:30",
       "date": "Mo., 19.7.",
       "timestamp": 1626730200000,
-      "available": 283,
-      "reserved": 177,
+      "available": 281,
+      "reserved": 179,
       "bookable": true
     },
     {
@@ -3539,8 +3555,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 426,
-      "reserved": 34,
+      "available": 421,
+      "reserved": 39,
       "bookable": true
     },
     {
@@ -3644,8 +3660,8 @@
       "time": "21:30",
       "date": "Mo., 19.7.",
       "timestamp": 1626730200000,
-      "available": 283,
-      "reserved": 177,
+      "available": 281,
+      "reserved": 179,
       "bookable": true
     },
     {
@@ -3661,8 +3677,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 426,
-      "reserved": 34,
+      "available": 421,
+      "reserved": 39,
       "bookable": true
     },
     {
@@ -3679,9 +3695,9 @@
       "time": "21:30",
       "date": "Sa., 17.7.",
       "timestamp": 1626557400000,
-      "available": 17,
-      "reserved": 443,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "title": "Eine Frau mit berauschenden Talenten",
@@ -3748,8 +3764,8 @@
       "time": "21:30",
       "date": "So., 18.7.",
       "timestamp": 1626643800000,
-      "available": 384,
-      "reserved": 76,
+      "available": 382,
+      "reserved": 78,
       "bookable": true
     },
     {
@@ -3835,8 +3851,8 @@
       "time": "21:30",
       "date": "Sa., 17.7.",
       "timestamp": 1626557400000,
-      "available": 266,
-      "reserved": 233,
+      "available": 250,
+      "reserved": 249,
       "bookable": true
     },
     {
@@ -3852,8 +3868,8 @@
       "time": "21:30",
       "date": "So., 18.7.",
       "timestamp": 1626643800000,
-      "available": 334,
-      "reserved": 165,
+      "available": 328,
+      "reserved": 171,
       "bookable": true
     },
     {
@@ -3942,8 +3958,8 @@
       "time": "21:30",
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
-      "available": 420,
-      "reserved": 223,
+      "available": 416,
+      "reserved": 227,
       "bookable": true
     },
     {
@@ -3960,8 +3976,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 587,
-      "reserved": 56,
+      "available": 583,
+      "reserved": 60,
       "bookable": true
     },
     {
@@ -4031,8 +4047,8 @@
       "time": "21:30",
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
-      "available": 477,
-      "reserved": 22,
+      "available": 475,
+      "reserved": 24,
       "bookable": true
     },
     {
@@ -4049,8 +4065,8 @@
       "time": "21:30",
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
-      "available": 420,
-      "reserved": 223,
+      "available": 416,
+      "reserved": 227,
       "bookable": true
     },
     {
@@ -4067,8 +4083,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 587,
-      "reserved": 56,
+      "available": 583,
+      "reserved": 60,
       "bookable": true
     },
     {
@@ -4084,8 +4100,8 @@
       "time": "21:30",
       "date": "Sa., 17.7.",
       "timestamp": 1626557400000,
-      "available": 266,
-      "reserved": 233,
+      "available": 250,
+      "reserved": 249,
       "bookable": true
     },
     {
@@ -4190,8 +4206,8 @@
       "time": "21:30",
       "date": "So., 18.7.",
       "timestamp": 1626643800000,
-      "available": 334,
-      "reserved": 165,
+      "available": 328,
+      "reserved": 171,
       "bookable": true
     },
     {
@@ -4208,8 +4224,8 @@
       "time": "21:30",
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
-      "available": 477,
-      "reserved": 22,
+      "available": 475,
+      "reserved": 24,
       "bookable": true
     },
     {
