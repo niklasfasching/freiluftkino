@@ -68,8 +68,8 @@
       "date": "So., 18.7.",
       "timestamp": 1626643800000,
       "time": "21:30",
-      "available": 886,
-      "reserved": 192,
+      "available": 884,
+      "reserved": 194,
       "bookable": true
     },
     {
@@ -85,8 +85,8 @@
       "date": "Sa., 17.7.",
       "timestamp": 1626557400000,
       "time": "21:30",
-      "available": 380,
-      "reserved": 698,
+      "available": 302,
+      "reserved": 776,
       "bookable": true
     },
     {
@@ -329,8 +329,8 @@
       "date": "Di., 20.7.",
       "timestamp": 1626816600000,
       "time": "21:30",
-      "available": 1026,
-      "reserved": 52,
+      "available": 1024,
+      "reserved": 54,
       "bookable": true
     },
     {
@@ -402,8 +402,8 @@
       "date": "Mo., 19.7.",
       "timestamp": 1626730200000,
       "time": "21:30",
-      "available": 379,
-      "reserved": 188,
+      "available": 376,
+      "reserved": 191,
       "bookable": true
     },
     {
@@ -437,8 +437,8 @@
       "date": "Sa., 17.7.",
       "timestamp": 1626557400000,
       "time": "21:30",
-      "available": 374,
-      "reserved": 193,
+      "available": 339,
+      "reserved": 228,
       "bookable": true
     },
     {
@@ -473,8 +473,8 @@
       "date": "So., 18.7.",
       "timestamp": 1626643800000,
       "time": "21:30",
-      "available": 346,
-      "reserved": 221,
+      "available": 338,
+      "reserved": 229,
       "bookable": true
     },
     {
@@ -509,8 +509,8 @@
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
       "time": "21:30",
-      "available": 486,
-      "reserved": 81,
+      "available": 481,
+      "reserved": 86,
       "bookable": true
     },
     {
@@ -598,8 +598,8 @@
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
       "time": "21:30",
-      "available": 526,
-      "reserved": 41,
+      "available": 524,
+      "reserved": 43,
       "bookable": true
     },
     {
@@ -669,8 +669,8 @@
       "date": "Mi., 21.7.",
       "timestamp": 1626903000000,
       "time": "21:30",
-      "available": 487,
-      "reserved": 86,
+      "available": 485,
+      "reserved": 88,
       "bookable": true
     },
     {
@@ -687,8 +687,8 @@
       "date": "Sa., 17.7.",
       "timestamp": 1626557400000,
       "time": "21:30",
-      "available": 202,
-      "reserved": 371,
+      "available": 168,
+      "reserved": 405,
       "bookable": true
     },
     {
@@ -705,8 +705,8 @@
       "date": "Mo., 19.7.",
       "timestamp": 1626730200000,
       "time": "21:30",
-      "available": 533,
-      "reserved": 40,
+      "available": 529,
+      "reserved": 44,
       "bookable": true
     },
     {
@@ -723,8 +723,8 @@
       "date": "So., 18.7.",
       "timestamp": 1626643800000,
       "time": "21:30",
-      "available": 464,
-      "reserved": 109,
+      "available": 448,
+      "reserved": 125,
       "bookable": true
     },
     {
@@ -1056,8 +1056,8 @@
       "img": "https://media.kinoheld.de/X8gi67JwbS_J1nUXj3oEJMyMhlY=/400x560/images%2Ffilm%2Fstudio-54-13373.v2.jpg",
       "description": "Im New York der 1970er Jahre definierte und prägte das legendäre Studio 54 das Lebensgefühl der Disco-Ära. In dem Dokumentarfilm von Matt Tyrnauer erzählen erstmals die damaligen Beteiligten davon, wie der berühmteste Nachtclub der Welt entstand.\r\n> Wilde Partys, Drogenexzesse und hemmungsloser Sex – der New Yorker Nachtclub Studio 54 war das leuchtende Symbol für die Exzentrik und das Lebenshochgefühl der 1970er. Mit seinen ausschweifenden Feiern zog er Weltstars wie Michael Jackson, Andy Warhol und Liza Minelli in seinen Bann. Zum ersten Mal erzählt einer der beiden Gründer vom Aufstieg und Niedergang des Mythos Studio 54.",
       "trailer": "https://youtu.be/46G880wTR0U",
-      "available": 66,
-      "reserved": 19,
+      "available": 65,
+      "reserved": 20,
       "bookable": true
     },
     {
@@ -1111,9 +1111,9 @@
       "img": "https://media.kinoheld.de/QIa9IC9nD7ePTSvb5QyqjfWQUP4=/400x560/images%2Ffilm%2Fyakari-der-kinofilm-17433.v210.jpg",
       "description": "Yakari hat einen Traum: Er möchte eines Tages auf Kleiner Donner reiten, dem Wildpferd, das noch von keinem Sioux gezähmt werden konnte.  Als die Jäger seines Stammes eine Herde Mustangs einfangen, kann Kleiner Donner mit einem mächtigen Sprung wieder entkommen. Yakari folgt dem jungen Pferd und befreit es, als es seinen Huf unter einem Felsen eingeklemmt hat. Für diese mutige Tat verleiht ihm Großer Adler, Yakaris Totemtier, die Gabe, mit Tieren zu sprechen.  Auf der Suche nach Kleiner Donner gerät Yakari in einen reißenden Fluss. Nun ist es Yakari, der die Hilfe von Kleiner Donner braucht: Gemeinsam machen sie sich auf den weiten und abenteuerlichen Rückweg durchs Gebirge.",
       "trailer": "https://www.youtube.com/watch?v=bRDZZBmoRow",
-      "available": -1,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1147,9 +1147,9 @@
       "img": "https://media.kinoheld.de/PnAEkP5wBimLWhkdEqAVF1D935s=/400x560/images%2Ffilm%2Feine-frau-mit-berauschenden-talenten-17113.v1237.jpg",
       "description": "Patience ist selbstbewusst, unabhängig und vor allem schlagfertig. Als Dolmetscherin im Drogendezernat übersetzt sie abgehörte Telefonate der Drogenszene und ist dafür massiv unterbezahlt. Als das kostspielige Pflegeheim ihrer Mutter wegen unbezahlter Rechnungen droht, die alte Dame auszuquartieren, gerät Patience unter Handlungsdruck. Der Zufall will es, dass gerade eine Drogenlieferung auf dem Weg nach Paris ist. Patience entscheidet sich spontan gegen die Ehrlichkeit und sabotiert die Beschlagnahmung der Drogen. In Eigenregie fahndet sie nach dem hochwertigen Hasch - und wird fündig. Patience macht sich sofort fröhlich ans Werk und zeigt sich von ihrer besten Seite: als begnadete Verkäuferin mischt sie den Pariser Drogenmarkt maximal auf. Sie ist die neue Drogen-Autorität der Stadt und für die Polizei ein Phantom. Doch die Drogendiva muss sich sputen, denn ausgerechnet ihr Verehrer Philippe, Leiter des Drogendezernats, hat einen Verdacht, wer hinter dem Phantom wirklich steckt ...",
       "trailer": "https://www.youtube.com/watch?v=Nw27GQLIaiM",
-      "available": 9,
-      "reserved": 203,
-      "bookable": true
+      "available": 0,
+      "reserved": 210,
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1196,9 +1196,9 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691188?layout=shows",
       "img": "https://media.kinoheld.de/L38EzF0p2enDK_I6YSIF62yiGy0=/400x560/images%2Ffilm%2Fschwesterlein-17561.v71.jpg",
       "description": "Lisa, einst brillante Theaterautorin, schreibt nicht mehr. Sie lebt in der Schweiz, doch ihr Herz ist in Berlin geblieben – bei ihrem Zwillingsbruder Sven, dem berühmten Bühnendarsteller. Seit dieser an einer aggressiven Leukämie erkrankt ist, sind die Geschwister noch enger verbunden. Lisa weigert sich, den Schicksalsschlag hinzunehmen und setzt alle Hebel in Bewegung, um Sven wieder auf die Bühne zu bringen. Er ist ihr Seelenverwandter, für den sie alles andere vernachlässigt. Selbst als ihre Ehe in Schieflage gerät, hat sie nur Augen für ihren Bruder, in dem sich ihre tiefsten Sehnsüchte spiegeln: Er weckt in ihr das Verlangen, wieder kreativ zu sein, sich lebendig zu fühlen.  Mit SCHWESTERLEIN ist ein aufwühlendes Drama gelungen, das sich voll und ganz auf seine überragenden Hauptdarsteller verlassen kann: Nina Hoss und Lars Eidinger– erstmals gemeinsam vor der Kamera – verkörpern das innige Geschwisterpaar voller Glaubwürdigkeit und leidenschaftlicher Intensität.",
-      "available": 512,
-      "reserved": 41,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1397,9 +1397,9 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691233?layout=shows",
       "img": "https://media.kinoheld.de/U0hvJqfHfa8se2HP8BkoKfarsDY=/400x560/images%2Ffilm%2Fich-bin-dein-mensch-18809.v2.png",
       "description": "Die Wissenschaftlerin Alma lässt sich auf die Teilnahme an einer Studie ein, um Gelder für ihre Forschungen zu bekommen. Bei dem Experiment soll Alma einige Wochen mit einem humanoiden Roboter verbringen, der sich an ihre Wünsche und Bedürfnisse anpasst, um der perfekte Partner für Alma zu werden. Nach ein paar Anlaufschwierigkeiten finden Alma und der Roboter schließlich zueinander. Doch Alma fragt sich, welchen Sinn es hat, sich in einen Roboter zu verlieben.",
-      "available": 324,
-      "reserved": 86,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1415,9 +1415,9 @@
       "img": "https://media.kinoheld.de/KMQ6aS7JZ_xMGCdRDuCjQWFOk4g=/400x560/images%2Ffilm%2Fonward-16205.v766.jpg",
       "description": "Zauber und Magie? Diese Zeiten sind lange vorbei. In New Mushroomton leben Elfen, Zwerge, Riesen, hyperaktive Hausdrachen oder streunende Einhörner heute ganz modern mit all dem technischen Schnick-Schnack unserer Zeit. Die beiden Elfenbrüder Ian und Barley sind also etwas überfordert als sie einen uralten Zauberstab ihres verstorbenen Vaters geschenkt bekommen, der das Unmögliche möglich machen soll: ein Wiedersehen! Leider klappt das dann auch nur so halb und geht über die Hose nicht hinaus. Um auch die bessere Hälfte wiederherzustellen, geht es auf einen wahnwitzigen, rasanten Trip voller versteckter Hinweise, scheinbar unlösbarer Aufgaben und witziger Wendungen. Was für ein Abenteuer!",
       "trailer": "https://www.youtube.com/watch?v=b_DWYvZ4e08",
-      "available": -1,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1452,7 +1452,7 @@
       "description": "Nach dem wirtschaftlichen Zusammenbruch einer Stadt im ländlichen Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren weißen Van und macht sich auf den Weg, um als moderne Nomadin im Westen der USA ein Leben außerhalb der konventionellen Gesellschaft zu erkunden.",
       "trailer": "https://www.youtube.com/watch?v=iEcIDpnv3qQ",
       "available": 0,
-      "reserved": 205,
+      "reserved": 0,
       "bookable": false
     },
     {
@@ -1644,8 +1644,8 @@
       "img": "https://media.kinoheld.de/-dECS7O8QGHfULltY8QrE2JoGXk=/400x560/images%2Ffilm%2Fjoker-14395.v15.jpg",
       "description": "Gotham City im Jahr 1981: Der mental instabile Arthur Fleck führt wahrlich nicht das Leben, von dem man träumt: Vollgepumpt mit Medikamenten geht er seiner Arbeit als kostümierter Werbeschildträger nach und wird nicht selten das Ziel von Spott und Attacken. Abends zieht es ihn in sein heruntergekommenes Apartment, wo er sich um seine kranke Mutter kümmern muss. Gemeinsam hoffen sie auf ein besseres Leben, das Arthur als Stand-Up-Komiker realisieren will. Als plötzlich die Förderung für seine psychologische Betreuung gestrichen wird, nimmt das Unheil seinen Lauf. Die Schusswaffe eines Kollegen, die Suche nach seinem echten Vater und plötzlicher Ruhm sorgen dafür, dass der einstmals harmlose Exzentriker die ganze Stadt in Angst und Schrecken versetzt...",
       "trailer": "https://youtu.be/MKJ-nXADsVk",
-      "available": 656,
-      "reserved": 5,
+      "available": 642,
+      "reserved": 7,
       "bookable": true
     },
     {
@@ -1836,9 +1836,9 @@
       "timestamp": 1629936000000,
       "time": "17:00",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691769?layout=shows",
-      "available": -1,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1851,9 +1851,9 @@
       "timestamp": 1630368000000,
       "time": "17:00",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691781?layout=shows",
-      "available": -1,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -3176,8 +3176,8 @@
       "img": "https://media.kinoheld.de/oO1mnhwCgLFA2jiJXg5aKuZEIBE=/400x560/images%2Ffilm%2F4%2Fb-movie-lust-sound-in-west-berlin-1979-1989-1581.v15.jpg",
       "description": "Eine Dokumentation über Musik, Kunst & Chaos im wilden West-Berlin der 80er Jahre. Bevor der eiserne Vorhang fiel, war die eingemauerte Stadt ein kreativer Schmelztiegel für Sub- und Popkultur. Von Punk bis zur Love Parade - erzählt mit authentischen Zeitdokumenten aus unzähligen Archiven.",
       "trailer": "https://youtu.be/MKJ-nXADsVk",
-      "available": 108,
-      "reserved": 37,
+      "available": 100,
+      "reserved": 45,
       "bookable": true
     },
     {
@@ -3455,8 +3455,8 @@
       "time": "21:30",
       "date": "Sa., 17.7.",
       "timestamp": 1626557400000,
-      "available": 84,
-      "reserved": 376,
+      "available": 57,
+      "reserved": 403,
       "bookable": true
     },
     {
@@ -3473,8 +3473,8 @@
       "time": "21:30",
       "date": "So., 18.7.",
       "timestamp": 1626643800000,
-      "available": 389,
-      "reserved": 71,
+      "available": 391,
+      "reserved": 69,
       "bookable": true
     },
     {
@@ -3490,8 +3490,8 @@
       "time": "21:30",
       "date": "Mo., 19.7.",
       "timestamp": 1626730200000,
-      "available": 289,
-      "reserved": 171,
+      "available": 287,
+      "reserved": 173,
       "bookable": true
     },
     {
@@ -3505,8 +3505,8 @@
       "time": "21:30",
       "date": "Di., 20.7.",
       "timestamp": 1626816600000,
-      "available": 313,
-      "reserved": 147,
+      "available": 311,
+      "reserved": 149,
       "bookable": true
     },
     {
@@ -3523,8 +3523,8 @@
       "time": "21:30",
       "date": "Mi., 21.7.",
       "timestamp": 1626903000000,
-      "available": 367,
-      "reserved": 93,
+      "available": 364,
+      "reserved": 96,
       "bookable": true
     },
     {
@@ -3540,8 +3540,8 @@
       "time": "21:30",
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
-      "available": 199,
-      "reserved": 261,
+      "available": 186,
+      "reserved": 274,
       "bookable": true
     },
     {
@@ -3572,8 +3572,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 428,
-      "reserved": 32,
+      "available": 426,
+      "reserved": 34,
       "bookable": true
     },
     {
@@ -3660,8 +3660,8 @@
       "time": "21:30",
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
-      "available": 199,
-      "reserved": 261,
+      "available": 186,
+      "reserved": 274,
       "bookable": true
     },
     {
@@ -3677,8 +3677,8 @@
       "time": "21:30",
       "date": "Mo., 19.7.",
       "timestamp": 1626730200000,
-      "available": 289,
-      "reserved": 171,
+      "available": 287,
+      "reserved": 173,
       "bookable": true
     },
     {
@@ -3694,8 +3694,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 428,
-      "reserved": 32,
+      "available": 426,
+      "reserved": 34,
       "bookable": true
     },
     {
@@ -3712,8 +3712,8 @@
       "time": "21:30",
       "date": "Sa., 17.7.",
       "timestamp": 1626557400000,
-      "available": 84,
-      "reserved": 376,
+      "available": 57,
+      "reserved": 403,
       "bookable": true
     },
     {
@@ -3781,8 +3781,8 @@
       "time": "21:30",
       "date": "So., 18.7.",
       "timestamp": 1626643800000,
-      "available": 389,
-      "reserved": 71,
+      "available": 391,
+      "reserved": 69,
       "bookable": true
     },
     {
@@ -3799,8 +3799,8 @@
       "time": "21:30",
       "date": "Mi., 21.7.",
       "timestamp": 1626903000000,
-      "available": 367,
-      "reserved": 93,
+      "available": 364,
+      "reserved": 96,
       "bookable": true
     },
     {
@@ -3814,8 +3814,8 @@
       "time": "21:30",
       "date": "Di., 20.7.",
       "timestamp": 1626816600000,
-      "available": 313,
-      "reserved": 147,
+      "available": 311,
+      "reserved": 149,
       "bookable": true
     },
     {
@@ -3868,8 +3868,8 @@
       "time": "21:30",
       "date": "Sa., 17.7.",
       "timestamp": 1626557400000,
-      "available": 317,
-      "reserved": 182,
+      "available": 302,
+      "reserved": 197,
       "bookable": true
     },
     {
@@ -3885,8 +3885,8 @@
       "time": "21:30",
       "date": "So., 18.7.",
       "timestamp": 1626643800000,
-      "available": 351,
-      "reserved": 148,
+      "available": 346,
+      "reserved": 153,
       "bookable": true
     },
     {
@@ -3921,8 +3921,8 @@
       "time": "21:30",
       "date": "Di., 20.7.",
       "timestamp": 1626816600000,
-      "available": 431,
-      "reserved": 68,
+      "available": 429,
+      "reserved": 70,
       "bookable": true
     },
     {
@@ -3957,8 +3957,8 @@
       "time": "21:30",
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
-      "available": 462,
-      "reserved": 37,
+      "available": 461,
+      "reserved": 38,
       "bookable": true
     },
     {
@@ -3975,8 +3975,8 @@
       "time": "21:30",
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
-      "available": 459,
-      "reserved": 184,
+      "available": 452,
+      "reserved": 191,
       "bookable": true
     },
     {
@@ -4046,8 +4046,8 @@
       "time": "21:30",
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
-      "available": 477,
-      "reserved": 22,
+      "available": 476,
+      "reserved": 23,
       "bookable": true
     },
     {
@@ -4082,8 +4082,8 @@
       "time": "21:30",
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
-      "available": 459,
-      "reserved": 184,
+      "available": 452,
+      "reserved": 191,
       "bookable": true
     },
     {
@@ -4117,8 +4117,8 @@
       "time": "21:30",
       "date": "Sa., 17.7.",
       "timestamp": 1626557400000,
-      "available": 317,
-      "reserved": 182,
+      "available": 302,
+      "reserved": 197,
       "bookable": true
     },
     {
@@ -4153,8 +4153,8 @@
       "time": "21:30",
       "date": "Di., 20.7.",
       "timestamp": 1626816600000,
-      "available": 431,
-      "reserved": 68,
+      "available": 429,
+      "reserved": 70,
       "bookable": true
     },
     {
@@ -4171,8 +4171,8 @@
       "time": "21:30",
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
-      "available": 477,
-      "reserved": 22,
+      "available": 476,
+      "reserved": 23,
       "bookable": true
     },
     {
@@ -4223,8 +4223,8 @@
       "time": "21:30",
       "date": "So., 18.7.",
       "timestamp": 1626643800000,
-      "available": 351,
-      "reserved": 148,
+      "available": 346,
+      "reserved": 153,
       "bookable": true
     },
     {
@@ -4277,8 +4277,8 @@
       "time": "21:30",
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
-      "available": 462,
-      "reserved": 37,
+      "available": 461,
+      "reserved": 38,
       "bookable": true
     }
   ]
