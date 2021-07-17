@@ -422,8 +422,8 @@
       "date": "So., 18.7.",
       "timestamp": 1626643800000,
       "time": "21:30",
-      "available": 301,
-      "reserved": 266,
+      "available": 293,
+      "reserved": 274,
       "bookable": true
     },
     {
@@ -512,8 +512,8 @@
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
       "time": "21:30",
-      "available": 521,
-      "reserved": 46,
+      "available": 525,
+      "reserved": 42,
       "bookable": true
     },
     {
@@ -654,8 +654,8 @@
       "date": "So., 18.7.",
       "timestamp": 1626643800000,
       "time": "21:30",
-      "available": 424,
-      "reserved": 149,
+      "available": 422,
+      "reserved": 151,
       "bookable": true
     },
     {
@@ -978,24 +978,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/filmrauschpalast/shows/movies",
       "cinemaName": "filmrauschpalast",
       "cinemaShortName": "filmrauschpalast",
-      "id": "filmrauschpalast-2389917887",
-      "title": "OPEN AIR: STUDIO 54 - THE DOCUMENTARY (subtitled OV German)",
-      "date": "Sa., 17.7.",
-      "timestamp": 1626480000000,
-      "time": "22:00",
-      "url": "https://www.kinoheld.de/cinema-berlin/filmrauschpalast/show/2389917887?layout=shows",
-      "img": "https://media.kinoheld.de/X8gi67JwbS_J1nUXj3oEJMyMhlY=/400x560/images%2Ffilm%2Fstudio-54-13373.v2.jpg",
-      "description": "Im New York der 1970er Jahre definierte und prägte das legendäre Studio 54 das Lebensgefühl der Disco-Ära. In dem Dokumentarfilm von Matt Tyrnauer erzählen erstmals die damaligen Beteiligten davon, wie der berühmteste Nachtclub der Welt entstand.\r\n> Wilde Partys, Drogenexzesse und hemmungsloser Sex – der New Yorker Nachtclub Studio 54 war das leuchtende Symbol für die Exzentrik und das Lebenshochgefühl der 1970er. Mit seinen ausschweifenden Feiern zog er Weltstars wie Michael Jackson, Andy Warhol und Liza Minelli in seinen Bann. Zum ersten Mal erzählt einer der beiden Gründer vom Aufstieg und Niedergang des Mythos Studio 54.",
-      "trailer": "https://youtu.be/46G880wTR0U",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "535",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/filmrauschpalast/shows/movies",
-      "cinemaName": "filmrauschpalast",
-      "cinemaShortName": "filmrauschpalast",
       "id": "filmrauschpalast-2389921688",
       "title": "OPEN AIR: LA PISCINE (subtitled OV German)",
       "date": "Fr., 23.7.",
@@ -1027,60 +1009,6 @@
     }
   ],
   "freiluftkino-hasenheide": [
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "hasenheide-691279",
-      "title": "Yakari - Der Kinofilm ",
-      "date": "Sa., 17.7.",
-      "timestamp": 1626480000000,
-      "time": "16:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691279?layout=shows",
-      "img": "https://media.kinoheld.de/QIa9IC9nD7ePTSvb5QyqjfWQUP4=/400x560/images%2Ffilm%2Fyakari-der-kinofilm-17433.v210.jpg",
-      "description": "Yakari hat einen Traum: Er möchte eines Tages auf Kleiner Donner reiten, dem Wildpferd, das noch von keinem Sioux gezähmt werden konnte.  Als die Jäger seines Stammes eine Herde Mustangs einfangen, kann Kleiner Donner mit einem mächtigen Sprung wieder entkommen. Yakari folgt dem jungen Pferd und befreit es, als es seinen Huf unter einem Felsen eingeklemmt hat. Für diese mutige Tat verleiht ihm Großer Adler, Yakaris Totemtier, die Gabe, mit Tieren zu sprechen.  Auf der Suche nach Kleiner Donner gerät Yakari in einen reißenden Fluss. Nun ist es Yakari, der die Hilfe von Kleiner Donner braucht: Gemeinsam machen sie sich auf den weiten und abenteuerlichen Rückweg durchs Gebirge.",
-      "trailer": "https://www.youtube.com/watch?v=bRDZZBmoRow",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "hasenheide-691313",
-      "title": "Alles was kommt (subtitled OV German)",
-      "date": "Sa., 17.7.",
-      "timestamp": 1626480000000,
-      "time": "18:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691313?layout=shows",
-      "img": "https://media.kinoheld.de/2SgJZBUEltVGXeNtiLQHbMXPksQ=/400x560/images%2Ffilm%2F4%2Falles-was-kommt-3080.v4.jpg",
-      "description": "Gerade schien Nathalies Leben noch in bester Ordnung zu sein: Ein Beruf mit Berufung als Philosophielehrerin, eine eigene Lehrbuchreihe, eine stabile Ehe seit 25 Jahren und zwei fast erwachsene Kinder. Doch dann wird plötzlich alles anders. Ihr Mann verlässt sie für eine Andere, ihre exzentrische Mutter - die sonst Tag und Nacht um Nathalies Aufmerksamkeit buhlt - muss ins Altersheim und der Verlag deklariert ihre Bücher als altbacken und fordert eine Rundum-Modernisierung. Doch Nathalie, die die großen Gedanken stets den großen Gefühlen vorzieht, ist fest entschlossen, erhobenen Hauptes den Widerständen des Lebens zu trotzen und offen zu bleiben für alles, was kommt. (Quelle: Verleiher)",
-      "trailer": "https://www.youtube.com/watch?v=4IO8pRUbNHQ",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "hasenheide-691214",
-      "title": "Frau mit berauschenden Talenten, Eine (subtitled OV German)",
-      "date": "Sa., 17.7.",
-      "timestamp": 1626480000000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691214?layout=shows",
-      "img": "https://media.kinoheld.de/PnAEkP5wBimLWhkdEqAVF1D935s=/400x560/images%2Ffilm%2Feine-frau-mit-berauschenden-talenten-17113.v1237.jpg",
-      "description": "Patience ist selbstbewusst, unabhängig und vor allem schlagfertig. Als Dolmetscherin im Drogendezernat übersetzt sie abgehörte Telefonate der Drogenszene und ist dafür massiv unterbezahlt. Als das kostspielige Pflegeheim ihrer Mutter wegen unbezahlter Rechnungen droht, die alte Dame auszuquartieren, gerät Patience unter Handlungsdruck. Der Zufall will es, dass gerade eine Drogenlieferung auf dem Weg nach Paris ist. Patience entscheidet sich spontan gegen die Ehrlichkeit und sabotiert die Beschlagnahmung der Drogen. In Eigenregie fahndet sie nach dem hochwertigen Hasch - und wird fündig. Patience macht sich sofort fröhlich ans Werk und zeigt sich von ihrer besten Seite: als begnadete Verkäuferin mischt sie den Pariser Drogenmarkt maximal auf. Sie ist die neue Drogen-Autorität der Stadt und für die Polizei ein Phantom. Doch die Drogendiva muss sich sputen, denn ausgerechnet ihr Verehrer Philippe, Leiter des Drogendezernats, hat einen Verdacht, wer hinter dem Phantom wirklich steckt ...",
-      "trailer": "https://www.youtube.com/watch?v=Nw27GQLIaiM",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
     {
       "cinemaId": "580",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
@@ -1274,9 +1202,9 @@
       "img": "https://media.kinoheld.de/BVSOhCc4czDBpW3JWKzQdQqQU2M=/400x560/images%2Ffilm%2Fkokon-17135.v7.png",
       "description": "Mitten am Kottbusser Tor in Berlin Kreuzberg wächst Nora (Lena Urzendowsky) auf. Hier im turbulenten Herzen Berlins ist sie stets umgeben von Menschen, deren Lebensläufe nicht immer den geraden Weg gehen und aus den unterschiedlichsten Kulturkreisen der Welt stammen. Nun, wo Nora langsam erwachsen wird, sich ihr Körper verändert, fühlt sie sich in der Welt mehr und mehr verloren und weiß nicht, wie es weitergehen soll. Bei ihrer Schwester Jule (Lena Klenke) und deren bester Freundin Aylin (Elina Vildanova) sieht das Leben etwas anders aus. Für die jungen Frauen dreht sich alles nur um Styling, Mode und die Präsentation dessen in den sozialen Medien. Anfangs scheint sie sich dem Druck, für andere schön zu sein, ebenfalls hinzugeben, als jedoch Romy (Jella Haase) auftaucht, bringt diese ihr bei, zu sich und ihrem Körper zu stehen.",
       "trailer": "https://www.youtube.com/watch?v=31_ZH8_4nVs",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 582,
+      "reserved": 18,
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -1452,9 +1380,9 @@
       "img": "https://media.kinoheld.de/aeplxI5NP6wmy4XKeFur6LcxOX4=/400x560/images%2Ffilm%2Fzu-weit-weg-14763.v2.jpg",
       "description": "Da sein Heimatdorf einem Braunkohletagebau weichen soll, müssen Ben (12) und seine Familie in die nächstgrößere Stadt umziehen. In der neuen Schule ist er erst mal der Außenseiter. Und auch im neuen Fußballverein laufen die Dinge für den talentierten Stürmer nicht wie erhofft. Zu allem Überfluss gibt es noch einen weiteren Neuankömmling an der Schule: Tariq (11), Flüchtling aus Syrien, der ihm nicht nur in der Klasse die Show stehlt, sondern auch noch auf dem Fußballplatz punktet. Wird Ben im Abseits bleiben – oder hat sein Konkurrent doch mehr mit ihm gemeinsam als er denkt?",
       "trailer": "https://www.youtube.com/watch?v=lmELdP6RiMk",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -1502,9 +1430,9 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691237?layout=shows",
       "img": "https://media.kinoheld.de/DVQcxtUYNoxr36fQFLasSd8kr_E=/400x560/images%2Ffilm%2Falles-ist-eins-ausser-der-0-19150.v1.jpg",
       "description": "ALLES IST EINS. AUSSER DER 0. erzählt eine Geschichte digitaler Subversion: vom exklusiven Club zu einer Instanz, die heute bei allen Fragen der Netzpolitik zu Rate gezogen wird. Der Dokumentarfilm von Klaus Maeck und Tanja Schwerdorf setzt der bekanntesten deutschen Hackervereinigung ein stilsicheres, kraftvolles und würdiges Denkmal. Selten hat man ein so eindringliches Porträt über Zeitgeist-Pioniere gesehen, deren Weitblick für die Gegenwart so beeindruckend wie bereichernd ist.",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 326,
+      "reserved": 91,
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -1538,8 +1466,8 @@
       "img": "https://media.kinoheld.de/Oyw4j5X6-APA71HNlPwWligxMDc=/400x560/images%2Ffilm%2Ffabiana-19170.v1.jpg",
       "description": "Im Berlin des Jahres 1931 lässt sich der Germanist und Werbetexter Jakob Fabian (Tom Schilling) durch das Leben treiben. Während er tagsüber für die Werbung einer Zigarettenfirma zuständig ist, ist er nachts oft mit seinem Studienkollegen Labude (Albrecht Schuch) unterwegs und macht die Unterweltkneipen, Bordelle und Künstlerateliers unsicher. Das sorglose Leben der beiden jungen Männer wird durch eine durch Kommunisten und Nationalsozialisten geteilte Gesellschaft zunehmend bedroht und auch Labude träumt davon, dass die Klassen gegen die Obrigkeit revolutionieren. Fabian kann mit dem politischen Umbruch nicht viel anfangen und kommentiert die Geschehnisse ironisch. Eines Tages trifft er in einem Atelier auf Cornelia (Saskia Rosendahl) und verliebt sich auf den ersten Blick in sie. Fabians naives Leben nimmt eine dramatische Wendung, als er einer Entlassungswelle zum Opfer fällt, Cornelias Karriere als Schauspielerin jedoch an Fahrt aufnimmt...",
       "trailer": "https://www.youtube.com/watch?v=VPIeUqg7F40",
-      "available": 240,
-      "reserved": 119,
+      "available": 232,
+      "reserved": 121,
       "bookable": true
     },
     {
@@ -1556,9 +1484,9 @@
       "img": "https://media.kinoheld.de/TtqS0ER1ioFzwQjEjHtyRXqo4ZI=/400x560/images%2Ffilm%2F4%2Fpettersson-und-findus-findus-zieht-um-10424.v35.jpg",
       "description": "Findus hüpft Tag und Nacht auf seiner neuen Matratze herum, der genervte Pettersson (Stefan Kurt) aber möchte seine Ruhe haben. Die Lösung: ein eigenes Spiel- und Hüpf-Haus für Findus, das Pettersson ihm gleich nebenan baut! Der Kater aber findet solchen Gefallen daran, selbständig zu sein und alleine zu wohnen, dass er nicht nur zum Spielen, sondern gleich ganz und gar ins Häuschen umzieht. So hat Pettersson sich das allerdings nicht vorgestellt! Muss er sein Leben jetzt etwa ohne seinen kleinen fröhlichen Gefährten führen? Findus muss sich etwas einfallen lassen, um den alten Pettersson wieder aufzumuntern... (Quelle: Verleih)",
       "trailer": "https://www.youtube.com/watch?v=uu_dG5HF1lc",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -1949,24 +1877,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
       "cinemaName": "b-ware-openair-fmp",
       "cinemaShortName": "fmp",
-      "id": "fmp-2392542640",
-      "title": "UND MORGEN DIE GANZE WELT (OmeU)",
-      "date": "Sa., 17.7.",
-      "timestamp": 1626480000000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2392542640?layout=shows",
-      "img": "https://media.kinoheld.de/bWgBMhcTZGShU1q7tv7OUJhaDRs=/400x560/images%2Ffilm%2Fund-morgen-die-ganze-welt-17457.v143.jpg",
-      "description": "Luisa ist 20 Jahre alt, stammt aus gutem Haus, studiert Jura im ersten Semester. Und sie will, dass sich etwas verändert in Deutschland. Alarmiert vom Rechtsruck im Land und der zunehmenden Beliebtheit populistischer Parteien, tut sie sich mit ihren Freunden zusammen, um sich klar gegen die neue Rechte zu positionieren. Schnell findet sie Anschluss bei dem charismatischen Alfa und dessen besten Freund Lenor: Für die beiden ist auch der Einsatz von Gewalt ein legitimes Mittel, um Widerstand zu leisten. Bald schon überstürzen sich die Ereignisse. Und Luisa muss entscheiden, wie weit zu gehen sie bereit ist – auch wenn das fatale Konsequenzen für sie und ihre Freunde haben könnte.",
-      "trailer": "https://www.youtube.com/watch?v=5jtj8DcAqz0",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "1657",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
-      "cinemaName": "b-ware-openair-fmp",
-      "cinemaShortName": "fmp",
       "id": "fmp-2395152865",
       "title": "75 JAHRE DEFA: STRAWALDE. EIN LEBEN IN BILDERN mit Filmgespräch vorab ",
       "date": "Di., 20.7.",
@@ -1990,7 +1900,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2392542649?layout=shows",
       "img": "https://media.kinoheld.de/DQsE2bJ2xtRqdKQPdV3MXrumGew=/400x560/images%2Ffilm%2Fmo%2F3013-37597.v2.jpg",
       "description": "FREAKSCENE THE STORY OF DINOSAUR JR. is a homage of one of the most influential bands on the American East Coast, which inspired the rock scene – including Nirvana and Sonic Youth – in the 1990s. Their style and unmistakable sound, later referred as “Grunge”, laid the foundation for the entire “Slacker” culture of Generation X.\r\nIt is also the story of the eloquent and eccentric guitarist and bandleader J. Mascis, the bassist Lou Barlow and drummer Murph and a band that insanely does not talk to each other. Communication takes place exclusively through music. Philipp Reichenheim nevertheless manages to make the closed and shy icons speak.\r\nAn emotional, tragically funny and sometimes noisy rollercoaster ride by a dysfunctional family – Dinosaur Jr.\r\nThrough several decades, the film offers rare insights into the crazy everyday life of the band and illuminates the inner workings of a cult band from its beginnings in the 1980s and 90s to the present day.",
-      "trailer": "https://youtu.be/MKJ-nXADsVk",
+      "trailer": "https://youtu.be/O5w28bJKmxY",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -2207,7 +2117,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2394922222?layout=shows",
       "img": "https://media.kinoheld.de/1vIIQBhZZqw-OjT2EuvAAJi3lSc=/400x560/images%2Ffilm%2Fparasite-14289.v362.jpg",
       "description": "Familie Kim ist ganz unten angekommen: Vater, Mutter, Sohn und Tochter hausen in einem grünlich-schummrigen Keller, kriechen für kostenloses W-LAN in jeden Winkel und sind sich für keinen Aushilfsjob zu schade. Erst als der Jüngste eine Anstellung als Nachhilfelehrer in der todschicken Villa der Familie Park antritt, steigen die Kims ein ins Karussell der Klassenkämpfe. Mit findigen Tricksereien, bemerkenswertem Talent und großem Mannschaftsgeist gelingt es ihnen, die bisherigen Bediensteten der Familie Park nach und nach loszuwerden. Bald schon sind die Kims unverzichtbar für ihre neuen Herrschaften. Doch dann löst ein unerwarteter Zwischenfall eine Kette von Ereignissen aus, die so unvorhersehbar wie unfassbar sind. (Quelle: Verleih)",
-      "trailer": "https://www.youtube.com/watch?v=ugVw6YwrdT4",
+      "trailer": "https://www.youtube.com/watch?v=Y6e-TLsOFYM",
       "available": 58,
       "reserved": 8,
       "bookable": true
@@ -2719,24 +2629,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
       "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
       "cinemaShortName": "pompeji ostkreuz",
-      "id": "pompeji ostkreuz-2399898663",
-      "title": "PARASITE (subtitled OV German)",
-      "date": "Sa., 17.7.",
-      "timestamp": 1626480000000,
-      "time": "21:45",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2399898663?layout=shows",
-      "img": "https://media.kinoheld.de/1vIIQBhZZqw-OjT2EuvAAJi3lSc=/400x560/images%2Ffilm%2Fparasite-14289.v362.jpg",
-      "description": "Familie Kim ist ganz unten angekommen: Vater, Mutter, Sohn und Tochter hausen in einem grünlich-schummrigen Keller, kriechen für kostenloses W-LAN in jeden Winkel und sind sich für keinen Aushilfsjob zu schade. Erst als der Jüngste eine Anstellung als Nachhilfelehrer in der todschicken Villa der Familie Park antritt, steigen die Kims ein ins Karussell der Klassenkämpfe. Mit findigen Tricksereien, bemerkenswertem Talent und großem Mannschaftsgeist gelingt es ihnen, die bisherigen Bediensteten der Familie Park nach und nach loszuwerden. Bald schon sind die Kims unverzichtbar für ihre neuen Herrschaften. Doch dann löst ein unerwarteter Zwischenfall eine Kette von Ereignissen aus, die so unvorhersehbar wie unfassbar sind.",
-      "trailer": "https://youtu.be/isOGD_7hNIY",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "2153",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-      "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-      "cinemaShortName": "pompeji ostkreuz",
       "id": "pompeji ostkreuz-2399898682",
       "title": "JOKER (subtitled OV German)",
       "date": "So., 18.7.",
@@ -3082,39 +2974,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/mobile-kino-berlin/shows/movies",
       "cinemaName": "mobile-kino-berlin",
       "cinemaShortName": "mobile kino",
-      "id": "mobile kino-2392313584",
-      "title": "NOTES OF BERLIN (subtitled OV English)",
-      "date": "Sa., 17.7.",
-      "timestamp": 1626480000000,
-      "time": "21:45",
-      "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2392313584?layout=shows",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "3033",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/mobile-kino-berlin/shows/movies",
-      "cinemaName": "mobile-kino-berlin",
-      "cinemaShortName": "mobile kino",
-      "id": "mobile kino-2403045959",
-      "title": "B-MOVIE: LUST & SOUND IN WEST-BERLIN 1979-1989 (subtitled OV English)",
-      "date": "Sa., 17.7.",
-      "timestamp": 1626480000000,
-      "time": "22:00",
-      "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2403045959?layout=shows",
-      "img": "https://media.kinoheld.de/oO1mnhwCgLFA2jiJXg5aKuZEIBE=/400x560/images%2Ffilm%2F4%2Fb-movie-lust-sound-in-west-berlin-1979-1989-1581.v15.jpg",
-      "description": "Eine Dokumentation über Musik, Kunst & Chaos im wilden West-Berlin der 80er Jahre. Bevor der eiserne Vorhang fiel, war die eingemauerte Stadt ein kreativer Schmelztiegel für Sub- und Popkultur. Von Punk bis zur Love Parade - erzählt mit authentischen Zeitdokumenten aus unzähligen Archiven.",
-      "trailer": "https://www.youtube.com/watch?v=caKiHdaVwhM",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "3033",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/mobile-kino-berlin/shows/movies",
-      "cinemaName": "mobile-kino-berlin",
-      "cinemaShortName": "mobile kino",
       "id": "mobile kino-2395054543",
       "title": "BOYZ N THE HOOD (subtitled OV German)",
       "date": "Mo., 19.7.",
@@ -3151,8 +3010,8 @@
       "timestamp": 1626912000000,
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2403895934?layout=shows",
-      "available": 82,
-      "reserved": 26,
+      "available": 80,
+      "reserved": 28,
       "bookable": true
     },
     {
@@ -3402,8 +3261,8 @@
       "time": "21:30",
       "date": "Mo., 19.7.",
       "timestamp": 1626730200000,
-      "available": 279,
-      "reserved": 181,
+      "available": 277,
+      "reserved": 183,
       "bookable": true
     },
     {
@@ -3452,8 +3311,8 @@
       "time": "21:30",
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
-      "available": 170,
-      "reserved": 290,
+      "available": 164,
+      "reserved": 296,
       "bookable": true
     },
     {
@@ -3484,8 +3343,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 422,
-      "reserved": 38,
+      "available": 421,
+      "reserved": 39,
       "bookable": true
     },
     {
@@ -3555,8 +3414,26 @@
       "time": "21:30",
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
-      "available": 433,
-      "reserved": 27,
+      "available": 435,
+      "reserved": 25,
+      "bookable": true
+    },
+    {
+      "title": "Kajillionaire (OmU)",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/5f43d09369f5b55d94ce97f8/show_Kajillionaire_Poster_S.jpg",
+      "description": "26 Jahre lang haben zwei Trickbetrüger ihre einzige Tochter Old Dolio (Evan Rachel Wood) darauf trainiert, jede Gelegenheit zum Stehlen zu nutzen. Der Alltag der Familie gerät ins Wanken, als die Eltern für einen geplanten Coup die unbekannte Melanie (Gina Rodriguez) ins Team holen. In ihr findet Old Dolio zum ersten Mal im Leben eine Freundin.\n\nWie lernt man als erwachsene Person, Liebe und Gefühle zu zeigen, wenn man es nie beigebracht bekommen hat? Mit viel Situationskomik und pastellfarbenen Bildern folgt July ihrer Protagonistin durch eine Coming of-Age Geschichte für Erwachsene.",
+      "trailer": "https://www.youtube.com/watch?v=K2J5wHNGiyQ&ab_channel=UniversalPicturesGermany",
+      "cinemaId": "54eefd0b683138488b190000",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-276",
+      "url": "https://yorck.de/checkout/step01?showid=276&siteid=1015",
+      "time": "21:30",
+      "date": "Do., 29.7.",
+      "timestamp": 1627594200000,
+      "available": 440,
+      "reserved": 20,
       "bookable": true
     },
     {
@@ -3572,8 +3449,8 @@
       "time": "21:30",
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
-      "available": 170,
-      "reserved": 290,
+      "available": 164,
+      "reserved": 296,
       "bookable": true
     },
     {
@@ -3589,8 +3466,8 @@
       "time": "21:30",
       "date": "Mo., 19.7.",
       "timestamp": 1626730200000,
-      "available": 279,
-      "reserved": 181,
+      "available": 277,
+      "reserved": 183,
       "bookable": true
     },
     {
@@ -3606,8 +3483,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 422,
-      "reserved": 38,
+      "available": 421,
+      "reserved": 39,
       "bookable": true
     },
     {
@@ -3624,8 +3501,8 @@
       "time": "21:30",
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
-      "available": 433,
-      "reserved": 27,
+      "available": 435,
+      "reserved": 25,
       "bookable": true
     },
     {
@@ -3659,6 +3536,24 @@
       "timestamp": 1627075800000,
       "available": 414,
       "reserved": 46,
+      "bookable": true
+    },
+    {
+      "title": "Kajillionaire (OmU)",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/5f43d09369f5b55d94ce97f8/show_Kajillionaire_Poster_S.jpg",
+      "description": "26 Jahre lang haben zwei Trickbetrüger ihre einzige Tochter Old Dolio (Evan Rachel Wood) darauf trainiert, jede Gelegenheit zum Stehlen zu nutzen. Der Alltag der Familie gerät ins Wanken, als die Eltern für einen geplanten Coup die unbekannte Melanie (Gina Rodriguez) ins Team holen. In ihr findet Old Dolio zum ersten Mal im Leben eine Freundin.\n\nWie lernt man als erwachsene Person, Liebe und Gefühle zu zeigen, wenn man es nie beigebracht bekommen hat? Mit viel Situationskomik und pastellfarbenen Bildern folgt July ihrer Protagonistin durch eine Coming of-Age Geschichte für Erwachsene.",
+      "trailer": "https://www.youtube.com/watch?v=K2J5wHNGiyQ&ab_channel=UniversalPicturesGermany",
+      "cinemaId": "54eefd0b683138488b190000",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-276",
+      "url": "https://yorck.de/checkout/step01?showid=276&siteid=1015",
+      "time": "21:30",
+      "date": "Do., 29.7.",
+      "timestamp": 1627594200000,
+      "available": 440,
+      "reserved": 20,
       "bookable": true
     },
     {
@@ -3762,8 +3657,8 @@
       "time": "21:30",
       "date": "So., 18.7.",
       "timestamp": 1626643800000,
-      "available": 317,
-      "reserved": 182,
+      "available": 319,
+      "reserved": 180,
       "bookable": true
     },
     {
@@ -3852,8 +3747,8 @@
       "time": "21:30",
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
-      "available": 406,
-      "reserved": 237,
+      "available": 404,
+      "reserved": 239,
       "bookable": true
     },
     {
@@ -3946,6 +3841,23 @@
       "bookable": true
     },
     {
+      "title": "Arte | Lost Woman Art",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60f188c961444052a531808f/show_LOST_WOMEN_ART_01_KobersteinFilm.jpg",
+      "description": "Unter den Top Ten der „größten Künstler” 2020 befinden sich drei KünstlerINNEN. Immerhin 30%. Doch der Blick auf den europäischen Kunstkanon des 19. und 20. Jahrhunderts ist ernüchternd – hier kommen Frauen praktisch nicht vor. Künstlerinnen arbeiten seit jeher auf Augenhöhe mit ihren männlichen Kollegen – dennoch sind ihre Namen und Werke weit weniger bekannt, weniger präsent in den Museen und unterbezahlt auf dem Kunstmarkt. Erst vor 100 Jahren, wurden Frauen an den deutschen Kunsthochschulen zugelassen.  \n\n„Lost Women Art“ ergründet die Mechanismen des systematischen Vergessens hochtalentierter Künstlerinnen, wie der Malerin Lotte Laserstein, der die Berlinische Galerie 2019 eine vielbeachtete Retrospektive widmete. Der zweiteilige Film entdeckt bekannte und vergessene Künstlerinnen neu: Von der französischen Impressionistin Berthe Morisot über die Pionierin der abstrakten Malerei Hilma af Klint bis zu VALIE EXPORT, Ikone der feministischen Kunst. Ein neuer, weiblicher Blick auf die Kunstgeschichte.",
+      "cinemaId": "60a3b5ed61444058ac0797a2",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-schloss-charlottenburg",
+      "cinemaName": "sommerkino-schloss-charlottenburg",
+      "cinemaShortName": "schloss-charlottenburg",
+      "id": "schloss-charlottenburg-54",
+      "url": "https://yorck.de/checkout/step01?showid=54&siteid=1020",
+      "time": "21:30",
+      "date": "Do., 29.7.",
+      "timestamp": 1627594200000,
+      "available": 290,
+      "reserved": 209,
+      "bookable": true
+    },
+    {
       "title": "Nomadland (OmU)",
       "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/6040ac56614440014e079840/show_Nomadland_Pos_Poster_S.jpg",
       "description": "Fern (Frances McDormand) hat erst ihren Mann, dann ihre Heimatstadt verloren, nachdem der größte Arbeitgeber dort dichtgemacht hat. Sie packt alle Habseligkeiten in einen Transporter und beginnt, als Nomadin der Arbeit hinterherzuziehen. Wer wissen möchte, was großes Kino ist und kann, hat hier Termin!",
@@ -3959,8 +3871,8 @@
       "time": "21:30",
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
-      "available": 406,
-      "reserved": 237,
+      "available": 404,
+      "reserved": 239,
       "bookable": true
     },
     {
@@ -3979,6 +3891,23 @@
       "timestamp": 1627162200000,
       "available": 581,
       "reserved": 62,
+      "bookable": true
+    },
+    {
+      "title": "Arte | Lost Woman Art",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60f188c961444052a531808f/show_LOST_WOMEN_ART_01_KobersteinFilm.jpg",
+      "description": "Unter den Top Ten der „größten Künstler” 2020 befinden sich drei KünstlerINNEN. Immerhin 30%. Doch der Blick auf den europäischen Kunstkanon des 19. und 20. Jahrhunderts ist ernüchternd – hier kommen Frauen praktisch nicht vor. Künstlerinnen arbeiten seit jeher auf Augenhöhe mit ihren männlichen Kollegen – dennoch sind ihre Namen und Werke weit weniger bekannt, weniger präsent in den Museen und unterbezahlt auf dem Kunstmarkt. Erst vor 100 Jahren, wurden Frauen an den deutschen Kunsthochschulen zugelassen.  \n\n„Lost Women Art“ ergründet die Mechanismen des systematischen Vergessens hochtalentierter Künstlerinnen, wie der Malerin Lotte Laserstein, der die Berlinische Galerie 2019 eine vielbeachtete Retrospektive widmete. Der zweiteilige Film entdeckt bekannte und vergessene Künstlerinnen neu: Von der französischen Impressionistin Berthe Morisot über die Pionierin der abstrakten Malerei Hilma af Klint bis zu VALIE EXPORT, Ikone der feministischen Kunst. Ein neuer, weiblicher Blick auf die Kunstgeschichte.",
+      "cinemaId": "60a3b5ed61444058ac0797a2",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-schloss-charlottenburg",
+      "cinemaName": "sommerkino-schloss-charlottenburg",
+      "cinemaShortName": "schloss-charlottenburg",
+      "id": "schloss-charlottenburg-54",
+      "url": "https://yorck.de/checkout/step01?showid=54&siteid=1020",
+      "time": "21:30",
+      "date": "Do., 29.7.",
+      "timestamp": 1627594200000,
+      "available": 290,
+      "reserved": 209,
       "bookable": true
     },
     {
@@ -4083,8 +4012,8 @@
       "time": "21:30",
       "date": "So., 18.7.",
       "timestamp": 1626643800000,
-      "available": 317,
-      "reserved": 182,
+      "available": 319,
+      "reserved": 180,
       "bookable": true
     },
     {
