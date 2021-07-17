@@ -68,8 +68,8 @@
       "date": "So., 18.7.",
       "timestamp": 1626643800000,
       "time": "21:30",
-      "available": 884,
-      "reserved": 194,
+      "available": 876,
+      "reserved": 202,
       "bookable": true
     },
     {
@@ -85,8 +85,8 @@
       "date": "Sa., 17.7.",
       "timestamp": 1626557400000,
       "time": "21:30",
-      "available": 302,
-      "reserved": 776,
+      "available": 229,
+      "reserved": 849,
       "bookable": true
     },
     {
@@ -103,8 +103,8 @@
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
       "time": "21:30",
-      "available": 969,
-      "reserved": 109,
+      "available": 966,
+      "reserved": 112,
       "bookable": true
     },
     {
@@ -224,8 +224,8 @@
       "date": "So., 15.8.",
       "timestamp": 1629043200000,
       "time": "16:00",
-      "available": 994,
-      "reserved": 84,
+      "available": 991,
+      "reserved": 87,
       "bookable": true
     },
     {
@@ -293,8 +293,8 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628960400000,
       "time": "17:00",
-      "available": 725,
-      "reserved": 270,
+      "available": 723,
+      "reserved": 272,
       "bookable": true
     },
     {
@@ -437,8 +437,8 @@
       "date": "Sa., 17.7.",
       "timestamp": 1626557400000,
       "time": "21:30",
-      "available": 339,
-      "reserved": 228,
+      "available": 299,
+      "reserved": 268,
       "bookable": true
     },
     {
@@ -473,8 +473,8 @@
       "date": "So., 18.7.",
       "timestamp": 1626643800000,
       "time": "21:30",
-      "available": 338,
-      "reserved": 229,
+      "available": 337,
+      "reserved": 230,
       "bookable": true
     },
     {
@@ -509,8 +509,8 @@
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
       "time": "21:30",
-      "available": 481,
-      "reserved": 86,
+      "available": 478,
+      "reserved": 89,
       "bookable": true
     },
     {
@@ -598,8 +598,8 @@
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
       "time": "21:30",
-      "available": 524,
-      "reserved": 43,
+      "available": 520,
+      "reserved": 47,
       "bookable": true
     },
     {
@@ -687,8 +687,8 @@
       "date": "Sa., 17.7.",
       "timestamp": 1626557400000,
       "time": "21:30",
-      "available": 168,
-      "reserved": 405,
+      "available": 140,
+      "reserved": 433,
       "bookable": true
     },
     {
@@ -705,8 +705,8 @@
       "date": "Mo., 19.7.",
       "timestamp": 1626730200000,
       "time": "21:30",
-      "available": 529,
-      "reserved": 44,
+      "available": 525,
+      "reserved": 48,
       "bookable": true
     },
     {
@@ -723,8 +723,8 @@
       "date": "So., 18.7.",
       "timestamp": 1626643800000,
       "time": "21:30",
-      "available": 448,
-      "reserved": 125,
+      "available": 446,
+      "reserved": 127,
       "bookable": true
     },
     {
@@ -867,8 +867,8 @@
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
       "time": "21:30",
-      "available": 564,
-      "reserved": 9,
+      "available": 562,
+      "reserved": 11,
       "bookable": true
     },
     {
@@ -1196,9 +1196,9 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691188?layout=shows",
       "img": "https://media.kinoheld.de/L38EzF0p2enDK_I6YSIF62yiGy0=/400x560/images%2Ffilm%2Fschwesterlein-17561.v71.jpg",
       "description": "Lisa, einst brillante Theaterautorin, schreibt nicht mehr. Sie lebt in der Schweiz, doch ihr Herz ist in Berlin geblieben – bei ihrem Zwillingsbruder Sven, dem berühmten Bühnendarsteller. Seit dieser an einer aggressiven Leukämie erkrankt ist, sind die Geschwister noch enger verbunden. Lisa weigert sich, den Schicksalsschlag hinzunehmen und setzt alle Hebel in Bewegung, um Sven wieder auf die Bühne zu bringen. Er ist ihr Seelenverwandter, für den sie alles andere vernachlässigt. Selbst als ihre Ehe in Schieflage gerät, hat sie nur Augen für ihren Bruder, in dem sich ihre tiefsten Sehnsüchte spiegeln: Er weckt in ihr das Verlangen, wieder kreativ zu sein, sich lebendig zu fühlen.  Mit SCHWESTERLEIN ist ein aufwühlendes Drama gelungen, das sich voll und ganz auf seine überragenden Hauptdarsteller verlassen kann: Nina Hoss und Lars Eidinger– erstmals gemeinsam vor der Kamera – verkörpern das innige Geschwisterpaar voller Glaubwürdigkeit und leidenschaftlicher Intensität.",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 502,
+      "reserved": 43,
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -1344,8 +1344,8 @@
       "img": "https://media.kinoheld.de/BVSOhCc4czDBpW3JWKzQdQqQU2M=/400x560/images%2Ffilm%2Fkokon-17135.v7.png",
       "description": "Mitten am Kottbusser Tor in Berlin Kreuzberg wächst Nora (Lena Urzendowsky) auf. Hier im turbulenten Herzen Berlins ist sie stets umgeben von Menschen, deren Lebensläufe nicht immer den geraden Weg gehen und aus den unterschiedlichsten Kulturkreisen der Welt stammen. Nun, wo Nora langsam erwachsen wird, sich ihr Körper verändert, fühlt sie sich in der Welt mehr und mehr verloren und weiß nicht, wie es weitergehen soll. Bei ihrer Schwester Jule (Lena Klenke) und deren bester Freundin Aylin (Elina Vildanova) sieht das Leben etwas anders aus. Für die jungen Frauen dreht sich alles nur um Styling, Mode und die Präsentation dessen in den sozialen Medien. Anfangs scheint sie sich dem Druck, für andere schön zu sein, ebenfalls hinzugeben, als jedoch Romy (Jella Haase) auftaucht, bringt diese ihr bei, zu sich und ihrem Körper zu stehen.",
       "trailer": "https://www.youtube.com/watch?v=31_ZH8_4nVs",
-      "available": 593,
-      "reserved": 16,
+      "available": 582,
+      "reserved": 18,
       "bookable": true
     },
     {
@@ -1397,9 +1397,9 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691233?layout=shows",
       "img": "https://media.kinoheld.de/U0hvJqfHfa8se2HP8BkoKfarsDY=/400x560/images%2Ffilm%2Fich-bin-dein-mensch-18809.v2.png",
       "description": "Die Wissenschaftlerin Alma lässt sich auf die Teilnahme an einer Studie ein, um Gelder für ihre Forschungen zu bekommen. Bei dem Experiment soll Alma einige Wochen mit einem humanoiden Roboter verbringen, der sich an ihre Wünsche und Bedürfnisse anpasst, um der perfekte Partner für Alma zu werden. Nach ein paar Anlaufschwierigkeiten finden Alma und der Roboter schließlich zueinander. Doch Alma fragt sich, welchen Sinn es hat, sich in einen Roboter zu verlieben.",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 324,
+      "reserved": 86,
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -1415,9 +1415,9 @@
       "img": "https://media.kinoheld.de/KMQ6aS7JZ_xMGCdRDuCjQWFOk4g=/400x560/images%2Ffilm%2Fonward-16205.v766.jpg",
       "description": "Zauber und Magie? Diese Zeiten sind lange vorbei. In New Mushroomton leben Elfen, Zwerge, Riesen, hyperaktive Hausdrachen oder streunende Einhörner heute ganz modern mit all dem technischen Schnick-Schnack unserer Zeit. Die beiden Elfenbrüder Ian und Barley sind also etwas überfordert als sie einen uralten Zauberstab ihres verstorbenen Vaters geschenkt bekommen, der das Unmögliche möglich machen soll: ein Wiedersehen! Leider klappt das dann auch nur so halb und geht über die Hose nicht hinaus. Um auch die bessere Hälfte wiederherzustellen, geht es auf einen wahnwitzigen, rasanten Trip voller versteckter Hinweise, scheinbar unlösbarer Aufgaben und witziger Wendungen. Was für ein Abenteuer!",
       "trailer": "https://www.youtube.com/watch?v=b_DWYvZ4e08",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -1452,7 +1452,7 @@
       "description": "Nach dem wirtschaftlichen Zusammenbruch einer Stadt im ländlichen Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren weißen Van und macht sich auf den Weg, um als moderne Nomadin im Westen der USA ein Leben außerhalb der konventionellen Gesellschaft zu erkunden.",
       "trailer": "https://www.youtube.com/watch?v=iEcIDpnv3qQ",
       "available": 0,
-      "reserved": 0,
+      "reserved": 205,
       "bookable": false
     },
     {
@@ -1503,7 +1503,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691235?layout=shows",
       "img": "https://media.kinoheld.de/WNTTBAAcsvd3_Bt2HpAxOhRhU5o=/400x560/images%2Ffilm%2Fcruella-18919.v20.jpg",
       "description": "London in den 1970er Jahren: Die junge Estella (Emma Stone) ist eine talentierte Designerin und träumt von einer großen Karriere als Modeschöpferin. Doch da sie verwaist und mittellos aufgewachsen ist, scheint ihr der Weg in höhere Kreise verschlossen. Mit ihren zwei Kumpels, den Amateur-Dieben Horace (Paul Walter Hauser) und Jasper (Joel Fry), streift sie durch London und begeht hier und da kleine Verbrechen – und wann immer sich die Möglichkeit ergibt, wenigstens kurz in den von ihr ersehnten Luxus der Schönen und Reichen einzutauchen, greift sie schamlos zu. Dann aber bietet sich ihr endlich eine einzigartige Gelegenheit, um der Gosse zu entkommen: Ein aufstrebender Rockstar entdeckt ihr Talent und beauftragt Estella damit, ihm ein einzigartiges Outfit zu entwerfen. Auf der Suche nach dem perfekten Material muss sich Estella, die ein Faible für Hundefell hat, fragen, was sie für ihren Erfolg zu opfern bereit ist.",
-      "trailer": "https://www.youtube.com/watch?v=gmRKv7n2If8",
+      "trailer": "https://www.youtube.com/watch?v=KIRKfx5Cbec",
       "available": 497,
       "reserved": 41,
       "bookable": true
@@ -1572,8 +1572,8 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691237?layout=shows",
       "img": "https://media.kinoheld.de/DVQcxtUYNoxr36fQFLasSd8kr_E=/400x560/images%2Ffilm%2Falles-ist-eins-ausser-der-0-19150.v1.jpg",
       "description": "ALLES IST EINS. AUSSER DER 0. erzählt eine Geschichte digitaler Subversion: vom exklusiven Club zu einer Instanz, die heute bei allen Fragen der Netzpolitik zu Rate gezogen wird. Der Dokumentarfilm von Klaus Maeck und Tanja Schwerdorf setzt der bekanntesten deutschen Hackervereinigung ein stilsicheres, kraftvolles und würdiges Denkmal. Selten hat man ein so eindringliches Porträt über Zeitgeist-Pioniere gesehen, deren Weitblick für die Gegenwart so beeindruckend wie bereichernd ist.",
-      "available": 345,
-      "reserved": 85,
+      "available": 338,
+      "reserved": 87,
       "bookable": true
     },
     {
@@ -1608,8 +1608,8 @@
       "img": "https://media.kinoheld.de/Oyw4j5X6-APA71HNlPwWligxMDc=/400x560/images%2Ffilm%2Ffabiana-19170.v1.jpg",
       "description": "Im Berlin des Jahres 1931 lässt sich der Germanist und Werbetexter Jakob Fabian (Tom Schilling) durch das Leben treiben. Während er tagsüber für die Werbung einer Zigarettenfirma zuständig ist, ist er nachts oft mit seinem Studienkollegen Labude (Albrecht Schuch) unterwegs und macht die Unterweltkneipen, Bordelle und Künstlerateliers unsicher. Das sorglose Leben der beiden jungen Männer wird durch eine durch Kommunisten und Nationalsozialisten geteilte Gesellschaft zunehmend bedroht und auch Labude träumt davon, dass die Klassen gegen die Obrigkeit revolutionieren. Fabian kann mit dem politischen Umbruch nicht viel anfangen und kommentiert die Geschehnisse ironisch. Eines Tages trifft er in einem Atelier auf Cornelia (Saskia Rosendahl) und verliebt sich auf den ersten Blick in sie. Fabians naives Leben nimmt eine dramatische Wendung, als er einer Entlassungswelle zum Opfer fällt, Cornelias Karriere als Schauspielerin jedoch an Fahrt aufnimmt...",
       "trailer": "https://www.youtube.com/watch?v=VPIeUqg7F40",
-      "available": 257,
-      "reserved": 115,
+      "available": 247,
+      "reserved": 117,
       "bookable": true
     },
     {
@@ -1836,9 +1836,9 @@
       "timestamp": 1629936000000,
       "time": "17:00",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691769?layout=shows",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -1851,9 +1851,9 @@
       "timestamp": 1630368000000,
       "time": "17:00",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691781?layout=shows",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -2206,8 +2206,8 @@
       "img": "https://media.kinoheld.de/gWHnvjm92FrIL05XZCerlxTDocw=/400x560/images%2Ffilm%2Fbelle-de-jour-schoene-des-tages-6840.v1.jpg",
       "description": "Severine, die mit ihrem Mann Pierre nicht intim werden kann, kompensiert ihre sexuelle Frustration mit masochistischen Phantasien. Die Neugier treibt sie in ein Bordell, wo sie - ohne das Pierre etwas ahnt - als \"Schöne des Tages\" das dritte Mädchen wird, das für Madame Anaïs arbeitet. Indem sie die Bedürfnisse ihrer Kunden befriedigt, scheint sie zugleich ihren inneren Frieden gefunden zu haben. Doch das Arrangement kippt als Marcel, ein leicht aufbrausender Stammkunde, darauf besteht Severine für sich alleine zu haben.",
       "trailer": "https://youtu.be/MKJ-nXADsVk",
-      "available": 45,
-      "reserved": 17,
+      "available": 43,
+      "reserved": 19,
       "bookable": true
     },
     {
@@ -3176,8 +3176,8 @@
       "img": "https://media.kinoheld.de/oO1mnhwCgLFA2jiJXg5aKuZEIBE=/400x560/images%2Ffilm%2F4%2Fb-movie-lust-sound-in-west-berlin-1979-1989-1581.v15.jpg",
       "description": "Eine Dokumentation über Musik, Kunst & Chaos im wilden West-Berlin der 80er Jahre. Bevor der eiserne Vorhang fiel, war die eingemauerte Stadt ein kreativer Schmelztiegel für Sub- und Popkultur. Von Punk bis zur Love Parade - erzählt mit authentischen Zeitdokumenten aus unzähligen Archiven.",
       "trailer": "https://youtu.be/MKJ-nXADsVk",
-      "available": 100,
-      "reserved": 45,
+      "available": 93,
+      "reserved": 52,
       "bookable": true
     },
     {
@@ -3455,8 +3455,8 @@
       "time": "21:30",
       "date": "Sa., 17.7.",
       "timestamp": 1626557400000,
-      "available": 57,
-      "reserved": 403,
+      "available": 34,
+      "reserved": 426,
       "bookable": true
     },
     {
@@ -3473,8 +3473,8 @@
       "time": "21:30",
       "date": "So., 18.7.",
       "timestamp": 1626643800000,
-      "available": 391,
-      "reserved": 69,
+      "available": 388,
+      "reserved": 72,
       "bookable": true
     },
     {
@@ -3490,8 +3490,8 @@
       "time": "21:30",
       "date": "Mo., 19.7.",
       "timestamp": 1626730200000,
-      "available": 287,
-      "reserved": 173,
+      "available": 285,
+      "reserved": 175,
       "bookable": true
     },
     {
@@ -3523,8 +3523,8 @@
       "time": "21:30",
       "date": "Mi., 21.7.",
       "timestamp": 1626903000000,
-      "available": 364,
-      "reserved": 96,
+      "available": 362,
+      "reserved": 98,
       "bookable": true
     },
     {
@@ -3677,8 +3677,8 @@
       "time": "21:30",
       "date": "Mo., 19.7.",
       "timestamp": 1626730200000,
-      "available": 287,
-      "reserved": 173,
+      "available": 285,
+      "reserved": 175,
       "bookable": true
     },
     {
@@ -3712,8 +3712,8 @@
       "time": "21:30",
       "date": "Sa., 17.7.",
       "timestamp": 1626557400000,
-      "available": 57,
-      "reserved": 403,
+      "available": 34,
+      "reserved": 426,
       "bookable": true
     },
     {
@@ -3781,8 +3781,8 @@
       "time": "21:30",
       "date": "So., 18.7.",
       "timestamp": 1626643800000,
-      "available": 391,
-      "reserved": 69,
+      "available": 388,
+      "reserved": 72,
       "bookable": true
     },
     {
@@ -3799,8 +3799,8 @@
       "time": "21:30",
       "date": "Mi., 21.7.",
       "timestamp": 1626903000000,
-      "available": 364,
-      "reserved": 96,
+      "available": 362,
+      "reserved": 98,
       "bookable": true
     },
     {
@@ -3868,8 +3868,8 @@
       "time": "21:30",
       "date": "Sa., 17.7.",
       "timestamp": 1626557400000,
-      "available": 302,
-      "reserved": 197,
+      "available": 289,
+      "reserved": 210,
       "bookable": true
     },
     {
@@ -3885,8 +3885,8 @@
       "time": "21:30",
       "date": "So., 18.7.",
       "timestamp": 1626643800000,
-      "available": 346,
-      "reserved": 153,
+      "available": 344,
+      "reserved": 155,
       "bookable": true
     },
     {
@@ -3903,8 +3903,8 @@
       "time": "21:30",
       "date": "Mo., 19.7.",
       "timestamp": 1626730200000,
-      "available": 464,
-      "reserved": 35,
+      "available": 461,
+      "reserved": 38,
       "bookable": true
     },
     {
@@ -3975,8 +3975,8 @@
       "time": "21:30",
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
-      "available": 452,
-      "reserved": 191,
+      "available": 432,
+      "reserved": 211,
       "bookable": true
     },
     {
@@ -4082,8 +4082,8 @@
       "time": "21:30",
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
-      "available": 452,
-      "reserved": 191,
+      "available": 432,
+      "reserved": 211,
       "bookable": true
     },
     {
@@ -4117,8 +4117,8 @@
       "time": "21:30",
       "date": "Sa., 17.7.",
       "timestamp": 1626557400000,
-      "available": 302,
-      "reserved": 197,
+      "available": 289,
+      "reserved": 210,
       "bookable": true
     },
     {
@@ -4189,8 +4189,8 @@
       "time": "21:30",
       "date": "Mo., 19.7.",
       "timestamp": 1626730200000,
-      "available": 464,
-      "reserved": 35,
+      "available": 461,
+      "reserved": 38,
       "bookable": true
     },
     {
@@ -4223,8 +4223,8 @@
       "time": "21:30",
       "date": "So., 18.7.",
       "timestamp": 1626643800000,
-      "available": 346,
-      "reserved": 153,
+      "available": 344,
+      "reserved": 155,
       "bookable": true
     },
     {
