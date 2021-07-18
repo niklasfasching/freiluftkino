@@ -98,8 +98,8 @@
     "date": "So., 18.7.",
     "timestamp": 1626643800000,
     "time": "21:30",
-    "available": 660,
-    "reserved": 418,
+    "available": 644,
+    "reserved": 434,
     "bookable": true
   },
   "fhain-707": {
@@ -134,8 +134,8 @@
     "date": "Di., 20.7.",
     "timestamp": 1626816600000,
     "time": "21:30",
-    "available": 1010,
-    "reserved": 68,
+    "available": 1004,
+    "reserved": 74,
     "bookable": true
   },
   "fhain-709": {
@@ -152,8 +152,8 @@
     "date": "Mi., 21.7.",
     "timestamp": 1626903000000,
     "time": "21:30",
-    "available": 917,
-    "reserved": 161,
+    "available": 915,
+    "reserved": 163,
     "bookable": true
   },
   "fhain-710": {
@@ -170,8 +170,8 @@
     "date": "Do., 22.7.",
     "timestamp": 1626989400000,
     "time": "21:30",
-    "available": 929,
-    "reserved": 149,
+    "available": 925,
+    "reserved": 153,
     "bookable": true
   },
   "fhain-711": {
@@ -331,8 +331,8 @@
     "date": "So., 15.8.",
     "timestamp": 1629043200000,
     "time": "16:00",
-    "available": 980,
-    "reserved": 98,
+    "available": 979,
+    "reserved": 99,
     "bookable": true
   },
   "fhain-720": {
@@ -366,8 +366,8 @@
     "date": "Mo., 19.7.",
     "timestamp": 1626730200000,
     "time": "21:30",
-    "available": 330,
-    "reserved": 237,
+    "available": 322,
+    "reserved": 245,
     "bookable": true
   },
   "xberg-643": {
@@ -419,8 +419,8 @@
     "date": "So., 18.7.",
     "timestamp": 1626643800000,
     "time": "21:30",
-    "available": 96,
-    "reserved": 471,
+    "available": 54,
+    "reserved": 513,
     "bookable": true
   },
   "xberg-641": {
@@ -455,8 +455,8 @@
     "date": "Sa., 24.7.",
     "timestamp": 1627162200000,
     "time": "21:30",
-    "available": 468,
-    "reserved": 99,
+    "available": 466,
+    "reserved": 101,
     "bookable": true
   },
   "xberg-638": {
@@ -613,8 +613,8 @@
     "date": "Mi., 21.7.",
     "timestamp": 1626903000000,
     "time": "21:30",
-    "available": 468,
-    "reserved": 105,
+    "available": 466,
+    "reserved": 107,
     "bookable": true
   },
   "rehberge-627": {
@@ -649,8 +649,8 @@
     "date": "So., 18.7.",
     "timestamp": 1626643800000,
     "time": "21:30",
-    "available": 305,
-    "reserved": 268,
+    "available": 291,
+    "reserved": 282,
     "bookable": true
   },
   "rehberge-628": {
@@ -667,8 +667,8 @@
     "date": "Di., 20.7.",
     "timestamp": 1626816600000,
     "time": "21:30",
-    "available": 514,
-    "reserved": 59,
+    "available": 509,
+    "reserved": 64,
     "bookable": true
   },
   "rehberge-630": {
@@ -1029,9 +1029,9 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691314?layout=shows",
     "img": "https://media.kinoheld.de/t3V7VWTrApkZgtbe9pOWThGOxvE=/400x560/images%2Ffilm%2F2%2Fdas-fest-551.v1.jpg",
     "description": "Zur Feier seines 60. Geburtstags lädt der Hotelier Helge Klingenfeldt Freunde und Verwandte auf seinen Landsitz ein.",
-    "available": -1,
+    "available": 0,
     "reserved": 0,
-    "bookable": true
+    "bookable": false
   },
   "hasenheide-691188": {
     "cinemaId": "580",
@@ -1046,8 +1046,8 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691188?layout=shows",
     "img": "https://media.kinoheld.de/L38EzF0p2enDK_I6YSIF62yiGy0=/400x560/images%2Ffilm%2Fschwesterlein-17561.v71.jpg",
     "description": "Lisa, einst brillante Theaterautorin, schreibt nicht mehr. Sie lebt in der Schweiz, doch ihr Herz ist in Berlin geblieben – bei ihrem Zwillingsbruder Sven, dem berühmten Bühnendarsteller. Seit dieser an einer aggressiven Leukämie erkrankt ist, sind die Geschwister noch enger verbunden. Lisa weigert sich, den Schicksalsschlag hinzunehmen und setzt alle Hebel in Bewegung, um Sven wieder auf die Bühne zu bringen. Er ist ihr Seelenverwandter, für den sie alles andere vernachlässigt. Selbst als ihre Ehe in Schieflage gerät, hat sie nur Augen für ihren Bruder, in dem sich ihre tiefsten Sehnsüchte spiegeln: Er weckt in ihr das Verlangen, wieder kreativ zu sein, sich lebendig zu fühlen.  Mit SCHWESTERLEIN ist ein aufwühlendes Drama gelungen, das sich voll und ganz auf seine überragenden Hauptdarsteller verlassen kann: Nina Hoss und Lars Eidinger– erstmals gemeinsam vor der Kamera – verkörpern das innige Geschwisterpaar voller Glaubwürdigkeit und leidenschaftlicher Intensität.",
-    "available": 382,
-    "reserved": 77,
+    "available": 370,
+    "reserved": 83,
     "bookable": true
   },
   "hasenheide-691284": {
@@ -1176,9 +1176,9 @@
     "timestamp": 1626825600000,
     "time": "18:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691316?layout=shows",
-    "available": -1,
+    "available": 0,
     "reserved": 0,
-    "bookable": true
+    "bookable": false
   },
   "hasenheide-691226": {
     "cinemaId": "580",
@@ -1194,8 +1194,8 @@
     "img": "https://media.kinoheld.de/BVSOhCc4czDBpW3JWKzQdQqQU2M=/400x560/images%2Ffilm%2Fkokon-17135.v7.png",
     "description": "Mitten am Kottbusser Tor in Berlin Kreuzberg wächst Nora (Lena Urzendowsky) auf. Hier im turbulenten Herzen Berlins ist sie stets umgeben von Menschen, deren Lebensläufe nicht immer den geraden Weg gehen und aus den unterschiedlichsten Kulturkreisen der Welt stammen. Nun, wo Nora langsam erwachsen wird, sich ihr Körper verändert, fühlt sie sich in der Welt mehr und mehr verloren und weiß nicht, wie es weitergehen soll. Bei ihrer Schwester Jule (Lena Klenke) und deren bester Freundin Aylin (Elina Vildanova) sieht das Leben etwas anders aus. Für die jungen Frauen dreht sich alles nur um Styling, Mode und die Präsentation dessen in den sozialen Medien. Anfangs scheint sie sich dem Druck, für andere schön zu sein, ebenfalls hinzugeben, als jedoch Romy (Jella Haase) auftaucht, bringt diese ihr bei, zu sich und ihrem Körper zu stehen.",
     "trailer": "https://www.youtube.com/watch?v=31_ZH8_4nVs",
-    "available": 576,
-    "reserved": 20,
+    "available": 562,
+    "reserved": 22,
     "bookable": true
   },
   "hasenheide-691330": {
@@ -1355,7 +1355,7 @@
     "description": "London in den 1970er Jahren: Die junge Estella (Emma Stone) ist eine talentierte Designerin und träumt von einer großen Karriere als Modeschöpferin. Doch da sie verwaist und mittellos aufgewachsen ist, scheint ihr der Weg in höhere Kreise verschlossen. Mit ihren zwei Kumpels, den Amateur-Dieben Horace (Paul Walter Hauser) und Jasper (Joel Fry), streift sie durch London und begeht hier und da kleine Verbrechen – und wann immer sich die Möglichkeit ergibt, wenigstens kurz in den von ihr ersehnten Luxus der Schönen und Reichen einzutauchen, greift sie schamlos zu. Dann aber bietet sich ihr endlich eine einzigartige Gelegenheit, um der Gosse zu entkommen: Ein aufstrebender Rockstar entdeckt ihr Talent und beauftragt Estella damit, ihm ein einzigartiges Outfit zu entwerfen. Auf der Suche nach dem perfekten Material muss sich Estella, die ein Faible für Hundefell hat, fragen, was sie für ihren Erfolg zu opfern bereit ist.",
     "trailer": "https://www.youtube.com/watch?v=KIRKfx5Cbec",
     "available": 481,
-    "reserved": 43,
+    "reserved": 46,
     "bookable": true
   },
   "hasenheide-691331": {
@@ -1372,9 +1372,9 @@
     "img": "https://media.kinoheld.de/aeplxI5NP6wmy4XKeFur6LcxOX4=/400x560/images%2Ffilm%2Fzu-weit-weg-14763.v2.jpg",
     "description": "Da sein Heimatdorf einem Braunkohletagebau weichen soll, müssen Ben (12) und seine Familie in die nächstgrößere Stadt umziehen. In der neuen Schule ist er erst mal der Außenseiter. Und auch im neuen Fußballverein laufen die Dinge für den talentierten Stürmer nicht wie erhofft. Zu allem Überfluss gibt es noch einen weiteren Neuankömmling an der Schule: Tariq (11), Flüchtling aus Syrien, der ihm nicht nur in der Klasse die Show stehlt, sondern auch noch auf dem Fußballplatz punktet. Wird Ben im Abseits bleiben – oder hat sein Konkurrent doch mehr mit ihm gemeinsam als er denkt?",
     "trailer": "https://www.youtube.com/watch?v=lmELdP6RiMk",
-    "available": -1,
+    "available": 0,
     "reserved": 0,
-    "bookable": true
+    "bookable": false
   },
   "hasenheide-692196": {
     "cinemaId": "580",
@@ -1476,9 +1476,9 @@
     "img": "https://media.kinoheld.de/6-ZJxmEw6bdKlUE39cg2CPT2xsI=/400x560/images%2Ffilm%2Fder-geheime-garten-17251.v435.jpg",
     "description": "Die in Indien lebende, 10-jährige Britin Mary Lennox wird nach dem unerwarteten Ableben ihrer Eltern auf das Landgut ihres Onkels Archibald geschickt. Weder Archibald noch die Haushälterin interessieren sich für das Mädchen und so wecken die Geheimnisse in dem großen Haus mit den verschlossenen Zimmern schnell Marys Neugier. Sie erfährt von einem geheimen Garten, den seit zehn Jahren niemand betreten hat und macht sich auf die Suche.",
     "trailer": "https://www.youtube.com/watch?v=eEyPvZxC5Mk",
-    "available": -1,
+    "available": 0,
     "reserved": 0,
-    "bookable": true
+    "bookable": false
   },
   "hasenheide-692198": {
     "cinemaId": "580",
@@ -1512,9 +1512,9 @@
     "img": "https://media.kinoheld.de/Oyw4j5X6-APA71HNlPwWligxMDc=/400x560/images%2Ffilm%2Ffabiana-19170.v1.jpg",
     "description": "Im Berlin des Jahres 1931 lässt sich der Germanist und Werbetexter Jakob Fabian (Tom Schilling) durch das Leben treiben. Während er tagsüber für die Werbung einer Zigarettenfirma zuständig ist, ist er nachts oft mit seinem Studienkollegen Labude (Albrecht Schuch) unterwegs und macht die Unterweltkneipen, Bordelle und Künstlerateliers unsicher. Das sorglose Leben der beiden jungen Männer wird durch eine durch Kommunisten und Nationalsozialisten geteilte Gesellschaft zunehmend bedroht und auch Labude träumt davon, dass die Klassen gegen die Obrigkeit revolutionieren. Fabian kann mit dem politischen Umbruch nicht viel anfangen und kommentiert die Geschehnisse ironisch. Eines Tages trifft er in einem Atelier auf Cornelia (Saskia Rosendahl) und verliebt sich auf den ersten Blick in sie. Fabians naives Leben nimmt eine dramatische Wendung, als er einer Entlassungswelle zum Opfer fällt, Cornelias Karriere als Schauspielerin jedoch an Fahrt aufnimmt...",
     "trailer": "https://www.youtube.com/watch?v=VPIeUqg7F40",
-    "available": 184,
-    "reserved": 134,
-    "bookable": true
+    "available": 0,
+    "reserved": 0,
+    "bookable": false
   },
   "hasenheide-691336": {
     "cinemaId": "580",
@@ -1637,9 +1637,9 @@
     "img": "https://media.kinoheld.de/gmbXUECjFkZFUAaGrtctv0b5EeQ=/400x560/images%2Ffilm%2Fder-kleine-rabe-socke-suche-nach-dem-verlorenen-schatz-13641.v187.jpg",
     "description": "Der kleine Rabe Socke ist von Frau Dachs zum Dachbodenaufräumen verdonnert worden, nachdem ihm mal wieder ein Malheur passiert ist und er ganz aus Versehen das alljährliche Waldfest ruiniert hat. Während er noch über die Ungerechtigkeit mault, macht er eine Riesenentdeckung: In einem geheimen Zimmer findet er eine waschechte Schatzkarte! Gezeichnet hat sie Opa Dachs, bevor er spurlos verschwunden ist. Um den verschollenen Schatz rankt sich eine geheimnisvolle Legende: Wer es schafft, bis zu ihm vorzudringen und alle Gefahren und Rätsel auf dem Weg besteht, der wird König des Waldes! Und König wollte Socke immer schon sein. Dann wären die anderen auch nicht mehr sauer auf ihn, glaubt er. Zusammen mit seinem besten Freund Eddi-Bär bricht Socke auf zum großen Schatzsucher-Abenteuer. Dabei heftet sich der Kleine Dachs, der endlich einmal beweisen will, dass viel mehr in ihm steckt als die anderen ahnen, an ihre Fersen. Auch Bibermädchen Fritzi gesellt sich zu dem Entdecker-Trupp, der die Freunde über Schluchten und Hängebrücken hoch hinauf auf den majestätischen Nebelberg und schließlich tief hinein in eine geheimnisvolle Höhle führt. Ihnen dicht auf den Fersen sind die Biberjungs Henry und Arthur, die ebenfalls Wind von der Sache bekommen haben und kurzerhand den Kleinen Dachs entführen, um den Freunden die Schatzkarte und damit den Schatz abzujagen. Socke muss sich entscheiden: Soll er seinen Freund retten oder den Schatz als erster finden und König werden? Während er noch grübelt, machen die Freunde eine aufregende Entdeckung, die das Leben der Waldbewohner gehörig durcheinander wirbelt... (Quelle: Verleih)",
     "trailer": "https://www.youtube.com/watch?v=_H9DJgT4c2w",
-    "available": -1,
+    "available": 0,
     "reserved": 0,
-    "bookable": true
+    "bookable": false
   },
   "hasenheide-692202": {
     "cinemaId": "580",
@@ -1872,9 +1872,9 @@
     "img": "https://media.kinoheld.de/oO1mnhwCgLFA2jiJXg5aKuZEIBE=/400x560/images%2Ffilm%2F4%2Fb-movie-lust-sound-in-west-berlin-1979-1989-1581.v15.jpg",
     "description": "Eine Dokumentation über Musik, Kunst & Chaos im wilden West-Berlin der 80er Jahre. Bevor der eiserne Vorhang fiel, war die eingemauerte Stadt ein kreativer Schmelztiegel für Sub- und Popkultur. Von Punk bis zur Love Parade - erzählt mit authentischen Zeitdokumenten aus unzähligen Archiven.",
     "trailer": "https://youtu.be/MKJ-nXADsVk",
-    "available": 692,
+    "available": 0,
     "reserved": 0,
-    "bookable": true
+    "bookable": false
   },
   "hasenheide-691729": {
     "cinemaId": "580",
@@ -3517,8 +3517,8 @@
     "time": "21:30",
     "date": "So., 18.7.",
     "timestamp": 1626643800000,
-    "available": 335,
-    "reserved": 125,
+    "available": 326,
+    "reserved": 134,
     "bookable": true
   },
   "kulturforum-264": {
@@ -3534,8 +3534,8 @@
     "time": "21:30",
     "date": "Mo., 19.7.",
     "timestamp": 1626730200000,
-    "available": 235,
-    "reserved": 225,
+    "available": 230,
+    "reserved": 230,
     "bookable": true
   },
   "kulturforum-266": {
@@ -3549,8 +3549,8 @@
     "time": "21:30",
     "date": "Di., 20.7.",
     "timestamp": 1626816600000,
-    "available": 304,
-    "reserved": 156,
+    "available": 303,
+    "reserved": 157,
     "bookable": true
   },
   "kulturforum-265": {
@@ -3567,8 +3567,8 @@
     "time": "21:30",
     "date": "Mi., 21.7.",
     "timestamp": 1626903000000,
-    "available": 352,
-    "reserved": 108,
+    "available": 347,
+    "reserved": 113,
     "bookable": true
   },
   "kulturforum-267": {
@@ -3584,8 +3584,8 @@
     "time": "21:30",
     "date": "Do., 22.7.",
     "timestamp": 1626989400000,
-    "available": 109,
-    "reserved": 351,
+    "available": 113,
+    "reserved": 347,
     "bookable": true
   },
   "kulturforum-270": {
@@ -3634,8 +3634,8 @@
     "time": "21:30",
     "date": "So., 25.7.",
     "timestamp": 1627248600000,
-    "available": 435,
-    "reserved": 25,
+    "available": 433,
+    "reserved": 27,
     "bookable": true
   },
   "kulturforum-273": {
@@ -3722,8 +3722,8 @@
     "time": "21:30",
     "date": "So., 18.7.",
     "timestamp": 1626643800000,
-    "available": 222,
-    "reserved": 277,
+    "available": 217,
+    "reserved": 282,
     "bookable": true
   },
   "schloss-charlottenburg-51": {
@@ -3740,8 +3740,8 @@
     "time": "21:30",
     "date": "Mo., 19.7.",
     "timestamp": 1626730200000,
-    "available": 455,
-    "reserved": 44,
+    "available": 452,
+    "reserved": 47,
     "bookable": true
   },
   "schloss-charlottenburg-52": {
@@ -3794,8 +3794,8 @@
     "time": "21:30",
     "date": "Do., 22.7.",
     "timestamp": 1626989400000,
-    "available": 457,
-    "reserved": 42,
+    "available": 453,
+    "reserved": 46,
     "bookable": true
   },
   "schloss-charlottenburg-55": {
@@ -3812,8 +3812,8 @@
     "time": "21:30",
     "date": "Fr., 23.7.",
     "timestamp": 1627075800000,
-    "available": 302,
-    "reserved": 341,
+    "available": 285,
+    "reserved": 358,
     "bookable": true
   },
   "schloss-charlottenburg-56": {
@@ -3830,8 +3830,8 @@
     "time": "21:30",
     "date": "Sa., 24.7.",
     "timestamp": 1627162200000,
-    "available": 557,
-    "reserved": 86,
+    "available": 555,
+    "reserved": 88,
     "bookable": true
   },
   "schloss-charlottenburg-57": {
@@ -3901,8 +3901,8 @@
     "time": "21:30",
     "date": "Mi., 28.7.",
     "timestamp": 1627507800000,
-    "available": 475,
-    "reserved": 24,
+    "available": 471,
+    "reserved": 28,
     "bookable": true
   },
   "schloss-charlottenburg-54": {
@@ -3918,8 +3918,8 @@
     "time": "21:30",
     "date": "Do., 29.7.",
     "timestamp": 1627594200000,
-    "available": 283,
-    "reserved": 216,
+    "available": 282,
+    "reserved": 217,
     "bookable": true
   }
 }
