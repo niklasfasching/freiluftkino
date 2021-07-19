@@ -1143,8 +1143,8 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691233?layout=shows",
     "img": "https://media.kinoheld.de/U0hvJqfHfa8se2HP8BkoKfarsDY=/400x560/images%2Ffilm%2Fich-bin-dein-mensch-18809.v2.png",
     "description": "Die Wissenschaftlerin Alma lässt sich auf die Teilnahme an einer Studie ein, um Gelder für ihre Forschungen zu bekommen. Bei dem Experiment soll Alma einige Wochen mit einem humanoiden Roboter verbringen, der sich an ihre Wünsche und Bedürfnisse anpasst, um der perfekte Partner für Alma zu werden. Nach ein paar Anlaufschwierigkeiten finden Alma und der Roboter schließlich zueinander. Doch Alma fragt sich, welchen Sinn es hat, sich in einen Roboter zu verlieben.",
-    "available": 267,
-    "reserved": 106,
+    "available": 263,
+    "reserved": 108,
     "bookable": true
   },
   "hasenheide-691332": {
@@ -1426,9 +1426,9 @@
     "img": "https://media.kinoheld.de/TtqS0ER1ioFzwQjEjHtyRXqo4ZI=/400x560/images%2Ffilm%2F4%2Fpettersson-und-findus-findus-zieht-um-10424.v35.jpg",
     "description": "Findus hüpft Tag und Nacht auf seiner neuen Matratze herum, der genervte Pettersson (Stefan Kurt) aber möchte seine Ruhe haben. Die Lösung: ein eigenes Spiel- und Hüpf-Haus für Findus, das Pettersson ihm gleich nebenan baut! Der Kater aber findet solchen Gefallen daran, selbständig zu sein und alleine zu wohnen, dass er nicht nur zum Spielen, sondern gleich ganz und gar ins Häuschen umzieht. So hat Pettersson sich das allerdings nicht vorgestellt! Muss er sein Leben jetzt etwa ohne seinen kleinen fröhlichen Gefährten führen? Findus muss sich etwas einfallen lassen, um den alten Pettersson wieder aufzumuntern... (Quelle: Verleih)",
     "trailer": "https://www.youtube.com/watch?v=uu_dG5HF1lc",
-    "available": -1,
+    "available": 0,
     "reserved": 0,
-    "bookable": true
+    "bookable": false
   },
   "hasenheide-692199": {
     "cinemaId": "580",
@@ -1569,9 +1569,9 @@
     "img": "https://media.kinoheld.de/JUw_7p1h4ID_IYJBYMa0SLMtZU8=/400x560/images%2Ffilm%2Fno-sudden-move-19129.v6.png",
     "description": "Eine Gruppe Krimineller muss herausfinden, was schiefgelaufen ist, als ihr Coup platzt.",
     "trailer": "https://www.youtube.com/watch?v=7GRDLX3a-IE",
-    "available": 692,
+    "available": 0,
     "reserved": 0,
-    "bookable": true
+    "bookable": false
   },
   "hasenheide-691725": {
     "cinemaId": "580",
@@ -1599,9 +1599,9 @@
     "timestamp": 1627689600000,
     "time": "18:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691288?layout=shows",
-    "available": -1,
+    "available": 0,
     "reserved": 0,
-    "bookable": true
+    "bookable": false
   },
   "hasenheide-692207": {
     "cinemaId": "580",
@@ -1617,9 +1617,9 @@
     "img": "https://media.kinoheld.de/bWgBMhcTZGShU1q7tv7OUJhaDRs=/400x560/images%2Ffilm%2Fund-morgen-die-ganze-welt-17457.v143.jpg",
     "description": "Luisa ist 20 Jahre alt, stammt aus gutem Haus, studiert Jura im ersten Semester. Und sie will, dass sich etwas verändert in Deutschland. Alarmiert vom Rechtsruck im Land und der zunehmenden Beliebtheit populistischer Parteien, tut sie sich mit ihren Freunden zusammen, um sich klar gegen die neue Rechte zu positionieren. Schnell findet sie Anschluss bei dem charismatischen Alfa und dessen besten Freund Lenor: Für die beiden ist auch der Einsatz von Gewalt ein legitimes Mittel, um Widerstand zu leisten. Bald schon überstürzen sich die Ereignisse. Und Luisa muss entscheiden, wie weit zu gehen sie bereit ist – auch wenn das fatale Konsequenzen für sie und ihre Freunde haben könnte.",
     "trailer": "https://www.youtube.com/watch?v=5jtj8DcAqz0",
-    "available": 692,
+    "available": 0,
     "reserved": 0,
-    "bookable": true
+    "bookable": false
   },
   "hasenheide-691726": {
     "cinemaId": "580",
@@ -1834,9 +1834,9 @@
     "timestamp": 1628121600000,
     "time": "19:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691312?layout=shows",
-    "available": -1,
+    "available": 0,
     "reserved": 0,
-    "bookable": true
+    "bookable": false
   },
   "hasenheide-691805": {
     "cinemaId": "580",
@@ -3655,8 +3655,8 @@
     "time": "21:30",
     "date": "Fr., 23.7.",
     "timestamp": 1627075800000,
-    "available": 229,
-    "reserved": 414,
+    "available": 227,
+    "reserved": 416,
     "bookable": true
   },
   "schloss-charlottenburg-56": {
