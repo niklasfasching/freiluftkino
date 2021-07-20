@@ -31,8 +31,8 @@
     "date": "Do., 22.7.",
     "timestamp": 1626989400000,
     "time": "21:30",
-    "available": 745,
-    "reserved": 333,
+    "available": 743,
+    "reserved": 335,
     "bookable": true
   },
   "fhain-713": {
@@ -85,8 +85,8 @@
     "date": "Di., 27.7.",
     "timestamp": 1627421400000,
     "time": "21:30",
-    "available": 1036,
-    "reserved": 42,
+    "available": 1034,
+    "reserved": 44,
     "bookable": true
   },
   "fhain-712": {
@@ -382,8 +382,8 @@
     "date": "So., 25.7.",
     "timestamp": 1627248600000,
     "time": "21:30",
-    "available": 500,
-    "reserved": 67,
+    "available": 498,
+    "reserved": 69,
     "bookable": true
   },
   "xberg-647": {
@@ -557,8 +557,8 @@
     "date": "Mi., 21.7.",
     "timestamp": 1626903000000,
     "time": "21:30",
-    "available": 341,
-    "reserved": 232,
+    "available": 339,
+    "reserved": 234,
     "bookable": true
   },
   "rehberge-630": {
@@ -629,8 +629,8 @@
     "date": "Sa., 24.7.",
     "timestamp": 1627162200000,
     "time": "21:30",
-    "available": 512,
-    "reserved": 61,
+    "available": 510,
+    "reserved": 63,
     "bookable": true
   },
   "rehberge-637": {
@@ -1292,9 +1292,9 @@
     "img": "https://media.kinoheld.de/wkU_KHbys0bMLTLcd3GFXv3CDUQ=/400x560/images%2Ffilm%2Fthe-trouble-with-being-born-19295.v3.png",
     "description": "Elli lebt mit einem Mann zusammen, den sie ihren Vater nennt.  Gemeinsam lassen sie sich durch den Sommer treiben. Tagsüber schwimmen sie im Pool und nachts bringt er sie ins Bett. Sie teilt seine Erinnerungen und alles andere, was er ihr einprogrammiert, damit sie sich daran erinnert. Erinnerungen, die ihm alles, aber ihr nichts bedeuten. Doch eines Nacht macht sie sich auf den Weg in den Wald und folgt einem verklingenden Echo...  Die Geschichte einer Maschine und der Geister, die wir alle in uns tragen.",
     "trailer": "https://www.youtube.com/watch?v=515710227",
-    "available": -1,
+    "available": 0,
     "reserved": 0,
-    "bookable": true
+    "bookable": false
   },
   "hasenheide-691239": {
     "cinemaId": "580",
@@ -1697,9 +1697,9 @@
     "timestamp": 1628208000000,
     "time": "18:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691805?layout=shows",
-    "available": 0,
-    "reserved": 0,
-    "bookable": false
+    "available": 70,
+    "reserved": 9,
+    "bookable": true
   },
   "hasenheide-691768": {
     "cinemaId": "580",
@@ -1727,9 +1727,9 @@
     "timestamp": 1629936000000,
     "time": "17:00",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691769?layout=shows",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-691781": {
     "cinemaId": "580",
@@ -3526,8 +3526,8 @@
     "time": "21:30",
     "date": "Sa., 24.7.",
     "timestamp": 1627162200000,
-    "available": 300,
-    "reserved": 160,
+    "available": 297,
+    "reserved": 163,
     "bookable": true
   },
   "kulturforum-272": {
@@ -3702,8 +3702,8 @@
     "time": "21:30",
     "date": "Sa., 24.7.",
     "timestamp": 1627162200000,
-    "available": 430,
-    "reserved": 213,
+    "available": 428,
+    "reserved": 215,
     "bookable": true
   },
   "schloss-charlottenburg-57": {
