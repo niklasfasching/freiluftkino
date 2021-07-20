@@ -14,8 +14,8 @@
       "date": "Mi., 21.7.",
       "timestamp": 1626903000000,
       "time": "21:30",
-      "available": 828,
-      "reserved": 250,
+      "available": 827,
+      "reserved": 251,
       "bookable": true
     },
     {
@@ -32,8 +32,8 @@
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
       "time": "21:30",
-      "available": 749,
-      "reserved": 329,
+      "available": 745,
+      "reserved": 333,
       "bookable": true
     },
     {
@@ -122,8 +122,8 @@
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
       "time": "21:30",
-      "available": 1002,
-      "reserved": 76,
+      "available": 1000,
+      "reserved": 78,
       "bookable": true
     },
     {
@@ -331,8 +331,8 @@
       "date": "Mi., 21.7.",
       "timestamp": 1626903000000,
       "time": "21:30",
-      "available": 401,
-      "reserved": 166,
+      "available": 397,
+      "reserved": 170,
       "bookable": true
     },
     {
@@ -367,8 +367,8 @@
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
       "time": "21:30",
-      "available": 357,
-      "reserved": 210,
+      "available": 351,
+      "reserved": 216,
       "bookable": true
     },
     {
@@ -509,8 +509,8 @@
       "date": "Sa., 7.8.,",
       "timestamp": 1628370000000,
       "time": "21:00",
-      "available": 567,
-      "reserved": 0,
+      "available": 565,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -562,8 +562,8 @@
       "date": "Mi., 21.7.",
       "timestamp": 1626903000000,
       "time": "21:30",
-      "available": 343,
-      "reserved": 230,
+      "available": 341,
+      "reserved": 232,
       "bookable": true
     },
     {
@@ -634,8 +634,8 @@
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
       "time": "21:30",
-      "available": 516,
-      "reserved": 57,
+      "available": 512,
+      "reserved": 61,
       "bookable": true
     },
     {
@@ -705,8 +705,8 @@
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
       "time": "21:30",
-      "available": 554,
-      "reserved": 19,
+      "available": 551,
+      "reserved": 22,
       "bookable": true
     },
     {
@@ -908,59 +908,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
       "cinemaName": "freiluftkino-hasenheide",
       "cinemaShortName": "hasenheide",
-      "id": "hasenheide-691286",
-      "title": "Alfons Zitterbacke ",
-      "date": "Di., 20.7.",
-      "timestamp": 1626739200000,
-      "time": "16:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691286?layout=shows",
-      "img": "https://media.kinoheld.de/EhXAVaY_zOG7BqOdCiEN8DaAyCo=/400x560/images%2Ffilm%2F4%2Falfons-zitterbacke-das-chaos-ist-zurueck-12645.v14.jpg",
-      "description": "Der 10jährige Alfons Zitterbacke leidet nicht nur unter seinem Nachnamen, sondern vor allem an der Tatsache, dass ihn das Pech stets verfolgt. Sein Freund Benni ist ihm zwar ein treuer Begleiter, aber von seinen Mitschülern, Lehrern und seinen Eltern - besonders von seinem Vater - fühlt er sich weder ernst genommen noch fair behandelt - zu schrullig scheint er zu sein, vor allem, weil er unbeirrbar daran glaubt, eines Tages ein berühmter Astronaut werden zu können. Bei einem Fluggeräte-Wettbewerb will Alfons der ganzen Welt beweisen, dass er kein Pechvogel, sondern ein kluger angehender Erfinder und Wissenschaftler ist. Mit Hilfe von Benni und seiner neuen Klassenkameradin Emilia bereitet er sich präzise vor und baut unermüdlich an der ultimativen Rakete, die alle anderen Flugmodelle seiner Klassenkameraden in den Schatten stellen soll! Und Alfons wäre nicht Alfons, wenn sein innovativer Knaller nicht wortwörtlich den Wettbewerb sprengen würde... \"Alfons Zitterbacke\" ist eine temporeiche, freche und liebevolle Komödie über Freundschaft, den Weltraum, Väter und Söhne und die besten Anleitungen zum Raketenbauen. (Quelle: Verleih)",
-      "trailer": "https://www.youtube.com/watch?v=3YdLRdQDqTs",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "hasenheide-691317",
-      "title": "Mädchen und die Spinne, Das ",
-      "date": "Di., 20.7.",
-      "timestamp": 1626739200000,
-      "time": "18:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691317?layout=shows",
-      "img": "https://media.kinoheld.de/n2LLOWFHYrlqmBPgRfjQyFH35F4=/400x560/images%2Ffilm%2Fdas-maedchen-und-die-spinne-19311.v2.jpg",
-      "description": "Eine junge Frau zieht aus ihrer WG in eine eigene Wohnung, was zu Problemen führt.",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "hasenheide-691225",
-      "title": "Persischstunden (subtitled OV German)",
-      "date": "Di., 20.7.",
-      "timestamp": 1626739200000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691225?layout=shows",
-      "img": "https://media.kinoheld.de/Bs9C0qjqZBnidismnUoVfnUaR8Q=/400x560/images%2Ffilm%2Fpersischstunden-17031.v1643.jpg",
-      "description": "1942. Gilles, ein junger Belgier, wird zusammen mit anderen Juden von der SS verhaftet und in ein Lager nach Deutschland gebracht. Er entgeht der Exekution, indem er schwört, kein Jude, sondern Perser zu sein – eine Lüge, die ihn zunächst rettet. Doch dann wird Gilles mit einer unmöglichen Mission beauftragt: Er soll Farsi unterrichten. Offizier Koch, Leiter der Lagerküche, träumt nämlich davon, nach Kriegsende ein Restaurant im Iran zu eröffnen. Wort für Wort muss Gilles eine Sprache erfinden, die er nicht beherrscht. Als in der besonderen Beziehung zwischen den beiden Männern Eifersucht und Misstrauen aufkommen, wird Gilles schmerzhaft bewusst, dass ihn jeder Fehltritt  auffliegen lassen könnte...",
-      "trailer": "https://www.youtube.com/watch?v=qFigSSknLiY",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
       "id": "hasenheide-691287",
       "title": "Wir Kinder aus Bullerbü ",
       "date": "Mi., 21.7.",
@@ -1053,8 +1000,8 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691233?layout=shows",
       "img": "https://media.kinoheld.de/U0hvJqfHfa8se2HP8BkoKfarsDY=/400x560/images%2Ffilm%2Fich-bin-dein-mensch-18809.v2.png",
       "description": "Die Wissenschaftlerin Alma lässt sich auf die Teilnahme an einer Studie ein, um Gelder für ihre Forschungen zu bekommen. Bei dem Experiment soll Alma einige Wochen mit einem humanoiden Roboter verbringen, der sich an ihre Wünsche und Bedürfnisse anpasst, um der perfekte Partner für Alma zu werden. Nach ein paar Anlaufschwierigkeiten finden Alma und der Roboter schließlich zueinander. Doch Alma fragt sich, welchen Sinn es hat, sich in einen Roboter zu verlieben.",
-      "available": 16,
-      "reserved": 188,
+      "available": 15,
+      "reserved": 189,
       "bookable": true
     },
     {
@@ -1264,8 +1211,8 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691237?layout=shows",
       "img": "https://media.kinoheld.de/DVQcxtUYNoxr36fQFLasSd8kr_E=/400x560/images%2Ffilm%2Falles-ist-eins-ausser-der-0-19150.v1.jpg",
       "description": "ALLES IST EINS. AUSSER DER 0. erzählt eine Geschichte digitaler Subversion: vom exklusiven Club zu einer Instanz, die heute bei allen Fragen der Netzpolitik zu Rate gezogen wird. Der Dokumentarfilm von Klaus Maeck und Tanja Schwerdorf setzt der bekanntesten deutschen Hackervereinigung ein stilsicheres, kraftvolles und würdiges Denkmal. Selten hat man ein so eindringliches Porträt über Zeitgeist-Pioniere gesehen, deren Weitblick für die Gegenwart so beeindruckend wie bereichernd ist.",
-      "available": 176,
-      "reserved": 145,
+      "available": 182,
+      "reserved": 146,
       "bookable": true
     },
     {
@@ -1759,9 +1706,9 @@
       "timestamp": 1628208000000,
       "time": "18:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691805?layout=shows",
-      "available": 70,
-      "reserved": 9,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1789,9 +1736,9 @@
       "timestamp": 1629936000000,
       "time": "17:00",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691769?layout=shows",
-      "available": -1,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1845,24 +1792,6 @@
     }
   ],
   "nomadenkino-berlin": [
-    {
-      "cinemaId": "1621",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/nomadenkino-berlin/shows/movies",
-      "cinemaName": "nomadenkino-berlin",
-      "cinemaShortName": "nomadenkino",
-      "id": "nomadenkino-2404528043",
-      "title": "PERSISCHSTUNDEN ",
-      "date": "Di., 20.7.",
-      "timestamp": 1626739200000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/nomadenkino-berlin/show/2404528043?layout=shows",
-      "img": "https://media.kinoheld.de/Bs9C0qjqZBnidismnUoVfnUaR8Q=/400x560/images%2Ffilm%2Fpersischstunden-17031.v1643.jpg",
-      "description": "1942. Gilles, ein junger Belgier, wird zusammen mit anderen Juden von der SS verhaftet und in ein Lager nach Deutschland gebracht. Er entgeht der Exekution, indem er schwört, kein Jude, sondern Perser zu sein – eine Lüge, die ihn zunächst rettet. Doch dann wird Gilles mit einer unmöglichen Mission beauftragt: Er soll Farsi unterrichten. Offizier Koch, Leiter der Lagerküche, träumt nämlich davon, nach Kriegsende ein Restaurant im Iran zu eröffnen. Wort für Wort muss Gilles eine Sprache erfinden, die er nicht beherrscht. Als in der besonderen Beziehung zwischen den beiden Männern Eifersucht und Misstrauen aufkommen, wird Gilles schmerzhaft bewusst, dass ihn jeder Fehltritt  auffliegen lassen könnte...",
-      "trailer": "https://www.youtube.com/watch?v=qFigSSknLiY",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
     {
       "cinemaId": "1621",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/nomadenkino-berlin/shows/movies",
@@ -1957,23 +1886,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
       "cinemaName": "b-ware-openair-fmp",
       "cinemaShortName": "fmp",
-      "id": "fmp-2395152865",
-      "title": "75 JAHRE DEFA: STRAWALDE. EIN LEBEN IN BILDERN mit Filmgespräch vorab ",
-      "date": "Di., 20.7.",
-      "timestamp": 1626739200000,
-      "time": "20:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2395152865?layout=shows",
-      "img": "https://media.kinoheld.de/LwELfJSUIhVAdJ6PoDzdElZbwlQ=/400x560/images%2Ffilm%2Fmo%2F3045-39007.v2.jpg",
-      "description": "Jürgen Böttcher, einer der bekanntesten Filmemacher der DDR und herausragender Maler wird 90. Ausgerechnet sein Dokumentarfilm über den Fall der Berliner Mauer gilt heute als einer seiner bedeutendsten Filme - es wurde auch sein letzter. Nach der Wiedervereinigung widmet er sich ganz der Malerei und erlangt unter seinem Künstlernamen Strawalde Weltruhm.\r\n\r\nDer Dokumentarfilm \"Strawalde. Ein Leben in Bildern\" portraitiert eindringlich Böttchers künstlerisches Leben: von seiner Kindheit im Nazi-Deutschland, seiner Karriere als Regisseur in der DDR und den Auseinandersetzungen mit dem SED-Regime, bis hin zum Fall der Mauer und seinen internationalen Erfolgen als Filmemacher und Maler. Sehr persönlich erzählt er, warum er die DDR nie verlassen und trotz aller Repressalien nie mit ihr brechen wollte.",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "1657",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
-      "cinemaName": "b-ware-openair-fmp",
-      "cinemaShortName": "fmp",
       "id": "fmp-2392542649",
       "title": "FREAKSCENE – THE STORY OF DINOSAUR JR. - FILM PREVIEW (subtitled OV / en)",
       "date": "Mi., 21.7.",
@@ -1982,7 +1894,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2392542649?layout=shows",
       "img": "https://media.kinoheld.de/DQsE2bJ2xtRqdKQPdV3MXrumGew=/400x560/images%2Ffilm%2Fmo%2F3013-37597.v2.jpg",
       "description": "FREAKSCENE THE STORY OF DINOSAUR JR. is a homage of one of the most influential bands on the American East Coast, which inspired the rock scene – including Nirvana and Sonic Youth – in the 1990s. Their style and unmistakable sound, later referred as “Grunge”, laid the foundation for the entire “Slacker” culture of Generation X.\r\nIt is also the story of the eloquent and eccentric guitarist and bandleader J. Mascis, the bassist Lou Barlow and drummer Murph and a band that insanely does not talk to each other. Communication takes place exclusively through music. Philipp Reichenheim nevertheless manages to make the closed and shy icons speak.\r\nAn emotional, tragically funny and sometimes noisy rollercoaster ride by a dysfunctional family – Dinosaur Jr.\r\nThrough several decades, the film offers rare insights into the crazy everyday life of the band and illuminates the inner workings of a cult band from its beginnings in the 1980s and 90s to the present day.",
-      "trailer": "https://youtu.be/MKJ-nXADsVk",
+      "trailer": "https://youtu.be/O5w28bJKmxY",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -2119,24 +2031,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
       "cinemaName": "central-kino-open-air",
       "cinemaShortName": "central",
-      "id": "central-2394921531",
-      "title": "open air: Kokon (Deutsch with English subs) (subtitled OV English)",
-      "date": "Di., 20.7.",
-      "timestamp": 1626739200000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2394921531?layout=shows",
-      "img": "https://media.kinoheld.de/BVSOhCc4czDBpW3JWKzQdQqQU2M=/400x560/images%2Ffilm%2Fkokon-17135.v7.png",
-      "description": "Mitten am Kottbusser Tor in Berlin Kreuzberg wächst Nora (Lena Urzendowsky) auf. Hier im turbulenten Herzen Berlins ist sie stets umgeben von Menschen, deren Lebensläufe nicht immer den geraden Weg gehen und aus den unterschiedlichsten Kulturkreisen der Welt stammen. Nun, wo Nora langsam erwachsen wird, sich ihr Körper verändert, fühlt sie sich in der Welt mehr und mehr verloren und weiß nicht, wie es weitergehen soll. Bei ihrer Schwester Jule (Lena Klenke) und deren bester Freundin Aylin (Elina Vildanova) sieht das Leben etwas anders aus. Für die jungen Frauen dreht sich alles nur um Styling, Mode und die Präsentation dessen in den sozialen Medien. Anfangs scheint sie sich dem Druck, für andere schön zu sein, ebenfalls hinzugeben, als jedoch Romy (Jella Haase) auftaucht, bringt diese ihr bei, zu sich und ihrem Körper zu stehen.",
-      "trailer": "https://www.youtube.com/watch?v=31_ZH8_4nVs",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "1839",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
-      "cinemaName": "central-kino-open-air",
-      "cinemaShortName": "central",
       "id": "central-2394921555",
       "title": "open air: Kiss me kosher (subtitled OV English)",
       "date": "Mi., 21.7.",
@@ -2147,7 +2041,7 @@
       "description": "Die quirlige jüdische Grossmutter Berta und ihre nicht weniger leidenschaftliche Enkelin Shira streiten inniglich über die Liebe und darüber, was Frau darf und was nicht. Vor allem als sich ihre geliebte Enkeltochter ausgerechnet für Maria, eine Deutsche, entscheidet. Die beiden jungen Frauen machen richtig ernst sie wollen heiraten. So unterschiedlich beide Familien sind, so einig sind sich alle in einem Punkt: Die Hochzeit muss geplant werden. Nur eine versucht mit allen Mitteln diesen Bund des Lebens zu verhindern Berta. Für sie ist eine Ehe zwischen einer Israelin und einer Deutschen ein Ding der Unmöglichkeit. Obwohl auch sie mit dem Palästinenser Ibrahim ein recht unkonventionelles Liebesglück gefunden hat, das sie im Gegensatz zur lebensfrohen Enkeltochter vor der Familie verheimlicht. Aber wie lange kann das noch so gutgehen? Am Ende der turbulenten Familienfehde wird geheiratet.",
       "trailer": "https://www.youtube.com/watch?v=vbjXqyWpT74",
       "available": 42,
-      "reserved": 16,
+      "reserved": 19,
       "bookable": true
     },
     {
@@ -2670,24 +2564,6 @@
     }
   ],
   "freiluftkino-pompeji-open-air-am-ostkreuz-berlin": [
-    {
-      "cinemaId": "2153",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-      "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-      "cinemaShortName": "pompeji ostkreuz",
-      "id": "pompeji ostkreuz-2399898725",
-      "title": "FUTUR DREI (subtitled OV German)",
-      "date": "Di., 20.7.",
-      "timestamp": 1626739200000,
-      "time": "21:45",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2399898725?layout=shows",
-      "img": "https://media.kinoheld.de/05Q9g3CzGjSrED-jm-g0dVl1LNs=/400x560/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v209.jpg",
-      "description": "Parvis wächst als Kind der Millenial-Generation im komfortablen Wohlstand seiner Iranischen Einwanderer-Eltern auf. Dem Provinzleben in Hildesheim versucht er sich durch Popkultur, Grindr-Dates und Raves zu entziehen. Nach einem Ladendiebstahl leistet er Sozialstunden als Übersetzer in einer Unterkunft für Geflüchtete. Dort trifft er auf das iranische Geschwisterpaar Banafshe und Amon. Zwischen ihnen entwickelt sich eine fragile Dreierbeziehung, die zunehmend von dem Bewusstsein geprägt ist, dass ihre Zukunft in Deutschland ungleich ist.",
-      "trailer": "https://www.youtube.com/watch?v=DitVsuZ66fQ",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
     {
       "cinemaId": "2153",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
@@ -3288,29 +3164,14 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/mobile-kino-berlin/shows/movies",
       "cinemaName": "mobile-kino-berlin",
       "cinemaShortName": "mobile kino",
-      "id": "mobile kino-2403584149",
-      "title": "THELMA & LOUISE (subtitled OV German)",
-      "date": "Di., 20.7.",
-      "timestamp": 1626739200000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2403584149?layout=shows",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "3033",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/mobile-kino-berlin/shows/movies",
-      "cinemaName": "mobile-kino-berlin",
-      "cinemaShortName": "mobile kino",
       "id": "mobile kino-2403895934",
       "title": "SONNENALLEE (subtitled OV English)",
       "date": "Do., 22.7.",
       "timestamp": 1626912000000,
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2403895934?layout=shows",
-      "available": 62,
-      "reserved": 104,
+      "available": 59,
+      "reserved": 107,
       "bookable": true
     },
     {
@@ -3380,8 +3241,8 @@
       "img": "https://media.kinoheld.de/kYStEhPmGfaEZFCEJgfHXxwlOxU=/400x560/images%2Ffilm%2Fleon-der-profi-wa-2019-14361.v11.jpg",
       "description": "Léon verdient sein Geld als Auftragskiller der Italo-Mafia in den Straßen von New York. Er lebt zurückgezogen und pflegt außer zu seinem Boss Tony einzig zu seiner Topfpflanze ein freundschaftliches Verhältnis. Als die Familie seiner Nachbarstochter Mathilda von DEA-Polizisten brutal getötet wird, flüchtet sie zu Léon. Um sich an den Mördern ihres kleinen Bruders zu rächen, lässt sich Mathilda das grausame Handwerk eines Profi-Killers von Léon beibringen. (Quelle: Verleih)",
       "trailer": "https://www.youtube.com/watch?v=3XgSLq-CePM",
-      "available": 69,
-      "reserved": 6,
+      "available": 65,
+      "reserved": 10,
       "bookable": true
     },
     {
@@ -3412,8 +3273,8 @@
       "timestamp": 1627257600000,
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2391540390?layout=shows",
-      "available": 109,
-      "reserved": 57,
+      "available": 107,
+      "reserved": 59,
       "bookable": true
     },
     {
@@ -3430,8 +3291,8 @@
       "img": "https://media.kinoheld.de/8a5GVakFiNpUXUMFfgxOgYA_DFM=/400x560/images%2Ffilm%2Fpulp-fiction-16667.v35.jpg",
       "description": "Quentin Tarantinos zweiter Film, genannt nach den auf billigem Papier gedruckten amerikanischen \"Hard-boiled\"-Kriminalromanen, gewann 1994 in Cannes die Goldene Palme und 1995 den Oscar für das Beste Originaldrehbuch und ging als Meisterwerk der Postmoderne in die Filmgeschichte ein. PULP FICTION weist Tarantino als Kenner der US-Trivial-Kulturgeschichte aus und als jemanden, der die Tradition der Mord-und-Totschlag-Geschichten der 30er bis 50er Jahre mit den Mitteln der 90er fortzusetzten versteht, ohne sich als billiger Jakob des Zitats gebärden zu müssen. Der Film versammelt Stars wie Harvey Keitel, Tim Roth, Uma Thurman, Bruce Willis und - in einem sensationellen Comeback - John Travolta in einer bleihaltigen und schwarzhumorigen Story aus der Unterwelt, die bevölkert wird von minderbemittelten Profikillern, diebischen Amateuren und bestechlichen Preisboxern.",
       "trailer": "https://www.youtube.com/watch?v=JaQTapkJU-E",
-      "available": 101,
-      "reserved": 7,
+      "available": 99,
+      "reserved": 9,
       "bookable": true
     },
     {
@@ -3779,8 +3640,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 283,
-      "reserved": 177,
+      "available": 281,
+      "reserved": 179,
       "bookable": true
     },
     {
@@ -3812,8 +3673,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 283,
-      "reserved": 177,
+      "available": 281,
+      "reserved": 179,
       "bookable": true
     },
     {
@@ -3985,8 +3846,8 @@
       "time": "21:30",
       "date": "Mi., 21.7.",
       "timestamp": 1626903000000,
-      "available": 389,
-      "reserved": 110,
+      "available": 387,
+      "reserved": 112,
       "bookable": true
     },
     {
@@ -4003,8 +3864,8 @@
       "time": "21:30",
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
-      "available": 422,
-      "reserved": 77,
+      "available": 420,
+      "reserved": 79,
       "bookable": true
     },
     {
@@ -4021,9 +3882,9 @@
       "time": "21:30",
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 7,
+      "reserved": 636,
+      "bookable": true
     },
     {
       "title": "Minari",
@@ -4039,8 +3900,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 435,
-      "reserved": 208,
+      "available": 430,
+      "reserved": 213,
       "bookable": true
     },
     {
@@ -4144,8 +4005,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 541,
-      "reserved": 102,
+      "available": 534,
+      "reserved": 109,
       "bookable": true
     },
     {
@@ -4179,9 +4040,9 @@
       "time": "21:30",
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 7,
+      "reserved": 636,
+      "bookable": true
     },
     {
       "title": "Minari",
@@ -4197,8 +4058,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 435,
-      "reserved": 208,
+      "available": 430,
+      "reserved": 213,
       "bookable": true
     },
     {
@@ -4232,8 +4093,8 @@
       "time": "21:30",
       "date": "Mi., 21.7.",
       "timestamp": 1626903000000,
-      "available": 389,
-      "reserved": 110,
+      "available": 387,
+      "reserved": 112,
       "bookable": true
     },
     {
@@ -4284,8 +4145,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 541,
-      "reserved": 102,
+      "available": 534,
+      "reserved": 109,
       "bookable": true
     },
     {
@@ -4355,8 +4216,8 @@
       "time": "21:30",
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
-      "available": 422,
-      "reserved": 77,
+      "available": 420,
+      "reserved": 79,
       "bookable": true
     }
   ]
