@@ -13,8 +13,8 @@
     "date": "Mi., 21.7.",
     "timestamp": 1626903000000,
     "time": "21:30",
-    "available": 825,
-    "reserved": 253,
+    "available": 827,
+    "reserved": 251,
     "bookable": true
   },
   "fhain-710": {
@@ -227,8 +227,8 @@
     "date": "Do., 5.8.,",
     "timestamp": 1628197200000,
     "time": "21:00",
-    "available": 1066,
-    "reserved": 12,
+    "available": 1067,
+    "reserved": 11,
     "bookable": true
   },
   "fhain-719": {
@@ -364,8 +364,8 @@
     "date": "Sa., 24.7.",
     "timestamp": 1627162200000,
     "time": "21:30",
-    "available": 351,
-    "reserved": 216,
+    "available": 347,
+    "reserved": 220,
     "bookable": true
   },
   "xberg-638": {
@@ -575,8 +575,8 @@
     "date": "Do., 22.7.",
     "timestamp": 1626989400000,
     "time": "21:30",
-    "available": 481,
-    "reserved": 92,
+    "available": 479,
+    "reserved": 94,
     "bookable": true
   },
   "rehberge-631": {
@@ -593,8 +593,8 @@
     "date": "Fr., 23.7.",
     "timestamp": 1627075800000,
     "time": "21:30",
-    "available": 507,
-    "reserved": 66,
+    "available": 503,
+    "reserved": 70,
     "bookable": true
   },
   "rehberge-636": {
@@ -1584,9 +1584,9 @@
     "timestamp": 1627948800000,
     "time": "16:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691728?layout=shows",
-    "available": -1,
+    "available": 0,
     "reserved": 0,
-    "bookable": true
+    "bookable": false
   },
   "hasenheide-692204": {
     "cinemaId": "580",
@@ -2026,8 +2026,8 @@
     "img": "https://media.kinoheld.de/dBOzEMaRZeOQFGWcotd00yIacV8=/400x560/images%2Ffilm%2Fseret-berlin-kiss-me-kosher-17231.v544.jpg",
     "description": "Die quirlige jüdische Grossmutter Berta und ihre nicht weniger leidenschaftliche Enkelin Shira streiten inniglich über die Liebe und darüber, was Frau darf und was nicht. Vor allem als sich ihre geliebte Enkeltochter ausgerechnet für Maria, eine Deutsche, entscheidet. Die beiden jungen Frauen machen richtig ernst sie wollen heiraten. So unterschiedlich beide Familien sind, so einig sind sich alle in einem Punkt: Die Hochzeit muss geplant werden. Nur eine versucht mit allen Mitteln diesen Bund des Lebens zu verhindern Berta. Für sie ist eine Ehe zwischen einer Israelin und einer Deutschen ein Ding der Unmöglichkeit. Obwohl auch sie mit dem Palästinenser Ibrahim ein recht unkonventionelles Liebesglück gefunden hat, das sie im Gegensatz zur lebensfrohen Enkeltochter vor der Familie verheimlicht. Aber wie lange kann das noch so gutgehen? Am Ende der turbulenten Familienfehde wird geheiratet.",
     "trailer": "https://www.youtube.com/watch?v=vbjXqyWpT74",
-    "available": 42,
-    "reserved": 19,
+    "available": 45,
+    "reserved": 17,
     "bookable": true
   },
   "central-2394922222": {
@@ -3480,8 +3480,8 @@
     "time": "21:30",
     "date": "Mi., 21.7.",
     "timestamp": 1626903000000,
-    "available": 281,
-    "reserved": 179,
+    "available": 279,
+    "reserved": 181,
     "bookable": true
   },
   "kulturforum-267": {
@@ -3529,8 +3529,8 @@
     "time": "21:30",
     "date": "Sa., 24.7.",
     "timestamp": 1627162200000,
-    "available": 291,
-    "reserved": 169,
+    "available": 290,
+    "reserved": 170,
     "bookable": true
   },
   "kulturforum-272": {
@@ -3618,8 +3618,8 @@
     "time": "21:30",
     "date": "Fr., 30.7.",
     "timestamp": 1627680600000,
-    "available": 280,
-    "reserved": 180,
+    "available": 278,
+    "reserved": 182,
     "bookable": true
   },
   "kulturforum-278": {
@@ -3651,8 +3651,8 @@
     "time": "21:30",
     "date": "Mi., 21.7.",
     "timestamp": 1626903000000,
-    "available": 387,
-    "reserved": 112,
+    "available": 385,
+    "reserved": 114,
     "bookable": true
   },
   "schloss-charlottenburg-49": {
@@ -3687,9 +3687,9 @@
     "time": "21:30",
     "date": "Fr., 23.7.",
     "timestamp": 1627075800000,
-    "available": 7,
-    "reserved": 636,
-    "bookable": true
+    "available": 0,
+    "reserved": 0,
+    "bookable": false
   },
   "schloss-charlottenburg-56": {
     "title": "Minari",
@@ -3793,8 +3793,8 @@
     "time": "21:30",
     "date": "Do., 29.7.",
     "timestamp": 1627594200000,
-    "available": 240,
-    "reserved": 259,
+    "available": 239,
+    "reserved": 260,
     "bookable": true
   },
   "schloss-charlottenburg-61": {
