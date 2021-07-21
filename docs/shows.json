@@ -13,8 +13,8 @@
     "date": "Mi., 21.7.",
     "timestamp": 1626903000000,
     "time": "21:30",
-    "available": 725,
-    "reserved": 353,
+    "available": 713,
+    "reserved": 365,
     "bookable": true
   },
   "fhain-710": {
@@ -31,8 +31,8 @@
     "date": "Do., 22.7.",
     "timestamp": 1626989400000,
     "time": "21:30",
-    "available": 725,
-    "reserved": 353,
+    "available": 721,
+    "reserved": 357,
     "bookable": true
   },
   "fhain-713": {
@@ -67,8 +67,8 @@
     "date": "Fr., 23.7.",
     "timestamp": 1627075800000,
     "time": "21:30",
-    "available": 948,
-    "reserved": 130,
+    "available": 947,
+    "reserved": 131,
     "bookable": true
   },
   "fhain-715": {
@@ -103,8 +103,8 @@
     "date": "Sa., 24.7.",
     "timestamp": 1627162200000,
     "time": "21:30",
-    "available": 936,
-    "reserved": 142,
+    "available": 919,
+    "reserved": 159,
     "bookable": true
   },
   "fhain-714": {
@@ -157,8 +157,24 @@
     "date": "Do., 29.7.",
     "timestamp": 1627592400000,
     "time": "21:00",
-    "available": 686,
-    "reserved": 392,
+    "available": 684,
+    "reserved": 394,
+    "bookable": true
+  },
+  "fhain-723": {
+    "cinemaId": "fh_freiluftkino",
+    "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+    "cinemaName": "Freiluftkino Friedrichshain",
+    "cinemaShortName": "fhain",
+    "id": "fhain-723",
+    "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/723",
+    "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=708",
+    "title": "Bad Luck Banging Or Loony Porn",
+    "date": "So., 1.8.,",
+    "timestamp": 1627851600000,
+    "time": "21:00",
+    "available": 1078,
+    "reserved": 0,
     "bookable": true
   },
   "fhain-718": {
@@ -177,6 +193,22 @@
     "time": "21:15",
     "available": 1035,
     "reserved": 43,
+    "bookable": true
+  },
+  "fhain-722": {
+    "cinemaId": "fh_freiluftkino",
+    "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+    "cinemaName": "Freiluftkino Friedrichshain",
+    "cinemaShortName": "fhain",
+    "id": "fhain-722",
+    "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/722",
+    "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=707",
+    "title": "Ich bin dein Mensch",
+    "date": "Sa., 31.7.",
+    "timestamp": 1627765200000,
+    "time": "21:00",
+    "available": 1078,
+    "reserved": 0,
     "bookable": true
   },
   "fhain-702": {
@@ -210,8 +242,8 @@
     "date": "Fr., 6.8.,",
     "timestamp": 1628283600000,
     "time": "21:00",
-    "available": 963,
-    "reserved": 115,
+    "available": 957,
+    "reserved": 121,
     "bookable": true
   },
   "fhain-721": {
@@ -244,8 +276,8 @@
     "date": "So., 15.8.",
     "timestamp": 1629043200000,
     "time": "16:00",
-    "available": 946,
-    "reserved": 132,
+    "available": 944,
+    "reserved": 134,
     "bookable": true
   },
   "fhain-667": {
@@ -328,8 +360,8 @@
     "date": "Mi., 21.7.",
     "timestamp": 1626903000000,
     "time": "21:30",
-    "available": 377,
-    "reserved": 190,
+    "available": 365,
+    "reserved": 202,
     "bookable": true
   },
   "xberg-641": {
@@ -346,8 +378,8 @@
     "date": "Mi., 28.7.",
     "timestamp": 1627507800000,
     "time": "21:30",
-    "available": 492,
-    "reserved": 75,
+    "available": 494,
+    "reserved": 73,
     "bookable": true
   },
   "xberg-648": {
@@ -364,8 +396,8 @@
     "date": "Sa., 24.7.",
     "timestamp": 1627162200000,
     "time": "21:30",
-    "available": 338,
-    "reserved": 229,
+    "available": 328,
+    "reserved": 239,
     "bookable": true
   },
   "xberg-638": {
@@ -382,8 +414,8 @@
     "date": "So., 25.7.",
     "timestamp": 1627248600000,
     "time": "21:30",
-    "available": 491,
-    "reserved": 76,
+    "available": 489,
+    "reserved": 78,
     "bookable": true
   },
   "xberg-647": {
@@ -400,8 +432,8 @@
     "date": "Fr., 23.7.",
     "timestamp": 1627075800000,
     "time": "21:30",
-    "available": 464,
-    "reserved": 103,
+    "available": 460,
+    "reserved": 107,
     "bookable": true
   },
   "xberg-639": {
@@ -453,8 +485,24 @@
     "date": "Do., 22.7.",
     "timestamp": 1626989400000,
     "time": "21:30",
-    "available": 450,
-    "reserved": 117,
+    "available": 440,
+    "reserved": 127,
+    "bookable": true
+  },
+  "xberg-652": {
+    "cinemaId": "kb_freiluftkino",
+    "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+    "cinemaName": "Freiluftkino Kreuzberg",
+    "cinemaShortName": "xberg",
+    "id": "xberg-652",
+    "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/652",
+    "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=639",
+    "title": "Blade Runner 2049",
+    "date": "So., 1.8.,",
+    "timestamp": 1627851600000,
+    "time": "21:00",
+    "available": 567,
+    "reserved": 0,
     "bookable": true
   },
   "xberg-642": {
@@ -475,6 +523,22 @@
     "reserved": 15,
     "bookable": true
   },
+  "xberg-651": {
+    "cinemaId": "kb_freiluftkino",
+    "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+    "cinemaName": "Freiluftkino Kreuzberg",
+    "cinemaShortName": "xberg",
+    "id": "xberg-651",
+    "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/651",
+    "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=638",
+    "title": "Rosas Hochzeit",
+    "date": "Sa., 31.7.",
+    "timestamp": 1627765200000,
+    "time": "21:00",
+    "available": 567,
+    "reserved": 0,
+    "bookable": true
+  },
   "xberg-644": {
     "trailer": "https://www.youtube-nocookie.com/embed/ptnV_GkOMy4?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
     "description": "Scott lebt mit Mitte 20 immer noch bei seiner Mutter und hängt am liebsten ziel- und planlos kiffend mit seinen Freunden ab. Etwas Hobbytätowieren inklusive. Als seine Mutter 17 Jahre nach dem Tod des Vaters einen neuen Freund hat, der sehr zu seinem Entsetzen auch noch Feuerwehrmann ist wie sein Vater, kommt Scotts Leben ungewollt in Bewegung. Nicht nur, dass er sich um die Kinder des neuen Partners seiner Mutter kümmern muss - er soll auf eigenen Beinen stehen und ausziehen. Doch wie geht das: auf eigenen Beinen stehen? \n\"Wie kein anderer kann Judd Apatow über die Tragikomik im Kleinen, die Welt im Großen erklären.\" artechok ",
@@ -489,8 +553,8 @@
     "date": "Fr., 30.7.",
     "timestamp": 1627678800000,
     "time": "21:00",
-    "available": 522,
-    "reserved": 45,
+    "available": 520,
+    "reserved": 47,
     "bookable": true
   },
   "xberg-650": {
@@ -557,8 +621,24 @@
     "date": "Mi., 21.7.",
     "timestamp": 1626903000000,
     "time": "21:30",
-    "available": 329,
-    "reserved": 244,
+    "available": 320,
+    "reserved": 253,
+    "bookable": true
+  },
+  "rehberge-650": {
+    "cinemaId": "rb_freiluftkino",
+    "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+    "cinemaName": "Freiluftkino Rehberge",
+    "cinemaShortName": "rehberge",
+    "id": "rehberge-650",
+    "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/650",
+    "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=604",
+    "title": "Der Spion",
+    "date": "Sa., 31.7.",
+    "timestamp": 1627765200000,
+    "time": "21:00",
+    "available": 573,
+    "reserved": 0,
     "bookable": true
   },
   "rehberge-630": {
@@ -575,8 +655,8 @@
     "date": "Do., 22.7.",
     "timestamp": 1626989400000,
     "time": "21:30",
-    "available": 463,
-    "reserved": 110,
+    "available": 459,
+    "reserved": 114,
     "bookable": true
   },
   "rehberge-631": {
@@ -593,8 +673,8 @@
     "date": "Fr., 23.7.",
     "timestamp": 1627075800000,
     "time": "21:30",
-    "available": 497,
-    "reserved": 76,
+    "available": 495,
+    "reserved": 78,
     "bookable": true
   },
   "rehberge-636": {
@@ -719,6 +799,38 @@
     "time": "14:00",
     "available": 561,
     "reserved": 12,
+    "bookable": true
+  },
+  "rehberge-651": {
+    "cinemaId": "rb_freiluftkino",
+    "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+    "cinemaName": "Freiluftkino Rehberge",
+    "cinemaShortName": "rehberge",
+    "id": "rehberge-651",
+    "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/651",
+    "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=631",
+    "title": "Ich bin dein Mensch",
+    "date": "Fr., 30.7.",
+    "timestamp": 1627678800000,
+    "time": "21:00",
+    "available": 573,
+    "reserved": 0,
+    "bookable": true
+  },
+  "rehberge-652": {
+    "cinemaId": "rb_freiluftkino",
+    "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+    "cinemaName": "Freiluftkino Rehberge",
+    "cinemaShortName": "rehberge",
+    "id": "rehberge-652",
+    "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/652",
+    "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=632",
+    "title": "Rosas Hochzeit",
+    "date": "So., 1.8.,",
+    "timestamp": 1627851600000,
+    "time": "21:00",
+    "available": 573,
+    "reserved": 0,
     "bookable": true
   },
   "rehberge-640": {
@@ -939,8 +1051,8 @@
     "img": "https://media.kinoheld.de/BVSOhCc4czDBpW3JWKzQdQqQU2M=/400x560/images%2Ffilm%2Fkokon-17135.v7.png",
     "description": "Mitten am Kottbusser Tor in Berlin Kreuzberg wächst Nora (Lena Urzendowsky) auf. Hier im turbulenten Herzen Berlins ist sie stets umgeben von Menschen, deren Lebensläufe nicht immer den geraden Weg gehen und aus den unterschiedlichsten Kulturkreisen der Welt stammen. Nun, wo Nora langsam erwachsen wird, sich ihr Körper verändert, fühlt sie sich in der Welt mehr und mehr verloren und weiß nicht, wie es weitergehen soll. Bei ihrer Schwester Jule (Lena Klenke) und deren bester Freundin Aylin (Elina Vildanova) sieht das Leben etwas anders aus. Für die jungen Frauen dreht sich alles nur um Styling, Mode und die Präsentation dessen in den sozialen Medien. Anfangs scheint sie sich dem Druck, für andere schön zu sein, ebenfalls hinzugeben, als jedoch Romy (Jella Haase) auftaucht, bringt diese ihr bei, zu sich und ihrem Körper zu stehen.",
     "trailer": "https://www.youtube.com/watch?v=31_ZH8_4nVs",
-    "available": 347,
-    "reserved": 84,
+    "available": 339,
+    "reserved": 86,
     "bookable": true
   },
   "hasenheide-691330": {
@@ -1010,9 +1122,9 @@
     "img": "https://media.kinoheld.de/KMQ6aS7JZ_xMGCdRDuCjQWFOk4g=/400x560/images%2Ffilm%2Fonward-16205.v766.jpg",
     "description": "Zauber und Magie? Diese Zeiten sind lange vorbei. In New Mushroomton leben Elfen, Zwerge, Riesen, hyperaktive Hausdrachen oder streunende Einhörner heute ganz modern mit all dem technischen Schnick-Schnack unserer Zeit. Die beiden Elfenbrüder Ian und Barley sind also etwas überfordert als sie einen uralten Zauberstab ihres verstorbenen Vaters geschenkt bekommen, der das Unmögliche möglich machen soll: ein Wiedersehen! Leider klappt das dann auch nur so halb und geht über die Hose nicht hinaus. Um auch die bessere Hälfte wiederherzustellen, geht es auf einen wahnwitzigen, rasanten Trip voller versteckter Hinweise, scheinbar unlösbarer Aufgaben und witziger Wendungen. Was für ein Abenteuer!",
     "trailer": "https://www.youtube.com/watch?v=b_DWYvZ4e08",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-691760": {
     "cinemaId": "580",
@@ -1099,8 +1211,8 @@
     "img": "https://media.kinoheld.de/jHvvh1Xl1T39hdM2gpymZbS4gGo=/400x560/images%2Ffilm%2Fcruella-18919.v22.jpg",
     "description": "London in den 1970er Jahren: Die junge Estella (Emma Stone) ist eine talentierte Designerin und träumt von einer großen Karriere als Modeschöpferin. Doch da sie verwaist und mittellos aufgewachsen ist, scheint ihr der Weg in höhere Kreise verschlossen. Mit ihren zwei Kumpels, den Amateur-Dieben Horace (Paul Walter Hauser) und Jasper (Joel Fry), streift sie durch London und begeht hier und da kleine Verbrechen – und wann immer sich die Möglichkeit ergibt, wenigstens kurz in den von ihr ersehnten Luxus der Schönen und Reichen einzutauchen, greift sie schamlos zu. Dann aber bietet sich ihr endlich eine einzigartige Gelegenheit, um der Gosse zu entkommen: Ein aufstrebender Rockstar entdeckt ihr Talent und beauftragt Estella damit, ihm ein einzigartiges Outfit zu entwerfen. Auf der Suche nach dem perfekten Material muss sich Estella, die ein Faible für Hundefell hat, fragen, was sie für ihren Erfolg zu opfern bereit ist.",
     "trailer": "https://www.youtube.com/watch?v=KIRKfx5Cbec",
-    "available": 202,
-    "reserved": 127,
+    "available": 200,
+    "reserved": 130,
     "bookable": true
   },
   "hasenheide-691331": {
@@ -1203,9 +1315,9 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691237?layout=shows",
     "img": "https://media.kinoheld.de/DVQcxtUYNoxr36fQFLasSd8kr_E=/400x560/images%2Ffilm%2Falles-ist-eins-ausser-der-0-19150.v1.jpg",
     "description": "ALLES IST EINS. AUSSER DER 0. erzählt eine Geschichte digitaler Subversion: vom exklusiven Club zu einer Instanz, die heute bei allen Fragen der Netzpolitik zu Rate gezogen wird. Der Dokumentarfilm von Klaus Maeck und Tanja Schwerdorf setzt der bekanntesten deutschen Hackervereinigung ein stilsicheres, kraftvolles und würdiges Denkmal. Selten hat man ein so eindringliches Porträt über Zeitgeist-Pioniere gesehen, deren Weitblick für die Gegenwart so beeindruckend wie bereichernd ist.",
-    "available": 0,
-    "reserved": 0,
-    "bookable": false
+    "available": 171,
+    "reserved": 149,
+    "bookable": true
   },
   "hasenheide-691335": {
     "cinemaId": "580",
@@ -1258,7 +1370,7 @@
     "description": "Im Berlin des Jahres 1931 lässt sich der Germanist und Werbetexter Jakob Fabian (Tom Schilling) durch das Leben treiben. Während er tagsüber für die Werbung einer Zigarettenfirma zuständig ist, ist er nachts oft mit seinem Studienkollegen Labude (Albrecht Schuch) unterwegs und macht die Unterweltkneipen, Bordelle und Künstlerateliers unsicher. Das sorglose Leben der beiden jungen Männer wird durch eine durch Kommunisten und Nationalsozialisten geteilte Gesellschaft zunehmend bedroht und auch Labude träumt davon, dass die Klassen gegen die Obrigkeit revolutionieren. Fabian kann mit dem politischen Umbruch nicht viel anfangen und kommentiert die Geschehnisse ironisch. Eines Tages trifft er in einem Atelier auf Cornelia (Saskia Rosendahl) und verliebt sich auf den ersten Blick in sie. Fabians naives Leben nimmt eine dramatische Wendung, als er einer Entlassungswelle zum Opfer fällt, Cornelias Karriere als Schauspielerin jedoch an Fahrt aufnimmt...",
     "trailer": "https://www.youtube.com/watch?v=VPIeUqg7F40",
     "available": 15,
-    "reserved": 189,
+    "reserved": 190,
     "bookable": true
   },
   "hasenheide-691336": {
@@ -1401,9 +1513,9 @@
     "img": "https://media.kinoheld.de/lYamNilaSoHrFTMkp-RSRlMvkYI=/400x560/images%2Ffilm%2F4%2Ffrances-ha-227.v2.jpg",
     "description": "Frances tanzt sich durchs Leben - nicht nur beruflich, sondern auch privat. Zwar ist der große Erfolg auf der Bühne bisher ausgeblieben, doch das heißt nicht, dass Frances irgendetwas ändern würde. Sie plant von Moment zu Moment, stürzt sich von einer Beziehung in die nächste und hat nur eine Konstante in ihrem Leben: ihre Mitbewohnerin Sophie. Als die jedoch auszieht, muss Frances erkennen, dass sie auch in anderen Bereichen ihres Lebens immer mehr ins Abseits gerät. Aber deshalb aufgeben? Kommt nicht in Frage! (j.b.)",
     "trailer": "https://www.youtube.com/watch?v=yCu52QcC5ww",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-692206": {
     "cinemaId": "580",
@@ -1521,9 +1633,9 @@
     "img": "https://media.kinoheld.de/DbWHTKT3neGjvULOXqsnipemH2A=/400x560/images%2Ffilm%2Fminari-18286.v2.png",
     "description": "Jacob beschließt, mit seiner koreanisch-amerikanischen Familie von Los Angeles nach Arkansas zu ziehen, um als Farmer sein Glück zu versuchen. Seine Frau Monica und die Kinder David und Anne fühlen sich jedoch fremd in der neuen Heimat, und das fragile Familienleben wird zusätzlich auf die Probe gestellt, als die schlagfertige und liebevolle Großmutter Soonja von Südkorea zu ihnen auf die Farm zieht.",
     "trailer": "https://www.youtube.com/watch?v=TlOqMFPS00g",
-    "available": 0,
-    "reserved": 0,
-    "bookable": false
+    "available": 659,
+    "reserved": 4,
+    "bookable": true
   },
   "hasenheide-691727": {
     "cinemaId": "580",
@@ -1652,9 +1764,9 @@
     "timestamp": 1628035200000,
     "time": "18:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/692203?layout=shows",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-692211": {
     "cinemaId": "580",
@@ -2026,8 +2138,8 @@
     "img": "https://media.kinoheld.de/dBOzEMaRZeOQFGWcotd00yIacV8=/400x560/images%2Ffilm%2Fseret-berlin-kiss-me-kosher-17231.v544.jpg",
     "description": "Die quirlige jüdische Grossmutter Berta und ihre nicht weniger leidenschaftliche Enkelin Shira streiten inniglich über die Liebe und darüber, was Frau darf und was nicht. Vor allem als sich ihre geliebte Enkeltochter ausgerechnet für Maria, eine Deutsche, entscheidet. Die beiden jungen Frauen machen richtig ernst sie wollen heiraten. So unterschiedlich beide Familien sind, so einig sind sich alle in einem Punkt: Die Hochzeit muss geplant werden. Nur eine versucht mit allen Mitteln diesen Bund des Lebens zu verhindern Berta. Für sie ist eine Ehe zwischen einer Israelin und einer Deutschen ein Ding der Unmöglichkeit. Obwohl auch sie mit dem Palästinenser Ibrahim ein recht unkonventionelles Liebesglück gefunden hat, das sie im Gegensatz zur lebensfrohen Enkeltochter vor der Familie verheimlicht. Aber wie lange kann das noch so gutgehen? Am Ende der turbulenten Familienfehde wird geheiratet.",
     "trailer": "https://www.youtube.com/watch?v=vbjXqyWpT74",
-    "available": 39,
-    "reserved": 21,
+    "available": 36,
+    "reserved": 23,
     "bookable": true
   },
   "central-2394922222": {
@@ -2079,7 +2191,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2394922270?layout=shows",
     "img": "https://media.kinoheld.de/9kgOlQjXTx2Ouo4wrR-GZwXs8Sg=/400x560/images%2Ffilm%2F4%2Fcold-war-der-breitengrad-der-liebe-11272.v1.jpg",
     "description": "Während des polnischen Wiederaufbaus ist der begabte Komponist Wiktor auf der Suche nach traditionellen Melodien für ein neues Tanz- und Musik-Ensemble. Dem Kulturleben seines Landes möchte er so frisches Leben einhauchen. Unter seinen Studentinnen ist auch die Sängerin Zula, gleich im ersten Augenblick elektrisiert sie Wiktor. Schön, hinreißend und energiegeladen, ist Zula schon bald der Mittelpunkt des Ensembles und die beiden verlieben sich ineinander. Ihre brennende Leidenschaft scheint keine Grenzen zu kennen. Doch als das Repertoire des Ensembles zunehmend politisiert wird, nutzt Wiktor einen Auftritt in Ostberlin, um in den Westen zu fliehen. Zula bleibt der verabredeten Flucht fern und doch führt das Schicksal die beiden Liebenden Jahre später erneut zueinander. Wiktor begegnet Zula in Paris, nur so flammend ihre Liebe, so zerrissen ist das Paar und Zula muss eine tiefgreifende Entscheidung treffen. Zwischen Heimat und Exil, zwischen Leidenschaft und Verlust sind Frankreich, Jugoslawien und Polen die Schauplätze der fatalen Liebe eines Paares, das vor dem Hintergrund des Kalten Krieges ohne einander nicht leben kann und miteinander fast keinen Frieden findet. (Text: Verleih)",
-    "trailer": "https://www.youtube.com/watch?v=wKoZzN7vLwU",
+    "trailer": "https://www.youtube.com/watch?v=8ImvkXgGVWw",
     "available": 64,
     "reserved": 4,
     "bookable": true
@@ -2316,6 +2428,54 @@
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2395945970?layout=shows",
     "img": "https://media.kinoheld.de/nOlXEalI7R4NN-2MzfJzBBNTJEw=/400x560/images%2Ffilm%2Fdisplaced-mit-podiumsgaesten-17841.v1.jpg",
     "description": "Sharons Beziehung zu Deutschland war schon immer problematisch und dass, obwohl sie in München aufgewachsen ist und heute in Berlin lebt. Sharon gehört zur dritten Generation von Schoah Überlebenden, für sie ist diese schwierige Beziehung zu Deutschland Normalität. Nach sieben Jahren meldet sich ihr Vater Moritz Ryba wieder bei ihr. Dies wird zum Beginn einer Reise. Ihre Großeltern väterlicherseits kamen aus Polen, überlebten die Schoah und landeten in München, wo sie viele Jahre lebten. Sharon fährt von Ort zu Ort und besucht Freunde und Bekannte. Sie möchte verstehen wer die Familie ihres Vaters ist. Der Blick in die Familienvergangenheit führt Sharon letztendlich dazu, sich mit ihrem eigenen Leben auseinanderzusetzen und die Frage nach dem Umgang mit der Vergangenheit an ihr nicht-jüdisches Umfeld zu stellen. Die Suche zeigt langsam die Kluft zwischen beiden Welten. Eine wichtige Frage bleibt offen, wie gehen wir in unserer Gesellschaft mit unserer Vergangenheit um. Quelle: tondowskifilms.de",
+    "available": 70,
+    "reserved": 0,
+    "bookable": true
+  },
+  "central-2408321961": {
+    "cinemaId": "1839",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
+    "cinemaName": "central-kino-open-air",
+    "cinemaShortName": "central",
+    "id": "central-2408321961",
+    "title": "open air: SERET BERLIN: An ordinary life (subtitled OV English)",
+    "date": "So., 29.8.",
+    "timestamp": 1630195200000,
+    "time": "20:15",
+    "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2408321961?layout=shows",
+    "available": 70,
+    "reserved": 0,
+    "bookable": true
+  },
+  "central-2408330931": {
+    "cinemaId": "1839",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
+    "cinemaName": "central-kino-open-air",
+    "cinemaShortName": "central",
+    "id": "central-2408330931",
+    "title": "open air: SERET BERLIN: All eyes off me (subtitled OV English)",
+    "date": "Mo., 30.8.",
+    "timestamp": 1630281600000,
+    "time": "20:15",
+    "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2408330931?layout=shows",
+    "available": 70,
+    "reserved": 0,
+    "bookable": true
+  },
+  "central-2408331235": {
+    "cinemaId": "1839",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
+    "cinemaName": "central-kino-open-air",
+    "cinemaShortName": "central",
+    "id": "central-2408331235",
+    "title": "open air: SERET BERLIN: Tel Aviv on Fire (subtitled OV English)",
+    "date": "Di., 31.8.",
+    "timestamp": 1630368000000,
+    "time": "20:15",
+    "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2408331235?layout=shows",
+    "img": "https://media.kinoheld.de/qLrJkST-i334ln_JOJ1ZQAmBkAQ=/400x560/images%2Ffilm%2Ftel-aviv-on-fire-13387.v3.jpg",
+    "description": "In Tel Aviv geht es heiß her. Zumindest laut der schnulzigen Soap Opera \"Tel Aviv on Fire\", die jeden Abend über die TV-Bildschirme flimmert und Israelis wie Palästinenser vor der Glotze vereint. Der junge Palästinenser Salam ist Drehbuchautor des Straßenfegers und muss für die Dreharbeiten jeden Tag die Grenze zwischen Israel und dem Westjordanland überqueren. Bei einer Checkpoint-Kontrolle gerät das Skript der nächsten Folge in die Hände des israelischen Kommandeurs Assi. Das kommt dem gelangweilten Grenzwächter gerade recht. Um seine Frau zu beeindrucken, zwingt er Salam das Drehbuch umzuschreiben. Ein Bombenerfolg! Von nun an denken sich Salam und Assi immer neue schnulzige Dialoge und absurde Plotentwicklungen aus. Der Einfluss des israelischen Militärs auf die populäre, eigentlich anti-zionistische Seifenoper wird immer größer. Aber dann soll die Serie abgesetzt werden, und Salam steht plötzlich vor einem Riesenproblem. (Quelle: Verleih)",
+    "trailer": "https://www.youtube.com/watch?v=-ppltaZFjOs",
     "available": 70,
     "reserved": 0,
     "bookable": true
@@ -3221,8 +3381,8 @@
     "img": "https://media.kinoheld.de/kYStEhPmGfaEZFCEJgfHXxwlOxU=/400x560/images%2Ffilm%2Fleon-der-profi-wa-2019-14361.v11.jpg",
     "description": "Léon verdient sein Geld als Auftragskiller der Italo-Mafia in den Straßen von New York. Er lebt zurückgezogen und pflegt außer zu seinem Boss Tony einzig zu seiner Topfpflanze ein freundschaftliches Verhältnis. Als die Familie seiner Nachbarstochter Mathilda von DEA-Polizisten brutal getötet wird, flüchtet sie zu Léon. Um sich an den Mördern ihres kleinen Bruders zu rächen, lässt sich Mathilda das grausame Handwerk eines Profi-Killers von Léon beibringen. (Quelle: Verleih)",
     "trailer": "https://youtu.be/MKJ-nXADsVk",
-    "available": 65,
-    "reserved": 10,
+    "available": 63,
+    "reserved": 12,
     "bookable": true
   },
   "mobile kino-2403046774": {
@@ -3238,7 +3398,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2403046774?layout=shows",
     "img": "https://media.kinoheld.de/qVnneLWJ-1BHSsKCYvIBqUWe14Y=/400x560/images%2Ffilm%2Fglueck-19174.v1.jpg",
     "description": "Zwei Sexarbeiterinnen verlieben sich ineinander – und das in einer Welt, in der der weibliche Körper ein teures Gut ist. Trotz ihres trostlosen Lebens erleben die erfahrene Sascha (Katharina Behrens) und ihre neue, aus Italien stammende Kollegin Maria (Adam Hoya) gemeinsam Momente des Glücks und drohen doch an den eigenen Abgründen zu scheitern...",
-    "available": 87,
+    "available": 89,
     "reserved": 0,
     "bookable": true
   },
@@ -3480,8 +3640,8 @@
     "time": "21:30",
     "date": "Mi., 21.7.",
     "timestamp": 1626903000000,
-    "available": 255,
-    "reserved": 205,
+    "available": 253,
+    "reserved": 207,
     "bookable": true
   },
   "kulturforum-267": {
@@ -3512,8 +3672,8 @@
     "time": "21:30",
     "date": "Fr., 23.7.",
     "timestamp": 1627075800000,
-    "available": 378,
-    "reserved": 82,
+    "available": 372,
+    "reserved": 88,
     "bookable": true
   },
   "kulturforum-271": {
@@ -3529,8 +3689,8 @@
     "time": "21:30",
     "date": "Sa., 24.7.",
     "timestamp": 1627162200000,
-    "available": 257,
-    "reserved": 203,
+    "available": 245,
+    "reserved": 215,
     "bookable": true
   },
   "kulturforum-272": {
@@ -3547,8 +3707,8 @@
     "time": "21:30",
     "date": "So., 25.7.",
     "timestamp": 1627248600000,
-    "available": 424,
-    "reserved": 36,
+    "available": 422,
+    "reserved": 38,
     "bookable": true
   },
   "kulturforum-273": {
@@ -3636,8 +3796,8 @@
     "time": "21:30",
     "date": "Fr., 30.7.",
     "timestamp": 1627680600000,
-    "available": 264,
-    "reserved": 196,
+    "available": 260,
+    "reserved": 200,
     "bookable": true
   },
   "kulturforum-278": {
@@ -3651,8 +3811,8 @@
     "time": "21:30",
     "date": "Sa., 31.7.",
     "timestamp": 1627767000000,
-    "available": 403,
-    "reserved": 57,
+    "available": 399,
+    "reserved": 61,
     "bookable": true
   },
   "schloss-charlottenburg-53": {
@@ -3669,8 +3829,8 @@
     "time": "21:30",
     "date": "Mi., 21.7.",
     "timestamp": 1626903000000,
-    "available": 363,
-    "reserved": 136,
+    "available": 359,
+    "reserved": 140,
     "bookable": true
   },
   "schloss-charlottenburg-49": {
@@ -3723,8 +3883,8 @@
     "time": "21:30",
     "date": "Sa., 24.7.",
     "timestamp": 1627162200000,
-    "available": 408,
-    "reserved": 235,
+    "available": 400,
+    "reserved": 243,
     "bookable": true
   },
   "schloss-charlottenburg-57": {
@@ -3741,8 +3901,8 @@
     "time": "21:30",
     "date": "So., 25.7.",
     "timestamp": 1627248600000,
-    "available": 461,
-    "reserved": 38,
+    "available": 459,
+    "reserved": 40,
     "bookable": true
   },
   "schloss-charlottenburg-58": {
@@ -3828,8 +3988,8 @@
     "time": "21:30",
     "date": "Fr., 30.7.",
     "timestamp": 1627680600000,
-    "available": 530,
-    "reserved": 113,
+    "available": 528,
+    "reserved": 115,
     "bookable": true
   },
   "schloss-charlottenburg-62": {
@@ -3845,8 +4005,8 @@
     "time": "21:30",
     "date": "Sa., 31.7.",
     "timestamp": 1627767000000,
-    "available": 595,
-    "reserved": 48,
+    "available": 593,
+    "reserved": 50,
     "bookable": true
   }
 }
