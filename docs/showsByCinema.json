@@ -14,8 +14,8 @@
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
       "time": "21:30",
-      "available": 632,
-      "reserved": 446,
+      "available": 624,
+      "reserved": 454,
       "bookable": true
     },
     {
@@ -86,8 +86,8 @@
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
       "time": "21:30",
-      "available": 886,
-      "reserved": 192,
+      "available": 884,
+      "reserved": 194,
       "bookable": true
     },
     {
@@ -104,8 +104,8 @@
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
       "time": "21:30",
-      "available": 993,
-      "reserved": 85,
+      "available": 990,
+      "reserved": 88,
       "bookable": true
     },
     {
@@ -158,8 +158,8 @@
       "date": "So., 1.8.,",
       "timestamp": 1627851600000,
       "time": "21:00",
-      "available": 1076,
-      "reserved": 2,
+      "available": 1074,
+      "reserved": 4,
       "bookable": true
     },
     {
@@ -368,8 +368,8 @@
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
       "time": "21:30",
-      "available": 252,
-      "reserved": 315,
+      "available": 248,
+      "reserved": 319,
       "bookable": true
     },
     {
@@ -386,8 +386,8 @@
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
       "time": "21:30",
-      "available": 0,
-      "reserved": 0,
+      "available": 481,
+      "reserved": 86,
       "bookable": true
     },
     {
@@ -404,8 +404,8 @@
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
       "time": "21:30",
-      "available": 430,
-      "reserved": 137,
+      "available": 428,
+      "reserved": 139,
       "bookable": true
     },
     {
@@ -457,8 +457,8 @@
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
       "time": "21:30",
-      "available": 400,
-      "reserved": 167,
+      "available": 398,
+      "reserved": 169,
       "bookable": true
     },
     {
@@ -618,8 +618,8 @@
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
       "time": "21:30",
-      "available": 414,
-      "reserved": 159,
+      "available": 412,
+      "reserved": 161,
       "bookable": true
     },
     {
@@ -778,8 +778,8 @@
       "date": "Fr., 30.7.",
       "timestamp": 1627678800000,
       "time": "21:00",
-      "available": 568,
-      "reserved": 5,
+      "available": 570,
+      "reserved": 3,
       "bookable": true
     },
     {
@@ -850,8 +850,8 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628973900000,
       "time": "20:45",
-      "available": 378,
-      "reserved": 195,
+      "available": 377,
+      "reserved": 196,
       "bookable": true
     },
     {
@@ -977,54 +977,6 @@
     }
   ],
   "freiluftkino-hasenheide": [
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "hasenheide-691287",
-      "title": "Wir Kinder aus Bullerbü ",
-      "date": "Mi., 21.7.",
-      "timestamp": 1626825600000,
-      "time": "16:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691287?layout=shows",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "hasenheide-691316",
-      "title": "Neubau ",
-      "date": "Mi., 21.7.",
-      "timestamp": 1626825600000,
-      "time": "18:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691316?layout=shows",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "hasenheide-691226",
-      "title": "Kokon (subtitled OV English)",
-      "date": "Mi., 21.7.",
-      "timestamp": 1626825600000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691226?layout=shows",
-      "img": "https://media.kinoheld.de/BVSOhCc4czDBpW3JWKzQdQqQU2M=/400x560/images%2Ffilm%2Fkokon-17135.v7.png",
-      "description": "Mitten am Kottbusser Tor in Berlin Kreuzberg wächst Nora (Lena Urzendowsky) auf. Hier im turbulenten Herzen Berlins ist sie stets umgeben von Menschen, deren Lebensläufe nicht immer den geraden Weg gehen und aus den unterschiedlichsten Kulturkreisen der Welt stammen. Nun, wo Nora langsam erwachsen wird, sich ihr Körper verändert, fühlt sie sich in der Welt mehr und mehr verloren und weiß nicht, wie es weitergehen soll. Bei ihrer Schwester Jule (Lena Klenke) und deren bester Freundin Aylin (Elina Vildanova) sieht das Leben etwas anders aus. Für die jungen Frauen dreht sich alles nur um Styling, Mode und die Präsentation dessen in den sozialen Medien. Anfangs scheint sie sich dem Druck, für andere schön zu sein, ebenfalls hinzugeben, als jedoch Romy (Jella Haase) auftaucht, bringt diese ihr bei, zu sich und ihrem Körper zu stehen.",
-      "trailer": "https://www.youtube.com/watch?v=31_ZH8_4nVs",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
     {
       "cinemaId": "580",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
@@ -1603,9 +1555,9 @@
       "img": "https://media.kinoheld.de/DbWHTKT3neGjvULOXqsnipemH2A=/400x560/images%2Ffilm%2Fminari-18286.v2.png",
       "description": "Jacob beschließt, mit seiner koreanisch-amerikanischen Familie von Los Angeles nach Arkansas zu ziehen, um als Farmer sein Glück zu versuchen. Seine Frau Monica und die Kinder David und Anne fühlen sich jedoch fremd in der neuen Heimat, und das fragile Familienleben wird zusätzlich auf die Probe gestellt, als die schlagfertige und liebevolle Großmutter Soonja von Südkorea zu ihnen auf die Farm zieht.",
       "trailer": "https://www.youtube.com/watch?v=TlOqMFPS00g",
-      "available": 649,
-      "reserved": 6,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1719,9 +1671,9 @@
       "img": "https://media.kinoheld.de/WZGDOgvrj-rLVijqmTMGNet7Tj0=/400x560/images%2Ffilm%2F4%2Frettet-raffi-2125.v1.jpg",
       "description": "Der achtjährige Sammy ist am Boden zerstört: Erst wird sein Goldhamster Raffi, den er von seinem Vater - kurz bevor der die Familie nach einem Streit verlassen hat, um in Afghanistan zu arbeiten - schwer krank und kurz darauf entführt. Und das direkt nach der Operation, die Raffi das Leben gerettet hat! Weil Sammy um keinen Preis der Welt seinen geliebten Freund aufgeben will, macht sich der Junge auf eine lange, nicht ungefährliche Reise, die ihn zunächst zu dem Gangster Rocky, dann an den Hamburger Hafen und schließlich doch noch glücklich zu Raffi führt. (v.f.)",
       "trailer": "https://www.youtube.com/watch?v=kwtD7SNydFE",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -1962,24 +1914,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
       "cinemaName": "b-ware-openair-fmp",
       "cinemaShortName": "fmp",
-      "id": "fmp-2392542649",
-      "title": "FREAKSCENE – THE STORY OF DINOSAUR JR. - FILM PREVIEW (subtitled OV / en)",
-      "date": "Mi., 21.7.",
-      "timestamp": 1626825600000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2392542649?layout=shows",
-      "img": "https://media.kinoheld.de/DQsE2bJ2xtRqdKQPdV3MXrumGew=/400x560/images%2Ffilm%2Fmo%2F3013-37597.v2.jpg",
-      "description": "FREAKSCENE THE STORY OF DINOSAUR JR. is a homage of one of the most influential bands on the American East Coast, which inspired the rock scene – including Nirvana and Sonic Youth – in the 1990s. Their style and unmistakable sound, later referred as “Grunge”, laid the foundation for the entire “Slacker” culture of Generation X.\r\nIt is also the story of the eloquent and eccentric guitarist and bandleader J. Mascis, the bassist Lou Barlow and drummer Murph and a band that insanely does not talk to each other. Communication takes place exclusively through music. Philipp Reichenheim nevertheless manages to make the closed and shy icons speak.\r\nAn emotional, tragically funny and sometimes noisy rollercoaster ride by a dysfunctional family – Dinosaur Jr.\r\nThrough several decades, the film offers rare insights into the crazy everyday life of the band and illuminates the inner workings of a cult band from its beginnings in the 1980s and 90s to the present day.",
-      "trailer": "https://youtu.be/MKJ-nXADsVk",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "1657",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
-      "cinemaName": "b-ware-openair-fmp",
-      "cinemaShortName": "fmp",
       "id": "fmp-2392542992",
       "title": "DEMON SLAYER - THE MOVIE: MUGEN TRAIN ",
       "date": "Do., 22.7.",
@@ -2102,24 +2036,6 @@
     }
   ],
   "central-kino-open-air": [
-    {
-      "cinemaId": "1839",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
-      "cinemaName": "central-kino-open-air",
-      "cinemaShortName": "central",
-      "id": "central-2394921555",
-      "title": "open air: Kiss me kosher (subtitled OV English)",
-      "date": "Mi., 21.7.",
-      "timestamp": 1626825600000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2394921555?layout=shows",
-      "img": "https://media.kinoheld.de/dBOzEMaRZeOQFGWcotd00yIacV8=/400x560/images%2Ffilm%2Fseret-berlin-kiss-me-kosher-17231.v544.jpg",
-      "description": "Die quirlige jüdische Grossmutter Berta und ihre nicht weniger leidenschaftliche Enkelin Shira streiten inniglich über die Liebe und darüber, was Frau darf und was nicht. Vor allem als sich ihre geliebte Enkeltochter ausgerechnet für Maria, eine Deutsche, entscheidet. Die beiden jungen Frauen machen richtig ernst sie wollen heiraten. So unterschiedlich beide Familien sind, so einig sind sich alle in einem Punkt: Die Hochzeit muss geplant werden. Nur eine versucht mit allen Mitteln diesen Bund des Lebens zu verhindern Berta. Für sie ist eine Ehe zwischen einer Israelin und einer Deutschen ein Ding der Unmöglichkeit. Obwohl auch sie mit dem Palästinenser Ibrahim ein recht unkonventionelles Liebesglück gefunden hat, das sie im Gegensatz zur lebensfrohen Enkeltochter vor der Familie verheimlicht. Aber wie lange kann das noch so gutgehen? Am Ende der turbulenten Familienfehde wird geheiratet.",
-      "trailer": "https://www.youtube.com/watch?v=vbjXqyWpT74",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
     {
       "cinemaId": "1839",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
@@ -2688,24 +2604,6 @@
     }
   ],
   "freiluftkino-pompeji-open-air-am-ostkreuz-berlin": [
-    {
-      "cinemaId": "2153",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-      "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-      "cinemaShortName": "pompeji ostkreuz",
-      "id": "pompeji ostkreuz-2399898746",
-      "title": "PARASITE (subtitled OV English)",
-      "date": "Mi., 21.7.",
-      "timestamp": 1626825600000,
-      "time": "21:45",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2399898746?layout=shows",
-      "img": "https://media.kinoheld.de/1vIIQBhZZqw-OjT2EuvAAJi3lSc=/400x560/images%2Ffilm%2Fparasite-14289.v362.jpg",
-      "description": "Familie Kim ist ganz unten angekommen: Vater, Mutter, Sohn und Tochter hausen in einem grünlich-schummrigen Keller, kriechen für kostenloses W-LAN in jeden Winkel und sind sich für keinen Aushilfsjob zu schade. Erst als der Jüngste eine Anstellung als Nachhilfelehrer in der todschicken Villa der Familie Park antritt, steigen die Kims ein ins Karussell der Klassenkämpfe. Mit findigen Tricksereien, bemerkenswertem Talent und großem Mannschaftsgeist gelingt es ihnen, die bisherigen Bediensteten der Familie Park nach und nach loszuwerden. Bald schon sind die Kims unverzichtbar für ihre neuen Herrschaften. Doch dann löst ein unerwarteter Zwischenfall eine Kette von Ereignissen aus, die so unvorhersehbar wie unfassbar sind.",
-      "trailer": "https://youtu.be/isOGD_7hNIY",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
     {
       "cinemaId": "2153",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
@@ -3712,8 +3610,8 @@
       "time": "21:30",
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
-      "available": 9,
-      "reserved": 451,
+      "available": 7,
+      "reserved": 453,
       "bookable": true
     },
     {
@@ -3727,8 +3625,8 @@
       "time": "21:30",
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
-      "available": 356,
-      "reserved": 104,
+      "available": 350,
+      "reserved": 110,
       "bookable": true
     },
     {
@@ -3779,8 +3677,8 @@
       "time": "21:30",
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
-      "available": 420,
-      "reserved": 40,
+      "available": 421,
+      "reserved": 39,
       "bookable": true
     },
     {
@@ -3901,8 +3799,8 @@
       "time": "21:30",
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
-      "available": 9,
-      "reserved": 451,
+      "available": 7,
+      "reserved": 453,
       "bookable": true
     },
     {
@@ -3984,8 +3882,8 @@
       "time": "21:30",
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
-      "available": 356,
-      "reserved": 104,
+      "available": 350,
+      "reserved": 110,
       "bookable": true
     },
     {
@@ -4019,8 +3917,8 @@
       "time": "21:30",
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
-      "available": 420,
-      "reserved": 40,
+      "available": 421,
+      "reserved": 39,
       "bookable": true
     },
     {
@@ -4057,8 +3955,8 @@
       "time": "21:30",
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
-      "available": 403,
-      "reserved": 96,
+      "available": 401,
+      "reserved": 98,
       "bookable": true
     },
     {
@@ -4093,8 +3991,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 345,
-      "reserved": 298,
+      "available": 332,
+      "reserved": 311,
       "bookable": true
     },
     {
@@ -4251,8 +4149,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 345,
-      "reserved": 298,
+      "available": 332,
+      "reserved": 311,
       "bookable": true
     },
     {
@@ -4391,8 +4289,8 @@
       "time": "21:30",
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
-      "available": 403,
-      "reserved": 96,
+      "available": 401,
+      "reserved": 98,
       "bookable": true
     }
   ]
