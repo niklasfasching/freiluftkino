@@ -13,8 +13,8 @@
     "date": "Mi., 21.7.",
     "timestamp": 1626903000000,
     "time": "21:30",
-    "available": 701,
-    "reserved": 377,
+    "available": 689,
+    "reserved": 389,
     "bookable": true
   },
   "fhain-710": {
@@ -31,8 +31,8 @@
     "date": "Do., 22.7.",
     "timestamp": 1626989400000,
     "time": "21:30",
-    "available": 709,
-    "reserved": 369,
+    "available": 697,
+    "reserved": 381,
     "bookable": true
   },
   "fhain-713": {
@@ -67,8 +67,8 @@
     "date": "Fr., 23.7.",
     "timestamp": 1627075800000,
     "time": "21:30",
-    "available": 940,
-    "reserved": 138,
+    "available": 934,
+    "reserved": 144,
     "bookable": true
   },
   "fhain-715": {
@@ -85,8 +85,8 @@
     "date": "Di., 27.7.",
     "timestamp": 1627421400000,
     "time": "21:30",
-    "available": 1029,
-    "reserved": 49,
+    "available": 1023,
+    "reserved": 55,
     "bookable": true
   },
   "fhain-712": {
@@ -103,8 +103,8 @@
     "date": "Sa., 24.7.",
     "timestamp": 1627162200000,
     "time": "21:30",
-    "available": 916,
-    "reserved": 162,
+    "available": 912,
+    "reserved": 166,
     "bookable": true
   },
   "fhain-714": {
@@ -280,8 +280,8 @@
     "date": "So., 15.8.",
     "timestamp": 1629043200000,
     "time": "16:00",
-    "available": 944,
-    "reserved": 134,
+    "available": 940,
+    "reserved": 138,
     "bookable": true
   },
   "fhain-667": {
@@ -364,8 +364,8 @@
     "date": "Mi., 21.7.",
     "timestamp": 1626903000000,
     "time": "21:30",
-    "available": 355,
-    "reserved": 212,
+    "available": 352,
+    "reserved": 215,
     "bookable": true
   },
   "xberg-641": {
@@ -400,8 +400,8 @@
     "date": "Sa., 24.7.",
     "timestamp": 1627162200000,
     "time": "21:30",
-    "available": 324,
-    "reserved": 243,
+    "available": 310,
+    "reserved": 257,
     "bookable": true
   },
   "xberg-638": {
@@ -436,8 +436,8 @@
     "date": "Fr., 23.7.",
     "timestamp": 1627075800000,
     "time": "21:30",
-    "available": 457,
-    "reserved": 110,
+    "available": 454,
+    "reserved": 113,
     "bookable": true
   },
   "xberg-639": {
@@ -489,8 +489,8 @@
     "date": "Do., 22.7.",
     "timestamp": 1626989400000,
     "time": "21:30",
-    "available": 439,
-    "reserved": 128,
+    "available": 429,
+    "reserved": 138,
     "bookable": true
   },
   "xberg-653": {
@@ -596,8 +596,8 @@
     "date": "Do., 5.8.,",
     "timestamp": 1628193600000,
     "time": "20:00",
-    "available": 559,
-    "reserved": 8,
+    "available": 557,
+    "reserved": 10,
     "bookable": true
   },
   "xberg-602": {
@@ -629,8 +629,8 @@
     "date": "Mi., 21.7.",
     "timestamp": 1626903000000,
     "time": "21:30",
-    "available": 312,
-    "reserved": 261,
+    "available": 309,
+    "reserved": 264,
     "bookable": true
   },
   "rehberge-650": {
@@ -773,8 +773,8 @@
     "date": "Do., 29.7.",
     "timestamp": 1627594200000,
     "time": "21:30",
-    "available": 553,
-    "reserved": 20,
+    "available": 551,
+    "reserved": 22,
     "bookable": true
   },
   "rehberge-635": {
@@ -1032,9 +1032,9 @@
     "timestamp": 1626825600000,
     "time": "16:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691287?layout=shows",
-    "available": -1,
+    "available": 0,
     "reserved": 0,
-    "bookable": true
+    "bookable": false
   },
   "hasenheide-691316": {
     "cinemaId": "580",
@@ -1065,8 +1065,8 @@
     "img": "https://media.kinoheld.de/BVSOhCc4czDBpW3JWKzQdQqQU2M=/400x560/images%2Ffilm%2Fkokon-17135.v7.png",
     "description": "Mitten am Kottbusser Tor in Berlin Kreuzberg wächst Nora (Lena Urzendowsky) auf. Hier im turbulenten Herzen Berlins ist sie stets umgeben von Menschen, deren Lebensläufe nicht immer den geraden Weg gehen und aus den unterschiedlichsten Kulturkreisen der Welt stammen. Nun, wo Nora langsam erwachsen wird, sich ihr Körper verändert, fühlt sie sich in der Welt mehr und mehr verloren und weiß nicht, wie es weitergehen soll. Bei ihrer Schwester Jule (Lena Klenke) und deren bester Freundin Aylin (Elina Vildanova) sieht das Leben etwas anders aus. Für die jungen Frauen dreht sich alles nur um Styling, Mode und die Präsentation dessen in den sozialen Medien. Anfangs scheint sie sich dem Druck, für andere schön zu sein, ebenfalls hinzugeben, als jedoch Romy (Jella Haase) auftaucht, bringt diese ihr bei, zu sich und ihrem Körper zu stehen.",
     "trailer": "https://www.youtube.com/watch?v=31_ZH8_4nVs",
-    "available": 324,
-    "reserved": 88,
+    "available": 313,
+    "reserved": 93,
     "bookable": true
   },
   "hasenheide-691330": {
@@ -1118,8 +1118,8 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691233?layout=shows",
     "img": "https://media.kinoheld.de/U0hvJqfHfa8se2HP8BkoKfarsDY=/400x560/images%2Ffilm%2Fich-bin-dein-mensch-18809.v2.png",
     "description": "Die Wissenschaftlerin Alma lässt sich auf die Teilnahme an einer Studie ein, um Gelder für ihre Forschungen zu bekommen. Bei dem Experiment soll Alma einige Wochen mit einem humanoiden Roboter verbringen, der sich an ihre Wünsche und Bedürfnisse anpasst, um der perfekte Partner für Alma zu werden. Nach ein paar Anlaufschwierigkeiten finden Alma und der Roboter schließlich zueinander. Doch Alma fragt sich, welchen Sinn es hat, sich in einen Roboter zu verlieben.",
-    "available": 5,
-    "reserved": 193,
+    "available": 4,
+    "reserved": 194,
     "bookable": true
   },
   "hasenheide-691332": {
@@ -1153,7 +1153,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691760?layout=shows",
     "img": "https://media.kinoheld.de/RZ4oo-DUsYCMMBSXzc7J4BulfXo=/400x560/images%2Ffilm%2F4%2Fthe-rider-9780.v6.jpg",
     "description": "Die Pferde waren das Wichtigste im Leben des jungen Cowboys und Sioux-Nachkommen Brady Blackburn. Doch nachdem er bei einem Rodeo verunglückte und fast gestorben wäre, wird er nie wieder reiten können. Blackburn hat alles, was ihm je etwas bedeutet hat, verloren: Das Freiheitsgefühl beim Reiten, die Bewunderung seiner Fans und auch die Achtung seines Vaters. Am schwersten aber wiegt, wie minderwertig er sich seitdem fühlt. (vf)",
-    "trailer": "https://www.youtube.com/watch?v=AlrWRttLTkg",
+    "trailer": "https://www.youtube.com/watch?v=ar2p3lANgTg",
     "available": 79,
     "reserved": 0,
     "bookable": true
@@ -1225,8 +1225,8 @@
     "img": "https://media.kinoheld.de/jHvvh1Xl1T39hdM2gpymZbS4gGo=/400x560/images%2Ffilm%2Fcruella-18919.v22.jpg",
     "description": "London in den 1970er Jahren: Die junge Estella (Emma Stone) ist eine talentierte Designerin und träumt von einer großen Karriere als Modeschöpferin. Doch da sie verwaist und mittellos aufgewachsen ist, scheint ihr der Weg in höhere Kreise verschlossen. Mit ihren zwei Kumpels, den Amateur-Dieben Horace (Paul Walter Hauser) und Jasper (Joel Fry), streift sie durch London und begeht hier und da kleine Verbrechen – und wann immer sich die Möglichkeit ergibt, wenigstens kurz in den von ihr ersehnten Luxus der Schönen und Reichen einzutauchen, greift sie schamlos zu. Dann aber bietet sich ihr endlich eine einzigartige Gelegenheit, um der Gosse zu entkommen: Ein aufstrebender Rockstar entdeckt ihr Talent und beauftragt Estella damit, ihm ein einzigartiges Outfit zu entwerfen. Auf der Suche nach dem perfekten Material muss sich Estella, die ein Faible für Hundefell hat, fragen, was sie für ihren Erfolg zu opfern bereit ist.",
     "trailer": "https://www.youtube.com/watch?v=KIRKfx5Cbec",
-    "available": 200,
-    "reserved": 130,
+    "available": 183,
+    "reserved": 135,
     "bookable": true
   },
   "hasenheide-691331": {
@@ -1329,8 +1329,8 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691237?layout=shows",
     "img": "https://media.kinoheld.de/DVQcxtUYNoxr36fQFLasSd8kr_E=/400x560/images%2Ffilm%2Falles-ist-eins-ausser-der-0-19150.v1.jpg",
     "description": "ALLES IST EINS. AUSSER DER 0. erzählt eine Geschichte digitaler Subversion: vom exklusiven Club zu einer Instanz, die heute bei allen Fragen der Netzpolitik zu Rate gezogen wird. Der Dokumentarfilm von Klaus Maeck und Tanja Schwerdorf setzt der bekanntesten deutschen Hackervereinigung ein stilsicheres, kraftvolles und würdiges Denkmal. Selten hat man ein so eindringliches Porträt über Zeitgeist-Pioniere gesehen, deren Weitblick für die Gegenwart so beeindruckend wie bereichernd ist.",
-    "available": 171,
-    "reserved": 149,
+    "available": 160,
+    "reserved": 152,
     "bookable": true
   },
   "hasenheide-691335": {
@@ -1363,7 +1363,7 @@
     "time": "18:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/692198?layout=shows",
     "img": "https://media.kinoheld.de/_2AHn0IvUF0ERsDOG6s8e-7Q_e4=/400x560/images%2Ffilm%2F4%2Fwenn-die-gondeln-trauer-tragen-647.v3.jpg",
-    "description": "Nachdem die geliebte Tochter in einem Teich ihres englischen Landsitzes ertrank, kommen John und Laura Baxter nach Venedig. Hier passieren mysteriöse Dinge. Der Geist des toten Kindes scheint auf die Erde zurückgekehrt, um die Eltern vor den tödlichen Gefahren der Lagunenstadt zu warnen. Laura gerät ganz in den Bann dieser unheimlichen Visionen. Was geschieht aber, wenn John die warnenden Signale aus dem Reich der Toten ignoriert? Kann das Paar sich noch länger den drohenden Folgen entziehen, in welche es durch die Voraussagen der geheimnisvollen, blinden Hellseherin verstrickt wurde?",
+    "description": "Laura and John, grieved by a terrible loss, meet in Venice, where John is in charge of the restoration of a church, two mysterious sisters, one of whom gives them a message sent from the afterlife.",
     "trailer": "https://youtu.be/MKJ-nXADsVk",
     "available": -1,
     "reserved": 0,
@@ -1383,8 +1383,8 @@
     "img": "https://media.kinoheld.de/Oyw4j5X6-APA71HNlPwWligxMDc=/400x560/images%2Ffilm%2Ffabiana-19170.v1.jpg",
     "description": "Im Berlin des Jahres 1931 lässt sich der Germanist und Werbetexter Jakob Fabian (Tom Schilling) durch das Leben treiben. Während er tagsüber für die Werbung einer Zigarettenfirma zuständig ist, ist er nachts oft mit seinem Studienkollegen Labude (Albrecht Schuch) unterwegs und macht die Unterweltkneipen, Bordelle und Künstlerateliers unsicher. Das sorglose Leben der beiden jungen Männer wird durch eine durch Kommunisten und Nationalsozialisten geteilte Gesellschaft zunehmend bedroht und auch Labude träumt davon, dass die Klassen gegen die Obrigkeit revolutionieren. Fabian kann mit dem politischen Umbruch nicht viel anfangen und kommentiert die Geschehnisse ironisch. Eines Tages trifft er in einem Atelier auf Cornelia (Saskia Rosendahl) und verliebt sich auf den ersten Blick in sie. Fabians naives Leben nimmt eine dramatische Wendung, als er einer Entlassungswelle zum Opfer fällt, Cornelias Karriere als Schauspielerin jedoch an Fahrt aufnimmt...",
     "trailer": "https://www.youtube.com/watch?v=VPIeUqg7F40",
-    "available": 15,
-    "reserved": 190,
+    "available": 10,
+    "reserved": 194,
     "bookable": true
   },
   "hasenheide-691336": {
@@ -2152,8 +2152,8 @@
     "img": "https://media.kinoheld.de/dBOzEMaRZeOQFGWcotd00yIacV8=/400x560/images%2Ffilm%2Fseret-berlin-kiss-me-kosher-17231.v544.jpg",
     "description": "Die quirlige jüdische Grossmutter Berta und ihre nicht weniger leidenschaftliche Enkelin Shira streiten inniglich über die Liebe und darüber, was Frau darf und was nicht. Vor allem als sich ihre geliebte Enkeltochter ausgerechnet für Maria, eine Deutsche, entscheidet. Die beiden jungen Frauen machen richtig ernst sie wollen heiraten. So unterschiedlich beide Familien sind, so einig sind sich alle in einem Punkt: Die Hochzeit muss geplant werden. Nur eine versucht mit allen Mitteln diesen Bund des Lebens zu verhindern Berta. Für sie ist eine Ehe zwischen einer Israelin und einer Deutschen ein Ding der Unmöglichkeit. Obwohl auch sie mit dem Palästinenser Ibrahim ein recht unkonventionelles Liebesglück gefunden hat, das sie im Gegensatz zur lebensfrohen Enkeltochter vor der Familie verheimlicht. Aber wie lange kann das noch so gutgehen? Am Ende der turbulenten Familienfehde wird geheiratet.",
     "trailer": "https://www.youtube.com/watch?v=vbjXqyWpT74",
-    "available": 36,
-    "reserved": 23,
+    "available": 33,
+    "reserved": 25,
     "bookable": true
   },
   "central-2394922222": {
@@ -3672,8 +3672,8 @@
     "time": "21:30",
     "date": "Mi., 21.7.",
     "timestamp": 1626903000000,
-    "available": 251,
-    "reserved": 209,
+    "available": 240,
+    "reserved": 220,
     "bookable": true
   },
   "kulturforum-267": {
@@ -3721,8 +3721,8 @@
     "time": "21:30",
     "date": "Sa., 24.7.",
     "timestamp": 1627162200000,
-    "available": 243,
-    "reserved": 217,
+    "available": 231,
+    "reserved": 229,
     "bookable": true
   },
   "kulturforum-272": {
@@ -3756,8 +3756,8 @@
     "time": "21:30",
     "date": "Mo., 26.7.",
     "timestamp": 1627335000000,
-    "available": 426,
-    "reserved": 34,
+    "available": 424,
+    "reserved": 36,
     "bookable": true
   },
   "kulturforum-274": {
@@ -3828,8 +3828,8 @@
     "time": "21:30",
     "date": "Fr., 30.7.",
     "timestamp": 1627680600000,
-    "available": 258,
-    "reserved": 202,
+    "available": 254,
+    "reserved": 206,
     "bookable": true
   },
   "kulturforum-278": {
@@ -3861,8 +3861,8 @@
     "time": "21:30",
     "date": "Mi., 21.7.",
     "timestamp": 1626903000000,
-    "available": 362,
-    "reserved": 137,
+    "available": 356,
+    "reserved": 143,
     "bookable": true
   },
   "schloss-charlottenburg-49": {
@@ -3915,8 +3915,8 @@
     "time": "21:30",
     "date": "Sa., 24.7.",
     "timestamp": 1627162200000,
-    "available": 398,
-    "reserved": 245,
+    "available": 390,
+    "reserved": 253,
     "bookable": true
   },
   "schloss-charlottenburg-57": {
@@ -3933,8 +3933,8 @@
     "time": "21:30",
     "date": "So., 25.7.",
     "timestamp": 1627248600000,
-    "available": 461,
-    "reserved": 38,
+    "available": 459,
+    "reserved": 40,
     "bookable": true
   },
   "schloss-charlottenburg-58": {
@@ -4037,8 +4037,8 @@
     "time": "21:30",
     "date": "Sa., 31.7.",
     "timestamp": 1627767000000,
-    "available": 593,
-    "reserved": 50,
+    "available": 594,
+    "reserved": 49,
     "bookable": true
   }
 }
