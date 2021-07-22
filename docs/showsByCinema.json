@@ -1133,7 +1133,7 @@
       "img": "https://media.kinoheld.de/jHvvh1Xl1T39hdM2gpymZbS4gGo=/400x560/images%2Ffilm%2Fcruella-18919.v22.jpg",
       "description": "London in den 1970er Jahren: Die junge Estella (Emma Stone) ist eine talentierte Designerin und träumt von einer großen Karriere als Modeschöpferin. Doch da sie verwaist und mittellos aufgewachsen ist, scheint ihr der Weg in höhere Kreise verschlossen. Mit ihren zwei Kumpels, den Amateur-Dieben Horace (Paul Walter Hauser) und Jasper (Joel Fry), streift sie durch London und begeht hier und da kleine Verbrechen – und wann immer sich die Möglichkeit ergibt, wenigstens kurz in den von ihr ersehnten Luxus der Schönen und Reichen einzutauchen, greift sie schamlos zu. Dann aber bietet sich ihr endlich eine einzigartige Gelegenheit, um der Gosse zu entkommen: Ein aufstrebender Rockstar entdeckt ihr Talent und beauftragt Estella damit, ihm ein einzigartiges Outfit zu entwerfen. Auf der Suche nach dem perfekten Material muss sich Estella, die ein Faible für Hundefell hat, fragen, was sie für ihren Erfolg zu opfern bereit ist.",
       "trailer": "https://www.youtube.com/watch?v=KIRKfx5Cbec",
-      "available": 147,
+      "available": 131,
       "reserved": 146,
       "bookable": true
     },
@@ -1519,9 +1519,9 @@
       "img": "https://media.kinoheld.de/FJ3wSVbmMxhboSMd_EWxUhYuFCI=/400x560/images%2Ffilm%2F4%2Fheidi-2223.v2.jpg",
       "description": "Das Waisenkind Heidi soll bei ihrem bärbeißigen Großvater in den Bergen leben. Obwohl dieser Plan zunächst von dem alten Mann als Unfug angesehen wird, schließt er das kleine lebensfrohe Geschöpf schnell in sein Herz und auch Heidi fühlt sich bei ihrem Almöhi mehr als wohl. Sie liebt die Natur mit ihren Pflanzen und Tieren und das Herumtollen mit den Ziegen und Peter. Doch dann wird Heidi wieder abgeholt. Sie soll in der Stadt der gelähmten Klara Gesellschaft leisten. Dort wird sie indes mit jedem Tag unglücklicher... (v.f.)",
       "trailer": "https://www.youtube.com/watch?v=QQA8dczTSEA",
-      "available": -1,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1618,9 +1618,9 @@
       "timestamp": 1627948800000,
       "time": "16:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691728?layout=shows",
-      "available": -1,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "580",
