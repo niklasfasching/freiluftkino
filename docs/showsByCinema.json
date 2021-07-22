@@ -50,8 +50,8 @@
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
       "time": "21:30",
-      "available": 743,
-      "reserved": 335,
+      "available": 731,
+      "reserved": 347,
       "bookable": true
     },
     {
@@ -86,8 +86,8 @@
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
       "time": "21:30",
-      "available": 838,
-      "reserved": 240,
+      "available": 835,
+      "reserved": 243,
       "bookable": true
     },
     {
@@ -158,8 +158,8 @@
       "date": "Do., 29.7.",
       "timestamp": 1627592400000,
       "time": "21:00",
-      "available": 667,
-      "reserved": 411,
+      "available": 665,
+      "reserved": 413,
       "bookable": true
     },
     {
@@ -229,8 +229,8 @@
       "date": "Sa., 31.7.",
       "timestamp": 1627765200000,
       "time": "21:00",
-      "available": 1066,
-      "reserved": 12,
+      "available": 1064,
+      "reserved": 14,
       "bookable": true
     },
     {
@@ -317,8 +317,8 @@
       "date": "Di., 10.8.",
       "timestamp": 1628629200000,
       "time": "21:00",
-      "available": 1076,
-      "reserved": 2,
+      "available": 1074,
+      "reserved": 4,
       "bookable": true
     },
     {
@@ -405,8 +405,8 @@
       "date": "So., 15.8.",
       "timestamp": 1629043200000,
       "time": "16:00",
-      "available": 926,
-      "reserved": 152,
+      "available": 924,
+      "reserved": 154,
       "bookable": true
     },
     {
@@ -508,8 +508,8 @@
       "date": "Sa., 4.9.,",
       "timestamp": 1630769400000,
       "time": "15:30",
-      "available": 1003,
-      "reserved": 75,
+      "available": 1001,
+      "reserved": 77,
       "bookable": true
     },
     {
@@ -563,8 +563,8 @@
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
       "time": "21:30",
-      "available": 147,
-      "reserved": 420,
+      "available": 145,
+      "reserved": 422,
       "bookable": true
     },
     {
@@ -599,8 +599,8 @@
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
       "time": "21:30",
-      "available": 357,
-      "reserved": 210,
+      "available": 354,
+      "reserved": 213,
       "bookable": true
     },
     {
@@ -617,8 +617,8 @@
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
       "time": "21:30",
-      "available": 487,
-      "reserved": 80,
+      "available": 485,
+      "reserved": 82,
       "bookable": true
     },
     {
@@ -705,7 +705,7 @@
       "date": "Do., 29.7.",
       "timestamp": 1627592400000,
       "time": "21:00",
-      "available": 0,
+      "available": 567,
       "reserved": 0,
       "bookable": true
     },
@@ -829,7 +829,7 @@
       "date": "Mo., 9.8.,",
       "timestamp": 1628543700000,
       "time": "21:15",
-      "available": 567,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -882,7 +882,7 @@
       "date": "Mi., 11.8.",
       "timestamp": 1628716500000,
       "time": "21:15",
-      "available": 567,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -899,7 +899,7 @@
       "date": "So., 15.8.",
       "timestamp": 1629061200000,
       "time": "21:00",
-      "available": 567,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -951,8 +951,8 @@
       "date": "Do., 12.8.",
       "timestamp": 1628802900000,
       "time": "21:15",
-      "available": 0,
-      "reserved": 0,
+      "available": 559,
+      "reserved": 8,
       "bookable": true
     },
     {
@@ -1526,59 +1526,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
       "cinemaName": "freiluftkino-hasenheide",
       "cinemaShortName": "hasenheide",
-      "id": "hasenheide-691330",
-      "title": "Zu weit weg - aber Freunde für immer! ",
-      "date": "Do., 22.7.",
-      "timestamp": 1626912000000,
-      "time": "16:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691330?layout=shows",
-      "img": "https://media.kinoheld.de/aeplxI5NP6wmy4XKeFur6LcxOX4=/400x560/images%2Ffilm%2Fzu-weit-weg-14763.v2.jpg",
-      "description": "Da sein Heimatdorf einem Braunkohletagebau weichen soll, müssen Ben (12) und seine Familie in die nächstgrößere Stadt umziehen. In der neuen Schule ist er erst mal der Außenseiter. Und auch im neuen Fußballverein laufen die Dinge für den talentierten Stürmer nicht wie erhofft. Zu allem Überfluss gibt es noch einen weiteren Neuankömmling an der Schule: Tariq (11), Flüchtling aus Syrien, der ihm nicht nur in der Klasse die Show stehlt, sondern auch noch auf dem Fußballplatz punktet. Wird Ben im Abseits bleiben – oder hat sein Konkurrent doch mehr mit ihm gemeinsam als er denkt?",
-      "trailer": "https://www.youtube.com/watch?v=lmELdP6RiMk",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "hasenheide-691290",
-      "title": "The Human Scale ",
-      "date": "Do., 22.7.",
-      "timestamp": 1626912000000,
-      "time": "18:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691290?layout=shows",
-      "img": "https://media.kinoheld.de/-I0CPHVuCYVVilRIJXYtLJ5Rgjw=/400x560/images%2Ffilm%2F4%2Fthe-human-scale-2231.v1.jpg",
-      "description": "Das Leben der Menschen ist zunehmend ein Leben in Städten. Immer weniger Leute wohnen heute nämlich auf dem Land und immer mehr von ihnen in immer größeren Städten - Tendenz steigend. Aber welchen Einfluss haben sogenannte Megacitys auf unsere Verhaltensweisen? Und wie hängen sie mit dem Klimawandel, der Gesundheitsversorgung und einer zunehmenden Vereinsamung durch Anonymität zusammen? Diesen Fragen geht der Dokumentarfilm nach. (j.b.)",
-      "trailer": "https://www.youtube.com/watch?v=yFbfhJ15Xek",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "hasenheide-691233",
-      "title": "Ich bin Dein Mensch (subtitled OV English)",
-      "date": "Do., 22.7.",
-      "timestamp": 1626912000000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691233?layout=shows",
-      "img": "https://media.kinoheld.de/U0hvJqfHfa8se2HP8BkoKfarsDY=/400x560/images%2Ffilm%2Fich-bin-dein-mensch-18809.v2.png",
-      "description": "Die Wissenschaftlerin Alma lässt sich auf die Teilnahme an einer Studie ein, um Gelder für ihre Forschungen zu bekommen. Bei dem Experiment soll Alma einige Wochen mit einem humanoiden Roboter verbringen, der sich an ihre Wünsche und Bedürfnisse anpasst, um der perfekte Partner für Alma zu werden. Nach ein paar Anlaufschwierigkeiten finden Alma und der Roboter schließlich zueinander. Doch Alma fragt sich, welchen Sinn es hat, sich in einen Roboter zu verlieben.",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
       "id": "hasenheide-691332",
       "title": "Onward - Keine halben Sachen ",
       "date": "Fr., 23.7.",
@@ -1677,8 +1624,8 @@
       "img": "https://media.kinoheld.de/jHvvh1Xl1T39hdM2gpymZbS4gGo=/400x560/images%2Ffilm%2Fcruella-18919.v22.jpg",
       "description": "London in den 1970er Jahren: Die junge Estella (Emma Stone) ist eine talentierte Designerin und träumt von einer großen Karriere als Modeschöpferin. Doch da sie verwaist und mittellos aufgewachsen ist, scheint ihr der Weg in höhere Kreise verschlossen. Mit ihren zwei Kumpels, den Amateur-Dieben Horace (Paul Walter Hauser) und Jasper (Joel Fry), streift sie durch London und begeht hier und da kleine Verbrechen – und wann immer sich die Möglichkeit ergibt, wenigstens kurz in den von ihr ersehnten Luxus der Schönen und Reichen einzutauchen, greift sie schamlos zu. Dann aber bietet sich ihr endlich eine einzigartige Gelegenheit, um der Gosse zu entkommen: Ein aufstrebender Rockstar entdeckt ihr Talent und beauftragt Estella damit, ihm ein einzigartiges Outfit zu entwerfen. Auf der Suche nach dem perfekten Material muss sich Estella, die ein Faible für Hundefell hat, fragen, was sie für ihren Erfolg zu opfern bereit ist.",
       "trailer": "https://www.youtube.com/watch?v=gmRKv7n2If8",
-      "available": 10,
-      "reserved": 192,
+      "available": 13,
+      "reserved": 194,
       "bookable": true
     },
     {
@@ -1781,8 +1728,8 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691237?layout=shows",
       "img": "https://media.kinoheld.de/DVQcxtUYNoxr36fQFLasSd8kr_E=/400x560/images%2Ffilm%2Falles-ist-eins-ausser-der-0-19150.v1.jpg",
       "description": "ALLES IST EINS. AUSSER DER 0. erzählt eine Geschichte digitaler Subversion: vom exklusiven Club zu einer Instanz, die heute bei allen Fragen der Netzpolitik zu Rate gezogen wird. Der Dokumentarfilm von Klaus Maeck und Tanja Schwerdorf setzt der bekanntesten deutschen Hackervereinigung ein stilsicheres, kraftvolles und würdiges Denkmal. Selten hat man ein so eindringliches Porträt über Zeitgeist-Pioniere gesehen, deren Weitblick für die Gegenwart so beeindruckend wie bereichernd ist.",
-      "available": 86,
-      "reserved": 174,
+      "available": 79,
+      "reserved": 176,
       "bookable": true
     },
     {
@@ -2369,23 +2316,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/nomadenkino-berlin/shows/movies",
       "cinemaName": "nomadenkino-berlin",
       "cinemaShortName": "nomadenkino",
-      "id": "nomadenkino-2383801041",
-      "title": "Clubkultur Berlin ",
-      "date": "Do., 22.7.",
-      "timestamp": 1626912000000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/nomadenkino-berlin/show/2383801041?layout=shows",
-      "img": "https://media.kinoheld.de/b1NN6NmN9x412seHeI2J4XbR87E=/400x560/images%2Ffilm%2Fmo%2F366-1621-8078.v3.png",
-      "description": "CLUBKULTUR SCREENING TOUR Informationen\r\n\r\nBerlins CLUBKULTUR taucht ab ins prä-pandemische Berliner Nachtleben.\r\n Berlin galt seit dem Mauerfall weltweit als das Superlativ der Clubszene. Mit der Pandemie ist eine Industrie und Subkultur, samt deren Einnahmen, Einkommen, und nahezu tabufreien Rückzugsorte und schillernden Persönlichkeiten verschwunden. Wird es ein Zurück geben, und wenn ja, welche neue Form der CLUBKULTUR wird entstehen? Welchen Einfluss hat das Sterben der Clubs auf die mentale Gesundheit derjenigen, für die Clubs nicht nur zum Feiern, sondern Arbeitsplatz oder Schutzraum waren, an denen sie Lust und Laster wertfrei ausleben konnten?\r\n\r\nDie Regisseurinnen Leonie Gerner & Andrea Schumacher haben eine kritische, rasante Dokumentation produziert. Eine Dokumentation, in der Club-Betreiber, Musiker, DJs und Psychologen zu Wort kommen, und bisher unveröffentlichtes Footage aus den Clubs gezeigt werden darf.\r\nDas Topic ist hochbrisant, denn der Verlust von Unbeschwertheit und Offenheit, betrifft eine internationale Zielgruppe von New York bis Tel Aviv – die nur aus einem Grund nach Berlin kam: um ‚once in a lifetime‘ all das zu erleben, was woanders tabu ist.\r\n\r\nInside Berlin’s Club Scene: für viele Hoffnung, Sehnsucht und Elexier aus einer verblassenden Erinnerung an Intimität, Sex, Musik, Ekstase und Freude.\r\nWir sind sicher, dass unsere Open Air Kino Tour derzeit die absolut richtige Plattform ist, um Zuschauer zu erreichen, die sich nichts sehnlicher wünschen als in die facettenreiche Berliner Clubszene abtauchen zu können. In die „Roaring 20s“ unseres Jahrhunderts.",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "1621",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/nomadenkino-berlin/shows/movies",
-      "cinemaName": "nomadenkino-berlin",
-      "cinemaShortName": "nomadenkino",
       "id": "nomadenkino-2409468750",
       "title": "Clubkultur Berlin ",
       "date": "Mo., 26.7.",
@@ -2487,24 +2417,6 @@
     }
   ],
   "b-ware-openair-fmp": [
-    {
-      "cinemaId": "1657",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
-      "cinemaName": "b-ware-openair-fmp",
-      "cinemaShortName": "fmp",
-      "id": "fmp-2392542992",
-      "title": "DEMON SLAYER - THE MOVIE: MUGEN TRAIN ",
-      "date": "Do., 22.7.",
-      "timestamp": 1626912000000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2392542992?layout=shows",
-      "img": "https://media.kinoheld.de/2IWv3e4boQobmoZ16tKHHU0vzUk=/400x560/images%2Ffilm%2Fdemon-slayer-kimetsu-no-yaiba-mugen-train-18801.v27.jpg",
-      "description": "Tanjirō und seine Gefährten haben ihr Rehabilitationstraining im Schmetterlingsanwesen abgeschlossen und erreichen den Ort ihrer nächsten Mission. Im »Mugen-Zug« sind über 40 Leute innerhalb kürzester Zeit verschwunden. Tanjirō, Nezuko, Zenitsu und Inosuke schließen sich einem der mächtigsten Schwertkämpfer unter den Dämonenjägern an: der Säule der Flammen Kyōjurō Rengoku. Zusammen wollen sie sich dem Dämon stellen, der im »Mugen-Zug« lauert und begeben sich auf eine Fahrt in die Dunkelheit.",
-      "trailer": "https://www.youtube.com/watch?v=ATJYac_dORw",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
     {
       "cinemaId": "1657",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
@@ -3187,24 +3099,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
       "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
       "cinemaShortName": "pompeji ostkreuz",
-      "id": "pompeji ostkreuz-2400380115",
-      "title": "LITAUISCHES KINO GOES BERLIN: THE LAWYER (subtitled OV English)",
-      "date": "Do., 22.7.",
-      "timestamp": 1626912000000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2400380115?layout=shows",
-      "img": "https://media.kinoheld.de/K--T3vyq1TZ-N3ARowC3wil2Ut8=/400x560/images%2Ffilm%2Fmo%2F2413-38343.v2.jpg",
-      "description": "Der erfolgreiche Unternehmensanwalt Marius hat eigentlich alles, was er sich nur wünschen kann. Aber dennoch ist da eine Leere in seinem Leben, die er durch den Verlust seines Vaters noch stärker zu spüren beginnt. In dem Versuch seine Trauer zu bewältigen, sucht Marius online nach Gesellschaft und lernt über Videochat den charmanten Ali kennen; einen Flüchtling aus Syrien. Zwischen den beiden ganz unterschiedlichen Männern entwickelt sich eine enge Beziehung. Doch die gesellschaftlichen Hürden, die zwischen ihnen stehen, stellen ihre gemeinsame Zeit auf eine harte Probe.",
-      "trailer": "https://youtu.be/bVDSOFs_jOs",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "2153",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-      "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-      "cinemaShortName": "pompeji ostkreuz",
       "id": "pompeji ostkreuz-2399907180",
       "title": "CINEMATIC CONCERT: PLAYTIME (OV)",
       "date": "Fr., 23.7.",
@@ -3764,39 +3658,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/mobile-kino-berlin/shows/movies",
       "cinemaName": "mobile-kino-berlin",
       "cinemaShortName": "mobile kino",
-      "id": "mobile kino-2403895934",
-      "title": "SONNENALLEE (subtitled OV English)",
-      "date": "Do., 22.7.",
-      "timestamp": 1626912000000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2403895934?layout=shows",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "3033",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/mobile-kino-berlin/shows/movies",
-      "cinemaName": "mobile-kino-berlin",
-      "cinemaShortName": "mobile kino",
-      "id": "mobile kino-2400475418",
-      "title": "THE TROUBLE WITH BEING BORN (subtitled OV English)",
-      "date": "Do., 22.7.",
-      "timestamp": 1626912000000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2400475418?layout=shows",
-      "img": "https://media.kinoheld.de/wkU_KHbys0bMLTLcd3GFXv3CDUQ=/400x560/images%2Ffilm%2Fthe-trouble-with-being-born-19295.v3.png",
-      "description": "Elli lebt mit einem Mann zusammen, den sie ihren Vater nennt.  Gemeinsam lassen sie sich durch den Sommer treiben. Tagsüber schwimmen sie im Pool und nachts bringt er sie ins Bett. Sie teilt seine Erinnerungen und alles andere, was er ihr einprogrammiert, damit sie sich daran erinnert. Erinnerungen, die ihm alles, aber ihr nichts bedeuten. Doch eines Nacht macht sie sich auf den Weg in den Wald und folgt einem verklingenden Echo...  Die Geschichte einer Maschine und der Geister, die wir alle in uns tragen.",
-      "trailer": "https://www.youtube.com/watch?v=515710227",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "3033",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/mobile-kino-berlin/shows/movies",
-      "cinemaName": "mobile-kino-berlin",
-      "cinemaShortName": "mobile kino",
       "id": "mobile kino-2400476021",
       "title": "GLÜCK 2021 (subtitled OV English)",
       "date": "Fr., 23.7.",
@@ -3823,8 +3684,8 @@
       "img": "https://media.kinoheld.de/wkU_KHbys0bMLTLcd3GFXv3CDUQ=/400x560/images%2Ffilm%2Fthe-trouble-with-being-born-19295.v3.png",
       "description": "Elli lebt mit einem Mann zusammen, den sie ihren Vater nennt.  Gemeinsam lassen sie sich durch den Sommer treiben. Tagsüber schwimmen sie im Pool und nachts bringt er sie ins Bett. Sie teilt seine Erinnerungen und alles andere, was er ihr einprogrammiert, damit sie sich daran erinnert. Erinnerungen, die ihm alles, aber ihr nichts bedeuten. Doch eines Nacht macht sie sich auf den Weg in den Wald und folgt einem verklingenden Echo...  Die Geschichte einer Maschine und der Geister, die wir alle in uns tragen.",
       "trailer": "https://www.youtube.com/watch?v=515710227",
-      "available": 67,
-      "reserved": 20,
+      "available": 65,
+      "reserved": 22,
       "bookable": true
     },
     {
@@ -3873,7 +3734,7 @@
       "timestamp": 1627257600000,
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2391540390?layout=shows",
-      "available": 74,
+      "available": 76,
       "reserved": 90,
       "bookable": true
     },
@@ -4005,8 +3866,8 @@
       "img": "https://media.kinoheld.de/VJ575z3Wugek2Jcv3PLs2shT8AY=/400x560/images%2Ffilm%2Fmatthias-maxime-17408.v5.jpg",
       "description": "Matthias und Maxime sind schon seit ihrer Kindheit beste Freunde und können sich gar nicht vorstellen, plötzlich getrennte Wege zu gehen. Doch das Erwachsenwerden bedeutet Veränderung und so zieht es Maxime für längere Zeit nach Australien.\r\n\r\nIn den Tagen vor seiner Abreise ziehen die beiden im Kreis ihrer Freunde von einer Party zur nächsten. Als eine ihrer Freundinnen, eine Filmstudentin, für ihren neuesten Kurzfilm noch zwei Schauspieler sucht, werden Matthias und Maxime kurzerhand und nicht ganz gegen ihren Willen engagiert. Der Knackpunkt des Ganzen? Die beiden Freunde müssen sich vor der Kamera küssen und dies bringt plötzlich alles ins Wanken.\r\n\r\nUngeahnte und unterdrückte Gefühle erwachen, die die beiden vor Entscheidungen und Herausforderungen stellen, die unüberwindbar scheinen. Denn während Matthias sich krampfhaft gegen seine Gefühle zu wehren versucht, wächst in Maxime mehr und mehr der Wunsch, Matthias noch näher zu kommen, bevor sie der Ozean endgültig trennt. Gibt es für die beiden doch noch ein Happy End?",
       "trailer": "https://www.youtube.com/watch?v=EVE6XP2HcH8",
-      "available": 93,
-      "reserved": 23,
+      "available": 91,
+      "reserved": 25,
       "bookable": true
     },
     {
@@ -4186,8 +4047,8 @@
       "time": "21:30",
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
-      "available": 298,
-      "reserved": 162,
+      "available": 293,
+      "reserved": 167,
       "bookable": true
     },
     {
@@ -4203,8 +4064,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 128,
-      "reserved": 332,
+      "available": 124,
+      "reserved": 336,
       "bookable": true
     },
     {
@@ -4238,8 +4099,8 @@
       "time": "21:30",
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
-      "available": 419,
-      "reserved": 41,
+      "available": 416,
+      "reserved": 44,
       "bookable": true
     },
     {
@@ -4292,8 +4153,8 @@
       "time": "21:30",
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
-      "available": 411,
-      "reserved": 49,
+      "available": 409,
+      "reserved": 51,
       "bookable": true
     },
     {
@@ -4310,8 +4171,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 158,
-      "reserved": 302,
+      "available": 156,
+      "reserved": 304,
       "bookable": true
     },
     {
@@ -4365,6 +4226,24 @@
       "bookable": true
     },
     {
+      "title": "IVIE WIE IVIE",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60f95c1869f5b54800dcf33f/show_1363917.entity.jpg",
+      "description": "Bei den Vorstellungsgesprächen fällt das Gespräch nämlich systematisch auf ihre ethnische Herkunft. Von ihrem Äußeren her, ihrer dunklen Hautfarbe und den gekrausten schwarzen Haaren, lässt sich eine afrikanische Abstammung vermuten, die sie selbst nicht thematisiert, sich aber darauf reduziert findet. Zu stolz, um sich daraus einen Vorteil zu sichern, zieht sich Ivie immer mehr frustriert zurück. Von ihr wird die Rolle der kulturellen Vermittlerin gefordert, die sie weder spielen will noch kann. Als dann auch noch ihre vermeintliche Halbschwester Naomi (Lorna Ishema) auftaucht, die mit ihr zur Beerdigung ihres gemeinsamen afrikanischen Vaters fahren möchte, den Ivie nie kennengelernt hat, ist die Krise komplett.",
+      "trailer": "https://www.youtube.com/watch?v=8f4wv0Wtkm0",
+      "cinemaId": "54eefd0b683138488b190000",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-291",
+      "url": "https://yorck.de/checkout/step01?showid=291&siteid=1015",
+      "time": "21:15",
+      "date": "Di., 3.8.,",
+      "timestamp": 1628025300000,
+      "available": 350,
+      "reserved": 110,
+      "bookable": true
+    },
+    {
       "title": "Nomadland (OmU)",
       "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/6040ac56614440014e079840/show_Nomadland_Pos_Poster_S.jpg",
       "description": "Fern (Frances McDormand) hat erst ihren Mann, dann ihre Heimatstadt verloren, nachdem der größte Arbeitgeber dort dichtgemacht hat. Sie packt alle Habseligkeiten in einen Transporter und beginnt, als Nomadin der Arbeit hinterherzuziehen. Wer wissen möchte, was großes Kino ist und kann, hat hier Termin!",
@@ -4378,8 +4257,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 158,
-      "reserved": 302,
+      "available": 156,
+      "reserved": 304,
       "bookable": true
     },
     {
@@ -4410,8 +4289,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 128,
-      "reserved": 332,
+      "available": 124,
+      "reserved": 336,
       "bookable": true
     },
     {
@@ -4479,8 +4358,26 @@
       "time": "21:30",
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
-      "available": 298,
-      "reserved": 162,
+      "available": 293,
+      "reserved": 167,
+      "bookable": true
+    },
+    {
+      "title": "IVIE WIE IVIE",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60f95c1869f5b54800dcf33f/show_1363917.entity.jpg",
+      "description": "Bei den Vorstellungsgesprächen fällt das Gespräch nämlich systematisch auf ihre ethnische Herkunft. Von ihrem Äußeren her, ihrer dunklen Hautfarbe und den gekrausten schwarzen Haaren, lässt sich eine afrikanische Abstammung vermuten, die sie selbst nicht thematisiert, sich aber darauf reduziert findet. Zu stolz, um sich daraus einen Vorteil zu sichern, zieht sich Ivie immer mehr frustriert zurück. Von ihr wird die Rolle der kulturellen Vermittlerin gefordert, die sie weder spielen will noch kann. Als dann auch noch ihre vermeintliche Halbschwester Naomi (Lorna Ishema) auftaucht, die mit ihr zur Beerdigung ihres gemeinsamen afrikanischen Vaters fahren möchte, den Ivie nie kennengelernt hat, ist die Krise komplett.",
+      "trailer": "https://www.youtube.com/watch?v=8f4wv0Wtkm0",
+      "cinemaId": "54eefd0b683138488b190000",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-291",
+      "url": "https://yorck.de/checkout/step01?showid=291&siteid=1015",
+      "time": "21:15",
+      "date": "Di., 3.8.,",
+      "timestamp": 1628025300000,
+      "available": 350,
+      "reserved": 110,
       "bookable": true
     },
     {
@@ -4497,8 +4394,8 @@
       "time": "21:30",
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
-      "available": 411,
-      "reserved": 49,
+      "available": 409,
+      "reserved": 51,
       "bookable": true
     },
     {
@@ -4531,8 +4428,8 @@
       "time": "21:30",
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
-      "available": 419,
-      "reserved": 41,
+      "available": 416,
+      "reserved": 44,
       "bookable": true
     },
     {
@@ -4587,8 +4484,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 227,
-      "reserved": 416,
+      "available": 225,
+      "reserved": 418,
       "bookable": true
     },
     {
@@ -4692,8 +4589,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 503,
-      "reserved": 140,
+      "available": 501,
+      "reserved": 142,
       "bookable": true
     },
     {
@@ -4750,6 +4647,24 @@
       "bookable": true
     },
     {
+      "title": "Der Mauretanier",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60d9b8a869f5b509d7551a93/show_Der_Mauretanier.jpg",
+      "description": "Auf Befehl der US-Regierung wurde der Mauretanier Mohamedou Ould Slahi (Tahar Rahim) bereits vor Jahren auf den Militärstützpunkt Guantanamo verschleppt und wird dort immer noch ohne Anklage oder Gerichtsverfahren festgehalten. Durch unzählige Verhöre und brutale Folter längst aller Hoffnung beraubt, ist deshalb nicht nur Slahi überrascht, als sich die US-Anwältin Nancy Hollander (Jodie Foster) und ihre Kollegin Teri Duncan (Shailene Woodley) plötzlich für seinen Fall interessieren. Ohne selbst von seiner Unschuld überzeugt zu sein, bieten sie ihm sogar an seine Verteidigung zu übernehmen. Dabei stellen ihnen die US-Behörden immer wieder zahlreiche Hindernisse in den Weg, allen voran Militärstaatsanwalt Oberstleutnant Stuart Couch (Benedict Cumberbatch), der fest davon überzeugt ist, mit Slahi einen der Drahtzieher hinter den Terroranschlägen vom 11. September 2001 festgesetzt zu haben.",
+      "trailer": "https://www.youtube.com/watch?v=YK6ZulV-nhw&ab_channel=TOBIS",
+      "cinemaId": "60a3b5ed61444058ac0797a2",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-schloss-charlottenburg",
+      "cinemaName": "sommerkino-schloss-charlottenburg",
+      "cinemaShortName": "schloss-charlottenburg",
+      "id": "schloss-charlottenburg-64",
+      "url": "https://yorck.de/checkout/step01?showid=64&siteid=1020",
+      "time": "21:15",
+      "date": "Di., 3.8.,",
+      "timestamp": 1628025300000,
+      "available": 479,
+      "reserved": 20,
+      "bookable": true
+    },
+    {
       "title": "Nomadland (OmU)",
       "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/6040ac56614440014e079840/show_Nomadland_Pos_Poster_S.jpg",
       "description": "Fern (Frances McDormand) hat erst ihren Mann, dann ihre Heimatstadt verloren, nachdem der größte Arbeitgeber dort dichtgemacht hat. Sie packt alle Habseligkeiten in einen Transporter und beginnt, als Nomadin der Arbeit hinterherzuziehen. Wer wissen möchte, was großes Kino ist und kann, hat hier Termin!",
@@ -4781,8 +4696,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 227,
-      "reserved": 416,
+      "available": 225,
+      "reserved": 418,
       "bookable": true
     },
     {
@@ -4818,6 +4733,24 @@
       "timestamp": 1627594200000,
       "available": 207,
       "reserved": 292,
+      "bookable": true
+    },
+    {
+      "title": "Der Mauretanier",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60d9b8a869f5b509d7551a93/show_Der_Mauretanier.jpg",
+      "description": "Auf Befehl der US-Regierung wurde der Mauretanier Mohamedou Ould Slahi (Tahar Rahim) bereits vor Jahren auf den Militärstützpunkt Guantanamo verschleppt und wird dort immer noch ohne Anklage oder Gerichtsverfahren festgehalten. Durch unzählige Verhöre und brutale Folter längst aller Hoffnung beraubt, ist deshalb nicht nur Slahi überrascht, als sich die US-Anwältin Nancy Hollander (Jodie Foster) und ihre Kollegin Teri Duncan (Shailene Woodley) plötzlich für seinen Fall interessieren. Ohne selbst von seiner Unschuld überzeugt zu sein, bieten sie ihm sogar an seine Verteidigung zu übernehmen. Dabei stellen ihnen die US-Behörden immer wieder zahlreiche Hindernisse in den Weg, allen voran Militärstaatsanwalt Oberstleutnant Stuart Couch (Benedict Cumberbatch), der fest davon überzeugt ist, mit Slahi einen der Drahtzieher hinter den Terroranschlägen vom 11. September 2001 festgesetzt zu haben.",
+      "trailer": "https://www.youtube.com/watch?v=YK6ZulV-nhw&ab_channel=TOBIS",
+      "cinemaId": "60a3b5ed61444058ac0797a2",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-schloss-charlottenburg",
+      "cinemaName": "sommerkino-schloss-charlottenburg",
+      "cinemaShortName": "schloss-charlottenburg",
+      "id": "schloss-charlottenburg-64",
+      "url": "https://yorck.de/checkout/step01?showid=64&siteid=1020",
+      "time": "21:15",
+      "date": "Di., 3.8.,",
+      "timestamp": 1628025300000,
+      "available": 479,
+      "reserved": 20,
       "bookable": true
     },
     {
@@ -4886,8 +4819,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 503,
-      "reserved": 140,
+      "available": 501,
+      "reserved": 142,
       "bookable": true
     },
     {
