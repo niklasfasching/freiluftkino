@@ -14,8 +14,8 @@
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
       "time": "21:30",
-      "available": 506,
-      "reserved": 572,
+      "available": 500,
+      "reserved": 578,
       "bookable": true
     },
     {
@@ -50,8 +50,8 @@
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
       "time": "21:30",
-      "available": 832,
-      "reserved": 246,
+      "available": 817,
+      "reserved": 261,
       "bookable": true
     },
     {
@@ -68,8 +68,8 @@
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
       "time": "21:30",
-      "available": 1016,
-      "reserved": 62,
+      "available": 1009,
+      "reserved": 69,
       "bookable": true
     },
     {
@@ -86,8 +86,8 @@
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
       "time": "21:30",
-      "available": 868,
-      "reserved": 210,
+      "available": 862,
+      "reserved": 216,
       "bookable": true
     },
     {
@@ -122,8 +122,8 @@
       "date": "Mi., 28.7.",
       "timestamp": 1627506900000,
       "time": "21:15",
-      "available": 761,
-      "reserved": 317,
+      "available": 758,
+      "reserved": 320,
       "bookable": true
     },
     {
@@ -193,8 +193,8 @@
       "date": "Fr., 30.7.",
       "timestamp": 1627679700000,
       "time": "21:15",
-      "available": 1025,
-      "reserved": 53,
+      "available": 1023,
+      "reserved": 55,
       "bookable": true
     },
     {
@@ -211,8 +211,8 @@
       "date": "Sa., 31.7.",
       "timestamp": 1627765200000,
       "time": "21:00",
-      "available": 1074,
-      "reserved": 4,
+      "available": 1070,
+      "reserved": 8,
       "bookable": true
     },
     {
@@ -232,6 +232,7 @@
       "bookable": true
     },
     {
+      "description": "In einer nicht allzu weit entfernten Zukunft ist der junge Alex (Malcom McDowell) der Anführer einer Jugendgang. Die Gruppe selbst fällt mit Gewalttaten und Vergewaltigungen Wehrloser auf. Nachdem die Jungs wieder mal einen Einbruch nebst Mord begangen haben, wird Alex von einem rebellierenden Gangmitglied niedergeschlagen und der Polizei überlassen. Der ehemalige Anführer kommt ins Gefängnis. Zwei Jahre später muss er als Versuchsobjekt an einer neuartigen, von der Regierung initiierten Aversionstherapie teilnehmen. Die Therapie dauert 14 Tage lang und konfrontiert Alex immer wieder mit Filmszenen stärkster Brutalität. Anschließend kommt er frei, ist nun allerdings nichts weiter als eine willenlose Hülle.\n",
       "cinemaId": "fh_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
       "cinemaName": "Freiluftkino Friedrichshain",
@@ -438,8 +439,8 @@
       "date": "Mo., 16.8.",
       "timestamp": 1629147600000,
       "time": "21:00",
-      "available": 1078,
-      "reserved": 0,
+      "available": 1076,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -472,8 +473,8 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628960400000,
       "time": "17:00",
-      "available": 563,
-      "reserved": 430,
+      "available": 553,
+      "reserved": 440,
       "bookable": true
     },
     {
@@ -542,8 +543,8 @@
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
       "time": "21:30",
-      "available": 488,
-      "reserved": 79,
+      "available": 484,
+      "reserved": 83,
       "bookable": true
     },
     {
@@ -560,8 +561,8 @@
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
       "time": "21:30",
-      "available": 197,
-      "reserved": 370,
+      "available": 196,
+      "reserved": 371,
       "bookable": true
     },
     {
@@ -649,8 +650,8 @@
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
       "time": "21:30",
-      "available": 344,
-      "reserved": 223,
+      "available": 336,
+      "reserved": 231,
       "bookable": true
     },
     {
@@ -673,7 +674,7 @@
     },
     {
       "trailer": "https://www.youtube-nocookie.com/embed/eogpIG53Cis?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
-      "description": "",
+      "description": "Los Angeles 2019. Der desillusionierte Ex-Polizist Deckard macht im Auftrag hoher Industriekreise Jagd auf eine Gruppe künstlicher Androiden, die von Menschen kaum zu unterscheiden sind, den sogenannte \"Replikanten\". Vier von ihnen haben sich abgesetzt und sind nun in den Straßen und Abgründen der Megametropole auf der Suche nach ihrem Schöpfer, um ihre eingebaute Sterblichkeit reparieren zu lassen. \nDeckard richtet seine Zielobjekte einen nach dem anderen hin, beginnt aber seine Arbeit zu hinterfragen, als er sich in eine Replikantin verliebt, die ebenfalls auf seiner Todesliste steht. ",
       "cinemaId": "kb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
       "cinemaName": "Freiluftkino Kreuzberg",
@@ -685,8 +686,8 @@
       "date": "So., 1.8.,",
       "timestamp": 1627851600000,
       "time": "21:00",
-      "available": 567,
-      "reserved": 0,
+      "available": 565,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -737,8 +738,8 @@
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
       "time": "21:30",
-      "available": 0,
-      "reserved": 0,
+      "available": 549,
+      "reserved": 18,
       "bookable": true
     },
     {
@@ -755,7 +756,7 @@
       "date": "Sa., 31.7.",
       "timestamp": 1627765200000,
       "time": "21:00",
-      "available": 0,
+      "available": 567,
       "reserved": 0,
       "bookable": true
     },
@@ -790,8 +791,8 @@
       "date": "Sa., 7.8.,",
       "timestamp": 1628370000000,
       "time": "21:00",
-      "available": 0,
-      "reserved": 0,
+      "available": 561,
+      "reserved": 6,
       "bookable": true
     },
     {
@@ -808,7 +809,7 @@
       "date": "So., 8.8.,",
       "timestamp": 1628456400000,
       "time": "21:00",
-      "available": 0,
+      "available": 567,
       "reserved": 0,
       "bookable": true
     },
@@ -842,7 +843,7 @@
       "date": "Mo., 9.8.,",
       "timestamp": 1628543700000,
       "time": "21:15",
-      "available": 0,
+      "available": 567,
       "reserved": 0,
       "bookable": true
     },
@@ -895,7 +896,7 @@
       "date": "Mi., 11.8.",
       "timestamp": 1628716500000,
       "time": "21:15",
-      "available": 0,
+      "available": 567,
       "reserved": 0,
       "bookable": true
     },
@@ -1000,8 +1001,8 @@
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
       "time": "21:30",
-      "available": 391,
-      "reserved": 182,
+      "available": 386,
+      "reserved": 187,
       "bookable": true
     },
     {
@@ -1018,8 +1019,8 @@
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
       "time": "21:30",
-      "available": 460,
-      "reserved": 113,
+      "available": 453,
+      "reserved": 120,
       "bookable": true
     },
     {
@@ -1387,9 +1388,26 @@
       "id": "rehberge-660",
       "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/660",
       "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=640",
-      "title": "Nomadland",
+      "title": "Nomadland engl.",
       "date": "Do., 12.8.",
       "timestamp": 1628802000000,
+      "time": "21:00",
+      "available": 573,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "description": "\"Der Film ist wie die Entdeckungsreise eines neuen Landes, das man mehr als einmal besuchen möchte.\" New York Times\nNach dem wirtschaftlichen Zusammenbruch der Bergbaustadt Empire in Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren Van und begibt sich, ohne ein Ziel vor Augen, auf eine Reise, die sie als moderne Nomadin in eine Welt führt, die außerhalb des konventionellen Mainstreams existiert.\n\"Nomadland ist eine poetische Charakterstudie über die Vergessenen und Unterdrückten und fängt auf wunderbare Weise eine Lebenswelt ein, die durch die große Rezession von 2008 entstanden ist.\" Rotten Tomatoes\n\n\n",
+      "cinemaId": "rb_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+      "cinemaName": "Freiluftkino Rehberge",
+      "cinemaShortName": "rehberge",
+      "id": "rehberge-662",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/662",
+      "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=642",
+      "title": "Nomadland",
+      "date": "So., 15.8.",
+      "timestamp": 1629061200000,
       "time": "21:00",
       "available": 573,
       "reserved": 0,
@@ -1693,7 +1711,7 @@
       "description": "London in den 1970er Jahren: Die junge Estella (Emma Stone) ist eine talentierte Designerin und träumt von einer großen Karriere als Modeschöpferin. Doch da sie verwaist und mittellos aufgewachsen ist, scheint ihr der Weg in höhere Kreise verschlossen. Mit ihren zwei Kumpels, den Amateur-Dieben Horace (Paul Walter Hauser) und Jasper (Joel Fry), streift sie durch London und begeht hier und da kleine Verbrechen – und wann immer sich die Möglichkeit ergibt, wenigstens kurz in den von ihr ersehnten Luxus der Schönen und Reichen einzutauchen, greift sie schamlos zu. Dann aber bietet sich ihr endlich eine einzigartige Gelegenheit, um der Gosse zu entkommen: Ein aufstrebender Rockstar entdeckt ihr Talent und beauftragt Estella damit, ihm ein einzigartiges Outfit zu entwerfen. Auf der Suche nach dem perfekten Material muss sich Estella, die ein Faible für Hundefell hat, fragen, was sie für ihren Erfolg zu opfern bereit ist.",
       "trailer": "https://www.youtube.com/watch?v=gmRKv7n2If8",
       "available": 65,
-      "reserved": 175,
+      "reserved": 177,
       "bookable": true
     },
     {
@@ -1746,9 +1764,9 @@
       "img": "https://media.kinoheld.de/g_qzyOj4oDoc4Iq0De9_5F5QNUM=/400x560/images%2Ffilm%2Fil-babykino-milla-meets-moses-babyteeth-17584.v14.jpg",
       "description": "Milla (Eliza Scanlen) trifft Moses (Toby Wallace) – vielmehr wird sie bei der ersten Begegnung buchstäblich von ihm umgehauen. Obwohl Moses sich als Herumtreiber und Gelegenheitsdealer entpuppt, nimmt sie ihn mit zu sich nach Hause, um ihn ihren Eltern vorzustellen. Anna (Essie Davis) und Henry (Ben Mendelsohn) – eine ehemalige Konzertpianistin und ein ziemlich entspannter Psychiater – sind alles andere als begeistert von Millas neuem Freund. Doch Millas Lebensfreude und ihre Sehnsucht, die Liebe und die Welt zu entdecken, stellen die Familie auf den Kopf. Als die Eltern merken, dass Moses ihrer kranken Tochter sichtlich guttut, nehmen sie ihn trotz ihrer Bedenken bei sich auf und werden dabei mit ihren eigenen Schwächen konfrontiert.",
       "trailer": "https://www.youtube.com/watch?v=kTvEl_ZjVUc",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 593,
+      "reserved": 20,
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -1796,8 +1814,8 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691237?layout=shows",
       "img": "https://media.kinoheld.de/DVQcxtUYNoxr36fQFLasSd8kr_E=/400x560/images%2Ffilm%2Falles-ist-eins-ausser-der-0-19150.v1.jpg",
       "description": "ALLES IST EINS. AUSSER DER 0. erzählt eine Geschichte digitaler Subversion: vom exklusiven Club zu einer Instanz, die heute bei allen Fragen der Netzpolitik zu Rate gezogen wird. Der Dokumentarfilm von Klaus Maeck und Tanja Schwerdorf setzt der bekanntesten deutschen Hackervereinigung ein stilsicheres, kraftvolles und würdiges Denkmal. Selten hat man ein so eindringliches Porträt über Zeitgeist-Pioniere gesehen, deren Weitblick für die Gegenwart so beeindruckend wie bereichernd ist.",
-      "available": 131,
-      "reserved": 160,
+      "available": 122,
+      "reserved": 163,
       "bookable": true
     },
     {
@@ -1832,9 +1850,9 @@
       "img": "https://media.kinoheld.de/_2AHn0IvUF0ERsDOG6s8e-7Q_e4=/400x560/images%2Ffilm%2F4%2Fwenn-die-gondeln-trauer-tragen-647.v3.jpg",
       "description": "Laura and John, grieved by a terrible loss, meet in Venice, where John is in charge of the restoration of a church, two mysterious sisters, one of whom gives them a message sent from the afterlife.",
       "trailer": "https://youtu.be/MKJ-nXADsVk",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -1850,9 +1868,9 @@
       "img": "https://media.kinoheld.de/Oyw4j5X6-APA71HNlPwWligxMDc=/400x560/images%2Ffilm%2Ffabiana-19170.v1.jpg",
       "description": "Im Berlin des Jahres 1931 lässt sich der Germanist und Werbetexter Jakob Fabian (Tom Schilling) durch das Leben treiben. Während er tagsüber für die Werbung einer Zigarettenfirma zuständig ist, ist er nachts oft mit seinem Studienkollegen Labude (Albrecht Schuch) unterwegs und macht die Unterweltkneipen, Bordelle und Künstlerateliers unsicher. Das sorglose Leben der beiden jungen Männer wird durch eine durch Kommunisten und Nationalsozialisten geteilte Gesellschaft zunehmend bedroht und auch Labude träumt davon, dass die Klassen gegen die Obrigkeit revolutionieren. Fabian kann mit dem politischen Umbruch nicht viel anfangen und kommentiert die Geschehnisse ironisch. Eines Tages trifft er in einem Atelier auf Cornelia (Saskia Rosendahl) und verliebt sich auf den ersten Blick in sie. Fabians naives Leben nimmt eine dramatische Wendung, als er einer Entlassungswelle zum Opfer fällt, Cornelias Karriere als Schauspielerin jedoch an Fahrt aufnimmt...",
       "trailer": "https://www.youtube.com/watch?v=VPIeUqg7F40",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 2,
+      "reserved": 199,
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -1958,9 +1976,9 @@
       "img": "https://media.kinoheld.de/qlejqxHAh_z_5qWR-8IW6FnZPdw=/400x560/images%2Ffilm%2Fnobody-19283.v29.png",
       "description": "Familienvater Hutch (Bob Odenkirk) ist ein Niemand. Der Vorstadt-Familienvater wird von den meisten Leuten einfach ignoriert und zieht auch niemals die Aufmerksamkeit auf sich. Als zwei Verbrecher eines Nachts in sein Haus einsteigen, sieht er sich außerstande, sich oder seine Familie zu verteidigen. Schließlich will er Gewalt um jeden Preis verhindern. Sein Sohn Brady (Gage Munroe) wendet sich daraufhin enttäuscht von seinem Vater ab. Seine Frau Becca (Connie Nielsen) tut es ihm gleich und zieht sich noch mehr zurück. Doch der Einbruch löst bei Hutch etwas aus. Er sieht plötzlich rot und enthüllt eine dunkle Seite, die ihn auf einen Pfad der Gewalt schickt: Einst arbeitete der vermeintliche Versager nämlich als Killer für die Mafia. Und von nun an stellt er mit allen Mitteln sicher, dass seiner Familie nie wieder etwas geschehen und er als Niemand so schnell nicht mehr unterschätzt wird...",
       "trailer": "https://youtu.be/MKJ-nXADsVk",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 662,
+      "reserved": 6,
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -2012,9 +2030,9 @@
       "img": "https://media.kinoheld.de/JUw_7p1h4ID_IYJBYMa0SLMtZU8=/400x560/images%2Ffilm%2Fno-sudden-move-19129.v6.png",
       "description": "Eine Gruppe Krimineller muss herausfinden, was schiefgelaufen ist, als ihr Coup platzt.",
       "trailer": "https://www.youtube.com/watch?v=7GRDLX3a-IE",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 678,
+      "reserved": 2,
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -2078,9 +2096,9 @@
       "img": "https://media.kinoheld.de/FJ3wSVbmMxhboSMd_EWxUhYuFCI=/400x560/images%2Ffilm%2F4%2Fheidi-2223.v2.jpg",
       "description": "Das Waisenkind Heidi soll bei ihrem bärbeißigen Großvater in den Bergen leben. Obwohl dieser Plan zunächst von dem alten Mann als Unfug angesehen wird, schließt er das kleine lebensfrohe Geschöpf schnell in sein Herz und auch Heidi fühlt sich bei ihrem Almöhi mehr als wohl. Sie liebt die Natur mit ihren Pflanzen und Tieren und das Herumtollen mit den Ziegen und Peter. Doch dann wird Heidi wieder abgeholt. Sie soll in der Stadt der gelähmten Klara Gesellschaft leisten. Dort wird sie indes mit jedem Tag unglücklicher... (v.f.)",
       "trailer": "https://www.youtube.com/watch?v=QQA8dczTSEA",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -2114,8 +2132,8 @@
       "img": "https://media.kinoheld.de/DbWHTKT3neGjvULOXqsnipemH2A=/400x560/images%2Ffilm%2Fminari-18286.v2.png",
       "description": "Jacob beschließt, mit seiner koreanisch-amerikanischen Familie von Los Angeles nach Arkansas zu ziehen, um als Farmer sein Glück zu versuchen. Seine Frau Monica und die Kinder David und Anne fühlen sich jedoch fremd in der neuen Heimat, und das fragile Familienleben wird zusätzlich auf die Probe gestellt, als die schlagfertige und liebevolle Großmutter Soonja von Südkorea zu ihnen auf die Farm zieht.",
       "trailer": "https://www.youtube.com/watch?v=TlOqMFPS00g",
-      "available": 649,
-      "reserved": 6,
+      "available": 636,
+      "reserved": 8,
       "bookable": true
     },
     {
@@ -2230,9 +2248,9 @@
       "img": "https://media.kinoheld.de/WZGDOgvrj-rLVijqmTMGNet7Tj0=/400x560/images%2Ffilm%2F4%2Frettet-raffi-2125.v1.jpg",
       "description": "Der achtjährige Sammy ist am Boden zerstört: Erst wird sein Goldhamster Raffi, den er von seinem Vater - kurz bevor der die Familie nach einem Streit verlassen hat, um in Afghanistan zu arbeiten - schwer krank und kurz darauf entführt. Und das direkt nach der Operation, die Raffi das Leben gerettet hat! Weil Sammy um keinen Preis der Welt seinen geliebten Freund aufgeben will, macht sich der Junge auf eine lange, nicht ungefährliche Reise, die ihn zunächst zu dem Gangster Rocky, dann an den Hamburger Hafen und schließlich doch noch glücklich zu Raffi führt. (v.f.)",
       "trailer": "https://www.youtube.com/watch?v=kwtD7SNydFE",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -3888,8 +3906,8 @@
       "timestamp": 1627257600000,
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2391540390?layout=shows",
-      "available": 78,
-      "reserved": 88,
+      "available": 76,
+      "reserved": 90,
       "bookable": true
     },
     {
@@ -4203,8 +4221,8 @@
       "time": "21:30",
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
-      "available": 12,
-      "reserved": 448,
+      "available": 9,
+      "reserved": 451,
       "bookable": true
     },
     {
@@ -4218,8 +4236,8 @@
       "time": "21:30",
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
-      "available": 329,
-      "reserved": 131,
+      "available": 327,
+      "reserved": 133,
       "bookable": true
     },
     {
@@ -4235,8 +4253,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 166,
-      "reserved": 294,
+      "available": 160,
+      "reserved": 300,
       "bookable": true
     },
     {
@@ -4270,8 +4288,8 @@
       "time": "21:30",
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
-      "available": 417,
-      "reserved": 43,
+      "available": 419,
+      "reserved": 41,
       "bookable": true
     },
     {
@@ -4324,8 +4342,8 @@
       "time": "21:30",
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
-      "available": 418,
-      "reserved": 42,
+      "available": 416,
+      "reserved": 44,
       "bookable": true
     },
     {
@@ -4342,8 +4360,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 199,
-      "reserved": 261,
+      "available": 192,
+      "reserved": 268,
       "bookable": true
     },
     {
@@ -4375,8 +4393,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 199,
-      "reserved": 261,
+      "available": 192,
+      "reserved": 268,
       "bookable": true
     },
     {
@@ -4392,8 +4410,8 @@
       "time": "21:30",
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
-      "available": 12,
-      "reserved": 448,
+      "available": 9,
+      "reserved": 451,
       "bookable": true
     },
     {
@@ -4424,8 +4442,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 166,
-      "reserved": 294,
+      "available": 160,
+      "reserved": 300,
       "bookable": true
     },
     {
@@ -4475,8 +4493,8 @@
       "time": "21:30",
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
-      "available": 329,
-      "reserved": 131,
+      "available": 327,
+      "reserved": 133,
       "bookable": true
     },
     {
@@ -4493,8 +4511,8 @@
       "time": "21:30",
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
-      "available": 418,
-      "reserved": 42,
+      "available": 416,
+      "reserved": 44,
       "bookable": true
     },
     {
@@ -4510,8 +4528,8 @@
       "time": "21:30",
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
-      "available": 417,
-      "reserved": 43,
+      "available": 419,
+      "reserved": 41,
       "bookable": true
     },
     {
@@ -4548,8 +4566,8 @@
       "time": "21:30",
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
-      "available": 385,
-      "reserved": 114,
+      "available": 379,
+      "reserved": 120,
       "bookable": true
     },
     {
@@ -4584,8 +4602,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 299,
-      "reserved": 344,
+      "available": 288,
+      "reserved": 355,
       "bookable": true
     },
     {
@@ -4602,8 +4620,8 @@
       "time": "21:30",
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
-      "available": 448,
-      "reserved": 51,
+      "available": 445,
+      "reserved": 54,
       "bookable": true
     },
     {
@@ -4742,8 +4760,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 299,
-      "reserved": 344,
+      "available": 288,
+      "reserved": 355,
       "bookable": true
     },
     {
@@ -4864,8 +4882,8 @@
       "time": "21:30",
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
-      "available": 448,
-      "reserved": 51,
+      "available": 445,
+      "reserved": 54,
       "bookable": true
     },
     {
@@ -4882,8 +4900,8 @@
       "time": "21:30",
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
-      "available": 385,
-      "reserved": 114,
+      "available": 379,
+      "reserved": 120,
       "bookable": true
     }
   ]
