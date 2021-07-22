@@ -14,8 +14,8 @@
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
       "time": "21:30",
-      "available": 593,
-      "reserved": 485,
+      "available": 572,
+      "reserved": 506,
       "bookable": true
     },
     {
@@ -50,8 +50,8 @@
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
       "time": "21:30",
-      "available": 878,
-      "reserved": 200,
+      "available": 876,
+      "reserved": 202,
       "bookable": true
     },
     {
@@ -86,8 +86,8 @@
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
       "time": "21:30",
-      "available": 878,
-      "reserved": 200,
+      "available": 876,
+      "reserved": 202,
       "bookable": true
     },
     {
@@ -122,8 +122,8 @@
       "date": "Mi., 28.7.",
       "timestamp": 1627506900000,
       "time": "21:15",
-      "available": 1000,
-      "reserved": 78,
+      "available": 998,
+      "reserved": 80,
       "bookable": true
     },
     {
@@ -158,8 +158,24 @@
       "date": "So., 1.8.,",
       "timestamp": 1627851600000,
       "time": "21:00",
-      "available": 1074,
-      "reserved": 4,
+      "available": 1072,
+      "reserved": 6,
+      "bookable": true
+    },
+    {
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
+      "cinemaShortName": "fhain",
+      "id": "fhain-725",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/725",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=710",
+      "title": "Der Mauretanier",
+      "date": "Di., 3.8.,",
+      "timestamp": 1628024400000,
+      "time": "21:00",
+      "available": 1078,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -199,6 +215,54 @@
       "bookable": true
     },
     {
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
+      "cinemaShortName": "fhain",
+      "id": "fhain-726",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/726",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=711",
+      "title": "Metropolis Stummfilm mit Life Klavierbegleitung",
+      "date": "Mi., 4.8.,",
+      "timestamp": 1628110800000,
+      "time": "21:00",
+      "available": 1078,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
+      "cinemaShortName": "fhain",
+      "id": "fhain-724",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/724",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=709",
+      "title": "Uhrwerk Orange",
+      "date": "Mo., 2.8.,",
+      "timestamp": 1627938000000,
+      "time": "21:00",
+      "available": 1078,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
+      "cinemaShortName": "fhain",
+      "id": "fhain-728",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/728",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=713",
+      "title": "2001: Odyssee im Weltraum",
+      "date": "Mo., 9.8.,",
+      "timestamp": 1628542800000,
+      "time": "21:00",
+      "available": 1078,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
       "trailer": "https://www.youtube-nocookie.com/embed/c_Z31xU_eD8?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
       "description": "Eben noch war Ben gefeierter Fußballheld und beliebtester Schüler, nun ist er Außenseiter und Ersatzspieler. Und das alles nur, weil unter seinem Heimatdorf riesige Braunkohlevorkommen entdeckt und alle Bewohner in die nächstgrößere Stadt umgesiedelt wurden. Und hier läuft nichts mehr, wie es Ben gewohnt ist: In der Schule wird der 12-Jährige gemobbt und auf dem Fußballplatz wird der vormals beste Stürmer auf die Ersatzbank verbannt. Zu allem Überfluss gibt es noch einen weiteren Neuankömmling an der Schule: Tariq (11), Flüchtling aus Syrien, der ihm nicht nur in der Klasse die Show stehlt, sondern auch noch auf dem Fußballplatz punktet. Wird Ben im Abseits bleiben – oder hat sein Konkurrent doch mehr mit ihm gemeinsam als er denkt?",
       "cinemaId": "fh_freiluftkino",
@@ -234,6 +298,54 @@
       "bookable": true
     },
     {
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
+      "cinemaShortName": "fhain",
+      "id": "fhain-729",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/729",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=714",
+      "title": "In the Mood for Love",
+      "date": "Di., 10.8.",
+      "timestamp": 1628629200000,
+      "time": "21:00",
+      "available": 1078,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
+      "cinemaShortName": "fhain",
+      "id": "fhain-727",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/727",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=712",
+      "title": "Rosas Hochzeit",
+      "date": "So., 8.8.,",
+      "timestamp": 1628456400000,
+      "time": "21:00",
+      "available": 1078,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
+      "cinemaShortName": "fhain",
+      "id": "fhain-730",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/730",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=715",
+      "title": "Shane",
+      "date": "Mi., 11.8.",
+      "timestamp": 1628715600000,
+      "time": "21:00",
+      "available": 1078,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
       "description": "Auf der Berlinale gab’s den Darstellerpreis für Hauptdarsteller Elio Germano und bei der Verleihung des David di Donatello (den Oscars des italienischen Kinos) unglaubliche sieben Auszeichnungen für dieses tolle  Biopic über den Emilianischen Maler Antonio Ligabue. Zum Film: Toni, Sohn einer italienischen Emigrantin. wir aus der Schweiz zurück nach Italien geschickt. Als er den Bildhauer Marino Mazzacurati trifft, nähert er sich der Malerei an. Für ihn ist dies der Moment, in dem er spürt, dass die Kunst der einzige Weg ist, seine Identität zu finden. Die einzige Möglichkeit, von der Welt erkannt zu werden und von den Menschen geliebt zu werden. Der \"Tudesc\", wie in die Leute nennen, ist ein Einzelgänger, rachitisch, hässlich; oft wird er ausgelacht und gedemütigt. Bald jedoch wird er zu dem wundervollen Maler, der seine fantastische Welt mit Tigern, Gorillas und Geparden an den Ufern des Po, erschafft.",
       "cinemaId": "fh_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
@@ -251,6 +363,22 @@
       "bookable": true
     },
     {
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
+      "cinemaShortName": "fhain",
+      "id": "fhain-731",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/731",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=716",
+      "title": "Call me by your Name",
+      "date": "Do., 12.8.",
+      "timestamp": 1628802000000,
+      "time": "21:00",
+      "available": 1078,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
       "description": "Als Anja Caspary die Diagnose Brustkrebs erhält, ist der Schock zunächst riesig. Statt sich mit der Frage nach dem Warum aufzuhalten oder die Krankheit zu verschweigen, nimmt sie ihr Schicksal selbstbewusst in die Hand. Sie spricht frei und ohne Tabus über ihr Leben mit dem Krebs und trifft unkonventionelle Entscheidungen – auch gegen den Rat der Ärzte, aber immer mit der 100-prozentigen Unterstützung von Hagen, ihrer großen Liebe seit mehr als 20 Jahren. Dann erkrankt Hagen schwer. In ihrem bewegenden Buch schreibt Anja Caspary darüber, dass ein Leben auch angesichts existentieller Verluste möglich ist. Und darüber, dass eine Liebe auch den Tod überdauern kann.",
       "cinemaId": "fh_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
@@ -263,8 +391,56 @@
       "date": "So., 15.8.",
       "timestamp": 1629043200000,
       "time": "16:00",
-      "available": 936,
-      "reserved": 142,
+      "available": 932,
+      "reserved": 146,
+      "bookable": true
+    },
+    {
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
+      "cinemaShortName": "fhain",
+      "id": "fhain-734",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/734",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=719",
+      "title": "Minari - Wo wir Wurzeln schlagen",
+      "date": "So., 15.8.",
+      "timestamp": 1629061200000,
+      "time": "21:00",
+      "available": 1078,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
+      "cinemaShortName": "fhain",
+      "id": "fhain-735",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/735",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=720",
+      "title": "Niemals Selten Manchmal Immer",
+      "date": "Mo., 16.8.",
+      "timestamp": 1629147600000,
+      "time": "21:00",
+      "available": 1078,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "fh_freiluftkino",
+      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+      "cinemaName": "Freiluftkino Friedrichshain",
+      "cinemaShortName": "fhain",
+      "id": "fhain-733",
+      "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/733",
+      "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=718",
+      "title": "Nomadland",
+      "date": "Sa., 14.8.",
+      "timestamp": 1628974800000,
+      "time": "21:00",
+      "available": 1078,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -280,8 +456,8 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628960400000,
       "time": "17:00",
-      "available": 594,
-      "reserved": 399,
+      "available": 589,
+      "reserved": 404,
       "bookable": true
     },
     {
@@ -368,8 +544,8 @@
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
       "time": "21:30",
-      "available": 221,
-      "reserved": 346,
+      "available": 212,
+      "reserved": 355,
       "bookable": true
     },
     {
@@ -404,8 +580,8 @@
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
       "time": "21:30",
-      "available": 426,
-      "reserved": 141,
+      "available": 422,
+      "reserved": 145,
       "bookable": true
     },
     {
@@ -457,8 +633,8 @@
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
       "time": "21:30",
-      "available": 388,
-      "reserved": 179,
+      "available": 380,
+      "reserved": 187,
       "bookable": true
     },
     {
@@ -523,7 +699,7 @@
       "date": "Do., 29.7.",
       "timestamp": 1627592400000,
       "time": "21:00",
-      "available": 567,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -541,8 +717,8 @@
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
       "time": "21:30",
-      "available": 549,
-      "reserved": 18,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -559,7 +735,7 @@
       "date": "Sa., 31.7.",
       "timestamp": 1627765200000,
       "time": "21:00",
-      "available": 567,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -577,8 +753,8 @@
       "date": "Fr., 30.7.",
       "timestamp": 1627678800000,
       "time": "21:00",
-      "available": 520,
-      "reserved": 47,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -594,8 +770,8 @@
       "date": "Sa., 7.8.,",
       "timestamp": 1628370000000,
       "time": "21:00",
-      "available": 563,
-      "reserved": 4,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -610,7 +786,7 @@
       "date": "So., 8.8.,",
       "timestamp": 1628456400000,
       "time": "21:00",
-      "available": 567,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -626,7 +802,7 @@
       "date": "Di., 10.8.",
       "timestamp": 1628630100000,
       "time": "21:15",
-      "available": 567,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -660,8 +836,8 @@
       "date": "Do., 5.8.,",
       "timestamp": 1628193600000,
       "time": "20:00",
-      "available": 552,
-      "reserved": 15,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -676,7 +852,7 @@
       "date": "Fr., 6.8.,",
       "timestamp": 1628283600000,
       "time": "21:00",
-      "available": 567,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -756,7 +932,7 @@
       "date": "Do., 12.8.",
       "timestamp": 1628802900000,
       "time": "21:15",
-      "available": 567,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -792,8 +968,8 @@
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
       "time": "21:30",
-      "available": 405,
-      "reserved": 168,
+      "available": 398,
+      "reserved": 175,
       "bookable": true
     },
     {
@@ -810,8 +986,8 @@
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
       "time": "21:30",
-      "available": 472,
-      "reserved": 101,
+      "available": 468,
+      "reserved": 105,
       "bookable": true
     },
     {
@@ -846,8 +1022,8 @@
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
       "time": "21:30",
-      "available": 494,
-      "reserved": 79,
+      "available": 492,
+      "reserved": 81,
       "bookable": true
     },
     {
@@ -1363,9 +1539,9 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691233?layout=shows",
       "img": "https://media.kinoheld.de/U0hvJqfHfa8se2HP8BkoKfarsDY=/400x560/images%2Ffilm%2Fich-bin-dein-mensch-18809.v2.png",
       "description": "Die Wissenschaftlerin Alma lässt sich auf die Teilnahme an einer Studie ein, um Gelder für ihre Forschungen zu bekommen. Bei dem Experiment soll Alma einige Wochen mit einem humanoiden Roboter verbringen, der sich an ihre Wünsche und Bedürfnisse anpasst, um der perfekte Partner für Alma zu werden. Nach ein paar Anlaufschwierigkeiten finden Alma und der Roboter schließlich zueinander. Doch Alma fragt sich, welchen Sinn es hat, sich in einen Roboter zu verlieben.",
-      "available": 0,
-      "reserved": 197,
-      "bookable": false
+      "available": 1,
+      "reserved": 196,
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -2421,8 +2597,8 @@
       "img": "https://media.kinoheld.de/1vIIQBhZZqw-OjT2EuvAAJi3lSc=/400x560/images%2Ffilm%2Fparasite-14289.v362.jpg",
       "description": "Familie Kim ist ganz unten angekommen: Vater, Mutter, Sohn und Tochter hausen in einem grünlich-schummrigen Keller, kriechen für kostenloses W-LAN in jeden Winkel und sind sich für keinen Aushilfsjob zu schade. Erst als der Jüngste eine Anstellung als Nachhilfelehrer in der todschicken Villa der Familie Park antritt, steigen die Kims ein ins Karussell der Klassenkämpfe. Mit findigen Tricksereien, bemerkenswertem Talent und großem Mannschaftsgeist gelingt es ihnen, die bisherigen Bediensteten der Familie Park nach und nach loszuwerden. Bald schon sind die Kims unverzichtbar für ihre neuen Herrschaften. Doch dann löst ein unerwarteter Zwischenfall eine Kette von Ereignissen aus, die so unvorhersehbar wie unfassbar sind. (Quelle: Verleih)",
       "trailer": "https://youtu.be/MKJ-nXADsVk",
-      "available": 55,
-      "reserved": 10,
+      "available": 51,
+      "reserved": 12,
       "bookable": true
     },
     {
@@ -3563,8 +3739,8 @@
       "timestamp": 1626912000000,
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2403895934?layout=shows",
-      "available": 43,
-      "reserved": 123,
+      "available": 37,
+      "reserved": 125,
       "bookable": true
     },
     {
@@ -3666,8 +3842,8 @@
       "timestamp": 1627257600000,
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2391540390?layout=shows",
-      "available": 88,
-      "reserved": 78,
+      "available": 83,
+      "reserved": 83,
       "bookable": true
     },
     {
@@ -3996,8 +4172,8 @@
       "time": "21:30",
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
-      "available": 335,
-      "reserved": 125,
+      "available": 337,
+      "reserved": 123,
       "bookable": true
     },
     {
@@ -4013,8 +4189,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 178,
-      "reserved": 282,
+      "available": 173,
+      "reserved": 287,
       "bookable": true
     },
     {
@@ -4031,8 +4207,8 @@
       "time": "21:30",
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
-      "available": 420,
-      "reserved": 40,
+      "available": 414,
+      "reserved": 46,
       "bookable": true
     },
     {
@@ -4066,8 +4242,8 @@
       "time": "21:30",
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
-      "available": 435,
-      "reserved": 25,
+      "available": 434,
+      "reserved": 26,
       "bookable": true
     },
     {
@@ -4102,8 +4278,8 @@
       "time": "21:30",
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
-      "available": 421,
-      "reserved": 39,
+      "available": 419,
+      "reserved": 41,
       "bookable": true
     },
     {
@@ -4120,8 +4296,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 219,
-      "reserved": 241,
+      "available": 209,
+      "reserved": 251,
       "bookable": true
     },
     {
@@ -4153,8 +4329,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 219,
-      "reserved": 241,
+      "available": 209,
+      "reserved": 251,
       "bookable": true
     },
     {
@@ -4202,8 +4378,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 178,
-      "reserved": 282,
+      "available": 173,
+      "reserved": 287,
       "bookable": true
     },
     {
@@ -4238,8 +4414,8 @@
       "time": "21:30",
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
-      "available": 420,
-      "reserved": 40,
+      "available": 414,
+      "reserved": 46,
       "bookable": true
     },
     {
@@ -4253,8 +4429,8 @@
       "time": "21:30",
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
-      "available": 335,
-      "reserved": 125,
+      "available": 337,
+      "reserved": 123,
       "bookable": true
     },
     {
@@ -4271,8 +4447,8 @@
       "time": "21:30",
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
-      "available": 421,
-      "reserved": 39,
+      "available": 419,
+      "reserved": 41,
       "bookable": true
     },
     {
@@ -4306,8 +4482,8 @@
       "time": "21:30",
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
-      "available": 435,
-      "reserved": 25,
+      "available": 434,
+      "reserved": 26,
       "bookable": true
     }
   ],
@@ -4326,8 +4502,8 @@
       "time": "21:30",
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
-      "available": 399,
-      "reserved": 100,
+      "available": 395,
+      "reserved": 104,
       "bookable": true
     },
     {
@@ -4362,8 +4538,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 316,
-      "reserved": 327,
+      "available": 305,
+      "reserved": 338,
       "bookable": true
     },
     {
@@ -4380,8 +4556,8 @@
       "time": "21:30",
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
-      "available": 454,
-      "reserved": 45,
+      "available": 446,
+      "reserved": 53,
       "bookable": true
     },
     {
@@ -4397,8 +4573,8 @@
       "time": "21:30",
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
-      "available": 443,
-      "reserved": 56,
+      "available": 442,
+      "reserved": 57,
       "bookable": true
     },
     {
@@ -4467,8 +4643,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 523,
-      "reserved": 120,
+      "available": 518,
+      "reserved": 125,
       "bookable": true
     },
     {
@@ -4520,8 +4696,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 316,
-      "reserved": 327,
+      "available": 305,
+      "reserved": 338,
       "bookable": true
     },
     {
@@ -4572,8 +4748,8 @@
       "time": "21:30",
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
-      "available": 443,
-      "reserved": 56,
+      "available": 442,
+      "reserved": 57,
       "bookable": true
     },
     {
@@ -4589,8 +4765,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 523,
-      "reserved": 120,
+      "available": 518,
+      "reserved": 125,
       "bookable": true
     },
     {
@@ -4642,8 +4818,8 @@
       "time": "21:30",
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
-      "available": 454,
-      "reserved": 45,
+      "available": 446,
+      "reserved": 53,
       "bookable": true
     },
     {
@@ -4660,8 +4836,8 @@
       "time": "21:30",
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
-      "available": 399,
-      "reserved": 100,
+      "available": 395,
+      "reserved": 104,
       "bookable": true
     }
   ]
