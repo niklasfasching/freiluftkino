@@ -14,8 +14,8 @@
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
       "time": "21:30",
-      "available": 552,
-      "reserved": 526,
+      "available": 540,
+      "reserved": 538,
       "bookable": true
     },
     {
@@ -50,8 +50,8 @@
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
       "time": "21:30",
-      "available": 874,
-      "reserved": 204,
+      "available": 868,
+      "reserved": 210,
       "bookable": true
     },
     {
@@ -86,8 +86,8 @@
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
       "time": "21:30",
-      "available": 876,
-      "reserved": 202,
+      "available": 872,
+      "reserved": 206,
       "bookable": true
     },
     {
@@ -122,8 +122,8 @@
       "date": "Mi., 28.7.",
       "timestamp": 1627506900000,
       "time": "21:15",
-      "available": 763,
-      "reserved": 315,
+      "available": 761,
+      "reserved": 317,
       "bookable": true
     },
     {
@@ -456,8 +456,8 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628960400000,
       "time": "17:00",
-      "available": 589,
-      "reserved": 404,
+      "available": 585,
+      "reserved": 408,
       "bookable": true
     },
     {
@@ -506,8 +506,8 @@
       "date": "So., 12.9.",
       "timestamp": 1631458800000,
       "time": "15:00",
-      "available": 1042,
-      "reserved": 36,
+      "available": 1040,
+      "reserved": 38,
       "bookable": true
     }
   ],
@@ -544,8 +544,8 @@
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
       "time": "21:30",
-      "available": 210,
-      "reserved": 357,
+      "available": 208,
+      "reserved": 359,
       "bookable": true
     },
     {
@@ -562,8 +562,8 @@
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
       "time": "21:30",
-      "available": 479,
-      "reserved": 88,
+      "available": 475,
+      "reserved": 92,
       "bookable": true
     },
     {
@@ -580,8 +580,8 @@
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
       "time": "21:30",
-      "available": 421,
-      "reserved": 146,
+      "available": 418,
+      "reserved": 149,
       "bookable": true
     },
     {
@@ -598,8 +598,8 @@
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
       "time": "21:30",
-      "available": 496,
-      "reserved": 71,
+      "available": 494,
+      "reserved": 73,
       "bookable": true
     },
     {
@@ -633,8 +633,8 @@
       "date": "Do., 22.7.",
       "timestamp": 1626989400000,
       "time": "21:30",
-      "available": 370,
-      "reserved": 197,
+      "available": 364,
+      "reserved": 203,
       "bookable": true
     },
     {
@@ -739,8 +739,8 @@
       "date": "Sa., 31.7.",
       "timestamp": 1627765200000,
       "time": "21:00",
-      "available": 565,
-      "reserved": 2,
+      "available": 567,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -814,7 +814,7 @@
       "bookable": true
     },
     {
-      "description": "Bitte beachten Sie die aktuell für unsere Kinos gültige Testpflicht. Das Kino öffnet eine Stunde vor Vorstellungsbeginn. Wir freuen uns auf einen tollen Abend mit Ihnen.",
+      "description": "",
       "cinemaId": "kb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
       "cinemaName": "Freiluftkino Kreuzberg",
@@ -867,6 +867,7 @@
       "bookable": true
     },
     {
+      "description": "",
       "cinemaId": "kb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
       "cinemaName": "Freiluftkino Kreuzberg",
@@ -935,7 +936,7 @@
       "bookable": true
     },
     {
-      "description": "Siegerfilm der Herzen UND der Oscars 2021: Bester Film, Beste Regie für Chloé Zhao (The Rider) & Beste Hauptdarstellerin für die immerwährend tolle Frances McDormand.\nNach dem wirtschaftlichen Zusammenbruch der Bergbaustadt Empire in Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren Van und begibt sich, ohne ein Ziel vor Augen, auf eine Reise, die sie als moderne Nomadin in eine Welt führt, die außerhalb des konventionellen Mainstreams existiert.\n\"Nomadland ist eine poetische Charakterstudie über die Vergessenen und Unterdrückten und fängt auf wunderbare Weise eine Lebenswelt ein, die durch die große Rezession von 2008 entstanden ist.\" Rotten Tomatoes\n\"Der Film ist wie die Entdeckungsreise eines neuen Landes, das man mehr als einmal besuchen möchte.\" New York Times\n\n",
+      "description": "\"Der Film ist wie die Entdeckungsreise eines neuen Landes, das man mehr als einmal besuchen möchte.\" New York Times\nNach dem wirtschaftlichen Zusammenbruch der Bergbaustadt Empire in Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren Van und begibt sich, ohne ein Ziel vor Augen, auf eine Reise, die sie als moderne Nomadin in eine Welt führt, die außerhalb des konventionellen Mainstreams existiert.\n\"Nomadland ist eine poetische Charakterstudie über die Vergessenen und Unterdrückten und fängt auf wunderbare Weise eine Lebenswelt ein, die durch die große Rezession von 2008 entstanden ist.\" Rotten Tomatoes\n\n\n",
       "cinemaId": "kb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
       "cinemaName": "Freiluftkino Kreuzberg",
@@ -1001,8 +1002,8 @@
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
       "time": "21:30",
-      "available": 466,
-      "reserved": 107,
+      "available": 463,
+      "reserved": 110,
       "bookable": true
     },
     {
@@ -1482,8 +1483,8 @@
       "img": "https://media.kinoheld.de/-y_sbAX9YhZW2ZSZPGeh4uL5TaE=/400x560/images%2Ffilm%2Fmo%2F1863-37081.v2.jpeg",
       "description": "Ein Pärchen genießt seine Ferien an der Côte d'Azur, als ein gemeinsamer Freund der beiden mit seiner Tochter auftaucht. Ein dramatischer Konflikt bahnt sich an. Eine zum Klassiker avancierte Vierecksgeschichte um Liebe, Eifersucht und Hass. Mithilfe der hervorragenden Darsteller*innen wird eine subtile erotische Spannung aufgebaut, die unter der oberflächlichen Schicht von Müßiggang und Langeweile brodelt.\r\nLa Piscine fasziniert vor allem durch das großartige Ensemble, das den Zuschauenden in die Vierecksgeschichte hineinzuziehen versteht. Regisseur Jacques Deray gelingt es dabei, die Handlung glaubhaft und doch beinahe als Kammerspiel zu inszenieren, wodurch er eine Atmosphäre der schicksalhaften Ausweglosigkeit schafft. Im Zusammenspiel von Cast, Drehbuch und Regie entfaltet sich ohne Effekthascherei ein Drama um Liebe, Eifersucht und Hass. Für den Zuschauer erschließt sich ein Mikrokosmos der Reichen und Schönen, abgeschieden vom Rest der Welt, in lähmender Agonie verharrend, ohne Perspektive, ohne Ziel, einzig darauf aus, den Genuss mit immer neuen \"Kicks\" zu steigern. Wirken Setting und Personenkonstellationen auch wie eine Versuchsanordnung, besteht eine weitere Stärke des Films jedoch darin, seine Charaktere nicht auf symbolische Funktionen zu reduzieren, sondern sie einzigartig bleiben zu lassen, ohne dabei auf seine Aussagen zur \"Conditio humanae\" zu verzichten.",
       "trailer": "https://youtu.be/MKJ-nXADsVk",
-      "available": 49,
-      "reserved": 34,
+      "available": 48,
+      "reserved": 37,
       "bookable": true
     },
     {
@@ -1661,8 +1662,8 @@
       "img": "https://media.kinoheld.de/jHvvh1Xl1T39hdM2gpymZbS4gGo=/400x560/images%2Ffilm%2Fcruella-18919.v22.jpg",
       "description": "London in den 1970er Jahren: Die junge Estella (Emma Stone) ist eine talentierte Designerin und träumt von einer großen Karriere als Modeschöpferin. Doch da sie verwaist und mittellos aufgewachsen ist, scheint ihr der Weg in höhere Kreise verschlossen. Mit ihren zwei Kumpels, den Amateur-Dieben Horace (Paul Walter Hauser) und Jasper (Joel Fry), streift sie durch London und begeht hier und da kleine Verbrechen – und wann immer sich die Möglichkeit ergibt, wenigstens kurz in den von ihr ersehnten Luxus der Schönen und Reichen einzutauchen, greift sie schamlos zu. Dann aber bietet sich ihr endlich eine einzigartige Gelegenheit, um der Gosse zu entkommen: Ein aufstrebender Rockstar entdeckt ihr Talent und beauftragt Estella damit, ihm ein einzigartiges Outfit zu entwerfen. Auf der Suche nach dem perfekten Material muss sich Estella, die ein Faible für Hundefell hat, fragen, was sie für ihren Erfolg zu opfern bereit ist.",
       "trailer": "https://www.youtube.com/watch?v=gmRKv7n2If8",
-      "available": 97,
-      "reserved": 165,
+      "available": 81,
+      "reserved": 171,
       "bookable": true
     },
     {
@@ -1873,9 +1874,9 @@
       "img": "https://media.kinoheld.de/-dECS7O8QGHfULltY8QrE2JoGXk=/400x560/images%2Ffilm%2Fjoker-14395.v15.jpg",
       "description": "Gotham City im Jahr 1981: Der mental instabile Arthur Fleck führt wahrlich nicht das Leben, von dem man träumt: Vollgepumpt mit Medikamenten geht er seiner Arbeit als kostümierter Werbeschildträger nach und wird nicht selten das Ziel von Spott und Attacken. Abends zieht es ihn in sein heruntergekommenes Apartment, wo er sich um seine kranke Mutter kümmern muss. Gemeinsam hoffen sie auf ein besseres Leben, das Arthur als Stand-Up-Komiker realisieren will. Als plötzlich die Förderung für seine psychologische Betreuung gestrichen wird, nimmt das Unheil seinen Lauf. Die Schusswaffe eines Kollegen, die Suche nach seinem echten Vater und plötzlicher Ruhm sorgen dafür, dass der einstmals harmlose Exzentriker die ganze Stadt in Angst und Schrecken versetzt...",
       "trailer": "https://youtu.be/MKJ-nXADsVk",
-      "available": 589,
-      "reserved": 18,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1891,9 +1892,9 @@
       "img": "https://media.kinoheld.de/gmbXUECjFkZFUAaGrtctv0b5EeQ=/400x560/images%2Ffilm%2Fder-kleine-rabe-socke-suche-nach-dem-verlorenen-schatz-13641.v187.jpg",
       "description": "Der kleine Rabe Socke ist von Frau Dachs zum Dachbodenaufräumen verdonnert worden, nachdem ihm mal wieder ein Malheur passiert ist und er ganz aus Versehen das alljährliche Waldfest ruiniert hat. Während er noch über die Ungerechtigkeit mault, macht er eine Riesenentdeckung: In einem geheimen Zimmer findet er eine waschechte Schatzkarte! Gezeichnet hat sie Opa Dachs, bevor er spurlos verschwunden ist. Um den verschollenen Schatz rankt sich eine geheimnisvolle Legende: Wer es schafft, bis zu ihm vorzudringen und alle Gefahren und Rätsel auf dem Weg besteht, der wird König des Waldes! Und König wollte Socke immer schon sein. Dann wären die anderen auch nicht mehr sauer auf ihn, glaubt er. Zusammen mit seinem besten Freund Eddi-Bär bricht Socke auf zum großen Schatzsucher-Abenteuer. Dabei heftet sich der Kleine Dachs, der endlich einmal beweisen will, dass viel mehr in ihm steckt als die anderen ahnen, an ihre Fersen. Auch Bibermädchen Fritzi gesellt sich zu dem Entdecker-Trupp, der die Freunde über Schluchten und Hängebrücken hoch hinauf auf den majestätischen Nebelberg und schließlich tief hinein in eine geheimnisvolle Höhle führt. Ihnen dicht auf den Fersen sind die Biberjungs Henry und Arthur, die ebenfalls Wind von der Sache bekommen haben und kurzerhand den Kleinen Dachs entführen, um den Freunden die Schatzkarte und damit den Schatz abzujagen. Socke muss sich entscheiden: Soll er seinen Freund retten oder den Schatz als erster finden und König werden? Während er noch grübelt, machen die Freunde eine aufregende Entdeckung, die das Leben der Waldbewohner gehörig durcheinander wirbelt... (Quelle: Verleih)",
       "trailer": "https://www.youtube.com/watch?v=_H9DJgT4c2w",
-      "available": -1,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1927,7 +1928,7 @@
       "img": "https://media.kinoheld.de/qlejqxHAh_z_5qWR-8IW6FnZPdw=/400x560/images%2Ffilm%2Fnobody-19283.v29.png",
       "description": "Familienvater Hutch (Bob Odenkirk) ist ein Niemand. Der Vorstadt-Familienvater wird von den meisten Leuten einfach ignoriert und zieht auch niemals die Aufmerksamkeit auf sich. Als zwei Verbrecher eines Nachts in sein Haus einsteigen, sieht er sich außerstande, sich oder seine Familie zu verteidigen. Schließlich will er Gewalt um jeden Preis verhindern. Sein Sohn Brady (Gage Munroe) wendet sich daraufhin enttäuscht von seinem Vater ab. Seine Frau Becca (Connie Nielsen) tut es ihm gleich und zieht sich noch mehr zurück. Doch der Einbruch löst bei Hutch etwas aus. Er sieht plötzlich rot und enthüllt eine dunkle Seite, die ihn auf einen Pfad der Gewalt schickt: Einst arbeitete der vermeintliche Versager nämlich als Killer für die Mafia. Und von nun an stellt er mit allen Mitteln sicher, dass seiner Familie nie wieder etwas geschehen und er als Niemand so schnell nicht mehr unterschätzt wird...",
       "trailer": "https://youtu.be/MKJ-nXADsVk",
-      "available": 662,
+      "available": 678,
       "reserved": 2,
       "bookable": true
     },
@@ -2011,9 +2012,9 @@
       "timestamp": 1627689600000,
       "time": "18:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691288?layout=shows",
-      "available": -1,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -2131,9 +2132,9 @@
       "img": "https://media.kinoheld.de/nGB5qJCKE-9-pQTApf34z8UlpHg=/400x560/images%2Ffilm%2Fjudas-and-the-black-messiah-19127.v11.jpg",
       "description": "In den späten 1960er Jahren wird der 17-jährige Kleinkriminelle William O'Neal in Chicago verhaftet, nachdem er versucht hat, ein Auto zu entführen, während er sich als Bundesbeamter ausgab. Er wird von FBI-Spezialagent Roy Mitchell angesprochen, der anbietet, O'Neals Anklage fallen zu lassen, wenn er undercover für das FBI arbeitet. O'Neal wird beauftragt, die Illinois-Sektion der Black Panther Party und ihren Anführer Fred Hampton zu infiltrieren. O'Neal beginnt, sich Hampton anzunähern, der daran arbeitet, Allianzen mit rivalisierenden Gangs und Milizgruppen zu bilden, während er die Gemeinde durch das „Free Breakfast for Children“-Programm der Black Panther unterstützt. Als der Parteivorsitzende Fred Hampton aufsteigt und sich unterwegs in die Mitrevolutionärin Deborah Johnson verliebt, entbrennt ein Kampf um O'Neals Seele.",
       "trailer": "https://www.youtube.com/watch?v=yNE70wMLTCc",
-      "available": 692,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -2163,9 +2164,9 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/692204?layout=shows",
       "img": "https://media.kinoheld.de/WOYXoaFEo4NGVumRBgTlTxaxaXA=/400x560/images%2Ffilm%2Fgaza-mon-amour-19201.v7.jpg",
       "description": "Die kleine, feine Tragikomödie erzählt  von einem 60-jährigen palästinensischen Fischer, der unglücklich verliebt ist – und auf eine ominöse Statue stößt, die sein Leben gehörig auf den Kopf stellt. Ein liebenswerter, charmanter Film, der zum Träumen einlädt und an die Macht der (späten) Liebe glaubt.",
-      "available": -1,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -2232,9 +2233,9 @@
       "img": "https://media.kinoheld.de/6Qu2TJ0HehGLKgwa4dBGTKappvI=/400x560/images%2Ffilm%2Ftenet-16731.v2.png",
       "description": "Ein Agent wird rekrutiert, um einen besonderen Auftrag auszuführen: Er soll den 3. Weltkrieg verhindern. Diesmal ist jedoch keine nukleare Bedrohung der Grund, sondern es muss eine Person gestoppt werden, welche die Fähigkeit besitzt, die Zeit zu manipulieren.",
       "trailer": "https://www.youtube.com/watch?v=jfEQ0BdeQJQ",
-      "available": 692,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -3754,8 +3755,8 @@
       "timestamp": 1626912000000,
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2403895934?layout=shows",
-      "available": 35,
-      "reserved": 129,
+      "available": 30,
+      "reserved": 136,
       "bookable": true
     },
     {
@@ -3772,8 +3773,8 @@
       "img": "https://media.kinoheld.de/wkU_KHbys0bMLTLcd3GFXv3CDUQ=/400x560/images%2Ffilm%2Fthe-trouble-with-being-born-19295.v3.png",
       "description": "Elli lebt mit einem Mann zusammen, den sie ihren Vater nennt.  Gemeinsam lassen sie sich durch den Sommer treiben. Tagsüber schwimmen sie im Pool und nachts bringt er sie ins Bett. Sie teilt seine Erinnerungen und alles andere, was er ihr einprogrammiert, damit sie sich daran erinnert. Erinnerungen, die ihm alles, aber ihr nichts bedeuten. Doch eines Nacht macht sie sich auf den Weg in den Wald und folgt einem verklingenden Echo...  Die Geschichte einer Maschine und der Geister, die wir alle in uns tragen.",
       "trailer": "https://www.youtube.com/watch?v=515710227",
-      "available": 58,
-      "reserved": 17,
+      "available": 57,
+      "reserved": 18,
       "bookable": true
     },
     {
@@ -3790,7 +3791,7 @@
       "img": "https://media.kinoheld.de/qVnneLWJ-1BHSsKCYvIBqUWe14Y=/400x560/images%2Ffilm%2Fglueck-19174.v1.jpg",
       "description": "Zwei Sexarbeiterinnen verlieben sich ineinander – und das in einer Welt, in der der weibliche Körper ein teures Gut ist. Trotz ihres trostlosen Lebens erleben die erfahrene Sascha (Katharina Behrens) und ihre neue, aus Italien stammende Kollegin Maria (Adam Hoya) gemeinsam Momente des Glücks und drohen doch an den eigenen Abgründen zu scheitern...",
       "available": 70,
-      "reserved": 3,
+      "reserved": 5,
       "bookable": true
     },
     {
@@ -3825,7 +3826,7 @@
       "img": "https://media.kinoheld.de/kYStEhPmGfaEZFCEJgfHXxwlOxU=/400x560/images%2Ffilm%2Fleon-der-profi-wa-2019-14361.v11.jpg",
       "description": "Léon verdient sein Geld als Auftragskiller der Italo-Mafia in den Straßen von New York. Er lebt zurückgezogen und pflegt außer zu seinem Boss Tony einzig zu seiner Topfpflanze ein freundschaftliches Verhältnis. Als die Familie seiner Nachbarstochter Mathilda von DEA-Polizisten brutal getötet wird, flüchtet sie zu Léon. Um sich an den Mördern ihres kleinen Bruders zu rächen, lässt sich Mathilda das grausame Handwerk eines Profi-Killers von Léon beibringen. (Quelle: Verleih)",
       "trailer": "https://youtu.be/MKJ-nXADsVk",
-      "available": 61,
+      "available": 58,
       "reserved": 14,
       "bookable": true
     },
@@ -4104,7 +4105,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2409279332?layout=shows",
       "img": "https://media.kinoheld.de/pbZIcD3PeX2qM3LN9LdMEBk-X4g=/400x560/images%2Ffilm%2Fthe-peanut-butter-falcon-15481.v73.jpg",
       "description": "Der 22-jährige Zak (Zack Gottsagen) will raus! Raus aus dem Altenheim, in das er wegen seines Down-Syndroms gesteckt wurde. Aber seine Betreuerin Eleanor (Dakota Johnson) weiß die Fluchtpläne ihres Schützlings immer wieder zu durchkreuzen. Angetrieben von seinem großen Traum, Profi-Wrestler zu werden, gelingt Zak eines Nachts doch noch der Ausbruch. Nur mit einer Unterhose bekleidet, stürzt er sich ins größte Abenteuer seines Lebens. Dabei trifft Zack auf den zwielichtigen Tyler (Shia LaBoeuf), der selbst auf der Flucht vor rachsüchtigen Fischern ist und eigentlich keine Klette am Bein gebrauchen kann. Doch schon bald werden aus den beiden ungleichen Männern echte Freunde, die ihre Reise gemeinsam auf einem selbstgebauten Floss fortsetzen wollen. Unverhofft bekommen sie Gesellschaft von Eleanor, die Zak gefolgt ist und ihn unbedingt ins Heim zurückbringen will. Und auch die Fischer sind dem ungewöhnlichen Gespann schon dicht auf den Fersen... (Quelle: Verleih)",
-      "trailer": "https://www.youtube.com/watch?v=psIK5qaJPEA",
+      "trailer": "https://www.youtube.com/watch?v=UNl9RqjLCwc",
       "available": 101,
       "reserved": 0,
       "bookable": true
@@ -4153,7 +4154,7 @@
       "timestamp": 1632182400000,
       "time": "20:00",
       "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2409280110?layout=shows",
-      "available": 101,
+      "available": 97,
       "reserved": 0,
       "bookable": true
     }
@@ -4187,8 +4188,8 @@
       "time": "21:30",
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
-      "available": 334,
-      "reserved": 126,
+      "available": 331,
+      "reserved": 129,
       "bookable": true
     },
     {
@@ -4204,8 +4205,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 173,
-      "reserved": 287,
+      "available": 171,
+      "reserved": 289,
       "bookable": true
     },
     {
@@ -4293,8 +4294,8 @@
       "time": "21:30",
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
-      "available": 419,
-      "reserved": 41,
+      "available": 418,
+      "reserved": 42,
       "bookable": true
     },
     {
@@ -4393,8 +4394,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 173,
-      "reserved": 287,
+      "available": 171,
+      "reserved": 289,
       "bookable": true
     },
     {
@@ -4444,8 +4445,8 @@
       "time": "21:30",
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
-      "available": 334,
-      "reserved": 126,
+      "available": 331,
+      "reserved": 129,
       "bookable": true
     },
     {
@@ -4462,8 +4463,8 @@
       "time": "21:30",
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
-      "available": 419,
-      "reserved": 41,
+      "available": 418,
+      "reserved": 42,
       "bookable": true
     },
     {
@@ -4553,8 +4554,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 303,
-      "reserved": 340,
+      "available": 299,
+      "reserved": 344,
       "bookable": true
     },
     {
@@ -4588,8 +4589,8 @@
       "time": "21:30",
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
-      "available": 442,
-      "reserved": 57,
+      "available": 441,
+      "reserved": 58,
       "bookable": true
     },
     {
@@ -4658,8 +4659,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 516,
-      "reserved": 127,
+      "available": 518,
+      "reserved": 125,
       "bookable": true
     },
     {
@@ -4711,8 +4712,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 303,
-      "reserved": 340,
+      "available": 299,
+      "reserved": 344,
       "bookable": true
     },
     {
@@ -4763,8 +4764,8 @@
       "time": "21:30",
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
-      "available": 442,
-      "reserved": 57,
+      "available": 441,
+      "reserved": 58,
       "bookable": true
     },
     {
@@ -4780,8 +4781,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 516,
-      "reserved": 127,
+      "available": 518,
+      "reserved": 125,
       "bookable": true
     },
     {
