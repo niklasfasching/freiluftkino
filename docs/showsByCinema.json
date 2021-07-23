@@ -32,8 +32,8 @@
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
       "time": "21:30",
-      "available": 883,
-      "reserved": 195,
+      "available": 881,
+      "reserved": 197,
       "bookable": true
     },
     {
@@ -50,8 +50,8 @@
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
       "time": "21:30",
-      "available": 525,
-      "reserved": 553,
+      "available": 491,
+      "reserved": 587,
       "bookable": true
     },
     {
@@ -86,8 +86,8 @@
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
       "time": "21:30",
-      "available": 760,
-      "reserved": 318,
+      "available": 746,
+      "reserved": 332,
       "bookable": true
     },
     {
@@ -104,8 +104,8 @@
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
       "time": "21:30",
-      "available": 963,
-      "reserved": 115,
+      "available": 959,
+      "reserved": 119,
       "bookable": true
     },
     {
@@ -158,8 +158,8 @@
       "date": "Do., 29.7.",
       "timestamp": 1627592400000,
       "time": "21:00",
-      "available": 648,
-      "reserved": 430,
+      "available": 644,
+      "reserved": 434,
       "bookable": true
     },
     {
@@ -176,8 +176,8 @@
       "date": "So., 1.8.,",
       "timestamp": 1627851600000,
       "time": "21:00",
-      "available": 1070,
-      "reserved": 8,
+      "available": 1068,
+      "reserved": 10,
       "bookable": true
     },
     {
@@ -211,8 +211,8 @@
       "date": "Fr., 30.7.",
       "timestamp": 1627679700000,
       "time": "21:15",
-      "available": 1009,
-      "reserved": 69,
+      "available": 1005,
+      "reserved": 73,
       "bookable": true
     },
     {
@@ -264,8 +264,8 @@
       "date": "Mo., 9.8.,",
       "timestamp": 1628542800000,
       "time": "21:00",
-      "available": 1078,
-      "reserved": 0,
+      "available": 1076,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -388,8 +388,8 @@
       "date": "Do., 12.8.",
       "timestamp": 1628802000000,
       "time": "21:00",
-      "available": 1074,
-      "reserved": 4,
+      "available": 1072,
+      "reserved": 6,
       "bookable": true
     },
     {
@@ -458,8 +458,8 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628974800000,
       "time": "21:00",
-      "available": 1073,
-      "reserved": 5,
+      "available": 1070,
+      "reserved": 8,
       "bookable": true
     },
     {
@@ -561,8 +561,8 @@
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
       "time": "21:30",
-      "available": 330,
-      "reserved": 328,
+      "available": 323,
+      "reserved": 355,
       "bookable": true
     },
     {
@@ -579,8 +579,8 @@
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
       "time": "21:30",
-      "available": 537,
-      "reserved": 121,
+      "available": 554,
+      "reserved": 124,
       "bookable": true
     },
     {
@@ -597,8 +597,8 @@
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
       "time": "21:30",
-      "available": 572,
-      "reserved": 86,
+      "available": 590,
+      "reserved": 88,
       "bookable": true
     },
     {
@@ -615,7 +615,7 @@
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
       "time": "21:30",
-      "available": 598,
+      "available": 618,
       "reserved": 60,
       "bookable": true
     },
@@ -633,7 +633,7 @@
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
       "time": "21:30",
-      "available": 554,
+      "available": 574,
       "reserved": 104,
       "bookable": true
     },
@@ -651,7 +651,7 @@
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
       "time": "21:30",
-      "available": 640,
+      "available": 660,
       "reserved": 18,
       "bookable": true
     },
@@ -669,7 +669,7 @@
       "date": "Fr., 30.7.",
       "timestamp": 1627678800000,
       "time": "21:00",
-      "available": 603,
+      "available": 623,
       "reserved": 55,
       "bookable": true
     },
@@ -687,8 +687,8 @@
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
       "time": "21:30",
-      "available": 146,
-      "reserved": 512,
+      "available": 144,
+      "reserved": 534,
       "bookable": true
     },
     {
@@ -705,7 +705,7 @@
       "date": "Do., 5.8.,",
       "timestamp": 1628193600000,
       "time": "20:00",
-      "available": 641,
+      "available": 661,
       "reserved": 17,
       "bookable": true
     },
@@ -722,7 +722,7 @@
       "date": "Sa., 7.8.,",
       "timestamp": 1628370000000,
       "time": "21:00",
-      "available": 647,
+      "available": 667,
       "reserved": 11,
       "bookable": true
     },
@@ -740,7 +740,7 @@
       "date": "Sa., 31.7.",
       "timestamp": 1627765200000,
       "time": "21:00",
-      "available": 652,
+      "available": 672,
       "reserved": 6,
       "bookable": true
     },
@@ -758,7 +758,7 @@
       "date": "So., 1.8.,",
       "timestamp": 1627851600000,
       "time": "21:00",
-      "available": 656,
+      "available": 676,
       "reserved": 2,
       "bookable": true
     },
@@ -774,7 +774,7 @@
       "date": "Do., 29.7.",
       "timestamp": 1627592400000,
       "time": "21:00",
-      "available": 658,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -792,7 +792,7 @@
       "date": "Di., 3.8.,",
       "timestamp": 1628024400000,
       "time": "21:00",
-      "available": 649,
+      "available": 669,
       "reserved": 9,
       "bookable": true
     },
@@ -810,8 +810,8 @@
       "date": "Mi., 4.8.,",
       "timestamp": 1628110800000,
       "time": "21:00",
-      "available": 654,
-      "reserved": 4,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -828,8 +828,8 @@
       "date": "Fr., 6.8.,",
       "timestamp": 1628283600000,
       "time": "21:00",
-      "available": 657,
-      "reserved": 1,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -846,7 +846,7 @@
       "date": "So., 8.8.,",
       "timestamp": 1628456400000,
       "time": "21:00",
-      "available": 658,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -864,7 +864,7 @@
       "date": "Mo., 9.8.,",
       "timestamp": 1628543700000,
       "time": "21:15",
-      "available": 658,
+      "available": 678,
       "reserved": 0,
       "bookable": true
     },
@@ -881,7 +881,7 @@
       "date": "Di., 10.8.",
       "timestamp": 1628630100000,
       "time": "21:15",
-      "available": 658,
+      "available": 678,
       "reserved": 0,
       "bookable": true
     },
@@ -898,7 +898,7 @@
       "date": "Mi., 11.8.",
       "timestamp": 1628716500000,
       "time": "21:15",
-      "available": 658,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -915,8 +915,8 @@
       "date": "Do., 12.8.",
       "timestamp": 1628802900000,
       "time": "21:15",
-      "available": 642,
-      "reserved": 16,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -933,8 +933,8 @@
       "date": "Fr., 13.8.",
       "timestamp": 1628889300000,
       "time": "21:15",
-      "available": 653,
-      "reserved": 5,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -950,7 +950,7 @@
       "date": "So., 15.8.",
       "timestamp": 1629061200000,
       "time": "21:00",
-      "available": 658,
+      "available": 678,
       "reserved": 0,
       "bookable": true
     },
@@ -967,8 +967,8 @@
       "date": "Mo., 16.8.",
       "timestamp": 1629148500000,
       "time": "21:15",
-      "available": 656,
-      "reserved": 2,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     }
   ],
@@ -987,8 +987,8 @@
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
       "time": "21:30",
-      "available": 340,
-      "reserved": 233,
+      "available": 332,
+      "reserved": 241,
       "bookable": true
     },
     {
@@ -1023,8 +1023,8 @@
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
       "time": "21:30",
-      "available": 449,
-      "reserved": 124,
+      "available": 444,
+      "reserved": 129,
       "bookable": true
     },
     {
@@ -1059,8 +1059,8 @@
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
       "time": "21:30",
-      "available": 538,
-      "reserved": 35,
+      "available": 536,
+      "reserved": 37,
       "bookable": true
     },
     {
@@ -1095,8 +1095,8 @@
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
       "time": "21:30",
-      "available": 541,
-      "reserved": 32,
+      "available": 539,
+      "reserved": 34,
       "bookable": true
     },
     {
@@ -1113,8 +1113,8 @@
       "date": "Di., 3.8.,",
       "timestamp": 1628024400000,
       "time": "21:00",
-      "available": 573,
-      "reserved": 0,
+      "available": 569,
+      "reserved": 4,
       "bookable": true
     },
     {
@@ -1361,8 +1361,8 @@
       "date": "Do., 12.8.",
       "timestamp": 1628802000000,
       "time": "21:00",
-      "available": 553,
-      "reserved": 20,
+      "available": 549,
+      "reserved": 24,
       "bookable": true
     },
     {
@@ -1500,8 +1500,8 @@
       "img": "https://media.kinoheld.de/-y_sbAX9YhZW2ZSZPGeh4uL5TaE=/400x560/images%2Ffilm%2Fmo%2F1863-37081.v2.jpeg",
       "description": "Ein Pärchen genießt seine Ferien an der Côte d'Azur, als ein gemeinsamer Freund der beiden mit seiner Tochter auftaucht. Ein dramatischer Konflikt bahnt sich an. Eine zum Klassiker avancierte Vierecksgeschichte um Liebe, Eifersucht und Hass. Mithilfe der hervorragenden Darsteller*innen wird eine subtile erotische Spannung aufgebaut, die unter der oberflächlichen Schicht von Müßiggang und Langeweile brodelt.\r\nLa Piscine fasziniert vor allem durch das großartige Ensemble, das den Zuschauenden in die Vierecksgeschichte hineinzuziehen versteht. Regisseur Jacques Deray gelingt es dabei, die Handlung glaubhaft und doch beinahe als Kammerspiel zu inszenieren, wodurch er eine Atmosphäre der schicksalhaften Ausweglosigkeit schafft. Im Zusammenspiel von Cast, Drehbuch und Regie entfaltet sich ohne Effekthascherei ein Drama um Liebe, Eifersucht und Hass. Für den Zuschauer erschließt sich ein Mikrokosmos der Reichen und Schönen, abgeschieden vom Rest der Welt, in lähmender Agonie verharrend, ohne Perspektive, ohne Ziel, einzig darauf aus, den Genuss mit immer neuen \"Kicks\" zu steigern. Wirken Setting und Personenkonstellationen auch wie eine Versuchsanordnung, besteht eine weitere Stärke des Films jedoch darin, seine Charaktere nicht auf symbolische Funktionen zu reduzieren, sondern sie einzigartig bleiben zu lassen, ohne dabei auf seine Aussagen zur \"Conditio humanae\" zu verzichten.",
       "trailer": "https://youtu.be/MKJ-nXADsVk",
-      "available": 12,
-      "reserved": 72,
+      "available": 6,
+      "reserved": 78,
       "bookable": true
     },
     {
@@ -1946,8 +1946,8 @@
       "img": "https://media.kinoheld.de/JUw_7p1h4ID_IYJBYMa0SLMtZU8=/400x560/images%2Ffilm%2Fno-sudden-move-19129.v6.png",
       "description": "Eine Gruppe Krimineller muss herausfinden, was schiefgelaufen ist, als ihr Coup platzt.",
       "trailer": "https://www.youtube.com/watch?v=7GRDLX3a-IE",
-      "available": 668,
-      "reserved": 4,
+      "available": 663,
+      "reserved": 5,
       "bookable": true
     },
     {
@@ -3668,8 +3668,8 @@
       "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2400476021?layout=shows",
       "img": "https://media.kinoheld.de/qVnneLWJ-1BHSsKCYvIBqUWe14Y=/400x560/images%2Ffilm%2Fglueck-19174.v1.jpg",
       "description": "Zwei Sexarbeiterinnen verlieben sich ineinander – und das in einer Welt, in der der weibliche Körper ein teures Gut ist. Trotz ihres trostlosen Lebens erleben die erfahrene Sascha (Katharina Behrens) und ihre neue, aus Italien stammende Kollegin Maria (Adam Hoya) gemeinsam Momente des Glücks und drohen doch an den eigenen Abgründen zu scheitern...",
-      "available": 56,
-      "reserved": 19,
+      "available": 52,
+      "reserved": 23,
       "bookable": true
     },
     {
@@ -3686,8 +3686,8 @@
       "img": "https://media.kinoheld.de/wkU_KHbys0bMLTLcd3GFXv3CDUQ=/400x560/images%2Ffilm%2Fthe-trouble-with-being-born-19295.v3.png",
       "description": "Elli lebt mit einem Mann zusammen, den sie ihren Vater nennt.  Gemeinsam lassen sie sich durch den Sommer treiben. Tagsüber schwimmen sie im Pool und nachts bringt er sie ins Bett. Sie teilt seine Erinnerungen und alles andere, was er ihr einprogrammiert, damit sie sich daran erinnert. Erinnerungen, die ihm alles, aber ihr nichts bedeuten. Doch eines Nacht macht sie sich auf den Weg in den Wald und folgt einem verklingenden Echo...  Die Geschichte einer Maschine und der Geister, die wir alle in uns tragen.",
       "trailer": "https://www.youtube.com/watch?v=515710227",
-      "available": 55,
-      "reserved": 32,
+      "available": 54,
+      "reserved": 33,
       "bookable": true
     },
     {
@@ -3719,8 +3719,8 @@
       "timestamp": 1627257600000,
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2391540390?layout=shows",
-      "available": 65,
-      "reserved": 101,
+      "available": 63,
+      "reserved": 103,
       "bookable": true
     },
     {
@@ -3851,8 +3851,8 @@
       "img": "https://media.kinoheld.de/VJ575z3Wugek2Jcv3PLs2shT8AY=/400x560/images%2Ffilm%2Fmatthias-maxime-17408.v5.jpg",
       "description": "Matthias und Maxime sind schon seit ihrer Kindheit beste Freunde und können sich gar nicht vorstellen, plötzlich getrennte Wege zu gehen. Doch das Erwachsenwerden bedeutet Veränderung und so zieht es Maxime für längere Zeit nach Australien.\r\n\r\nIn den Tagen vor seiner Abreise ziehen die beiden im Kreis ihrer Freunde von einer Party zur nächsten. Als eine ihrer Freundinnen, eine Filmstudentin, für ihren neuesten Kurzfilm noch zwei Schauspieler sucht, werden Matthias und Maxime kurzerhand und nicht ganz gegen ihren Willen engagiert. Der Knackpunkt des Ganzen? Die beiden Freunde müssen sich vor der Kamera küssen und dies bringt plötzlich alles ins Wanken.\r\n\r\nUngeahnte und unterdrückte Gefühle erwachen, die die beiden vor Entscheidungen und Herausforderungen stellen, die unüberwindbar scheinen. Denn während Matthias sich krampfhaft gegen seine Gefühle zu wehren versucht, wächst in Maxime mehr und mehr der Wunsch, Matthias noch näher zu kommen, bevor sie der Ozean endgültig trennt. Gibt es für die beiden doch noch ein Happy End?",
       "trailer": "https://www.youtube.com/watch?v=EVE6XP2HcH8",
-      "available": 91,
-      "reserved": 25,
+      "available": 89,
+      "reserved": 27,
       "bookable": true
     },
     {
@@ -3949,8 +3949,8 @@
       "img": "https://media.kinoheld.de/SW9yYj5664XaZfh1rUXniSIBO8I=/400x560/images%2Ffilm%2Fnew-order-die-neue-weltordnung-19296.v1.jpg",
       "description": "Eine verschwenderische Hochzeit der Oberschicht gerät während eines unerwarteten Aufstands des Klassenkampfes aus den Fugen, der in einen gewaltsamen Staatsstreich mündet. Aus der Sicht der sympathischen jungen Braut und der Diener, die für und gegen ihre reiche Familie arbeiten, zeichnet der Film den Zusammenbruch eines politischen Systems nach, während in seinem Gefolge ein noch erschreckenderer Ersatz entsteht.",
       "trailer": "https://www.youtube.com/watch?v=4-XZCNRbOlw",
-      "available": 108,
-      "reserved": 0,
+      "available": 106,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -4032,8 +4032,8 @@
       "time": "21:30",
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
-      "available": 229,
-      "reserved": 231,
+      "available": 222,
+      "reserved": 238,
       "bookable": true
     },
     {
@@ -4049,8 +4049,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 37,
-      "reserved": 423,
+      "available": 46,
+      "reserved": 414,
       "bookable": true
     },
     {
@@ -4067,8 +4067,8 @@
       "time": "21:30",
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
-      "available": 397,
-      "reserved": 63,
+      "available": 396,
+      "reserved": 64,
       "bookable": true
     },
     {
@@ -4120,8 +4120,8 @@
       "time": "21:30",
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
-      "available": 376,
-      "reserved": 84,
+      "available": 374,
+      "reserved": 86,
       "bookable": true
     },
     {
@@ -4138,8 +4138,8 @@
       "time": "21:30",
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
-      "available": 406,
-      "reserved": 54,
+      "available": 404,
+      "reserved": 56,
       "bookable": true
     },
     {
@@ -4156,8 +4156,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 94,
-      "reserved": 366,
+      "available": 90,
+      "reserved": 370,
       "bookable": true
     },
     {
@@ -4206,8 +4206,8 @@
       "time": "21:15",
       "date": "Mo., 2.8.,",
       "timestamp": 1627938900000,
-      "available": 434,
-      "reserved": 26,
+      "available": 432,
+      "reserved": 28,
       "bookable": true
     },
     {
@@ -4242,8 +4242,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 94,
-      "reserved": 366,
+      "available": 90,
+      "reserved": 370,
       "bookable": true
     },
     {
@@ -4274,8 +4274,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 37,
-      "reserved": 423,
+      "available": 46,
+      "reserved": 414,
       "bookable": true
     },
     {
@@ -4310,8 +4310,8 @@
       "time": "21:30",
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
-      "available": 376,
-      "reserved": 84,
+      "available": 374,
+      "reserved": 86,
       "bookable": true
     },
     {
@@ -4328,8 +4328,8 @@
       "time": "21:30",
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
-      "available": 397,
-      "reserved": 63,
+      "available": 396,
+      "reserved": 64,
       "bookable": true
     },
     {
@@ -4343,8 +4343,8 @@
       "time": "21:30",
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
-      "available": 229,
-      "reserved": 231,
+      "available": 222,
+      "reserved": 238,
       "bookable": true
     },
     {
@@ -4379,8 +4379,8 @@
       "time": "21:30",
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
-      "available": 406,
-      "reserved": 54,
+      "available": 404,
+      "reserved": 56,
       "bookable": true
     },
     {
@@ -4396,8 +4396,8 @@
       "time": "21:15",
       "date": "Mo., 2.8.,",
       "timestamp": 1627938900000,
-      "available": 434,
-      "reserved": 26,
+      "available": 432,
+      "reserved": 28,
       "bookable": true
     },
     {
@@ -4469,8 +4469,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 121,
-      "reserved": 522,
+      "available": 106,
+      "reserved": 537,
       "bookable": true
     },
     {
@@ -4487,8 +4487,8 @@
       "time": "21:30",
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
-      "available": 427,
-      "reserved": 72,
+      "available": 424,
+      "reserved": 75,
       "bookable": true
     },
     {
@@ -4504,8 +4504,8 @@
       "time": "21:30",
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
-      "available": 427,
-      "reserved": 72,
+      "available": 426,
+      "reserved": 73,
       "bookable": true
     },
     {
@@ -4574,8 +4574,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 490,
-      "reserved": 153,
+      "available": 485,
+      "reserved": 158,
       "bookable": true
     },
     {
@@ -4591,8 +4591,8 @@
       "time": "21:30",
       "date": "Sa., 31.7.",
       "timestamp": 1627767000000,
-      "available": 559,
-      "reserved": 84,
+      "available": 557,
+      "reserved": 86,
       "bookable": true
     },
     {
@@ -4681,8 +4681,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 121,
-      "reserved": 522,
+      "available": 106,
+      "reserved": 537,
       "bookable": true
     },
     {
@@ -4769,8 +4769,8 @@
       "time": "21:30",
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
-      "available": 427,
-      "reserved": 72,
+      "available": 426,
+      "reserved": 73,
       "bookable": true
     },
     {
@@ -4804,8 +4804,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 490,
-      "reserved": 153,
+      "available": 485,
+      "reserved": 158,
       "bookable": true
     },
     {
@@ -4839,8 +4839,8 @@
       "time": "21:30",
       "date": "Sa., 31.7.",
       "timestamp": 1627767000000,
-      "available": 559,
-      "reserved": 84,
+      "available": 557,
+      "reserved": 86,
       "bookable": true
     },
     {
@@ -4857,8 +4857,8 @@
       "time": "21:30",
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
-      "available": 427,
-      "reserved": 72,
+      "available": 424,
+      "reserved": 75,
       "bookable": true
     }
   ]
