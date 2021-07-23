@@ -2261,9 +2261,9 @@
     "timestamp": 1630368000000,
     "time": "17:00",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691781?layout=shows",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-691782": {
     "cinemaId": "580",
