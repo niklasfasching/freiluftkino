@@ -31,8 +31,8 @@
     "date": "So., 25.7.",
     "timestamp": 1627248600000,
     "time": "21:30",
-    "available": 885,
-    "reserved": 193,
+    "available": 883,
+    "reserved": 195,
     "bookable": true
   },
   "fhain-711": {
@@ -49,8 +49,8 @@
     "date": "Fr., 23.7.",
     "timestamp": 1627075800000,
     "time": "21:30",
-    "available": 649,
-    "reserved": 429,
+    "available": 635,
+    "reserved": 443,
     "bookable": true
   },
   "fhain-715": {
@@ -67,8 +67,8 @@
     "date": "Di., 27.7.",
     "timestamp": 1627421400000,
     "time": "21:30",
-    "available": 1003,
-    "reserved": 75,
+    "available": 1000,
+    "reserved": 78,
     "bookable": true
   },
   "fhain-712": {
@@ -85,8 +85,8 @@
     "date": "Sa., 24.7.",
     "timestamp": 1627162200000,
     "time": "21:30",
-    "available": 802,
-    "reserved": 276,
+    "available": 793,
+    "reserved": 285,
     "bookable": true
   },
   "fhain-714": {
@@ -103,8 +103,8 @@
     "date": "Mo., 26.7.",
     "timestamp": 1627335000000,
     "time": "21:30",
-    "available": 975,
-    "reserved": 103,
+    "available": 973,
+    "reserved": 105,
     "bookable": true
   },
   "fhain-716": {
@@ -157,8 +157,8 @@
     "date": "Do., 29.7.",
     "timestamp": 1627592400000,
     "time": "21:00",
-    "available": 653,
-    "reserved": 425,
+    "available": 652,
+    "reserved": 426,
     "bookable": true
   },
   "fhain-723": {
@@ -404,8 +404,8 @@
     "date": "So., 15.8.",
     "timestamp": 1629043200000,
     "time": "16:00",
-    "available": 924,
-    "reserved": 154,
+    "available": 922,
+    "reserved": 156,
     "bookable": true
   },
   "fhain-734": {
@@ -558,8 +558,8 @@
     "date": "Fr., 23.7.",
     "timestamp": 1627075800000,
     "time": "21:30",
-    "available": 404,
-    "reserved": 254,
+    "available": 391,
+    "reserved": 267,
     "bookable": true
   },
   "xberg-638": {
@@ -576,8 +576,8 @@
     "date": "So., 25.7.",
     "timestamp": 1627248600000,
     "time": "21:30",
-    "available": 547,
-    "reserved": 111,
+    "available": 545,
+    "reserved": 113,
     "bookable": true
   },
   "xberg-639": {
@@ -594,8 +594,8 @@
     "date": "Mo., 26.7.",
     "timestamp": 1627335000000,
     "time": "21:30",
-    "available": 575,
-    "reserved": 83,
+    "available": 574,
+    "reserved": 84,
     "bookable": true
   },
   "xberg-640": {
@@ -630,8 +630,8 @@
     "date": "Mi., 28.7.",
     "timestamp": 1627507800000,
     "time": "21:30",
-    "available": 562,
-    "reserved": 96,
+    "available": 556,
+    "reserved": 102,
     "bookable": true
   },
   "xberg-642": {
@@ -684,8 +684,8 @@
     "date": "Sa., 24.7.",
     "timestamp": 1627162200000,
     "time": "21:30",
-    "available": 193,
-    "reserved": 465,
+    "available": 183,
+    "reserved": 475,
     "bookable": true
   },
   "xberg-649": {
@@ -982,8 +982,8 @@
     "date": "Fr., 23.7.",
     "timestamp": 1627075800000,
     "time": "21:30",
-    "available": 381,
-    "reserved": 192,
+    "available": 379,
+    "reserved": 194,
     "bookable": true
   },
   "rehberge-636": {
@@ -1018,8 +1018,8 @@
     "date": "Sa., 24.7.",
     "timestamp": 1627162200000,
     "time": "21:30",
-    "available": 475,
-    "reserved": 98,
+    "available": 473,
+    "reserved": 100,
     "bookable": true
   },
   "rehberge-637": {
@@ -1036,8 +1036,8 @@
     "date": "Di., 27.7.",
     "timestamp": 1627421400000,
     "time": "21:30",
-    "available": 546,
-    "reserved": 27,
+    "available": 544,
+    "reserved": 29,
     "bookable": true
   },
   "rehberge-638": {
@@ -1214,13 +1214,12 @@
     "date": "Do., 5.8.,",
     "timestamp": 1628197200000,
     "time": "21:00",
-    "available": 570,
-    "reserved": 3,
+    "available": 568,
+    "reserved": 5,
     "bookable": true
   },
   "rehberge-641": {
-    "trailer": "https://www.youtube-nocookie.com/embed/i940JN-o-Ro?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
-    "description": "Im Rahmen des 50-jährigen Jubiläums von Greenpeace International präsentiert der langjährige Greenpeace-Fotograf Markus Mauthe seine neue Live-Multivisionsshow. Der Umweltaktivist beschreibt die immer rasanter fortschreitenden Veränderungen auf unserer Erde, die er mit seiner Kamera 30 Jahre lang beobachten konnte. Seine Erlebnisse und Erfahrungen vereinigt er zu einer einzigartigen, multimedialen Live-Show, die einen spannenden Ausschnitt aus der vielfältigen Natur unseres Planeten zeigt und die globalen Zusammenhänge der Ökosysteme verdeutlicht. Die Zuschauer:innen erwartet eine Reportage voller atemberaubender Fotos, faszinierender Filmsequenzen, erzählten Erlebnissen und einfühlsamer Musik.",
+    "description": "",
     "cinemaId": "rb_freiluftkino",
     "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
     "cinemaName": "Freiluftkino Rehberge",
@@ -1492,8 +1491,8 @@
     "img": "https://media.kinoheld.de/-y_sbAX9YhZW2ZSZPGeh4uL5TaE=/400x560/images%2Ffilm%2Fmo%2F1863-37081.v2.jpeg",
     "description": "Ein Pärchen genießt seine Ferien an der Côte d'Azur, als ein gemeinsamer Freund der beiden mit seiner Tochter auftaucht. Ein dramatischer Konflikt bahnt sich an. Eine zum Klassiker avancierte Vierecksgeschichte um Liebe, Eifersucht und Hass. Mithilfe der hervorragenden Darsteller*innen wird eine subtile erotische Spannung aufgebaut, die unter der oberflächlichen Schicht von Müßiggang und Langeweile brodelt.\r\nLa Piscine fasziniert vor allem durch das großartige Ensemble, das den Zuschauenden in die Vierecksgeschichte hineinzuziehen versteht. Regisseur Jacques Deray gelingt es dabei, die Handlung glaubhaft und doch beinahe als Kammerspiel zu inszenieren, wodurch er eine Atmosphäre der schicksalhaften Ausweglosigkeit schafft. Im Zusammenspiel von Cast, Drehbuch und Regie entfaltet sich ohne Effekthascherei ein Drama um Liebe, Eifersucht und Hass. Für den Zuschauer erschließt sich ein Mikrokosmos der Reichen und Schönen, abgeschieden vom Rest der Welt, in lähmender Agonie verharrend, ohne Perspektive, ohne Ziel, einzig darauf aus, den Genuss mit immer neuen \"Kicks\" zu steigern. Wirken Setting und Personenkonstellationen auch wie eine Versuchsanordnung, besteht eine weitere Stärke des Films jedoch darin, seine Charaktere nicht auf symbolische Funktionen zu reduzieren, sondern sie einzigartig bleiben zu lassen, ohne dabei auf seine Aussagen zur \"Conditio humanae\" zu verzichten.",
     "trailer": "https://youtu.be/MKJ-nXADsVk",
-    "available": 27,
-    "reserved": 58,
+    "available": 21,
+    "reserved": 60,
     "bookable": true
   },
   "filmrauschpalast-2389921681": {
@@ -1616,8 +1615,8 @@
     "img": "https://media.kinoheld.de/jHvvh1Xl1T39hdM2gpymZbS4gGo=/400x560/images%2Ffilm%2Fcruella-18919.v22.jpg",
     "description": "London in den 1970er Jahren: Die junge Estella (Emma Stone) ist eine talentierte Designerin und träumt von einer großen Karriere als Modeschöpferin. Doch da sie verwaist und mittellos aufgewachsen ist, scheint ihr der Weg in höhere Kreise verschlossen. Mit ihren zwei Kumpels, den Amateur-Dieben Horace (Paul Walter Hauser) und Jasper (Joel Fry), streift sie durch London und begeht hier und da kleine Verbrechen – und wann immer sich die Möglichkeit ergibt, wenigstens kurz in den von ihr ersehnten Luxus der Schönen und Reichen einzutauchen, greift sie schamlos zu. Dann aber bietet sich ihr endlich eine einzigartige Gelegenheit, um der Gosse zu entkommen: Ein aufstrebender Rockstar entdeckt ihr Talent und beauftragt Estella damit, ihm ein einzigartiges Outfit zu entwerfen. Auf der Suche nach dem perfekten Material muss sich Estella, die ein Faible für Hundefell hat, fragen, was sie für ihren Erfolg zu opfern bereit ist.",
     "trailer": "https://www.youtube.com/watch?v=KIRKfx5Cbec",
-    "available": 3,
-    "reserved": 200,
+    "available": 2,
+    "reserved": 201,
     "bookable": true
   },
   "hasenheide-691331": {
@@ -1670,9 +1669,9 @@
     "img": "https://media.kinoheld.de/g_qzyOj4oDoc4Iq0De9_5F5QNUM=/400x560/images%2Ffilm%2Fil-babykino-milla-meets-moses-babyteeth-17584.v14.jpg",
     "description": "Milla (Eliza Scanlen) trifft Moses (Toby Wallace) – vielmehr wird sie bei der ersten Begegnung buchstäblich von ihm umgehauen. Obwohl Moses sich als Herumtreiber und Gelegenheitsdealer entpuppt, nimmt sie ihn mit zu sich nach Hause, um ihn ihren Eltern vorzustellen. Anna (Essie Davis) und Henry (Ben Mendelsohn) – eine ehemalige Konzertpianistin und ein ziemlich entspannter Psychiater – sind alles andere als begeistert von Millas neuem Freund. Doch Millas Lebensfreude und ihre Sehnsucht, die Liebe und die Welt zu entdecken, stellen die Familie auf den Kopf. Als die Eltern merken, dass Moses ihrer kranken Tochter sichtlich guttut, nehmen sie ihn trotz ihrer Bedenken bei sich auf und werden dabei mit ihren eigenen Schwächen konfrontiert.",
     "trailer": "https://www.youtube.com/watch?v=kTvEl_ZjVUc",
-    "available": 563,
-    "reserved": 28,
-    "bookable": true
+    "available": 0,
+    "reserved": 0,
+    "bookable": false
   },
   "hasenheide-691334": {
     "cinemaId": "580",
@@ -1775,7 +1774,7 @@
     "description": "Im Berlin des Jahres 1931 lässt sich der Germanist und Werbetexter Jakob Fabian (Tom Schilling) durch das Leben treiben. Während er tagsüber für die Werbung einer Zigarettenfirma zuständig ist, ist er nachts oft mit seinem Studienkollegen Labude (Albrecht Schuch) unterwegs und macht die Unterweltkneipen, Bordelle und Künstlerateliers unsicher. Das sorglose Leben der beiden jungen Männer wird durch eine durch Kommunisten und Nationalsozialisten geteilte Gesellschaft zunehmend bedroht und auch Labude träumt davon, dass die Klassen gegen die Obrigkeit revolutionieren. Fabian kann mit dem politischen Umbruch nicht viel anfangen und kommentiert die Geschehnisse ironisch. Eines Tages trifft er in einem Atelier auf Cornelia (Saskia Rosendahl) und verliebt sich auf den ersten Blick in sie. Fabians naives Leben nimmt eine dramatische Wendung, als er einer Entlassungswelle zum Opfer fällt, Cornelias Karriere als Schauspielerin jedoch an Fahrt aufnimmt...",
     "trailer": "https://www.youtube.com/watch?v=VPIeUqg7F40",
     "available": 0,
-    "reserved": 201,
+    "reserved": 0,
     "bookable": false
   },
   "hasenheide-691336": {
@@ -1864,9 +1863,9 @@
     "img": "https://media.kinoheld.de/3trkAnh9-frO_02A-hFZKtGQKKk=/400x560/images%2Ffilm%2Fproxima-die-astronautin-18807.v2.jpg",
     "description": "Sarah ist eine französische Astronautin, die bei der European Space Agency in Köln trainiert. Sie ist die einzige Frau in dem mühsamen Programm. Sie lebt allein mit Stella, ihrer siebenjährigen Tochter. Sarah fühlt sich schuldig, dass sie nicht mehr Zeit mit ihrem Kind verbringen kann. Ihre Liebe ist überwältigend, beunruhigend. Als Sarah ausgewählt wird, sich der Crew einer einjährigen Weltraummission namens Proxima anzuschließen, sorgt dies für Chaos in der Mutter-Tochter-Beziehung.",
     "trailer": "https://www.youtube.com/watch?v=aPKJo1CQXKQ",
-    "available": -1,
+    "available": 0,
     "reserved": 0,
-    "bookable": true
+    "bookable": false
   },
   "hasenheide-692205": {
     "cinemaId": "580",
@@ -2038,8 +2037,8 @@
     "img": "https://media.kinoheld.de/DbWHTKT3neGjvULOXqsnipemH2A=/400x560/images%2Ffilm%2Fminari-18286.v2.png",
     "description": "Jacob beschließt, mit seiner koreanisch-amerikanischen Familie von Los Angeles nach Arkansas zu ziehen, um als Farmer sein Glück zu versuchen. Seine Frau Monica und die Kinder David und Anne fühlen sich jedoch fremd in der neuen Heimat, und das fragile Familienleben wird zusätzlich auf die Probe gestellt, als die schlagfertige und liebevolle Großmutter Soonja von Südkorea zu ihnen auf die Farm zieht.",
     "trailer": "https://www.youtube.com/watch?v=TlOqMFPS00g",
-    "available": 598,
-    "reserved": 15,
+    "available": 590,
+    "reserved": 17,
     "bookable": true
   },
   "hasenheide-691727": {
@@ -2068,9 +2067,9 @@
     "timestamp": 1627862400000,
     "time": "18:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691289?layout=shows",
-    "available": -1,
+    "available": 0,
     "reserved": 0,
-    "bookable": true
+    "bookable": false
   },
   "hasenheide-692209": {
     "cinemaId": "580",
@@ -2118,9 +2117,9 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/692204?layout=shows",
     "img": "https://media.kinoheld.de/WOYXoaFEo4NGVumRBgTlTxaxaXA=/400x560/images%2Ffilm%2Fgaza-mon-amour-19201.v7.jpg",
     "description": "Die kleine, feine Tragikomödie erzählt  von einem 60-jährigen palästinensischen Fischer, der unglücklich verliebt ist – und auf eine ominöse Statue stößt, die sein Leben gehörig auf den Kopf stellt. Ein liebenswerter, charmanter Film, der zum Träumen einlädt und an die Macht der (späten) Liebe glaubt.",
-    "available": -1,
+    "available": 0,
     "reserved": 0,
-    "bookable": true
+    "bookable": false
   },
   "hasenheide-692210": {
     "cinemaId": "580",
@@ -2232,9 +2231,9 @@
     "timestamp": 1628985600000,
     "time": "18:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691768?layout=shows",
-    "available": -1,
+    "available": 0,
     "reserved": 0,
-    "bookable": true
+    "bookable": false
   },
   "hasenheide-691769": {
     "cinemaId": "580",
@@ -2662,8 +2661,8 @@
     "timestamp": 1628467200000,
     "time": "20:45",
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2395944380?layout=shows",
-    "available": 36,
-    "reserved": 3,
+    "available": 33,
+    "reserved": 5,
     "bookable": true
   },
   "central-2395944404": {
@@ -3644,8 +3643,8 @@
     "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2400476021?layout=shows",
     "img": "https://media.kinoheld.de/qVnneLWJ-1BHSsKCYvIBqUWe14Y=/400x560/images%2Ffilm%2Fglueck-19174.v1.jpg",
     "description": "Zwei Sexarbeiterinnen verlieben sich ineinander – und das in einer Welt, in der der weibliche Körper ein teures Gut ist. Trotz ihres trostlosen Lebens erleben die erfahrene Sascha (Katharina Behrens) und ihre neue, aus Italien stammende Kollegin Maria (Adam Hoya) gemeinsam Momente des Glücks und drohen doch an den eigenen Abgründen zu scheitern...",
-    "available": 66,
-    "reserved": 9,
+    "available": 62,
+    "reserved": 13,
     "bookable": true
   },
   "mobile kino-2403046741": {
@@ -3662,8 +3661,8 @@
     "img": "https://media.kinoheld.de/wkU_KHbys0bMLTLcd3GFXv3CDUQ=/400x560/images%2Ffilm%2Fthe-trouble-with-being-born-19295.v3.png",
     "description": "Elli lebt mit einem Mann zusammen, den sie ihren Vater nennt.  Gemeinsam lassen sie sich durch den Sommer treiben. Tagsüber schwimmen sie im Pool und nachts bringt er sie ins Bett. Sie teilt seine Erinnerungen und alles andere, was er ihr einprogrammiert, damit sie sich daran erinnert. Erinnerungen, die ihm alles, aber ihr nichts bedeuten. Doch eines Nacht macht sie sich auf den Weg in den Wald und folgt einem verklingenden Echo...  Die Geschichte einer Maschine und der Geister, die wir alle in uns tragen.",
     "trailer": "https://www.youtube.com/watch?v=515710227",
-    "available": 61,
-    "reserved": 26,
+    "available": 59,
+    "reserved": 28,
     "bookable": true
   },
   "mobile kino-2400563409": {
@@ -4023,8 +4022,8 @@
     "time": "21:30",
     "date": "Fr., 23.7.",
     "timestamp": 1627075800000,
-    "available": 273,
-    "reserved": 187,
+    "available": 261,
+    "reserved": 199,
     "bookable": true
   },
   "kulturforum-271": {
@@ -4040,8 +4039,8 @@
     "time": "21:30",
     "date": "Sa., 24.7.",
     "timestamp": 1627162200000,
-    "available": 96,
-    "reserved": 364,
+    "available": 95,
+    "reserved": 365,
     "bookable": true
   },
   "kulturforum-272": {
@@ -4111,8 +4110,8 @@
     "time": "21:30",
     "date": "Mi., 28.7.",
     "timestamp": 1627507800000,
-    "available": 382,
-    "reserved": 78,
+    "available": 380,
+    "reserved": 80,
     "bookable": true
   },
   "kulturforum-276": {
@@ -4147,8 +4146,8 @@
     "time": "21:30",
     "date": "Fr., 30.7.",
     "timestamp": 1627680600000,
-    "available": 128,
-    "reserved": 332,
+    "available": 120,
+    "reserved": 340,
     "bookable": true
   },
   "kulturforum-278": {
@@ -4251,8 +4250,8 @@
     "time": "21:30",
     "date": "Sa., 24.7.",
     "timestamp": 1627162200000,
-    "available": 181,
-    "reserved": 462,
+    "available": 169,
+    "reserved": 474,
     "bookable": true
   },
   "schloss-charlottenburg-57": {
@@ -4286,8 +4285,8 @@
     "time": "21:30",
     "date": "Mo., 26.7.",
     "timestamp": 1627335000000,
-    "available": 433,
-    "reserved": 66,
+    "available": 429,
+    "reserved": 70,
     "bookable": true
   },
   "schloss-charlottenburg-59": {
@@ -4339,8 +4338,8 @@
     "time": "21:30",
     "date": "Do., 29.7.",
     "timestamp": 1627594200000,
-    "available": 203,
-    "reserved": 296,
+    "available": 201,
+    "reserved": 298,
     "bookable": true
   },
   "schloss-charlottenburg-61": {
@@ -4356,8 +4355,8 @@
     "time": "21:30",
     "date": "Fr., 30.7.",
     "timestamp": 1627680600000,
-    "available": 495,
-    "reserved": 148,
+    "available": 494,
+    "reserved": 149,
     "bookable": true
   },
   "schloss-charlottenburg-62": {
@@ -4391,8 +4390,8 @@
     "time": "21:15",
     "date": "So., 1.8.,",
     "timestamp": 1627852500000,
-    "available": 477,
-    "reserved": 22,
+    "available": 475,
+    "reserved": 24,
     "bookable": true
   },
   "schloss-charlottenburg-63": {
