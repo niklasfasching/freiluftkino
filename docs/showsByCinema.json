@@ -50,8 +50,8 @@
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
       "time": "21:30",
-      "available": 491,
-      "reserved": 587,
+      "available": 461,
+      "reserved": 617,
       "bookable": true
     },
     {
@@ -86,8 +86,8 @@
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
       "time": "21:30",
-      "available": 746,
-      "reserved": 332,
+      "available": 745,
+      "reserved": 333,
       "bookable": true
     },
     {
@@ -104,8 +104,8 @@
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
       "time": "21:30",
-      "available": 959,
-      "reserved": 119,
+      "available": 963,
+      "reserved": 115,
       "bookable": true
     },
     {
@@ -122,8 +122,8 @@
       "date": "Mi., 28.7.",
       "timestamp": 1627506900000,
       "time": "21:15",
-      "available": 740,
-      "reserved": 338,
+      "available": 736,
+      "reserved": 342,
       "bookable": true
     },
     {
@@ -211,8 +211,8 @@
       "date": "Fr., 30.7.",
       "timestamp": 1627679700000,
       "time": "21:15",
-      "available": 1005,
-      "reserved": 73,
+      "available": 1003,
+      "reserved": 75,
       "bookable": true
     },
     {
@@ -299,8 +299,8 @@
       "date": "Fr., 6.8.,",
       "timestamp": 1628283600000,
       "time": "21:00",
-      "available": 942,
-      "reserved": 136,
+      "available": 940,
+      "reserved": 138,
       "bookable": true
     },
     {
@@ -353,8 +353,8 @@
       "date": "Mi., 11.8.",
       "timestamp": 1628715600000,
       "time": "21:00",
-      "available": 1078,
-      "reserved": 0,
+      "available": 1076,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -370,8 +370,8 @@
       "date": "Do., 5.8.,",
       "timestamp": 1628197200000,
       "time": "21:00",
-      "available": 1057,
-      "reserved": 21,
+      "available": 1055,
+      "reserved": 23,
       "bookable": true
     },
     {
@@ -561,8 +561,8 @@
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
       "time": "21:30",
-      "available": 323,
-      "reserved": 355,
+      "available": 301,
+      "reserved": 377,
       "bookable": true
     },
     {
@@ -579,8 +579,8 @@
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
       "time": "21:30",
-      "available": 554,
-      "reserved": 124,
+      "available": 549,
+      "reserved": 129,
       "bookable": true
     },
     {
@@ -597,8 +597,8 @@
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
       "time": "21:30",
-      "available": 590,
-      "reserved": 88,
+      "available": 591,
+      "reserved": 87,
       "bookable": true
     },
     {
@@ -687,8 +687,8 @@
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
       "time": "21:30",
-      "available": 144,
-      "reserved": 534,
+      "available": 139,
+      "reserved": 539,
       "bookable": true
     },
     {
@@ -758,8 +758,8 @@
       "date": "So., 1.8.,",
       "timestamp": 1627851600000,
       "time": "21:00",
-      "available": 676,
-      "reserved": 2,
+      "available": 674,
+      "reserved": 4,
       "bookable": true
     },
     {
@@ -774,7 +774,7 @@
       "date": "Do., 29.7.",
       "timestamp": 1627592400000,
       "time": "21:00",
-      "available": 0,
+      "available": 678,
       "reserved": 0,
       "bookable": true
     },
@@ -810,8 +810,8 @@
       "date": "Mi., 4.8.,",
       "timestamp": 1628110800000,
       "time": "21:00",
-      "available": 0,
-      "reserved": 0,
+      "available": 674,
+      "reserved": 4,
       "bookable": true
     },
     {
@@ -828,8 +828,8 @@
       "date": "Fr., 6.8.,",
       "timestamp": 1628283600000,
       "time": "21:00",
-      "available": 0,
-      "reserved": 0,
+      "available": 676,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -846,7 +846,7 @@
       "date": "So., 8.8.,",
       "timestamp": 1628456400000,
       "time": "21:00",
-      "available": 0,
+      "available": 678,
       "reserved": 0,
       "bookable": true
     },
@@ -898,7 +898,7 @@
       "date": "Mi., 11.8.",
       "timestamp": 1628716500000,
       "time": "21:15",
-      "available": 0,
+      "available": 678,
       "reserved": 0,
       "bookable": true
     },
@@ -915,8 +915,8 @@
       "date": "Do., 12.8.",
       "timestamp": 1628802900000,
       "time": "21:15",
-      "available": 0,
-      "reserved": 0,
+      "available": 662,
+      "reserved": 16,
       "bookable": true
     },
     {
@@ -933,8 +933,8 @@
       "date": "Fr., 13.8.",
       "timestamp": 1628889300000,
       "time": "21:15",
-      "available": 0,
-      "reserved": 0,
+      "available": 673,
+      "reserved": 5,
       "bookable": true
     },
     {
@@ -967,8 +967,8 @@
       "date": "Mo., 16.8.",
       "timestamp": 1629148500000,
       "time": "21:15",
-      "available": 0,
-      "reserved": 0,
+      "available": 676,
+      "reserved": 2,
       "bookable": true
     }
   ],
@@ -987,8 +987,8 @@
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
       "time": "21:30",
-      "available": 332,
-      "reserved": 241,
+      "available": 318,
+      "reserved": 255,
       "bookable": true
     },
     {
@@ -1023,8 +1023,8 @@
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
       "time": "21:30",
-      "available": 444,
-      "reserved": 129,
+      "available": 439,
+      "reserved": 134,
       "bookable": true
     },
     {
@@ -1500,8 +1500,8 @@
       "img": "https://media.kinoheld.de/-y_sbAX9YhZW2ZSZPGeh4uL5TaE=/400x560/images%2Ffilm%2Fmo%2F1863-37081.v2.jpeg",
       "description": "Ein Pärchen genießt seine Ferien an der Côte d'Azur, als ein gemeinsamer Freund der beiden mit seiner Tochter auftaucht. Ein dramatischer Konflikt bahnt sich an. Eine zum Klassiker avancierte Vierecksgeschichte um Liebe, Eifersucht und Hass. Mithilfe der hervorragenden Darsteller*innen wird eine subtile erotische Spannung aufgebaut, die unter der oberflächlichen Schicht von Müßiggang und Langeweile brodelt.\r\nLa Piscine fasziniert vor allem durch das großartige Ensemble, das den Zuschauenden in die Vierecksgeschichte hineinzuziehen versteht. Regisseur Jacques Deray gelingt es dabei, die Handlung glaubhaft und doch beinahe als Kammerspiel zu inszenieren, wodurch er eine Atmosphäre der schicksalhaften Ausweglosigkeit schafft. Im Zusammenspiel von Cast, Drehbuch und Regie entfaltet sich ohne Effekthascherei ein Drama um Liebe, Eifersucht und Hass. Für den Zuschauer erschließt sich ein Mikrokosmos der Reichen und Schönen, abgeschieden vom Rest der Welt, in lähmender Agonie verharrend, ohne Perspektive, ohne Ziel, einzig darauf aus, den Genuss mit immer neuen \"Kicks\" zu steigern. Wirken Setting und Personenkonstellationen auch wie eine Versuchsanordnung, besteht eine weitere Stärke des Films jedoch darin, seine Charaktere nicht auf symbolische Funktionen zu reduzieren, sondern sie einzigartig bleiben zu lassen, ohne dabei auf seine Aussagen zur \"Conditio humanae\" zu verzichten.",
       "trailer": "https://youtu.be/MKJ-nXADsVk",
-      "available": 6,
-      "reserved": 78,
+      "available": 3,
+      "reserved": 81,
       "bookable": true
     },
     {
@@ -1555,9 +1555,9 @@
       "img": "https://media.kinoheld.de/RZ4oo-DUsYCMMBSXzc7J4BulfXo=/400x560/images%2Ffilm%2F4%2Fthe-rider-9780.v6.jpg",
       "description": "Die Pferde waren das Wichtigste im Leben des jungen Cowboys und Sioux-Nachkommen Brady Blackburn. Doch nachdem er bei einem Rodeo verunglückte und fast gestorben wäre, wird er nie wieder reiten können. Blackburn hat alles, was ihm je etwas bedeutet hat, verloren: Das Freiheitsgefühl beim Reiten, die Bewunderung seiner Fans und auch die Achtung seines Vaters. Am schwersten aber wiegt, wie minderwertig er sich seitdem fühlt. (vf)",
       "trailer": "https://www.youtube.com/watch?v=AlrWRttLTkg",
-      "available": -1,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1680,8 +1680,8 @@
       "img": "https://media.kinoheld.de/g_qzyOj4oDoc4Iq0De9_5F5QNUM=/400x560/images%2Ffilm%2Fil-babykino-milla-meets-moses-babyteeth-17584.v14.jpg",
       "description": "Milla (Eliza Scanlen) trifft Moses (Toby Wallace) – vielmehr wird sie bei der ersten Begegnung buchstäblich von ihm umgehauen. Obwohl Moses sich als Herumtreiber und Gelegenheitsdealer entpuppt, nimmt sie ihn mit zu sich nach Hause, um ihn ihren Eltern vorzustellen. Anna (Essie Davis) und Henry (Ben Mendelsohn) – eine ehemalige Konzertpianistin und ein ziemlich entspannter Psychiater – sind alles andere als begeistert von Millas neuem Freund. Doch Millas Lebensfreude und ihre Sehnsucht, die Liebe und die Welt zu entdecken, stellen die Familie auf den Kopf. Als die Eltern merken, dass Moses ihrer kranken Tochter sichtlich guttut, nehmen sie ihn trotz ihrer Bedenken bei sich auf und werden dabei mit ihren eigenen Schwächen konfrontiert.",
       "trailer": "https://www.youtube.com/watch?v=kTvEl_ZjVUc",
-      "available": 552,
-      "reserved": 30,
+      "available": 542,
+      "reserved": 33,
       "bookable": true
     },
     {
@@ -2542,8 +2542,8 @@
       "img": "https://media.kinoheld.de/1vIIQBhZZqw-OjT2EuvAAJi3lSc=/400x560/images%2Ffilm%2Fparasite-14289.v362.jpg",
       "description": "Familie Kim ist ganz unten angekommen: Vater, Mutter, Sohn und Tochter hausen in einem grünlich-schummrigen Keller, kriechen für kostenloses W-LAN in jeden Winkel und sind sich für keinen Aushilfsjob zu schade. Erst als der Jüngste eine Anstellung als Nachhilfelehrer in der todschicken Villa der Familie Park antritt, steigen die Kims ein ins Karussell der Klassenkämpfe. Mit findigen Tricksereien, bemerkenswertem Talent und großem Mannschaftsgeist gelingt es ihnen, die bisherigen Bediensteten der Familie Park nach und nach loszuwerden. Bald schon sind die Kims unverzichtbar für ihre neuen Herrschaften. Doch dann löst ein unerwarteter Zwischenfall eine Kette von Ereignissen aus, die so unvorhersehbar wie unfassbar sind. (Quelle: Verleih)",
       "trailer": "https://youtu.be/MKJ-nXADsVk",
-      "available": 41,
-      "reserved": 20,
+      "available": 38,
+      "reserved": 22,
       "bookable": true
     },
     {
@@ -2578,8 +2578,8 @@
       "img": "https://media.kinoheld.de/9kgOlQjXTx2Ouo4wrR-GZwXs8Sg=/400x560/images%2Ffilm%2F4%2Fcold-war-der-breitengrad-der-liebe-11272.v1.jpg",
       "description": "Während des polnischen Wiederaufbaus ist der begabte Komponist Wiktor auf der Suche nach traditionellen Melodien für ein neues Tanz- und Musik-Ensemble. Dem Kulturleben seines Landes möchte er so frisches Leben einhauchen. Unter seinen Studentinnen ist auch die Sängerin Zula, gleich im ersten Augenblick elektrisiert sie Wiktor. Schön, hinreißend und energiegeladen, ist Zula schon bald der Mittelpunkt des Ensembles und die beiden verlieben sich ineinander. Ihre brennende Leidenschaft scheint keine Grenzen zu kennen. Doch als das Repertoire des Ensembles zunehmend politisiert wird, nutzt Wiktor einen Auftritt in Ostberlin, um in den Westen zu fliehen. Zula bleibt der verabredeten Flucht fern und doch führt das Schicksal die beiden Liebenden Jahre später erneut zueinander. Wiktor begegnet Zula in Paris, nur so flammend ihre Liebe, so zerrissen ist das Paar und Zula muss eine tiefgreifende Entscheidung treffen. Zwischen Heimat und Exil, zwischen Leidenschaft und Verlust sind Frankreich, Jugoslawien und Polen die Schauplätze der fatalen Liebe eines Paares, das vor dem Hintergrund des Kalten Krieges ohne einander nicht leben kann und miteinander fast keinen Frieden findet. (Text: Verleih)",
       "trailer": "https://www.youtube.com/watch?v=8ImvkXgGVWw",
-      "available": 64,
-      "reserved": 4,
+      "available": 60,
+      "reserved": 8,
       "bookable": true
     },
     {
@@ -2611,8 +2611,8 @@
       "timestamp": 1627862400000,
       "time": "21:00",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2394922904?layout=shows",
-      "available": 16,
-      "reserved": 4,
+      "available": 12,
+      "reserved": 7,
       "bookable": true
     },
     {
@@ -3686,8 +3686,8 @@
       "img": "https://media.kinoheld.de/wkU_KHbys0bMLTLcd3GFXv3CDUQ=/400x560/images%2Ffilm%2Fthe-trouble-with-being-born-19295.v3.png",
       "description": "Elli lebt mit einem Mann zusammen, den sie ihren Vater nennt.  Gemeinsam lassen sie sich durch den Sommer treiben. Tagsüber schwimmen sie im Pool und nachts bringt er sie ins Bett. Sie teilt seine Erinnerungen und alles andere, was er ihr einprogrammiert, damit sie sich daran erinnert. Erinnerungen, die ihm alles, aber ihr nichts bedeuten. Doch eines Nacht macht sie sich auf den Weg in den Wald und folgt einem verklingenden Echo...  Die Geschichte einer Maschine und der Geister, die wir alle in uns tragen.",
       "trailer": "https://www.youtube.com/watch?v=515710227",
-      "available": 54,
-      "reserved": 33,
+      "available": 53,
+      "reserved": 34,
       "bookable": true
     },
     {
@@ -3704,8 +3704,8 @@
       "img": "https://media.kinoheld.de/kYStEhPmGfaEZFCEJgfHXxwlOxU=/400x560/images%2Ffilm%2Fleon-der-profi-wa-2019-14361.v11.jpg",
       "description": "Léon verdient sein Geld als Auftragskiller der Italo-Mafia in den Straßen von New York. Er lebt zurückgezogen und pflegt außer zu seinem Boss Tony einzig zu seiner Topfpflanze ein freundschaftliches Verhältnis. Als die Familie seiner Nachbarstochter Mathilda von DEA-Polizisten brutal getötet wird, flüchtet sie zu Léon. Um sich an den Mördern ihres kleinen Bruders zu rächen, lässt sich Mathilda das grausame Handwerk eines Profi-Killers von Léon beibringen. (Quelle: Verleih)",
       "trailer": "https://youtu.be/MKJ-nXADsVk",
-      "available": 51,
-      "reserved": 24,
+      "available": 49,
+      "reserved": 26,
       "bookable": true
     },
     {
@@ -4032,8 +4032,8 @@
       "time": "21:30",
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
-      "available": 222,
-      "reserved": 238,
+      "available": 215,
+      "reserved": 245,
       "bookable": true
     },
     {
@@ -4049,8 +4049,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 46,
-      "reserved": 414,
+      "available": 35,
+      "reserved": 425,
       "bookable": true
     },
     {
@@ -4102,8 +4102,8 @@
       "time": "21:30",
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
-      "available": 431,
-      "reserved": 29,
+      "available": 429,
+      "reserved": 31,
       "bookable": true
     },
     {
@@ -4156,8 +4156,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 90,
-      "reserved": 370,
+      "available": 88,
+      "reserved": 372,
       "bookable": true
     },
     {
@@ -4242,8 +4242,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 90,
-      "reserved": 370,
+      "available": 88,
+      "reserved": 372,
       "bookable": true
     },
     {
@@ -4274,8 +4274,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 46,
-      "reserved": 414,
+      "available": 35,
+      "reserved": 425,
       "bookable": true
     },
     {
@@ -4343,8 +4343,8 @@
       "time": "21:30",
       "date": "Fr., 23.7.",
       "timestamp": 1627075800000,
-      "available": 222,
-      "reserved": 238,
+      "available": 215,
+      "reserved": 245,
       "bookable": true
     },
     {
@@ -4431,8 +4431,8 @@
       "time": "21:30",
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
-      "available": 431,
-      "reserved": 29,
+      "available": 429,
+      "reserved": 31,
       "bookable": true
     }
   ],
@@ -4469,8 +4469,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 106,
-      "reserved": 537,
+      "available": 108,
+      "reserved": 535,
       "bookable": true
     },
     {
@@ -4557,8 +4557,8 @@
       "time": "21:30",
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
-      "available": 198,
-      "reserved": 301,
+      "available": 196,
+      "reserved": 303,
       "bookable": true
     },
     {
@@ -4574,8 +4574,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 485,
-      "reserved": 158,
+      "available": 483,
+      "reserved": 160,
       "bookable": true
     },
     {
@@ -4609,8 +4609,8 @@
       "time": "21:15",
       "date": "So., 1.8.,",
       "timestamp": 1627852500000,
-      "available": 473,
-      "reserved": 26,
+      "available": 471,
+      "reserved": 28,
       "bookable": true
     },
     {
@@ -4681,8 +4681,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 106,
-      "reserved": 537,
+      "available": 108,
+      "reserved": 535,
       "bookable": true
     },
     {
@@ -4716,8 +4716,8 @@
       "time": "21:30",
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
-      "available": 198,
-      "reserved": 301,
+      "available": 196,
+      "reserved": 303,
       "bookable": true
     },
     {
@@ -4787,8 +4787,8 @@
       "time": "21:15",
       "date": "So., 1.8.,",
       "timestamp": 1627852500000,
-      "available": 473,
-      "reserved": 26,
+      "available": 471,
+      "reserved": 28,
       "bookable": true
     },
     {
@@ -4804,8 +4804,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 485,
-      "reserved": 158,
+      "available": 483,
+      "reserved": 160,
       "bookable": true
     },
     {
