@@ -32,8 +32,8 @@
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
       "time": "21:30",
-      "available": 871,
-      "reserved": 207,
+      "available": 867,
+      "reserved": 211,
       "bookable": true
     },
     {
@@ -68,8 +68,8 @@
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
       "time": "21:30",
-      "available": 702,
-      "reserved": 376,
+      "available": 698,
+      "reserved": 380,
       "bookable": true
     },
     {
@@ -122,8 +122,8 @@
       "date": "Mi., 4.8.,",
       "timestamp": 1628110800000,
       "time": "21:00",
-      "available": 1070,
-      "reserved": 8,
+      "available": 1068,
+      "reserved": 10,
       "bookable": true
     },
     {
@@ -193,8 +193,8 @@
       "date": "Fr., 30.7.",
       "timestamp": 1627679700000,
       "time": "21:15",
-      "available": 1003,
-      "reserved": 75,
+      "available": 1000,
+      "reserved": 78,
       "bookable": true
     },
     {
@@ -579,8 +579,8 @@
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
       "time": "21:30",
-      "available": 616,
-      "reserved": 62,
+      "available": 612,
+      "reserved": 66,
       "bookable": true
     },
     {
@@ -651,8 +651,8 @@
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
       "time": "21:30",
-      "available": 101,
-      "reserved": 577,
+      "available": 97,
+      "reserved": 581,
       "bookable": true
     },
     {
@@ -704,8 +704,8 @@
       "date": "Sa., 31.7.",
       "timestamp": 1627765200000,
       "time": "21:00",
-      "available": 0,
-      "reserved": 0,
+      "available": 672,
+      "reserved": 6,
       "bookable": true
     },
     {
@@ -722,8 +722,8 @@
       "date": "So., 1.8.,",
       "timestamp": 1627851600000,
       "time": "21:00",
-      "available": 0,
-      "reserved": 0,
+      "available": 674,
+      "reserved": 4,
       "bookable": true
     },
     {
@@ -756,8 +756,8 @@
       "date": "Di., 3.8.,",
       "timestamp": 1628024400000,
       "time": "21:00",
-      "available": 0,
-      "reserved": 0,
+      "available": 667,
+      "reserved": 11,
       "bookable": true
     },
     {
@@ -792,8 +792,8 @@
       "date": "Fr., 6.8.,",
       "timestamp": 1628283600000,
       "time": "21:00",
-      "available": 0,
-      "reserved": 0,
+      "available": 676,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -810,7 +810,7 @@
       "date": "So., 8.8.,",
       "timestamp": 1628456400000,
       "time": "21:00",
-      "available": 0,
+      "available": 678,
       "reserved": 0,
       "bookable": true
     },
@@ -828,7 +828,7 @@
       "date": "Mo., 9.8.,",
       "timestamp": 1628543700000,
       "time": "21:15",
-      "available": 0,
+      "available": 678,
       "reserved": 0,
       "bookable": true
     },
@@ -845,8 +845,8 @@
       "date": "Di., 10.8.",
       "timestamp": 1628630100000,
       "time": "21:15",
-      "available": 0,
-      "reserved": 0,
+      "available": 676,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -862,7 +862,7 @@
       "date": "Mi., 11.8.",
       "timestamp": 1628716500000,
       "time": "21:15",
-      "available": 0,
+      "available": 678,
       "reserved": 0,
       "bookable": true
     },
@@ -879,8 +879,8 @@
       "date": "Do., 12.8.",
       "timestamp": 1628802900000,
       "time": "21:15",
-      "available": 0,
-      "reserved": 0,
+      "available": 660,
+      "reserved": 18,
       "bookable": true
     },
     {
@@ -914,7 +914,7 @@
       "date": "So., 15.8.",
       "timestamp": 1629061200000,
       "time": "21:00",
-      "available": 0,
+      "available": 678,
       "reserved": 0,
       "bookable": true
     },
@@ -969,8 +969,8 @@
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
       "time": "21:30",
-      "available": 428,
-      "reserved": 145,
+      "available": 426,
+      "reserved": 147,
       "bookable": true
     },
     {
@@ -1437,23 +1437,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/filmrauschpalast/shows/movies",
       "cinemaName": "filmrauschpalast",
       "cinemaShortName": "filmrauschpalast",
-      "id": "filmrauschpalast-2389921688",
-      "title": "OPEN AIR: LA PISCINE (subtitled OV German)",
-      "date": "Fr., 23.7.",
-      "timestamp": 1626998400000,
-      "time": "22:00",
-      "url": "https://www.kinoheld.de/cinema-berlin/filmrauschpalast/show/2389921688?layout=shows",
-      "img": "https://media.kinoheld.de/-y_sbAX9YhZW2ZSZPGeh4uL5TaE=/400x560/images%2Ffilm%2Fmo%2F1863-37081.v2.jpeg",
-      "description": "Ein Pärchen genießt seine Ferien an der Côte d'Azur, als ein gemeinsamer Freund der beiden mit seiner Tochter auftaucht. Ein dramatischer Konflikt bahnt sich an. Eine zum Klassiker avancierte Vierecksgeschichte um Liebe, Eifersucht und Hass. Mithilfe der hervorragenden Darsteller*innen wird eine subtile erotische Spannung aufgebaut, die unter der oberflächlichen Schicht von Müßiggang und Langeweile brodelt.\r\nLa Piscine fasziniert vor allem durch das großartige Ensemble, das den Zuschauenden in die Vierecksgeschichte hineinzuziehen versteht. Regisseur Jacques Deray gelingt es dabei, die Handlung glaubhaft und doch beinahe als Kammerspiel zu inszenieren, wodurch er eine Atmosphäre der schicksalhaften Ausweglosigkeit schafft. Im Zusammenspiel von Cast, Drehbuch und Regie entfaltet sich ohne Effekthascherei ein Drama um Liebe, Eifersucht und Hass. Für den Zuschauer erschließt sich ein Mikrokosmos der Reichen und Schönen, abgeschieden vom Rest der Welt, in lähmender Agonie verharrend, ohne Perspektive, ohne Ziel, einzig darauf aus, den Genuss mit immer neuen \"Kicks\" zu steigern. Wirken Setting und Personenkonstellationen auch wie eine Versuchsanordnung, besteht eine weitere Stärke des Films jedoch darin, seine Charaktere nicht auf symbolische Funktionen zu reduzieren, sondern sie einzigartig bleiben zu lassen, ohne dabei auf seine Aussagen zur \"Conditio humanae\" zu verzichten.",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "535",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/filmrauschpalast/shows/movies",
-      "cinemaName": "filmrauschpalast",
-      "cinemaShortName": "filmrauschpalast",
       "id": "filmrauschpalast-2389921681",
       "title": "OPEN AIR: PETROLEUM-MIEZEN (subtitled OV German)",
       "date": "Sa., 24.7.",
@@ -1468,60 +1451,6 @@
     }
   ],
   "freiluftkino-hasenheide": [
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "hasenheide-691332",
-      "title": "Onward - Keine halben Sachen ",
-      "date": "Fr., 23.7.",
-      "timestamp": 1626998400000,
-      "time": "16:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691332?layout=shows",
-      "img": "https://media.kinoheld.de/KMQ6aS7JZ_xMGCdRDuCjQWFOk4g=/400x560/images%2Ffilm%2Fonward-16205.v766.jpg",
-      "description": "Zauber und Magie? Diese Zeiten sind lange vorbei. In New Mushroomton leben Elfen, Zwerge, Riesen, hyperaktive Hausdrachen oder streunende Einhörner heute ganz modern mit all dem technischen Schnick-Schnack unserer Zeit. Die beiden Elfenbrüder Ian und Barley sind also etwas überfordert als sie einen uralten Zauberstab ihres verstorbenen Vaters geschenkt bekommen, der das Unmögliche möglich machen soll: ein Wiedersehen! Leider klappt das dann auch nur so halb und geht über die Hose nicht hinaus. Um auch die bessere Hälfte wiederherzustellen, geht es auf einen wahnwitzigen, rasanten Trip voller versteckter Hinweise, scheinbar unlösbarer Aufgaben und witziger Wendungen. Was für ein Abenteuer!",
-      "trailer": "https://www.youtube.com/watch?v=b_DWYvZ4e08",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "hasenheide-691760",
-      "title": "The Rider (subtitled OV German)",
-      "date": "Fr., 23.7.",
-      "timestamp": 1626998400000,
-      "time": "18:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691760?layout=shows",
-      "img": "https://media.kinoheld.de/RZ4oo-DUsYCMMBSXzc7J4BulfXo=/400x560/images%2Ffilm%2F4%2Fthe-rider-9780.v6.jpg",
-      "description": "Die Pferde waren das Wichtigste im Leben des jungen Cowboys und Sioux-Nachkommen Brady Blackburn. Doch nachdem er bei einem Rodeo verunglückte und fast gestorben wäre, wird er nie wieder reiten können. Blackburn hat alles, was ihm je etwas bedeutet hat, verloren: Das Freiheitsgefühl beim Reiten, die Bewunderung seiner Fans und auch die Achtung seines Vaters. Am schwersten aber wiegt, wie minderwertig er sich seitdem fühlt. (vf)",
-      "trailer": "https://www.youtube.com/watch?v=AlrWRttLTkg",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "hasenheide-691234",
-      "title": "Nomadland (subtitled OV German)",
-      "date": "Fr., 23.7.",
-      "timestamp": 1626998400000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691234?layout=shows",
-      "img": "https://media.kinoheld.de/GwZHiD65bCVb3mxAuT7jVcFqH9M=/400x560/images%2Ffilm%2Fnomadland-18288.v2.png",
-      "description": "Nach dem wirtschaftlichen Zusammenbruch einer Stadt im ländlichen Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren weißen Van und macht sich auf den Weg, um als moderne Nomadin im Westen der USA ein Leben außerhalb der konventionellen Gesellschaft zu erkunden.",
-      "trailer": "https://www.youtube.com/watch?v=iEcIDpnv3qQ",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
     {
       "cinemaId": "580",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
@@ -1855,9 +1784,9 @@
       "img": "https://media.kinoheld.de/gmbXUECjFkZFUAaGrtctv0b5EeQ=/400x560/images%2Ffilm%2Fder-kleine-rabe-socke-suche-nach-dem-verlorenen-schatz-13641.v187.jpg",
       "description": "Der kleine Rabe Socke ist von Frau Dachs zum Dachbodenaufräumen verdonnert worden, nachdem ihm mal wieder ein Malheur passiert ist und er ganz aus Versehen das alljährliche Waldfest ruiniert hat. Während er noch über die Ungerechtigkeit mault, macht er eine Riesenentdeckung: In einem geheimen Zimmer findet er eine waschechte Schatzkarte! Gezeichnet hat sie Opa Dachs, bevor er spurlos verschwunden ist. Um den verschollenen Schatz rankt sich eine geheimnisvolle Legende: Wer es schafft, bis zu ihm vorzudringen und alle Gefahren und Rätsel auf dem Weg besteht, der wird König des Waldes! Und König wollte Socke immer schon sein. Dann wären die anderen auch nicht mehr sauer auf ihn, glaubt er. Zusammen mit seinem besten Freund Eddi-Bär bricht Socke auf zum großen Schatzsucher-Abenteuer. Dabei heftet sich der Kleine Dachs, der endlich einmal beweisen will, dass viel mehr in ihm steckt als die anderen ahnen, an ihre Fersen. Auch Bibermädchen Fritzi gesellt sich zu dem Entdecker-Trupp, der die Freunde über Schluchten und Hängebrücken hoch hinauf auf den majestätischen Nebelberg und schließlich tief hinein in eine geheimnisvolle Höhle führt. Ihnen dicht auf den Fersen sind die Biberjungs Henry und Arthur, die ebenfalls Wind von der Sache bekommen haben und kurzerhand den Kleinen Dachs entführen, um den Freunden die Schatzkarte und damit den Schatz abzujagen. Socke muss sich entscheiden: Soll er seinen Freund retten oder den Schatz als erster finden und König werden? Während er noch grübelt, machen die Freunde eine aufregende Entdeckung, die das Leben der Waldbewohner gehörig durcheinander wirbelt... (Quelle: Verleih)",
       "trailer": "https://www.youtube.com/watch?v=_H9DJgT4c2w",
-      "available": -1,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -2023,9 +1952,9 @@
       "timestamp": 1627862400000,
       "time": "18:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691289?layout=shows",
-      "available": -1,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -2041,9 +1970,9 @@
       "img": "https://media.kinoheld.de/nGB5qJCKE-9-pQTApf34z8UlpHg=/400x560/images%2Ffilm%2Fjudas-and-the-black-messiah-19127.v11.jpg",
       "description": "In den späten 1960er Jahren wird der 17-jährige Kleinkriminelle William O'Neal in Chicago verhaftet, nachdem er versucht hat, ein Auto zu entführen, während er sich als Bundesbeamter ausgab. Er wird von FBI-Spezialagent Roy Mitchell angesprochen, der anbietet, O'Neals Anklage fallen zu lassen, wenn er undercover für das FBI arbeitet. O'Neal wird beauftragt, die Illinois-Sektion der Black Panther Party und ihren Anführer Fred Hampton zu infiltrieren. O'Neal beginnt, sich Hampton anzunähern, der daran arbeitet, Allianzen mit rivalisierenden Gangs und Milizgruppen zu bilden, während er die Gemeinde durch das „Free Breakfast for Children“-Programm der Black Panther unterstützt. Als der Parteivorsitzende Fred Hampton aufsteigt und sich unterwegs in die Mitrevolutionärin Deborah Johnson verliebt, entbrennt ein Kampf um O'Neals Seele.",
       "trailer": "https://www.youtube.com/watch?v=yNE70wMLTCc",
-      "available": 681,
-      "reserved": 1,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -2109,9 +2038,9 @@
       "img": "https://media.kinoheld.de/WZGDOgvrj-rLVijqmTMGNet7Tj0=/400x560/images%2Ffilm%2F4%2Frettet-raffi-2125.v1.jpg",
       "description": "Der achtjährige Sammy ist am Boden zerstört: Erst wird sein Goldhamster Raffi, den er von seinem Vater - kurz bevor der die Familie nach einem Streit verlassen hat, um in Afghanistan zu arbeiten - schwer krank und kurz darauf entführt. Und das direkt nach der Operation, die Raffi das Leben gerettet hat! Weil Sammy um keinen Preis der Welt seinen geliebten Freund aufgeben will, macht sich der Junge auf eine lange, nicht ungefährliche Reise, die ihn zunächst zu dem Gangster Rocky, dann an den Hamburger Hafen und schließlich doch noch glücklich zu Raffi führt. (v.f.)",
       "trailer": "https://www.youtube.com/watch?v=kwtD7SNydFE",
-      "available": -1,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -2364,24 +2293,6 @@
     }
   ],
   "b-ware-openair-fmp": [
-    {
-      "cinemaId": "1657",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
-      "cinemaName": "b-ware-openair-fmp",
-      "cinemaShortName": "fmp",
-      "id": "fmp-2392543001",
-      "title": "HOME - FILM PREVIEW (subtitled OV / en)",
-      "date": "Fr., 23.7.",
-      "timestamp": 1626998400000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2392543001?layout=shows",
-      "img": "https://media.kinoheld.de/yc9G3qbZMYT5hbv0CGi_iULDOSg=/400x560/images%2Ffilm%2Fmo%2F3013-37599.v2.jpg",
-      "description": "Nach mehr als 17 Jahren Haft macht sich Marvin auf den Weg nach Hause – auf seinem Skateboard und im Trainingsanzug, in dem er als Teenager verhaftet wurde. Daheim in Newhall erwartet ihn seine kranke Mutter in dem heruntergekommenen Haus seiner Kindheit. Schnell merkt Marvin, dass die Bewohner der Kleinstadt seine Tat auch nach so vielen Jahren nicht vergessen haben. Besonders der Flintow-Clan begegnet ihm mit unverhohlenem Hass. Doch Marvin ist bereit, sich den Konsequenzen seiner Vergangenheit zu stellen. Als er alle Schikanen ohne Gegenwehr erträgt, beginnt die junge Delta Flintow ihn mit anderen Augen zu sehen …",
-      "trailer": "https://youtu.be/XxMkftoJxkg",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
     {
       "cinemaId": "1657",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
@@ -3046,23 +2957,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
       "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
       "cinemaShortName": "pompeji ostkreuz",
-      "id": "pompeji ostkreuz-2399907180",
-      "title": "CINEMATIC CONCERT: PLAYTIME (OV)",
-      "date": "Fr., 23.7.",
-      "timestamp": 1626998400000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2399907180?layout=shows",
-      "img": "https://media.kinoheld.de/NfIIL9RrlCtXaTz-3vmJuD5E1rs=/400x560/images%2Ffilm%2Fmo%2F2413-38285.v2.jpg",
-      "description": "CINEMATIC CONCERT: Monsieur Hulot schlendert verträumt durch das futuristische Paris und wird Zeuge der Monotonie und der Regeln der Moderne. Er ist auf der Suche nach einem Monsieur Giffard, aber durch eine Vielzahl von Missgeschicken verpassen sie sich immer wieder. Monsieur Hulot sucht ihn an den verschiedensten Orten und durchquert dabei einen Flughafen, ein Bürogebäude, eine Wohnung und ein Restaurant. Jede Station erscheint ihm steril und einheitlich; aus Beton, Glas und Stahl.",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "2153",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-      "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-      "cinemaShortName": "pompeji ostkreuz",
       "id": "pompeji ostkreuz-2399907188",
       "title": "THE BLUES BROTHERS - EXTENDED VERSION (OV)",
       "date": "Sa., 24.7.",
@@ -3579,62 +3473,8 @@
       "bookable": true
     }
   ],
-  "b-ware-openairprinzessinnengarten-kollektiv-neukoell": [
-    {
-      "cinemaId": "2339",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openairprinzessinnengarten-kollektiv-neukoell/shows/movies",
-      "cinemaName": "b-ware-openairprinzessinnengarten-kollektiv-neukoell",
-      "cinemaShortName": "prinzessinengärten",
-      "id": "prinzessinengärten-2393528697",
-      "title": "FUTUR DREI (subtitled OV)",
-      "date": "Fr., 23.7.",
-      "timestamp": 1626998400000,
-      "time": "21:45",
-      "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openairprinzessinnengarten-kollektiv-neukoell/show/2393528697?layout=shows",
-      "img": "https://media.kinoheld.de/05Q9g3CzGjSrED-jm-g0dVl1LNs=/400x560/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v209.jpg",
-      "description": "Aufgewachsen im komfortablen Wohlstand seiner iranischen Einwanderer-Eltern entzieht sich Millenial Parvis dem Provinzleben in Hildesheim durch Popkultur, Grindr-Dates und Raves. Als Strafe für einen Ladendiebstahl muß er Sozialstunden als Übersetzer in einer Unterkunft für Geflüchtete leisten, in der er auf das iranische Geschwisterpaar Banafshe und Amon trifft. Zwischen ihnen entwickelt sich eine fragile Dreierbeziehung, die zunehmend von dem Bewusstsein geprägt ist, dass ihre Zukunft in Deutschland ungleich ist.",
-      "trailer": "https://www.youtube.com/watch?v=DitVsuZ66fQ",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    }
-  ],
+  "b-ware-openairprinzessinnengarten-kollektiv-neukoell": [],
   "mobile-kino-berlin": [
-    {
-      "cinemaId": "3033",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/mobile-kino-berlin/shows/movies",
-      "cinemaName": "mobile-kino-berlin",
-      "cinemaShortName": "mobile kino",
-      "id": "mobile kino-2400476021",
-      "title": "GLÜCK 2021 (subtitled OV English)",
-      "date": "Fr., 23.7.",
-      "timestamp": 1626998400000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2400476021?layout=shows",
-      "img": "https://media.kinoheld.de/qVnneLWJ-1BHSsKCYvIBqUWe14Y=/400x560/images%2Ffilm%2Fglueck-19174.v1.jpg",
-      "description": "Zwei Sexarbeiterinnen verlieben sich ineinander – und das in einer Welt, in der der weibliche Körper ein teures Gut ist. Trotz ihres trostlosen Lebens erleben die erfahrene Sascha (Katharina Behrens) und ihre neue, aus Italien stammende Kollegin Maria (Adam Hoya) gemeinsam Momente des Glücks und drohen doch an den eigenen Abgründen zu scheitern...",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "3033",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/mobile-kino-berlin/shows/movies",
-      "cinemaName": "mobile-kino-berlin",
-      "cinemaShortName": "mobile kino",
-      "id": "mobile kino-2403046741",
-      "title": "THE TROUBLE WITH BEING BORN (subtitled OV English)",
-      "date": "Fr., 23.7.",
-      "timestamp": 1626998400000,
-      "time": "22:00",
-      "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2403046741?layout=shows",
-      "img": "https://media.kinoheld.de/wkU_KHbys0bMLTLcd3GFXv3CDUQ=/400x560/images%2Ffilm%2Fthe-trouble-with-being-born-19295.v3.png",
-      "description": "Elli lebt mit einem Mann zusammen, den sie ihren Vater nennt.  Gemeinsam lassen sie sich durch den Sommer treiben. Tagsüber schwimmen sie im Pool und nachts bringt er sie ins Bett. Sie teilt seine Erinnerungen und alles andere, was er ihr einprogrammiert, damit sie sich daran erinnert. Erinnerungen, die ihm alles, aber ihr nichts bedeuten. Doch eines Nacht macht sie sich auf den Weg in den Wald und folgt einem verklingenden Echo...  Die Geschichte einer Maschine und der Geister, die wir alle in uns tragen.",
-      "trailer": "https://www.youtube.com/watch?v=515710227",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
     {
       "cinemaId": "3033",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/mobile-kino-berlin/shows/movies",
@@ -3979,9 +3819,9 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 8,
+      "reserved": 452,
+      "bookable": true
     },
     {
       "title": "Futur 3",
@@ -4159,6 +3999,24 @@
       "bookable": true
     },
     {
+      "title": "FABIAN ODER DER GANG VOR DIE HUNDE",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60dd79896144404c8baee28b/show_DCM__Fabian-Artworks_Final_gelb-scaled-352x528_2.jpeg",
+      "description": "Im Berlin des Jahres 1931 lässt sich Jakob Fabian durch das Leben treiben. Eines Tages trifft er auf Cornelia und verliebt sich auf den ersten Blick in sie. Fabians naives Leben nimmt eine dramatische Wendung, als er einer Entlassungswelle zum Opfer fällt, Cornelias Karriere als Schauspielerin jedoch an Fahrt aufnimmt. Eines Tages trifft er in einem Atelier auf Cornelia (Saskia Rosendahl) und verliebt sich auf den ersten Blick in sie. Fabians naives Leben nimmt eine dramatische Wendung, als er einer Entlassungswelle zum Opfer fällt, Cornelias Karriere als Schauspielerin jedoch an Fahrt aufnimmt...\n\nFrei nach dem Roman von Erich Kästner.",
+      "trailer": "https://www.youtube.com/watch?v=VQFk1DMzvvI&ab_channel=DCM",
+      "cinemaId": "54eefd0b683138488b190000",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-286",
+      "url": "https://yorck.de/checkout/step01?showid=286&siteid=1015",
+      "time": "21:15",
+      "date": "Mi., 4.8.,",
+      "timestamp": 1628111700000,
+      "available": 359,
+      "reserved": 101,
+      "bookable": true
+    },
+    {
       "title": "Nomadland (OmU)",
       "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/6040ac56614440014e079840/show_Nomadland_Pos_Poster_S.jpg",
       "description": "Fern (Frances McDormand) hat erst ihren Mann, dann ihre Heimatstadt verloren, nachdem der größte Arbeitgeber dort dichtgemacht hat. Sie packt alle Habseligkeiten in einen Transporter und beginnt, als Nomadin der Arbeit hinterherzuziehen. Wer wissen möchte, was großes Kino ist und kann, hat hier Termin!",
@@ -4204,9 +4062,9 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 8,
+      "reserved": 452,
+      "bookable": true
     },
     {
       "title": "Der Spion (OmU)",
@@ -4242,6 +4100,24 @@
       "timestamp": 1627507800000,
       "available": 373,
       "reserved": 87,
+      "bookable": true
+    },
+    {
+      "title": "FABIAN ODER DER GANG VOR DIE HUNDE",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60dd79896144404c8baee28b/show_DCM__Fabian-Artworks_Final_gelb-scaled-352x528_2.jpeg",
+      "description": "Im Berlin des Jahres 1931 lässt sich Jakob Fabian durch das Leben treiben. Eines Tages trifft er auf Cornelia und verliebt sich auf den ersten Blick in sie. Fabians naives Leben nimmt eine dramatische Wendung, als er einer Entlassungswelle zum Opfer fällt, Cornelias Karriere als Schauspielerin jedoch an Fahrt aufnimmt. Eines Tages trifft er in einem Atelier auf Cornelia (Saskia Rosendahl) und verliebt sich auf den ersten Blick in sie. Fabians naives Leben nimmt eine dramatische Wendung, als er einer Entlassungswelle zum Opfer fällt, Cornelias Karriere als Schauspielerin jedoch an Fahrt aufnimmt...\n\nFrei nach dem Roman von Erich Kästner.",
+      "trailer": "https://www.youtube.com/watch?v=VQFk1DMzvvI&ab_channel=DCM",
+      "cinemaId": "54eefd0b683138488b190000",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-286",
+      "url": "https://yorck.de/checkout/step01?showid=286&siteid=1015",
+      "time": "21:15",
+      "date": "Mi., 4.8.,",
+      "timestamp": 1628111700000,
+      "available": 359,
+      "reserved": 101,
       "bookable": true
     },
     {
@@ -4366,8 +4242,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 71,
-      "reserved": 572,
+      "available": 70,
+      "reserved": 573,
       "bookable": true
     },
     {
@@ -4384,8 +4260,8 @@
       "time": "21:30",
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
-      "available": 418,
-      "reserved": 81,
+      "available": 417,
+      "reserved": 82,
       "bookable": true
     },
     {
@@ -4419,8 +4295,8 @@
       "time": "21:30",
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
-      "available": 461,
-      "reserved": 38,
+      "available": 458,
+      "reserved": 41,
       "bookable": true
     },
     {
@@ -4506,8 +4382,8 @@
       "time": "21:15",
       "date": "So., 1.8.,",
       "timestamp": 1627852500000,
-      "available": 471,
-      "reserved": 28,
+      "available": 469,
+      "reserved": 30,
       "bookable": true
     },
     {
@@ -4544,6 +4420,24 @@
       "timestamp": 1628025300000,
       "available": 473,
       "reserved": 26,
+      "bookable": true
+    },
+    {
+      "title": "Die Adern der Welt",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60f969d569f5b547d4dcf64a/show_die-adern-der-welt__Plakat_Pandora_Film_800.jpg",
+      "description": "In der mongolischen Steppe lebt der 12-jährige Amra mit seiner Mutter Zaya, seinem Vater Erdene und seiner kleinen Schwester Altaa ein traditionelles Nomadenleben.  Amra träumt einen ganz anderen Traum: Er will ins Fernsehen und bei der Show „Mongolia's Got Talent“ auftreten.",
+      "trailer": "https://www.youtube.com/watch?v=DmzVwdaPBJ8",
+      "cinemaId": "60a3b5ed61444058ac0797a2",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-schloss-charlottenburg",
+      "cinemaName": "sommerkino-schloss-charlottenburg",
+      "cinemaShortName": "schloss-charlottenburg",
+      "id": "schloss-charlottenburg-70",
+      "url": "https://yorck.de/checkout/step01?showid=70&siteid=1020",
+      "time": "21:15",
+      "date": "Mi., 4.8.,",
+      "timestamp": 1628111700000,
+      "available": 479,
+      "reserved": 20,
       "bookable": true
     },
     {
@@ -4560,8 +4454,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 71,
-      "reserved": 572,
+      "available": 70,
+      "reserved": 573,
       "bookable": true
     },
     {
@@ -4618,6 +4512,24 @@
       "bookable": true
     },
     {
+      "title": "Die Adern der Welt",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60f969d569f5b547d4dcf64a/show_die-adern-der-welt__Plakat_Pandora_Film_800.jpg",
+      "description": "In der mongolischen Steppe lebt der 12-jährige Amra mit seiner Mutter Zaya, seinem Vater Erdene und seiner kleinen Schwester Altaa ein traditionelles Nomadenleben.  Amra träumt einen ganz anderen Traum: Er will ins Fernsehen und bei der Show „Mongolia's Got Talent“ auftreten.",
+      "trailer": "https://www.youtube.com/watch?v=DmzVwdaPBJ8",
+      "cinemaId": "60a3b5ed61444058ac0797a2",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-schloss-charlottenburg",
+      "cinemaName": "sommerkino-schloss-charlottenburg",
+      "cinemaShortName": "schloss-charlottenburg",
+      "id": "schloss-charlottenburg-70",
+      "url": "https://yorck.de/checkout/step01?showid=70&siteid=1020",
+      "time": "21:15",
+      "date": "Mi., 4.8.,",
+      "timestamp": 1628111700000,
+      "available": 479,
+      "reserved": 20,
+      "bookable": true
+    },
+    {
       "title": "Frühling in Paris (OmU)",
       "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60d9b2596144400536d999ad/show_Poster_FRUEHLING_IN_PARIS_neu.jpg",
       "description": "Paris, Montmartre, Frühling. Suzanne ist 16 Jahre alt und ihre Altersgenossen langweilen sie zutiefst. Auf ihrem Weg zur Schule kommt sie jeden Tag an einem Theater vorbei. Dort begegnet sie dem 35-jährigen Schauspieler Raphaël, beide sind immer mehr fasziniert voneinander. Sie schweben durch das Viertel, tanzen verliebt durch die Straßen. Doch dann bekommt Suzanne Angst, dass sie etwas im Leben verpasst – das ganz normale Leben eines Mädchens in ihrem Alter.",
@@ -4631,8 +4543,8 @@
       "time": "21:30",
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
-      "available": 461,
-      "reserved": 38,
+      "available": 458,
+      "reserved": 41,
       "bookable": true
     },
     {
@@ -4666,8 +4578,8 @@
       "time": "21:15",
       "date": "So., 1.8.,",
       "timestamp": 1627852500000,
-      "available": 471,
-      "reserved": 28,
+      "available": 469,
+      "reserved": 30,
       "bookable": true
     },
     {
@@ -4736,8 +4648,8 @@
       "time": "21:30",
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
-      "available": 418,
-      "reserved": 81,
+      "available": 417,
+      "reserved": 82,
       "bookable": true
     }
   ]
