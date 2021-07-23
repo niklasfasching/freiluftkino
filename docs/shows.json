@@ -560,8 +560,8 @@
     "date": "Sa., 24.7.",
     "timestamp": 1627162200000,
     "time": "21:30",
-    "available": 141,
-    "reserved": 426,
+    "available": 139,
+    "reserved": 428,
     "bookable": true
   },
   "xberg-638": {
@@ -2261,9 +2261,9 @@
     "timestamp": 1630368000000,
     "time": "17:00",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691781?layout=shows",
-    "available": -1,
+    "available": 0,
     "reserved": 0,
-    "bookable": true
+    "bookable": false
   },
   "hasenheide-691782": {
     "cinemaId": "580",
@@ -4039,8 +4039,8 @@
     "time": "21:30",
     "date": "Sa., 24.7.",
     "timestamp": 1627162200000,
-    "available": 122,
-    "reserved": 338,
+    "available": 120,
+    "reserved": 340,
     "bookable": true
   },
   "kulturforum-272": {
