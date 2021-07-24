@@ -14,8 +14,8 @@
       "date": "Fr., 13.8.",
       "timestamp": 1628888400000,
       "time": "21:00",
-      "available": 1074,
-      "reserved": 4,
+      "available": 1070,
+      "reserved": 8,
       "bookable": true
     },
     {
@@ -50,8 +50,8 @@
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
       "time": "21:30",
-      "available": 986,
-      "reserved": 92,
+      "available": 978,
+      "reserved": 100,
       "bookable": true
     },
     {
@@ -68,8 +68,8 @@
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
       "time": "21:30",
-      "available": 488,
-      "reserved": 590,
+      "available": 460,
+      "reserved": 618,
       "bookable": true
     },
     {
@@ -387,8 +387,8 @@
       "date": "So., 15.8.",
       "timestamp": 1629043200000,
       "time": "16:00",
-      "available": 910,
-      "reserved": 168,
+      "available": 908,
+      "reserved": 170,
       "bookable": true
     },
     {
@@ -457,8 +457,8 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628960400000,
       "time": "17:00",
-      "available": 519,
-      "reserved": 474,
+      "available": 514,
+      "reserved": 479,
       "bookable": true
     },
     {
@@ -527,8 +527,8 @@
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
       "time": "21:30",
-      "available": 561,
-      "reserved": 116,
+      "available": 557,
+      "reserved": 120,
       "bookable": true
     },
     {
@@ -969,8 +969,8 @@
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
       "time": "21:30",
-      "available": 339,
-      "reserved": 234,
+      "available": 319,
+      "reserved": 254,
       "bookable": true
     },
     {
@@ -1375,8 +1375,8 @@
       "date": "Fr., 20.8.",
       "timestamp": 1629489600000,
       "time": "20:00",
-      "available": 148,
-      "reserved": 307,
+      "available": 152,
+      "reserved": 303,
       "bookable": true
     },
     {
@@ -1604,8 +1604,8 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691237?layout=shows",
       "img": "https://media.kinoheld.de/DVQcxtUYNoxr36fQFLasSd8kr_E=/400x560/images%2Ffilm%2Falles-ist-eins-ausser-der-0-19150.v1.jpg",
       "description": "ALLES IST EINS. AUSSER DER 0. erzählt eine Geschichte digitaler Subversion: vom exklusiven Club zu einer Instanz, die heute bei allen Fragen der Netzpolitik zu Rate gezogen wird. Der Dokumentarfilm von Klaus Maeck und Tanja Schwerdorf setzt der bekanntesten deutschen Hackervereinigung ein stilsicheres, kraftvolles und würdiges Denkmal. Selten hat man ein so eindringliches Porträt über Zeitgeist-Pioniere gesehen, deren Weitblick für die Gegenwart so beeindruckend wie bereichernd ist.",
-      "available": 16,
-      "reserved": 197,
+      "available": 11,
+      "reserved": 199,
       "bookable": true
     },
     {
@@ -3487,8 +3487,8 @@
       "img": "https://media.kinoheld.de/kYStEhPmGfaEZFCEJgfHXxwlOxU=/400x560/images%2Ffilm%2Fleon-der-profi-wa-2019-14361.v11.jpg",
       "description": "Léon verdient sein Geld als Auftragskiller der Italo-Mafia in den Straßen von New York. Er lebt zurückgezogen und pflegt außer zu seinem Boss Tony einzig zu seiner Topfpflanze ein freundschaftliches Verhältnis. Als die Familie seiner Nachbarstochter Mathilda von DEA-Polizisten brutal getötet wird, flüchtet sie zu Léon. Um sich an den Mördern ihres kleinen Bruders zu rächen, lässt sich Mathilda das grausame Handwerk eines Profi-Killers von Léon beibringen. (Quelle: Verleih)",
       "trailer": "https://youtu.be/MKJ-nXADsVk",
-      "available": 26,
-      "reserved": 49,
+      "available": 22,
+      "reserved": 51,
       "bookable": true
     },
     {
@@ -3888,8 +3888,8 @@
       "time": "21:30",
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
-      "available": 369,
-      "reserved": 91,
+      "available": 365,
+      "reserved": 95,
       "bookable": true
     },
     {
@@ -3924,8 +3924,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 34,
-      "reserved": 426,
+      "available": 32,
+      "reserved": 428,
       "bookable": true
     },
     {
@@ -3992,8 +3992,8 @@
       "time": "21:15",
       "date": "Di., 3.8.,",
       "timestamp": 1628025300000,
-      "available": 348,
-      "reserved": 112,
+      "available": 346,
+      "reserved": 114,
       "bookable": true
     },
     {
@@ -4028,8 +4028,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 34,
-      "reserved": 426,
+      "available": 32,
+      "reserved": 428,
       "bookable": true
     },
     {
@@ -4096,8 +4096,8 @@
       "time": "21:30",
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
-      "available": 369,
-      "reserved": 91,
+      "available": 365,
+      "reserved": 95,
       "bookable": true
     },
     {
@@ -4150,8 +4150,8 @@
       "time": "21:15",
       "date": "Di., 3.8.,",
       "timestamp": 1628025300000,
-      "available": 348,
-      "reserved": 112,
+      "available": 346,
+      "reserved": 114,
       "bookable": true
     },
     {
@@ -4240,9 +4240,9 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 8,
-      "reserved": 635,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "title": "Undine",
@@ -4258,8 +4258,8 @@
       "time": "21:30",
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
-      "available": 411,
-      "reserved": 88,
+      "available": 397,
+      "reserved": 102,
       "bookable": true
     },
     {
@@ -4275,8 +4275,8 @@
       "time": "21:30",
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
-      "available": 418,
-      "reserved": 81,
+      "available": 417,
+      "reserved": 82,
       "bookable": true
     },
     {
@@ -4293,8 +4293,8 @@
       "time": "21:30",
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
-      "available": 456,
-      "reserved": 43,
+      "available": 455,
+      "reserved": 44,
       "bookable": true
     },
     {
@@ -4452,9 +4452,9 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 8,
-      "reserved": 635,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "title": "Ich bin dein Mensch",
@@ -4541,8 +4541,8 @@
       "time": "21:30",
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
-      "available": 456,
-      "reserved": 43,
+      "available": 455,
+      "reserved": 44,
       "bookable": true
     },
     {
@@ -4558,8 +4558,8 @@
       "time": "21:30",
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
-      "available": 418,
-      "reserved": 81,
+      "available": 417,
+      "reserved": 82,
       "bookable": true
     },
     {
@@ -4646,8 +4646,8 @@
       "time": "21:30",
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
-      "available": 411,
-      "reserved": 88,
+      "available": 397,
+      "reserved": 102,
       "bookable": true
     }
   ]
