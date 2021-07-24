@@ -32,8 +32,8 @@
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
       "time": "21:30",
-      "available": 843,
-      "reserved": 235,
+      "available": 847,
+      "reserved": 231,
       "bookable": true
     },
     {
@@ -68,8 +68,8 @@
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
       "time": "21:30",
-      "available": 384,
-      "reserved": 694,
+      "available": 354,
+      "reserved": 724,
       "bookable": true
     },
     {
@@ -140,8 +140,8 @@
       "date": "Do., 29.7.",
       "timestamp": 1627592400000,
       "time": "21:00",
-      "available": 633,
-      "reserved": 445,
+      "available": 631,
+      "reserved": 447,
       "bookable": true
     },
     {
@@ -211,8 +211,8 @@
       "date": "Sa., 31.7.",
       "timestamp": 1627765200000,
       "time": "21:00",
-      "available": 1043,
-      "reserved": 35,
+      "available": 1040,
+      "reserved": 38,
       "bookable": true
     },
     {
@@ -527,8 +527,8 @@
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
       "time": "21:30",
-      "available": 559,
-      "reserved": 118,
+      "available": 556,
+      "reserved": 121,
       "bookable": true
     },
     {
@@ -563,8 +563,8 @@
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
       "time": "21:30",
-      "available": 514,
-      "reserved": 163,
+      "available": 506,
+      "reserved": 171,
       "bookable": true
     },
     {
@@ -599,8 +599,8 @@
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
       "time": "21:30",
-      "available": 608,
-      "reserved": 69,
+      "available": 604,
+      "reserved": 73,
       "bookable": true
     },
     {
@@ -705,8 +705,8 @@
       "date": "Sa., 31.7.",
       "timestamp": 1627765200000,
       "time": "21:00",
-      "available": 669,
-      "reserved": 8,
+      "available": 668,
+      "reserved": 9,
       "bookable": true
     },
     {
@@ -915,8 +915,8 @@
       "date": "Do., 12.8.",
       "timestamp": 1628802900000,
       "time": "21:15",
-      "available": 657,
-      "reserved": 20,
+      "available": 655,
+      "reserved": 22,
       "bookable": true
     },
     {
@@ -969,8 +969,8 @@
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
       "time": "21:30",
-      "available": 280,
-      "reserved": 293,
+      "available": 257,
+      "reserved": 316,
       "bookable": true
     },
     {
@@ -1005,8 +1005,8 @@
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
       "time": "21:30",
-      "available": 534,
-      "reserved": 39,
+      "available": 532,
+      "reserved": 41,
       "bookable": true
     },
     {
@@ -1041,8 +1041,8 @@
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
       "time": "21:30",
-      "available": 527,
-      "reserved": 46,
+      "available": 525,
+      "reserved": 48,
       "bookable": true
     },
     {
@@ -1482,9 +1482,9 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691761?layout=shows",
       "img": "https://media.kinoheld.de/n2LLOWFHYrlqmBPgRfjQyFH35F4=/400x560/images%2Ffilm%2Fdas-maedchen-und-die-spinne-19311.v2.jpg",
       "description": "Eine junge Frau zieht aus ihrer WG in eine eigene Wohnung, was zu Problemen führt.",
-      "available": -1,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1554,8 +1554,8 @@
       "img": "https://media.kinoheld.de/g_qzyOj4oDoc4Iq0De9_5F5QNUM=/400x560/images%2Ffilm%2Fil-babykino-milla-meets-moses-babyteeth-17584.v14.jpg",
       "description": "Milla (Eliza Scanlen) trifft Moses (Toby Wallace) – vielmehr wird sie bei der ersten Begegnung buchstäblich von ihm umgehauen. Obwohl Moses sich als Herumtreiber und Gelegenheitsdealer entpuppt, nimmt sie ihn mit zu sich nach Hause, um ihn ihren Eltern vorzustellen. Anna (Essie Davis) und Henry (Ben Mendelsohn) – eine ehemalige Konzertpianistin und ein ziemlich entspannter Psychiater – sind alles andere als begeistert von Millas neuem Freund. Doch Millas Lebensfreude und ihre Sehnsucht, die Liebe und die Welt zu entdecken, stellen die Familie auf den Kopf. Als die Eltern merken, dass Moses ihrer kranken Tochter sichtlich guttut, nehmen sie ihn trotz ihrer Bedenken bei sich auf und werden dabei mit ihren eigenen Schwächen konfrontiert.",
       "trailer": "https://www.youtube.com/watch?v=kTvEl_ZjVUc",
-      "available": 506,
-      "reserved": 44,
+      "available": 502,
+      "reserved": 45,
       "bookable": true
     },
     {
@@ -1604,8 +1604,8 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691237?layout=shows",
       "img": "https://media.kinoheld.de/DVQcxtUYNoxr36fQFLasSd8kr_E=/400x560/images%2Ffilm%2Falles-ist-eins-ausser-der-0-19150.v1.jpg",
       "description": "ALLES IST EINS. AUSSER DER 0. erzählt eine Geschichte digitaler Subversion: vom exklusiven Club zu einer Instanz, die heute bei allen Fragen der Netzpolitik zu Rate gezogen wird. Der Dokumentarfilm von Klaus Maeck und Tanja Schwerdorf setzt der bekanntesten deutschen Hackervereinigung ein stilsicheres, kraftvolles und würdiges Denkmal. Selten hat man ein so eindringliches Porträt über Zeitgeist-Pioniere gesehen, deren Weitblick für die Gegenwart so beeindruckend wie bereichernd ist.",
-      "available": 6,
-      "reserved": 202,
+      "available": 4,
+      "reserved": 204,
       "bookable": true
     },
     {
@@ -1766,8 +1766,8 @@
       "img": "https://media.kinoheld.de/qlejqxHAh_z_5qWR-8IW6FnZPdw=/400x560/images%2Ffilm%2Fnobody-19283.v29.png",
       "description": "Familienvater Hutch (Bob Odenkirk) ist ein Niemand. Der Vorstadt-Familienvater wird von den meisten Leuten einfach ignoriert und zieht auch niemals die Aufmerksamkeit auf sich. Als zwei Verbrecher eines Nachts in sein Haus einsteigen, sieht er sich außerstande, sich oder seine Familie zu verteidigen. Schließlich will er Gewalt um jeden Preis verhindern. Sein Sohn Brady (Gage Munroe) wendet sich daraufhin enttäuscht von seinem Vater ab. Seine Frau Becca (Connie Nielsen) tut es ihm gleich und zieht sich noch mehr zurück. Doch der Einbruch löst bei Hutch etwas aus. Er sieht plötzlich rot und enthüllt eine dunkle Seite, die ihn auf einen Pfad der Gewalt schickt: Einst arbeitete der vermeintliche Versager nämlich als Killer für die Mafia. Und von nun an stellt er mit allen Mitteln sicher, dass seiner Familie nie wieder etwas geschehen und er als Niemand so schnell nicht mehr unterschätzt wird...",
       "trailer": "https://youtu.be/MKJ-nXADsVk",
-      "available": 652,
-      "reserved": 8,
+      "available": 638,
+      "reserved": 12,
       "bookable": true
     },
     {
@@ -2071,7 +2071,7 @@
       "img": "https://media.kinoheld.de/6Qu2TJ0HehGLKgwa4dBGTKappvI=/400x560/images%2Ffilm%2Ftenet-16731.v2.png",
       "description": "Ein Agent wird rekrutiert, um einen besonderen Auftrag auszuführen: Er soll den 3. Weltkrieg verhindern. Diesmal ist jedoch keine nukleare Bedrohung der Grund, sondern es muss eine Person gestoppt werden, welche die Fähigkeit besitzt, die Zeit zu manipulieren.",
       "trailer": "https://www.youtube.com/watch?v=jfEQ0BdeQJQ",
-      "available": 667,
+      "available": 669,
       "reserved": 3,
       "bookable": true
     },
@@ -3487,8 +3487,8 @@
       "img": "https://media.kinoheld.de/kYStEhPmGfaEZFCEJgfHXxwlOxU=/400x560/images%2Ffilm%2Fleon-der-profi-wa-2019-14361.v11.jpg",
       "description": "Léon verdient sein Geld als Auftragskiller der Italo-Mafia in den Straßen von New York. Er lebt zurückgezogen und pflegt außer zu seinem Boss Tony einzig zu seiner Topfpflanze ein freundschaftliches Verhältnis. Als die Familie seiner Nachbarstochter Mathilda von DEA-Polizisten brutal getötet wird, flüchtet sie zu Léon. Um sich an den Mördern ihres kleinen Bruders zu rächen, lässt sich Mathilda das grausame Handwerk eines Profi-Killers von Léon beibringen. (Quelle: Verleih)",
       "trailer": "https://youtu.be/MKJ-nXADsVk",
-      "available": 5,
-      "reserved": 70,
+      "available": 3,
+      "reserved": 72,
       "bookable": true
     },
     {
@@ -3817,9 +3817,9 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 9,
+      "reserved": 451,
+      "bookable": true
     },
     {
       "title": "Futur 3",
@@ -3835,8 +3835,8 @@
       "time": "21:30",
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
-      "available": 386,
-      "reserved": 74,
+      "available": 384,
+      "reserved": 76,
       "bookable": true
     },
     {
@@ -3888,8 +3888,8 @@
       "time": "21:30",
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
-      "available": 363,
-      "reserved": 97,
+      "available": 362,
+      "reserved": 98,
       "bookable": true
     },
     {
@@ -3924,8 +3924,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 23,
-      "reserved": 437,
+      "available": 20,
+      "reserved": 440,
       "bookable": true
     },
     {
@@ -4028,8 +4028,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 23,
-      "reserved": 437,
+      "available": 20,
+      "reserved": 440,
       "bookable": true
     },
     {
@@ -4060,9 +4060,9 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 9,
+      "reserved": 451,
+      "bookable": true
     },
     {
       "title": "Der Spion (OmU)",
@@ -4096,8 +4096,8 @@
       "time": "21:30",
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
-      "available": 363,
-      "reserved": 97,
+      "available": 362,
+      "reserved": 98,
       "bookable": true
     },
     {
@@ -4132,8 +4132,8 @@
       "time": "21:30",
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
-      "available": 386,
-      "reserved": 74,
+      "available": 384,
+      "reserved": 76,
       "bookable": true
     },
     {
@@ -4240,9 +4240,9 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 9,
+      "reserved": 634,
+      "bookable": true
     },
     {
       "title": "Undine",
@@ -4258,8 +4258,8 @@
       "time": "21:30",
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
-      "available": 394,
-      "reserved": 105,
+      "available": 390,
+      "reserved": 109,
       "bookable": true
     },
     {
@@ -4328,8 +4328,8 @@
       "time": "21:30",
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
-      "available": 189,
-      "reserved": 310,
+      "available": 183,
+      "reserved": 316,
       "bookable": true
     },
     {
@@ -4452,9 +4452,9 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 9,
+      "reserved": 634,
+      "bookable": true
     },
     {
       "title": "Ich bin dein Mensch",
@@ -4487,8 +4487,8 @@
       "time": "21:30",
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
-      "available": 189,
-      "reserved": 310,
+      "available": 183,
+      "reserved": 316,
       "bookable": true
     },
     {
@@ -4646,8 +4646,8 @@
       "time": "21:30",
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
-      "available": 394,
-      "reserved": 105,
+      "available": 390,
+      "reserved": 109,
       "bookable": true
     }
   ]
