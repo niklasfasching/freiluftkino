@@ -32,8 +32,8 @@
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
       "time": "21:30",
-      "available": 865,
-      "reserved": 213,
+      "available": 861,
+      "reserved": 217,
       "bookable": true
     },
     {
@@ -68,8 +68,8 @@
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
       "time": "21:30",
-      "available": 689,
-      "reserved": 389,
+      "available": 666,
+      "reserved": 412,
       "bookable": true
     },
     {
@@ -140,8 +140,8 @@
       "date": "Do., 29.7.",
       "timestamp": 1627592400000,
       "time": "21:00",
-      "available": 644,
-      "reserved": 434,
+      "available": 640,
+      "reserved": 438,
       "bookable": true
     },
     {
@@ -543,8 +543,8 @@
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
       "time": "21:30",
-      "available": 542,
-      "reserved": 136,
+      "available": 537,
+      "reserved": 141,
       "bookable": true
     },
     {
@@ -561,8 +561,8 @@
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
       "time": "21:30",
-      "available": 585,
-      "reserved": 93,
+      "available": 579,
+      "reserved": 99,
       "bookable": true
     },
     {
@@ -597,8 +597,8 @@
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
       "time": "21:30",
-      "available": 567,
-      "reserved": 111,
+      "available": 566,
+      "reserved": 112,
       "bookable": true
     },
     {
@@ -651,8 +651,8 @@
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
       "time": "21:30",
-      "available": 69,
-      "reserved": 609,
+      "available": 51,
+      "reserved": 627,
       "bookable": true
     },
     {
@@ -969,8 +969,8 @@
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
       "time": "21:30",
-      "available": 414,
-      "reserved": 159,
+      "available": 403,
+      "reserved": 170,
       "bookable": true
     },
     {
@@ -1041,8 +1041,8 @@
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
       "time": "21:30",
-      "available": 538,
-      "reserved": 35,
+      "available": 536,
+      "reserved": 37,
       "bookable": true
     },
     {
@@ -1445,8 +1445,8 @@
       "url": "https://www.kinoheld.de/cinema-berlin/filmrauschpalast/show/2389921681?layout=shows",
       "img": "https://media.kinoheld.de/BSqm-COGe1pOX8Aa2trhzxelbJg=/400x560/images%2Ffilm%2Fmo%2F1863-37085.v2.jpg",
       "description": "Die Weltstars Brigitte Bardot und Claudia Cardinale garnieren als \"Bandidas\" der 70er-Jahre einen fröhlichen Western-Klamauk, der mehr Spaß als Parodie ist. Der Euro-Western von Altmeister Christian-Jaque) hat Anklänge an Louis Malles Revolutionswestern \"Viva Maria\" und lebt von der Spielfreude der Revolverladys BB und CC, die sich unter anderem einen Boxkampf liefern. Die Musik stammt von Francis Lai (\"Ein Mann und eine Frau\").\r\n> In einer kleinen Stadt in Texas nach dem Bürgerkrieg. Rancherin Maria und ihre sieben Brüder haben es auf die \"Little P\"-Ranch abgesehen, wo seit einiger Zeit Erdöl vermutet wird. Als sie dort auftauchen, ist die Ranch bereits von Frenchie King und ihren sieben Schwestern, die als Banditen in der Gegend Züge und Banken überfallen und sich als Künstlerinnen tarnen, in Besitz genommen worden. Maria und Frenchie bekämpfen sich und raufen sich zusammen, als der korrupte Sheriff und der scheinbare Besitzer auftauchen. Fortan reiten sie gemeinsam.",
-      "available": 69,
-      "reserved": 16,
+      "available": 67,
+      "reserved": 18,
       "bookable": true
     }
   ],
@@ -1922,8 +1922,8 @@
       "img": "https://media.kinoheld.de/DbWHTKT3neGjvULOXqsnipemH2A=/400x560/images%2Ffilm%2Fminari-18286.v2.png",
       "description": "Jacob beschließt, mit seiner koreanisch-amerikanischen Familie von Los Angeles nach Arkansas zu ziehen, um als Farmer sein Glück zu versuchen. Seine Frau Monica und die Kinder David und Anne fühlen sich jedoch fremd in der neuen Heimat, und das fragile Familienleben wird zusätzlich auf die Probe gestellt, als die schlagfertige und liebevolle Großmutter Soonja von Südkorea zu ihnen auf die Farm zieht.",
       "trailer": "https://www.youtube.com/watch?v=TlOqMFPS00g",
-      "available": 570,
-      "reserved": 21,
+      "available": 567,
+      "reserved": 22,
       "bookable": true
     },
     {
@@ -1985,9 +1985,9 @@
       "timestamp": 1627948800000,
       "time": "16:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691728?layout=shows",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -2086,9 +2086,9 @@
       "timestamp": 1628121600000,
       "time": "19:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691312?layout=shows",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -3487,8 +3487,8 @@
       "img": "https://media.kinoheld.de/kYStEhPmGfaEZFCEJgfHXxwlOxU=/400x560/images%2Ffilm%2Fleon-der-profi-wa-2019-14361.v11.jpg",
       "description": "Léon verdient sein Geld als Auftragskiller der Italo-Mafia in den Straßen von New York. Er lebt zurückgezogen und pflegt außer zu seinem Boss Tony einzig zu seiner Topfpflanze ein freundschaftliches Verhältnis. Als die Familie seiner Nachbarstochter Mathilda von DEA-Polizisten brutal getötet wird, flüchtet sie zu Léon. Um sich an den Mördern ihres kleinen Bruders zu rächen, lässt sich Mathilda das grausame Handwerk eines Profi-Killers von Léon beibringen. (Quelle: Verleih)",
       "trailer": "https://youtu.be/MKJ-nXADsVk",
-      "available": 44,
-      "reserved": 31,
+      "available": 42,
+      "reserved": 33,
       "bookable": true
     },
     {
@@ -3817,9 +3817,9 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 8,
+      "reserved": 452,
+      "bookable": true
     },
     {
       "title": "Futur 3",
@@ -3852,8 +3852,8 @@
       "time": "21:30",
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
-      "available": 411,
-      "reserved": 49,
+      "available": 410,
+      "reserved": 50,
       "bookable": true
     },
     {
@@ -3924,8 +3924,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 52,
-      "reserved": 408,
+      "available": 46,
+      "reserved": 414,
       "bookable": true
     },
     {
@@ -4010,8 +4010,8 @@
       "time": "21:15",
       "date": "Mi., 4.8.,",
       "timestamp": 1628111700000,
-      "available": 356,
-      "reserved": 104,
+      "available": 355,
+      "reserved": 105,
       "bookable": true
     },
     {
@@ -4028,8 +4028,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 52,
-      "reserved": 408,
+      "available": 46,
+      "reserved": 414,
       "bookable": true
     },
     {
@@ -4060,9 +4060,9 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 8,
+      "reserved": 452,
+      "bookable": true
     },
     {
       "title": "Der Spion (OmU)",
@@ -4114,8 +4114,8 @@
       "time": "21:15",
       "date": "Mi., 4.8.,",
       "timestamp": 1628111700000,
-      "available": 356,
-      "reserved": 104,
+      "available": 355,
+      "reserved": 105,
       "bookable": true
     },
     {
@@ -4202,8 +4202,8 @@
       "time": "21:30",
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
-      "available": 411,
-      "reserved": 49,
+      "available": 410,
+      "reserved": 50,
       "bookable": true
     },
     {
@@ -4240,8 +4240,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 55,
-      "reserved": 588,
+      "available": 47,
+      "reserved": 596,
       "bookable": true
     },
     {
@@ -4258,8 +4258,8 @@
       "time": "21:30",
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
-      "available": 415,
-      "reserved": 84,
+      "available": 417,
+      "reserved": 82,
       "bookable": true
     },
     {
@@ -4362,8 +4362,8 @@
       "time": "21:30",
       "date": "Sa., 31.7.",
       "timestamp": 1627767000000,
-      "available": 555,
-      "reserved": 88,
+      "available": 553,
+      "reserved": 90,
       "bookable": true
     },
     {
@@ -4398,8 +4398,8 @@
       "time": "21:15",
       "date": "Mo., 2.8.,",
       "timestamp": 1627938900000,
-      "available": 474,
-      "reserved": 25,
+      "available": 471,
+      "reserved": 28,
       "bookable": true
     },
     {
@@ -4416,8 +4416,8 @@
       "time": "21:15",
       "date": "Di., 3.8.,",
       "timestamp": 1628025300000,
-      "available": 473,
-      "reserved": 26,
+      "available": 472,
+      "reserved": 27,
       "bookable": true
     },
     {
@@ -4452,8 +4452,8 @@
       "time": "21:30",
       "date": "Sa., 24.7.",
       "timestamp": 1627162200000,
-      "available": 55,
-      "reserved": 588,
+      "available": 47,
+      "reserved": 596,
       "bookable": true
     },
     {
@@ -4470,8 +4470,8 @@
       "time": "21:15",
       "date": "Mo., 2.8.,",
       "timestamp": 1627938900000,
-      "available": 474,
-      "reserved": 25,
+      "available": 471,
+      "reserved": 28,
       "bookable": true
     },
     {
@@ -4505,8 +4505,8 @@
       "time": "21:15",
       "date": "Di., 3.8.,",
       "timestamp": 1628025300000,
-      "available": 473,
-      "reserved": 26,
+      "available": 472,
+      "reserved": 27,
       "bookable": true
     },
     {
@@ -4628,8 +4628,8 @@
       "time": "21:30",
       "date": "Sa., 31.7.",
       "timestamp": 1627767000000,
-      "available": 555,
-      "reserved": 88,
+      "available": 553,
+      "reserved": 90,
       "bookable": true
     },
     {
@@ -4646,8 +4646,8 @@
       "time": "21:30",
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
-      "available": 415,
-      "reserved": 84,
+      "available": 417,
+      "reserved": 82,
       "bookable": true
     }
   ]
