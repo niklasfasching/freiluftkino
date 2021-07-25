@@ -32,8 +32,8 @@
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
       "time": "21:30",
-      "available": 921,
-      "reserved": 157,
+      "available": 919,
+      "reserved": 159,
       "bookable": true
     },
     {
@@ -50,8 +50,8 @@
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
       "time": "21:30",
-      "available": 920,
-      "reserved": 158,
+      "available": 919,
+      "reserved": 159,
       "bookable": true
     },
     {
@@ -104,8 +104,8 @@
       "date": "Do., 29.7.",
       "timestamp": 1627592400000,
       "time": "21:00",
-      "available": 608,
-      "reserved": 470,
+      "available": 607,
+      "reserved": 471,
       "bookable": true
     },
     {
@@ -175,8 +175,8 @@
       "date": "Sa., 31.7.",
       "timestamp": 1627765200000,
       "time": "21:00",
-      "available": 981,
-      "reserved": 97,
+      "available": 983,
+      "reserved": 95,
       "bookable": true
     },
     {
@@ -404,8 +404,8 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628974800000,
       "time": "21:00",
-      "available": 1051,
-      "reserved": 27,
+      "available": 1053,
+      "reserved": 25,
       "bookable": true
     },
     {
@@ -509,8 +509,8 @@
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
       "time": "21:30",
-      "available": 527,
-      "reserved": 150,
+      "available": 524,
+      "reserved": 153,
       "bookable": true
     },
     {
@@ -527,8 +527,8 @@
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
       "time": "21:30",
-      "available": 546,
-      "reserved": 131,
+      "available": 544,
+      "reserved": 133,
       "bookable": true
     },
     {
@@ -615,8 +615,8 @@
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
       "time": "21:30",
-      "available": 639,
-      "reserved": 38,
+      "available": 641,
+      "reserved": 36,
       "bookable": true
     },
     {
@@ -915,8 +915,8 @@
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
       "time": "21:30",
-      "available": 496,
-      "reserved": 77,
+      "available": 498,
+      "reserved": 75,
       "bookable": true
     },
     {
@@ -1076,8 +1076,8 @@
       "date": "Fr., 6.8.,",
       "timestamp": 1628283600000,
       "time": "21:00",
-      "available": 567,
-      "reserved": 6,
+      "available": 569,
+      "reserved": 4,
       "bookable": true
     },
     {
@@ -1182,8 +1182,8 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628973900000,
       "time": "20:45",
-      "available": 361,
-      "reserved": 212,
+      "available": 358,
+      "reserved": 215,
       "bookable": true
     },
     {
@@ -1515,60 +1515,6 @@
     }
   ],
   "freiluftkino-hasenheide": [
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "hasenheide-691331",
-      "title": "Zu weit weg - aber Freunde für immer! ",
-      "date": "So., 25.7.",
-      "timestamp": 1627171200000,
-      "time": "16:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691331?layout=shows",
-      "img": "https://media.kinoheld.de/aeplxI5NP6wmy4XKeFur6LcxOX4=/400x560/images%2Ffilm%2Fzu-weit-weg-14763.v2.jpg",
-      "description": "Da sein Heimatdorf einem Braunkohletagebau weichen soll, müssen Ben (12) und seine Familie in die nächstgrößere Stadt umziehen. In der neuen Schule ist er erst mal der Außenseiter. Und auch im neuen Fußballverein laufen die Dinge für den talentierten Stürmer nicht wie erhofft. Zu allem Überfluss gibt es noch einen weiteren Neuankömmling an der Schule: Tariq (11), Flüchtling aus Syrien, der ihm nicht nur in der Klasse die Show stehlt, sondern auch noch auf dem Fußballplatz punktet. Wird Ben im Abseits bleiben – oder hat sein Konkurrent doch mehr mit ihm gemeinsam als er denkt?",
-      "trailer": "https://www.youtube.com/watch?v=lmELdP6RiMk",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "hasenheide-692196",
-      "title": "Außer Atem (4K Restoration) ",
-      "date": "So., 25.7.",
-      "timestamp": 1627171200000,
-      "time": "18:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/692196?layout=shows",
-      "img": "https://media.kinoheld.de/8ROO--HvEHHInteBWHtzcym-z2Y=/400x560/images%2Ffilm%2F4%2Fjean-luc-godard-ausser-atem-601.v31.jpg",
-      "description": "Michel, Abenteurer und Autodieb aus Leidenschaft, ist mit einem gestohlenem Luxuswagen auf dem Weg nach Paris, als er eher zufällig in eine Polizeikontrolle gerät und bei der anschließenden Verfolgungsjagt einen Polizisten erschießt. In Paris trifft er Patricia, eine amerikanische Studentin und Michels große Liebe, die ihm hilft unterzutauchen. Godards längst zum Klassiker gewordener Erstlingsfilm ist eine Huldigung an Humphrey Bogart und die \"B-Filme\" Hollywoods: Der Film wimmelt von inszenatorischen Regelverstößen, die man seinerzeit der Unerfahrenheit des Anfängers zuschrieb und erst später als raffinierte Absicht erkannte, zum einen den Kunstcharakter des Films hervorzuheben und zugleich das amerikanische Ideal des \"unsichtbaren\" Schnitts zu hinterfragen. Das hinreißende Paar Jean-Paul Belmondo und Jean Seberg lieferte nebenbei eine der ergreifendsten und schönsten Sterbeszenen der Filmgeschichte.",
-      "trailer": "https://www.youtube.com/watch?v=w0omtWIMmWI",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "hasenheide-691236",
-      "title": "Milla meets Moses (subtitled OV German)",
-      "date": "So., 25.7.",
-      "timestamp": 1627171200000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691236?layout=shows",
-      "img": "https://media.kinoheld.de/g_qzyOj4oDoc4Iq0De9_5F5QNUM=/400x560/images%2Ffilm%2Fil-babykino-milla-meets-moses-babyteeth-17584.v14.jpg",
-      "description": "Milla (Eliza Scanlen) trifft Moses (Toby Wallace) – vielmehr wird sie bei der ersten Begegnung buchstäblich von ihm umgehauen. Obwohl Moses sich als Herumtreiber und Gelegenheitsdealer entpuppt, nimmt sie ihn mit zu sich nach Hause, um ihn ihren Eltern vorzustellen. Anna (Essie Davis) und Henry (Ben Mendelsohn) – eine ehemalige Konzertpianistin und ein ziemlich entspannter Psychiater – sind alles andere als begeistert von Millas neuem Freund. Doch Millas Lebensfreude und ihre Sehnsucht, die Liebe und die Welt zu entdecken, stellen die Familie auf den Kopf. Als die Eltern merken, dass Moses ihrer kranken Tochter sichtlich guttut, nehmen sie ihn trotz ihrer Bedenken bei sich auf und werden dabei mit ihren eigenen Schwächen konfrontiert.",
-      "trailer": "https://www.youtube.com/watch?v=kTvEl_ZjVUc",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
     {
       "cinemaId": "580",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
@@ -2398,24 +2344,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
       "cinemaName": "central-kino-open-air",
       "cinemaShortName": "central",
-      "id": "central-2394922222",
-      "title": "open air: Parasite (subtitled OV)",
-      "date": "So., 25.7.",
-      "timestamp": 1627171200000,
-      "time": "21:15",
-      "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2394922222?layout=shows",
-      "img": "https://media.kinoheld.de/1vIIQBhZZqw-OjT2EuvAAJi3lSc=/400x560/images%2Ffilm%2Fparasite-14289.v362.jpg",
-      "description": "Familie Kim ist ganz unten angekommen: Vater, Mutter, Sohn und Tochter hausen in einem grünlich-schummrigen Keller, kriechen für kostenloses W-LAN in jeden Winkel und sind sich für keinen Aushilfsjob zu schade. Erst als der Jüngste eine Anstellung als Nachhilfelehrer in der todschicken Villa der Familie Park antritt, steigen die Kims ein ins Karussell der Klassenkämpfe. Mit findigen Tricksereien, bemerkenswertem Talent und großem Mannschaftsgeist gelingt es ihnen, die bisherigen Bediensteten der Familie Park nach und nach loszuwerden. Bald schon sind die Kims unverzichtbar für ihre neuen Herrschaften. Doch dann löst ein unerwarteter Zwischenfall eine Kette von Ereignissen aus, die so unvorhersehbar wie unfassbar sind. (Quelle: Verleih)",
-      "trailer": "https://www.youtube.com/watch?v=ugVw6YwrdT4",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "1839",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
-      "cinemaName": "central-kino-open-air",
-      "cinemaShortName": "central",
       "id": "central-2394922246",
       "title": "open air: Suspiria (subtitled OV German)",
       "date": "Mo., 26.7.",
@@ -2966,24 +2894,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
       "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
       "cinemaShortName": "pompeji ostkreuz",
-      "id": "pompeji ostkreuz-2399907196",
-      "title": "ICH BIN DEIN MENSCH (subtitled OV English)",
-      "date": "So., 25.7.",
-      "timestamp": 1627171200000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2399907196?layout=shows",
-      "img": "https://media.kinoheld.de/GPv5gW6xg_Tn765cxn2SEVinVwo=/400x560/images%2Ffilm%2Fich-bin-dein-mensch-18809.v33.jpg",
-      "description": "Kann man sich in jemanden verlieben, der eine Ware ist, einzig dafür geschaffen, die Sehnsucht nach Nähe, Partnerschaft und Liebe zu erfüllen? Und was empfindet eigentlich ein Roboter? In ICH BIN DEIN MENSCH erzählt Maria Schrader von der Begegnung zwischen einer Frau und einem humanoiden Roboter. Alma (Maren Eggert) ist Wissenschaftlerin am berühmten Pergamon-Museum in Berlin. Um an Forschungsgelder für ihre Arbeit zu kommen, lässt sie sich zur Teilnahme an einer außergewöhnlichen Studie überreden. Drei Wochen lang soll sie mit einem ganz auf ihren Charakter und ihre Bedürfnisse zugeschnittenen humanoiden Roboter zusammenleben, dessen künstliche Intelligenz darauf angelegt ist, der perfekte Lebenspartner für sie zu sein. Alma trifft auf Tom (Dan Stevens), eine hochentwickelte Maschine in Menschengestalt, einzig dafür geschaffen, sie glücklich zu machen…. ICH BIN DEIN MENSCH erzählt von einer Begegnung, die uns in der nahen Zukunft vielleicht erwartet. Es ist eine melancholische Komödie um die Fragen der Liebe, der Sehnsucht und was den Menschen zum Menschen macht. ICH BIN DEIN MENSCH unter der Regie von Maria Schrader (“Unorthodox”, VOR DER MORGEN-RÖTE) feierte seine Premiere im Wettbewerb der 71. Internationalen Filmfestspiele Berlin. Die Geschichte mit Maren Eggert (ICH WAR ZU HAUSE, ABER…, GIRAFFE) und Dan Stevens („Legion“, „Eurovision“, DIE SCHÖNE UND DAS BIEST) in den Hauptrollen erzählt von der Begegnung einer Frau und einem humanoiden Roboter, der zu nichts anderem geschaffen wurde, als sie glücklich zu machen. Maren Eggert wurde für ihre darstellerische Leistung mit dem Silbernen Bären ausgezeichnet.",
-      "trailer": "https://youtu.be/J8eq53SdH1E",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "2153",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-      "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-      "cinemaShortName": "pompeji ostkreuz",
       "id": "pompeji ostkreuz-2399907204",
       "title": "SCHWESTERLEIN ",
       "date": "Mo., 26.7.",
@@ -3513,8 +3423,8 @@
       "timestamp": 1627257600000,
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2391540390?layout=shows",
-      "available": 50,
-      "reserved": 116,
+      "available": 48,
+      "reserved": 118,
       "bookable": true
     },
     {
@@ -3846,8 +3756,8 @@
       "time": "21:30",
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
-      "available": 412,
-      "reserved": 48,
+      "available": 411,
+      "reserved": 49,
       "bookable": true
     },
     {
@@ -3986,8 +3896,8 @@
       "time": "21:15",
       "date": "Mi., 4.8.,",
       "timestamp": 1628111700000,
-      "available": 329,
-      "reserved": 131,
+      "available": 328,
+      "reserved": 132,
       "bookable": true
     },
     {
@@ -4006,6 +3916,24 @@
       "timestamp": 1628198100000,
       "available": 426,
       "reserved": 34,
+      "bookable": true
+    },
+    {
+      "title": "Judas and the Black Messiah (OmU)",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60d9af3669f5b509d7551a0b/show_Judas_and_the_Black_Messiah.jpg",
+      "description": "Der FBI-Informant William O’Neal wird in die Black-Panther-Partei von Illinois eingeschleust und damit beauftragt, deren charismatischen Anführer Fred Hampton zu bespitzeln. Als geübter Dieb genießt O’Neal sichtlich den Nervenkitzel, sowohl seine Kameraden als auch den für ihn zuständigen Special Agent Roy Mitchell an der Nase herumzuführen.",
+      "trailer": "https://www.youtube.com/watch?v=hdM8H4tCFr8&ab_channel=WarnerBros.DE",
+      "cinemaId": "54eefd0b683138488b190000",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-287",
+      "url": "https://yorck.de/checkout/step01?showid=287&siteid=1015",
+      "time": "21:15",
+      "date": "Fr., 6.8.,",
+      "timestamp": 1628284500000,
+      "available": 438,
+      "reserved": 22,
       "bookable": true
     },
     {
@@ -4109,8 +4037,8 @@
       "time": "21:15",
       "date": "Mi., 4.8.,",
       "timestamp": 1628111700000,
-      "available": 329,
-      "reserved": 131,
+      "available": 328,
+      "reserved": 132,
       "bookable": true
     },
     {
@@ -4129,6 +4057,24 @@
       "timestamp": 1628025300000,
       "available": 333,
       "reserved": 127,
+      "bookable": true
+    },
+    {
+      "title": "Judas and the Black Messiah (OmU)",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60d9af3669f5b509d7551a0b/show_Judas_and_the_Black_Messiah.jpg",
+      "description": "Der FBI-Informant William O’Neal wird in die Black-Panther-Partei von Illinois eingeschleust und damit beauftragt, deren charismatischen Anführer Fred Hampton zu bespitzeln. Als geübter Dieb genießt O’Neal sichtlich den Nervenkitzel, sowohl seine Kameraden als auch den für ihn zuständigen Special Agent Roy Mitchell an der Nase herumzuführen.",
+      "trailer": "https://www.youtube.com/watch?v=hdM8H4tCFr8&ab_channel=WarnerBros.DE",
+      "cinemaId": "54eefd0b683138488b190000",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-287",
+      "url": "https://yorck.de/checkout/step01?showid=287&siteid=1015",
+      "time": "21:15",
+      "date": "Fr., 6.8.,",
+      "timestamp": 1628284500000,
+      "available": 438,
+      "reserved": 22,
       "bookable": true
     },
     {
@@ -4197,8 +4143,8 @@
       "time": "21:30",
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
-      "available": 412,
-      "reserved": 48,
+      "available": 411,
+      "reserved": 49,
       "bookable": true
     }
   ],
@@ -4398,6 +4344,23 @@
       "bookable": true
     },
     {
+      "title": "Bohemian Rhapsody (OmU)",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/5b9b87406144402241a9ecf1/show_BohemianPos_Poster_S.jpg",
+      "description": "Im Jahr 1970 gründen Freddie Mercury (Rami Malek) und seine Bandmitglieder Brian May (Gwilym Lee), Roger Taylor (Ben Hardy) und John Deacon (Joseph Mazello) die Band Queen. Schnell feiern die vier Männer erste Erfolge und produzieren bald Hit um Hit, doch hinter der Fassade der Band sieht es weit weniger gut aus: Freddie Mercury, der mit bürgerlichem Namen Farrokh Bulsara heißt und aus dem heutigen Tansania stammt, kämpft mit seiner inneren Zerrissenheit und versucht, sich mit seiner Homosexualität zu arrangieren. Schließlich verlässt Mercury Queen um eine Solokarriere zu starten, doch muss schon bald erkennen, dass er ohne seine Mitstreiter aufgeschmissen ist. Obwohl er mittlerweile an AIDS erkrankt ist, gelingt es ihm, seine Bandmitglieder noch einmal zusammenzutrommeln und beim Live Aid einen der legendärsten Auftritte der Musikgeschichte hinzulegen.",
+      "cinemaId": "60a3b5ed61444058ac0797a2",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-schloss-charlottenburg",
+      "cinemaName": "sommerkino-schloss-charlottenburg",
+      "cinemaShortName": "schloss-charlottenburg",
+      "id": "schloss-charlottenburg-66",
+      "url": "https://yorck.de/checkout/step01?showid=66&siteid=1020",
+      "time": "21:15",
+      "date": "Fr., 6.8.,",
+      "timestamp": 1628284500000,
+      "available": 610,
+      "reserved": 33,
+      "bookable": true
+    },
+    {
       "title": "Ich bin dein Mensch",
       "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60b8db256144400496f96d55/show_ImYourMan_Po_A4_300dpi_neu.jpg",
       "description": "Drei Wochen lang soll Alma mit einem ganz auf sie zugeschnittenen Roboter leben, dessen künstliche Intelligenz darauf angelegt ist, der perfekte Lebenspartner für sie zu sein. Alma trifft auf Tom (Dan Stevens), eine hochentwickelte Maschine in Menschengestalt, einzig dafür geschaffen, sie glücklich zu machen...",
@@ -4430,6 +4393,23 @@
       "timestamp": 1627594200000,
       "available": 147,
       "reserved": 352,
+      "bookable": true
+    },
+    {
+      "title": "Bohemian Rhapsody (OmU)",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/5b9b87406144402241a9ecf1/show_BohemianPos_Poster_S.jpg",
+      "description": "Im Jahr 1970 gründen Freddie Mercury (Rami Malek) und seine Bandmitglieder Brian May (Gwilym Lee), Roger Taylor (Ben Hardy) und John Deacon (Joseph Mazello) die Band Queen. Schnell feiern die vier Männer erste Erfolge und produzieren bald Hit um Hit, doch hinter der Fassade der Band sieht es weit weniger gut aus: Freddie Mercury, der mit bürgerlichem Namen Farrokh Bulsara heißt und aus dem heutigen Tansania stammt, kämpft mit seiner inneren Zerrissenheit und versucht, sich mit seiner Homosexualität zu arrangieren. Schließlich verlässt Mercury Queen um eine Solokarriere zu starten, doch muss schon bald erkennen, dass er ohne seine Mitstreiter aufgeschmissen ist. Obwohl er mittlerweile an AIDS erkrankt ist, gelingt es ihm, seine Bandmitglieder noch einmal zusammenzutrommeln und beim Live Aid einen der legendärsten Auftritte der Musikgeschichte hinzulegen.",
+      "cinemaId": "60a3b5ed61444058ac0797a2",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-schloss-charlottenburg",
+      "cinemaName": "sommerkino-schloss-charlottenburg",
+      "cinemaShortName": "schloss-charlottenburg",
+      "id": "schloss-charlottenburg-66",
+      "url": "https://yorck.de/checkout/step01?showid=66&siteid=1020",
+      "time": "21:15",
+      "date": "Fr., 6.8.,",
+      "timestamp": 1628284500000,
+      "available": 610,
+      "reserved": 33,
       "bookable": true
     },
     {
