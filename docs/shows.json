@@ -31,8 +31,8 @@
     "date": "So., 25.7.",
     "timestamp": 1627248600000,
     "time": "21:30",
-    "available": 833,
-    "reserved": 245,
+    "available": 823,
+    "reserved": 255,
     "bookable": true
   },
   "fhain-715": {
@@ -49,8 +49,8 @@
     "date": "Di., 27.7.",
     "timestamp": 1627421400000,
     "time": "21:30",
-    "available": 962,
-    "reserved": 116,
+    "available": 958,
+    "reserved": 120,
     "bookable": true
   },
   "fhain-714": {
@@ -85,8 +85,8 @@
     "date": "Mi., 28.7.",
     "timestamp": 1627506900000,
     "time": "21:15",
-    "available": 716,
-    "reserved": 362,
+    "available": 718,
+    "reserved": 360,
     "bookable": true
   },
   "fhain-726": {
@@ -174,8 +174,8 @@
     "date": "Fr., 30.7.",
     "timestamp": 1627679700000,
     "time": "21:15",
-    "available": 992,
-    "reserved": 86,
+    "available": 991,
+    "reserved": 87,
     "bookable": true
   },
   "fhain-722": {
@@ -192,8 +192,8 @@
     "date": "Sa., 31.7.",
     "timestamp": 1627765200000,
     "time": "21:00",
-    "available": 1025,
-    "reserved": 53,
+    "available": 1017,
+    "reserved": 61,
     "bookable": true
   },
   "fhain-724": {
@@ -262,8 +262,8 @@
     "date": "Fr., 6.8.,",
     "timestamp": 1628283600000,
     "time": "21:00",
-    "available": 938,
-    "reserved": 140,
+    "available": 936,
+    "reserved": 142,
     "bookable": true
   },
   "fhain-729": {
@@ -506,8 +506,8 @@
     "date": "Mi., 28.7.",
     "timestamp": 1627507800000,
     "time": "21:30",
-    "available": 543,
-    "reserved": 134,
+    "available": 539,
+    "reserved": 138,
     "bookable": true
   },
   "xberg-638": {
@@ -524,8 +524,8 @@
     "date": "So., 25.7.",
     "timestamp": 1627248600000,
     "time": "21:30",
-    "available": 476,
-    "reserved": 201,
+    "available": 467,
+    "reserved": 210,
     "bookable": true
   },
   "xberg-639": {
@@ -542,8 +542,8 @@
     "date": "Mo., 26.7.",
     "timestamp": 1627335000000,
     "time": "21:30",
-    "available": 568,
-    "reserved": 109,
+    "available": 561,
+    "reserved": 116,
     "bookable": true
   },
   "xberg-640": {
@@ -560,8 +560,8 @@
     "date": "Di., 27.7.",
     "timestamp": 1627421400000,
     "time": "21:30",
-    "available": 596,
-    "reserved": 81,
+    "available": 593,
+    "reserved": 84,
     "bookable": true
   },
   "xberg-656": {
@@ -772,8 +772,8 @@
     "date": "Do., 5.8.,",
     "timestamp": 1628193600000,
     "time": "20:00",
-    "available": 653,
-    "reserved": 24,
+    "available": 652,
+    "reserved": 25,
     "bookable": true
   },
   "xberg-658": {
@@ -790,8 +790,8 @@
     "date": "Fr., 6.8.,",
     "timestamp": 1628283600000,
     "time": "21:00",
-    "available": 671,
-    "reserved": 6,
+    "available": 667,
+    "reserved": 10,
     "bookable": true
   },
   "xberg-662": {
@@ -910,8 +910,8 @@
     "date": "Mo., 26.7.",
     "timestamp": 1627335000000,
     "time": "21:30",
-    "available": 544,
-    "reserved": 29,
+    "available": 540,
+    "reserved": 33,
     "bookable": true
   },
   "rehberge-637": {
@@ -928,8 +928,8 @@
     "date": "Di., 27.7.",
     "timestamp": 1627421400000,
     "time": "21:30",
-    "available": 530,
-    "reserved": 43,
+    "available": 523,
+    "reserved": 50,
     "bookable": true
   },
   "rehberge-638": {
@@ -982,8 +982,8 @@
     "date": "So., 25.7.",
     "timestamp": 1627248600000,
     "time": "21:30",
-    "available": 515,
-    "reserved": 58,
+    "available": 508,
+    "reserved": 65,
     "bookable": true
   },
   "rehberge-653": {
@@ -1053,8 +1053,8 @@
     "date": "Sa., 31.7.",
     "timestamp": 1627765200000,
     "time": "21:00",
-    "available": 556,
-    "reserved": 17,
+    "available": 552,
+    "reserved": 21,
     "bookable": true
   },
   "rehberge-651": {
@@ -1071,8 +1071,8 @@
     "date": "Fr., 30.7.",
     "timestamp": 1627678800000,
     "time": "21:00",
-    "available": 546,
-    "reserved": 27,
+    "available": 544,
+    "reserved": 29,
     "bookable": true
   },
   "rehberge-652": {
@@ -1265,8 +1265,8 @@
     "date": "So., 15.8.",
     "timestamp": 1629061200000,
     "time": "21:00",
-    "available": 569,
-    "reserved": 4,
+    "available": 567,
+    "reserved": 6,
     "bookable": true
   },
   "rehberge-661": {
@@ -1371,6 +1371,154 @@
     "reserved": 2,
     "bookable": true
   },
+  "filmrauschpalast-2410945820": {
+    "cinemaId": "535",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/filmrauschpalast/shows/movies",
+    "cinemaName": "filmrauschpalast",
+    "cinemaShortName": "filmrauschpalast",
+    "id": "filmrauschpalast-2410945820",
+    "title": "OPEN AIR: DER EISSTURM (subtitled OV German)",
+    "date": "Fr., 30.7.",
+    "timestamp": 1627603200000,
+    "time": "22:00",
+    "url": "https://www.kinoheld.de/cinema-berlin/filmrauschpalast/show/2410945820?layout=shows",
+    "img": "https://media.kinoheld.de/fgGCLH7Wv1LGNBpWE170-LZttX8=/400x560/images%2Ffilm%2Fmo%2F1863-39359.v2.jpg",
+    "description": "In Ang Lees Film wird die Geschichte zweier Familien an der Ostküste der USA zur Abrechnung mit der Elterngeneration der 1970er Jahre - ein erschütterndes Drama und pointiertes Generationenportrait.",
+    "available": 85,
+    "reserved": 0,
+    "bookable": true
+  },
+  "filmrauschpalast-2410945827": {
+    "cinemaId": "535",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/filmrauschpalast/shows/movies",
+    "cinemaName": "filmrauschpalast",
+    "cinemaShortName": "filmrauschpalast",
+    "id": "filmrauschpalast-2410945827",
+    "title": "OPEN AIR: TIGER & DRAGON (subtitled OV German)",
+    "date": "Sa., 31.7.",
+    "timestamp": 1627689600000,
+    "time": "22:00",
+    "url": "https://www.kinoheld.de/cinema-berlin/filmrauschpalast/show/2410945827?layout=shows",
+    "img": "https://media.kinoheld.de/52pVOhM2IeOcp7xRTfntBwNm_xw=/400x560/images%2Ffilm%2Fmo%2F1863-39361.v2.jpg",
+    "description": "Der Wadung-Schwertkämpfer Li Mu Bai will sein blutiges Handwerk aufgeben. Doch zuvor muss er die berüchtigte Verbrecherin Jade-Fuchs und ihre Hintermänner besiegen.",
+    "available": 85,
+    "reserved": 0,
+    "bookable": true
+  },
+  "filmrauschpalast-2410947383": {
+    "cinemaId": "535",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/filmrauschpalast/shows/movies",
+    "cinemaName": "filmrauschpalast",
+    "cinemaShortName": "filmrauschpalast",
+    "id": "filmrauschpalast-2410947383",
+    "title": "OPEN AIR: MEIN BRUDER, DER VAMPIR (35 mm + Gast: Sven Taddicken) ",
+    "date": "Fr., 6.8.,",
+    "timestamp": 1628208000000,
+    "time": "21:30",
+    "url": "https://www.kinoheld.de/cinema-berlin/filmrauschpalast/show/2410947383?layout=shows",
+    "available": 85,
+    "reserved": 0,
+    "bookable": true
+  },
+  "filmrauschpalast-2410947390": {
+    "cinemaId": "535",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/filmrauschpalast/shows/movies",
+    "cinemaName": "filmrauschpalast",
+    "cinemaShortName": "filmrauschpalast",
+    "id": "filmrauschpalast-2410947390",
+    "title": "OPEN AIR: HEIL (Gast: Dietrich Brüggemann) ",
+    "date": "Sa., 7.8.,",
+    "timestamp": 1628294400000,
+    "time": "21:30",
+    "url": "https://www.kinoheld.de/cinema-berlin/filmrauschpalast/show/2410947390?layout=shows",
+    "img": "https://media.kinoheld.de/wVqrwMExiCF7kjl3d0_sVeZ7MCQ=/400x560/images%2Ffilm%2F4%2Fheil-1729.v1.jpg",
+    "description": "Willkommen in Prittwitz. Der gefeierte afrodeutsche Autor Sebastian Klein (JERRY HOFFMANN) ist auf Lesereise in der ostdeutschen Provinz und wird von den ortsansässigen Neonazis standesgemäß begrüßt: mit einem Schlag auf den Kopf. Sebastian verliert prompt sein Gedächtnis und plappert alles nach, was man ihm sagt.",
+    "trailer": "https://www.youtube.com/watch?v=cAdZDbxaZlE",
+    "available": 85,
+    "reserved": 0,
+    "bookable": true
+  },
+  "filmrauschpalast-2410947815": {
+    "cinemaId": "535",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/filmrauschpalast/shows/movies",
+    "cinemaName": "filmrauschpalast",
+    "cinemaShortName": "filmrauschpalast",
+    "id": "filmrauschpalast-2410947815",
+    "title": "OPEN AIR: THE GIRL CAN'T HELP IT (35 mm) (subtitled OV German)",
+    "date": "Fr., 20.8.",
+    "timestamp": 1629417600000,
+    "time": "21:30",
+    "url": "https://www.kinoheld.de/cinema-berlin/filmrauschpalast/show/2410947815?layout=shows",
+    "available": 85,
+    "reserved": 0,
+    "bookable": true
+  },
+  "filmrauschpalast-2410947822": {
+    "cinemaId": "535",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/filmrauschpalast/shows/movies",
+    "cinemaName": "filmrauschpalast",
+    "cinemaShortName": "filmrauschpalast",
+    "id": "filmrauschpalast-2410947822",
+    "title": "OPEN AIR: GASMANN (35 mm) ",
+    "date": "Sa., 21.8.",
+    "timestamp": 1629504000000,
+    "time": "21:30",
+    "url": "https://www.kinoheld.de/cinema-berlin/filmrauschpalast/show/2410947822?layout=shows",
+    "trailer": "https://www.youtube.com/watch?v=kBheHsPj33s",
+    "available": 85,
+    "reserved": 0,
+    "bookable": true
+  },
+  "filmrauschpalast-2410948000": {
+    "cinemaId": "535",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/filmrauschpalast/shows/movies",
+    "cinemaName": "filmrauschpalast",
+    "cinemaShortName": "filmrauschpalast",
+    "id": "filmrauschpalast-2410948000",
+    "title": "OPEN AIR: JAZZ ON A SUMMER'S DAY (subtitled OV German)",
+    "date": "Fr., 27.8.",
+    "timestamp": 1630022400000,
+    "time": "21:30",
+    "url": "https://www.kinoheld.de/cinema-berlin/filmrauschpalast/show/2410948000?layout=shows",
+    "img": "https://media.kinoheld.de/WGPLu5aoXSoJioiRrFzu_eqzpos=/400x560/images%2Ffilm%2Fjazz-an-einem-sommerabend-19243.v2.jpg",
+    "description": "Ein ultra-cooler JazzFilm. Für Kenner einer der schönsten der Filmgeschichte – und jetzt in 4K-Qualität digital restauriert.",
+    "available": 85,
+    "reserved": 0,
+    "bookable": true
+  },
+  "filmrauschpalast-2410959053": {
+    "cinemaId": "535",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/filmrauschpalast/shows/movies",
+    "cinemaName": "filmrauschpalast",
+    "cinemaShortName": "filmrauschpalast",
+    "id": "filmrauschpalast-2410959053",
+    "title": "OPEN AIR: ALLES IST EINS. AUSSER DER 0. (subtitled OV German)",
+    "date": "Fr., 10.9.",
+    "timestamp": 1631232000000,
+    "time": "21:30",
+    "url": "https://www.kinoheld.de/cinema-berlin/filmrauschpalast/show/2410959053?layout=shows",
+    "img": "https://media.kinoheld.de/DVQcxtUYNoxr36fQFLasSd8kr_E=/400x560/images%2Ffilm%2Falles-ist-eins-ausser-der-0-19150.v1.jpg",
+    "description": "ALLES IST EINS. AUSSER DER 0. erzählt eine Geschichte digitaler Subversion: vom exklusiven Club zu einer Instanz, die heute bei allen Fragen der Netzpolitik zu Rate gezogen wird. Der Dokumentarfilm von Klaus Maeck und Tanja Schwerdorf setzt der bekanntesten deutschen Hackervereinigung ein stilsicheres, kraftvolles und würdiges Denkmal. Selten hat man ein so eindringliches Porträt über Zeitgeist-Pioniere gesehen, deren Weitblick für die Gegenwart so beeindruckend wie bereichernd ist.",
+    "trailer": "https://youtu.be/bTFiMoByenU",
+    "available": 85,
+    "reserved": 0,
+    "bookable": true
+  },
+  "filmrauschpalast-2410948181": {
+    "cinemaId": "535",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/filmrauschpalast/shows/movies",
+    "cinemaName": "filmrauschpalast",
+    "cinemaShortName": "filmrauschpalast",
+    "id": "filmrauschpalast-2410948181",
+    "title": "OPEN AIR: GRENZGEBIET (subtitled OV German)",
+    "date": "Fr., 17.9.",
+    "timestamp": 1631836800000,
+    "time": "21:30",
+    "url": "https://www.kinoheld.de/cinema-berlin/filmrauschpalast/show/2410948181?layout=shows",
+    "available": 85,
+    "reserved": 0,
+    "bookable": true
+  },
   "hasenheide-691331": {
     "cinemaId": "580",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
@@ -1421,8 +1569,8 @@
     "img": "https://media.kinoheld.de/g_qzyOj4oDoc4Iq0De9_5F5QNUM=/400x560/images%2Ffilm%2Fil-babykino-milla-meets-moses-babyteeth-17584.v14.jpg",
     "description": "Milla (Eliza Scanlen) trifft Moses (Toby Wallace) – vielmehr wird sie bei der ersten Begegnung buchstäblich von ihm umgehauen. Obwohl Moses sich als Herumtreiber und Gelegenheitsdealer entpuppt, nimmt sie ihn mit zu sich nach Hause, um ihn ihren Eltern vorzustellen. Anna (Essie Davis) und Henry (Ben Mendelsohn) – eine ehemalige Konzertpianistin und ein ziemlich entspannter Psychiater – sind alles andere als begeistert von Millas neuem Freund. Doch Millas Lebensfreude und ihre Sehnsucht, die Liebe und die Welt zu entdecken, stellen die Familie auf den Kopf. Als die Eltern merken, dass Moses ihrer kranken Tochter sichtlich guttut, nehmen sie ihn trotz ihrer Bedenken bei sich auf und werden dabei mit ihren eigenen Schwächen konfrontiert.",
     "trailer": "https://www.youtube.com/watch?v=kTvEl_ZjVUc",
-    "available": 463,
-    "reserved": 56,
+    "available": 452,
+    "reserved": 58,
     "bookable": true
   },
   "hasenheide-691334": {
@@ -2255,8 +2403,8 @@
     "img": "https://media.kinoheld.de/1vIIQBhZZqw-OjT2EuvAAJi3lSc=/400x560/images%2Ffilm%2Fparasite-14289.v362.jpg",
     "description": "Familie Kim ist ganz unten angekommen: Vater, Mutter, Sohn und Tochter hausen in einem grünlich-schummrigen Keller, kriechen für kostenloses W-LAN in jeden Winkel und sind sich für keinen Aushilfsjob zu schade. Erst als der Jüngste eine Anstellung als Nachhilfelehrer in der todschicken Villa der Familie Park antritt, steigen die Kims ein ins Karussell der Klassenkämpfe. Mit findigen Tricksereien, bemerkenswertem Talent und großem Mannschaftsgeist gelingt es ihnen, die bisherigen Bediensteten der Familie Park nach und nach loszuwerden. Bald schon sind die Kims unverzichtbar für ihre neuen Herrschaften. Doch dann löst ein unerwarteter Zwischenfall eine Kette von Ereignissen aus, die so unvorhersehbar wie unfassbar sind. (Quelle: Verleih)",
     "trailer": "https://youtu.be/MKJ-nXADsVk",
-    "available": 37,
-    "reserved": 23,
+    "available": 31,
+    "reserved": 27,
     "bookable": true
   },
   "central-2394922246": {
@@ -2324,8 +2472,8 @@
     "timestamp": 1627862400000,
     "time": "21:00",
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2394922904?layout=shows",
-    "available": 9,
-    "reserved": 8,
+    "available": 5,
+    "reserved": 12,
     "bookable": true
   },
   "central-2394922928": {
@@ -3634,8 +3782,8 @@
     "time": "21:30",
     "date": "So., 25.7.",
     "timestamp": 1627248600000,
-    "available": 381,
-    "reserved": 79,
+    "available": 379,
+    "reserved": 81,
     "bookable": true
   },
   "kulturforum-273": {
@@ -3651,8 +3799,8 @@
     "time": "21:30",
     "date": "Mo., 26.7.",
     "timestamp": 1627335000000,
-    "available": 409,
-    "reserved": 51,
+    "available": 404,
+    "reserved": 56,
     "bookable": true
   },
   "kulturforum-274": {
@@ -3669,8 +3817,8 @@
     "time": "21:30",
     "date": "Di., 27.7.",
     "timestamp": 1627421400000,
-    "available": 425,
-    "reserved": 35,
+    "available": 421,
+    "reserved": 39,
     "bookable": true
   },
   "kulturforum-275": {
@@ -3687,8 +3835,8 @@
     "time": "21:30",
     "date": "Mi., 28.7.",
     "timestamp": 1627507800000,
-    "available": 355,
-    "reserved": 105,
+    "available": 349,
+    "reserved": 111,
     "bookable": true
   },
   "kulturforum-276": {
@@ -3738,8 +3886,8 @@
     "time": "21:30",
     "date": "Sa., 31.7.",
     "timestamp": 1627767000000,
-    "available": 388,
-    "reserved": 72,
+    "available": 386,
+    "reserved": 74,
     "bookable": true
   },
   "kulturforum-284": {
@@ -3773,8 +3921,8 @@
     "time": "21:15",
     "date": "Mo., 2.8.,",
     "timestamp": 1627938900000,
-    "available": 420,
-    "reserved": 40,
+    "available": 418,
+    "reserved": 42,
     "bookable": true
   },
   "kulturforum-291": {
@@ -3809,8 +3957,8 @@
     "time": "21:15",
     "date": "Mi., 4.8.,",
     "timestamp": 1628111700000,
-    "available": 339,
-    "reserved": 121,
+    "available": 337,
+    "reserved": 123,
     "bookable": true
   },
   "kulturforum-292": {
@@ -3845,8 +3993,8 @@
     "time": "21:30",
     "date": "So., 25.7.",
     "timestamp": 1627248600000,
-    "available": 373,
-    "reserved": 126,
+    "available": 376,
+    "reserved": 123,
     "bookable": true
   },
   "schloss-charlottenburg-58": {
@@ -3862,8 +4010,8 @@
     "time": "21:30",
     "date": "Mo., 26.7.",
     "timestamp": 1627335000000,
-    "available": 407,
-    "reserved": 92,
+    "available": 406,
+    "reserved": 93,
     "bookable": true
   },
   "schloss-charlottenburg-59": {
@@ -3880,8 +4028,8 @@
     "time": "21:30",
     "date": "Di., 27.7.",
     "timestamp": 1627421400000,
-    "available": 455,
-    "reserved": 44,
+    "available": 452,
+    "reserved": 47,
     "bookable": true
   },
   "schloss-charlottenburg-60": {
@@ -3898,8 +4046,8 @@
     "time": "21:30",
     "date": "Mi., 28.7.",
     "timestamp": 1627507800000,
-    "available": 426,
-    "reserved": 73,
+    "available": 428,
+    "reserved": 71,
     "bookable": true
   },
   "schloss-charlottenburg-54": {
@@ -3932,8 +4080,8 @@
     "time": "21:30",
     "date": "Fr., 30.7.",
     "timestamp": 1627680600000,
-    "available": 457,
-    "reserved": 186,
+    "available": 455,
+    "reserved": 188,
     "bookable": true
   },
   "schloss-charlottenburg-62": {
@@ -3949,8 +4097,8 @@
     "time": "21:30",
     "date": "Sa., 31.7.",
     "timestamp": 1627767000000,
-    "available": 539,
-    "reserved": 104,
+    "available": 538,
+    "reserved": 105,
     "bookable": true
   },
   "schloss-charlottenburg-71": {
@@ -3985,8 +4133,8 @@
     "time": "21:15",
     "date": "Mo., 2.8.,",
     "timestamp": 1627938900000,
-    "available": 471,
-    "reserved": 28,
+    "available": 469,
+    "reserved": 30,
     "bookable": true
   },
   "schloss-charlottenburg-64": {
