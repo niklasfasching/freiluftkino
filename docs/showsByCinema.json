@@ -32,8 +32,8 @@
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
       "time": "21:30",
-      "available": 823,
-      "reserved": 255,
+      "available": 815,
+      "reserved": 263,
       "bookable": true
     },
     {
@@ -50,8 +50,8 @@
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
       "time": "21:30",
-      "available": 958,
-      "reserved": 120,
+      "available": 956,
+      "reserved": 122,
       "bookable": true
     },
     {
@@ -68,8 +68,8 @@
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
       "time": "21:30",
-      "available": 947,
-      "reserved": 131,
+      "available": 943,
+      "reserved": 135,
       "bookable": true
     },
     {
@@ -86,8 +86,8 @@
       "date": "Mi., 28.7.",
       "timestamp": 1627506900000,
       "time": "21:15",
-      "available": 718,
-      "reserved": 360,
+      "available": 712,
+      "reserved": 366,
       "bookable": true
     },
     {
@@ -422,8 +422,8 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628974800000,
       "time": "21:00",
-      "available": 1061,
-      "reserved": 17,
+      "available": 1059,
+      "reserved": 19,
       "bookable": true
     },
     {
@@ -439,8 +439,8 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628960400000,
       "time": "17:00",
-      "available": 508,
-      "reserved": 485,
+      "available": 506,
+      "reserved": 487,
       "bookable": true
     },
     {
@@ -527,8 +527,8 @@
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
       "time": "21:30",
-      "available": 467,
-      "reserved": 210,
+      "available": 456,
+      "reserved": 221,
       "bookable": true
     },
     {
@@ -545,8 +545,8 @@
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
       "time": "21:30",
-      "available": 561,
-      "reserved": 116,
+      "available": 557,
+      "reserved": 120,
       "bookable": true
     },
     {
@@ -563,8 +563,8 @@
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
       "time": "21:30",
-      "available": 593,
-      "reserved": 84,
+      "available": 589,
+      "reserved": 88,
       "bookable": true
     },
     {
@@ -581,8 +581,8 @@
       "date": "Di., 3.8.,",
       "timestamp": 1628024400000,
       "time": "21:00",
-      "available": 659,
-      "reserved": 18,
+      "available": 657,
+      "reserved": 20,
       "bookable": true
     },
     {
@@ -599,8 +599,8 @@
       "date": "So., 1.8.,",
       "timestamp": 1627851600000,
       "time": "21:00",
-      "available": 665,
-      "reserved": 12,
+      "available": 662,
+      "reserved": 15,
       "bookable": true
     },
     {
@@ -651,8 +651,8 @@
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
       "time": "21:30",
-      "available": 655,
-      "reserved": 22,
+      "available": 654,
+      "reserved": 23,
       "bookable": true
     },
     {
@@ -669,8 +669,8 @@
       "date": "Sa., 31.7.",
       "timestamp": 1627765200000,
       "time": "21:00",
-      "available": 668,
-      "reserved": 9,
+      "available": 665,
+      "reserved": 12,
       "bookable": true
     },
     {
@@ -687,8 +687,8 @@
       "date": "Fr., 30.7.",
       "timestamp": 1627678800000,
       "time": "21:00",
-      "available": 618,
-      "reserved": 59,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -704,8 +704,8 @@
       "date": "Sa., 7.8.,",
       "timestamp": 1628370000000,
       "time": "21:00",
-      "available": 659,
-      "reserved": 18,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -722,7 +722,7 @@
       "date": "So., 8.8.,",
       "timestamp": 1628456400000,
       "time": "21:00",
-      "available": 677,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -739,8 +739,8 @@
       "date": "Di., 10.8.",
       "timestamp": 1628630100000,
       "time": "21:15",
-      "available": 671,
-      "reserved": 6,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -757,8 +757,8 @@
       "date": "Mo., 9.8.,",
       "timestamp": 1628543700000,
       "time": "21:15",
-      "available": 676,
-      "reserved": 1,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -775,8 +775,8 @@
       "date": "Do., 5.8.,",
       "timestamp": 1628193600000,
       "time": "20:00",
-      "available": 652,
-      "reserved": 25,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -793,8 +793,8 @@
       "date": "Fr., 6.8.,",
       "timestamp": 1628283600000,
       "time": "21:00",
-      "available": 667,
-      "reserved": 10,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -810,8 +810,8 @@
       "date": "Mi., 11.8.",
       "timestamp": 1628716500000,
       "time": "21:15",
-      "available": 676,
-      "reserved": 1,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -827,7 +827,7 @@
       "date": "So., 15.8.",
       "timestamp": 1629061200000,
       "time": "21:00",
-      "available": 677,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -845,8 +845,8 @@
       "date": "Fr., 13.8.",
       "timestamp": 1628889300000,
       "time": "21:15",
-      "available": 672,
-      "reserved": 5,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -879,8 +879,8 @@
       "date": "Do., 12.8.",
       "timestamp": 1628802900000,
       "time": "21:15",
-      "available": 649,
-      "reserved": 28,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -895,7 +895,7 @@
       "date": "Do., 19.8.",
       "timestamp": 1629388800000,
       "time": "16:00",
-      "available": 492,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     }
@@ -915,8 +915,8 @@
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
       "time": "21:30",
-      "available": 540,
-      "reserved": 33,
+      "available": 537,
+      "reserved": 36,
       "bookable": true
     },
     {
@@ -951,8 +951,8 @@
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
       "time": "21:30",
-      "available": 528,
-      "reserved": 45,
+      "available": 526,
+      "reserved": 47,
       "bookable": true
     },
     {
@@ -987,8 +987,8 @@
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
       "time": "21:30",
-      "available": 508,
-      "reserved": 65,
+      "available": 502,
+      "reserved": 71,
       "bookable": true
     },
     {
@@ -1005,8 +1005,8 @@
       "date": "Di., 3.8.,",
       "timestamp": 1628024400000,
       "time": "21:00",
-      "available": 562,
-      "reserved": 11,
+      "available": 558,
+      "reserved": 15,
       "bookable": true
     },
     {
@@ -1094,8 +1094,8 @@
       "date": "So., 1.8.,",
       "timestamp": 1627851600000,
       "time": "21:00",
-      "available": 573,
-      "reserved": 0,
+      "available": 571,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -1112,8 +1112,8 @@
       "date": "Do., 5.8.,",
       "timestamp": 1628197200000,
       "time": "21:00",
-      "available": 570,
-      "reserved": 3,
+      "available": 568,
+      "reserved": 5,
       "bookable": true
     },
     {
@@ -1423,6 +1423,8 @@
       "timestamp": 1628208000000,
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/filmrauschpalast/show/2410947383?layout=shows",
+      "img": "https://media.kinoheld.de/QdswNmrrzEB-3MhBZEimg40aDPc=/400x560/images%2Ffilm%2Fmo%2F1863-39363.v2.jpg",
+      "description": "Josch ist 29 Jahre alt, Dracula-Fan und geistig behindert. Erst jetzt beginnt er langsam, seine Sexualität zu entdecken. Das Objekt seiner Begierde ist Nadine, die neue Freundin seines jüngeren Bruders Mike, mit der Josch zu seinem Geburtstag gerne \"bumsvögeln\" möchte. Zunächst weiß Mike nicht recht, wie er mit dem Verlangen seines Bruders umgehen soll. Dann beschließt er, ihn in die \"Geheimnisse der Liebe\" einzuweisen: Es beginnt ganz harmlos mit einer \"Anleitung\" zur Masturbation, endet jedoch im Chaos, als Mike seinem jungfräulichen Bruder einen \"Besuch\" bei einer Prostituierten ermöglicht.",
       "available": 85,
       "reserved": 0,
       "bookable": true
@@ -1439,8 +1441,7 @@
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/filmrauschpalast/show/2410947390?layout=shows",
       "img": "https://media.kinoheld.de/wVqrwMExiCF7kjl3d0_sVeZ7MCQ=/400x560/images%2Ffilm%2F4%2Fheil-1729.v1.jpg",
-      "description": "Willkommen in Prittwitz. Der gefeierte afrodeutsche Autor Sebastian Klein (JERRY HOFFMANN) ist auf Lesereise in der ostdeutschen Provinz und wird von den ortsansässigen Neonazis standesgemäß begrüßt: mit einem Schlag auf den Kopf. Sebastian verliert prompt sein Gedächtnis und plappert alles nach, was man ihm sagt.",
-      "trailer": "https://www.youtube.com/watch?v=cAdZDbxaZlE",
+      "description": "„Heil“ ist eine kreischend komische Liebeskomödie und bitterböse Gesellschaftssatire, in der alle durch den Kakao gezogen werden. Die alten rechtsradikalen Schläger und die neuen, sich harmlos gebenden „Nipster“. Die liberalen Intellektuellen mit ihren Denkverboten. Die Antifa mit ihren Schwarzweiß-Feindbildern. Der Verfassungsschutz mit seinem grotesken Bürokratie-Wirrwarr. Der Kulturbetrieb mit seinem prätentiösen Kunst-Blabla. Und nicht zuletzt die Medienöffentlichkeit, die süchtig ist nach Erregung und sich ihre eigene Wirklichkeit schafft. Rasant und rasend zugleich inszeniert, ist „Heil“ eine schrille Farce über die Lage der Nation, der nichts heilig ist.",
       "available": 85,
       "reserved": 0,
       "bookable": true
@@ -1456,6 +1457,8 @@
       "timestamp": 1629417600000,
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/filmrauschpalast/show/2410947815?layout=shows",
+      "img": "https://media.kinoheld.de/StqVoBpcXhJ3JGF0hv1m1kcZyFE=/400x560/images%2Ffilm%2Fmo%2F1863-39367.v2.jpg",
+      "description": "Einst war Fatso Murdock der König der Spielautomaten. Doch diese Zeit ist lang vorbei. Jetzt möchte er die attraktive Blondine Jerri Jordan, die Tochter eines alten Freundes heiraten. Doch möchte ein Fatso Murdock keine unbedeutende Ehefrau.",
       "available": 85,
       "reserved": 0,
       "bookable": true
@@ -1471,6 +1474,8 @@
       "timestamp": 1629504000000,
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/filmrauschpalast/show/2410947822?layout=shows",
+      "img": "https://media.kinoheld.de/UHl7Xkw7acQVUjDyGJAnEzOMd0I=/400x560/images%2Ffilm%2Fmo%2F1863-39369.v2.jpeg",
+      "description": "Bernd ist Schauspieler am St. Pauli Theater in Hamburg und bisher nur Nebendarsteller. Er hat sich vom Intendanten breitschlagen lassen, in „Der Gasmann“ aufzutreten, einem Giftstück über zwei SS-Männer, die „Unerwünschte“ an der Haustür abholen und mobil vernichten. Bernds „Hauptrolle“ ist von Anfang an ein Alptraum. Regisseur Frank, sonst beim Film, ist ein genialischer Despot, der Täter und Opfer getrennt voneinander inszeniert, Spielpartner Mathis ein unterwürfiger Streber und das perfide Stück ist Bernd ohnehin zuwider.\r\n\r\nAuch sonst ist das Leben schwierig für Bernd – die Ex redet nur das Nötigste mit ihm, der Gerichtsvollzieher will Geld sehen, die wenigen Momente mit dem kleinen Sohn sind für beide viel zu kurz. Und was will Bernd eigentlich von seiner Fünferclique, einem Literaturzirkel, der sich regelmäßig in Kaschemmen auf St. Pauli trifft? Wer sind die Klugschwätzer? Salonrevoluzzer, Stammtischfaschisten? Die Liaison mit einer mysteriösen jungen Frau ist Bernds einziger Lichtblick.",
       "trailer": "https://www.youtube.com/watch?v=kBheHsPj33s",
       "available": 85,
       "reserved": 0,
@@ -1488,7 +1493,7 @@
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/filmrauschpalast/show/2410948000?layout=shows",
       "img": "https://media.kinoheld.de/WGPLu5aoXSoJioiRrFzu_eqzpos=/400x560/images%2Ffilm%2Fjazz-an-einem-sommerabend-19243.v2.jpg",
-      "description": "Ein ultra-cooler JazzFilm. Für Kenner einer der schönsten der Filmgeschichte – und jetzt in 4K-Qualität digital restauriert.",
+      "description": "JAZZ AN EINEM SOMMERABEND ist die Chronologie eines Sommertags voller Musik, Sinnlichkeit, Eleganz und Lässigkeit.\r\n\r\nDer Schauplatz: Newport trägt einen historischen Status als gesellschaftliche Sommerresidenz der USA, darüber hinaus wurde die Stadt in nur vier Jahren zur Jazz-Hauptstadt der Welt.\r\nBert Stern fängt Newports Zauber ein, in dem er seine Kamera am Strand bummeln und durch die malerischen Straßen mit ihren weißen Häusern und Pensionen streifen lässt.\r\n\r\nNewport 1958, ein Sommertag.\r\nZwei Ereignisse treffen aufeinander: Das Newport Jazz Festival und die Segelregatta America Cup. Mittendrin der Fotograf Bert Stern, weltbekannt durch seine Fotosession „Last Sitting“ mit Marilyn Monroe. Wie in seinen Bildern gelingt es Stern auch hier – in impressionistisch anmutenden Momentaufnahmen — die Persönlichkeiten der Porträtierten zu erfassen, seien es die Musikerinnen und Musiker auf der Bühne oder scheinbar willkürlich herausgegriffene Gesichter aus dem Publikum, in denen sich Lebensfreude, Entspannung und Entrückung spiegeln.\r\n\r\nImmer wieder richtet er den Blick auf Details und kleine Episoden: Die erstaunten Blicke der Kinder, die elegante junge Frau, die allzu deutlich Kaugummi kaut oder die leicht gelangweilte Leserin eines Groschenromans…\r\nTagsüber gleiten zu den überlappenden Klängen der Musik die Segelboote der Regatta anmutig durchs Meer und das Wasser erscheint mit seinen Spiegelungen als psychedelisch bis graphisches Farbenspiel.\r\n\r\nNach Einbruch der Dunkelheit entfaltet Stern die Bandbreite der großartigen Musikerinnen und Musiker, ist ganz bei ihnen und dem Publikum. Die Performance von Rock ’n’ Roller Chuck Berry reißt mit und animiert zum Tanzen, aber Stern illustriert auch die ganz leisen Töne, deren Herbeizaubern eine unglaubliche Konzentration, Kraft und Anstrengung erfordern kann. Zwischendrin tanzt ein fast körperlos wirkender, hellblauer Anzug und niemand kann sich dem Charme eines Louis Armstrong oder einer Mahalia Jackson entziehen, deren inbrünstige Performance den Sommerabend beschließt.",
       "available": 85,
       "reserved": 0,
       "bookable": true
@@ -1522,8 +1527,10 @@
       "timestamp": 1631836800000,
       "time": "21:30",
       "url": "https://www.kinoheld.de/cinema-berlin/filmrauschpalast/show/2410948181?layout=shows",
-      "available": 85,
-      "reserved": 0,
+      "img": "https://media.kinoheld.de/2PV8Tc8-8pi9T1r5iwvJUQiAoRQ=/400x560/images%2Ffilm%2Fmo%2F1863-39371.v2.jpg",
+      "description": "Grenzgebiet ist ein ruhiger und ehrlicher Film, der sich auf sympathische Art und Weise dem Standardrepertoire des Graffiti Genres widersetzt. Unbeeindruckt von den Erwartungshaltungen und Sehgewohnheiten der eigenen Subkultur entwickelt Grenzgebiet einen ganz eigenen Blick auf Graffiti und dessen Dokumentation. Schnell, laut und auf Action gebürstet, darum geht es in vielen Streifen, sicherlich zu Recht. Aber genau deswegen wirkt Grenzgebiet so erfrischend, weil er eben genau das nicht macht und nicht will. Leichtfüßig drückt er auf die Bremse, gönnt sich lange Einstellungen, schräge Dialoge, skurrile Sequenzen, viel Natur, schöne Landschaften und geile Züge. Vieles ist zu sehen, nur eben kein einziges Graffiti. Und auch das ist so erfrischend, weil er damit die vielen Zwischentöne freilegt, die sonst kaum wahrgenommen werden aber zu Graffiti gehören, wie Sprühlack, Züge, Reisen u.v.m. Eine wunderbare Perspektive. Eine Perspektive die gelingt, weil sich alle Protagonisten kennen, befreundet sind und vier Wochen zusammen in einem alten Passat stecken mit dem sie durch Osteuropa fahren. Gesucht und gefunden werden Züge, doch am Ende geht es um viel mehr, wie sich im Laufe der Reise heraustellen wird.",
+      "available": 83,
+      "reserved": 2,
       "bookable": true
     }
   ],
@@ -1578,8 +1585,8 @@
       "img": "https://media.kinoheld.de/g_qzyOj4oDoc4Iq0De9_5F5QNUM=/400x560/images%2Ffilm%2Fil-babykino-milla-meets-moses-babyteeth-17584.v14.jpg",
       "description": "Milla (Eliza Scanlen) trifft Moses (Toby Wallace) – vielmehr wird sie bei der ersten Begegnung buchstäblich von ihm umgehauen. Obwohl Moses sich als Herumtreiber und Gelegenheitsdealer entpuppt, nimmt sie ihn mit zu sich nach Hause, um ihn ihren Eltern vorzustellen. Anna (Essie Davis) und Henry (Ben Mendelsohn) – eine ehemalige Konzertpianistin und ein ziemlich entspannter Psychiater – sind alles andere als begeistert von Millas neuem Freund. Doch Millas Lebensfreude und ihre Sehnsucht, die Liebe und die Welt zu entdecken, stellen die Familie auf den Kopf. Als die Eltern merken, dass Moses ihrer kranken Tochter sichtlich guttut, nehmen sie ihn trotz ihrer Bedenken bei sich auf und werden dabei mit ihren eigenen Schwächen konfrontiert.",
       "trailer": "https://www.youtube.com/watch?v=kTvEl_ZjVUc",
-      "available": 452,
-      "reserved": 58,
+      "available": 420,
+      "reserved": 67,
       "bookable": true
     },
     {
@@ -1946,8 +1953,8 @@
       "img": "https://media.kinoheld.de/DbWHTKT3neGjvULOXqsnipemH2A=/400x560/images%2Ffilm%2Fminari-18286.v2.png",
       "description": "Jacob beschließt, mit seiner koreanisch-amerikanischen Familie von Los Angeles nach Arkansas zu ziehen, um als Farmer sein Glück zu versuchen. Seine Frau Monica und die Kinder David und Anne fühlen sich jedoch fremd in der neuen Heimat, und das fragile Familienleben wird zusätzlich auf die Probe gestellt, als die schlagfertige und liebevolle Großmutter Soonja von Südkorea zu ihnen auf die Farm zieht.",
       "trailer": "https://www.youtube.com/watch?v=TlOqMFPS00g",
-      "available": 567,
-      "reserved": 22,
+      "available": 557,
+      "reserved": 24,
       "bookable": true
     },
     {
@@ -2420,8 +2427,8 @@
       "img": "https://media.kinoheld.de/1vIIQBhZZqw-OjT2EuvAAJi3lSc=/400x560/images%2Ffilm%2Fparasite-14289.v362.jpg",
       "description": "Familie Kim ist ganz unten angekommen: Vater, Mutter, Sohn und Tochter hausen in einem grünlich-schummrigen Keller, kriechen für kostenloses W-LAN in jeden Winkel und sind sich für keinen Aushilfsjob zu schade. Erst als der Jüngste eine Anstellung als Nachhilfelehrer in der todschicken Villa der Familie Park antritt, steigen die Kims ein ins Karussell der Klassenkämpfe. Mit findigen Tricksereien, bemerkenswertem Talent und großem Mannschaftsgeist gelingt es ihnen, die bisherigen Bediensteten der Familie Park nach und nach loszuwerden. Bald schon sind die Kims unverzichtbar für ihre neuen Herrschaften. Doch dann löst ein unerwarteter Zwischenfall eine Kette von Ereignissen aus, die so unvorhersehbar wie unfassbar sind. (Quelle: Verleih)",
       "trailer": "https://youtu.be/MKJ-nXADsVk",
-      "available": 31,
-      "reserved": 27,
+      "available": 29,
+      "reserved": 29,
       "bookable": true
     },
     {
@@ -3445,6 +3452,24 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
       "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
       "cinemaShortName": "pompeji ostkreuz",
+      "id": "pompeji ostkreuz-2410977216",
+      "title": "NOTES OF BERLIN (subtitled OV English / Preview)",
+      "date": "So., 22.8.",
+      "timestamp": 1629590400000,
+      "time": "20:45",
+      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2410977216?layout=shows",
+      "img": "https://media.kinoheld.de/1Fs8CCwwIx55mLQkGsS_dn7dctY=/400x560/images%2Ffilm%2Fmo%2F2413-39377.v2.jpeg",
+      "description": "Ein Tag und eine Nacht in Berlin: Das Karma fährt einen elektrischen Rollstuhl, ein WG-Casting endet mit einer Hausbesetzung, ein Koch und ein entflohener Hund werden zu Königen, alle suchen einen werdenden Vater und ein Hase bringt einen Nerd dazu, endlich seine Nachbarn kennenzulernen. Fahren Berliner Taxis eigentlich bis zum Eiffelturm? Und wer ist die Queen von Berlin? All diese Geschichten und noch mehr erzählt “Notes of Berlin”. Inspiriert sind sie von echten Aushängen, die in den Straßen der Stadt hingen – an Laternenpfählen, in Treppenhäusern, in Hinterhöfen –, dort von aufmerksamen Berlinern gefunden und auf Joab Nists Kultblog notesofberlin.com veröffentlicht wurden.",
+      "trailer": "https://youtu.be/HOn_TsUQEGE",
+      "available": -1,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "2153",
+      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
+      "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
+      "cinemaShortName": "pompeji ostkreuz",
       "id": "pompeji ostkreuz-2408816095",
       "title": "A SYMPHONY OF NOISE (subtitled OV German / Preview)",
       "date": "Mo., 23.8.",
@@ -3544,8 +3569,8 @@
       "img": "https://media.kinoheld.de/VJ575z3Wugek2Jcv3PLs2shT8AY=/400x560/images%2Ffilm%2Fmatthias-maxime-17408.v5.jpg",
       "description": "Matthias und Maxime sind schon seit ihrer Kindheit beste Freunde und können sich gar nicht vorstellen, plötzlich getrennte Wege zu gehen. Doch das Erwachsenwerden bedeutet Veränderung und so zieht es Maxime für längere Zeit nach Australien.\r\n\r\nIn den Tagen vor seiner Abreise ziehen die beiden im Kreis ihrer Freunde von einer Party zur nächsten. Als eine ihrer Freundinnen, eine Filmstudentin, für ihren neuesten Kurzfilm noch zwei Schauspieler sucht, werden Matthias und Maxime kurzerhand und nicht ganz gegen ihren Willen engagiert. Der Knackpunkt des Ganzen? Die beiden Freunde müssen sich vor der Kamera küssen und dies bringt plötzlich alles ins Wanken.\r\n\r\nUngeahnte und unterdrückte Gefühle erwachen, die die beiden vor Entscheidungen und Herausforderungen stellen, die unüberwindbar scheinen. Denn während Matthias sich krampfhaft gegen seine Gefühle zu wehren versucht, wächst in Maxime mehr und mehr der Wunsch, Matthias noch näher zu kommen, bevor sie der Ozean endgültig trennt. Gibt es für die beiden doch noch ein Happy End?",
       "trailer": "https://www.youtube.com/watch?v=EVE6XP2HcH8",
-      "available": 20,
-      "reserved": 31,
+      "available": 17,
+      "reserved": 34,
       "bookable": true
     },
     {
@@ -3823,8 +3848,8 @@
       "time": "21:30",
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
-      "available": 404,
-      "reserved": 56,
+      "available": 402,
+      "reserved": 58,
       "bookable": true
     },
     {
@@ -3841,8 +3866,8 @@
       "time": "21:30",
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
-      "available": 421,
-      "reserved": 39,
+      "available": 417,
+      "reserved": 43,
       "bookable": true
     },
     {
@@ -3981,8 +4006,8 @@
       "time": "21:15",
       "date": "Mi., 4.8.,",
       "timestamp": 1628111700000,
-      "available": 337,
-      "reserved": 123,
+      "available": 336,
+      "reserved": 124,
       "bookable": true
     },
     {
@@ -4104,8 +4129,8 @@
       "time": "21:15",
       "date": "Mi., 4.8.,",
       "timestamp": 1628111700000,
-      "available": 337,
-      "reserved": 123,
+      "available": 336,
+      "reserved": 124,
       "bookable": true
     },
     {
@@ -4192,8 +4217,8 @@
       "time": "21:30",
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
-      "available": 404,
-      "reserved": 56,
+      "available": 402,
+      "reserved": 58,
       "bookable": true
     },
     {
@@ -4210,8 +4235,8 @@
       "time": "21:30",
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
-      "available": 421,
-      "reserved": 39,
+      "available": 417,
+      "reserved": 43,
       "bookable": true
     }
   ],
@@ -4230,8 +4255,8 @@
       "time": "21:30",
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
-      "available": 376,
-      "reserved": 123,
+      "available": 371,
+      "reserved": 128,
       "bookable": true
     },
     {
@@ -4265,8 +4290,8 @@
       "time": "21:30",
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
-      "available": 452,
-      "reserved": 47,
+      "available": 453,
+      "reserved": 46,
       "bookable": true
     },
     {
@@ -4300,8 +4325,8 @@
       "time": "21:30",
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
-      "available": 169,
-      "reserved": 330,
+      "available": 167,
+      "reserved": 332,
       "bookable": true
     },
     {
@@ -4317,8 +4342,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 455,
-      "reserved": 188,
+      "available": 454,
+      "reserved": 189,
       "bookable": true
     },
     {
@@ -4334,8 +4359,8 @@
       "time": "21:30",
       "date": "Sa., 31.7.",
       "timestamp": 1627767000000,
-      "available": 538,
-      "reserved": 105,
+      "available": 537,
+      "reserved": 106,
       "bookable": true
     },
     {
@@ -4352,8 +4377,8 @@
       "time": "21:15",
       "date": "So., 1.8.,",
       "timestamp": 1627852500000,
-      "available": 471,
-      "reserved": 28,
+      "available": 469,
+      "reserved": 30,
       "bookable": true
     },
     {
@@ -4459,8 +4484,8 @@
       "time": "21:30",
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
-      "available": 169,
-      "reserved": 330,
+      "available": 167,
+      "reserved": 332,
       "bookable": true
     },
     {
@@ -4513,8 +4538,8 @@
       "time": "21:30",
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
-      "available": 452,
-      "reserved": 47,
+      "available": 453,
+      "reserved": 46,
       "bookable": true
     },
     {
@@ -4566,8 +4591,8 @@
       "time": "21:15",
       "date": "So., 1.8.,",
       "timestamp": 1627852500000,
-      "available": 471,
-      "reserved": 28,
+      "available": 469,
+      "reserved": 30,
       "bookable": true
     },
     {
@@ -4583,8 +4608,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 455,
-      "reserved": 188,
+      "available": 454,
+      "reserved": 189,
       "bookable": true
     },
     {
@@ -4618,8 +4643,8 @@
       "time": "21:30",
       "date": "Sa., 31.7.",
       "timestamp": 1627767000000,
-      "available": 538,
-      "reserved": 105,
+      "available": 537,
+      "reserved": 106,
       "bookable": true
     },
     {
@@ -4636,8 +4661,8 @@
       "time": "21:30",
       "date": "So., 25.7.",
       "timestamp": 1627248600000,
-      "available": 376,
-      "reserved": 123,
+      "available": 371,
+      "reserved": 128,
       "bookable": true
     }
   ]
