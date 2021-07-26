@@ -32,8 +32,8 @@
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
       "time": "21:30",
-      "available": 748,
-      "reserved": 330,
+      "available": 746,
+      "reserved": 332,
       "bookable": true
     },
     {
@@ -86,8 +86,8 @@
       "date": "Do., 29.7.",
       "timestamp": 1627592400000,
       "time": "21:00",
-      "available": 548,
-      "reserved": 530,
+      "available": 546,
+      "reserved": 532,
       "bookable": true
     },
     {
@@ -386,8 +386,8 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628974800000,
       "time": "21:00",
-      "available": 1039,
-      "reserved": 39,
+      "available": 1041,
+      "reserved": 37,
       "bookable": true
     },
     {
@@ -845,8 +845,8 @@
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
       "time": "21:30",
-      "available": 453,
-      "reserved": 120,
+      "available": 456,
+      "reserved": 117,
       "bookable": true
     },
     {
@@ -1006,8 +1006,8 @@
       "date": "Do., 5.8.,",
       "timestamp": 1628197200000,
       "time": "21:00",
-      "available": 538,
-      "reserved": 35,
+      "available": 542,
+      "reserved": 31,
       "bookable": true
     },
     {
@@ -3324,8 +3324,8 @@
       "img": "https://media.kinoheld.de/8usCzrUUXPtpAew7Q-3zAFYQ2sQ=/400x560/images%2Ffilm%2F4%2Fweit-die-geschichte-von-einem-weg-um-die-welt-6698.v1.jpg",
       "description": "50.000 Kilometer per Anhalter, über die Ozeane mit dem Schiff und Nachwuchs in Mexiko. \"WEIT. Die Geschichte von einem Weg um die Welt\" ist ein bunter und besonders authentischer Film über die außergewöhnliche Reise eines jungen Paares, das in den Osten loszog, um dreieinhalb Jahre später zu dritt aus dem Westen wieder nach Hause zu kehren. Ohne zu fliegen und mit einem kleinen Budget in der Tasche erkunden sie die Welt, stets von Neugierde und Spontanität begleitet.",
       "trailer": "https://www.youtube.com/watch?v=EenxCHmFyvk",
-      "available": 84,
-      "reserved": 17,
+      "available": 82,
+      "reserved": 19,
       "bookable": true
     },
     {
@@ -3342,8 +3342,8 @@
       "img": "https://media.kinoheld.de/8a5GVakFiNpUXUMFfgxOgYA_DFM=/400x560/images%2Ffilm%2Fpulp-fiction-16667.v35.jpg",
       "description": "Quentin Tarantinos zweiter Film, genannt nach den auf billigem Papier gedruckten amerikanischen \"Hard-boiled\"-Kriminalromanen, gewann 1994 in Cannes die Goldene Palme und 1995 den Oscar für das Beste Originaldrehbuch und ging als Meisterwerk der Postmoderne in die Filmgeschichte ein. PULP FICTION weist Tarantino als Kenner der US-Trivial-Kulturgeschichte aus und als jemanden, der die Tradition der Mord-und-Totschlag-Geschichten der 30er bis 50er Jahre mit den Mitteln der 90er fortzusetzten versteht, ohne sich als billiger Jakob des Zitats gebärden zu müssen. Der Film versammelt Stars wie Harvey Keitel, Tim Roth, Uma Thurman, Bruce Willis und - in einem sensationellen Comeback - John Travolta in einer bleihaltigen und schwarzhumorigen Story aus der Unterwelt, die bevölkert wird von minderbemittelten Profikillern, diebischen Amateuren und bestechlichen Preisboxern.",
       "trailer": "https://www.youtube.com/watch?v=JaQTapkJU-E",
-      "available": 78,
-      "reserved": 30,
+      "available": 76,
+      "reserved": 32,
       "bookable": true
     },
     {
@@ -3438,7 +3438,7 @@
       "img": "https://media.kinoheld.de/VJ575z3Wugek2Jcv3PLs2shT8AY=/400x560/images%2Ffilm%2Fmatthias-maxime-17408.v5.jpg",
       "description": "Matthias und Maxime sind schon seit ihrer Kindheit beste Freunde und können sich gar nicht vorstellen, plötzlich getrennte Wege zu gehen. Doch das Erwachsenwerden bedeutet Veränderung und so zieht es Maxime für längere Zeit nach Australien.\r\n\r\nIn den Tagen vor seiner Abreise ziehen die beiden im Kreis ihrer Freunde von einer Party zur nächsten. Als eine ihrer Freundinnen, eine Filmstudentin, für ihren neuesten Kurzfilm noch zwei Schauspieler sucht, werden Matthias und Maxime kurzerhand und nicht ganz gegen ihren Willen engagiert. Der Knackpunkt des Ganzen? Die beiden Freunde müssen sich vor der Kamera küssen und dies bringt plötzlich alles ins Wanken.\r\n\r\nUngeahnte und unterdrückte Gefühle erwachen, die die beiden vor Entscheidungen und Herausforderungen stellen, die unüberwindbar scheinen. Denn während Matthias sich krampfhaft gegen seine Gefühle zu wehren versucht, wächst in Maxime mehr und mehr der Wunsch, Matthias noch näher zu kommen, bevor sie der Ozean endgültig trennt. Gibt es für die beiden doch noch ein Happy End?",
       "trailer": "https://www.youtube.com/watch?v=EVE6XP2HcH8",
-      "available": 84,
+      "available": 82,
       "reserved": 32,
       "bookable": true
     },
@@ -3658,8 +3658,8 @@
       "time": "21:30",
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
-      "available": 370,
-      "reserved": 90,
+      "available": 367,
+      "reserved": 93,
       "bookable": true
     },
     {
@@ -3676,9 +3676,9 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 8,
+      "reserved": 452,
+      "bookable": true
     },
     {
       "cinemaId": "54eefd0b683138488b190000",
@@ -3726,8 +3726,8 @@
       "time": "21:15",
       "date": "Mo., 2.8.,",
       "timestamp": 1627938900000,
-      "available": 404,
-      "reserved": 56,
+      "available": 402,
+      "reserved": 58,
       "bookable": true
     },
     {
@@ -3744,8 +3744,8 @@
       "time": "21:15",
       "date": "Di., 3.8.,",
       "timestamp": 1628025300000,
-      "available": 320,
-      "reserved": 140,
+      "available": 316,
+      "reserved": 144,
       "bookable": true
     },
     {
@@ -3834,9 +3834,9 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 8,
+      "reserved": 452,
+      "bookable": true
     },
     {
       "cinemaId": "54eefd0b683138488b190000",
@@ -3957,8 +3957,8 @@
       "time": "21:15",
       "date": "Di., 3.8.,",
       "timestamp": 1628025300000,
-      "available": 320,
-      "reserved": 140,
+      "available": 316,
+      "reserved": 144,
       "bookable": true
     },
     {
@@ -3993,8 +3993,8 @@
       "time": "21:30",
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
-      "available": 370,
-      "reserved": 90,
+      "available": 367,
+      "reserved": 93,
       "bookable": true
     },
     {
@@ -4010,8 +4010,8 @@
       "time": "21:15",
       "date": "Mo., 2.8.,",
       "timestamp": 1627938900000,
-      "available": 404,
-      "reserved": 56,
+      "available": 402,
+      "reserved": 58,
       "bookable": true
     },
     {
