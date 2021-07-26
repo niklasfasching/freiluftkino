@@ -13,8 +13,8 @@
     "date": "Fr., 13.8.",
     "timestamp": 1628888400000,
     "time": "21:00",
-    "available": 1054,
-    "reserved": 24,
+    "available": 1050,
+    "reserved": 28,
     "bookable": true
   },
   "fhain-715": {
@@ -31,8 +31,8 @@
     "date": "Di., 27.7.",
     "timestamp": 1627421400000,
     "time": "21:30",
-    "available": 802,
-    "reserved": 276,
+    "available": 797,
+    "reserved": 281,
     "bookable": true
   },
   "fhain-714": {
@@ -49,8 +49,8 @@
     "date": "Mo., 26.7.",
     "timestamp": 1627335000000,
     "time": "21:30",
-    "available": 628,
-    "reserved": 450,
+    "available": 610,
+    "reserved": 468,
     "bookable": true
   },
   "fhain-716": {
@@ -67,8 +67,8 @@
     "date": "Mi., 28.7.",
     "timestamp": 1627506900000,
     "time": "21:15",
-    "available": 644,
-    "reserved": 434,
+    "available": 637,
+    "reserved": 441,
     "bookable": true
   },
   "fhain-726": {
@@ -103,8 +103,8 @@
     "date": "Do., 29.7.",
     "timestamp": 1627592400000,
     "time": "21:00",
-    "available": 557,
-    "reserved": 521,
+    "available": 560,
+    "reserved": 518,
     "bookable": true
   },
   "fhain-723": {
@@ -156,8 +156,8 @@
     "date": "Fr., 30.7.",
     "timestamp": 1627679700000,
     "time": "21:15",
-    "available": 950,
-    "reserved": 128,
+    "available": 952,
+    "reserved": 126,
     "bookable": true
   },
   "fhain-722": {
@@ -403,8 +403,8 @@
     "date": "Sa., 14.8.",
     "timestamp": 1628974800000,
     "time": "21:00",
-    "available": 1047,
-    "reserved": 31,
+    "available": 1045,
+    "reserved": 33,
     "bookable": true
   },
   "fhain-667": {
@@ -488,8 +488,8 @@
     "date": "Mi., 28.7.",
     "timestamp": 1627507800000,
     "time": "21:30",
-    "available": 429,
-    "reserved": 248,
+    "available": 425,
+    "reserved": 252,
     "bookable": true
   },
   "xberg-639": {
@@ -506,8 +506,8 @@
     "date": "Mo., 26.7.",
     "timestamp": 1627335000000,
     "time": "21:30",
-    "available": 310,
-    "reserved": 367,
+    "available": 297,
+    "reserved": 380,
     "bookable": true
   },
   "xberg-640": {
@@ -524,8 +524,8 @@
     "date": "Di., 27.7.",
     "timestamp": 1627421400000,
     "time": "21:30",
-    "available": 439,
-    "reserved": 238,
+    "available": 0,
+    "reserved": 0,
     "bookable": true
   },
   "xberg-656": {
@@ -560,8 +560,8 @@
     "date": "So., 1.8.,",
     "timestamp": 1627851600000,
     "time": "21:00",
-    "available": 642,
-    "reserved": 35,
+    "available": 640,
+    "reserved": 37,
     "bookable": true
   },
   "xberg-657": {
@@ -614,8 +614,8 @@
     "date": "Do., 29.7.",
     "timestamp": 1627594200000,
     "time": "21:30",
-    "available": 616,
-    "reserved": 61,
+    "available": 614,
+    "reserved": 63,
     "bookable": true
   },
   "xberg-651": {
@@ -632,8 +632,8 @@
     "date": "Sa., 31.7.",
     "timestamp": 1627765200000,
     "time": "21:00",
-    "available": 659,
-    "reserved": 18,
+    "available": 657,
+    "reserved": 20,
     "bookable": true
   },
   "xberg-644": {
@@ -650,8 +650,8 @@
     "date": "Fr., 30.7.",
     "timestamp": 1627678800000,
     "time": "21:00",
-    "available": 596,
-    "reserved": 81,
+    "available": 594,
+    "reserved": 83,
     "bookable": true
   },
   "xberg-650": {
@@ -685,7 +685,7 @@
     "date": "So., 8.8.,",
     "timestamp": 1628456400000,
     "time": "21:00",
-    "available": 677,
+    "available": 0,
     "reserved": 0,
     "bookable": true
   },
@@ -702,8 +702,8 @@
     "date": "Di., 10.8.",
     "timestamp": 1628630100000,
     "time": "21:15",
-    "available": 669,
-    "reserved": 8,
+    "available": 0,
+    "reserved": 0,
     "bookable": true
   },
   "xberg-660": {
@@ -720,8 +720,8 @@
     "date": "Mo., 9.8.,",
     "timestamp": 1628543700000,
     "time": "21:15",
-    "available": 675,
-    "reserved": 2,
+    "available": 0,
+    "reserved": 0,
     "bookable": true
   },
   "xberg-649": {
@@ -773,8 +773,8 @@
     "date": "Mi., 11.8.",
     "timestamp": 1628716500000,
     "time": "21:15",
-    "available": 674,
-    "reserved": 3,
+    "available": 0,
+    "reserved": 0,
     "bookable": true
   },
   "xberg-666": {
@@ -790,7 +790,7 @@
     "date": "So., 15.8.",
     "timestamp": 1629061200000,
     "time": "21:00",
-    "available": 677,
+    "available": 0,
     "reserved": 0,
     "bookable": true
   },
@@ -808,8 +808,8 @@
     "date": "Fr., 13.8.",
     "timestamp": 1628889300000,
     "time": "21:15",
-    "available": 670,
-    "reserved": 7,
+    "available": 0,
+    "reserved": 0,
     "bookable": true
   },
   "xberg-667": {
@@ -825,8 +825,8 @@
     "date": "Mo., 16.8.",
     "timestamp": 1629148500000,
     "time": "21:15",
-    "available": 659,
-    "reserved": 18,
+    "available": 0,
+    "reserved": 0,
     "bookable": true
   },
   "xberg-663": {
@@ -842,8 +842,8 @@
     "date": "Do., 12.8.",
     "timestamp": 1628802900000,
     "time": "21:15",
-    "available": 627,
-    "reserved": 50,
+    "available": 0,
+    "reserved": 0,
     "bookable": true
   },
   "xberg-602": {
@@ -858,7 +858,7 @@
     "date": "Do., 19.8.",
     "timestamp": 1629388800000,
     "time": "16:00",
-    "available": 492,
+    "available": 0,
     "reserved": 0,
     "bookable": true
   },
@@ -876,8 +876,8 @@
     "date": "Mo., 26.7.",
     "timestamp": 1627335000000,
     "time": "21:30",
-    "available": 468,
-    "reserved": 105,
+    "available": 465,
+    "reserved": 108,
     "bookable": true
   },
   "rehberge-637": {
@@ -894,8 +894,8 @@
     "date": "Di., 27.7.",
     "timestamp": 1627421400000,
     "time": "21:30",
-    "available": 459,
-    "reserved": 114,
+    "available": 463,
+    "reserved": 110,
     "bookable": true
   },
   "rehberge-638": {
@@ -1001,8 +1001,8 @@
     "date": "Sa., 31.7.",
     "timestamp": 1627765200000,
     "time": "21:00",
-    "available": 531,
-    "reserved": 42,
+    "available": 527,
+    "reserved": 46,
     "bookable": true
   },
   "rehberge-651": {
@@ -1019,8 +1019,8 @@
     "date": "Fr., 30.7.",
     "timestamp": 1627678800000,
     "time": "21:00",
-    "available": 516,
-    "reserved": 57,
+    "available": 512,
+    "reserved": 61,
     "bookable": true
   },
   "rehberge-652": {
@@ -1073,8 +1073,8 @@
     "date": "Fr., 6.8.,",
     "timestamp": 1628283600000,
     "time": "21:00",
-    "available": 565,
-    "reserved": 8,
+    "available": 559,
+    "reserved": 14,
     "bookable": true
   },
   "rehberge-658": {
@@ -1179,8 +1179,8 @@
     "date": "Sa., 14.8.",
     "timestamp": 1628973900000,
     "time": "20:45",
-    "available": 347,
-    "reserved": 226,
+    "available": 350,
+    "reserved": 223,
     "bookable": true
   },
   "rehberge-660": {
@@ -1971,8 +1971,8 @@
     "img": "https://media.kinoheld.de/oO1mnhwCgLFA2jiJXg5aKuZEIBE=/400x560/images%2Ffilm%2F4%2Fb-movie-lust-sound-in-west-berlin-1979-1989-1581.v15.jpg",
     "description": "Eine Dokumentation über Musik, Kunst & Chaos im wilden West-Berlin der 80er Jahre. Bevor der eiserne Vorhang fiel, war die eingemauerte Stadt ein kreativer Schmelztiegel für Sub- und Popkultur. Von Punk bis zur Love Parade - erzählt mit authentischen Zeitdokumenten aus unzähligen Archiven.",
     "trailer": "https://youtu.be/MKJ-nXADsVk",
-    "available": 658,
-    "reserved": 6,
+    "available": 651,
+    "reserved": 7,
     "bookable": true
   },
   "hasenheide-691729": {
@@ -2324,8 +2324,8 @@
     "img": "https://media.kinoheld.de/yKvlkhqk_xqFAGPxf501ljlXzIg=/400x560/images%2Ffilm%2F4%2Fsuspiria-11018.v8.jpg",
     "description": "Die junge Amerikanerin Susie Bannion (Dakota Johnson) kommt 1977 zum renommierten Markos Tanzensemble nach Berlin. Während Susie unter der revolutionären künstlerischen Leiterin Madame Blanc (Tilda Swinton) außergewöhnliche Fortschritte macht, freundet sie sich mit der Tänzerin Sara (Mia Goth) an. Als Patricia (Chloë Grace Moretz), ebenfalls Mitglied des Ensembles, unter mysteriösen Umständen verschwindet, kommt der Psychotherapeut der jungen Tanzschülerin, Dr. Josef Klemperer (Lutz Ebersdorf), einem dunklen Geheimnis auf die Spur. Auch Susie und Sara ahnen, dass sich hinter der Fassade von Madame Blanc und ihrer Tanzschule unbarmherzige Hexen verbergen. (Text: Verleih)",
     "trailer": "https://youtu.be/MKJ-nXADsVk",
-    "available": 27,
-    "reserved": 29,
+    "available": 25,
+    "reserved": 30,
     "bookable": true
   },
   "central-2394922270": {
@@ -3494,7 +3494,7 @@
     "img": "https://media.kinoheld.de/VJ575z3Wugek2Jcv3PLs2shT8AY=/400x560/images%2Ffilm%2Fmatthias-maxime-17408.v5.jpg",
     "description": "Matthias und Maxime sind schon seit ihrer Kindheit beste Freunde und können sich gar nicht vorstellen, plötzlich getrennte Wege zu gehen. Doch das Erwachsenwerden bedeutet Veränderung und so zieht es Maxime für längere Zeit nach Australien.\r\n\r\nIn den Tagen vor seiner Abreise ziehen die beiden im Kreis ihrer Freunde von einer Party zur nächsten. Als eine ihrer Freundinnen, eine Filmstudentin, für ihren neuesten Kurzfilm noch zwei Schauspieler sucht, werden Matthias und Maxime kurzerhand und nicht ganz gegen ihren Willen engagiert. Der Knackpunkt des Ganzen? Die beiden Freunde müssen sich vor der Kamera küssen und dies bringt plötzlich alles ins Wanken.\r\n\r\nUngeahnte und unterdrückte Gefühle erwachen, die die beiden vor Entscheidungen und Herausforderungen stellen, die unüberwindbar scheinen. Denn während Matthias sich krampfhaft gegen seine Gefühle zu wehren versucht, wächst in Maxime mehr und mehr der Wunsch, Matthias noch näher zu kommen, bevor sie der Ozean endgültig trennt. Gibt es für die beiden doch noch ein Happy End?",
     "trailer": "https://www.youtube.com/watch?v=EVE6XP2HcH8",
-    "available": 13,
+    "available": 14,
     "reserved": 37,
     "bookable": true
   },
@@ -3524,8 +3524,8 @@
     "timestamp": 1627689600000,
     "time": "21:15",
     "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2400572792?layout=shows",
-    "available": 64,
-    "reserved": 11,
+    "available": 62,
+    "reserved": 13,
     "bookable": true
   },
   "mobile kino-2403048281": {
@@ -3554,7 +3554,7 @@
     "timestamp": 1627862400000,
     "time": "21:15",
     "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2400927478?layout=shows",
-    "available": 86,
+    "available": 82,
     "reserved": 22,
     "bookable": true
   },
@@ -3753,8 +3753,8 @@
     "time": "21:30",
     "date": "Mo., 26.7.",
     "timestamp": 1627335000000,
-    "available": 365,
-    "reserved": 95,
+    "available": 384,
+    "reserved": 76,
     "bookable": true
   },
   "kulturforum-274": {
@@ -3771,8 +3771,8 @@
     "time": "21:30",
     "date": "Di., 27.7.",
     "timestamp": 1627421400000,
-    "available": 393,
-    "reserved": 67,
+    "available": 386,
+    "reserved": 74,
     "bookable": true
   },
   "kulturforum-275": {
@@ -3789,8 +3789,8 @@
     "time": "21:30",
     "date": "Mi., 28.7.",
     "timestamp": 1627507800000,
-    "available": 304,
-    "reserved": 156,
+    "available": 302,
+    "reserved": 158,
     "bookable": true
   },
   "kulturforum-276": {
@@ -3840,8 +3840,8 @@
     "time": "21:30",
     "date": "Sa., 31.7.",
     "timestamp": 1627767000000,
-    "available": 363,
-    "reserved": 97,
+    "available": 361,
+    "reserved": 99,
     "bookable": true
   },
   "kulturforum-284": {
@@ -3858,8 +3858,8 @@
     "time": "21:15",
     "date": "So., 1.8.,",
     "timestamp": 1627852500000,
-    "available": 393,
-    "reserved": 67,
+    "available": 390,
+    "reserved": 70,
     "bookable": true
   },
   "kulturforum-285": {
@@ -3947,8 +3947,8 @@
     "time": "21:15",
     "date": "Fr., 6.8.,",
     "timestamp": 1628284500000,
-    "available": 436,
-    "reserved": 24,
+    "available": 437,
+    "reserved": 23,
     "bookable": true
   },
   "schloss-charlottenburg-58": {
@@ -3964,8 +3964,8 @@
     "time": "21:30",
     "date": "Mo., 26.7.",
     "timestamp": 1627335000000,
-    "available": 352,
-    "reserved": 147,
+    "available": 338,
+    "reserved": 161,
     "bookable": true
   },
   "schloss-charlottenburg-59": {
@@ -3982,8 +3982,8 @@
     "time": "21:30",
     "date": "Di., 27.7.",
     "timestamp": 1627421400000,
-    "available": 401,
-    "reserved": 98,
+    "available": 398,
+    "reserved": 101,
     "bookable": true
   },
   "schloss-charlottenburg-60": {
@@ -4017,8 +4017,8 @@
     "time": "21:30",
     "date": "Do., 29.7.",
     "timestamp": 1627594200000,
-    "available": 130,
-    "reserved": 369,
+    "available": 128,
+    "reserved": 371,
     "bookable": true
   },
   "schloss-charlottenburg-61": {
@@ -4034,8 +4034,8 @@
     "time": "21:30",
     "date": "Fr., 30.7.",
     "timestamp": 1627680600000,
-    "available": 406,
-    "reserved": 237,
+    "available": 402,
+    "reserved": 241,
     "bookable": true
   },
   "schloss-charlottenburg-62": {
@@ -4051,8 +4051,8 @@
     "time": "21:30",
     "date": "Sa., 31.7.",
     "timestamp": 1627767000000,
-    "available": 507,
-    "reserved": 136,
+    "available": 505,
+    "reserved": 138,
     "bookable": true
   },
   "schloss-charlottenburg-71": {
@@ -4087,8 +4087,8 @@
     "time": "21:15",
     "date": "Mo., 2.8.,",
     "timestamp": 1627938900000,
-    "available": 450,
-    "reserved": 49,
+    "available": 447,
+    "reserved": 52,
     "bookable": true
   },
   "schloss-charlottenburg-64": {
@@ -4141,8 +4141,8 @@
     "time": "21:15",
     "date": "Do., 5.8.,",
     "timestamp": 1628198100000,
-    "available": 466,
-    "reserved": 33,
+    "available": 469,
+    "reserved": 30,
     "bookable": true
   },
   "schloss-charlottenburg-66": {
@@ -4158,8 +4158,8 @@
     "time": "21:15",
     "date": "Fr., 6.8.,",
     "timestamp": 1628284500000,
-    "available": 602,
-    "reserved": 41,
+    "available": 599,
+    "reserved": 44,
     "bookable": true
   }
 }
