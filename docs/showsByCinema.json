@@ -32,8 +32,8 @@
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
       "time": "21:30",
-      "available": 843,
-      "reserved": 235,
+      "available": 838,
+      "reserved": 240,
       "bookable": true
     },
     {
@@ -50,8 +50,8 @@
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
       "time": "21:30",
-      "available": 754,
-      "reserved": 324,
+      "available": 727,
+      "reserved": 351,
       "bookable": true
     },
     {
@@ -68,8 +68,8 @@
       "date": "Mi., 28.7.",
       "timestamp": 1627506900000,
       "time": "21:15",
-      "available": 659,
-      "reserved": 419,
+      "available": 661,
+      "reserved": 417,
       "bookable": true
     },
     {
@@ -175,8 +175,8 @@
       "date": "Sa., 31.7.",
       "timestamp": 1627765200000,
       "time": "21:00",
-      "available": 967,
-      "reserved": 111,
+      "available": 965,
+      "reserved": 113,
       "bookable": true
     },
     {
@@ -491,8 +491,8 @@
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
       "time": "21:30",
-      "available": 465,
-      "reserved": 212,
+      "available": 452,
+      "reserved": 225,
       "bookable": true
     },
     {
@@ -509,8 +509,8 @@
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
       "time": "21:30",
-      "available": 452,
-      "reserved": 225,
+      "available": 432,
+      "reserved": 245,
       "bookable": true
     },
     {
@@ -527,8 +527,8 @@
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
       "time": "21:30",
-      "available": 502,
-      "reserved": 175,
+      "available": 496,
+      "reserved": 181,
       "bookable": true
     },
     {
@@ -563,8 +563,8 @@
       "date": "So., 1.8.,",
       "timestamp": 1627851600000,
       "time": "21:00",
-      "available": 654,
-      "reserved": 23,
+      "available": 649,
+      "reserved": 28,
       "bookable": true
     },
     {
@@ -615,8 +615,8 @@
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
       "time": "21:30",
-      "available": 631,
-      "reserved": 46,
+      "available": 627,
+      "reserved": 50,
       "bookable": true
     },
     {
@@ -757,8 +757,8 @@
       "date": "Fr., 6.8.,",
       "timestamp": 1628283600000,
       "time": "21:00",
-      "available": 665,
-      "reserved": 12,
+      "available": 663,
+      "reserved": 14,
       "bookable": true
     },
     {
@@ -809,8 +809,8 @@
       "date": "Fr., 13.8.",
       "timestamp": 1628889300000,
       "time": "21:15",
-      "available": 672,
-      "reserved": 5,
+      "available": 670,
+      "reserved": 7,
       "bookable": true
     },
     {
@@ -879,8 +879,8 @@
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
       "time": "21:30",
-      "available": 490,
-      "reserved": 83,
+      "available": 488,
+      "reserved": 85,
       "bookable": true
     },
     {
@@ -897,8 +897,8 @@
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
       "time": "21:30",
-      "available": 487,
-      "reserved": 86,
+      "available": 483,
+      "reserved": 90,
       "bookable": true
     },
     {
@@ -951,8 +951,8 @@
       "date": "Di., 3.8.,",
       "timestamp": 1628024400000,
       "time": "21:00",
-      "available": 558,
-      "reserved": 15,
+      "available": 556,
+      "reserved": 17,
       "bookable": true
     },
     {
@@ -1022,8 +1022,8 @@
       "date": "Fr., 30.7.",
       "timestamp": 1627678800000,
       "time": "21:00",
-      "available": 523,
-      "reserved": 50,
+      "available": 521,
+      "reserved": 52,
       "bookable": true
     },
     {
@@ -1058,8 +1058,8 @@
       "date": "Do., 5.8.,",
       "timestamp": 1628197200000,
       "time": "21:00",
-      "available": 568,
-      "reserved": 5,
+      "available": 566,
+      "reserved": 7,
       "bookable": true
     },
     {
@@ -1076,8 +1076,8 @@
       "date": "Fr., 6.8.,",
       "timestamp": 1628283600000,
       "time": "21:00",
-      "available": 567,
-      "reserved": 6,
+      "available": 565,
+      "reserved": 8,
       "bookable": true
     },
     {
@@ -1216,8 +1216,8 @@
       "date": "So., 15.8.",
       "timestamp": 1629061200000,
       "time": "21:00",
-      "available": 565,
-      "reserved": 8,
+      "available": 563,
+      "reserved": 10,
       "bookable": true
     },
     {
@@ -1563,7 +1563,7 @@
       "img": "https://media.kinoheld.de/DVQcxtUYNoxr36fQFLasSd8kr_E=/400x560/images%2Ffilm%2Falles-ist-eins-ausser-der-0-19150.v1.jpg",
       "description": "ALLES IST EINS. AUSSER DER 0. erzählt eine Geschichte digitaler Subversion: vom exklusiven Club zu einer Instanz, die heute bei allen Fragen der Netzpolitik zu Rate gezogen wird. Der Dokumentarfilm von Klaus Maeck und Tanja Schwerdorf setzt der bekanntesten deutschen Hackervereinigung ein stilsicheres, kraftvolles und würdiges Denkmal. Selten hat man ein so eindringliches Porträt über Zeitgeist-Pioniere gesehen, deren Weitblick für die Gegenwart so beeindruckend wie bereichernd ist.",
       "available": 0,
-      "reserved": 205,
+      "reserved": 207,
       "bookable": false
     },
     {
@@ -2339,8 +2339,8 @@
       "img": "https://media.kinoheld.de/yKvlkhqk_xqFAGPxf501ljlXzIg=/400x560/images%2Ffilm%2F4%2Fsuspiria-11018.v8.jpg",
       "description": "Die junge Amerikanerin Susie Bannion (Dakota Johnson) kommt 1977 zum renommierten Markos Tanzensemble nach Berlin. Während Susie unter der revolutionären künstlerischen Leiterin Madame Blanc (Tilda Swinton) außergewöhnliche Fortschritte macht, freundet sie sich mit der Tänzerin Sara (Mia Goth) an. Als Patricia (Chloë Grace Moretz), ebenfalls Mitglied des Ensembles, unter mysteriösen Umständen verschwindet, kommt der Psychotherapeut der jungen Tanzschülerin, Dr. Josef Klemperer (Lutz Ebersdorf), einem dunklen Geheimnis auf die Spur. Auch Susie und Sara ahnen, dass sich hinter der Fassade von Madame Blanc und ihrer Tanzschule unbarmherzige Hexen verbergen. (Text: Verleih)",
       "trailer": "https://youtu.be/MKJ-nXADsVk",
-      "available": 53,
-      "reserved": 10,
+      "available": 52,
+      "reserved": 11,
       "bookable": true
     },
     {
@@ -3757,8 +3757,8 @@
       "time": "21:30",
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
-      "available": 382,
-      "reserved": 78,
+      "available": 376,
+      "reserved": 84,
       "bookable": true
     },
     {
@@ -3775,8 +3775,8 @@
       "time": "21:30",
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
-      "available": 398,
-      "reserved": 62,
+      "available": 396,
+      "reserved": 64,
       "bookable": true
     },
     {
@@ -3793,8 +3793,8 @@
       "time": "21:30",
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
-      "available": 310,
-      "reserved": 150,
+      "available": 307,
+      "reserved": 153,
       "bookable": true
     },
     {
@@ -3829,9 +3829,9 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 8,
+      "reserved": 452,
+      "bookable": true
     },
     {
       "cinemaId": "54eefd0b683138488b190000",
@@ -3897,8 +3897,8 @@
       "time": "21:15",
       "date": "Di., 3.8.,",
       "timestamp": 1628025300000,
-      "available": 322,
-      "reserved": 138,
+      "available": 320,
+      "reserved": 140,
       "bookable": true
     },
     {
@@ -3915,8 +3915,8 @@
       "time": "21:15",
       "date": "Mi., 4.8.,",
       "timestamp": 1628111700000,
-      "available": 303,
-      "reserved": 157,
+      "available": 301,
+      "reserved": 159,
       "bookable": true
     },
     {
@@ -3969,9 +3969,9 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 8,
+      "reserved": 452,
+      "bookable": true
     },
     {
       "cinemaId": "54eefd0b683138488b190000",
@@ -4038,8 +4038,8 @@
       "time": "21:30",
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
-      "available": 310,
-      "reserved": 150,
+      "available": 307,
+      "reserved": 153,
       "bookable": true
     },
     {
@@ -4056,8 +4056,8 @@
       "time": "21:15",
       "date": "Mi., 4.8.,",
       "timestamp": 1628111700000,
-      "available": 303,
-      "reserved": 157,
+      "available": 301,
+      "reserved": 159,
       "bookable": true
     },
     {
@@ -4074,8 +4074,8 @@
       "time": "21:15",
       "date": "Di., 3.8.,",
       "timestamp": 1628025300000,
-      "available": 322,
-      "reserved": 138,
+      "available": 320,
+      "reserved": 140,
       "bookable": true
     },
     {
@@ -4144,8 +4144,8 @@
       "time": "21:30",
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
-      "available": 382,
-      "reserved": 78,
+      "available": 376,
+      "reserved": 84,
       "bookable": true
     },
     {
@@ -4162,8 +4162,8 @@
       "time": "21:30",
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
-      "available": 398,
-      "reserved": 62,
+      "available": 396,
+      "reserved": 64,
       "bookable": true
     }
   ],
@@ -4181,8 +4181,8 @@
       "time": "21:30",
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
-      "available": 373,
-      "reserved": 126,
+      "available": 369,
+      "reserved": 130,
       "bookable": true
     },
     {
@@ -4199,8 +4199,8 @@
       "time": "21:30",
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
-      "available": 420,
-      "reserved": 79,
+      "available": 417,
+      "reserved": 82,
       "bookable": true
     },
     {
@@ -4217,8 +4217,8 @@
       "time": "21:30",
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
-      "available": 416,
-      "reserved": 83,
+      "available": 412,
+      "reserved": 87,
       "bookable": true
     },
     {
@@ -4234,8 +4234,8 @@
       "time": "21:30",
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
-      "available": 135,
-      "reserved": 364,
+      "available": 130,
+      "reserved": 369,
       "bookable": true
     },
     {
@@ -4251,8 +4251,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 410,
-      "reserved": 233,
+      "available": 408,
+      "reserved": 235,
       "bookable": true
     },
     {
@@ -4340,8 +4340,8 @@
       "time": "21:15",
       "date": "Mi., 4.8.,",
       "timestamp": 1628111700000,
-      "available": 479,
-      "reserved": 20,
+      "available": 478,
+      "reserved": 21,
       "bookable": true
     },
     {
@@ -4410,8 +4410,8 @@
       "time": "21:30",
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
-      "available": 135,
-      "reserved": 364,
+      "available": 130,
+      "reserved": 369,
       "bookable": true
     },
     {
@@ -4463,8 +4463,8 @@
       "time": "21:15",
       "date": "Mi., 4.8.,",
       "timestamp": 1628111700000,
-      "available": 479,
-      "reserved": 20,
+      "available": 478,
+      "reserved": 21,
       "bookable": true
     },
     {
@@ -4481,8 +4481,8 @@
       "time": "21:30",
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
-      "available": 420,
-      "reserved": 79,
+      "available": 417,
+      "reserved": 82,
       "bookable": true
     },
     {
@@ -4516,8 +4516,8 @@
       "time": "21:30",
       "date": "Mo., 26.7.",
       "timestamp": 1627335000000,
-      "available": 373,
-      "reserved": 126,
+      "available": 369,
+      "reserved": 130,
       "bookable": true
     },
     {
@@ -4551,8 +4551,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 410,
-      "reserved": 233,
+      "available": 408,
+      "reserved": 235,
       "bookable": true
     },
     {
@@ -4569,8 +4569,8 @@
       "time": "21:30",
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
-      "available": 416,
-      "reserved": 83,
+      "available": 412,
+      "reserved": 87,
       "bookable": true
     },
     {
