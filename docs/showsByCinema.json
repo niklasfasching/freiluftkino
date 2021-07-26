@@ -32,8 +32,8 @@
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
       "time": "21:30",
-      "available": 760,
-      "reserved": 318,
+      "available": 748,
+      "reserved": 330,
       "bookable": true
     },
     {
@@ -50,8 +50,8 @@
       "date": "Mi., 28.7.",
       "timestamp": 1627506900000,
       "time": "21:15",
-      "available": 629,
-      "reserved": 449,
+      "available": 627,
+      "reserved": 451,
       "bookable": true
     },
     {
@@ -68,8 +68,8 @@
       "date": "Mi., 4.8.,",
       "timestamp": 1628110800000,
       "time": "21:00",
-      "available": 1052,
-      "reserved": 26,
+      "available": 1050,
+      "reserved": 28,
       "bookable": true
     },
     {
@@ -86,8 +86,8 @@
       "date": "Do., 29.7.",
       "timestamp": 1627592400000,
       "time": "21:00",
-      "available": 549,
-      "reserved": 529,
+      "available": 548,
+      "reserved": 530,
       "bookable": true
     },
     {
@@ -157,8 +157,8 @@
       "date": "Sa., 31.7.",
       "timestamp": 1627765200000,
       "time": "21:00",
-      "available": 937,
-      "reserved": 141,
+      "available": 935,
+      "reserved": 143,
       "bookable": true
     },
     {
@@ -386,8 +386,8 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628974800000,
       "time": "21:00",
-      "available": 1043,
-      "reserved": 35,
+      "available": 1039,
+      "reserved": 39,
       "bookable": true
     },
     {
@@ -473,8 +473,8 @@
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
       "time": "21:30",
-      "available": 409,
-      "reserved": 268,
+      "available": 407,
+      "reserved": 270,
       "bookable": true
     },
     {
@@ -491,8 +491,8 @@
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
       "time": "21:30",
-      "available": 407,
-      "reserved": 270,
+      "available": 409,
+      "reserved": 268,
       "bookable": true
     },
     {
@@ -563,8 +563,8 @@
       "date": "Mo., 2.8.,",
       "timestamp": 1627938000000,
       "time": "21:00",
-      "available": 669,
-      "reserved": 8,
+      "available": 673,
+      "reserved": 4,
       "bookable": true
     },
     {
@@ -581,8 +581,8 @@
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
       "time": "21:30",
-      "available": 605,
-      "reserved": 72,
+      "available": 599,
+      "reserved": 78,
       "bookable": true
     },
     {
@@ -599,8 +599,8 @@
       "date": "Sa., 31.7.",
       "timestamp": 1627765200000,
       "time": "21:00",
-      "available": 653,
-      "reserved": 24,
+      "available": 655,
+      "reserved": 22,
       "bookable": true
     },
     {
@@ -723,8 +723,8 @@
       "date": "Fr., 6.8.,",
       "timestamp": 1628283600000,
       "time": "21:00",
-      "available": 661,
-      "reserved": 16,
+      "available": 659,
+      "reserved": 18,
       "bookable": true
     },
     {
@@ -809,8 +809,8 @@
       "date": "Do., 12.8.",
       "timestamp": 1628802900000,
       "time": "21:15",
-      "available": 618,
-      "reserved": 59,
+      "available": 617,
+      "reserved": 60,
       "bookable": true
     },
     {
@@ -845,8 +845,8 @@
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
       "time": "21:30",
-      "available": 457,
-      "reserved": 116,
+      "available": 453,
+      "reserved": 120,
       "bookable": true
     },
     {
@@ -863,8 +863,8 @@
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
       "time": "21:30",
-      "available": 464,
-      "reserved": 109,
+      "available": 460,
+      "reserved": 113,
       "bookable": true
     },
     {
@@ -1006,8 +1006,8 @@
       "date": "Do., 5.8.,",
       "timestamp": 1628197200000,
       "time": "21:00",
-      "available": 542,
-      "reserved": 31,
+      "available": 538,
+      "reserved": 35,
       "bookable": true
     },
     {
@@ -1468,56 +1468,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
       "cinemaName": "freiluftkino-hasenheide",
       "cinemaShortName": "hasenheide",
-      "id": "hasenheide-691334",
-      "title": "Ferien auf Saltkrokan ",
-      "date": "Mo., 26.7.",
-      "timestamp": 1627257600000,
-      "time": "16:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691334?layout=shows",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "hasenheide-692197",
-      "title": "Trouble With Being Born, The ",
-      "date": "Mo., 26.7.",
-      "timestamp": 1627257600000,
-      "time": "18:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/692197?layout=shows",
-      "img": "https://media.kinoheld.de/wkU_KHbys0bMLTLcd3GFXv3CDUQ=/400x560/images%2Ffilm%2Fthe-trouble-with-being-born-19295.v3.png",
-      "description": "Elli lebt mit einem Mann zusammen, den sie ihren Vater nennt.  Gemeinsam lassen sie sich durch den Sommer treiben. Tagsüber schwimmen sie im Pool und nachts bringt er sie ins Bett. Sie teilt seine Erinnerungen und alles andere, was er ihr einprogrammiert, damit sie sich daran erinnert. Erinnerungen, die ihm alles, aber ihr nichts bedeuten. Doch eines Nacht macht sie sich auf den Weg in den Wald und folgt einem verklingenden Echo...  Die Geschichte einer Maschine und der Geister, die wir alle in uns tragen.",
-      "trailer": "https://www.youtube.com/watch?v=515710227",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "hasenheide-691237",
-      "title": "Alles ist eins. Ausser der 0. ",
-      "date": "Mo., 26.7.",
-      "timestamp": 1627257600000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691237?layout=shows",
-      "img": "https://media.kinoheld.de/DVQcxtUYNoxr36fQFLasSd8kr_E=/400x560/images%2Ffilm%2Falles-ist-eins-ausser-der-0-19150.v1.jpg",
-      "description": "ALLES IST EINS. AUSSER DER 0. erzählt eine Geschichte digitaler Subversion: vom exklusiven Club zu einer Instanz, die heute bei allen Fragen der Netzpolitik zu Rate gezogen wird. Der Dokumentarfilm von Klaus Maeck und Tanja Schwerdorf setzt der bekanntesten deutschen Hackervereinigung ein stilsicheres, kraftvolles und würdiges Denkmal. Selten hat man ein so eindringliches Porträt über Zeitgeist-Pioniere gesehen, deren Weitblick für die Gegenwart so beeindruckend wie bereichernd ist.",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
       "id": "hasenheide-691335",
       "title": "Geheime Garten, Der ",
       "date": "Di., 27.7.",
@@ -1671,8 +1621,8 @@
       "img": "https://media.kinoheld.de/qlejqxHAh_z_5qWR-8IW6FnZPdw=/400x560/images%2Ffilm%2Fnobody-19283.v29.png",
       "description": "Familienvater Hutch (Bob Odenkirk) ist ein Niemand. Der Vorstadt-Familienvater wird von den meisten Leuten einfach ignoriert und zieht auch niemals die Aufmerksamkeit auf sich. Als zwei Verbrecher eines Nachts in sein Haus einsteigen, sieht er sich außerstande, sich oder seine Familie zu verteidigen. Schließlich will er Gewalt um jeden Preis verhindern. Sein Sohn Brady (Gage Munroe) wendet sich daraufhin enttäuscht von seinem Vater ab. Seine Frau Becca (Connie Nielsen) tut es ihm gleich und zieht sich noch mehr zurück. Doch der Einbruch löst bei Hutch etwas aus. Er sieht plötzlich rot und enthüllt eine dunkle Seite, die ihn auf einen Pfad der Gewalt schickt: Einst arbeitete der vermeintliche Versager nämlich als Killer für die Mafia. Und von nun an stellt er mit allen Mitteln sicher, dass seiner Familie nie wieder etwas geschehen und er als Niemand so schnell nicht mehr unterschätzt wird...",
       "trailer": "https://www.youtube.com/watch?v=l7sBoMS6O60",
-      "available": 560,
-      "reserved": 28,
+      "available": 556,
+      "reserved": 30,
       "bookable": true
     },
     {
@@ -1725,8 +1675,8 @@
       "img": "https://media.kinoheld.de/JUw_7p1h4ID_IYJBYMa0SLMtZU8=/400x560/images%2Ffilm%2Fno-sudden-move-19129.v6.png",
       "description": "Eine Gruppe Krimineller muss herausfinden, was schiefgelaufen ist, als ihr Coup platzt.",
       "trailer": "https://www.youtube.com/watch?v=7GRDLX3a-IE",
-      "available": 625,
-      "reserved": 11,
+      "available": 617,
+      "reserved": 13,
       "bookable": true
     },
     {
@@ -2272,24 +2222,6 @@
     }
   ],
   "central-kino-open-air": [
-    {
-      "cinemaId": "1839",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
-      "cinemaName": "central-kino-open-air",
-      "cinemaShortName": "central",
-      "id": "central-2394922246",
-      "title": "open air: Suspiria (subtitled OV German)",
-      "date": "Mo., 26.7.",
-      "timestamp": 1627257600000,
-      "time": "21:15",
-      "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2394922246?layout=shows",
-      "img": "https://media.kinoheld.de/yKvlkhqk_xqFAGPxf501ljlXzIg=/400x560/images%2Ffilm%2F4%2Fsuspiria-11018.v8.jpg",
-      "description": "Die junge Amerikanerin Susie Bannion (Dakota Johnson) kommt 1977 zum renommierten Markos Tanzensemble nach Berlin. Während Susie unter der revolutionären künstlerischen Leiterin Madame Blanc (Tilda Swinton) außergewöhnliche Fortschritte macht, freundet sie sich mit der Tänzerin Sara (Mia Goth) an. Als Patricia (Chloë Grace Moretz), ebenfalls Mitglied des Ensembles, unter mysteriösen Umständen verschwindet, kommt der Psychotherapeut der jungen Tanzschülerin, Dr. Josef Klemperer (Lutz Ebersdorf), einem dunklen Geheimnis auf die Spur. Auch Susie und Sara ahnen, dass sich hinter der Fassade von Madame Blanc und ihrer Tanzschule unbarmherzige Hexen verbergen. (Text: Verleih)",
-      "trailer": "https://www.youtube.com/watch?v=BY6QKRl56Ok",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
     {
       "cinemaId": "1839",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
@@ -2842,24 +2774,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
       "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
       "cinemaShortName": "pompeji ostkreuz",
-      "id": "pompeji ostkreuz-2399907204",
-      "title": "SCHWESTERLEIN ",
-      "date": "Mo., 26.7.",
-      "timestamp": 1627257600000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2399907204?layout=shows",
-      "img": "https://media.kinoheld.de/L38EzF0p2enDK_I6YSIF62yiGy0=/400x560/images%2Ffilm%2Fschwesterlein-17561.v71.jpg",
-      "description": "Lisa, einst brillante Theaterautorin, schreibt nicht mehr. Sie lebt in der Schweiz, doch ihr Herz ist in Berlin geblieben – bei ihrem Zwillingsbruder Sven, dem berühmten Bühnendarsteller. Seit dieser an einer aggressiven Leukämie erkrankt ist, sind die Geschwister noch enger verbunden. Lisa weigert sich, den Schicksalsschlag hinzunehmen und setzt alle Hebel in Bewegung, um Sven wieder auf die Bühne zu bringen. Er ist ihr Seelenverwandter, für den sie alles andere vernachlässigt. Selbst als ihre Ehe in Schieflage gerät, hat sie nur Augen für ihren Bruder, in dem sich ihre tiefsten Sehnsüchte spiegeln: Er weckt in ihr das Verlangen, wieder kreativ zu sein, sich lebendig zu fühlen.  Mit SCHWESTERLEIN ist ein aufwühlendes Drama gelungen, das sich voll und ganz auf seine überragenden Hauptdarsteller verlassen kann: Nina Hoss und Lars Eidinger– erstmals gemeinsam vor der Kamera – verkörpern das innige Geschwisterpaar voller Glaubwürdigkeit und leidenschaftlicher Intensität.",
-      "trailer": "https://youtu.be/0UqrB0s1ZTw",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "2153",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-      "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-      "cinemaShortName": "pompeji ostkreuz",
       "id": "pompeji ostkreuz-2399907212",
       "title": "KOKON (subtitled OV English)",
       "date": "Di., 27.7.",
@@ -3401,21 +3315,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/mobile-kino-berlin/shows/movies",
       "cinemaName": "mobile-kino-berlin",
       "cinemaShortName": "mobile kino",
-      "id": "mobile kino-2391540390",
-      "title": "NOTES OF BERLIN (subtitled OV English)",
-      "date": "Mo., 26.7.",
-      "timestamp": 1627257600000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2391540390?layout=shows",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "3033",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/mobile-kino-berlin/shows/movies",
-      "cinemaName": "mobile-kino-berlin",
-      "cinemaShortName": "mobile kino",
       "id": "mobile kino-2409150538",
       "title": "WEIT. DIE GESCHICHTE VON EINEM WEG UM DIE WELT (subtitled OV English)",
       "date": "Di., 27.7.",
@@ -3723,8 +3622,8 @@
       "time": "21:30",
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
-      "available": 378,
-      "reserved": 82,
+      "available": 376,
+      "reserved": 84,
       "bookable": true
     },
     {
@@ -3777,9 +3676,9 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 8,
-      "reserved": 452,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "cinemaId": "54eefd0b683138488b190000",
@@ -3904,6 +3803,24 @@
       "bookable": true
     },
     {
+      "title": "Ich bin dein Mensch",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60b8db256144400496f96d55/show_ImYourMan_Po_A4_300dpi_neu.jpg",
+      "description": "Drei Wochen lang soll Alma mit einem ganz auf sie zugeschnittenen Roboter leben, dessen künstliche Intelligenz darauf angelegt ist, der perfekte Lebenspartner für sie zu sein. Alma trifft auf Tom (Dan Stevens), eine hochentwickelte Maschine in Menschengestalt, einzig dafür geschaffen, sie glücklich zu machen...",
+      "trailer": "https://www.youtube.com/watch?v=3gRjZGh8gD0&ab_channel=vipmagazin",
+      "cinemaId": "54eefd0b683138488b190000",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-288",
+      "url": "https://yorck.de/checkout/step01?showid=288&siteid=1015",
+      "time": "21:15",
+      "date": "Sa., 7.8.,",
+      "timestamp": 1628370900000,
+      "available": 421,
+      "reserved": 39,
+      "bookable": true
+    },
+    {
       "title": "Nomadland (OmU)",
       "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/6040ac56614440014e079840/show_Nomadland_Pos_Poster_S.jpg",
       "description": "Fern (Frances McDormand) hat erst ihren Mann, dann ihre Heimatstadt verloren, nachdem der größte Arbeitgeber dort dichtgemacht hat. Sie packt alle Habseligkeiten in einen Transporter und beginnt, als Nomadin der Arbeit hinterherzuziehen. Wer wissen möchte, was großes Kino ist und kann, hat hier Termin!",
@@ -3917,9 +3834,9 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 8,
-      "reserved": 452,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "cinemaId": "54eefd0b683138488b190000",
@@ -4006,6 +3923,24 @@
       "timestamp": 1628111700000,
       "available": 285,
       "reserved": 175,
+      "bookable": true
+    },
+    {
+      "title": "Ich bin dein Mensch",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60b8db256144400496f96d55/show_ImYourMan_Po_A4_300dpi_neu.jpg",
+      "description": "Drei Wochen lang soll Alma mit einem ganz auf sie zugeschnittenen Roboter leben, dessen künstliche Intelligenz darauf angelegt ist, der perfekte Lebenspartner für sie zu sein. Alma trifft auf Tom (Dan Stevens), eine hochentwickelte Maschine in Menschengestalt, einzig dafür geschaffen, sie glücklich zu machen...",
+      "trailer": "https://www.youtube.com/watch?v=3gRjZGh8gD0&ab_channel=vipmagazin",
+      "cinemaId": "54eefd0b683138488b190000",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-288",
+      "url": "https://yorck.de/checkout/step01?showid=288&siteid=1015",
+      "time": "21:15",
+      "date": "Sa., 7.8.,",
+      "timestamp": 1628370900000,
+      "available": 421,
+      "reserved": 39,
       "bookable": true
     },
     {
@@ -4093,8 +4028,8 @@
       "time": "21:30",
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
-      "available": 378,
-      "reserved": 82,
+      "available": 376,
+      "reserved": 84,
       "bookable": true
     }
   ],
@@ -4113,8 +4048,8 @@
       "time": "21:30",
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
-      "available": 386,
-      "reserved": 113,
+      "available": 388,
+      "reserved": 111,
       "bookable": true
     },
     {
@@ -4165,8 +4100,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 399,
-      "reserved": 244,
+      "available": 393,
+      "reserved": 250,
       "bookable": true
     },
     {
@@ -4377,8 +4312,8 @@
       "time": "21:30",
       "date": "Di., 27.7.",
       "timestamp": 1627421400000,
-      "available": 386,
-      "reserved": 113,
+      "available": 388,
+      "reserved": 111,
       "bookable": true
     },
     {
@@ -4448,8 +4383,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 399,
-      "reserved": 244,
+      "available": 393,
+      "reserved": 250,
       "bookable": true
     },
     {
