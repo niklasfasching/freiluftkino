@@ -85,8 +85,8 @@
     "date": "Do., 29.7.",
     "timestamp": 1627592400000,
     "time": "21:00",
-    "available": 546,
-    "reserved": 532,
+    "available": 548,
+    "reserved": 530,
     "bookable": true
   },
   "fhain-723": {
@@ -488,8 +488,8 @@
     "date": "Di., 27.7.",
     "timestamp": 1627421400000,
     "time": "21:30",
-    "available": 409,
-    "reserved": 268,
+    "available": 407,
+    "reserved": 270,
     "bookable": true
   },
   "xberg-656": {
@@ -1327,7 +1327,7 @@
     "timestamp": 1628294400000,
     "time": "21:30",
     "url": "https://www.kinoheld.de/cinema-berlin/filmrauschpalast/show/2410947390?layout=shows",
-    "img": "https://media.kinoheld.de/wVqrwMExiCF7kjl3d0_sVeZ7MCQ=/400x560/images%2Ffilm%2F4%2Fheil-1729.v1.jpg",
+    "img": "https://media.kinoheld.de/PyYvEPhzQTl-brqy6Qo1VsAMuBU=/400x560/images%2Ffilm%2F4%2Fheil-1729.v2.jpg",
     "description": "„Heil“ ist eine kreischend komische Liebeskomödie und bitterböse Gesellschaftssatire, in der alle durch den Kakao gezogen werden. Die alten rechtsradikalen Schläger und die neuen, sich harmlos gebenden „Nipster“. Die liberalen Intellektuellen mit ihren Denkverboten. Die Antifa mit ihren Schwarzweiß-Feindbildern. Der Verfassungsschutz mit seinem grotesken Bürokratie-Wirrwarr. Der Kulturbetrieb mit seinem prätentiösen Kunst-Blabla. Und nicht zuletzt die Medienöffentlichkeit, die süchtig ist nach Erregung und sich ihre eigene Wirklichkeit schafft. Rasant und rasend zugleich inszeniert, ist „Heil“ eine schrille Farce über die Lage der Nation, der nichts heilig ist.",
     "available": 85,
     "reserved": 0,
@@ -2011,6 +2011,39 @@
     "reserved": 0,
     "bookable": true
   },
+  "cassiopeia-2412412945": {
+    "cinemaId": "581",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-insel-im-cassiopeia/shows/movies",
+    "cinemaName": "freiluftkino-insel-im-cassiopeia",
+    "cinemaShortName": "cassiopeia",
+    "id": "cassiopeia-2412412945",
+    "title": "BANKSY - EXIT THROUGH THE GIFT SHOP (subtitled OV German)",
+    "date": "Mo., 2.8.,",
+    "timestamp": 1627862400000,
+    "time": "21:00",
+    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-insel-im-cassiopeia/show/2412412945?layout=shows",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
+  "cassiopeia-2412412931": {
+    "cinemaId": "581",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-insel-im-cassiopeia/shows/movies",
+    "cinemaName": "freiluftkino-insel-im-cassiopeia",
+    "cinemaShortName": "cassiopeia",
+    "id": "cassiopeia-2412412931",
+    "title": "B-MOVIE: LUST & SOUND IN WEST-BERLIN 1979-1989 (OV / subtitled OV English)",
+    "date": "Di., 3.8.,",
+    "timestamp": 1627948800000,
+    "time": "21:00",
+    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-insel-im-cassiopeia/show/2412412931?layout=shows",
+    "img": "https://media.kinoheld.de/oO1mnhwCgLFA2jiJXg5aKuZEIBE=/400x560/images%2Ffilm%2F4%2Fb-movie-lust-sound-in-west-berlin-1979-1989-1581.v15.jpg",
+    "description": "Eine Dokumentation über Musik, Kunst & Chaos im wilden West-Berlin der 80er Jahre. Bevor der eiserne Vorhang fiel, war die eingemauerte Stadt ein kreativer Schmelztiegel für Sub- und Popkultur. Von Punk bis zur Love Parade - erzählt mit authentischen Zeitdokumenten aus unzähligen Archiven.",
+    "trailer": "https://www.youtube.com/watch?v=caKiHdaVwhM",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
   "cassiopeia-2403593193": {
     "cinemaId": "581",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-insel-im-cassiopeia/shows/movies",
@@ -2098,6 +2131,21 @@
     "reserved": 0,
     "bookable": true
   },
+  "nomadenkino-2413437475": {
+    "cinemaId": "1621",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/nomadenkino-berlin/shows/movies",
+    "cinemaName": "nomadenkino-berlin",
+    "cinemaShortName": "nomadenkino",
+    "id": "nomadenkino-2413437475",
+    "title": "KUSAMA: INFINITY ",
+    "date": "Di., 3.8.,",
+    "timestamp": 1627948800000,
+    "time": "21:30",
+    "url": "https://www.kinoheld.de/cinema-berlin/nomadenkino-berlin/show/2413437475?layout=shows",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
   "nomadenkino-2404998607": {
     "cinemaId": "1621",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/nomadenkino-berlin/shows/movies",
@@ -2112,6 +2160,23 @@
     "img": "https://media.kinoheld.de/DbWHTKT3neGjvULOXqsnipemH2A=/400x560/images%2Ffilm%2Fminari-18286.v2.png",
     "description": "Jacob beschließt, mit seiner koreanisch-amerikanischen Familie von Los Angeles nach Arkansas zu ziehen, um als Farmer sein Glück zu versuchen. Seine Frau Monica und die Kinder David und Anne fühlen sich jedoch fremd in der neuen Heimat, und das fragile Familienleben wird zusätzlich auf die Probe gestellt, als die schlagfertige und liebevolle Großmutter Soonja von Südkorea zu ihnen auf die Farm zieht.",
     "trailer": "https://www.youtube.com/watch?v=suCHYHMrO9Q",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
+  "nomadenkino-2413435998": {
+    "cinemaId": "1621",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/nomadenkino-berlin/shows/movies",
+    "cinemaName": "nomadenkino-berlin",
+    "cinemaShortName": "nomadenkino",
+    "id": "nomadenkino-2413435998",
+    "title": "FÜR SAMA ",
+    "date": "Do., 5.8.,",
+    "timestamp": 1628121600000,
+    "time": "21:30",
+    "url": "https://www.kinoheld.de/cinema-berlin/nomadenkino-berlin/show/2413435998?layout=shows",
+    "img": "https://media.kinoheld.de/q5_DbDfteBuL6AAWfr3ON6-MN_4=/400x560/images%2Ffilm%2Ffuer-sama-15479.v2.jpg",
+    "description": "Der in Cannes ausgezeichnete und für den OSCAR nominierte, preisgekrönte Film FÜR SAMA ist ein beeindruckender, persönlicher und zutiefst ergreifender Film und zugleich eine Liebeserklärung der jungen Mutter Waad al-Kateab an ihre Tochter Sama. Über einen Zeitraum von fünf Jahren erzählt sie von ihrem Leben im aufständischen Aleppo, wo sie sich verliebt, heiratet und ihr Kind zur Welt bringt, während um sie herum der verheerende Bürgerkrieg immer größere Zerstörung anrichtet. Ihre Kamera zeigt berührende Episoden von Verlust, Überleben und Lebensfreude inmitten des Leids. Waad muss sich entscheiden, ob sie fliehen und ihre Tochter in Sicherheit bringen oder bleiben und den Kampf für die Freiheit weiterführen soll, für den sie schon so viel geopfert hat. <br><br>Gerade der Blick aus dem Inneren des Geschehens heraus macht den Film zu einem besonderen Dokument über das Leid und den verzweifelten Kampf ums Überleben, er zeigt aber auch, wie die Menschen miteinander in der Not umgehen und sich gegenseitig helfen. Damit ist der Film auch ein Plädoyer für unbedingte Menschlichkeit, Solidarität und Toleranz.",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -3302,8 +3367,8 @@
     "img": "https://media.kinoheld.de/8usCzrUUXPtpAew7Q-3zAFYQ2sQ=/400x560/images%2Ffilm%2F4%2Fweit-die-geschichte-von-einem-weg-um-die-welt-6698.v1.jpg",
     "description": "50.000 Kilometer per Anhalter, über die Ozeane mit dem Schiff und Nachwuchs in Mexiko. \"WEIT. Die Geschichte von einem Weg um die Welt\" ist ein bunter und besonders authentischer Film über die außergewöhnliche Reise eines jungen Paares, das in den Osten loszog, um dreieinhalb Jahre später zu dritt aus dem Westen wieder nach Hause zu kehren. Ohne zu fliegen und mit einem kleinen Budget in der Tasche erkunden sie die Welt, stets von Neugierde und Spontanität begleitet.",
     "trailer": "https://www.youtube.com/watch?v=EenxCHmFyvk",
-    "available": 82,
-    "reserved": 19,
+    "available": 80,
+    "reserved": 21,
     "bookable": true
   },
   "mobile kino-2408002666": {
@@ -3416,8 +3481,8 @@
     "img": "https://media.kinoheld.de/VJ575z3Wugek2Jcv3PLs2shT8AY=/400x560/images%2Ffilm%2Fmatthias-maxime-17408.v5.jpg",
     "description": "Matthias und Maxime sind schon seit ihrer Kindheit beste Freunde und können sich gar nicht vorstellen, plötzlich getrennte Wege zu gehen. Doch das Erwachsenwerden bedeutet Veränderung und so zieht es Maxime für längere Zeit nach Australien.\r\n\r\nIn den Tagen vor seiner Abreise ziehen die beiden im Kreis ihrer Freunde von einer Party zur nächsten. Als eine ihrer Freundinnen, eine Filmstudentin, für ihren neuesten Kurzfilm noch zwei Schauspieler sucht, werden Matthias und Maxime kurzerhand und nicht ganz gegen ihren Willen engagiert. Der Knackpunkt des Ganzen? Die beiden Freunde müssen sich vor der Kamera küssen und dies bringt plötzlich alles ins Wanken.\r\n\r\nUngeahnte und unterdrückte Gefühle erwachen, die die beiden vor Entscheidungen und Herausforderungen stellen, die unüberwindbar scheinen. Denn während Matthias sich krampfhaft gegen seine Gefühle zu wehren versucht, wächst in Maxime mehr und mehr der Wunsch, Matthias noch näher zu kommen, bevor sie der Ozean endgültig trennt. Gibt es für die beiden doch noch ein Happy End?",
     "trailer": "https://www.youtube.com/watch?v=EVE6XP2HcH8",
-    "available": 82,
-    "reserved": 32,
+    "available": 80,
+    "reserved": 36,
     "bookable": true
   },
   "mobile kino-2407995499": {
@@ -3845,8 +3910,8 @@
     "time": "21:30",
     "date": "Do., 29.7.",
     "timestamp": 1627594200000,
-    "available": 126,
-    "reserved": 373,
+    "available": 125,
+    "reserved": 374,
     "bookable": true
   },
   "schloss-charlottenburg-61": {
