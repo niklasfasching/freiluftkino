@@ -68,8 +68,8 @@
       "date": "Do., 29.7.",
       "timestamp": 1627592400000,
       "time": "21:00",
-      "available": 490,
-      "reserved": 588,
+      "available": 489,
+      "reserved": 589,
       "bookable": true
     },
     {
@@ -103,8 +103,8 @@
       "date": "Di., 3.8.,",
       "timestamp": 1628024400000,
       "time": "21:00",
-      "available": 1031,
-      "reserved": 47,
+      "available": 1029,
+      "reserved": 49,
       "bookable": true
     },
     {
@@ -121,8 +121,8 @@
       "date": "Fr., 30.7.",
       "timestamp": 1627679700000,
       "time": "21:15",
-      "available": 914,
-      "reserved": 164,
+      "available": 910,
+      "reserved": 168,
       "bookable": true
     },
     {
@@ -471,8 +471,8 @@
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
       "time": "21:30",
-      "available": 321,
-      "reserved": 374,
+      "available": 318,
+      "reserved": 377,
       "bookable": true
     },
     {
@@ -489,8 +489,8 @@
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
       "time": "21:30",
-      "available": 572,
-      "reserved": 123,
+      "available": 574,
+      "reserved": 121,
       "bookable": true
     },
     {
@@ -507,8 +507,8 @@
       "date": "Fr., 30.7.",
       "timestamp": 1627678800000,
       "time": "21:00",
-      "available": 0,
-      "reserved": 0,
+      "available": 563,
+      "reserved": 132,
       "bookable": true
     },
     {
@@ -615,8 +615,8 @@
       "date": "Di., 3.8.,",
       "timestamp": 1628024400000,
       "time": "21:00",
-      "available": 648,
-      "reserved": 47,
+      "available": 646,
+      "reserved": 49,
       "bookable": true
     },
     {
@@ -738,8 +738,8 @@
       "date": "Do., 12.8.",
       "timestamp": 1628802900000,
       "time": "21:15",
-      "available": 615,
-      "reserved": 80,
+      "available": 613,
+      "reserved": 82,
       "bookable": true
     },
     {
@@ -773,7 +773,7 @@
       "date": "So., 15.8.",
       "timestamp": 1629061200000,
       "time": "21:00",
-      "available": 0,
+      "available": 695,
       "reserved": 0,
       "bookable": true
     },
@@ -810,8 +810,8 @@
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
       "time": "21:30",
-      "available": 394,
-      "reserved": 179,
+      "available": 392,
+      "reserved": 181,
       "bookable": true
     },
     {
@@ -971,8 +971,8 @@
       "date": "Fr., 6.8.,",
       "timestamp": 1628283600000,
       "time": "21:00",
-      "available": 530,
-      "reserved": 43,
+      "available": 532,
+      "reserved": 41,
       "bookable": true
     },
     {
@@ -1410,60 +1410,6 @@
     }
   ],
   "freiluftkino-hasenheide": [
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "hasenheide-691335",
-      "title": "Geheime Garten, Der ",
-      "date": "Di., 27.7.",
-      "timestamp": 1627344000000,
-      "time": "16:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691335?layout=shows",
-      "img": "https://media.kinoheld.de/6-ZJxmEw6bdKlUE39cg2CPT2xsI=/400x560/images%2Ffilm%2Fder-geheime-garten-17251.v435.jpg",
-      "description": "Die in Indien lebende, 10-jährige Britin Mary Lennox wird nach dem unerwarteten Ableben ihrer Eltern auf das Landgut ihres Onkels Archibald geschickt. Weder Archibald noch die Haushälterin interessieren sich für das Mädchen und so wecken die Geheimnisse in dem großen Haus mit den verschlossenen Zimmern schnell Marys Neugier. Sie erfährt von einem geheimen Garten, den seit zehn Jahren niemand betreten hat und macht sich auf die Suche.",
-      "trailer": "https://www.youtube.com/watch?v=eEyPvZxC5Mk",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "hasenheide-692198",
-      "title": "Wenn die Gondeln Trauer tragen (subtitled OV German)",
-      "date": "Di., 27.7.",
-      "timestamp": 1627344000000,
-      "time": "18:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/692198?layout=shows",
-      "img": "https://media.kinoheld.de/UjThWFYal2AbAJD16TDYqcv89q0=/400x560/images%2Ffilm%2F4%2Fwenn-die-gondeln-trauer-tragen-647.v4.jpg",
-      "description": "Nachdem die geliebte Tochter in einem Teich ihres englischen Landsitzes ertrank, kommen John und Laura Baxter nach Venedig. Hier passieren mysteriöse Dinge. Der Geist des toten Kindes scheint auf die Erde zurückgekehrt, um die Eltern vor den tödlichen Gefahren der Lagunenstadt zu warnen. Laura gerät ganz in den Bann dieser unheimlichen Visionen. Was geschieht aber, wenn John die warnenden Signale aus dem Reich der Toten ignoriert? Kann das Paar sich noch länger den drohenden Folgen entziehen, in welche es durch die Voraussagen der geheimnisvollen, blinden Hellseherin verstrickt wurde?",
-      "trailer": "https://www.youtube.com/watch?v=S-9CDcBZr30",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "hasenheide-691238",
-      "title": "Fabian oder Der Gang vor die Hunde (subtitled OV English)",
-      "date": "Di., 27.7.",
-      "timestamp": 1627344000000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691238?layout=shows",
-      "img": "https://media.kinoheld.de/Oyw4j5X6-APA71HNlPwWligxMDc=/400x560/images%2Ffilm%2Ffabiana-19170.v1.jpg",
-      "description": "Im Berlin des Jahres 1931 lässt sich der Germanist und Werbetexter Jakob Fabian (Tom Schilling) durch das Leben treiben. Während er tagsüber für die Werbung einer Zigarettenfirma zuständig ist, ist er nachts oft mit seinem Studienkollegen Labude (Albrecht Schuch) unterwegs und macht die Unterweltkneipen, Bordelle und Künstlerateliers unsicher. Das sorglose Leben der beiden jungen Männer wird durch eine durch Kommunisten und Nationalsozialisten geteilte Gesellschaft zunehmend bedroht und auch Labude träumt davon, dass die Klassen gegen die Obrigkeit revolutionieren. Fabian kann mit dem politischen Umbruch nicht viel anfangen und kommentiert die Geschehnisse ironisch. Eines Tages trifft er in einem Atelier auf Cornelia (Saskia Rosendahl) und verliebt sich auf den ersten Blick in sie. Fabians naives Leben nimmt eine dramatische Wendung, als er einer Entlassungswelle zum Opfer fällt, Cornelias Karriere als Schauspielerin jedoch an Fahrt aufnimmt...",
-      "trailer": "https://www.youtube.com/watch?v=VPIeUqg7F40",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
     {
       "cinemaId": "580",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
@@ -2147,23 +2093,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/nomadenkino-berlin/shows/movies",
       "cinemaName": "nomadenkino-berlin",
       "cinemaShortName": "nomadenkino",
-      "id": "nomadenkino-2408653183",
-      "title": "BAD LUCK BANGING OR LOONY PORN ",
-      "date": "Di., 27.7.",
-      "timestamp": 1627344000000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/nomadenkino-berlin/show/2408653183?layout=shows",
-      "img": "https://media.kinoheld.de/jIOk7uV0ZG-rmxBLojvmZj_IIAQ=/400x560/images%2Ffilm%2Fbad-luck-banging-or-loony-porn-18954.v10.jpg",
-      "description": "Am 18. Juni Vorpremiere im Open Air Kinosommer am Waschhaus \n\nEin Video geht viral. Es zeigt einen Mann und eine Frau beim Sex. Sie tragen Masken, trotzdem wird die Frau erkannt. Dumm nur, dass sie als Lehrerin eigentlich ein Vorbild sein soll. Und das in einer Gesellschaft (der postsozialistischen, aber letztlich unser aller), welche drauf und dran ist, sich im Social-Network-Diskurs aus restaurativen Saubermannattitüden, pseudopolitischer Besserwisserei, scheinheiligem Chauvinismus und grotesken Verschwörungstheorien zu verlieren. Alle haben Meinung. Die Debatte wird zum Tribunal – über konsensualen Sex, Pornografie und mehr. Radu Jude, wie stets zu innovativen Filmexperimenten bereit, bastelt aus dieser Konstellation ein intelligentes, satirisches Triptychon. Der erste Teil zeigt mit nonchalant-präziser Kamera und irrer, im Bukarester Straßenalltagsstress aufgespürter Komik wie zeitgenössisches Kino an der doku-fiktionalen Schnittstelle aussehen kann. Der zweite Teil ist eine schräge, lakonisch kommentierte Skizze einzelner statischer Bilder, gedacht als Symbol-Enzyklopädie unserer Zeit. Den krönenden Abschluss – bei doch offenem Ende – bildet die Diskussion in der Schule, die zu einem Urteil über die Existenzberechtigung unserer Heldin kommen wird.\n\nGewinner des Goldenen Bären bei der Berlinale 2021!!!",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "1621",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/nomadenkino-berlin/shows/movies",
-      "cinemaName": "nomadenkino-berlin",
-      "cinemaShortName": "nomadenkino",
       "id": "nomadenkino-2412305583",
       "title": "Clubkultur Berlin ",
       "date": "Mi., 28.7.",
@@ -2268,24 +2197,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
       "cinemaName": "b-ware-openair-fmp",
       "cinemaShortName": "fmp",
-      "id": "fmp-2392543011",
-      "title": "JAZZ AN EINEM SOMMERABEND - FILM PREVIEW (subtitled OV / en)",
-      "date": "Di., 27.7.",
-      "timestamp": 1627344000000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2392543011?layout=shows",
-      "img": "https://media.kinoheld.de/WGPLu5aoXSoJioiRrFzu_eqzpos=/400x560/images%2Ffilm%2Fjazz-an-einem-sommerabend-19243.v2.jpg",
-      "description": "JAZZ AN EINEM SOMMERABEND ist die Chronologie eines Sommertags voller Musik, Sinnlichkeit, Eleganz und Lässigkeit. Der Schauplatz Newport trägt einen historischen Status als gesellschaftliche Sommerresidenz der USA, darüber hinaus wurde die Stadt in nur vier Jahren zur Jazz-Hauptstadt der Welt.\r\n\r\nBert Stern fängt Newports Zauber ein, in dem er seine Kamera am Strand bummeln und durch die malerischen Straßen mit ihren weißen Häusern und Pensionen streifen lässt. Zwei Ereignisse treffen aufeinander: Das Newport Jazz Festival und die Segelregatta America Cup. Mittendrin der Fotograf Bert Stern, weltbekannt durch seine Fotosession „Last Sitting“ mit Marilyn Monroe.\r\n\r\nWie in seinen Bildern gelingt es Stern auch hier die Persönlichkeiten der Porträtierten zu erfassen. Tagsüber gleiten zu den überlappenden Klängen der Musik die Segelboote der Regatta anmutig durchs Meer und das Wasser erscheint mit seinen Spiegelungen als psychedelisch bis graphisches Farbenspiel. Nach Einbruch der Dunkelheit entfaltet Stern die Bandbreite der großartigen Musikerinnen und Musiker, ist ganz bei ihnen und dem Publikum. Die Performance von Rock ’n’ Roller Chuck Berry reißt mit und animiert zum Tanzen, aber Stern illustriert auch die ganz leisen Töne. Zwischendrin tanzt ein fast körperlos wirkender, hellblauer Anzug und niemand kann sich dem Charme eines Louis Armstrong oder einer Mahalia Jackson entziehen, deren inbrünstige Performance den Sommerabend beschließt.",
-      "trailer": "https://youtu.be/Wp8c1-77sCY",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "1657",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
-      "cinemaName": "b-ware-openair-fmp",
-      "cinemaShortName": "fmp",
       "id": "fmp-2392543020",
       "title": "nd-FilmClub: HE, DU! (DEFA 1970) - Gespräch vorab ",
       "date": "Mi., 28.7.",
@@ -2354,24 +2265,6 @@
     }
   ],
   "central-kino-open-air": [
-    {
-      "cinemaId": "1839",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
-      "cinemaName": "central-kino-open-air",
-      "cinemaShortName": "central",
-      "id": "central-2394922270",
-      "title": "open air: Cold War - Der Breitengrad der Liebe (subtitled OV English)",
-      "date": "Di., 27.7.",
-      "timestamp": 1627344000000,
-      "time": "21:15",
-      "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2394922270?layout=shows",
-      "img": "https://media.kinoheld.de/9kgOlQjXTx2Ouo4wrR-GZwXs8Sg=/400x560/images%2Ffilm%2F4%2Fcold-war-der-breitengrad-der-liebe-11272.v1.jpg",
-      "description": "Während des polnischen Wiederaufbaus ist der begabte Komponist Wiktor auf der Suche nach traditionellen Melodien für ein neues Tanz- und Musik-Ensemble. Dem Kulturleben seines Landes möchte er so frisches Leben einhauchen. Unter seinen Studentinnen ist auch die Sängerin Zula, gleich im ersten Augenblick elektrisiert sie Wiktor. Schön, hinreißend und energiegeladen, ist Zula schon bald der Mittelpunkt des Ensembles und die beiden verlieben sich ineinander. Ihre brennende Leidenschaft scheint keine Grenzen zu kennen. Doch als das Repertoire des Ensembles zunehmend politisiert wird, nutzt Wiktor einen Auftritt in Ostberlin, um in den Westen zu fliehen. Zula bleibt der verabredeten Flucht fern und doch führt das Schicksal die beiden Liebenden Jahre später erneut zueinander. Wiktor begegnet Zula in Paris, nur so flammend ihre Liebe, so zerrissen ist das Paar und Zula muss eine tiefgreifende Entscheidung treffen. Zwischen Heimat und Exil, zwischen Leidenschaft und Verlust sind Frankreich, Jugoslawien und Polen die Schauplätze der fatalen Liebe eines Paares, das vor dem Hintergrund des Kalten Krieges ohne einander nicht leben kann und miteinander fast keinen Frieden findet. (Text: Verleih)",
-      "trailer": "https://www.youtube.com/watch?v=wKoZzN7vLwU",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
     {
       "cinemaId": "1839",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
@@ -2901,24 +2794,6 @@
     }
   ],
   "freiluftkino-pompeji-open-air-am-ostkreuz-berlin": [
-    {
-      "cinemaId": "2153",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-      "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-      "cinemaShortName": "pompeji ostkreuz",
-      "id": "pompeji ostkreuz-2399907212",
-      "title": "KOKON (subtitled OV English)",
-      "date": "Di., 27.7.",
-      "timestamp": 1627344000000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2399907212?layout=shows",
-      "img": "https://media.kinoheld.de/JWstSS_2p_wtuRhaPukBvVbvUmA=/400x560/images%2Ffilm%2Fmo%2F2413-29415.v2.jpg",
-      "description": "Jahrhundertsommer in Berlin-Kreuzberg. Im multikulturellen Mikrokosmos rund um das Kottbusser Tor bahnt sich die 14-jährige Nora ihren Weg durchs Erwachsenwerden. Während die Hitze auf ihrer Haut klebt, bekommt sie zum ersten Mal die Periode, entdeckt ihre Liebe für andere Mädchen und lernt die wilde Romy kennen. Mit ihr wirkt die Welt plötzlich endlos groß und voller verborgener Schönheit, der Park wird zum Dschungel, das Freibad zum Meer. Nora lernt, zu sich zu stehen und traut sich endlich Wege abseits der Clique ihrer älteren Schwester Jule zu gehen. Doch wie kann Nora ihren Blick für all diese Schönheit bewahren, nachdem ihr zum ersten Mal das Herz gebrochen wurde?",
-      "trailer": "https://youtu.be/31_ZH8_4nVs",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
     {
       "cinemaId": "2153",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
@@ -3465,24 +3340,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/mobile-kino-berlin/shows/movies",
       "cinemaName": "mobile-kino-berlin",
       "cinemaShortName": "mobile kino",
-      "id": "mobile kino-2409150538",
-      "title": "WEIT. DIE GESCHICHTE VON EINEM WEG UM DIE WELT (subtitled OV English)",
-      "date": "Di., 27.7.",
-      "timestamp": 1627344000000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2409150538?layout=shows",
-      "img": "https://media.kinoheld.de/8usCzrUUXPtpAew7Q-3zAFYQ2sQ=/400x560/images%2Ffilm%2F4%2Fweit-die-geschichte-von-einem-weg-um-die-welt-6698.v1.jpg",
-      "description": "50.000 Kilometer per Anhalter, über die Ozeane mit dem Schiff und Nachwuchs in Mexiko. \"WEIT. Die Geschichte von einem Weg um die Welt\" ist ein bunter und besonders authentischer Film über die außergewöhnliche Reise eines jungen Paares, das in den Osten loszog, um dreieinhalb Jahre später zu dritt aus dem Westen wieder nach Hause zu kehren. Ohne zu fliegen und mit einem kleinen Budget in der Tasche erkunden sie die Welt, stets von Neugierde und Spontanität begleitet.",
-      "trailer": "https://www.youtube.com/watch?v=EenxCHmFyvk",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "3033",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/mobile-kino-berlin/shows/movies",
-      "cinemaName": "mobile-kino-berlin",
-      "cinemaShortName": "mobile kino",
       "id": "mobile kino-2408002666",
       "title": "PULP FICTION (subtitled OV German)",
       "date": "Do., 29.7.",
@@ -3492,7 +3349,7 @@
       "img": "https://media.kinoheld.de/8a5GVakFiNpUXUMFfgxOgYA_DFM=/400x560/images%2Ffilm%2Fpulp-fiction-16667.v35.jpg",
       "description": "Quentin Tarantinos zweiter Film, genannt nach den auf billigem Papier gedruckten amerikanischen \"Hard-boiled\"-Kriminalromanen, gewann 1994 in Cannes die Goldene Palme und 1995 den Oscar für das Beste Originaldrehbuch und ging als Meisterwerk der Postmoderne in die Filmgeschichte ein. PULP FICTION weist Tarantino als Kenner der US-Trivial-Kulturgeschichte aus und als jemanden, der die Tradition der Mord-und-Totschlag-Geschichten der 30er bis 50er Jahre mit den Mitteln der 90er fortzusetzten versteht, ohne sich als billiger Jakob des Zitats gebärden zu müssen. Der Film versammelt Stars wie Harvey Keitel, Tim Roth, Uma Thurman, Bruce Willis und - in einem sensationellen Comeback - John Travolta in einer bleihaltigen und schwarzhumorigen Story aus der Unterwelt, die bevölkert wird von minderbemittelten Profikillern, diebischen Amateuren und bestechlichen Preisboxern.",
       "trailer": "https://www.youtube.com/watch?v=tGpTpVyI_OQ",
-      "available": 66,
+      "available": 64,
       "reserved": 42,
       "bookable": true
     },
@@ -3540,8 +3397,8 @@
       "timestamp": 1627689600000,
       "time": "21:15",
       "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2400572792?layout=shows",
-      "available": 58,
-      "reserved": 17,
+      "available": 56,
+      "reserved": 19,
       "bookable": true
     },
     {
@@ -3819,8 +3676,8 @@
       "time": "21:30",
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
-      "available": 236,
-      "reserved": 224,
+      "available": 225,
+      "reserved": 235,
       "bookable": true
     },
     {
@@ -3837,8 +3694,8 @@
       "time": "21:30",
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
-      "available": 335,
-      "reserved": 125,
+      "available": 333,
+      "reserved": 127,
       "bookable": true
     },
     {
@@ -3941,8 +3798,8 @@
       "time": "21:15",
       "date": "Mi., 4.8.,",
       "timestamp": 1628111700000,
-      "available": 239,
-      "reserved": 221,
+      "available": 238,
+      "reserved": 222,
       "bookable": true
     },
     {
@@ -4000,6 +3857,23 @@
       "bookable": true
     },
     {
+      "title": "Chungking Express (OmU)",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60fad5b66144401f0880c386/show_20148790.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg",
+      "description": "„Chungking Express“ besteht aus zwei Teilen, die nur über einen Schnellimbiss miteinander verbunden sind, in dem zwei der Figuren essen. Dazu gehört der Polizist 223, der mit der Trennung von seiner Freundin zurechtkommen muss. Nach längerer Funkstille beschließt er eine neue Beziehung zu beginnen.",
+      "cinemaId": "54eefd0b683138488b190000",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-289",
+      "url": "https://yorck.de/checkout/step01?showid=289&siteid=1015",
+      "time": "21:15",
+      "date": "So., 8.8.,",
+      "timestamp": 1628457300000,
+      "available": 417,
+      "reserved": 43,
+      "bookable": true
+    },
+    {
       "title": "Nomadland (OmU)",
       "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/6040ac56614440014e079840/show_Nomadland_Pos_Poster_S.jpg",
       "description": "Fern (Frances McDormand) hat erst ihren Mann, dann ihre Heimatstadt verloren, nachdem der größte Arbeitgeber dort dichtgemacht hat. Sie packt alle Habseligkeiten in einen Transporter und beginnt, als Nomadin der Arbeit hinterherzuziehen. Wer wissen möchte, was großes Kino ist und kann, hat hier Termin!",
@@ -4030,6 +3904,23 @@
       "timestamp": 1627767000000,
       "available": 341,
       "reserved": 119,
+      "bookable": true
+    },
+    {
+      "title": "Chungking Express (OmU)",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60fad5b66144401f0880c386/show_20148790.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg",
+      "description": "„Chungking Express“ besteht aus zwei Teilen, die nur über einen Schnellimbiss miteinander verbunden sind, in dem zwei der Figuren essen. Dazu gehört der Polizist 223, der mit der Trennung von seiner Freundin zurechtkommen muss. Nach längerer Funkstille beschließt er eine neue Beziehung zu beginnen.",
+      "cinemaId": "54eefd0b683138488b190000",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-289",
+      "url": "https://yorck.de/checkout/step01?showid=289&siteid=1015",
+      "time": "21:15",
+      "date": "So., 8.8.,",
+      "timestamp": 1628457300000,
+      "available": 417,
+      "reserved": 43,
       "bookable": true
     },
     {
@@ -4082,8 +3973,8 @@
       "time": "21:30",
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
-      "available": 236,
-      "reserved": 224,
+      "available": 225,
+      "reserved": 235,
       "bookable": true
     },
     {
@@ -4100,8 +3991,8 @@
       "time": "21:15",
       "date": "Mi., 4.8.,",
       "timestamp": 1628111700000,
-      "available": 239,
-      "reserved": 221,
+      "available": 238,
+      "reserved": 222,
       "bookable": true
     },
     {
@@ -4172,8 +4063,8 @@
       "time": "21:30",
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
-      "available": 335,
-      "reserved": 125,
+      "available": 333,
+      "reserved": 127,
       "bookable": true
     },
     {
@@ -4209,8 +4100,8 @@
       "time": "21:30",
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
-      "available": 336,
-      "reserved": 163,
+      "available": 330,
+      "reserved": 169,
       "bookable": true
     },
     {
@@ -4243,8 +4134,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 361,
-      "reserved": 282,
+      "available": 358,
+      "reserved": 285,
       "bookable": true
     },
     {
@@ -4260,8 +4151,8 @@
       "time": "21:30",
       "date": "Sa., 31.7.",
       "timestamp": 1627767000000,
-      "available": 462,
-      "reserved": 181,
+      "available": 452,
+      "reserved": 191,
       "bookable": true
     },
     {
@@ -4350,8 +4241,8 @@
       "time": "21:15",
       "date": "Do., 5.8.,",
       "timestamp": 1628198100000,
-      "available": 467,
-      "reserved": 32,
+      "available": 465,
+      "reserved": 34,
       "bookable": true
     },
     {
@@ -4369,6 +4260,24 @@
       "timestamp": 1628284500000,
       "available": 584,
       "reserved": 59,
+      "bookable": true
+    },
+    {
+      "title": "Himmel über dem Camino (OmU)",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60f96b6b69f5b54800dcf5f4/show_0696129.jpg",
+      "description": "Sechs Menschen aus Australien & Neuseeland machen sich auf den Weg, um den legendären Jakobsweg zu pilgern, um ganz persönliche Schicksalsschläge zu verarbeiten. Auf dem berühmten 800 Kilometer langen Pilgerweg durch Spanien wollen sie Antworten finden & lernen, mit ihrer Trauer umzugehen.",
+      "trailer": "https://www.youtube.com/watch?v=nixvEBAHTPA",
+      "cinemaId": "60a3b5ed61444058ac0797a2",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-schloss-charlottenburg",
+      "cinemaName": "sommerkino-schloss-charlottenburg",
+      "cinemaShortName": "schloss-charlottenburg",
+      "id": "schloss-charlottenburg-67",
+      "url": "https://yorck.de/checkout/step01?showid=67&siteid=1020",
+      "time": "21:15",
+      "date": "So., 8.8.,",
+      "timestamp": 1628457300000,
+      "available": 478,
+      "reserved": 21,
       "bookable": true
     },
     {
@@ -4455,8 +4364,26 @@
       "time": "21:15",
       "date": "Do., 5.8.,",
       "timestamp": 1628198100000,
-      "available": 467,
-      "reserved": 32,
+      "available": 465,
+      "reserved": 34,
+      "bookable": true
+    },
+    {
+      "title": "Himmel über dem Camino (OmU)",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60f96b6b69f5b54800dcf5f4/show_0696129.jpg",
+      "description": "Sechs Menschen aus Australien & Neuseeland machen sich auf den Weg, um den legendären Jakobsweg zu pilgern, um ganz persönliche Schicksalsschläge zu verarbeiten. Auf dem berühmten 800 Kilometer langen Pilgerweg durch Spanien wollen sie Antworten finden & lernen, mit ihrer Trauer umzugehen.",
+      "trailer": "https://www.youtube.com/watch?v=nixvEBAHTPA",
+      "cinemaId": "60a3b5ed61444058ac0797a2",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-schloss-charlottenburg",
+      "cinemaName": "sommerkino-schloss-charlottenburg",
+      "cinemaShortName": "schloss-charlottenburg",
+      "id": "schloss-charlottenburg-67",
+      "url": "https://yorck.de/checkout/step01?showid=67&siteid=1020",
+      "time": "21:15",
+      "date": "So., 8.8.,",
+      "timestamp": 1628457300000,
+      "available": 478,
+      "reserved": 21,
       "bookable": true
     },
     {
@@ -4508,8 +4435,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 361,
-      "reserved": 282,
+      "available": 358,
+      "reserved": 285,
       "bookable": true
     },
     {
@@ -4526,8 +4453,8 @@
       "time": "21:30",
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
-      "available": 336,
-      "reserved": 163,
+      "available": 330,
+      "reserved": 169,
       "bookable": true
     },
     {
@@ -4543,8 +4470,8 @@
       "time": "21:30",
       "date": "Sa., 31.7.",
       "timestamp": 1627767000000,
-      "available": 462,
-      "reserved": 181,
+      "available": 452,
+      "reserved": 191,
       "bookable": true
     }
   ]
