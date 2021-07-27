@@ -31,8 +31,8 @@
     "date": "Di., 27.7.",
     "timestamp": 1627421400000,
     "time": "21:30",
-    "available": 744,
-    "reserved": 334,
+    "available": 734,
+    "reserved": 344,
     "bookable": true
   },
   "fhain-716": {
@@ -49,8 +49,8 @@
     "date": "Mi., 28.7.",
     "timestamp": 1627506900000,
     "time": "21:15",
-    "available": 623,
-    "reserved": 455,
+    "available": 621,
+    "reserved": 457,
     "bookable": true
   },
   "fhain-726": {
@@ -103,8 +103,8 @@
     "date": "So., 1.8.,",
     "timestamp": 1627851600000,
     "time": "21:00",
-    "available": 1040,
-    "reserved": 38,
+    "available": 1038,
+    "reserved": 40,
     "bookable": true
   },
   "fhain-725": {
@@ -138,8 +138,8 @@
     "date": "Fr., 30.7.",
     "timestamp": 1627679700000,
     "time": "21:15",
-    "available": 950,
-    "reserved": 128,
+    "available": 948,
+    "reserved": 130,
     "bookable": true
   },
   "fhain-722": {
@@ -156,8 +156,8 @@
     "date": "Sa., 31.7.",
     "timestamp": 1627765200000,
     "time": "21:00",
-    "available": 935,
-    "reserved": 143,
+    "available": 932,
+    "reserved": 146,
     "bookable": true
   },
   "fhain-724": {
@@ -470,8 +470,8 @@
     "date": "Mi., 28.7.",
     "timestamp": 1627507800000,
     "time": "21:30",
-    "available": 407,
-    "reserved": 270,
+    "available": 403,
+    "reserved": 274,
     "bookable": true
   },
   "xberg-640": {
@@ -488,8 +488,8 @@
     "date": "Di., 27.7.",
     "timestamp": 1627421400000,
     "time": "21:30",
-    "available": 405,
-    "reserved": 272,
+    "available": 402,
+    "reserved": 275,
     "bookable": true
   },
   "xberg-656": {
@@ -720,8 +720,8 @@
     "date": "Fr., 6.8.,",
     "timestamp": 1628283600000,
     "time": "21:00",
-    "available": 659,
-    "reserved": 18,
+    "available": 655,
+    "reserved": 22,
     "bookable": true
   },
   "xberg-662": {
@@ -1001,8 +1001,8 @@
     "date": "Do., 5.8.,",
     "timestamp": 1628197200000,
     "time": "21:00",
-    "available": 540,
-    "reserved": 33,
+    "available": 538,
+    "reserved": 35,
     "bookable": true
   },
   "rehberge-641": {
@@ -1019,8 +1019,8 @@
     "date": "Fr., 6.8.,",
     "timestamp": 1628283600000,
     "time": "21:00",
-    "available": 554,
-    "reserved": 19,
+    "available": 552,
+    "reserved": 21,
     "bookable": true
   },
   "rehberge-658": {
@@ -1769,7 +1769,7 @@
     "img": "https://media.kinoheld.de/DbWHTKT3neGjvULOXqsnipemH2A=/400x560/images%2Ffilm%2Fminari-18286.v2.png",
     "description": "Jacob beschließt, mit seiner koreanisch-amerikanischen Familie von Los Angeles nach Arkansas zu ziehen, um als Farmer sein Glück zu versuchen. Seine Frau Monica und die Kinder David und Anne fühlen sich jedoch fremd in der neuen Heimat, und das fragile Familienleben wird zusätzlich auf die Probe gestellt, als die schlagfertige und liebevolle Großmutter Soonja von Südkorea zu ihnen auf die Farm zieht.",
     "trailer": "https://www.youtube.com/watch?v=suCHYHMrO9Q",
-    "available": 482,
+    "available": 480,
     "reserved": 45,
     "bookable": true
   },
@@ -3804,8 +3804,8 @@
     "time": "21:15",
     "date": "Mi., 4.8.,",
     "timestamp": 1628111700000,
-    "available": 285,
-    "reserved": 175,
+    "available": 283,
+    "reserved": 177,
     "bookable": true
   },
   "kulturforum-292": {
@@ -3876,8 +3876,8 @@
     "time": "21:30",
     "date": "Di., 27.7.",
     "timestamp": 1627421400000,
-    "available": 388,
-    "reserved": 111,
+    "available": 390,
+    "reserved": 109,
     "bookable": true
   },
   "schloss-charlottenburg-60": {
@@ -3894,8 +3894,8 @@
     "time": "21:30",
     "date": "Mi., 28.7.",
     "timestamp": 1627507800000,
-    "available": 401,
-    "reserved": 98,
+    "available": 398,
+    "reserved": 101,
     "bookable": true
   },
   "schloss-charlottenburg-54": {
@@ -3928,8 +3928,8 @@
     "time": "21:30",
     "date": "Fr., 30.7.",
     "timestamp": 1627680600000,
-    "available": 389,
-    "reserved": 254,
+    "available": 393,
+    "reserved": 250,
     "bookable": true
   },
   "schloss-charlottenburg-62": {
