@@ -31,9 +31,9 @@
     "date": "Mi., 28.7.",
     "timestamp": 1627506900000,
     "time": "21:15",
-    "available": 545,
-    "reserved": 533,
-    "bookable": true
+    "available": 0,
+    "reserved": 0,
+    "bookable": false
   },
   "fhain-726": {
     "trailer": "https://www.youtube-nocookie.com/embed/on2H8Qt5fgA?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
@@ -67,9 +67,9 @@
     "date": "Do., 29.7.",
     "timestamp": 1627592400000,
     "time": "21:00",
-    "available": 489,
-    "reserved": 589,
-    "bookable": true
+    "available": 0,
+    "reserved": 0,
+    "bookable": false
   },
   "fhain-723": {
     "trailer": "https://www.youtube-nocookie.com/embed/9n6s8lzuZXo?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
@@ -367,8 +367,8 @@
     "date": "Sa., 14.8.",
     "timestamp": 1628974800000,
     "time": "21:00",
-    "available": 1037,
-    "reserved": 41,
+    "available": 1035,
+    "reserved": 43,
     "bookable": true
   },
   "fhain-667": {
@@ -468,8 +468,8 @@
     "date": "Mi., 28.7.",
     "timestamp": 1627507800000,
     "time": "21:30",
-    "available": 318,
-    "reserved": 377,
+    "available": 311,
+    "reserved": 384,
     "bookable": true
   },
   "xberg-642": {
@@ -486,8 +486,8 @@
     "date": "Do., 29.7.",
     "timestamp": 1627594200000,
     "time": "21:30",
-    "available": 574,
-    "reserved": 121,
+    "available": 573,
+    "reserved": 122,
     "bookable": true
   },
   "xberg-644": {
@@ -522,8 +522,8 @@
     "date": "Do., 5.8.,",
     "timestamp": 1628193600000,
     "time": "20:00",
-    "available": 653,
-    "reserved": 42,
+    "available": 651,
+    "reserved": 44,
     "bookable": true
   },
   "xberg-650": {
@@ -805,8 +805,8 @@
     "date": "Mi., 28.7.",
     "timestamp": 1627507800000,
     "time": "21:30",
-    "available": 392,
-    "reserved": 181,
+    "available": 390,
+    "reserved": 183,
     "bookable": true
   },
   "rehberge-639": {
@@ -894,8 +894,8 @@
     "date": "Sa., 31.7.",
     "timestamp": 1627765200000,
     "time": "21:00",
-    "available": 506,
-    "reserved": 67,
+    "available": 502,
+    "reserved": 71,
     "bookable": true
   },
   "rehberge-651": {
@@ -912,8 +912,8 @@
     "date": "Fr., 30.7.",
     "timestamp": 1627678800000,
     "time": "21:00",
-    "available": 465,
-    "reserved": 108,
+    "available": 463,
+    "reserved": 110,
     "bookable": true
   },
   "rehberge-652": {
@@ -1157,9 +1157,9 @@
     "date": "Fr., 20.8.",
     "timestamp": 1629489600000,
     "time": "20:00",
-    "available": 133,
-    "reserved": 322,
-    "bookable": true
+    "available": 0,
+    "reserved": 0,
+    "bookable": false
   },
   "rehberge-643": {
     "description": "Der hypochondrische Argan hat sich in den Kopf gesetzt, seine Tochter mit einem Arzt\nzu verheiraten. Dann, so Argans Plan, k nnte er seine zahllosen eingebildeten\nZipperlein kostenlos von seinem Schwiegersohn behandeln lassen. Allerhand Intrigen\nund Quacksalbereien müssen veranstaltet werden, eingef delt vor allem von der\nschlauen Dienerin Toinette, bevor die Liebe siegen kann, alle Leichenfledderer\nvertrieben sind und der gel uterte Argan am Ende zu seinem eigenen Arzt promoviert\n– garantiert Corona-frei.\n",
@@ -1709,8 +1709,8 @@
     "img": "https://media.kinoheld.de/nGB5qJCKE-9-pQTApf34z8UlpHg=/400x560/images%2Ffilm%2Fjudas-and-the-black-messiah-19127.v11.jpg",
     "description": "In den späten 1960er Jahren wird der 17-jährige Kleinkriminelle William O'Neal in Chicago verhaftet, nachdem er versucht hat, ein Auto zu entführen, während er sich als Bundesbeamter ausgab. Er wird von FBI-Spezialagent Roy Mitchell angesprochen, der anbietet, O'Neals Anklage fallen zu lassen, wenn er undercover für das FBI arbeitet. O'Neal wird beauftragt, die Illinois-Sektion der Black Panther Party und ihren Anführer Fred Hampton zu infiltrieren. O'Neal beginnt, sich Hampton anzunähern, der daran arbeitet, Allianzen mit rivalisierenden Gangs und Milizgruppen zu bilden, während er die Gemeinde durch das „Free Breakfast for Children“-Programm der Black Panther unterstützt. Als der Parteivorsitzende Fred Hampton aufsteigt und sich unterwegs in die Mitrevolutionärin Deborah Johnson verliebt, entbrennt ein Kampf um O'Neals Seele.",
     "trailer": "https://www.youtube.com/watch?v=yNE70wMLTCc",
-    "available": 634,
-    "reserved": 10,
+    "available": 622,
+    "reserved": 12,
     "bookable": true
   },
   "hasenheide-691728": {
@@ -1885,9 +1885,9 @@
     "timestamp": 1628812800000,
     "time": "17:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/692895?layout=shows",
-    "available": -1,
+    "available": 0,
     "reserved": 0,
-    "bookable": true
+    "bookable": false
   },
   "hasenheide-692893": {
     "cinemaId": "580",
@@ -2020,9 +2020,9 @@
     "timestamp": 1630368000000,
     "time": "19:00",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691782?layout=shows",
-    "available": -1,
+    "available": 0,
     "reserved": 0,
-    "bookable": true
+    "bookable": false
   },
   "cassiopeia-2412412945": {
     "cinemaId": "581",
@@ -3328,7 +3328,7 @@
     "description": "Quentin Tarantinos zweiter Film, genannt nach den auf billigem Papier gedruckten amerikanischen \"Hard-boiled\"-Kriminalromanen, gewann 1994 in Cannes die Goldene Palme und 1995 den Oscar für das Beste Originaldrehbuch und ging als Meisterwerk der Postmoderne in die Filmgeschichte ein. PULP FICTION weist Tarantino als Kenner der US-Trivial-Kulturgeschichte aus und als jemanden, der die Tradition der Mord-und-Totschlag-Geschichten der 30er bis 50er Jahre mit den Mitteln der 90er fortzusetzten versteht, ohne sich als billiger Jakob des Zitats gebärden zu müssen. Der Film versammelt Stars wie Harvey Keitel, Tim Roth, Uma Thurman, Bruce Willis und - in einem sensationellen Comeback - John Travolta in einer bleihaltigen und schwarzhumorigen Story aus der Unterwelt, die bevölkert wird von minderbemittelten Profikillern, diebischen Amateuren und bestechlichen Preisboxern.",
     "trailer": "https://www.youtube.com/watch?v=tGpTpVyI_OQ",
     "available": 64,
-    "reserved": 42,
+    "reserved": 44,
     "bookable": true
   },
   "mobile kino-2386736877": {
@@ -3652,8 +3652,8 @@
     "time": "21:30",
     "date": "Mi., 28.7.",
     "timestamp": 1627507800000,
-    "available": 225,
-    "reserved": 235,
+    "available": 223,
+    "reserved": 237,
     "bookable": true
   },
   "kulturforum-276": {
@@ -3688,9 +3688,9 @@
     "time": "21:30",
     "date": "Fr., 30.7.",
     "timestamp": 1627680600000,
-    "available": 0,
-    "reserved": 0,
-    "bookable": false
+    "available": 8,
+    "reserved": 452,
+    "bookable": true
   },
   "kulturforum-278": {
     "cinemaId": "54eefd0b683138488b190000",
@@ -3721,8 +3721,8 @@
     "time": "21:15",
     "date": "So., 1.8.,",
     "timestamp": 1627852500000,
-    "available": 371,
-    "reserved": 89,
+    "available": 370,
+    "reserved": 90,
     "bookable": true
   },
   "kulturforum-285": {
@@ -3756,8 +3756,8 @@
     "time": "21:15",
     "date": "Di., 3.8.,",
     "timestamp": 1628025300000,
-    "available": 283,
-    "reserved": 177,
+    "available": 281,
+    "reserved": 179,
     "bookable": true
   },
   "kulturforum-286": {
@@ -3914,8 +3914,8 @@
     "time": "21:30",
     "date": "Sa., 31.7.",
     "timestamp": 1627767000000,
-    "available": 452,
-    "reserved": 191,
+    "available": 456,
+    "reserved": 187,
     "bookable": true
   },
   "schloss-charlottenburg-71": {
