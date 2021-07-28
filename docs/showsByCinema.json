@@ -471,8 +471,8 @@
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
       "time": "21:30",
-      "available": 311,
-      "reserved": 384,
+      "available": 309,
+      "reserved": 386,
       "bookable": true
     },
     {
@@ -489,8 +489,8 @@
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
       "time": "21:30",
-      "available": 573,
-      "reserved": 122,
+      "available": 571,
+      "reserved": 124,
       "bookable": true
     },
     {
@@ -525,8 +525,8 @@
       "date": "Do., 5.8.,",
       "timestamp": 1628193600000,
       "time": "20:00",
-      "available": 651,
-      "reserved": 44,
+      "available": 650,
+      "reserved": 45,
       "bookable": true
     },
     {
@@ -597,8 +597,8 @@
       "date": "Mo., 2.8.,",
       "timestamp": 1627938000000,
       "time": "21:00",
-      "available": 687,
-      "reserved": 8,
+      "available": 683,
+      "reserved": 12,
       "bookable": true
     },
     {
@@ -615,8 +615,8 @@
       "date": "Di., 3.8.,",
       "timestamp": 1628024400000,
       "time": "21:00",
-      "available": 646,
-      "reserved": 49,
+      "available": 644,
+      "reserved": 51,
       "bookable": true
     },
     {
@@ -773,7 +773,7 @@
       "date": "So., 15.8.",
       "timestamp": 1629061200000,
       "time": "21:00",
-      "available": 0,
+      "available": 695,
       "reserved": 0,
       "bookable": true
     },
@@ -790,8 +790,8 @@
       "date": "Mo., 16.8.",
       "timestamp": 1629148500000,
       "time": "21:15",
-      "available": 0,
-      "reserved": 0,
+      "available": 675,
+      "reserved": 20,
       "bookable": true
     }
   ],
@@ -917,8 +917,8 @@
       "date": "Fr., 30.7.",
       "timestamp": 1627678800000,
       "time": "21:00",
-      "available": 463,
-      "reserved": 110,
+      "available": 461,
+      "reserved": 112,
       "bookable": true
     },
     {
@@ -953,8 +953,8 @@
       "date": "Do., 5.8.,",
       "timestamp": 1628197200000,
       "time": "21:00",
-      "available": 520,
-      "reserved": 53,
+      "available": 517,
+      "reserved": 56,
       "bookable": true
     },
     {
@@ -971,8 +971,8 @@
       "date": "Fr., 6.8.,",
       "timestamp": 1628283600000,
       "time": "21:00",
-      "available": 532,
-      "reserved": 41,
+      "available": 527,
+      "reserved": 46,
       "bookable": true
     },
     {
@@ -3428,8 +3428,8 @@
       "timestamp": 1627862400000,
       "time": "21:15",
       "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2400927478?layout=shows",
-      "available": 82,
-      "reserved": 26,
+      "available": 81,
+      "reserved": 27,
       "bookable": true
     },
     {
@@ -3677,8 +3677,8 @@
       "time": "21:30",
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
-      "available": 223,
-      "reserved": 237,
+      "available": 221,
+      "reserved": 239,
       "bookable": true
     },
     {
@@ -3695,8 +3695,8 @@
       "time": "21:30",
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
-      "available": 333,
-      "reserved": 127,
+      "available": 331,
+      "reserved": 129,
       "bookable": true
     },
     {
@@ -3974,8 +3974,8 @@
       "time": "21:30",
       "date": "Mi., 28.7.",
       "timestamp": 1627507800000,
-      "available": 223,
-      "reserved": 237,
+      "available": 221,
+      "reserved": 239,
       "bookable": true
     },
     {
@@ -4064,8 +4064,8 @@
       "time": "21:30",
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
-      "available": 333,
-      "reserved": 127,
+      "available": 331,
+      "reserved": 129,
       "bookable": true
     },
     {
@@ -4152,8 +4152,8 @@
       "time": "21:30",
       "date": "Sa., 31.7.",
       "timestamp": 1627767000000,
-      "available": 456,
-      "reserved": 187,
+      "available": 454,
+      "reserved": 189,
       "bookable": true
     },
     {
@@ -4471,8 +4471,8 @@
       "time": "21:30",
       "date": "Sa., 31.7.",
       "timestamp": 1627767000000,
-      "available": 456,
-      "reserved": 187,
+      "available": 454,
+      "reserved": 189,
       "bookable": true
     }
   ]
