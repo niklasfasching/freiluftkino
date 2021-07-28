@@ -953,8 +953,8 @@
       "date": "Do., 5.8.,",
       "timestamp": 1628197200000,
       "time": "21:00",
-      "available": 522,
-      "reserved": 51,
+      "available": 520,
+      "reserved": 53,
       "bookable": true
     },
     {
@@ -1894,9 +1894,9 @@
       "timestamp": 1628812800000,
       "time": "17:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/692895?layout=shows",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -2029,9 +2029,9 @@
       "timestamp": 1630368000000,
       "time": "19:00",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691782?layout=shows",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     }
   ],
   "freiluftkino-insel-im-cassiopeia": [
@@ -2312,8 +2312,8 @@
       "img": "https://media.kinoheld.de/kYStEhPmGfaEZFCEJgfHXxwlOxU=/400x560/images%2Ffilm%2Fleon-der-profi-wa-2019-14361.v11.jpg",
       "description": "Léon verdient sein Geld als Auftragskiller der Italo-Mafia in den Straßen von New York. Er lebt zurückgezogen und pflegt außer zu seinem Boss Tony einzig zu seiner Topfpflanze ein freundschaftliches Verhältnis. Als die Familie seiner Nachbarstochter Mathilda von DEA-Polizisten brutal getötet wird, flüchtet sie zu Léon. Um sich an den Mördern ihres kleinen Bruders zu rächen, lässt sich Mathilda das grausame Handwerk eines Profi-Killers von Léon beibringen. (Quelle: Verleih)",
       "trailer": "https://www.youtube.com/watch?v=3XgSLq-CePM",
-      "available": 55,
-      "reserved": 10,
+      "available": 53,
+      "reserved": 11,
       "bookable": true
     },
     {
@@ -2348,8 +2348,8 @@
       "img": "https://media.kinoheld.de/05Q9g3CzGjSrED-jm-g0dVl1LNs=/400x560/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v209.jpg",
       "description": "Aufgewachsen im komfortablen Wohlstand seiner iranischen Einwanderer-Eltern entzieht sich Millenial Parvis dem Provinzleben in Hildesheim durch Popkultur, Grindr-Dates und Raves. Als Strafe für einen Ladendiebstahl muß er Sozialstunden als Übersetzer in einer Unterkunft für Geflüchtete leisten, in der er auf das iranische Geschwisterpaar Banafshe und Amon trifft. Zwischen ihnen entwickelt sich eine fragile Dreierbeziehung, die zunehmend von dem Bewusstsein geprägt ist, dass ihre Zukunft in Deutschland ungleich ist.",
       "trailer": "https://www.youtube.com/watch?v=DitVsuZ66fQ",
-      "available": 58,
-      "reserved": 8,
+      "available": 56,
+      "reserved": 10,
       "bookable": true
     },
     {
@@ -3727,8 +3727,8 @@
       "time": "21:30",
       "date": "Sa., 31.7.",
       "timestamp": 1627767000000,
-      "available": 341,
-      "reserved": 119,
+      "available": 339,
+      "reserved": 121,
       "bookable": true
     },
     {
@@ -3902,8 +3902,8 @@
       "time": "21:30",
       "date": "Sa., 31.7.",
       "timestamp": 1627767000000,
-      "available": 341,
-      "reserved": 119,
+      "available": 339,
+      "reserved": 121,
       "bookable": true
     },
     {
