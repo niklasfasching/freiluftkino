@@ -65,8 +65,8 @@
       "date": "Di., 3.8.,",
       "timestamp": 1628024400000,
       "time": "21:00",
-      "available": 993,
-      "reserved": 85,
+      "available": 989,
+      "reserved": 89,
       "bookable": true
     },
     {
@@ -83,8 +83,8 @@
       "date": "Fr., 30.7.",
       "timestamp": 1627679700000,
       "time": "21:15",
-      "available": 776,
-      "reserved": 302,
+      "available": 769,
+      "reserved": 309,
       "bookable": true
     },
     {
@@ -101,8 +101,8 @@
       "date": "Sa., 31.7.",
       "timestamp": 1627765200000,
       "time": "21:00",
-      "available": 656,
-      "reserved": 422,
+      "available": 649,
+      "reserved": 429,
       "bookable": true
     },
     {
@@ -118,8 +118,8 @@
       "date": "Mo., 2.8.,",
       "timestamp": 1627938000000,
       "time": "21:00",
-      "available": 1048,
-      "reserved": 30,
+      "available": 1046,
+      "reserved": 32,
       "bookable": true
     },
     {
@@ -348,8 +348,8 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628974800000,
       "time": "21:00",
-      "available": 1003,
-      "reserved": 75,
+      "available": 1001,
+      "reserved": 77,
       "bookable": true
     },
     {
@@ -471,8 +471,8 @@
       "date": "Mi., 4.8.,",
       "timestamp": 1628110800000,
       "time": "21:00",
-      "available": 633,
-      "reserved": 60,
+      "available": 630,
+      "reserved": 63,
       "bookable": true
     },
     {
@@ -489,8 +489,8 @@
       "date": "Mo., 2.8.,",
       "timestamp": 1627938000000,
       "time": "21:00",
-      "available": 679,
-      "reserved": 14,
+      "available": 675,
+      "reserved": 18,
       "bookable": true
     },
     {
@@ -507,8 +507,8 @@
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
       "time": "21:30",
-      "available": 384,
-      "reserved": 309,
+      "available": 366,
+      "reserved": 327,
       "bookable": true
     },
     {
@@ -543,8 +543,8 @@
       "date": "Fr., 30.7.",
       "timestamp": 1627678800000,
       "time": "21:00",
-      "available": 400,
-      "reserved": 293,
+      "available": 392,
+      "reserved": 301,
       "bookable": true
     },
     {
@@ -650,8 +650,8 @@
       "date": "Fr., 6.8.,",
       "timestamp": 1628283600000,
       "time": "21:00",
-      "available": 650,
-      "reserved": 43,
+      "available": 648,
+      "reserved": 45,
       "bookable": true
     },
     {
@@ -667,8 +667,8 @@
       "date": "Mi., 11.8.",
       "timestamp": 1628716500000,
       "time": "21:15",
-      "available": 675,
-      "reserved": 18,
+      "available": 671,
+      "reserved": 22,
       "bookable": true
     },
     {
@@ -736,8 +736,8 @@
       "date": "Do., 12.8.",
       "timestamp": 1628802900000,
       "time": "21:15",
-      "available": 570,
-      "reserved": 123,
+      "available": 568,
+      "reserved": 125,
       "bookable": true
     },
     {
@@ -772,8 +772,8 @@
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
       "time": "21:30",
-      "available": 425,
-      "reserved": 148,
+      "available": 420,
+      "reserved": 153,
       "bookable": true
     },
     {
@@ -790,8 +790,8 @@
       "date": "Di., 3.8.,",
       "timestamp": 1628024400000,
       "time": "21:00",
-      "available": 543,
-      "reserved": 30,
+      "available": 541,
+      "reserved": 32,
       "bookable": true
     },
     {
@@ -843,8 +843,8 @@
       "date": "Sa., 31.7.",
       "timestamp": 1627765200000,
       "time": "21:00",
-      "available": 428,
-      "reserved": 145,
+      "available": 418,
+      "reserved": 155,
       "bookable": true
     },
     {
@@ -861,8 +861,8 @@
       "date": "Fr., 30.7.",
       "timestamp": 1627678800000,
       "time": "21:00",
-      "available": 349,
-      "reserved": 224,
+      "available": 337,
+      "reserved": 236,
       "bookable": true
     },
     {
@@ -1038,8 +1038,8 @@
       "date": "Do., 12.8.",
       "timestamp": 1628802000000,
       "time": "21:00",
-      "available": 509,
-      "reserved": 64,
+      "available": 505,
+      "reserved": 68,
       "bookable": true
     },
     {
@@ -1387,9 +1387,9 @@
       "img": "https://media.kinoheld.de/3trkAnh9-frO_02A-hFZKtGQKKk=/400x560/images%2Ffilm%2Fproxima-die-astronautin-18807.v2.jpg",
       "description": "Sarah ist eine französische Astronautin, die bei der European Space Agency in Köln trainiert. Sie ist die einzige Frau in dem mühsamen Programm. Sie lebt allein mit Stella, ihrer siebenjährigen Tochter. Sarah fühlt sich schuldig, dass sie nicht mehr Zeit mit ihrem Kind verbringen kann. Ihre Liebe ist überwältigend, beunruhigend. Als Sarah ausgewählt wird, sich der Crew einer einjährigen Weltraummission namens Proxima anzuschließen, sorgt dies für Chaos in der Mutter-Tochter-Beziehung.",
       "trailer": "https://www.youtube.com/watch?v=aPKJo1CQXKQ",
-      "available": -1,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1405,8 +1405,8 @@
       "img": "https://media.kinoheld.de/hU-1w3QkxBfwe4q6zNST9YM84sM=/400x560/images%2Ffilm%2Fnobody-19283.v30.png",
       "description": "Hutch Mansell, a suburban dad, overlooked husband, nothing neighbor — a \"nobody.\" When two thieves break into his home one night, Hutch's unknown long-simmering rage is ignited and propels him on a brutal path that will uncover dark secrets he fought to leave behind.",
       "trailer": "https://youtu.be/MKJ-nXADsVk",
-      "available": 315,
-      "reserved": 102,
+      "available": 285,
+      "reserved": 110,
       "bookable": true
     },
     {
@@ -1659,8 +1659,8 @@
       "img": "https://media.kinoheld.de/oO1mnhwCgLFA2jiJXg5aKuZEIBE=/400x560/images%2Ffilm%2F4%2Fb-movie-lust-sound-in-west-berlin-1979-1989-1581.v15.jpg",
       "description": "Eine Dokumentation über Musik, Kunst & Chaos im wilden West-Berlin der 80er Jahre. Bevor der eiserne Vorhang fiel, war die eingemauerte Stadt ein kreativer Schmelztiegel für Sub- und Popkultur. Von Punk bis zur Love Parade - erzählt mit authentischen Zeitdokumenten aus unzähligen Archiven.",
       "trailer": "https://youtu.be/MKJ-nXADsVk",
-      "available": 547,
-      "reserved": 27,
+      "available": 539,
+      "reserved": 29,
       "bookable": true
     },
     {
@@ -3502,7 +3502,7 @@
       "img": "https://media.kinoheld.de/8a5GVakFiNpUXUMFfgxOgYA_DFM=/400x560/images%2Ffilm%2Fpulp-fiction-16667.v35.jpg",
       "description": "Quentin Tarantinos zweiter Film, genannt nach den auf billigem Papier gedruckten amerikanischen \"Hard-boiled\"-Kriminalromanen, gewann 1994 in Cannes die Goldene Palme und 1995 den Oscar für das Beste Originaldrehbuch und ging als Meisterwerk der Postmoderne in die Filmgeschichte ein. PULP FICTION weist Tarantino als Kenner der US-Trivial-Kulturgeschichte aus und als jemanden, der die Tradition der Mord-und-Totschlag-Geschichten der 30er bis 50er Jahre mit den Mitteln der 90er fortzusetzten versteht, ohne sich als billiger Jakob des Zitats gebärden zu müssen. Der Film versammelt Stars wie Harvey Keitel, Tim Roth, Uma Thurman, Bruce Willis und - in einem sensationellen Comeback - John Travolta in einer bleihaltigen und schwarzhumorigen Story aus der Unterwelt, die bevölkert wird von minderbemittelten Profikillern, diebischen Amateuren und bestechlichen Preisboxern.",
       "trailer": "https://youtu.be/MKJ-nXADsVk",
-      "available": 51,
+      "available": 76,
       "reserved": 57,
       "bookable": true
     },
@@ -3535,8 +3535,8 @@
       "timestamp": 1627603200000,
       "time": "22:00",
       "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2407953077?layout=shows",
-      "available": 112,
-      "reserved": 33,
+      "available": 111,
+      "reserved": 34,
       "bookable": true
     },
     {
@@ -3865,8 +3865,8 @@
       "time": "21:30",
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
-      "available": 199,
-      "reserved": 261,
+      "available": 185,
+      "reserved": 275,
       "bookable": true
     },
     {
@@ -3916,8 +3916,8 @@
       "time": "21:15",
       "date": "So., 1.8.,",
       "timestamp": 1627852500000,
-      "available": 327,
-      "reserved": 133,
+      "available": 325,
+      "reserved": 135,
       "bookable": true
     },
     {
@@ -3933,8 +3933,8 @@
       "time": "21:15",
       "date": "Mo., 2.8.,",
       "timestamp": 1627938900000,
-      "available": 357,
-      "reserved": 103,
+      "available": 356,
+      "reserved": 104,
       "bookable": true
     },
     {
@@ -3969,8 +3969,8 @@
       "time": "21:15",
       "date": "Mi., 4.8.,",
       "timestamp": 1628111700000,
-      "available": 110,
-      "reserved": 350,
+      "available": 104,
+      "reserved": 356,
       "bookable": true
     },
     {
@@ -4023,8 +4023,8 @@
       "time": "21:15",
       "date": "Sa., 7.8.,",
       "timestamp": 1628370900000,
-      "available": 395,
-      "reserved": 65,
+      "available": 393,
+      "reserved": 67,
       "bookable": true
     },
     {
@@ -4144,8 +4144,8 @@
       "time": "21:15",
       "date": "So., 1.8.,",
       "timestamp": 1627852500000,
-      "available": 327,
-      "reserved": 133,
+      "available": 325,
+      "reserved": 135,
       "bookable": true
     },
     {
@@ -4180,8 +4180,8 @@
       "time": "21:15",
       "date": "Mi., 4.8.,",
       "timestamp": 1628111700000,
-      "available": 110,
-      "reserved": 350,
+      "available": 104,
+      "reserved": 356,
       "bookable": true
     },
     {
@@ -4198,8 +4198,8 @@
       "time": "21:15",
       "date": "Sa., 7.8.,",
       "timestamp": 1628370900000,
-      "available": 395,
-      "reserved": 65,
+      "available": 393,
+      "reserved": 67,
       "bookable": true
     },
     {
@@ -4252,8 +4252,8 @@
       "time": "21:30",
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
-      "available": 199,
-      "reserved": 261,
+      "available": 185,
+      "reserved": 275,
       "bookable": true
     },
     {
@@ -4269,8 +4269,8 @@
       "time": "21:15",
       "date": "Mo., 2.8.,",
       "timestamp": 1627938900000,
-      "available": 357,
-      "reserved": 103,
+      "available": 356,
+      "reserved": 104,
       "bookable": true
     }
   ],
@@ -4288,8 +4288,8 @@
       "time": "21:30",
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
-      "available": 19,
-      "reserved": 480,
+      "available": 20,
+      "reserved": 479,
       "bookable": true
     },
     {
@@ -4305,8 +4305,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 231,
-      "reserved": 412,
+      "available": 226,
+      "reserved": 417,
       "bookable": true
     },
     {
@@ -4322,8 +4322,8 @@
       "time": "21:30",
       "date": "Sa., 31.7.",
       "timestamp": 1627767000000,
-      "available": 379,
-      "reserved": 264,
+      "available": 376,
+      "reserved": 267,
       "bookable": true
     },
     {
@@ -4358,8 +4358,8 @@
       "time": "21:15",
       "date": "Mo., 2.8.,",
       "timestamp": 1627938900000,
-      "available": 423,
-      "reserved": 76,
+      "available": 420,
+      "reserved": 79,
       "bookable": true
     },
     {
@@ -4482,8 +4482,8 @@
       "time": "21:30",
       "date": "Do., 29.7.",
       "timestamp": 1627594200000,
-      "available": 19,
-      "reserved": 480,
+      "available": 20,
+      "reserved": 479,
       "bookable": true
     },
     {
@@ -4607,8 +4607,8 @@
       "time": "21:15",
       "date": "Mo., 2.8.,",
       "timestamp": 1627938900000,
-      "available": 423,
-      "reserved": 76,
+      "available": 420,
+      "reserved": 79,
       "bookable": true
     },
     {
@@ -4642,8 +4642,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 231,
-      "reserved": 412,
+      "available": 226,
+      "reserved": 417,
       "bookable": true
     },
     {
@@ -4659,8 +4659,8 @@
       "time": "21:30",
       "date": "Sa., 31.7.",
       "timestamp": 1627767000000,
-      "available": 379,
-      "reserved": 264,
+      "available": 376,
+      "reserved": 267,
       "bookable": true
     }
   ]
