@@ -14,8 +14,8 @@
       "date": "Mi., 4.8.,",
       "timestamp": 1628110800000,
       "time": "21:00",
-      "available": 1007,
-      "reserved": 71,
+      "available": 1005,
+      "reserved": 73,
       "bookable": true
     },
     {
@@ -32,8 +32,8 @@
       "date": "So., 1.8.,",
       "timestamp": 1627851600000,
       "time": "21:00",
-      "available": 914,
-      "reserved": 164,
+      "available": 912,
+      "reserved": 166,
       "bookable": true
     },
     {
@@ -67,8 +67,8 @@
       "date": "Fr., 30.7.",
       "timestamp": 1627679700000,
       "time": "21:15",
-      "available": 720,
-      "reserved": 358,
+      "available": 702,
+      "reserved": 376,
       "bookable": true
     },
     {
@@ -85,8 +85,8 @@
       "date": "Sa., 31.7.",
       "timestamp": 1627765200000,
       "time": "21:00",
-      "available": 584,
-      "reserved": 494,
+      "available": 569,
+      "reserved": 509,
       "bookable": true
     },
     {
@@ -102,8 +102,8 @@
       "date": "Mo., 2.8.,",
       "timestamp": 1627938000000,
       "time": "21:00",
-      "available": 1046,
-      "reserved": 32,
+      "available": 1044,
+      "reserved": 34,
       "bookable": true
     },
     {
@@ -382,8 +382,8 @@
       "date": "Sa., 4.9.,",
       "timestamp": 1630769400000,
       "time": "15:30",
-      "available": 987,
-      "reserved": 91,
+      "available": 985,
+      "reserved": 93,
       "bookable": true
     },
     {
@@ -419,8 +419,8 @@
       "date": "Di., 3.8.,",
       "timestamp": 1628024400000,
       "time": "21:00",
-      "available": 622,
-      "reserved": 71,
+      "available": 616,
+      "reserved": 77,
       "bookable": true
     },
     {
@@ -437,8 +437,8 @@
       "date": "So., 1.8.,",
       "timestamp": 1627851600000,
       "time": "21:00",
-      "available": 586,
-      "reserved": 107,
+      "available": 584,
+      "reserved": 109,
       "bookable": true
     },
     {
@@ -455,8 +455,8 @@
       "date": "Mi., 4.8.,",
       "timestamp": 1628110800000,
       "time": "21:00",
-      "available": 628,
-      "reserved": 65,
+      "available": 626,
+      "reserved": 67,
       "bookable": true
     },
     {
@@ -491,8 +491,8 @@
       "date": "Sa., 31.7.",
       "timestamp": 1627765200000,
       "time": "21:00",
-      "available": 608,
-      "reserved": 85,
+      "available": 601,
+      "reserved": 92,
       "bookable": true
     },
     {
@@ -509,8 +509,8 @@
       "date": "Fr., 30.7.",
       "timestamp": 1627678800000,
       "time": "21:00",
-      "available": 0,
-      "reserved": 0,
+      "available": 315,
+      "reserved": 378,
       "bookable": true
     },
     {
@@ -527,8 +527,8 @@
       "date": "Sa., 7.8.,",
       "timestamp": 1628370000000,
       "time": "21:00",
-      "available": 636,
-      "reserved": 57,
+      "available": 634,
+      "reserved": 59,
       "bookable": true
     },
     {
@@ -545,8 +545,8 @@
       "date": "So., 8.8.,",
       "timestamp": 1628456400000,
       "time": "21:00",
-      "available": 0,
-      "reserved": 0,
+      "available": 690,
+      "reserved": 3,
       "bookable": true
     },
     {
@@ -598,8 +598,8 @@
       "date": "Do., 5.8.,",
       "timestamp": 1628193600000,
       "time": "20:00",
-      "available": 607,
-      "reserved": 86,
+      "available": 603,
+      "reserved": 90,
       "bookable": true
     },
     {
@@ -616,8 +616,8 @@
       "date": "Fr., 6.8.,",
       "timestamp": 1628283600000,
       "time": "21:00",
-      "available": 0,
-      "reserved": 0,
+      "available": 640,
+      "reserved": 53,
       "bookable": true
     },
     {
@@ -646,7 +646,7 @@
       "id": "xberg-666",
       "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/666",
       "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=652",
-      "title": "Ich bin meine eigene Frau",
+      "title": "Queeres B: Ich bin meine eigene Frau",
       "date": "So., 15.8.",
       "timestamp": 1629061200000,
       "time": "21:00",
@@ -685,8 +685,8 @@
       "date": "Mo., 16.8.",
       "timestamp": 1629148500000,
       "time": "21:15",
-      "available": 658,
-      "reserved": 35,
+      "available": 656,
+      "reserved": 37,
       "bookable": true
     },
     {
@@ -702,8 +702,8 @@
       "date": "Do., 12.8.",
       "timestamp": 1628802900000,
       "time": "21:15",
-      "available": 567,
-      "reserved": 126,
+      "available": 565,
+      "reserved": 128,
       "bookable": true
     },
     {
@@ -718,7 +718,7 @@
       "date": "Do., 19.8.",
       "timestamp": 1629388800000,
       "time": "16:00",
-      "available": 0,
+      "available": 492,
       "reserved": 0,
       "bookable": true
     }
@@ -809,8 +809,8 @@
       "date": "Fr., 30.7.",
       "timestamp": 1627678800000,
       "time": "21:00",
-      "available": 259,
-      "reserved": 314,
+      "available": 239,
+      "reserved": 334,
       "bookable": true
     },
     {
@@ -951,8 +951,8 @@
       "date": "Mi., 11.8.",
       "timestamp": 1628715600000,
       "time": "21:00",
-      "available": 567,
-      "reserved": 6,
+      "available": 569,
+      "reserved": 4,
       "bookable": true
     },
     {
@@ -986,8 +986,8 @@
       "date": "Do., 12.8.",
       "timestamp": 1628802000000,
       "time": "21:00",
-      "available": 502,
-      "reserved": 71,
+      "available": 498,
+      "reserved": 75,
       "bookable": true
     },
     {
@@ -1124,8 +1124,8 @@
       "url": "https://www.kinoheld.de/cinema-berlin/filmrauschpalast/show/2410945820?layout=shows",
       "img": "https://media.kinoheld.de/fgGCLH7Wv1LGNBpWE170-LZttX8=/400x560/images%2Ffilm%2Fmo%2F1863-39359.v2.jpg",
       "description": "In Ang Lees Film wird die Geschichte zweier Familien an der Ostküste der USA zur Abrechnung mit der Elterngeneration der 1970er Jahre - ein erschütterndes Drama und pointiertes Generationenportrait.",
-      "available": 78,
-      "reserved": 7,
+      "available": 75,
+      "reserved": 10,
       "bookable": true
     },
     {
@@ -1401,8 +1401,8 @@
       "img": "https://media.kinoheld.de/0YlRPQ-vLZhcVJXiui3Oiw5dpWQ=/400x560/images%2Ffilm%2Fund-morgen-die-ganze-welt-17457.v145.jpg",
       "description": "Luisa ist 20 Jahre alt, stammt aus gutem Haus, studiert Jura im ersten Semester. Und sie will, dass sich etwas verändert in Deutschland. Alarmiert vom Rechtsruck im Land und der zunehmenden Beliebtheit populistischer Parteien, tut sie sich mit ihren Freunden zusammen, um sich klar gegen die neue Rechte zu positionieren. Schnell findet sie Anschluss bei dem charismatischen Alfa und dessen besten Freund Lenor: Für die beiden ist auch der Einsatz von Gewalt ein legitimes Mittel, um Widerstand zu leisten. Bald schon überstürzen sich die Ereignisse. Und Luisa muss entscheiden, wie weit zu gehen sie bereit ist – auch wenn das fatale Konsequenzen für sie und ihre Freunde haben könnte.",
       "trailer": "https://www.youtube.com/watch?v=5jtj8DcAqz0",
-      "available": 410,
-      "reserved": 68,
+      "available": 406,
+      "reserved": 70,
       "bookable": true
     },
     {
@@ -3321,8 +3321,8 @@
       "timestamp": 1627603200000,
       "time": "22:00",
       "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2407953077?layout=shows",
-      "available": 111,
-      "reserved": 34,
+      "available": 109,
+      "reserved": 36,
       "bookable": true
     },
     {
@@ -3651,8 +3651,8 @@
       "time": "21:15",
       "date": "Mo., 2.8.,",
       "timestamp": 1627938900000,
-      "available": 343,
-      "reserved": 117,
+      "available": 341,
+      "reserved": 119,
       "bookable": true
     },
     {
@@ -3669,8 +3669,8 @@
       "time": "21:15",
       "date": "Di., 3.8.,",
       "timestamp": 1628025300000,
-      "available": 217,
-      "reserved": 243,
+      "available": 216,
+      "reserved": 244,
       "bookable": true
     },
     {
@@ -3687,8 +3687,8 @@
       "time": "21:15",
       "date": "Mi., 4.8.,",
       "timestamp": 1628111700000,
-      "available": 68,
-      "reserved": 392,
+      "available": 64,
+      "reserved": 396,
       "bookable": true
     },
     {
@@ -3758,8 +3758,8 @@
       "time": "21:15",
       "date": "So., 8.8.,",
       "timestamp": 1628457300000,
-      "available": 396,
-      "reserved": 64,
+      "available": 395,
+      "reserved": 65,
       "bookable": true
     },
     {
@@ -3776,8 +3776,8 @@
       "time": "21:15",
       "date": "Mo., 9.8.,",
       "timestamp": 1628543700000,
-      "available": 419,
-      "reserved": 41,
+      "available": 417,
+      "reserved": 43,
       "bookable": true
     },
     {
@@ -3830,8 +3830,8 @@
       "time": "21:15",
       "date": "Mo., 9.8.,",
       "timestamp": 1628543700000,
-      "available": 419,
-      "reserved": 41,
+      "available": 417,
+      "reserved": 43,
       "bookable": true
     },
     {
@@ -3862,8 +3862,8 @@
       "time": "21:15",
       "date": "So., 8.8.,",
       "timestamp": 1628457300000,
-      "available": 396,
-      "reserved": 64,
+      "available": 395,
+      "reserved": 65,
       "bookable": true
     },
     {
@@ -3916,8 +3916,8 @@
       "time": "21:15",
       "date": "Mi., 4.8.,",
       "timestamp": 1628111700000,
-      "available": 68,
-      "reserved": 392,
+      "available": 64,
+      "reserved": 396,
       "bookable": true
     },
     {
@@ -3952,8 +3952,8 @@
       "time": "21:15",
       "date": "Di., 3.8.,",
       "timestamp": 1628025300000,
-      "available": 217,
-      "reserved": 243,
+      "available": 216,
+      "reserved": 244,
       "bookable": true
     },
     {
@@ -3987,8 +3987,8 @@
       "time": "21:15",
       "date": "Mo., 2.8.,",
       "timestamp": 1627938900000,
-      "available": 343,
-      "reserved": 117,
+      "available": 341,
+      "reserved": 119,
       "bookable": true
     },
     {
@@ -4024,8 +4024,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 181,
-      "reserved": 462,
+      "available": 166,
+      "reserved": 477,
       "bookable": true
     },
     {
@@ -4041,8 +4041,8 @@
       "time": "21:30",
       "date": "Sa., 31.7.",
       "timestamp": 1627767000000,
-      "available": 348,
-      "reserved": 295,
+      "available": 343,
+      "reserved": 300,
       "bookable": true
     },
     {
@@ -4380,8 +4380,8 @@
       "time": "21:30",
       "date": "Fr., 30.7.",
       "timestamp": 1627680600000,
-      "available": 181,
-      "reserved": 462,
+      "available": 166,
+      "reserved": 477,
       "bookable": true
     },
     {
@@ -4397,8 +4397,8 @@
       "time": "21:30",
       "date": "Sa., 31.7.",
       "timestamp": 1627767000000,
-      "available": 348,
-      "reserved": 295,
+      "available": 343,
+      "reserved": 300,
       "bookable": true
     }
   ]
