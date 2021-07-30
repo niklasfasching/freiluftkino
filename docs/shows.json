@@ -66,9 +66,9 @@
     "date": "Sa., 31.7.",
     "timestamp": 1627765200000,
     "time": "21:00",
-    "available": 343,
-    "reserved": 735,
-    "bookable": true
+    "available": 0,
+    "reserved": 0,
+    "bookable": false
   },
   "fhain-724": {
     "description": "In einer nicht allzu weit entfernten Zukunft ist der junge Alex (Malcom McDowell) der Anführer einer Jugendgang. Die Gruppe selbst fällt mit Gewalttaten und Vergewaltigungen Wehrloser auf. Nachdem die Jungs wieder mal einen Einbruch nebst Mord begangen haben, wird Alex von einem rebellierenden Gangmitglied niedergeschlagen und der Polizei überlassen. Der ehemalige Anführer kommt ins Gefängnis. Zwei Jahre später muss er als Versuchsobjekt an einer neuartigen, von der Regierung initiierten Aversionstherapie teilnehmen. Die Therapie dauert 14 Tage lang und konfrontiert Alex immer wieder mit Filmszenen stärkster Brutalität. Anschließend kommt er frei, ist nun allerdings nichts weiter als eine willenlose Hülle.\n",
@@ -83,8 +83,8 @@
     "date": "Mo., 2.8.,",
     "timestamp": 1627938000000,
     "time": "21:00",
-    "available": 1033,
-    "reserved": 45,
+    "available": 1031,
+    "reserved": 47,
     "bookable": true
   },
   "fhain-728": {
@@ -136,8 +136,8 @@
     "date": "Fr., 6.8.,",
     "timestamp": 1628283600000,
     "time": "21:00",
-    "available": 896,
-    "reserved": 182,
+    "available": 900,
+    "reserved": 178,
     "bookable": true
   },
   "fhain-729": {
@@ -243,8 +243,8 @@
     "date": "Fr., 13.8.",
     "timestamp": 1628888400000,
     "time": "21:00",
-    "available": 1040,
-    "reserved": 38,
+    "available": 1038,
+    "reserved": 40,
     "bookable": true
   },
   "fhain-719": {
@@ -416,8 +416,8 @@
     "date": "So., 1.8.,",
     "timestamp": 1627851600000,
     "time": "21:00",
-    "available": 546,
-    "reserved": 147,
+    "available": 550,
+    "reserved": 143,
     "bookable": true
   },
   "xberg-657": {
@@ -470,8 +470,8 @@
     "date": "Sa., 31.7.",
     "timestamp": 1627765200000,
     "time": "21:00",
-    "available": 519,
-    "reserved": 174,
+    "available": 517,
+    "reserved": 176,
     "bookable": true
   },
   "xberg-650": {
@@ -697,8 +697,8 @@
     "date": "Di., 3.8.,",
     "timestamp": 1628024400000,
     "time": "21:00",
-    "available": 529,
-    "reserved": 44,
+    "available": 527,
+    "reserved": 46,
     "bookable": true
   },
   "rehberge-663": {
@@ -750,8 +750,8 @@
     "date": "Sa., 31.7.",
     "timestamp": 1627765200000,
     "time": "21:00",
-    "available": 257,
-    "reserved": 316,
+    "available": 253,
+    "reserved": 320,
     "bookable": true
   },
   "rehberge-652": {
@@ -892,8 +892,8 @@
     "date": "Mi., 11.8.",
     "timestamp": 1628715600000,
     "time": "21:00",
-    "available": 566,
-    "reserved": 7,
+    "available": 564,
+    "reserved": 9,
     "bookable": true
   },
   "rehberge-622": {
@@ -1050,23 +1050,6 @@
     "reserved": 2,
     "bookable": true
   },
-  "filmrauschpalast-2410945820": {
-    "cinemaId": "535",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/filmrauschpalast/shows/movies",
-    "cinemaName": "filmrauschpalast",
-    "cinemaShortName": "filmrauschpalast",
-    "id": "filmrauschpalast-2410945820",
-    "title": "OPEN AIR: DER EISSTURM (subtitled OV German)",
-    "date": "Fr., 30.7.",
-    "timestamp": 1627603200000,
-    "time": "22:00",
-    "url": "https://www.kinoheld.de/cinema-berlin/filmrauschpalast/show/2410945820?layout=shows",
-    "img": "https://media.kinoheld.de/fgGCLH7Wv1LGNBpWE170-LZttX8=/400x560/images%2Ffilm%2Fmo%2F1863-39359.v2.jpg",
-    "description": "In Ang Lees Film wird die Geschichte zweier Familien an der Ostküste der USA zur Abrechnung mit der Elterngeneration der 1970er Jahre - ein erschütterndes Drama und pointiertes Generationenportrait.",
-    "available": 0,
-    "reserved": 0,
-    "bookable": false
-  },
   "filmrauschpalast-2410945827": {
     "cinemaId": "535",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/filmrauschpalast/shows/movies",
@@ -1080,8 +1063,8 @@
     "url": "https://www.kinoheld.de/cinema-berlin/filmrauschpalast/show/2410945827?layout=shows",
     "img": "https://media.kinoheld.de/52pVOhM2IeOcp7xRTfntBwNm_xw=/400x560/images%2Ffilm%2Fmo%2F1863-39361.v2.jpg",
     "description": "Der Wadung-Schwertkämpfer Li Mu Bai will sein blutiges Handwerk aufgeben. Doch zuvor muss er die berüchtigte Verbrecherin Jade-Fuchs und ihre Hintermänner besiegen.",
-    "available": 64,
-    "reserved": 21,
+    "available": 59,
+    "reserved": 25,
     "bookable": true
   },
   "filmrauschpalast-2410947383": {
@@ -1239,60 +1222,6 @@
     "reserved": 4,
     "bookable": true
   },
-  "hasenheide-691724": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-691724",
-    "title": "Der kleine Rabe Socke - Suche nach dem verlorenen Schatz ",
-    "date": "Fr., 30.7.",
-    "timestamp": 1627603200000,
-    "time": "16:30",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691724?layout=shows",
-    "img": "https://media.kinoheld.de/gmbXUECjFkZFUAaGrtctv0b5EeQ=/400x560/images%2Ffilm%2Fder-kleine-rabe-socke-suche-nach-dem-verlorenen-schatz-13641.v187.jpg",
-    "description": "Der kleine Rabe Socke ist von Frau Dachs zum Dachbodenaufräumen verdonnert worden, nachdem ihm mal wieder ein Malheur passiert ist und er ganz aus Versehen das alljährliche Waldfest ruiniert hat. Während er noch über die Ungerechtigkeit mault, macht er eine Riesenentdeckung: In einem geheimen Zimmer findet er eine waschechte Schatzkarte! Gezeichnet hat sie Opa Dachs, bevor er spurlos verschwunden ist. Um den verschollenen Schatz rankt sich eine geheimnisvolle Legende: Wer es schafft, bis zu ihm vorzudringen und alle Gefahren und Rätsel auf dem Weg besteht, der wird König des Waldes! Und König wollte Socke immer schon sein. Dann wären die anderen auch nicht mehr sauer auf ihn, glaubt er. Zusammen mit seinem besten Freund Eddi-Bär bricht Socke auf zum großen Schatzsucher-Abenteuer. Dabei heftet sich der Kleine Dachs, der endlich einmal beweisen will, dass viel mehr in ihm steckt als die anderen ahnen, an ihre Fersen. Auch Bibermädchen Fritzi gesellt sich zu dem Entdecker-Trupp, der die Freunde über Schluchten und Hängebrücken hoch hinauf auf den majestätischen Nebelberg und schließlich tief hinein in eine geheimnisvolle Höhle führt. Ihnen dicht auf den Fersen sind die Biberjungs Henry und Arthur, die ebenfalls Wind von der Sache bekommen haben und kurzerhand den Kleinen Dachs entführen, um den Freunden die Schatzkarte und damit den Schatz abzujagen. Socke muss sich entscheiden: Soll er seinen Freund retten oder den Schatz als erster finden und König werden? Während er noch grübelt, machen die Freunde eine aufregende Entdeckung, die das Leben der Waldbewohner gehörig durcheinander wirbelt... (Quelle: Verleih)",
-    "trailer": "https://www.youtube.com/watch?v=_H9DJgT4c2w",
-    "available": 0,
-    "reserved": 0,
-    "bookable": false
-  },
-  "hasenheide-692202": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-692202",
-    "title": "Frances Ha (subtitled OV German)",
-    "date": "Fr., 30.7.",
-    "timestamp": 1627603200000,
-    "time": "18:30",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/692202?layout=shows",
-    "img": "https://media.kinoheld.de/lYamNilaSoHrFTMkp-RSRlMvkYI=/400x560/images%2Ffilm%2F4%2Ffrances-ha-227.v2.jpg",
-    "description": "Frances tanzt sich durchs Leben - nicht nur beruflich, sondern auch privat. Zwar ist der große Erfolg auf der Bühne bisher ausgeblieben, doch das heißt nicht, dass Frances irgendetwas ändern würde. Sie plant von Moment zu Moment, stürzt sich von einer Beziehung in die nächste und hat nur eine Konstante in ihrem Leben: ihre Mitbewohnerin Sophie. Als die jedoch auszieht, muss Frances erkennen, dass sie auch in anderen Bereichen ihres Lebens immer mehr ins Abseits gerät. Aber deshalb aufgeben? Kommt nicht in Frage! (j.b.)",
-    "trailer": "https://www.youtube.com/watch?v=yCu52QcC5ww",
-    "available": 0,
-    "reserved": 0,
-    "bookable": false
-  },
-  "hasenheide-692206": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-692206",
-    "title": "No Sudden Move (subtitled OV German)",
-    "date": "Fr., 30.7.",
-    "timestamp": 1627603200000,
-    "time": "21:30",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/692206?layout=shows",
-    "img": "https://media.kinoheld.de/JUw_7p1h4ID_IYJBYMa0SLMtZU8=/400x560/images%2Ffilm%2Fno-sudden-move-19129.v6.png",
-    "description": "Curt Goynes (Don Cheadle) kommt frisch aus dem Gefängnis und hat direkt wieder Ärger: Er wird in die Machenschaften des afroamerikanischen Verbrechersyndikats von Detroit verstrickt. Seine Chance, dem Ärger zu entgehen, besteht in einem Job, den ihm der zwielichtige Mittelsmann Jones (Brendan Fraser) anbietet. Curt soll einen Babysitter-Job für die Familie des einfachen Autoverkäufers Matt Wertz (David Harbour) übernehmen – und findet sich plötzlich mit zwei anderen Kleinkriminellen, Ronald Russo (Benicio Del Toro) und Charley Barnes (Kieran Culkin), im Haus der Familie des Autoverkäufers wieder. Bald darauf gehen die Dinge so richtig schief. Curt und Ronald geraten mitten rein in den Kampf der lokalen Verbrecherwelt, bei dem es um ein Stück Papier in einem Safe geht. Auch die Polizei tritt auf und Detective Joe Finney (Jon Hamm) macht die Sache dabei für alle beteiligten Gangster noch unangenehmer, als sie eh schon ist.",
-    "trailer": "https://www.youtube.com/watch?v=tnEcmvortDM",
-    "available": 0,
-    "reserved": 0,
-    "bookable": false
-  },
   "hasenheide-691725": {
     "cinemaId": "580",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
@@ -1391,8 +1320,8 @@
     "img": "https://media.kinoheld.de/DbWHTKT3neGjvULOXqsnipemH2A=/400x560/images%2Ffilm%2Fminari-18286.v2.png",
     "description": "Jacob beschließt, mit seiner koreanisch-amerikanischen Familie von Los Angeles nach Arkansas zu ziehen, um als Farmer sein Glück zu versuchen. Seine Frau Monica und die Kinder David und Anne fühlen sich jedoch fremd in der neuen Heimat, und das fragile Familienleben wird zusätzlich auf die Probe gestellt, als die schlagfertige und liebevolle Großmutter Soonja von Südkorea zu ihnen auf die Farm zieht.",
     "trailer": "https://www.youtube.com/watch?v=suCHYHMrO9Q",
-    "available": 210,
-    "reserved": 125,
+    "available": 204,
+    "reserved": 127,
     "bookable": true
   },
   "hasenheide-691727": {
@@ -1808,23 +1737,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "nomadenkino-2394768749": {
-    "cinemaId": "1621",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/nomadenkino-berlin/shows/movies",
-    "cinemaName": "nomadenkino-berlin",
-    "cinemaShortName": "nomadenkino",
-    "id": "nomadenkino-2394768749",
-    "title": "Clubkultur Berlin ",
-    "date": "Fr., 30.7.",
-    "timestamp": 1627603200000,
-    "time": "21:30",
-    "url": "https://www.kinoheld.de/cinema-berlin/nomadenkino-berlin/show/2394768749?layout=shows",
-    "img": "https://media.kinoheld.de/b1NN6NmN9x412seHeI2J4XbR87E=/400x560/images%2Ffilm%2Fmo%2F366-1621-8078.v3.png",
-    "description": "CLUBKULTUR SCREENING TOUR Informationen\r\n\r\nBerlins CLUBKULTUR taucht ab ins prä-pandemische Berliner Nachtleben.\r\n Berlin galt seit dem Mauerfall weltweit als das Superlativ der Clubszene. Mit der Pandemie ist eine Industrie und Subkultur, samt deren Einnahmen, Einkommen, und nahezu tabufreien Rückzugsorte und schillernden Persönlichkeiten verschwunden. Wird es ein Zurück geben, und wenn ja, welche neue Form der CLUBKULTUR wird entstehen? Welchen Einfluss hat das Sterben der Clubs auf die mentale Gesundheit derjenigen, für die Clubs nicht nur zum Feiern, sondern Arbeitsplatz oder Schutzraum waren, an denen sie Lust und Laster wertfrei ausleben konnten?\r\n\r\nDie Regisseurinnen Leonie Gerner & Andrea Schumacher haben eine kritische, rasante Dokumentation produziert. Eine Dokumentation, in der Club-Betreiber, Musiker, DJs und Psychologen zu Wort kommen, und bisher unveröffentlichtes Footage aus den Clubs gezeigt werden darf.\r\nDas Topic ist hochbrisant, denn der Verlust von Unbeschwertheit und Offenheit, betrifft eine internationale Zielgruppe von New York bis Tel Aviv – die nur aus einem Grund nach Berlin kam: um ‚once in a lifetime‘ all das zu erleben, was woanders tabu ist.\r\n\r\nInside Berlin’s Club Scene: für viele Hoffnung, Sehnsucht und Elexier aus einer verblassenden Erinnerung an Intimität, Sex, Musik, Ekstase und Freude.\r\nWir sind sicher, dass unsere Open Air Kino Tour derzeit die absolut richtige Plattform ist, um Zuschauer zu erreichen, die sich nichts sehnlicher wünschen als in die facettenreiche Berliner Clubszene abtauchen zu können. In die „Roaring 20s“ unseres Jahrhunderts.",
-    "available": 0,
-    "reserved": 0,
-    "bookable": false
-  },
   "nomadenkino-2413437475": {
     "cinemaId": "1621",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/nomadenkino-berlin/shows/movies",
@@ -1874,24 +1786,6 @@
     "available": -1,
     "reserved": 0,
     "bookable": true
-  },
-  "fmp-2392551085": {
-    "cinemaId": "1657",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
-    "cinemaName": "b-ware-openair-fmp",
-    "cinemaShortName": "fmp",
-    "id": "fmp-2392551085",
-    "title": "SOMMER 85 ",
-    "date": "Fr., 30.7.",
-    "timestamp": 1627603200000,
-    "time": "21:30",
-    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2392551085?layout=shows",
-    "img": "https://media.kinoheld.de/8AF3hb-XqmSaaZt5dYhxEYEBR-w=/400x560/images%2Ffilm%2Fsommer-85-19153.v6.jpg",
-    "description": "Ein heißer Sommer in der Normandie, 1985: Der 16-jährige Alexis (Félix Lefebvre) verbringt die Ferien gemeinsam mit seinen Eltern in einem kleinen malerischen Örtchen an der Küste. Als ihn eines Tages ein überraschend aufziehendes Unwetter in seiner kleinen Segeljolle zum Kentern bringt, wird er wie durch ein Wunder von dem etwas älteren David (Benjamin Voisin) gerettet. Eine große, besondere Sommerliebe nimmt ihren Anfang, doch nach wenigen Wochen wird das unbeschwerte Liebesglück der beiden Teenager getrübt. Die Ereignisse überschlagen sich und Alexis muss ein letztes Versprechen einlösen …",
-    "trailer": "https://youtu.be/o3Vf5leIgUo",
-    "available": 0,
-    "reserved": 0,
-    "bookable": false
   },
   "fmp-2394835154": {
     "cinemaId": "1657",
@@ -2014,7 +1908,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2414227910?layout=shows",
     "img": "https://media.kinoheld.de/R8VDXSPvszmiJwKj83Io0hLKCVY=/400x560/images%2Ffilm%2Fmo%2F3013-36027.v2.jpg",
     "description": "Ein Sex-Tape gelangt ins Internet und geht dort viral. Es zeigt eine Frau und einen Mann, die beide Masken tragen, beim Geschlechtsakt. Doch die Frau in dem Video lässt sich als Emi (Katia Pascariu) identifizieren - eine Lehrerin.\r\n\r\nEmis Ruf und Karriere geraten in Bedrängnis, als die Eltern ihrer Schüler ihren augenblicklichen Rücktritt fordern. Doch die Lehrerin weigert sich, dem öffentlichen Druck nachzugeben, nur weil die anderen ihre Vorbild-Funktion anzweifeln.\r\n\r\nVorurteile, Heuchelei und Chauvinismus prallen in Folge dessen aufeinander, als immer mehr Verschwörungstheorien die Runde machen und ein Streit über den gesellschaftlichen Umgang mit pornografischen Inhalten entbrennt.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://youtu.be/8AEgcTSMSOY",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2698,24 +2592,6 @@
     "reserved": 4,
     "bookable": true
   },
-  "pompeji ostkreuz-2400436107": {
-    "cinemaId": "2153",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-    "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-    "cinemaShortName": "pompeji ostkreuz",
-    "id": "pompeji ostkreuz-2400436107",
-    "title": "NIEMALS SELTEN MANCHMAL IMMER (subtitled OV German)",
-    "date": "Fr., 30.7.",
-    "timestamp": 1627603200000,
-    "time": "21:15",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2400436107?layout=shows",
-    "img": "https://media.kinoheld.de/0cBkRvzG-FV91rI_zxWfPf-oRaY=/400x560/images%2Ffilm%2Fniemals-selten-manchmal-immer-17085.v356.jpg",
-    "description": "Das Leben der 17-jährigen Autumn verläuft so normal wie unspektakulär. Auf dem Land in Pennsylvania geht sie ihrer Arbeit in einem Supermarkt nach und führt ein bescheidenes Leben. Das ändert sich jedoch schlagartig, als sie bemerkt, dass sie ungewollt schwanger ist. Auf die Hilfe ihrer Eltern kann sie allerdings nicht bauen. Kurzerhand reist ihre Cousine Skyler mit ihr nach New York. Dort angekommen, wollen die beiden eine Klinik aufsuchen, die bei Autumn die Abtreibung vornehmen soll.",
-    "trailer": "https://youtu.be/OsWV2qTX21k",
-    "available": 0,
-    "reserved": 0,
-    "bookable": false
-  },
   "pompeji ostkreuz-2400436116": {
     "cinemaId": "2153",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
@@ -3232,21 +3108,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "mobile kino-2407953077": {
-    "cinemaId": "3033",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/mobile-kino-berlin/shows/movies",
-    "cinemaName": "mobile-kino-berlin",
-    "cinemaShortName": "mobile kino",
-    "id": "mobile kino-2407953077",
-    "title": "KANNIBALFEST 2021 @ REVIER SÜDOST (subtitled OV English)",
-    "date": "Fr., 30.7.",
-    "timestamp": 1627603200000,
-    "time": "22:00",
-    "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2407953077?layout=shows",
-    "available": 0,
-    "reserved": 0,
-    "bookable": false
-  },
   "mobile kino-2400572792": {
     "cinemaId": "3033",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/mobile-kino-berlin/shows/movies",
@@ -3258,8 +3119,8 @@
     "timestamp": 1627689600000,
     "time": "21:15",
     "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2400572792?layout=shows",
-    "available": 25,
-    "reserved": 49,
+    "available": 24,
+    "reserved": 51,
     "bookable": true
   },
   "mobile kino-2400927478": {
@@ -3608,8 +3469,8 @@
     "time": "21:30",
     "date": "Sa., 31.7.",
     "timestamp": 1627767000000,
-    "available": 203,
-    "reserved": 257,
+    "available": 199,
+    "reserved": 261,
     "bookable": true
   },
   "kulturforum-284": {
@@ -3643,8 +3504,8 @@
     "time": "21:15",
     "date": "Mo., 2.8.,",
     "timestamp": 1627938900000,
-    "available": 313,
-    "reserved": 147,
+    "available": 318,
+    "reserved": 142,
     "bookable": true
   },
   "kulturforum-291": {
@@ -3697,8 +3558,8 @@
     "time": "21:15",
     "date": "Do., 5.8.,",
     "timestamp": 1628198100000,
-    "available": 409,
-    "reserved": 51,
+    "available": 407,
+    "reserved": 53,
     "bookable": true
   },
   "kulturforum-287": {
@@ -3790,6 +3651,24 @@
     "reserved": 352,
     "bookable": true
   },
+  "kulturforum-293": {
+    "title": "ARTE | Grusel, Glaube & Genie: Gotik!",
+    "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60f9655f6144401f0880966c/show_aDCrXL0nbrnYaZpLEwxApk1BBGx.jpg",
+    "description": "Fegefeuer, Hölle & das Paradies, Darstellungen von Nacktheit & Grauen in lodernden Farben – die Kunst der Gotik zieht seit gut 500 Jahren Menschen in ihren Bann. Die Kunsthistorikerin Grit Lederer hat Expert*innen für gotische Kunst interviewt  und geht dieser Frage in ihrer Doku auf den Grund.",
+    "trailer": "https://www.arte.tv/de/videos/097753-000-A/grusel-glaube-und-genie-gotik/",
+    "cinemaId": "54eefd0b683138488b190000",
+    "cinemaUrl": "https://yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-293",
+    "url": "https://yorck.de/checkout/step01?showid=293&siteid=1015",
+    "time": "21:00",
+    "date": "Mi., 11.8.",
+    "timestamp": 1628715600000,
+    "available": 267,
+    "reserved": 193,
+    "bookable": true
+  },
   "schloss-charlottenburg-62": {
     "title": "The Father",
     "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60f1878069f5b52cec728a4f/show_The-Father-Poster-2021.jpg",
@@ -3803,8 +3682,8 @@
     "time": "21:30",
     "date": "Sa., 31.7.",
     "timestamp": 1627767000000,
-    "available": 257,
-    "reserved": 386,
+    "available": 254,
+    "reserved": 389,
     "bookable": true
   },
   "schloss-charlottenburg-71": {
@@ -3964,8 +3843,26 @@
     "time": "21:00",
     "date": "Di., 10.8.",
     "timestamp": 1628629200000,
-    "available": 456,
-    "reserved": 43,
+    "available": 454,
+    "reserved": 45,
+    "bookable": true
+  },
+  "schloss-charlottenburg-72": {
+    "title": "Call Me By Your Name (OmU)",
+    "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/5a9008d6614440258d652ce4/show_CallMeByYourName_Pos_Poster_S.jpg",
+    "description": "Der 17-jährige Elio verbringt den Sommer mit seinen Bildungsbürger-Eltern in Norditalien und verliebt sich in den neuen Assistenten seines Vaters, den smarten 24-jährigen Oliver. Doch so richtig schlau wird Elio aus dem jungen Mann nicht, auch über seine eigenen Gefühle ist er sich lange nicht klar. \nEiner der schönsten Filme der letzten Jahre erzählt von der lustvollen Romanze zweier junger Männer im Italien der frühen Achtziger. Schon jetzt ein Klassiker.",
+    "trailer": "https://www.youtube.com/watch?v=TWZw5WC4RiA",
+    "cinemaId": "60a3b5ed61444058ac0797a2",
+    "cinemaUrl": "https://yorck.de/kinos/sommerkino-schloss-charlottenburg",
+    "cinemaName": "sommerkino-schloss-charlottenburg",
+    "cinemaShortName": "schloss-charlottenburg",
+    "id": "schloss-charlottenburg-72",
+    "url": "https://yorck.de/checkout/step01?showid=72&siteid=1020",
+    "time": "21:00",
+    "date": "Mi., 11.8.",
+    "timestamp": 1628715600000,
+    "available": 439,
+    "reserved": 60,
     "bookable": true
   }
 }
