@@ -32,8 +32,8 @@
       "date": "So., 1.8.,",
       "timestamp": 1627851600000,
       "time": "21:00",
-      "available": 795,
-      "reserved": 283,
+      "available": 791,
+      "reserved": 287,
       "bookable": true
     },
     {
@@ -82,8 +82,8 @@
       "date": "Mo., 2.8.,",
       "timestamp": 1627938000000,
       "time": "21:00",
-      "available": 1017,
-      "reserved": 61,
+      "available": 1015,
+      "reserved": 63,
       "bookable": true
     },
     {
@@ -259,8 +259,8 @@
       "date": "So., 15.8.",
       "timestamp": 1629043200000,
       "time": "16:00",
-      "available": 876,
-      "reserved": 202,
+      "available": 874,
+      "reserved": 204,
       "bookable": true
     },
     {
@@ -277,8 +277,8 @@
       "date": "So., 15.8.",
       "timestamp": 1629061200000,
       "time": "21:00",
-      "available": 1059,
-      "reserved": 19,
+      "available": 1057,
+      "reserved": 21,
       "bookable": true
     },
     {
@@ -418,8 +418,8 @@
       "date": "So., 1.8.,",
       "timestamp": 1627851600000,
       "time": "21:00",
-      "available": 516,
-      "reserved": 177,
+      "available": 514,
+      "reserved": 179,
       "bookable": true
     },
     {
@@ -436,8 +436,8 @@
       "date": "Mi., 4.8.,",
       "timestamp": 1628110800000,
       "time": "21:00",
-      "available": 586,
-      "reserved": 107,
+      "available": 584,
+      "reserved": 109,
       "bookable": true
     },
     {
@@ -472,8 +472,8 @@
       "date": "Sa., 31.7.",
       "timestamp": 1627765200000,
       "time": "21:00",
-      "available": 318,
-      "reserved": 375,
+      "available": 296,
+      "reserved": 397,
       "bookable": true
     },
     {
@@ -667,8 +667,8 @@
       "date": "Do., 12.8.",
       "timestamp": 1628802900000,
       "time": "21:15",
-      "available": 514,
-      "reserved": 179,
+      "available": 511,
+      "reserved": 182,
       "bookable": true
     },
     {
@@ -756,8 +756,8 @@
       "date": "Sa., 31.7.",
       "timestamp": 1627765200000,
       "time": "21:00",
-      "available": 17,
-      "reserved": 556,
+      "available": 10,
+      "reserved": 563,
       "bookable": true
     },
     {
@@ -774,8 +774,8 @@
       "date": "So., 1.8.,",
       "timestamp": 1627851600000,
       "time": "21:00",
-      "available": 516,
-      "reserved": 57,
+      "available": 511,
+      "reserved": 62,
       "bookable": true
     },
     {
@@ -1074,7 +1074,7 @@
       "img": "https://media.kinoheld.de/52pVOhM2IeOcp7xRTfntBwNm_xw=/400x560/images%2Ffilm%2Fmo%2F1863-39361.v2.jpg",
       "description": "Der Wadung-Schwertkämpfer Li Mu Bai will sein blutiges Handwerk aufgeben. Doch zuvor muss er die berüchtigte Verbrecherin Jade-Fuchs und ihre Hintermänner besiegen.",
       "available": 38,
-      "reserved": 44,
+      "reserved": 47,
       "bookable": true
     },
     {
@@ -1261,9 +1261,9 @@
       "timestamp": 1627689600000,
       "time": "18:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691288?layout=shows",
-      "available": -1,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1280,7 +1280,7 @@
       "description": "Luisa ist 20 Jahre alt, stammt aus gutem Haus, studiert Jura im ersten Semester. Und sie will, dass sich etwas verändert in Deutschland. Alarmiert vom Rechtsruck im Land und der zunehmenden Beliebtheit populistischer Parteien, tut sie sich mit ihren Freunden zusammen, um sich klar gegen die neue Rechte zu positionieren. Schnell findet sie Anschluss bei dem charismatischen Alfa und dessen besten Freund Lenor: Für die beiden ist auch der Einsatz von Gewalt ein legitimes Mittel, um Widerstand zu leisten. Bald schon überstürzen sich die Ereignisse. Und Luisa muss entscheiden, wie weit zu gehen sie bereit ist – auch wenn das fatale Konsequenzen für sie und ihre Freunde haben könnte.",
       "trailer": "https://www.youtube.com/watch?v=5jtj8DcAqz0",
       "available": 0,
-      "reserved": 200,
+      "reserved": 201,
       "bookable": false
     },
     {
@@ -1381,8 +1381,8 @@
       "img": "https://media.kinoheld.de/nGB5qJCKE-9-pQTApf34z8UlpHg=/400x560/images%2Ffilm%2Fjudas-and-the-black-messiah-19127.v11.jpg",
       "description": "In den späten 1960er Jahren wird der 17-jährige Kleinkriminelle William O'Neal in Chicago verhaftet, nachdem er versucht hat, ein Auto zu entführen, während er sich als Bundesbeamter ausgab. Er wird von FBI-Spezialagent Roy Mitchell angesprochen, der anbietet, O'Neals Anklage fallen zu lassen, wenn er undercover für das FBI arbeitet. O'Neal wird beauftragt, die Illinois-Sektion der Black Panther Party und ihren Anführer Fred Hampton zu infiltrieren. O'Neal beginnt, sich Hampton anzunähern, der daran arbeitet, Allianzen mit rivalisierenden Gangs und Milizgruppen zu bilden, während er die Gemeinde durch das „Free Breakfast for Children“-Programm der Black Panther unterstützt. Als der Parteivorsitzende Fred Hampton aufsteigt und sich unterwegs in die Mitrevolutionärin Deborah Johnson verliebt, entbrennt ein Kampf um O'Neals Seele.",
       "trailer": "https://www.youtube.com/watch?v=yNE70wMLTCc",
-      "available": 482,
-      "reserved": 49,
+      "available": 491,
+      "reserved": 47,
       "bookable": true
     },
     {
@@ -2160,8 +2160,8 @@
       "img": "https://media.kinoheld.de/S4qyzQmlpKzdz_5kv6436ixaA8o=/400x560/images%2Ffilm%2Fyung-in-anwesenheit-des-regisseurs-14831.v1.jpg",
       "description": "Vier junge und selbstbewusste Frauen aus Berlin feiern das Leben und ihre Jugend als endlose Party quer durch die angesagten Spots der Szene und dem Underground der Metropole. Da ist die noch nicht ganz volljährige Janaina, die sich mit Sex vor der Webcam ein kleines Extra-Taschengeld verdient, und ihre beste Freundin Emi. Die 18-Jährige erlebt den Rausch ihres Lebens und realisiert zunächst nicht, dass sie immer tiefer in die Abhängigkeit rutscht. Und während Dealerin Joy toxische Illusionen verkauft, träumt sie von der großen Liebe, die süße 16-jährige Abbie indes würde am liebsten eher heute als morgen nach Los Angeles abhauen. (vf)",
       "trailer": "https://youtu.be/MKJ-nXADsVk",
-      "available": 22,
-      "reserved": 26,
+      "available": 18,
+      "reserved": 29,
       "bookable": true
     },
     {
@@ -3239,7 +3239,7 @@
       "img": "https://media.kinoheld.de/VJ575z3Wugek2Jcv3PLs2shT8AY=/400x560/images%2Ffilm%2Fmatthias-maxime-17408.v5.jpg",
       "description": "Matthias und Maxime sind schon seit ihrer Kindheit beste Freunde und können sich gar nicht vorstellen, plötzlich getrennte Wege zu gehen. Doch das Erwachsenwerden bedeutet Veränderung und so zieht es Maxime für längere Zeit nach Australien.\r\n\r\nIn den Tagen vor seiner Abreise ziehen die beiden im Kreis ihrer Freunde von einer Party zur nächsten. Als eine ihrer Freundinnen, eine Filmstudentin, für ihren neuesten Kurzfilm noch zwei Schauspieler sucht, werden Matthias und Maxime kurzerhand und nicht ganz gegen ihren Willen engagiert. Der Knackpunkt des Ganzen? Die beiden Freunde müssen sich vor der Kamera küssen und dies bringt plötzlich alles ins Wanken.\r\n\r\nUngeahnte und unterdrückte Gefühle erwachen, die die beiden vor Entscheidungen und Herausforderungen stellen, die unüberwindbar scheinen. Denn während Matthias sich krampfhaft gegen seine Gefühle zu wehren versucht, wächst in Maxime mehr und mehr der Wunsch, Matthias noch näher zu kommen, bevor sie der Ozean endgültig trennt. Gibt es für die beiden doch noch ein Happy End?",
       "trailer": "https://www.youtube.com/watch?v=EVE6XP2HcH8",
-      "available": 62,
+      "available": 60,
       "reserved": 54,
       "bookable": true
     },
@@ -3611,8 +3611,8 @@
       "time": "21:15",
       "date": "So., 1.8.,",
       "timestamp": 1627852500000,
-      "available": 222,
-      "reserved": 238,
+      "available": 215,
+      "reserved": 245,
       "bookable": true
     },
     {
@@ -3628,8 +3628,8 @@
       "time": "21:15",
       "date": "Mo., 2.8.,",
       "timestamp": 1627938900000,
-      "available": 282,
-      "reserved": 178,
+      "available": 281,
+      "reserved": 179,
       "bookable": true
     },
     {
@@ -3646,8 +3646,8 @@
       "time": "21:15",
       "date": "Di., 3.8.,",
       "timestamp": 1628025300000,
-      "available": 169,
-      "reserved": 291,
+      "available": 166,
+      "reserved": 294,
       "bookable": true
     },
     {
@@ -3664,9 +3664,9 @@
       "time": "21:15",
       "date": "Mi., 4.8.,",
       "timestamp": 1628111700000,
-      "available": 9,
-      "reserved": 451,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "title": "Das Ding aus einer anderen Welt (OmU)",
@@ -3682,8 +3682,8 @@
       "time": "21:15",
       "date": "Do., 5.8.,",
       "timestamp": 1628198100000,
-      "available": 405,
-      "reserved": 55,
+      "available": 404,
+      "reserved": 56,
       "bookable": true
     },
     {
@@ -3700,8 +3700,8 @@
       "time": "21:15",
       "date": "Fr., 6.8.,",
       "timestamp": 1628284500000,
-      "available": 412,
-      "reserved": 48,
+      "available": 413,
+      "reserved": 47,
       "bookable": true
     },
     {
@@ -3842,8 +3842,8 @@
       "time": "21:15",
       "date": "So., 1.8.,",
       "timestamp": 1627852500000,
-      "available": 222,
-      "reserved": 238,
+      "available": 215,
+      "reserved": 245,
       "bookable": true
     },
     {
@@ -3860,8 +3860,8 @@
       "time": "21:15",
       "date": "Do., 5.8.,",
       "timestamp": 1628198100000,
-      "available": 405,
-      "reserved": 55,
+      "available": 404,
+      "reserved": 56,
       "bookable": true
     },
     {
@@ -3878,9 +3878,9 @@
       "time": "21:15",
       "date": "Mi., 4.8.,",
       "timestamp": 1628111700000,
-      "available": 9,
-      "reserved": 451,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "title": "ARTE | Grusel, Glaube & Genie: Gotik!",
@@ -3932,8 +3932,8 @@
       "time": "21:15",
       "date": "Di., 3.8.,",
       "timestamp": 1628025300000,
-      "available": 169,
-      "reserved": 291,
+      "available": 166,
+      "reserved": 294,
       "bookable": true
     },
     {
@@ -3950,8 +3950,8 @@
       "time": "21:15",
       "date": "Fr., 6.8.,",
       "timestamp": 1628284500000,
-      "available": 412,
-      "reserved": 48,
+      "available": 413,
+      "reserved": 47,
       "bookable": true
     },
     {
@@ -3967,8 +3967,8 @@
       "time": "21:15",
       "date": "Mo., 2.8.,",
       "timestamp": 1627938900000,
-      "available": 282,
-      "reserved": 178,
+      "available": 281,
+      "reserved": 179,
       "bookable": true
     },
     {
@@ -4005,8 +4005,8 @@
       "time": "21:15",
       "date": "So., 1.8.,",
       "timestamp": 1627852500000,
-      "available": 389,
-      "reserved": 110,
+      "available": 387,
+      "reserved": 112,
       "bookable": true
     },
     {
@@ -4023,8 +4023,8 @@
       "time": "21:15",
       "date": "Mo., 2.8.,",
       "timestamp": 1627938900000,
-      "available": 380,
-      "reserved": 119,
+      "available": 375,
+      "reserved": 124,
       "bookable": true
     },
     {
@@ -4041,8 +4041,8 @@
       "time": "21:15",
       "date": "Di., 3.8.,",
       "timestamp": 1628025300000,
-      "available": 414,
-      "reserved": 85,
+      "available": 415,
+      "reserved": 84,
       "bookable": true
     },
     {
@@ -4094,8 +4094,8 @@
       "time": "21:15",
       "date": "Fr., 6.8.,",
       "timestamp": 1628284500000,
-      "available": 531,
-      "reserved": 112,
+      "available": 529,
+      "reserved": 114,
       "bookable": true
     },
     {
@@ -4130,8 +4130,8 @@
       "time": "21:15",
       "date": "Mo., 9.8.,",
       "timestamp": 1628543700000,
-      "available": 450,
-      "reserved": 49,
+      "available": 448,
+      "reserved": 51,
       "bookable": true
     },
     {
@@ -4148,8 +4148,8 @@
       "time": "21:00",
       "date": "Di., 10.8.",
       "timestamp": 1628629200000,
-      "available": 443,
-      "reserved": 56,
+      "available": 440,
+      "reserved": 59,
       "bookable": true
     },
     {
@@ -4184,8 +4184,8 @@
       "time": "21:00",
       "date": "Di., 10.8.",
       "timestamp": 1628629200000,
-      "available": 443,
-      "reserved": 56,
+      "available": 440,
+      "reserved": 59,
       "bookable": true
     },
     {
@@ -4201,8 +4201,8 @@
       "time": "21:15",
       "date": "Fr., 6.8.,",
       "timestamp": 1628284500000,
-      "available": 531,
-      "reserved": 112,
+      "available": 529,
+      "reserved": 114,
       "bookable": true
     },
     {
@@ -4237,8 +4237,8 @@
       "time": "21:15",
       "date": "Di., 3.8.,",
       "timestamp": 1628025300000,
-      "available": 414,
-      "reserved": 85,
+      "available": 415,
+      "reserved": 84,
       "bookable": true
     },
     {
@@ -4255,8 +4255,8 @@
       "time": "21:15",
       "date": "Mo., 9.8.,",
       "timestamp": 1628543700000,
-      "available": 450,
-      "reserved": 49,
+      "available": 448,
+      "reserved": 51,
       "bookable": true
     },
     {
@@ -4327,8 +4327,8 @@
       "time": "21:15",
       "date": "Mo., 2.8.,",
       "timestamp": 1627938900000,
-      "available": 380,
-      "reserved": 119,
+      "available": 375,
+      "reserved": 124,
       "bookable": true
     },
     {
@@ -4345,8 +4345,8 @@
       "time": "21:15",
       "date": "So., 1.8.,",
       "timestamp": 1627852500000,
-      "available": 389,
-      "reserved": 110,
+      "available": 387,
+      "reserved": 112,
       "bookable": true
     }
   ]
