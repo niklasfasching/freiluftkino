@@ -14,8 +14,8 @@
       "date": "Mi., 4.8.,",
       "timestamp": 1628110800000,
       "time": "21:00",
-      "available": 995,
-      "reserved": 83,
+      "available": 993,
+      "reserved": 85,
       "bookable": true
     },
     {
@@ -32,8 +32,8 @@
       "date": "So., 1.8.,",
       "timestamp": 1627851600000,
       "time": "21:00",
-      "available": 762,
-      "reserved": 316,
+      "available": 755,
+      "reserved": 323,
       "bookable": true
     },
     {
@@ -49,8 +49,8 @@
       "date": "Di., 3.8.,",
       "timestamp": 1628024400000,
       "time": "21:00",
-      "available": 951,
-      "reserved": 127,
+      "available": 946,
+      "reserved": 132,
       "bookable": true
     },
     {
@@ -314,8 +314,8 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628960400000,
       "time": "17:00",
-      "available": 481,
-      "reserved": 512,
+      "available": 480,
+      "reserved": 513,
       "bookable": true
     },
     {
@@ -402,8 +402,8 @@
       "date": "So., 1.8.,",
       "timestamp": 1627851600000,
       "time": "21:00",
-      "available": 493,
-      "reserved": 200,
+      "available": 489,
+      "reserved": 204,
       "bookable": true
     },
     {
@@ -420,8 +420,8 @@
       "date": "Mi., 4.8.,",
       "timestamp": 1628110800000,
       "time": "21:00",
-      "available": 579,
-      "reserved": 114,
+      "available": 575,
+      "reserved": 118,
       "bookable": true
     },
     {
@@ -633,8 +633,8 @@
       "date": "Do., 12.8.",
       "timestamp": 1628802900000,
       "time": "21:15",
-      "available": 509,
-      "reserved": 184,
+      "available": 505,
+      "reserved": 188,
       "bookable": true
     },
     {
@@ -722,8 +722,8 @@
       "date": "So., 1.8.,",
       "timestamp": 1627851600000,
       "time": "21:00",
-      "available": 496,
-      "reserved": 77,
+      "available": 495,
+      "reserved": 78,
       "bookable": true
     },
     {
@@ -740,8 +740,8 @@
       "date": "Do., 5.8.,",
       "timestamp": 1628197200000,
       "time": "21:00",
-      "available": 493,
-      "reserved": 80,
+      "available": 491,
+      "reserved": 82,
       "bookable": true
     },
     {
@@ -793,8 +793,8 @@
       "date": "So., 8.8.,",
       "timestamp": 1628456400000,
       "time": "21:00",
-      "available": 562,
-      "reserved": 11,
+      "available": 561,
+      "reserved": 12,
       "bookable": true
     },
     {
@@ -864,8 +864,8 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628973900000,
       "time": "20:45",
-      "available": 319,
-      "reserved": 254,
+      "available": 317,
+      "reserved": 256,
       "bookable": true
     },
     {
@@ -1280,8 +1280,8 @@
       "img": "https://media.kinoheld.de/DbWHTKT3neGjvULOXqsnipemH2A=/400x560/images%2Ffilm%2Fminari-18286.v2.png",
       "description": "Jacob beschließt, mit seiner koreanisch-amerikanischen Familie von Los Angeles nach Arkansas zu ziehen, um als Farmer sein Glück zu versuchen. Seine Frau Monica und die Kinder David und Anne fühlen sich jedoch fremd in der neuen Heimat, und das fragile Familienleben wird zusätzlich auf die Probe gestellt, als die schlagfertige und liebevolle Großmutter Soonja von Südkorea zu ihnen auf die Farm zieht.",
       "trailer": "https://www.youtube.com/watch?v=suCHYHMrO9Q",
-      "available": 55,
-      "reserved": 173,
+      "available": 28,
+      "reserved": 183,
       "bookable": true
     },
     {
@@ -1429,7 +1429,7 @@
       "img": "https://media.kinoheld.de/6Qu2TJ0HehGLKgwa4dBGTKappvI=/400x560/images%2Ffilm%2Ftenet-16731.v2.png",
       "description": "Ein Agent wird rekrutiert, um einen besonderen Auftrag auszuführen: Er soll den 3. Weltkrieg verhindern. Diesmal ist jedoch keine nukleare Bedrohung der Grund, sondern es muss eine Person gestoppt werden, welche die Fähigkeit besitzt, die Zeit zu manipulieren.",
       "trailer": "https://www.youtube.com/watch?v=jfEQ0BdeQJQ",
-      "available": 438,
+      "available": 434,
       "reserved": 58,
       "bookable": true
     },
@@ -1767,9 +1767,9 @@
       "img": "https://media.kinoheld.de/SW9yYj5664XaZfh1rUXniSIBO8I=/400x560/images%2Ffilm%2Fnew-order-die-neue-weltordnung-19296.v1.jpg",
       "description": "Eine verschwenderische Hochzeit der Oberschicht gerät während eines unerwarteten Aufstands des Klassenkampfes aus den Fugen, der in einen gewaltsamen Staatsstreich mündet. Aus der Sicht der sympathischen jungen Braut und der Diener, die für und gegen ihre reiche Familie arbeiten, zeichnet der Film den Zusammenbruch eines politischen Systems nach, während in seinem Gefolge ein noch erschreckenderer Ersatz entsteht.",
       "trailer": "https://www.youtube.com/watch?v=4-XZCNRbOlw",
-      "available": -1,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "1657",
@@ -3168,8 +3168,8 @@
       "timestamp": 1627862400000,
       "time": "21:15",
       "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2400927478?layout=shows",
-      "available": 52,
-      "reserved": 56,
+      "available": 50,
+      "reserved": 58,
       "bookable": true
     },
     {
@@ -3558,8 +3558,8 @@
       "time": "21:15",
       "date": "So., 1.8.,",
       "timestamp": 1627852500000,
-      "available": 207,
-      "reserved": 253,
+      "available": 204,
+      "reserved": 256,
       "bookable": true
     },
     {
@@ -3593,8 +3593,8 @@
       "time": "21:15",
       "date": "Di., 3.8.,",
       "timestamp": 1628025300000,
-      "available": 148,
-      "reserved": 312,
+      "available": 150,
+      "reserved": 310,
       "bookable": true
     },
     {
@@ -3629,8 +3629,8 @@
       "time": "21:15",
       "date": "Do., 5.8.,",
       "timestamp": 1628198100000,
-      "available": 404,
-      "reserved": 56,
+      "available": 402,
+      "reserved": 58,
       "bookable": true
     },
     {
@@ -3665,8 +3665,8 @@
       "time": "21:15",
       "date": "Sa., 7.8.,",
       "timestamp": 1628370900000,
-      "available": 370,
-      "reserved": 90,
+      "available": 367,
+      "reserved": 93,
       "bookable": true
     },
     {
@@ -3789,8 +3789,8 @@
       "time": "21:15",
       "date": "So., 1.8.,",
       "timestamp": 1627852500000,
-      "available": 207,
-      "reserved": 253,
+      "available": 204,
+      "reserved": 256,
       "bookable": true
     },
     {
@@ -3807,8 +3807,8 @@
       "time": "21:15",
       "date": "Do., 5.8.,",
       "timestamp": 1628198100000,
-      "available": 404,
-      "reserved": 56,
+      "available": 402,
+      "reserved": 58,
       "bookable": true
     },
     {
@@ -3861,8 +3861,8 @@
       "time": "21:15",
       "date": "Sa., 7.8.,",
       "timestamp": 1628370900000,
-      "available": 370,
-      "reserved": 90,
+      "available": 367,
+      "reserved": 93,
       "bookable": true
     },
     {
@@ -3879,8 +3879,8 @@
       "time": "21:15",
       "date": "Di., 3.8.,",
       "timestamp": 1628025300000,
-      "available": 148,
-      "reserved": 312,
+      "available": 150,
+      "reserved": 310,
       "bookable": true
     },
     {
@@ -3970,8 +3970,8 @@
       "time": "21:15",
       "date": "Mo., 2.8.,",
       "timestamp": 1627938900000,
-      "available": 371,
-      "reserved": 128,
+      "available": 373,
+      "reserved": 126,
       "bookable": true
     },
     {
@@ -4041,8 +4041,8 @@
       "time": "21:15",
       "date": "Fr., 6.8.,",
       "timestamp": 1628284500000,
-      "available": 529,
-      "reserved": 114,
+      "available": 527,
+      "reserved": 116,
       "bookable": true
     },
     {
@@ -4148,8 +4148,8 @@
       "time": "21:15",
       "date": "Fr., 6.8.,",
       "timestamp": 1628284500000,
-      "available": 529,
-      "reserved": 114,
+      "available": 527,
+      "reserved": 116,
       "bookable": true
     },
     {
@@ -4274,8 +4274,8 @@
       "time": "21:15",
       "date": "Mo., 2.8.,",
       "timestamp": 1627938900000,
-      "available": 371,
-      "reserved": 128,
+      "available": 373,
+      "reserved": 126,
       "bookable": true
     },
     {
