@@ -49,8 +49,8 @@
       "date": "Di., 3.8.,",
       "timestamp": 1628024400000,
       "time": "21:00",
-      "available": 946,
-      "reserved": 132,
+      "available": 944,
+      "reserved": 134,
       "bookable": true
     },
     {
@@ -402,8 +402,8 @@
       "date": "So., 1.8.,",
       "timestamp": 1627851600000,
       "time": "21:00",
-      "available": 489,
-      "reserved": 204,
+      "available": 487,
+      "reserved": 206,
       "bookable": true
     },
     {
@@ -420,8 +420,8 @@
       "date": "Mi., 4.8.,",
       "timestamp": 1628110800000,
       "time": "21:00",
-      "available": 575,
-      "reserved": 118,
+      "available": 573,
+      "reserved": 120,
       "bookable": true
     },
     {
@@ -456,8 +456,8 @@
       "date": "Sa., 7.8.,",
       "timestamp": 1628370000000,
       "time": "21:00",
-      "available": 617,
-      "reserved": 76,
+      "available": 615,
+      "reserved": 78,
       "bookable": true
     },
     {
@@ -527,8 +527,8 @@
       "date": "Do., 5.8.,",
       "timestamp": 1628193600000,
       "time": "20:00",
-      "available": 587,
-      "reserved": 106,
+      "available": 583,
+      "reserved": 110,
       "bookable": true
     },
     {
@@ -704,8 +704,8 @@
       "date": "Mi., 4.8.,",
       "timestamp": 1628110800000,
       "time": "21:00",
-      "available": 528,
-      "reserved": 45,
+      "available": 521,
+      "reserved": 52,
       "bookable": true
     },
     {
@@ -722,8 +722,8 @@
       "date": "So., 1.8.,",
       "timestamp": 1627851600000,
       "time": "21:00",
-      "available": 495,
-      "reserved": 78,
+      "available": 493,
+      "reserved": 80,
       "bookable": true
     },
     {
@@ -793,8 +793,8 @@
       "date": "So., 8.8.,",
       "timestamp": 1628456400000,
       "time": "21:00",
-      "available": 561,
-      "reserved": 12,
+      "available": 562,
+      "reserved": 11,
       "bookable": true
     },
     {
@@ -864,8 +864,8 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628973900000,
       "time": "20:45",
-      "available": 317,
-      "reserved": 256,
+      "available": 315,
+      "reserved": 258,
       "bookable": true
     },
     {
@@ -1008,23 +1008,6 @@
     }
   ],
   "filmrauschpalast": [
-    {
-      "cinemaId": "535",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/filmrauschpalast/shows/movies",
-      "cinemaName": "filmrauschpalast",
-      "cinemaShortName": "filmrauschpalast",
-      "id": "filmrauschpalast-2410945827",
-      "title": "OPEN AIR: TIGER & DRAGON (subtitled OV German)",
-      "date": "Sa., 31.7.",
-      "timestamp": 1627689600000,
-      "time": "22:00",
-      "url": "https://www.kinoheld.de/cinema-berlin/filmrauschpalast/show/2410945827?layout=shows",
-      "img": "https://media.kinoheld.de/52pVOhM2IeOcp7xRTfntBwNm_xw=/400x560/images%2Ffilm%2Fmo%2F1863-39361.v2.jpg",
-      "description": "Der Wadung-Schwertkämpfer Li Mu Bai will sein blutiges Handwerk aufgeben. Doch zuvor muss er die berüchtigte Verbrecherin Jade-Fuchs und ihre Hintermänner besiegen.",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
     {
       "cinemaId": "535",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/filmrauschpalast/shows/movies",
@@ -1187,54 +1170,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
       "cinemaName": "freiluftkino-hasenheide",
       "cinemaShortName": "hasenheide",
-      "id": "hasenheide-691725",
-      "title": "Tony 10 ",
-      "date": "Sa., 31.7.",
-      "timestamp": 1627689600000,
-      "time": "16:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691725?layout=shows",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "hasenheide-691288",
-      "title": "Theatersport - Nie gesehene Blockbuster ",
-      "date": "Sa., 31.7.",
-      "timestamp": 1627689600000,
-      "time": "18:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691288?layout=shows",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "hasenheide-692207",
-      "title": "Und morgen die ganze Welt (subtitled OV English)",
-      "date": "Sa., 31.7.",
-      "timestamp": 1627689600000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/692207?layout=shows",
-      "img": "https://media.kinoheld.de/0YlRPQ-vLZhcVJXiui3Oiw5dpWQ=/400x560/images%2Ffilm%2Fund-morgen-die-ganze-welt-17457.v145.jpg",
-      "description": "Luisa ist 20 Jahre alt, stammt aus gutem Haus, studiert Jura im ersten Semester. Und sie will, dass sich etwas verändert in Deutschland. Alarmiert vom Rechtsruck im Land und der zunehmenden Beliebtheit populistischer Parteien, tut sie sich mit ihren Freunden zusammen, um sich klar gegen die neue Rechte zu positionieren. Schnell findet sie Anschluss bei dem charismatischen Alfa und dessen besten Freund Lenor: Für die beiden ist auch der Einsatz von Gewalt ein legitimes Mittel, um Widerstand zu leisten. Bald schon überstürzen sich die Ereignisse. Und Luisa muss entscheiden, wie weit zu gehen sie bereit ist – auch wenn das fatale Konsequenzen für sie und ihre Freunde haben könnte.",
-      "trailer": "https://www.youtube.com/watch?v=5jtj8DcAqz0",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
       "id": "hasenheide-691726",
       "title": "Heidi ",
       "date": "So., 1.8.,",
@@ -1280,8 +1215,8 @@
       "img": "https://media.kinoheld.de/DbWHTKT3neGjvULOXqsnipemH2A=/400x560/images%2Ffilm%2Fminari-18286.v2.png",
       "description": "Jacob beschließt, mit seiner koreanisch-amerikanischen Familie von Los Angeles nach Arkansas zu ziehen, um als Farmer sein Glück zu versuchen. Seine Frau Monica und die Kinder David und Anne fühlen sich jedoch fremd in der neuen Heimat, und das fragile Familienleben wird zusätzlich auf die Probe gestellt, als die schlagfertige und liebevolle Großmutter Soonja von Südkorea zu ihnen auf die Farm zieht.",
       "trailer": "https://www.youtube.com/watch?v=suCHYHMrO9Q",
-      "available": 28,
-      "reserved": 183,
+      "available": 21,
+      "reserved": 186,
       "bookable": true
     },
     {
@@ -1378,7 +1313,7 @@
       "img": "https://media.kinoheld.de/oO1mnhwCgLFA2jiJXg5aKuZEIBE=/400x560/images%2Ffilm%2F4%2Fb-movie-lust-sound-in-west-berlin-1979-1989-1581.v15.jpg",
       "description": "Eine Dokumentation über Musik, Kunst & Chaos im wilden West-Berlin der 80er Jahre. Bevor der eiserne Vorhang fiel, war die eingemauerte Stadt ein kreativer Schmelztiegel für Sub- und Popkultur. Von Punk bis zur Love Parade - erzählt mit authentischen Zeitdokumenten aus unzähligen Archiven.",
       "trailer": "https://www.youtube.com/watch?v=caKiHdaVwhM",
-      "available": 491,
+      "available": 481,
       "reserved": 39,
       "bookable": true
     },
@@ -1429,7 +1364,7 @@
       "img": "https://media.kinoheld.de/6Qu2TJ0HehGLKgwa4dBGTKappvI=/400x560/images%2Ffilm%2Ftenet-16731.v2.png",
       "description": "Ein Agent wird rekrutiert, um einen besonderen Auftrag auszuführen: Er soll den 3. Weltkrieg verhindern. Diesmal ist jedoch keine nukleare Bedrohung der Grund, sondern es muss eine Person gestoppt werden, welche die Fähigkeit besitzt, die Zeit zu manipulieren.",
       "trailer": "https://www.youtube.com/watch?v=jfEQ0BdeQJQ",
-      "available": 434,
+      "available": 438,
       "reserved": 58,
       "bookable": true
     },
@@ -1758,24 +1693,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
       "cinemaName": "b-ware-openair-fmp",
       "cinemaShortName": "fmp",
-      "id": "fmp-2394835154",
-      "title": "NEW ORDER – DIE NEUE WELTORDNUNG - FILM PREVIEW (subtitled OV)",
-      "date": "Sa., 31.7.",
-      "timestamp": 1627689600000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2394835154?layout=shows",
-      "img": "https://media.kinoheld.de/SW9yYj5664XaZfh1rUXniSIBO8I=/400x560/images%2Ffilm%2Fnew-order-die-neue-weltordnung-19296.v1.jpg",
-      "description": "Eine verschwenderische Hochzeit der Oberschicht gerät während eines unerwarteten Aufstands des Klassenkampfes aus den Fugen, der in einen gewaltsamen Staatsstreich mündet. Aus der Sicht der sympathischen jungen Braut und der Diener, die für und gegen ihre reiche Familie arbeiten, zeichnet der Film den Zusammenbruch eines politischen Systems nach, während in seinem Gefolge ein noch erschreckenderer Ersatz entsteht.",
-      "trailer": "https://www.youtube.com/watch?v=4-XZCNRbOlw",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "1657",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
-      "cinemaName": "b-ware-openair-fmp",
-      "cinemaShortName": "fmp",
       "id": "fmp-2414219013",
       "title": "DER MAURETANIER (subtitled OV / en)",
       "date": "Mo., 2.8.,",
@@ -1889,7 +1806,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2414227910?layout=shows",
       "img": "https://media.kinoheld.de/R8VDXSPvszmiJwKj83Io0hLKCVY=/400x560/images%2Ffilm%2Fmo%2F3013-36027.v2.jpg",
       "description": "Ein Sex-Tape gelangt ins Internet und geht dort viral. Es zeigt eine Frau und einen Mann, die beide Masken tragen, beim Geschlechtsakt. Doch die Frau in dem Video lässt sich als Emi (Katia Pascariu) identifizieren - eine Lehrerin.\r\n\r\nEmis Ruf und Karriere geraten in Bedrängnis, als die Eltern ihrer Schüler ihren augenblicklichen Rücktritt fordern. Doch die Lehrerin weigert sich, dem öffentlichen Druck nachzugeben, nur weil die anderen ihre Vorbild-Funktion anzweifeln.\r\n\r\nVorurteile, Heuchelei und Chauvinismus prallen in Folge dessen aufeinander, als immer mehr Verschwörungstheorien die Runde machen und ein Streit über den gesellschaftlichen Umgang mit pornografischen Inhalten entbrennt.",
-      "trailer": "https://youtu.be/MKJ-nXADsVk",
+      "trailer": "https://youtu.be/8AEgcTSMSOY",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -2627,24 +2544,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
       "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
       "cinemaShortName": "pompeji ostkreuz",
-      "id": "pompeji ostkreuz-2400436116",
-      "title": "JOJO RABBIT (subtitled OV German)",
-      "date": "Sa., 31.7.",
-      "timestamp": 1627689600000,
-      "time": "21:15",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2400436116?layout=shows",
-      "img": "https://media.kinoheld.de/EiedjS96Z6GvZVTvCfi_H8gnVq4=/400x560/images%2Ffilm%2Fjojo-rabbit-15227.v166.jpg",
-      "description": "Jojo Rabbit handelt von einem kleinen Jungen, der während des Zweiten Weltkriegs lebt. Er kann der rauen Wirklichkeit nur durch seinen imaginären Freund entkommen, eine ethnisch ungenaue Version von Adolf Hitler, der die naiven patriotischen Überzeugungen des kleinen Jungen vorantreibt. Das ändert sich jedoch alles, als ein junges Mädchen diese Ansichten hinterfragt und Jojo dazu bringt, sich seinen eigenen Problemen zu stellen.",
-      "trailer": "https://youtu.be/tL4McUzXfFI",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "2153",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-      "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-      "cinemaShortName": "pompeji ostkreuz",
       "id": "pompeji ostkreuz-2400436131",
       "title": "THE BLUES BROTHERS - EXTENDED VERSION (OV)",
       "date": "So., 1.8.,",
@@ -3147,21 +3046,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/mobile-kino-berlin/shows/movies",
       "cinemaName": "mobile-kino-berlin",
       "cinemaShortName": "mobile kino",
-      "id": "mobile kino-2400572792",
-      "title": "CHRISTIANE F. – WIR KINDER VOM BAHNHOF ZOO (subtitled OV English)",
-      "date": "Sa., 31.7.",
-      "timestamp": 1627689600000,
-      "time": "21:15",
-      "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2400572792?layout=shows",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "3033",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/mobile-kino-berlin/shows/movies",
-      "cinemaName": "mobile-kino-berlin",
-      "cinemaShortName": "mobile kino",
       "id": "mobile kino-2400927478",
       "title": "2021 SUNDANCE SHORT FILMS (subtitled OV English)",
       "date": "Mo., 2.8.,",
@@ -3323,21 +3207,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/mobile-kino-berlin/shows/movies",
       "cinemaName": "mobile-kino-berlin",
       "cinemaShortName": "mobile kino",
-      "id": "mobile kino-2415386307",
-      "title": "NOTES OF BERLIN (subtitled OV English)",
-      "date": "Fr., 13.8.",
-      "timestamp": 1628812800000,
-      "time": "20:45",
-      "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2415386307?layout=shows",
-      "available": 141,
-      "reserved": 4,
-      "bookable": true
-    },
-    {
-      "cinemaId": "3033",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/mobile-kino-berlin/shows/movies",
-      "cinemaName": "mobile-kino-berlin",
-      "cinemaShortName": "mobile kino",
       "id": "mobile kino-2415332563",
       "title": "200 METER (subtitled OV German)",
       "date": "Fr., 13.8.",
@@ -3346,6 +3215,21 @@
       "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2415332563?layout=shows",
       "available": 75,
       "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "3033",
+      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/mobile-kino-berlin/shows/movies",
+      "cinemaName": "mobile-kino-berlin",
+      "cinemaShortName": "mobile kino",
+      "id": "mobile kino-2415386307",
+      "title": "NOTES OF BERLIN (subtitled OV English)",
+      "date": "Fr., 13.8.",
+      "timestamp": 1628812800000,
+      "time": "20:45",
+      "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2415386307?layout=shows",
+      "available": 141,
+      "reserved": 4,
       "bookable": true
     },
     {
@@ -3558,8 +3442,8 @@
       "time": "21:15",
       "date": "So., 1.8.,",
       "timestamp": 1627852500000,
-      "available": 204,
-      "reserved": 256,
+      "available": 203,
+      "reserved": 257,
       "bookable": true
     },
     {
@@ -3593,8 +3477,8 @@
       "time": "21:15",
       "date": "Di., 3.8.,",
       "timestamp": 1628025300000,
-      "available": 150,
-      "reserved": 310,
+      "available": 149,
+      "reserved": 311,
       "bookable": true
     },
     {
@@ -3611,9 +3495,9 @@
       "time": "21:15",
       "date": "Mi., 4.8.,",
       "timestamp": 1628111700000,
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 8,
+      "reserved": 452,
+      "bookable": true
     },
     {
       "title": "Das Ding aus einer anderen Welt (OmU)",
@@ -3682,8 +3566,8 @@
       "time": "21:15",
       "date": "So., 8.8.,",
       "timestamp": 1628457300000,
-      "available": 382,
-      "reserved": 78,
+      "available": 380,
+      "reserved": 80,
       "bookable": true
     },
     {
@@ -3771,8 +3655,8 @@
       "time": "21:15",
       "date": "So., 8.8.,",
       "timestamp": 1628457300000,
-      "available": 382,
-      "reserved": 78,
+      "available": 380,
+      "reserved": 80,
       "bookable": true
     },
     {
@@ -3789,8 +3673,8 @@
       "time": "21:15",
       "date": "So., 1.8.,",
       "timestamp": 1627852500000,
-      "available": 204,
-      "reserved": 256,
+      "available": 203,
+      "reserved": 257,
       "bookable": true
     },
     {
@@ -3825,9 +3709,9 @@
       "time": "21:15",
       "date": "Mi., 4.8.,",
       "timestamp": 1628111700000,
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 8,
+      "reserved": 452,
+      "bookable": true
     },
     {
       "title": "ARTE | Grusel, Glaube & Genie: Gotik!",
@@ -3879,8 +3763,8 @@
       "time": "21:15",
       "date": "Di., 3.8.,",
       "timestamp": 1628025300000,
-      "available": 150,
-      "reserved": 310,
+      "available": 149,
+      "reserved": 311,
       "bookable": true
     },
     {
@@ -4095,8 +3979,8 @@
       "time": "21:00",
       "date": "Di., 10.8.",
       "timestamp": 1628629200000,
-      "available": 440,
-      "reserved": 59,
+      "available": 438,
+      "reserved": 61,
       "bookable": true
     },
     {
@@ -4131,8 +4015,8 @@
       "time": "21:00",
       "date": "Di., 10.8.",
       "timestamp": 1628629200000,
-      "available": 440,
-      "reserved": 59,
+      "available": 438,
+      "reserved": 61,
       "bookable": true
     },
     {
