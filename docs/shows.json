@@ -31,8 +31,8 @@
     "date": "So., 1.8.,",
     "timestamp": 1627851600000,
     "time": "21:00",
-    "available": 676,
-    "reserved": 402,
+    "available": 653,
+    "reserved": 425,
     "bookable": true
   },
   "fhain-725": {
@@ -136,8 +136,8 @@
     "date": "Di., 10.8.",
     "timestamp": 1628629200000,
     "time": "21:00",
-    "available": 1048,
-    "reserved": 30,
+    "available": 1044,
+    "reserved": 34,
     "bookable": true
   },
   "fhain-727": {
@@ -172,8 +172,8 @@
     "date": "Mi., 11.8.",
     "timestamp": 1628715600000,
     "time": "21:00",
-    "available": 1048,
-    "reserved": 30,
+    "available": 1046,
+    "reserved": 32,
     "bookable": true
   },
   "fhain-721": {
@@ -225,8 +225,8 @@
     "date": "Fr., 13.8.",
     "timestamp": 1628888400000,
     "time": "21:00",
-    "available": 1023,
-    "reserved": 55,
+    "available": 1028,
+    "reserved": 50,
     "bookable": true
   },
   "fhain-719": {
@@ -296,8 +296,8 @@
     "date": "Sa., 14.8.",
     "timestamp": 1628974800000,
     "time": "21:00",
-    "available": 951,
-    "reserved": 127,
+    "available": 946,
+    "reserved": 132,
     "bookable": true
   },
   "fhain-667": {
@@ -381,8 +381,8 @@
     "date": "Di., 3.8.,",
     "timestamp": 1628024400000,
     "time": "21:00",
-    "available": 565,
-    "reserved": 128,
+    "available": 561,
+    "reserved": 132,
     "bookable": true
   },
   "xberg-653": {
@@ -399,8 +399,8 @@
     "date": "So., 1.8.,",
     "timestamp": 1627851600000,
     "time": "21:00",
-    "available": 466,
-    "reserved": 227,
+    "available": 456,
+    "reserved": 237,
     "bookable": true
   },
   "xberg-657": {
@@ -435,8 +435,8 @@
     "date": "Mo., 2.8.,",
     "timestamp": 1627938000000,
     "time": "21:00",
-    "available": 643,
-    "reserved": 50,
+    "available": 639,
+    "reserved": 54,
     "bookable": true
   },
   "xberg-650": {
@@ -453,8 +453,8 @@
     "date": "Sa., 7.8.,",
     "timestamp": 1628370000000,
     "time": "21:00",
-    "available": 615,
-    "reserved": 78,
+    "available": 613,
+    "reserved": 80,
     "bookable": true
   },
   "xberg-659": {
@@ -542,8 +542,8 @@
     "date": "Fr., 6.8.,",
     "timestamp": 1628283600000,
     "time": "21:00",
-    "available": 591,
-    "reserved": 102,
+    "available": 589,
+    "reserved": 104,
     "bookable": true
   },
   "xberg-662": {
@@ -594,8 +594,8 @@
     "date": "Fr., 13.8.",
     "timestamp": 1628889300000,
     "time": "21:15",
-    "available": 675,
-    "reserved": 18,
+    "available": 673,
+    "reserved": 20,
     "bookable": true
   },
   "xberg-667": {
@@ -612,8 +612,8 @@
     "date": "Mo., 16.8.",
     "timestamp": 1629148500000,
     "time": "21:15",
-    "available": 632,
-    "reserved": 61,
+    "available": 626,
+    "reserved": 67,
     "bookable": true
   },
   "xberg-663": {
@@ -681,8 +681,8 @@
     "date": "Mo., 2.8.,",
     "timestamp": 1627938000000,
     "time": "21:00",
-    "available": 512,
-    "reserved": 61,
+    "available": 510,
+    "reserved": 63,
     "bookable": true
   },
   "rehberge-654": {
@@ -717,8 +717,8 @@
     "date": "So., 1.8.,",
     "timestamp": 1627851600000,
     "time": "21:00",
-    "available": 477,
-    "reserved": 96,
+    "available": 468,
+    "reserved": 105,
     "bookable": true
   },
   "rehberge-640": {
@@ -753,8 +753,8 @@
     "date": "Fr., 6.8.,",
     "timestamp": 1628283600000,
     "time": "21:00",
-    "available": 496,
-    "reserved": 77,
+    "available": 492,
+    "reserved": 81,
     "bookable": true
   },
   "rehberge-658": {
@@ -917,6 +917,7 @@
     "bookable": true
   },
   "rehberge-623": {
+    "trailer": "https://www.youtube-nocookie.com/embed/pSexZTf_o9M?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
     "description": "Wir freuen uns mit CINELIVE ein ganz besonderes Highlight präsentieren zu können. CINELIVE ist eine Bundesweite Tournee u.a. in Köln, Hamburg und München die bei uns in Berlin am 22.8. Station macht ! Eine 100 Minuten Show mit ausgewählten internationalen und prämierten Kurzfilmen auf der Leinwand und auf der Bühne die CineLive Band, der Spoken Words/Poetry Slam Artisten David Weber sowie ein Sonderbeitrag vom Greenpeace Botschafter und Naturfotograf Markus Mauthe. Eine spannend und überraschend inszenierte Live Show rund um Kurzfilme, Poetry Slam, Live Mukke und Reisejournalismus.",
     "cinemaId": "rb_freiluftkino",
     "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
@@ -946,8 +947,8 @@
     "date": "Fr., 20.8.",
     "timestamp": 1629489600000,
     "time": "20:00",
-    "available": 195,
-    "reserved": 260,
+    "available": 193,
+    "reserved": 262,
     "bookable": true
   },
   "rehberge-643": {
@@ -980,8 +981,8 @@
     "date": "Do., 2.9.,",
     "timestamp": 1630614600000,
     "time": "20:30",
-    "available": 570,
-    "reserved": 3,
+    "available": 569,
+    "reserved": 4,
     "bookable": true
   },
   "rehberge-644": {
@@ -1255,8 +1256,8 @@
     "img": "https://media.kinoheld.de/nGB5qJCKE-9-pQTApf34z8UlpHg=/400x560/images%2Ffilm%2Fjudas-and-the-black-messiah-19127.v11.jpg",
     "description": "In den späten 1960er Jahren wird der 17-jährige Kleinkriminelle William O'Neal in Chicago verhaftet, nachdem er versucht hat, ein Auto zu entführen, während er sich als Bundesbeamter ausgab. Er wird von FBI-Spezialagent Roy Mitchell angesprochen, der anbietet, O'Neals Anklage fallen zu lassen, wenn er undercover für das FBI arbeitet. O'Neal wird beauftragt, die Illinois-Sektion der Black Panther Party und ihren Anführer Fred Hampton zu infiltrieren. O'Neal beginnt, sich Hampton anzunähern, der daran arbeitet, Allianzen mit rivalisierenden Gangs und Milizgruppen zu bilden, während er die Gemeinde durch das „Free Breakfast for Children“-Programm der Black Panther unterstützt. Als der Parteivorsitzende Fred Hampton aufsteigt und sich unterwegs in die Mitrevolutionärin Deborah Johnson verliebt, entbrennt ein Kampf um O'Neals Seele.",
     "trailer": "https://www.youtube.com/watch?v=yNE70wMLTCc",
-    "available": 473,
-    "reserved": 51,
+    "available": 453,
+    "reserved": 56,
     "bookable": true
   },
   "hasenheide-691728": {
@@ -1356,7 +1357,7 @@
     "img": "https://media.kinoheld.de/6Qu2TJ0HehGLKgwa4dBGTKappvI=/400x560/images%2Ffilm%2Ftenet-16731.v2.png",
     "description": "Ein Agent wird rekrutiert, um einen besonderen Auftrag auszuführen: Er soll den 3. Weltkrieg verhindern. Diesmal ist jedoch keine nukleare Bedrohung der Grund, sondern es muss eine Person gestoppt werden, welche die Fähigkeit besitzt, die Zeit zu manipulieren.",
     "trailer": "https://www.youtube.com/watch?v=jfEQ0BdeQJQ",
-    "available": 428,
+    "available": 434,
     "reserved": 61,
     "bookable": true
   },
@@ -1446,8 +1447,8 @@
     "timestamp": 1628812800000,
     "time": "20:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/692893?layout=shows",
-    "available": 533,
-    "reserved": 40,
+    "available": 520,
+    "reserved": 43,
     "bookable": true
   },
   "hasenheide-692896": {
@@ -2629,6 +2630,24 @@
     "reserved": 0,
     "bookable": true
   },
+  "pompeji ostkreuz-2416109811": {
+    "cinemaId": "2153",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
+    "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
+    "cinemaShortName": "pompeji ostkreuz",
+    "id": "pompeji ostkreuz-2416109811",
+    "title": "FUTUR DREI (subtitled OV English)",
+    "date": "Fr., 6.8.,",
+    "timestamp": 1628208000000,
+    "time": "23:30",
+    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2416109811?layout=shows",
+    "img": "https://media.kinoheld.de/05Q9g3CzGjSrED-jm-g0dVl1LNs=/400x560/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v209.jpg",
+    "description": "Parvis wächst als Kind der Millenial-Generation im komfortablen Wohlstand seiner Iranischen Einwanderer-Eltern auf. Dem Provinzleben in Hildesheim versucht er sich durch Popkultur, Grindr-Dates und Raves zu entziehen. Nach einem Ladendiebstahl leistet er Sozialstunden als Übersetzer in einer Unterkunft für Geflüchtete. Dort trifft er auf das iranische Geschwisterpaar Banafshe und Amon. Zwischen ihnen entwickelt sich eine fragile Dreierbeziehung, die zunehmend von dem Bewusstsein geprägt ist, dass ihre Zukunft in Deutschland ungleich ist.",
+    "trailer": "https://www.youtube.com/watch?v=DitVsuZ66fQ",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
   "pompeji ostkreuz-2408798870": {
     "cinemaId": "2153",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
@@ -2643,6 +2662,24 @@
     "img": "https://media.kinoheld.de/PnAEkP5wBimLWhkdEqAVF1D935s=/400x560/images%2Ffilm%2Feine-frau-mit-berauschenden-talenten-17113.v1237.jpg",
     "description": "Patience ist selbstbewusst, unabhängig und vor allem schlagfertig. Als Dolmetscherin im Drogendezernat übersetzt sie abgehörte Telefonate der Drogenszene und ist dafür massiv unterbezahlt. Als das kostspielige Pflegeheim ihrer Mutter wegen unbezahlter Rechnungen droht, die alte Dame auszuquartieren, gerät Patience unter Handlungsdruck. Der Zufall will es, dass gerade eine Drogenlieferung auf dem Weg nach Paris ist. Patience entscheidet sich spontan gegen die Ehrlichkeit und sabotiert die Beschlagnahmung der Drogen. In Eigenregie fahndet sie nach dem hochwertigen Hasch - und wird fündig. Patience macht sich sofort fröhlich ans Werk und zeigt sich von ihrer besten Seite: als begnadete Verkäuferin mischt sie den Pariser Drogenmarkt maximal auf. Sie ist die neue Drogen-Autorität der Stadt und für die Polizei ein Phantom. Doch die Drogendiva muss sich sputen, denn ausgerechnet ihr Verehrer Philippe, Leiter des Drogendezernats, hat einen Verdacht, wer hinter dem Phantom wirklich steckt ...",
     "trailer": "https://www.youtube.com/watch?v=Nw27GQLIaiM",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
+  "pompeji ostkreuz-2416109845": {
+    "cinemaId": "2153",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
+    "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
+    "cinemaShortName": "pompeji ostkreuz",
+    "id": "pompeji ostkreuz-2416109845",
+    "title": "FUTUR DREI (subtitled OV German)",
+    "date": "Sa., 7.8.,",
+    "timestamp": 1628294400000,
+    "time": "23:30",
+    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2416109845?layout=shows",
+    "img": "https://media.kinoheld.de/05Q9g3CzGjSrED-jm-g0dVl1LNs=/400x560/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v209.jpg",
+    "description": "Parvis wächst als Kind der Millenial-Generation im komfortablen Wohlstand seiner Iranischen Einwanderer-Eltern auf. Dem Provinzleben in Hildesheim versucht er sich durch Popkultur, Grindr-Dates und Raves zu entziehen. Nach einem Ladendiebstahl leistet er Sozialstunden als Übersetzer in einer Unterkunft für Geflüchtete. Dort trifft er auf das iranische Geschwisterpaar Banafshe und Amon. Zwischen ihnen entwickelt sich eine fragile Dreierbeziehung, die zunehmend von dem Bewusstsein geprägt ist, dass ihre Zukunft in Deutschland ungleich ist.",
+    "trailer": "https://www.youtube.com/watch?v=DitVsuZ66fQ",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2753,6 +2790,24 @@
     "reserved": 0,
     "bookable": true
   },
+  "pompeji ostkreuz-2416110789": {
+    "cinemaId": "2153",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
+    "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
+    "cinemaShortName": "pompeji ostkreuz",
+    "id": "pompeji ostkreuz-2416110789",
+    "title": "MATTHIAS & MAXIME (subtitled OV English)",
+    "date": "Fr., 13.8.",
+    "timestamp": 1628812800000,
+    "time": "23:30",
+    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2416110789?layout=shows",
+    "img": "https://media.kinoheld.de/VJ575z3Wugek2Jcv3PLs2shT8AY=/400x560/images%2Ffilm%2Fmatthias-maxime-17408.v5.jpg",
+    "description": "Matthias und Maxime sind schon seit ihrer Kindheit beste Freunde und können sich gar nicht vorstellen, plötzlich getrennte Wege zu gehen. Doch das Erwachsenwerden bedeutet Veränderung und so zieht es Maxime für längere Zeit nach Australien. In den Tagen vor seiner Abreise ziehen die beiden im Kreis ihrer Freunde von einer Party zur nächsten. Als eine ihrer Freundinnen, eine Filmstudentin, für ihren neuesten Kurzfilm noch zwei Schauspieler sucht, werden Matthias und Maxime kurzerhand und nicht ganz gegen ihren Willen engagiert. Der Knackpunkt des Ganzen? Die beiden Freunde müssen sich vor der Kamera küssen und dies bringt plötzlich alles ins Wanken. Ungeahnte und unterdrückte Gefühle erwachen, die die beiden vor Entscheidungen und Herausforderungen stellen, die unüberwindbar scheinen. Denn während Matthias sich krampfhaft gegen seine Gefühle zu wehren versucht, wächst in Maxime mehr und mehr der Wunsch, Matthias noch näher zu kommen, bevor sie der Ozean endgültig trennt. Gibt es für die beiden doch noch ein Happy End?",
+    "trailer": "https://youtu.be/BJ-5OujmDEw",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
   "pompeji ostkreuz-2408814173": {
     "cinemaId": "2153",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
@@ -2767,6 +2822,24 @@
     "img": "https://media.kinoheld.de/rW9yv3hhNT-Qn8fyb9OFqAAnyvQ=/400x560/images%2Ffilm%2Fmo%2F2413-39057.v2.jpg",
     "description": "Basierend auf der zeitlosen Artuslegende erzählt David Lowery (A GHOST STORY) in THE GREEN KNIGHT die abenteuerliche Geschichte des tollkühnen Sir Gawain (Dev Patel), Ritter der Tafelrunde. Um sich vor seiner Familie, seinem Volk und letztlich auch sich selbst zu beweisen, begibt sich der Neffe König Artus auf die Reise seines Lebens mit dem Ziel, sich der ultimativen Herausforderung zu stellen: dem sagenhaften Grünen Ritter, einem gigantischen, smaragdgrünhäutigen Fremden und Prüfer der Menschen. THE GREEN KNIGHT ist eine fantastische Geschichte über Ehre, Liebe, Schicksal und die Suche nach sich selbst, bildgewaltig und poetisch inszeniert von Visionär David Lowery. Ein elegischer Fantasy-Film aus dem Hause A24, bekannt für herausragende und eigenwillige Filme wie \"The Killing of a Sacred Deer\", \"Der Leuchtturm\", \"Hereditary\", \"Midsommar\", \"Schwarze Diamanten\" und \"Minari\". // FILMKRITIK: \"Ein Ausnahmefilm, ein moderner und psychedelischer Trip in die Welt der Ritter der Tafelrunde; das Porträt eines jungen Mannes, der nicht über seinen Schatten springen kann, an den Erwartungen scheitert, mit seinen Makeln und Ängsten hadert; ein psychedelischer EXCALIBUR im Schneckentempo, aber mit einem rauschhaften Sog.\" -- (Blickpunkt: Film)",
     "trailer": "https://www.youtube.com/watch?v=sS6ksY8xWCY",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
+  "pompeji ostkreuz-2416110797": {
+    "cinemaId": "2153",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
+    "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
+    "cinemaShortName": "pompeji ostkreuz",
+    "id": "pompeji ostkreuz-2416110797",
+    "title": "DER RAUSCH (subtitled OV German)",
+    "date": "Sa., 14.8.",
+    "timestamp": 1628899200000,
+    "time": "23:30",
+    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2416110797?layout=shows",
+    "img": "https://media.kinoheld.de/eJvIBrJel8NPGnsF1VZgQlnXnT4=/400x560/images%2Ffilm%2Fmo%2F2413-35931.v3.jpg",
+    "description": "Früher war Martin Lehrer aus Leidenschaft – heute sind nicht nur die Schüler von seinem fehlenden Enthusiasmus gelangweilt, auch in Martins Ehe ist die Luft raus. Seinen drei Freunden, die am selben Gymnasium unterrichten, geht es nicht viel besser. Bei einer angeheiterten Geburtstagsrunde diskutieren sie die Theorie eines norwegischen Philosophen: Nach dieser ist ein Mensch nur mit einem erhöhten Alkoholgehalt im Blut zu Bestleistungen fähig. Solch eine gewagte These muss überprüft werden. Die vier beschließen den Selbsttest zu machen und während der Arbeit einen bestimmten Pegel zu halten. Soll nicht sogar Churchill den Zweiten Weltkrieg in einem Alkoholrausch gewonnen haben? Mit neuem Antrieb stürzen sie sich in ihre geheime wissenschaftliche Studie. Die Wirkung lässt nicht lange auf sich warten. Das dänische Dream-Team endlich wieder vereint: In der berührenden Tragikomödie um einen hochprozentigen Selbstversuch lässt Regisseur Thomas Vinterberg (DAS FEST, DIE JAGD) seinen Ausnahmestar Mads Mikkelsen auf der Suche nach Erfüllung und Lebensfreude zu berauschter Höchstform auflaufen. DER RAUSCH begeisterte nicht nur auf den Internationalen Filmfestivals von Cannes, Toronto und San Sebastián, sondern wurde auch zum Besten europäischen Film des Jahres 2020 gekürt und gewann den Oscar® 2021 als Bester internationaler Film.",
+    "trailer": "https://youtu.be/bj8Jmz_srDg",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2879,6 +2952,24 @@
     "reserved": 0,
     "bookable": true
   },
+  "pompeji ostkreuz-2416112266": {
+    "cinemaId": "2153",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
+    "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
+    "cinemaShortName": "pompeji ostkreuz",
+    "id": "pompeji ostkreuz-2416112266",
+    "title": "DEMON SLAYER - THE MOVIE: MUGEN TRAIN (subtitled OV German)",
+    "date": "Fr., 20.8.",
+    "timestamp": 1629417600000,
+    "time": "23:00",
+    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2416112266?layout=shows",
+    "img": "https://media.kinoheld.de/2IWv3e4boQobmoZ16tKHHU0vzUk=/400x560/images%2Ffilm%2Fdemon-slayer-kimetsu-no-yaiba-mugen-train-18801.v27.jpg",
+    "description": "Der Kinofilm zur gleichnamigen Anime-Serie ist der erfolgreichste Anime aller Zeiten, mit aktuellem Stand führt er mit großem Abstand vor den bisherigen Spitzenreitern CHIHIROS REISE INS ZAUBERLAND (2001) von Hayao Miyazaki und YOUR NAME (2016) von Makoto Shinkai. Eine Sensation, wenn man bedenkt, dass gerade einmal ein Jahr seit dem Start in Japan vergangen ist und der Film einfach die direkte Fortsetzung der Serie, also eher eine überlange Episode ist. Doch anbetracht der Tatsache, dass die Serie zu den besten im japanischen Anime-Universum gehört und die Hauptfiguren überhaus sympathisch sind, dürfen sich alle Anime-Fans auf ein schönes Kinoabenteuer freuen. Es kann nicht schaden, zuvor schnell die Serie zu schauen. Oder hinterher.",
+    "trailer": "https://youtu.be/bBaKrECITsg",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
   "pompeji ostkreuz-2408816086": {
     "cinemaId": "2153",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
@@ -2893,6 +2984,24 @@
     "img": "https://media.kinoheld.de/GwZHiD65bCVb3mxAuT7jVcFqH9M=/400x560/images%2Ffilm%2Fnomadland-18288.v2.png",
     "description": "Nach dem wirtschaftlichen Zusammenbruch einer Stadt im ländlichen Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren weißen Van und macht sich auf den Weg, um als moderne Nomadin im Westen der USA ein Leben außerhalb der konventionellen Gesellschaft zu erkunden. PREISE: Goldener Löwe 2020 Bester Film Internationale Filmfestspiele von Venedig ++ Academy Awards 2021 - 3 Oscars: Bester Film - Beste Regie - Beste Hauptdarstellerin ++ Über 200 weitere internationale Film- und Festivalpreise.",
     "trailer": "https://www.youtube.com/watch?v=iEcIDpnv3qQ",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
+  "pompeji ostkreuz-2416112274": {
+    "cinemaId": "2153",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
+    "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
+    "cinemaShortName": "pompeji ostkreuz",
+    "id": "pompeji ostkreuz-2416112274",
+    "title": "DEMON SLAYER - THE MOVIE: MUGEN TRAIN (subtitled OV German)",
+    "date": "Sa., 21.8.",
+    "timestamp": 1629504000000,
+    "time": "23:00",
+    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2416112274?layout=shows",
+    "img": "https://media.kinoheld.de/2IWv3e4boQobmoZ16tKHHU0vzUk=/400x560/images%2Ffilm%2Fdemon-slayer-kimetsu-no-yaiba-mugen-train-18801.v27.jpg",
+    "description": "Der Kinofilm zur gleichnamigen Anime-Serie ist der erfolgreichste Anime aller Zeiten, mit aktuellem Stand führt er mit großem Abstand vor den bisherigen Spitzenreitern CHIHIROS REISE INS ZAUBERLAND (2001) von Hayao Miyazaki und YOUR NAME (2016) von Makoto Shinkai. Eine Sensation, wenn man bedenkt, dass gerade einmal ein Jahr seit dem Start in Japan vergangen ist und der Film einfach die direkte Fortsetzung der Serie, also eher eine überlange Episode ist. Doch anbetracht der Tatsache, dass die Serie zu den besten im japanischen Anime-Universum gehört und die Hauptfiguren überhaus sympathisch sind, dürfen sich alle Anime-Fans auf ein schönes Kinoabenteuer freuen. Es kann nicht schaden, zuvor schnell die Serie zu schauen. Oder hinterher.",
+    "trailer": "https://youtu.be/bBaKrECITsg",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2969,6 +3078,114 @@
     "reserved": 0,
     "bookable": true
   },
+  "pompeji ostkreuz-2416117750": {
+    "cinemaId": "2153",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
+    "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
+    "cinemaShortName": "pompeji ostkreuz",
+    "id": "pompeji ostkreuz-2416117750",
+    "title": "MATTHIAS & MAXIME (subtitled OV English)",
+    "date": "Do., 26.8.",
+    "timestamp": 1629936000000,
+    "time": "20:30",
+    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2416117750?layout=shows",
+    "img": "https://media.kinoheld.de/VJ575z3Wugek2Jcv3PLs2shT8AY=/400x560/images%2Ffilm%2Fmatthias-maxime-17408.v5.jpg",
+    "description": "Matthias und Maxime sind schon seit ihrer Kindheit beste Freunde und können sich gar nicht vorstellen, plötzlich getrennte Wege zu gehen. Doch das Erwachsenwerden bedeutet Veränderung und so zieht es Maxime für längere Zeit nach Australien. In den Tagen vor seiner Abreise ziehen die beiden im Kreis ihrer Freunde von einer Party zur nächsten. Als eine ihrer Freundinnen, eine Filmstudentin, für ihren neuesten Kurzfilm noch zwei Schauspieler sucht, werden Matthias und Maxime kurzerhand und nicht ganz gegen ihren Willen engagiert. Der Knackpunkt des Ganzen? Die beiden Freunde müssen sich vor der Kamera küssen und dies bringt plötzlich alles ins Wanken. Ungeahnte und unterdrückte Gefühle erwachen, die die beiden vor Entscheidungen und Herausforderungen stellen, die unüberwindbar scheinen. Denn während Matthias sich krampfhaft gegen seine Gefühle zu wehren versucht, wächst in Maxime mehr und mehr der Wunsch, Matthias noch näher zu kommen, bevor sie der Ozean endgültig trennt. Gibt es für die beiden doch noch ein Happy End?",
+    "trailer": "https://youtu.be/BJ-5OujmDEw",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
+  "pompeji ostkreuz-2416117767": {
+    "cinemaId": "2153",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
+    "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
+    "cinemaShortName": "pompeji ostkreuz",
+    "id": "pompeji ostkreuz-2416117767",
+    "title": "DER RAUSCH (subtitled OV English)",
+    "date": "Fr., 27.8.",
+    "timestamp": 1630022400000,
+    "time": "20:30",
+    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2416117767?layout=shows",
+    "img": "https://media.kinoheld.de/eJvIBrJel8NPGnsF1VZgQlnXnT4=/400x560/images%2Ffilm%2Fmo%2F2413-35931.v3.jpg",
+    "description": "Früher war Martin Lehrer aus Leidenschaft – heute sind nicht nur die Schüler von seinem fehlenden Enthusiasmus gelangweilt, auch in Martins Ehe ist die Luft raus. Seinen drei Freunden, die am selben Gymnasium unterrichten, geht es nicht viel besser. Bei einer angeheiterten Geburtstagsrunde diskutieren sie die Theorie eines norwegischen Philosophen: Nach dieser ist ein Mensch nur mit einem erhöhten Alkoholgehalt im Blut zu Bestleistungen fähig. Solch eine gewagte These muss überprüft werden. Die vier beschließen den Selbsttest zu machen und während der Arbeit einen bestimmten Pegel zu halten. Soll nicht sogar Churchill den Zweiten Weltkrieg in einem Alkoholrausch gewonnen haben? Mit neuem Antrieb stürzen sie sich in ihre geheime wissenschaftliche Studie. Die Wirkung lässt nicht lange auf sich warten. Das dänische Dream-Team endlich wieder vereint: In der berührenden Tragikomödie um einen hochprozentigen Selbstversuch lässt Regisseur Thomas Vinterberg (DAS FEST, DIE JAGD) seinen Ausnahmestar Mads Mikkelsen auf der Suche nach Erfüllung und Lebensfreude zu berauschter Höchstform auflaufen. DER RAUSCH begeisterte nicht nur auf den Internationalen Filmfestivals von Cannes, Toronto und San Sebastián, sondern wurde auch zum Besten europäischen Film des Jahres 2020 gekürt und gewann den Oscar® 2021 als Bester internationaler Film.",
+    "trailer": "https://youtu.be/bj8Jmz_srDg",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
+  "pompeji ostkreuz-2416117775": {
+    "cinemaId": "2153",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
+    "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
+    "cinemaShortName": "pompeji ostkreuz",
+    "id": "pompeji ostkreuz-2416117775",
+    "title": "FUTUR DREI (subtitled OV English)",
+    "date": "Fr., 27.8.",
+    "timestamp": 1630022400000,
+    "time": "23:00",
+    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2416117775?layout=shows",
+    "img": "https://media.kinoheld.de/05Q9g3CzGjSrED-jm-g0dVl1LNs=/400x560/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v209.jpg",
+    "description": "Parvis wächst als Kind der Millenial-Generation im komfortablen Wohlstand seiner Iranischen Einwanderer-Eltern auf. Dem Provinzleben in Hildesheim versucht er sich durch Popkultur, Grindr-Dates und Raves zu entziehen. Nach einem Ladendiebstahl leistet er Sozialstunden als Übersetzer in einer Unterkunft für Geflüchtete. Dort trifft er auf das iranische Geschwisterpaar Banafshe und Amon. Zwischen ihnen entwickelt sich eine fragile Dreierbeziehung, die zunehmend von dem Bewusstsein geprägt ist, dass ihre Zukunft in Deutschland ungleich ist.",
+    "trailer": "https://www.youtube.com/watch?v=DitVsuZ66fQ",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
+  "pompeji ostkreuz-2416117783": {
+    "cinemaId": "2153",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
+    "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
+    "cinemaShortName": "pompeji ostkreuz",
+    "id": "pompeji ostkreuz-2416117783",
+    "title": "JOJO RABBIT (subtitled OV German)",
+    "date": "Sa., 28.8.",
+    "timestamp": 1630108800000,
+    "time": "20:30",
+    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2416117783?layout=shows",
+    "img": "https://media.kinoheld.de/EiedjS96Z6GvZVTvCfi_H8gnVq4=/400x560/images%2Ffilm%2Fjojo-rabbit-15227.v166.jpg",
+    "description": "Jojo Rabbit handelt von einem kleinen Jungen, der während des Zweiten Weltkriegs lebt. Er kann der rauen Wirklichkeit nur durch seinen imaginären Freund entkommen, eine ethnisch ungenaue Version von Adolf Hitler, der die naiven patriotischen Überzeugungen des kleinen Jungen vorantreibt. Das ändert sich jedoch alles, als ein junges Mädchen diese Ansichten hinterfragt und Jojo dazu bringt, sich seinen eigenen Problemen zu stellen.",
+    "trailer": "https://youtu.be/tL4McUzXfFI",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
+  "pompeji ostkreuz-2416117791": {
+    "cinemaId": "2153",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
+    "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
+    "cinemaShortName": "pompeji ostkreuz",
+    "id": "pompeji ostkreuz-2416117791",
+    "title": "JOJO RABBIT (subtitled OV German)",
+    "date": "Sa., 28.8.",
+    "timestamp": 1630108800000,
+    "time": "22:45",
+    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2416117791?layout=shows",
+    "img": "https://media.kinoheld.de/EiedjS96Z6GvZVTvCfi_H8gnVq4=/400x560/images%2Ffilm%2Fjojo-rabbit-15227.v166.jpg",
+    "description": "Jojo Rabbit handelt von einem kleinen Jungen, der während des Zweiten Weltkriegs lebt. Er kann der rauen Wirklichkeit nur durch seinen imaginären Freund entkommen, eine ethnisch ungenaue Version von Adolf Hitler, der die naiven patriotischen Überzeugungen des kleinen Jungen vorantreibt. Das ändert sich jedoch alles, als ein junges Mädchen diese Ansichten hinterfragt und Jojo dazu bringt, sich seinen eigenen Problemen zu stellen.",
+    "trailer": "https://youtu.be/tL4McUzXfFI",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
+  "pompeji ostkreuz-2416117799": {
+    "cinemaId": "2153",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
+    "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
+    "cinemaShortName": "pompeji ostkreuz",
+    "id": "pompeji ostkreuz-2416117799",
+    "title": "KOKON (subtitled OV English)",
+    "date": "Mi., 1.9.,",
+    "timestamp": 1630454400000,
+    "time": "20:30",
+    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2416117799?layout=shows",
+    "img": "https://media.kinoheld.de/JWstSS_2p_wtuRhaPukBvVbvUmA=/400x560/images%2Ffilm%2Fmo%2F2413-29415.v2.jpg",
+    "description": "Jahrhundertsommer in Berlin-Kreuzberg. Im multikulturellen Mikrokosmos rund um das Kottbusser Tor bahnt sich die 14-jährige Nora ihren Weg durchs Erwachsenwerden. Während die Hitze auf ihrer Haut klebt, bekommt sie zum ersten Mal die Periode, entdeckt ihre Liebe für andere Mädchen und lernt die wilde Romy kennen. Mit ihr wirkt die Welt plötzlich endlos groß und voller verborgener Schönheit, der Park wird zum Dschungel, das Freibad zum Meer. Nora lernt, zu sich zu stehen und traut sich endlich Wege abseits der Clique ihrer älteren Schwester Jule zu gehen. Doch wie kann Nora ihren Blick für all diese Schönheit bewahren, nachdem ihr zum ersten Mal das Herz gebrochen wurde?",
+    "trailer": "https://youtu.be/31_ZH8_4nVs",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
   "pompeji ostkreuz-2413858187": {
     "cinemaId": "2153",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
@@ -3030,8 +3247,8 @@
     "timestamp": 1627862400000,
     "time": "21:15",
     "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2400927478?layout=shows",
-    "available": 45,
-    "reserved": 63,
+    "available": 42,
+    "reserved": 66,
     "bookable": true
   },
   "mobile kino-2386737079": {
@@ -3352,7 +3569,7 @@
     "img": "https://media.kinoheld.de/zAa01K_Wc_Ukkdd7ewI4AB9r1Q8=/400x560/images%2Ffilm%2Fder-rausch-18282.v16.jpg",
     "description": "Früher war Martin Lehrer aus Leidenschaft – heute sind nicht nur die Schüler von seinem fehlenden Enthusiasmus gelangweilt, auch in Martins Ehe ist die Luft raus. Seinen drei Freunden, die am selben Gymnasium unterrichten, geht es nicht viel besser. Bei einer angeheiterten Geburtstagsrunde diskutieren sie die Theorie eines norwegischen Philosophen: Nach dieser ist ein Mensch nur mit einem erhöhten Alkoholgehalt im Blut zu Bestleistungen fähig. Solch eine gewagte These muss überprüft werden. Die vier beschließen den Selbsttest zu machen und während der Arbeit einen bestimmten Pegel zu halten. Soll nicht sogar Churchill den Zweiten Weltkrieg in einem Alkoholrausch gewonnen haben? Mit neuem Antrieb stürzen sie sich in ihre geheime wissenschaftliche Studie. Die Wirkung lässt nicht lange auf sich warten …",
     "trailer": "https://www.youtube.com/watch?v=b2z6M24yq2Y",
-    "available": 102,
+    "available": 104,
     "reserved": 4,
     "bookable": true
   },
@@ -3418,8 +3635,8 @@
     "time": "21:15",
     "date": "So., 1.8.,",
     "timestamp": 1627852500000,
-    "available": 178,
-    "reserved": 282,
+    "available": 172,
+    "reserved": 288,
     "bookable": true
   },
   "kulturforum-285": {
@@ -3435,8 +3652,8 @@
     "time": "21:15",
     "date": "Mo., 2.8.,",
     "timestamp": 1627938900000,
-    "available": 260,
-    "reserved": 200,
+    "available": 261,
+    "reserved": 199,
     "bookable": true
   },
   "kulturforum-291": {
@@ -3453,8 +3670,8 @@
     "time": "21:15",
     "date": "Di., 3.8.,",
     "timestamp": 1628025300000,
-    "available": 141,
-    "reserved": 319,
+    "available": 133,
+    "reserved": 327,
     "bookable": true
   },
   "kulturforum-286": {
@@ -3471,9 +3688,9 @@
     "time": "21:15",
     "date": "Mi., 4.8.,",
     "timestamp": 1628111700000,
-    "available": 0,
-    "reserved": 0,
-    "bookable": false
+    "available": 8,
+    "reserved": 452,
+    "bookable": true
   },
   "kulturforum-292": {
     "title": "Das Ding aus einer anderen Welt (OmU)",
@@ -3507,8 +3724,8 @@
     "time": "21:15",
     "date": "Fr., 6.8.,",
     "timestamp": 1628284500000,
-    "available": 410,
-    "reserved": 50,
+    "available": 408,
+    "reserved": 52,
     "bookable": true
   },
   "kulturforum-288": {
@@ -3525,8 +3742,8 @@
     "time": "21:15",
     "date": "Sa., 7.8.,",
     "timestamp": 1628370900000,
-    "available": 359,
-    "reserved": 101,
+    "available": 356,
+    "reserved": 104,
     "bookable": true
   },
   "kulturforum-289": {
@@ -3542,8 +3759,8 @@
     "time": "21:15",
     "date": "So., 8.8.,",
     "timestamp": 1628457300000,
-    "available": 375,
-    "reserved": 85,
+    "available": 373,
+    "reserved": 87,
     "bookable": true
   },
   "kulturforum-290": {
@@ -3578,8 +3795,8 @@
     "time": "21:00",
     "date": "Di., 10.8.",
     "timestamp": 1628629200000,
-    "available": 103,
-    "reserved": 357,
+    "available": 102,
+    "reserved": 358,
     "bookable": true
   },
   "kulturforum-293": {
@@ -3614,8 +3831,8 @@
     "time": "21:15",
     "date": "So., 1.8.,",
     "timestamp": 1627852500000,
-    "available": 363,
-    "reserved": 136,
+    "available": 357,
+    "reserved": 142,
     "bookable": true
   },
   "schloss-charlottenburg-63": {
