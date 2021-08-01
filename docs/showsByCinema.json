@@ -32,8 +32,8 @@
       "date": "So., 1.8.,",
       "timestamp": 1627851600000,
       "time": "21:00",
-      "available": 751,
-      "reserved": 327,
+      "available": 743,
+      "reserved": 335,
       "bookable": true
     },
     {
@@ -173,8 +173,8 @@
       "date": "Mi., 11.8.",
       "timestamp": 1628715600000,
       "time": "21:00",
-      "available": 1050,
-      "reserved": 28,
+      "available": 1048,
+      "reserved": 30,
       "bookable": true
     },
     {
@@ -208,8 +208,8 @@
       "date": "Do., 12.8.",
       "timestamp": 1628802000000,
       "time": "21:00",
-      "available": 1036,
-      "reserved": 42,
+      "available": 1034,
+      "reserved": 44,
       "bookable": true
     },
     {
@@ -314,8 +314,8 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628960400000,
       "time": "17:00",
-      "available": 480,
-      "reserved": 513,
+      "available": 478,
+      "reserved": 515,
       "bookable": true
     },
     {
@@ -384,8 +384,8 @@
       "date": "Di., 3.8.,",
       "timestamp": 1628024400000,
       "time": "21:00",
-      "available": 574,
-      "reserved": 119,
+      "available": 573,
+      "reserved": 120,
       "bookable": true
     },
     {
@@ -722,8 +722,8 @@
       "date": "So., 1.8.,",
       "timestamp": 1627851600000,
       "time": "21:00",
-      "available": 493,
-      "reserved": 80,
+      "available": 491,
+      "reserved": 82,
       "bookable": true
     },
     {
@@ -740,8 +740,8 @@
       "date": "Do., 5.8.,",
       "timestamp": 1628197200000,
       "time": "21:00",
-      "available": 491,
-      "reserved": 82,
+      "available": 483,
+      "reserved": 90,
       "bookable": true
     },
     {
@@ -1216,8 +1216,8 @@
       "img": "https://media.kinoheld.de/DbWHTKT3neGjvULOXqsnipemH2A=/400x560/images%2Ffilm%2Fminari-18286.v2.png",
       "description": "Jacob beschließt, mit seiner koreanisch-amerikanischen Familie von Los Angeles nach Arkansas zu ziehen, um als Farmer sein Glück zu versuchen. Seine Frau Monica und die Kinder David und Anne fühlen sich jedoch fremd in der neuen Heimat, und das fragile Familienleben wird zusätzlich auf die Probe gestellt, als die schlagfertige und liebevolle Großmutter Soonja von Südkorea zu ihnen auf die Farm zieht.",
       "trailer": "https://www.youtube.com/watch?v=suCHYHMrO9Q",
-      "available": 17,
-      "reserved": 190,
+      "available": 16,
+      "reserved": 191,
       "bookable": true
     },
     {
@@ -3460,8 +3460,8 @@
       "time": "21:15",
       "date": "Mo., 2.8.,",
       "timestamp": 1627938900000,
-      "available": 275,
-      "reserved": 185,
+      "available": 272,
+      "reserved": 188,
       "bookable": true
     },
     {
@@ -3478,8 +3478,8 @@
       "time": "21:15",
       "date": "Di., 3.8.,",
       "timestamp": 1628025300000,
-      "available": 148,
-      "reserved": 312,
+      "available": 144,
+      "reserved": 316,
       "bookable": true
     },
     {
@@ -3496,9 +3496,9 @@
       "time": "21:15",
       "date": "Mi., 4.8.,",
       "timestamp": 1628111700000,
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 8,
+      "reserved": 452,
+      "bookable": true
     },
     {
       "title": "Das Ding aus einer anderen Welt (OmU)",
@@ -3710,9 +3710,9 @@
       "time": "21:15",
       "date": "Mi., 4.8.,",
       "timestamp": 1628111700000,
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 8,
+      "reserved": 452,
+      "bookable": true
     },
     {
       "title": "ARTE | Grusel, Glaube & Genie: Gotik!",
@@ -3764,8 +3764,8 @@
       "time": "21:15",
       "date": "Di., 3.8.,",
       "timestamp": 1628025300000,
-      "available": 148,
-      "reserved": 312,
+      "available": 144,
+      "reserved": 316,
       "bookable": true
     },
     {
@@ -3799,8 +3799,8 @@
       "time": "21:15",
       "date": "Mo., 2.8.,",
       "timestamp": 1627938900000,
-      "available": 275,
-      "reserved": 185,
+      "available": 272,
+      "reserved": 188,
       "bookable": true
     },
     {
@@ -3855,8 +3855,8 @@
       "time": "21:15",
       "date": "Mo., 2.8.,",
       "timestamp": 1627938900000,
-      "available": 371,
-      "reserved": 128,
+      "available": 370,
+      "reserved": 129,
       "bookable": true
     },
     {
@@ -4159,8 +4159,8 @@
       "time": "21:15",
       "date": "Mo., 2.8.,",
       "timestamp": 1627938900000,
-      "available": 371,
-      "reserved": 128,
+      "available": 370,
+      "reserved": 129,
       "bookable": true
     },
     {
