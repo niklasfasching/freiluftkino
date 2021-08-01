@@ -14,8 +14,8 @@
       "date": "Mi., 4.8.,",
       "timestamp": 1628110800000,
       "time": "21:00",
-      "available": 976,
-      "reserved": 102,
+      "available": 974,
+      "reserved": 104,
       "bookable": true
     },
     {
@@ -31,8 +31,8 @@
       "date": "Di., 3.8.,",
       "timestamp": 1628024400000,
       "time": "21:00",
-      "available": 919,
-      "reserved": 159,
+      "available": 916,
+      "reserved": 162,
       "bookable": true
     },
     {
@@ -48,8 +48,8 @@
       "date": "Mo., 2.8.,",
       "timestamp": 1627938000000,
       "time": "21:00",
-      "available": 900,
-      "reserved": 178,
+      "available": 897,
+      "reserved": 181,
       "bookable": true
     },
     {
@@ -101,8 +101,8 @@
       "date": "Fr., 6.8.,",
       "timestamp": 1628283600000,
       "time": "21:00",
-      "available": 868,
-      "reserved": 210,
+      "available": 861,
+      "reserved": 217,
       "bookable": true
     },
     {
@@ -190,8 +190,8 @@
       "date": "Do., 12.8.",
       "timestamp": 1628802000000,
       "time": "21:00",
-      "available": 1029,
-      "reserved": 49,
+      "available": 1027,
+      "reserved": 51,
       "bookable": true
     },
     {
@@ -208,8 +208,8 @@
       "date": "Fr., 13.8.",
       "timestamp": 1628888400000,
       "time": "21:00",
-      "available": 1024,
-      "reserved": 54,
+      "available": 1022,
+      "reserved": 56,
       "bookable": true
     },
     {
@@ -225,8 +225,8 @@
       "date": "So., 15.8.",
       "timestamp": 1629043200000,
       "time": "16:00",
-      "available": 859,
-      "reserved": 219,
+      "available": 855,
+      "reserved": 223,
       "bookable": true
     },
     {
@@ -366,8 +366,8 @@
       "date": "Di., 3.8.,",
       "timestamp": 1628024400000,
       "time": "21:00",
-      "available": 541,
-      "reserved": 152,
+      "available": 537,
+      "reserved": 156,
       "bookable": true
     },
     {
@@ -402,8 +402,8 @@
       "date": "Mo., 2.8.,",
       "timestamp": 1627938000000,
       "time": "21:00",
-      "available": 611,
-      "reserved": 82,
+      "available": 605,
+      "reserved": 88,
       "bookable": true
     },
     {
@@ -491,8 +491,8 @@
       "date": "Do., 5.8.,",
       "timestamp": 1628193600000,
       "time": "20:00",
-      "available": 580,
-      "reserved": 113,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -509,8 +509,8 @@
       "date": "Fr., 6.8.,",
       "timestamp": 1628283600000,
       "time": "21:00",
-      "available": 578,
-      "reserved": 115,
+      "available": 576,
+      "reserved": 117,
       "bookable": true
     },
     {
@@ -543,7 +543,7 @@
       "date": "So., 15.8.",
       "timestamp": 1629061200000,
       "time": "21:00",
-      "available": 693,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -561,8 +561,8 @@
       "date": "Fr., 13.8.",
       "timestamp": 1628889300000,
       "time": "21:15",
-      "available": 673,
-      "reserved": 20,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -597,8 +597,8 @@
       "date": "Do., 12.8.",
       "timestamp": 1628802900000,
       "time": "21:15",
-      "available": 463,
-      "reserved": 230,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -650,8 +650,8 @@
       "date": "Mo., 2.8.,",
       "timestamp": 1627938000000,
       "time": "21:00",
-      "available": 479,
-      "reserved": 94,
+      "available": 477,
+      "reserved": 96,
       "bookable": true
     },
     {
@@ -985,7 +985,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/filmrauschpalast/show/2410947390?layout=shows",
       "img": "https://media.kinoheld.de/PyYvEPhzQTl-brqy6Qo1VsAMuBU=/400x560/images%2Ffilm%2F4%2Fheil-1729.v2.jpg",
       "description": "„Heil“ ist eine kreischend komische Liebeskomödie und bitterböse Gesellschaftssatire, in der alle durch den Kakao gezogen werden. Die alten rechtsradikalen Schläger und die neuen, sich harmlos gebenden „Nipster“. Die liberalen Intellektuellen mit ihren Denkverboten. Die Antifa mit ihren Schwarzweiß-Feindbildern. Der Verfassungsschutz mit seinem grotesken Bürokratie-Wirrwarr. Der Kulturbetrieb mit seinem prätentiösen Kunst-Blabla. Und nicht zuletzt die Medienöffentlichkeit, die süchtig ist nach Erregung und sich ihre eigene Wirklichkeit schafft. Rasant und rasend zugleich inszeniert, ist „Heil“ eine schrille Farce über die Lage der Nation, der nichts heilig ist.",
-      "available": 85,
+      "available": 81,
       "reserved": 0,
       "bookable": true
     },
@@ -1002,7 +1002,6 @@
       "url": "https://www.kinoheld.de/cinema-berlin/filmrauschpalast/show/2410947596?layout=shows",
       "img": "https://media.kinoheld.de/-bSeZVIs4JQ8iPdztZWMGF09QK0=/400x560/images%2Ffilm%2Fmo%2F1863-39389.v2.jpg",
       "description": "Die Studentinnen Otilia und Gabita teilen ein Zimmer im Wohnheim einer kleinen Stadt in Rumänien. Das kommunistische Regime unter Ceausescu liegt in den letzten Zügen. Der Alltag ist für die Menschen täglich eine neue Herausforderung, schon das Anmieten eines Zimmers in einem Hotel ein schwieriges Unterfangen. In einem Hotelzimmer erwarten die beiden Freundinnen einen gewissen Mr. Bebe. Gabita ist schwanger, Abtreibung in Rumänien illegal - und die jungen Frauen, die keine Ahnung haben, was in einer solchen Situation zu tun ist, schlittern in ein Fiasko. \r\n\r\nDer beeindruckende Film war 2007 nicht nur in Cannes, beim wichtigsten Filmfestival der Welt, der Überraschungserfolg. Weltweit wurde er auf verschiedenen Festivals ausgezeichnet und sowohl von der Kritik, als auch vom Publikum gefeiert. Dem grandiosen Spiel der jungen Darstellerinnen, denen die Kamera stets nah ist, ohne ihnen zu nahe zu treten, kann sich der Zuschauer nicht entziehen. Ein Film voll schmerzhafter Intensität, der sich ins Gedächtnis brennt. \r\n\r\nGoldenen Palme, Cannes 2007. Europäischer Filmpreis 2007.",
-      "trailer": "https://youtu.be/MKJ-nXADsVk",
       "available": 85,
       "reserved": 0,
       "bookable": true
@@ -1164,7 +1163,7 @@
       "description": "Jacob beschließt, mit seiner koreanisch-amerikanischen Familie von Los Angeles nach Arkansas zu ziehen, um als Farmer sein Glück zu versuchen. Seine Frau Monica und die Kinder David und Anne fühlen sich jedoch fremd in der neuen Heimat, und das fragile Familienleben wird zusätzlich auf die Probe gestellt, als die schlagfertige und liebevolle Großmutter Soonja von Südkorea zu ihnen auf die Farm zieht.",
       "trailer": "https://www.youtube.com/watch?v=suCHYHMrO9Q",
       "available": 0,
-      "reserved": 205,
+      "reserved": 0,
       "bookable": false
     },
     {
@@ -1211,8 +1210,8 @@
       "img": "https://media.kinoheld.de/nGB5qJCKE-9-pQTApf34z8UlpHg=/400x560/images%2Ffilm%2Fjudas-and-the-black-messiah-19127.v11.jpg",
       "description": "In den späten 1960er Jahren wird der 17-jährige Kleinkriminelle William O'Neal in Chicago verhaftet, nachdem er versucht hat, ein Auto zu entführen, während er sich als Bundesbeamter ausgab. Er wird von FBI-Spezialagent Roy Mitchell angesprochen, der anbietet, O'Neals Anklage fallen zu lassen, wenn er undercover für das FBI arbeitet. O'Neal wird beauftragt, die Illinois-Sektion der Black Panther Party und ihren Anführer Fred Hampton zu infiltrieren. O'Neal beginnt, sich Hampton anzunähern, der daran arbeitet, Allianzen mit rivalisierenden Gangs und Milizgruppen zu bilden, während er die Gemeinde durch das „Free Breakfast for Children“-Programm der Black Panther unterstützt. Als der Parteivorsitzende Fred Hampton aufsteigt und sich unterwegs in die Mitrevolutionärin Deborah Johnson verliebt, entbrennt ein Kampf um O'Neals Seele.",
       "trailer": "https://www.youtube.com/watch?v=yNE70wMLTCc",
-      "available": 413,
-      "reserved": 69,
+      "available": 407,
+      "reserved": 71,
       "bookable": true
     },
     {
@@ -1260,7 +1259,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/692210?layout=shows",
       "img": "https://media.kinoheld.de/oO1mnhwCgLFA2jiJXg5aKuZEIBE=/400x560/images%2Ffilm%2F4%2Fb-movie-lust-sound-in-west-berlin-1979-1989-1581.v15.jpg",
       "description": "Eine Dokumentation über Musik, Kunst & Chaos im wilden West-Berlin der 80er Jahre. Bevor der eiserne Vorhang fiel, war die eingemauerte Stadt ein kreativer Schmelztiegel für Sub- und Popkultur. Von Punk bis zur Love Parade - erzählt mit authentischen Zeitdokumenten aus unzähligen Archiven.",
-      "trailer": "https://youtu.be/MKJ-nXADsVk",
+      "trailer": "https://www.youtube.com/watch?v=caKiHdaVwhM",
       "available": 400,
       "reserved": 63,
       "bookable": true
@@ -1312,8 +1311,8 @@
       "img": "https://media.kinoheld.de/6Qu2TJ0HehGLKgwa4dBGTKappvI=/400x560/images%2Ffilm%2Ftenet-16731.v2.png",
       "description": "Ein Agent wird rekrutiert, um einen besonderen Auftrag auszuführen: Er soll den 3. Weltkrieg verhindern. Diesmal ist jedoch keine nukleare Bedrohung der Grund, sondern es muss eine Person gestoppt werden, welche die Fähigkeit besitzt, die Zeit zu manipulieren.",
       "trailer": "https://www.youtube.com/watch?v=jfEQ0BdeQJQ",
-      "available": 394,
-      "reserved": 73,
+      "available": 387,
+      "reserved": 76,
       "bookable": true
     },
     {
@@ -1411,8 +1410,8 @@
       "img": "https://media.kinoheld.de/zAa01K_Wc_Ukkdd7ewI4AB9r1Q8=/400x560/images%2Ffilm%2Fder-rausch-18282.v16.jpg",
       "description": "Früher war Martin Lehrer aus Leidenschaft – heute sind nicht nur die Schüler von seinem fehlenden Enthusiasmus gelangweilt, auch in Martins Ehe ist die Luft raus. Seinen drei Freunden, die am selben Gymnasium unterrichten, geht es nicht viel besser. Bei einer angeheiterten Geburtstagsrunde diskutieren sie die Theorie eines norwegischen Philosophen: Nach dieser ist ein Mensch nur mit einem erhöhten Alkoholgehalt im Blut zu Bestleistungen fähig. Solch eine gewagte These muss überprüft werden. Die vier beschließen den Selbsttest zu machen und während der Arbeit einen bestimmten Pegel zu halten. Soll nicht sogar Churchill den Zweiten Weltkrieg in einem Alkoholrausch gewonnen haben? Mit neuem Antrieb stürzen sie sich in ihre geheime wissenschaftliche Studie. Die Wirkung lässt nicht lange auf sich warten …",
       "trailer": "https://www.youtube.com/watch?v=b2z6M24yq2Y",
-      "available": 686,
-      "reserved": 0,
+      "available": 672,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -1645,7 +1644,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/693063?layout=shows",
       "img": "https://media.kinoheld.de/QiJV4p0CSSVLICzaS0OVKVlHjnM=/400x560/images%2Ffilm%2Fonce-upon-a-time-in-hollywood-13423.v112.jpg",
       "description": "Quentin Tarantinos \"Once Upon a Time... in Hollywood\" spielt im Los Angeles von 1969, zu einer Zeit, als alles im Umbruch ist. Auch TV-Star Rick Dalton (Leonardo DiCaprio) und sein langjähriges Stunt-Double Cliff Booth (Brad Pitt) müssen sich in einer Branche zurechtfinden, die sie kaum mehr wiedererkennen. (Quelle: Verleih)",
-      "trailer": "https://youtu.be/MKJ-nXADsVk",
+      "trailer": "https://www.youtube.com/watch?v=-zwy4-W7qBA",
       "available": 686,
       "reserved": 0,
       "bookable": true
@@ -1848,7 +1847,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-insel-im-cassiopeia/show/2412412931?layout=shows",
       "img": "https://media.kinoheld.de/oO1mnhwCgLFA2jiJXg5aKuZEIBE=/400x560/images%2Ffilm%2F4%2Fb-movie-lust-sound-in-west-berlin-1979-1989-1581.v15.jpg",
       "description": "Eine Dokumentation über Musik, Kunst & Chaos im wilden West-Berlin der 80er Jahre. Bevor der eiserne Vorhang fiel, war die eingemauerte Stadt ein kreativer Schmelztiegel für Sub- und Popkultur. Von Punk bis zur Love Parade - erzählt mit authentischen Zeitdokumenten aus unzähligen Archiven.",
-      "trailer": "https://youtu.be/MKJ-nXADsVk",
+      "trailer": "https://www.youtube.com/watch?v=caKiHdaVwhM",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -1989,7 +1988,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2414227883?layout=shows",
       "img": "https://media.kinoheld.de/05Q9g3CzGjSrED-jm-g0dVl1LNs=/400x560/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v209.jpg",
       "description": "Parvis wächst als Kind der Millenial-Generation im komfortablen Wohlstand seiner Iranischen Einwanderer-Eltern auf. Dem Provinzleben in Hildesheim versucht er sich durch Popkultur, Grindr-Dates und Raves zu entziehen. Nach einem Ladendiebstahl leistet er Sozialstunden als Übersetzer in einer Unterkunft für Geflüchtete. Dort trifft er auf das iranische Geschwisterpaar Banafshe und Amon. Zwischen ihnen entwickelt sich eine fragile Dreierbeziehung, die zunehmend von dem Bewusstsein geprägt ist, dass ihre Zukunft in Deutschland ungleich ist.",
-      "trailer": "https://youtu.be/MKJ-nXADsVk",
+      "trailer": "https://www.youtube.com/watch?v=DitVsuZ66fQ",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -2192,7 +2191,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2414249665?layout=shows",
       "img": "https://media.kinoheld.de/05Q9g3CzGjSrED-jm-g0dVl1LNs=/400x560/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v209.jpg",
       "description": "Parvis wächst als Kind der Millenial-Generation im komfortablen Wohlstand seiner Iranischen Einwanderer-Eltern auf. Dem Provinzleben in Hildesheim versucht er sich durch Popkultur, Grindr-Dates und Raves zu entziehen. Nach einem Ladendiebstahl leistet er Sozialstunden als Übersetzer in einer Unterkunft für Geflüchtete. Dort trifft er auf das iranische Geschwisterpaar Banafshe und Amon. Zwischen ihnen entwickelt sich eine fragile Dreierbeziehung, die zunehmend von dem Bewusstsein geprägt ist, dass ihre Zukunft in Deutschland ungleich ist.",
-      "trailer": "https://youtu.be/MKJ-nXADsVk",
+      "trailer": "https://www.youtube.com/watch?v=DitVsuZ66fQ",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -2260,7 +2259,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2394922880?layout=shows",
       "img": "https://media.kinoheld.de/S4qyzQmlpKzdz_5kv6436ixaA8o=/400x560/images%2Ffilm%2Fyung-in-anwesenheit-des-regisseurs-14831.v1.jpg",
       "description": "Vier junge und selbstbewusste Frauen aus Berlin feiern das Leben und ihre Jugend als endlose Party quer durch die angesagten Spots der Szene und dem Underground der Metropole. Da ist die noch nicht ganz volljährige Janaina, die sich mit Sex vor der Webcam ein kleines Extra-Taschengeld verdient, und ihre beste Freundin Emi. Die 18-Jährige erlebt den Rausch ihres Lebens und realisiert zunächst nicht, dass sie immer tiefer in die Abhängigkeit rutscht. Und während Dealerin Joy toxische Illusionen verkauft, träumt sie von der großen Liebe, die süße 16-jährige Abbie indes würde am liebsten eher heute als morgen nach Los Angeles abhauen. (vf)",
-      "trailer": "https://youtu.be/MKJ-nXADsVk",
+      "trailer": "https://www.youtube.com/watch?v=lLF1sPjBJug",
       "available": 0,
       "reserved": 0,
       "bookable": false
@@ -2293,7 +2292,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2394922928?layout=shows",
       "img": "https://media.kinoheld.de/kYStEhPmGfaEZFCEJgfHXxwlOxU=/400x560/images%2Ffilm%2Fleon-der-profi-wa-2019-14361.v11.jpg",
       "description": "Léon verdient sein Geld als Auftragskiller der Italo-Mafia in den Straßen von New York. Er lebt zurückgezogen und pflegt außer zu seinem Boss Tony einzig zu seiner Topfpflanze ein freundschaftliches Verhältnis. Als die Familie seiner Nachbarstochter Mathilda von DEA-Polizisten brutal getötet wird, flüchtet sie zu Léon. Um sich an den Mördern ihres kleinen Bruders zu rächen, lässt sich Mathilda das grausame Handwerk eines Profi-Killers von Léon beibringen. (Quelle: Verleih)",
-      "trailer": "https://youtu.be/MKJ-nXADsVk",
+      "trailer": "https://www.youtube.com/watch?v=aNQqoExfQsg",
       "available": 27,
       "reserved": 30,
       "bookable": true
@@ -2577,7 +2576,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2395946999?layout=shows",
       "img": "https://media.kinoheld.de/_HbVw5li6wQXl0aOAwIOYvWGAiA=/400x560/images%2Ffilm%2Fkopfplatzen-16435.v50.jpg",
       "description": "Markus ist 29, Single und als Architekt beruflich angekommen. Niemand in seiner Familie und seinem Arbeitsumfeld weiß, dass er pädosexuell ist. Körper von kleinen Jungs erregen ihn. Er hasst sich dafür und kämpft jeden Tag gegen sein Verlangen an. Als die alleinerziehende Mutter Jessica mit ihrem achtjährigen Sohn Arthur in die Nachbarswohnung einzieht, verliebt sie sich in den hilfsbereiten Markus. Der kleine Arthur mag es, wenn Markus auf ihn aufpasst, und sieht in ihm eine Vaterfigur. Doch Markus ahnt, dass er sein Verlangen auf Dauer nicht unter Kontrolle haben wird. Er kämpft darum, den lauter werdenden Rufen in seinem Kopf zu widerstehen.",
-      "trailer": "https://youtu.be/MKJ-nXADsVk",
+      "trailer": "https://www.youtube.com/watch?v=d5p84z2BFMA",
       "available": 70,
       "reserved": 0,
       "bookable": true
@@ -2631,7 +2630,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2395947075?layout=shows",
       "img": "https://media.kinoheld.de/-dECS7O8QGHfULltY8QrE2JoGXk=/400x560/images%2Ffilm%2Fjoker-14395.v15.jpg",
       "description": "Gotham City im Jahr 1981: Der mental instabile Arthur Fleck führt wahrlich nicht das Leben, von dem man träumt: Vollgepumpt mit Medikamenten geht er seiner Arbeit als kostümierter Werbeschildträger nach und wird nicht selten das Ziel von Spott und Attacken. Abends zieht es ihn in sein heruntergekommenes Apartment, wo er sich um seine kranke Mutter kümmern muss. Gemeinsam hoffen sie auf ein besseres Leben, das Arthur als Stand-Up-Komiker realisieren will. Als plötzlich die Förderung für seine psychologische Betreuung gestrichen wird, nimmt das Unheil seinen Lauf. Die Schusswaffe eines Kollegen, die Suche nach seinem echten Vater und plötzlicher Ruhm sorgen dafür, dass der einstmals harmlose Exzentriker die ganze Stadt in Angst und Schrecken versetzt...",
-      "trailer": "https://youtu.be/MKJ-nXADsVk",
+      "trailer": "https://www.youtube.com/watch?v=ZWHQqgvBhGA",
       "available": 64,
       "reserved": 3,
       "bookable": true
@@ -2649,7 +2648,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2395948010?layout=shows",
       "img": "https://media.kinoheld.de/gWHnvjm92FrIL05XZCerlxTDocw=/400x560/images%2Ffilm%2Fbelle-de-jour-schoene-des-tages-6840.v1.jpg",
       "description": "Severine, die mit ihrem Mann Pierre nicht intim werden kann, kompensiert ihre sexuelle Frustration mit masochistischen Phantasien. Die Neugier treibt sie in ein Bordell, wo sie - ohne das Pierre etwas ahnt - als \"Schöne des Tages\" das dritte Mädchen wird, das für Madame Anaïs arbeitet. Indem sie die Bedürfnisse ihrer Kunden befriedigt, scheint sie zugleich ihren inneren Frieden gefunden zu haben. Doch das Arrangement kippt als Marcel, ein leicht aufbrausender Stammkunde, darauf besteht Severine für sich alleine zu haben.",
-      "trailer": "https://youtu.be/MKJ-nXADsVk",
+      "trailer": "https://www.youtube.com/watch?v=1DtvynHArYo",
       "available": 70,
       "reserved": 0,
       "bookable": true
@@ -2790,9 +2789,9 @@
       "img": "https://media.kinoheld.de/KND6G7EnJuDd28j68W40I2Ux_4A=/400x560/images%2Ffilm%2Fmo%2F2413-28063.v3.jpg",
       "description": "40 JAHRE BLUES BROTHERS ++ 40th Anniversary: The Extended Version ++ Wiederaufführung des Klassikers von 1980 ++ Elwood: There's 106 miles to Chicago, we've got a full tank of gas, half a pack of cigarettes, it's dark out, and we're wearing sunglasses. -- Joliet Jake: Hit it!",
       "trailer": "https://youtu.be/2HCR4c1zPyk",
-      "available": -1,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "2153",
@@ -3882,24 +3881,6 @@
   ],
   "sommerkino-kulturforum": [
     {
-      "title": "Der Spion (OmU)",
-      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60d9b084614440053dd99a45/show_9VZAoWP36eWuIt6D3SHszhyAPAy.jpg",
-      "description": "Während des Kalten Kriegs: Oleg Penkowski  ist ehemaliger Geheimdienstoffizier der Sowjetunion und hat noch immer Kontakte in den Kreml, weshalb er nun die westlichen Geheimdienste mit Informationen versorgt. Angesichts der zunehmenden Eskalation des Konflikts mit den USA und der impulsiven Natur von KPdSU-Parteichef Nikita Khrushchev fürchtet Penkowski einen drohenden Krieg und beschließt zu handeln. Er kontaktiert im Geheimen die amerikanische Botschaft in Moskau. CIA-Agentin Emily Donovan holt schließlich auch den britischen MI6 an Bord, denn sie hat einen Plan: Der unauffällige und harmlose Vertreter Greville Wynne soll nichtsahnend mit Penkowski Kontakt aufnehmen. Nach und nach freunden sich die beiden Männer bei gegenseitigen Besuchen in Moskau und London an, doch die westlichen Geheimagenten spannen Wynne auch immer mehr in ihre Ränkespiele ein..",
-      "trailer": "https://www.youtube.com/watch?v=uLZg8RBpH8E&ab_channel=KinoCheck",
-      "cinemaId": "54eefd0b683138488b190000",
-      "cinemaUrl": "https://yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-284",
-      "url": "https://yorck.de/checkout/step01?showid=284&siteid=1015",
-      "time": "21:15",
-      "date": "So., 1.8.,",
-      "timestamp": 1627852500000,
-      "available": 193,
-      "reserved": 267,
-      "bookable": true
-    },
-    {
       "title": "Promising Young Woman (OmU)",
       "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/5e46811869f5b5468b8d22e8/show_PYWPOS_Poster_S.jpg",
       "description": "Cassandra (Carey Mulligan) nimmt Rache an den übergriffigen Männern, die das Pech haben, ihren Weg zu kreuzen. Bissiger, knallpinker Rachethriller von  Emerald Fennell (Killing Eve).",
@@ -3912,8 +3893,8 @@
       "time": "21:15",
       "date": "Mo., 2.8.,",
       "timestamp": 1627938900000,
-      "available": 231,
-      "reserved": 229,
+      "available": 225,
+      "reserved": 235,
       "bookable": true
     },
     {
@@ -3930,8 +3911,8 @@
       "time": "21:15",
       "date": "Di., 3.8.,",
       "timestamp": 1628025300000,
-      "available": 120,
-      "reserved": 340,
+      "available": 118,
+      "reserved": 342,
       "bookable": true
     },
     {
@@ -3948,9 +3929,9 @@
       "time": "21:15",
       "date": "Mi., 4.8.,",
       "timestamp": 1628111700000,
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 7,
+      "reserved": 453,
+      "bookable": true
     },
     {
       "title": "Das Ding aus einer anderen Welt (OmU)",
@@ -3966,8 +3947,8 @@
       "time": "21:15",
       "date": "Do., 5.8.,",
       "timestamp": 1628198100000,
-      "available": 401,
-      "reserved": 59,
+      "available": 399,
+      "reserved": 61,
       "bookable": true
     },
     {
@@ -3984,8 +3965,8 @@
       "time": "21:15",
       "date": "Fr., 6.8.,",
       "timestamp": 1628284500000,
-      "available": 406,
-      "reserved": 54,
+      "available": 404,
+      "reserved": 56,
       "bookable": true
     },
     {
@@ -4002,8 +3983,8 @@
       "time": "21:15",
       "date": "Sa., 7.8.,",
       "timestamp": 1628370900000,
-      "available": 343,
-      "reserved": 117,
+      "available": 339,
+      "reserved": 121,
       "bookable": true
     },
     {
@@ -4037,8 +4018,8 @@
       "time": "21:15",
       "date": "Mo., 9.8.,",
       "timestamp": 1628543700000,
-      "available": 409,
-      "reserved": 51,
+      "available": 406,
+      "reserved": 54,
       "bookable": true
     },
     {
@@ -4073,8 +4054,8 @@
       "time": "21:00",
       "date": "Mi., 11.8.",
       "timestamp": 1628715600000,
-      "available": 239,
-      "reserved": 221,
+      "available": 237,
+      "reserved": 223,
       "bookable": true
     },
     {
@@ -4091,8 +4072,8 @@
       "time": "21:15",
       "date": "Mo., 9.8.,",
       "timestamp": 1628543700000,
-      "available": 409,
-      "reserved": 51,
+      "available": 406,
+      "reserved": 54,
       "bookable": true
     },
     {
@@ -4113,24 +4094,6 @@
       "bookable": true
     },
     {
-      "title": "Der Spion (OmU)",
-      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60d9b084614440053dd99a45/show_9VZAoWP36eWuIt6D3SHszhyAPAy.jpg",
-      "description": "Während des Kalten Kriegs: Oleg Penkowski  ist ehemaliger Geheimdienstoffizier der Sowjetunion und hat noch immer Kontakte in den Kreml, weshalb er nun die westlichen Geheimdienste mit Informationen versorgt. Angesichts der zunehmenden Eskalation des Konflikts mit den USA und der impulsiven Natur von KPdSU-Parteichef Nikita Khrushchev fürchtet Penkowski einen drohenden Krieg und beschließt zu handeln. Er kontaktiert im Geheimen die amerikanische Botschaft in Moskau. CIA-Agentin Emily Donovan holt schließlich auch den britischen MI6 an Bord, denn sie hat einen Plan: Der unauffällige und harmlose Vertreter Greville Wynne soll nichtsahnend mit Penkowski Kontakt aufnehmen. Nach und nach freunden sich die beiden Männer bei gegenseitigen Besuchen in Moskau und London an, doch die westlichen Geheimagenten spannen Wynne auch immer mehr in ihre Ränkespiele ein..",
-      "trailer": "https://www.youtube.com/watch?v=uLZg8RBpH8E&ab_channel=KinoCheck",
-      "cinemaId": "54eefd0b683138488b190000",
-      "cinemaUrl": "https://yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-284",
-      "url": "https://yorck.de/checkout/step01?showid=284&siteid=1015",
-      "time": "21:15",
-      "date": "So., 1.8.,",
-      "timestamp": 1627852500000,
-      "available": 193,
-      "reserved": 267,
-      "bookable": true
-    },
-    {
       "title": "Das Ding aus einer anderen Welt (OmU)",
       "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60f96146614440200d809417/show_Das_Ding_aus_einer_anderen_Welt_poster.jpg",
       "description": "Ein Film, wie es ihn nie wieder geben wird. Ein Horror-Klassiker von 1982\nIm Winter 1982 entdeckt ein Wissenschaftlerteam in einer einsamen Forschungsstation am Südpol einen Außerirdischen, der über 100.000 Jahre im Schnee begraben war. Das Eis schmilzt schnell & das Alien erwacht zum Leben.",
@@ -4144,8 +4107,8 @@
       "time": "21:15",
       "date": "Do., 5.8.,",
       "timestamp": 1628198100000,
-      "available": 401,
-      "reserved": 59,
+      "available": 399,
+      "reserved": 61,
       "bookable": true
     },
     {
@@ -4162,9 +4125,9 @@
       "time": "21:15",
       "date": "Mi., 4.8.,",
       "timestamp": 1628111700000,
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 7,
+      "reserved": 453,
+      "bookable": true
     },
     {
       "title": "ARTE | Grusel, Glaube & Genie: Gotik!",
@@ -4180,8 +4143,8 @@
       "time": "21:00",
       "date": "Mi., 11.8.",
       "timestamp": 1628715600000,
-      "available": 239,
-      "reserved": 221,
+      "available": 237,
+      "reserved": 223,
       "bookable": true
     },
     {
@@ -4198,8 +4161,8 @@
       "time": "21:15",
       "date": "Sa., 7.8.,",
       "timestamp": 1628370900000,
-      "available": 343,
-      "reserved": 117,
+      "available": 339,
+      "reserved": 121,
       "bookable": true
     },
     {
@@ -4216,8 +4179,8 @@
       "time": "21:15",
       "date": "Di., 3.8.,",
       "timestamp": 1628025300000,
-      "available": 120,
-      "reserved": 340,
+      "available": 118,
+      "reserved": 342,
       "bookable": true
     },
     {
@@ -4234,8 +4197,8 @@
       "time": "21:15",
       "date": "Fr., 6.8.,",
       "timestamp": 1628284500000,
-      "available": 406,
-      "reserved": 54,
+      "available": 404,
+      "reserved": 56,
       "bookable": true
     },
     {
@@ -4251,8 +4214,8 @@
       "time": "21:15",
       "date": "Mo., 2.8.,",
       "timestamp": 1627938900000,
-      "available": 231,
-      "reserved": 229,
+      "available": 225,
+      "reserved": 235,
       "bookable": true
     },
     {
@@ -4276,24 +4239,6 @@
   ],
   "sommerkino-schloss-charlottenburg": [
     {
-      "title": "Parasite",
-      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/5d77539f614440411e6077de/show_Parasite_Poster_TL_Poster_S.jpg",
-      "description": "Als die wohlhabende Familie Park einen neuen Nachhilfelehrer einstellt, beginnt eine Kette von unfassbaren Ereignissen. Der Oscar®-Gewinner ist ein brillanter Mix aus Autorenkino, Horrorthriller und beißender Sozialsatire.\n\n\nFor the Black & White Version please click here\nVersion info\nOmU = Original mit deutschen Untertiteln (German subtitles)\nOmeU = Original mit englischen Untertiteln (English subtitles)",
-      "trailer": "https://www.youtube.com/watch?v=Y6e-TLsOFYM",
-      "cinemaId": "60a3b5ed61444058ac0797a2",
-      "cinemaUrl": "https://yorck.de/kinos/sommerkino-schloss-charlottenburg",
-      "cinemaName": "sommerkino-schloss-charlottenburg",
-      "cinemaShortName": "schloss-charlottenburg",
-      "id": "schloss-charlottenburg-71",
-      "url": "https://yorck.de/checkout/step01?showid=71&siteid=1020",
-      "time": "21:15",
-      "date": "So., 1.8.,",
-      "timestamp": 1627852500000,
-      "available": 335,
-      "reserved": 164,
-      "bookable": true
-    },
-    {
       "title": "Ich bin dein Mensch",
       "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60b8db256144400496f96d55/show_ImYourMan_Po_A4_300dpi_neu.jpg",
       "description": "Drei Wochen lang soll Alma mit einem ganz auf sie zugeschnittenen Roboter leben, dessen künstliche Intelligenz darauf angelegt ist, der perfekte Lebenspartner für sie zu sein. Alma trifft auf Tom (Dan Stevens), eine hochentwickelte Maschine in Menschengestalt, einzig dafür geschaffen, sie glücklich zu machen...",
@@ -4307,8 +4252,8 @@
       "time": "21:15",
       "date": "Mo., 2.8.,",
       "timestamp": 1627938900000,
-      "available": 332,
-      "reserved": 167,
+      "available": 327,
+      "reserved": 172,
       "bookable": true
     },
     {
@@ -4325,8 +4270,8 @@
       "time": "21:15",
       "date": "Di., 3.8.,",
       "timestamp": 1628025300000,
-      "available": 398,
-      "reserved": 101,
+      "available": 392,
+      "reserved": 107,
       "bookable": true
     },
     {
@@ -4361,8 +4306,8 @@
       "time": "21:15",
       "date": "Do., 5.8.,",
       "timestamp": 1628198100000,
-      "available": 423,
-      "reserved": 76,
+      "available": 421,
+      "reserved": 78,
       "bookable": true
     },
     {
@@ -4378,8 +4323,8 @@
       "time": "21:15",
       "date": "Fr., 6.8.,",
       "timestamp": 1628284500000,
-      "available": 509,
-      "reserved": 134,
+      "available": 505,
+      "reserved": 138,
       "bookable": true
     },
     {
@@ -4450,8 +4395,8 @@
       "time": "21:00",
       "date": "Mi., 11.8.",
       "timestamp": 1628715600000,
-      "available": 429,
-      "reserved": 70,
+      "available": 431,
+      "reserved": 68,
       "bookable": true
     },
     {
@@ -4485,8 +4430,8 @@
       "time": "21:15",
       "date": "Fr., 6.8.,",
       "timestamp": 1628284500000,
-      "available": 509,
-      "reserved": 134,
+      "available": 505,
+      "reserved": 138,
       "bookable": true
     },
     {
@@ -4503,8 +4448,8 @@
       "time": "21:00",
       "date": "Mi., 11.8.",
       "timestamp": 1628715600000,
-      "available": 429,
-      "reserved": 70,
+      "available": 431,
+      "reserved": 68,
       "bookable": true
     },
     {
@@ -4521,8 +4466,8 @@
       "time": "21:15",
       "date": "Di., 3.8.,",
       "timestamp": 1628025300000,
-      "available": 398,
-      "reserved": 101,
+      "available": 392,
+      "reserved": 107,
       "bookable": true
     },
     {
@@ -4575,8 +4520,8 @@
       "time": "21:15",
       "date": "Do., 5.8.,",
       "timestamp": 1628198100000,
-      "available": 423,
-      "reserved": 76,
+      "available": 421,
+      "reserved": 78,
       "bookable": true
     },
     {
@@ -4611,26 +4556,8 @@
       "time": "21:15",
       "date": "Mo., 2.8.,",
       "timestamp": 1627938900000,
-      "available": 332,
-      "reserved": 167,
-      "bookable": true
-    },
-    {
-      "title": "Parasite",
-      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/5d77539f614440411e6077de/show_Parasite_Poster_TL_Poster_S.jpg",
-      "description": "Als die wohlhabende Familie Park einen neuen Nachhilfelehrer einstellt, beginnt eine Kette von unfassbaren Ereignissen. Der Oscar®-Gewinner ist ein brillanter Mix aus Autorenkino, Horrorthriller und beißender Sozialsatire.\n\n\nFor the Black & White Version please click here\nVersion info\nOmU = Original mit deutschen Untertiteln (German subtitles)\nOmeU = Original mit englischen Untertiteln (English subtitles)",
-      "trailer": "https://www.youtube.com/watch?v=Y6e-TLsOFYM",
-      "cinemaId": "60a3b5ed61444058ac0797a2",
-      "cinemaUrl": "https://yorck.de/kinos/sommerkino-schloss-charlottenburg",
-      "cinemaName": "sommerkino-schloss-charlottenburg",
-      "cinemaShortName": "schloss-charlottenburg",
-      "id": "schloss-charlottenburg-71",
-      "url": "https://yorck.de/checkout/step01?showid=71&siteid=1020",
-      "time": "21:15",
-      "date": "So., 1.8.,",
-      "timestamp": 1627852500000,
-      "available": 335,
-      "reserved": 164,
+      "available": 327,
+      "reserved": 172,
       "bookable": true
     }
   ]
