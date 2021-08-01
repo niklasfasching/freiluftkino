@@ -32,8 +32,8 @@
       "date": "So., 1.8.,",
       "timestamp": 1627851600000,
       "time": "21:00",
-      "available": 752,
-      "reserved": 326,
+      "available": 751,
+      "reserved": 327,
       "bookable": true
     },
     {
@@ -3460,8 +3460,8 @@
       "time": "21:15",
       "date": "Mo., 2.8.,",
       "timestamp": 1627938900000,
-      "available": 277,
-      "reserved": 183,
+      "available": 275,
+      "reserved": 185,
       "bookable": true
     },
     {
@@ -3478,8 +3478,8 @@
       "time": "21:15",
       "date": "Di., 3.8.,",
       "timestamp": 1628025300000,
-      "available": 149,
-      "reserved": 311,
+      "available": 148,
+      "reserved": 312,
       "bookable": true
     },
     {
@@ -3496,9 +3496,9 @@
       "time": "21:15",
       "date": "Mi., 4.8.,",
       "timestamp": 1628111700000,
-      "available": 10,
-      "reserved": 450,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "title": "Das Ding aus einer anderen Welt (OmU)",
@@ -3710,9 +3710,9 @@
       "time": "21:15",
       "date": "Mi., 4.8.,",
       "timestamp": 1628111700000,
-      "available": 10,
-      "reserved": 450,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "title": "ARTE | Grusel, Glaube & Genie: Gotik!",
@@ -3764,8 +3764,8 @@
       "time": "21:15",
       "date": "Di., 3.8.,",
       "timestamp": 1628025300000,
-      "available": 149,
-      "reserved": 311,
+      "available": 148,
+      "reserved": 312,
       "bookable": true
     },
     {
@@ -3799,8 +3799,8 @@
       "time": "21:15",
       "date": "Mo., 2.8.,",
       "timestamp": 1627938900000,
-      "available": 277,
-      "reserved": 183,
+      "available": 275,
+      "reserved": 185,
       "bookable": true
     },
     {
