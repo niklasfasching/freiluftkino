@@ -14,8 +14,8 @@
       "date": "Mi., 4.8.,",
       "timestamp": 1628110800000,
       "time": "21:00",
-      "available": 982,
-      "reserved": 96,
+      "available": 978,
+      "reserved": 100,
       "bookable": true
     },
     {
@@ -32,8 +32,8 @@
       "date": "So., 1.8.,",
       "timestamp": 1627851600000,
       "time": "21:00",
-      "available": 606,
-      "reserved": 472,
+      "available": 588,
+      "reserved": 490,
       "bookable": true
     },
     {
@@ -49,8 +49,8 @@
       "date": "Di., 3.8.,",
       "timestamp": 1628024400000,
       "time": "21:00",
-      "available": 930,
-      "reserved": 148,
+      "available": 928,
+      "reserved": 150,
       "bookable": true
     },
     {
@@ -66,8 +66,8 @@
       "date": "Mo., 2.8.,",
       "timestamp": 1627938000000,
       "time": "21:00",
-      "available": 911,
-      "reserved": 167,
+      "available": 908,
+      "reserved": 170,
       "bookable": true
     },
     {
@@ -297,8 +297,8 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628974800000,
       "time": "21:00",
-      "available": 942,
-      "reserved": 136,
+      "available": 937,
+      "reserved": 141,
       "bookable": true
     },
     {
@@ -314,8 +314,8 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628960400000,
       "time": "17:00",
-      "available": 463,
-      "reserved": 530,
+      "available": 461,
+      "reserved": 532,
       "bookable": true
     },
     {
@@ -384,8 +384,8 @@
       "date": "Di., 3.8.,",
       "timestamp": 1628024400000,
       "time": "21:00",
-      "available": 553,
-      "reserved": 140,
+      "available": 551,
+      "reserved": 142,
       "bookable": true
     },
     {
@@ -402,8 +402,8 @@
       "date": "So., 1.8.,",
       "timestamp": 1627851600000,
       "time": "21:00",
-      "available": 415,
-      "reserved": 278,
+      "available": 400,
+      "reserved": 293,
       "bookable": true
     },
     {
@@ -420,8 +420,8 @@
       "date": "Mi., 4.8.,",
       "timestamp": 1628110800000,
       "time": "21:00",
-      "available": 565,
-      "reserved": 128,
+      "available": 559,
+      "reserved": 134,
       "bookable": true
     },
     {
@@ -438,8 +438,8 @@
       "date": "Mo., 2.8.,",
       "timestamp": 1627938000000,
       "time": "21:00",
-      "available": 622,
-      "reserved": 71,
+      "available": 618,
+      "reserved": 75,
       "bookable": true
     },
     {
@@ -456,8 +456,8 @@
       "date": "Sa., 7.8.,",
       "timestamp": 1628370000000,
       "time": "21:00",
-      "available": 613,
-      "reserved": 80,
+      "available": 610,
+      "reserved": 83,
       "bookable": true
     },
     {
@@ -545,8 +545,8 @@
       "date": "Fr., 6.8.,",
       "timestamp": 1628283600000,
       "time": "21:00",
-      "available": 583,
-      "reserved": 110,
+      "available": 582,
+      "reserved": 111,
       "bookable": true
     },
     {
@@ -615,8 +615,8 @@
       "date": "Mo., 16.8.",
       "timestamp": 1629148500000,
       "time": "21:15",
-      "available": 622,
-      "reserved": 71,
+      "available": 618,
+      "reserved": 75,
       "bookable": true
     },
     {
@@ -633,8 +633,8 @@
       "date": "Do., 12.8.",
       "timestamp": 1628802900000,
       "time": "21:15",
-      "available": 485,
-      "reserved": 208,
+      "available": 477,
+      "reserved": 216,
       "bookable": true
     },
     {
@@ -669,8 +669,8 @@
       "date": "Di., 3.8.,",
       "timestamp": 1628024400000,
       "time": "21:00",
-      "available": 522,
-      "reserved": 51,
+      "available": 516,
+      "reserved": 57,
       "bookable": true
     },
     {
@@ -722,8 +722,8 @@
       "date": "So., 1.8.,",
       "timestamp": 1627851600000,
       "time": "21:00",
-      "available": 452,
-      "reserved": 121,
+      "available": 448,
+      "reserved": 125,
       "bookable": true
     },
     {
@@ -758,8 +758,8 @@
       "date": "Fr., 6.8.,",
       "timestamp": 1628283600000,
       "time": "21:00",
-      "available": 490,
-      "reserved": 83,
+      "available": 486,
+      "reserved": 87,
       "bookable": true
     },
     {
@@ -1217,9 +1217,9 @@
       "img": "https://media.kinoheld.de/DbWHTKT3neGjvULOXqsnipemH2A=/400x560/images%2Ffilm%2Fminari-18286.v2.png",
       "description": "Jacob beschließt, mit seiner koreanisch-amerikanischen Familie von Los Angeles nach Arkansas zu ziehen, um als Farmer sein Glück zu versuchen. Seine Frau Monica und die Kinder David und Anne fühlen sich jedoch fremd in der neuen Heimat, und das fragile Familienleben wird zusätzlich auf die Probe gestellt, als die schlagfertige und liebevolle Großmutter Soonja von Südkorea zu ihnen auf die Farm zieht.",
       "trailer": "https://www.youtube.com/watch?v=suCHYHMrO9Q",
-      "available": 0,
+      "available": 2,
       "reserved": 204,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -1315,8 +1315,8 @@
       "img": "https://media.kinoheld.de/oO1mnhwCgLFA2jiJXg5aKuZEIBE=/400x560/images%2Ffilm%2F4%2Fb-movie-lust-sound-in-west-berlin-1979-1989-1581.v15.jpg",
       "description": "Eine Dokumentation über Musik, Kunst & Chaos im wilden West-Berlin der 80er Jahre. Bevor der eiserne Vorhang fiel, war die eingemauerte Stadt ein kreativer Schmelztiegel für Sub- und Popkultur. Von Punk bis zur Love Parade - erzählt mit authentischen Zeitdokumenten aus unzähligen Archiven.",
       "trailer": "https://youtu.be/MKJ-nXADsVk",
-      "available": 457,
-      "reserved": 48,
+      "available": 421,
+      "reserved": 57,
       "bookable": true
     },
     {
@@ -1366,8 +1366,8 @@
       "img": "https://media.kinoheld.de/6Qu2TJ0HehGLKgwa4dBGTKappvI=/400x560/images%2Ffilm%2Ftenet-16731.v2.png",
       "description": "Ein Agent wird rekrutiert, um einen besonderen Auftrag auszuführen: Er soll den 3. Weltkrieg verhindern. Diesmal ist jedoch keine nukleare Bedrohung der Grund, sondern es muss eine Person gestoppt werden, welche die Fähigkeit besitzt, die Zeit zu manipulieren.",
       "trailer": "https://www.youtube.com/watch?v=jfEQ0BdeQJQ",
-      "available": 434,
-      "reserved": 61,
+      "available": 426,
+      "reserved": 63,
       "bookable": true
     },
     {
@@ -2348,8 +2348,8 @@
       "img": "https://media.kinoheld.de/kYStEhPmGfaEZFCEJgfHXxwlOxU=/400x560/images%2Ffilm%2Fleon-der-profi-wa-2019-14361.v11.jpg",
       "description": "Léon verdient sein Geld als Auftragskiller der Italo-Mafia in den Straßen von New York. Er lebt zurückgezogen und pflegt außer zu seinem Boss Tony einzig zu seiner Topfpflanze ein freundschaftliches Verhältnis. Als die Familie seiner Nachbarstochter Mathilda von DEA-Polizisten brutal getötet wird, flüchtet sie zu Léon. Um sich an den Mördern ihres kleinen Bruders zu rächen, lässt sich Mathilda das grausame Handwerk eines Profi-Killers von Léon beibringen. (Quelle: Verleih)",
       "trailer": "https://youtu.be/MKJ-nXADsVk",
-      "available": 30,
-      "reserved": 28,
+      "available": 27,
+      "reserved": 30,
       "bookable": true
     },
     {
@@ -2531,8 +2531,8 @@
       "timestamp": 1629676800000,
       "time": "20:30",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2395945946?layout=shows",
-      "available": 41,
-      "reserved": 4,
+      "available": 38,
+      "reserved": 6,
       "bookable": true
     },
     {
@@ -3451,7 +3451,7 @@
       "timestamp": 1630108800000,
       "time": "20:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2416117783?layout=shows",
-      "img": "https://media.kinoheld.de/EiedjS96Z6GvZVTvCfi_H8gnVq4=/400x560/images%2Ffilm%2Fjojo-rabbit-15227.v166.jpg",
+      "img": "https://media.kinoheld.de/7L6-U9HH8sGH3bfUIWLZfQyAL3I=/400x560/images%2Ffilm%2Fjojo-rabbit-15227.v167.jpg",
       "description": "Jojo Rabbit handelt von einem kleinen Jungen, der während des Zweiten Weltkriegs lebt. Er kann der rauen Wirklichkeit nur durch seinen imaginären Freund entkommen, eine ethnisch ungenaue Version von Adolf Hitler, der die naiven patriotischen Überzeugungen des kleinen Jungen vorantreibt. Das ändert sich jedoch alles, als ein junges Mädchen diese Ansichten hinterfragt und Jojo dazu bringt, sich seinen eigenen Problemen zu stellen.",
       "trailer": "https://youtu.be/tL4McUzXfFI",
       "available": -1,
@@ -3469,7 +3469,7 @@
       "timestamp": 1630108800000,
       "time": "22:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2416117791?layout=shows",
-      "img": "https://media.kinoheld.de/EiedjS96Z6GvZVTvCfi_H8gnVq4=/400x560/images%2Ffilm%2Fjojo-rabbit-15227.v166.jpg",
+      "img": "https://media.kinoheld.de/7L6-U9HH8sGH3bfUIWLZfQyAL3I=/400x560/images%2Ffilm%2Fjojo-rabbit-15227.v167.jpg",
       "description": "Jojo Rabbit handelt von einem kleinen Jungen, der während des Zweiten Weltkriegs lebt. Er kann der rauen Wirklichkeit nur durch seinen imaginären Freund entkommen, eine ethnisch ungenaue Version von Adolf Hitler, der die naiven patriotischen Überzeugungen des kleinen Jungen vorantreibt. Das ändert sich jedoch alles, als ein junges Mädchen diese Ansichten hinterfragt und Jojo dazu bringt, sich seinen eigenen Problemen zu stellen.",
       "trailer": "https://youtu.be/tL4McUzXfFI",
       "available": -1,
@@ -3577,8 +3577,8 @@
       "img": "https://media.kinoheld.de/VJ575z3Wugek2Jcv3PLs2shT8AY=/400x560/images%2Ffilm%2Fmatthias-maxime-17408.v5.jpg",
       "description": "Matthias und Maxime sind schon seit ihrer Kindheit beste Freunde und können sich gar nicht vorstellen, plötzlich getrennte Wege zu gehen. Doch das Erwachsenwerden bedeutet Veränderung und so zieht es Maxime für längere Zeit nach Australien.\r\n\r\nIn den Tagen vor seiner Abreise ziehen die beiden im Kreis ihrer Freunde von einer Party zur nächsten. Als eine ihrer Freundinnen, eine Filmstudentin, für ihren neuesten Kurzfilm noch zwei Schauspieler sucht, werden Matthias und Maxime kurzerhand und nicht ganz gegen ihren Willen engagiert. Der Knackpunkt des Ganzen? Die beiden Freunde müssen sich vor der Kamera küssen und dies bringt plötzlich alles ins Wanken.\r\n\r\nUngeahnte und unterdrückte Gefühle erwachen, die die beiden vor Entscheidungen und Herausforderungen stellen, die unüberwindbar scheinen. Denn während Matthias sich krampfhaft gegen seine Gefühle zu wehren versucht, wächst in Maxime mehr und mehr der Wunsch, Matthias noch näher zu kommen, bevor sie der Ozean endgültig trennt. Gibt es für die beiden doch noch ein Happy End?",
       "trailer": "https://www.youtube.com/watch?v=EVE6XP2HcH8",
-      "available": 54,
-      "reserved": 62,
+      "available": 52,
+      "reserved": 64,
       "bookable": true
     },
     {
@@ -3949,8 +3949,8 @@
       "time": "21:15",
       "date": "So., 1.8.,",
       "timestamp": 1627852500000,
-      "available": 130,
-      "reserved": 330,
+      "available": 116,
+      "reserved": 344,
       "bookable": true
     },
     {
@@ -3966,8 +3966,8 @@
       "time": "21:15",
       "date": "Mo., 2.8.,",
       "timestamp": 1627938900000,
-      "available": 247,
-      "reserved": 213,
+      "available": 242,
+      "reserved": 218,
       "bookable": true
     },
     {
@@ -3984,8 +3984,8 @@
       "time": "21:15",
       "date": "Di., 3.8.,",
       "timestamp": 1628025300000,
-      "available": 123,
-      "reserved": 337,
+      "available": 126,
+      "reserved": 334,
       "bookable": true
     },
     {
@@ -4002,9 +4002,9 @@
       "time": "21:15",
       "date": "Mi., 4.8.,",
       "timestamp": 1628111700000,
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 8,
+      "reserved": 452,
+      "bookable": true
     },
     {
       "title": "Das Ding aus einer anderen Welt (OmU)",
@@ -4056,8 +4056,8 @@
       "time": "21:15",
       "date": "Sa., 7.8.,",
       "timestamp": 1628370900000,
-      "available": 349,
-      "reserved": 111,
+      "available": 347,
+      "reserved": 113,
       "bookable": true
     },
     {
@@ -4073,8 +4073,8 @@
       "time": "21:15",
       "date": "So., 8.8.,",
       "timestamp": 1628457300000,
-      "available": 373,
-      "reserved": 87,
+      "available": 367,
+      "reserved": 93,
       "bookable": true
     },
     {
@@ -4127,8 +4127,8 @@
       "time": "21:00",
       "date": "Mi., 11.8.",
       "timestamp": 1628715600000,
-      "available": 241,
-      "reserved": 219,
+      "available": 237,
+      "reserved": 223,
       "bookable": true
     },
     {
@@ -4162,8 +4162,8 @@
       "time": "21:15",
       "date": "So., 8.8.,",
       "timestamp": 1628457300000,
-      "available": 373,
-      "reserved": 87,
+      "available": 367,
+      "reserved": 93,
       "bookable": true
     },
     {
@@ -4180,8 +4180,8 @@
       "time": "21:15",
       "date": "So., 1.8.,",
       "timestamp": 1627852500000,
-      "available": 130,
-      "reserved": 330,
+      "available": 116,
+      "reserved": 344,
       "bookable": true
     },
     {
@@ -4216,9 +4216,9 @@
       "time": "21:15",
       "date": "Mi., 4.8.,",
       "timestamp": 1628111700000,
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 8,
+      "reserved": 452,
+      "bookable": true
     },
     {
       "title": "ARTE | Grusel, Glaube & Genie: Gotik!",
@@ -4234,8 +4234,8 @@
       "time": "21:00",
       "date": "Mi., 11.8.",
       "timestamp": 1628715600000,
-      "available": 241,
-      "reserved": 219,
+      "available": 237,
+      "reserved": 223,
       "bookable": true
     },
     {
@@ -4252,8 +4252,8 @@
       "time": "21:15",
       "date": "Sa., 7.8.,",
       "timestamp": 1628370900000,
-      "available": 349,
-      "reserved": 111,
+      "available": 347,
+      "reserved": 113,
       "bookable": true
     },
     {
@@ -4270,8 +4270,8 @@
       "time": "21:15",
       "date": "Di., 3.8.,",
       "timestamp": 1628025300000,
-      "available": 123,
-      "reserved": 337,
+      "available": 126,
+      "reserved": 334,
       "bookable": true
     },
     {
@@ -4305,8 +4305,8 @@
       "time": "21:15",
       "date": "Mo., 2.8.,",
       "timestamp": 1627938900000,
-      "available": 247,
-      "reserved": 213,
+      "available": 242,
+      "reserved": 218,
       "bookable": true
     },
     {
@@ -4343,8 +4343,8 @@
       "time": "21:15",
       "date": "So., 1.8.,",
       "timestamp": 1627852500000,
-      "available": 339,
-      "reserved": 160,
+      "available": 334,
+      "reserved": 165,
       "bookable": true
     },
     {
@@ -4361,8 +4361,8 @@
       "time": "21:15",
       "date": "Mo., 2.8.,",
       "timestamp": 1627938900000,
-      "available": 345,
-      "reserved": 154,
+      "available": 342,
+      "reserved": 157,
       "bookable": true
     },
     {
@@ -4415,8 +4415,8 @@
       "time": "21:15",
       "date": "Do., 5.8.,",
       "timestamp": 1628198100000,
-      "available": 424,
-      "reserved": 75,
+      "available": 423,
+      "reserved": 76,
       "bookable": true
     },
     {
@@ -4432,8 +4432,8 @@
       "time": "21:15",
       "date": "Fr., 6.8.,",
       "timestamp": 1628284500000,
-      "available": 522,
-      "reserved": 121,
+      "available": 515,
+      "reserved": 128,
       "bookable": true
     },
     {
@@ -4539,8 +4539,8 @@
       "time": "21:15",
       "date": "Fr., 6.8.,",
       "timestamp": 1628284500000,
-      "available": 522,
-      "reserved": 121,
+      "available": 515,
+      "reserved": 128,
       "bookable": true
     },
     {
@@ -4629,8 +4629,8 @@
       "time": "21:15",
       "date": "Do., 5.8.,",
       "timestamp": 1628198100000,
-      "available": 424,
-      "reserved": 75,
+      "available": 423,
+      "reserved": 76,
       "bookable": true
     },
     {
@@ -4665,8 +4665,8 @@
       "time": "21:15",
       "date": "Mo., 2.8.,",
       "timestamp": 1627938900000,
-      "available": 345,
-      "reserved": 154,
+      "available": 342,
+      "reserved": 157,
       "bookable": true
     },
     {
@@ -4683,8 +4683,8 @@
       "time": "21:15",
       "date": "So., 1.8.,",
       "timestamp": 1627852500000,
-      "available": 339,
-      "reserved": 160,
+      "available": 334,
+      "reserved": 165,
       "bookable": true
     }
   ]
