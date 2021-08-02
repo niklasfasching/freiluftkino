@@ -14,8 +14,8 @@
       "date": "Mi., 4.8.,",
       "timestamp": 1628110800000,
       "time": "21:00",
-      "available": 961,
-      "reserved": 117,
+      "available": 958,
+      "reserved": 120,
       "bookable": true
     },
     {
@@ -31,8 +31,8 @@
       "date": "Di., 3.8.,",
       "timestamp": 1628024400000,
       "time": "21:00",
-      "available": 785,
-      "reserved": 293,
+      "available": 781,
+      "reserved": 297,
       "bookable": true
     },
     {
@@ -84,8 +84,8 @@
       "date": "Fr., 6.8.,",
       "timestamp": 1628283600000,
       "time": "21:00",
-      "available": 853,
-      "reserved": 225,
+      "available": 851,
+      "reserved": 227,
       "bookable": true
     },
     {
@@ -349,8 +349,8 @@
       "date": "Di., 3.8.,",
       "timestamp": 1628024400000,
       "time": "21:00",
-      "available": 474,
-      "reserved": 219,
+      "available": 468,
+      "reserved": 225,
       "bookable": true
     },
     {
@@ -456,8 +456,8 @@
       "date": "Do., 5.8.,",
       "timestamp": 1628193600000,
       "time": "20:00",
-      "available": 574,
-      "reserved": 119,
+      "available": 572,
+      "reserved": 121,
       "bookable": true
     },
     {
@@ -474,8 +474,8 @@
       "date": "Fr., 6.8.,",
       "timestamp": 1628283600000,
       "time": "21:00",
-      "available": 532,
-      "reserved": 161,
+      "available": 530,
+      "reserved": 163,
       "bookable": true
     },
     {
@@ -526,8 +526,8 @@
       "date": "Fr., 13.8.",
       "timestamp": 1628889300000,
       "time": "21:15",
-      "available": 669,
-      "reserved": 24,
+      "available": 668,
+      "reserved": 25,
       "bookable": true
     },
     {
@@ -544,8 +544,8 @@
       "date": "Mo., 16.8.",
       "timestamp": 1629148500000,
       "time": "21:15",
-      "available": 605,
-      "reserved": 88,
+      "available": 604,
+      "reserved": 89,
       "bookable": true
     },
     {
@@ -598,8 +598,8 @@
       "date": "Di., 3.8.,",
       "timestamp": 1628024400000,
       "time": "21:00",
-      "available": 460,
-      "reserved": 113,
+      "available": 455,
+      "reserved": 118,
       "bookable": true
     },
     {
@@ -616,8 +616,8 @@
       "date": "Mi., 4.8.,",
       "timestamp": 1628110800000,
       "time": "21:00",
-      "available": 503,
-      "reserved": 70,
+      "available": 501,
+      "reserved": 72,
       "bookable": true
     },
     {
@@ -1065,54 +1065,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
       "cinemaName": "freiluftkino-hasenheide",
       "cinemaShortName": "hasenheide",
-      "id": "hasenheide-691727",
-      "title": "Tony 10 ",
-      "date": "Mo., 2.8.,",
-      "timestamp": 1627862400000,
-      "time": "16:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691727?layout=shows",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "hasenheide-691289",
-      "title": "Theatersport - Das Match ",
-      "date": "Mo., 2.8.,",
-      "timestamp": 1627862400000,
-      "time": "18:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691289?layout=shows",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "hasenheide-692209",
-      "title": "Judas and the Black Messiah (subtitled OV German)",
-      "date": "Mo., 2.8.,",
-      "timestamp": 1627862400000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/692209?layout=shows",
-      "img": "https://media.kinoheld.de/nGB5qJCKE-9-pQTApf34z8UlpHg=/400x560/images%2Ffilm%2Fjudas-and-the-black-messiah-19127.v11.jpg",
-      "description": "In den späten 1960er Jahren wird der 17-jährige Kleinkriminelle William O'Neal in Chicago verhaftet, nachdem er versucht hat, ein Auto zu entführen, während er sich als Bundesbeamter ausgab. Er wird von FBI-Spezialagent Roy Mitchell angesprochen, der anbietet, O'Neals Anklage fallen zu lassen, wenn er undercover für das FBI arbeitet. O'Neal wird beauftragt, die Illinois-Sektion der Black Panther Party und ihren Anführer Fred Hampton zu infiltrieren. O'Neal beginnt, sich Hampton anzunähern, der daran arbeitet, Allianzen mit rivalisierenden Gangs und Milizgruppen zu bilden, während er die Gemeinde durch das „Free Breakfast for Children“-Programm der Black Panther unterstützt. Als der Parteivorsitzende Fred Hampton aufsteigt und sich unterwegs in die Mitrevolutionärin Deborah Johnson verliebt, entbrennt ein Kampf um O'Neals Seele.",
-      "trailer": "https://www.youtube.com/watch?v=yNE70wMLTCc",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
       "id": "hasenheide-691728",
       "title": "Emil und die Detektive, 1931 ",
       "date": "Di., 3.8.,",
@@ -1154,8 +1106,8 @@
       "img": "https://media.kinoheld.de/oO1mnhwCgLFA2jiJXg5aKuZEIBE=/400x560/images%2Ffilm%2F4%2Fb-movie-lust-sound-in-west-berlin-1979-1989-1581.v15.jpg",
       "description": "Eine Dokumentation über Musik, Kunst & Chaos im wilden West-Berlin der 80er Jahre. Bevor der eiserne Vorhang fiel, war die eingemauerte Stadt ein kreativer Schmelztiegel für Sub- und Popkultur. Von Punk bis zur Love Parade - erzählt mit authentischen Zeitdokumenten aus unzähligen Archiven.",
       "trailer": "https://www.youtube.com/watch?v=caKiHdaVwhM",
-      "available": 305,
-      "reserved": 91,
+      "available": 301,
+      "reserved": 93,
       "bookable": true
     },
     {
@@ -1358,8 +1310,8 @@
       "img": "https://media.kinoheld.de/GwZHiD65bCVb3mxAuT7jVcFqH9M=/400x560/images%2Ffilm%2Fnomadland-18288.v2.png",
       "description": "Nach dem wirtschaftlichen Zusammenbruch einer Stadt im ländlichen Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren weißen Van und macht sich auf den Weg, um als moderne Nomadin im Westen der USA ein Leben außerhalb der konventionellen Gesellschaft zu erkunden.",
       "trailer": "https://www.youtube.com/watch?v=5a-U7Wwi18c",
-      "available": 631,
-      "reserved": 9,
+      "available": 621,
+      "reserved": 11,
       "bookable": true
     },
     {
@@ -1821,8 +1773,8 @@
       "img": "https://media.kinoheld.de/DbWHTKT3neGjvULOXqsnipemH2A=/400x560/images%2Ffilm%2Fminari-18286.v2.png",
       "description": "Jacob beschließt, mit seiner koreanisch-amerikanischen Familie von Los Angeles nach Arkansas zu ziehen, um als Farmer sein Glück zu versuchen. Seine Frau Monica und die Kinder David und Anne fühlen sich jedoch fremd in der neuen Heimat, und das fragile Familienleben wird zusätzlich auf die Probe gestellt, als die schlagfertige und liebevolle Großmutter Soonja von Südkorea zu ihnen auf die Farm zieht.",
       "trailer": "https://www.youtube.com/watch?v=suCHYHMrO9Q",
-      "available": 686,
-      "reserved": 0,
+      "available": 676,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -2286,24 +2238,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-insel-im-cassiopeia/shows/movies",
       "cinemaName": "freiluftkino-insel-im-cassiopeia",
       "cinemaShortName": "cassiopeia",
-      "id": "cassiopeia-2412412945",
-      "title": "BANKSY - EXIT THROUGH THE GIFT SHOP (subtitled OV German / im Revier Südost)",
-      "date": "Mo., 2.8.,",
-      "timestamp": 1627862400000,
-      "time": "21:00",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-insel-im-cassiopeia/show/2412412945?layout=shows",
-      "img": "https://media.kinoheld.de/3xRYEt0BExATBx18_DMNXWwUKAs=/400x560/images%2Ffilm%2Fmo%2F174-39795.v2.jpg",
-      "description": "\"Ein Film über einen Mann, der versucht hat, einen Film über mich zu drehen\", so beschreibt Banksy im Intro seinen ersten Film. Der britische Graffitikünstler ist für seine längst zu Ikonen gewordene Straßenkunst berühmt und streng darauf bedacht, seine Identität geheim zu halten, um einer möglichen Strafverfolgung zu entgehen. Darum überrascht es auch nicht, dass er nicht bereit war, sich von einem exzentrischen französischen Ladenbesitzer aus Los Angeles namens Thierry Guetta filmen zu lassen. Doch der will das unbedingt, denn, so gibt er zumindest vor, er will eine umfassende Dokumentation über \"Street Art\" drehen. Alle, wirklich alle, hat er bereits bei der Arbeit begleitet, Shepard Fairey, Invader, Kaws, WK Interact, Faile, Barry McGee, Dov Charney, Zeuss, Monsier A und viele mehr. Bereits seit 9 Jahren ist er immer mit der Kamera dabei, wenn illegal riesige Photokopien von ikonenhaften Bildern geklebt werden, künstliche Schatten auf den Boden gesprüht oder \"Space Invaders\" Fliesen an Brücken und Häuserwände geklebt werden. Wir verfolgen Thierrys Versuche, Banksy aufzuspüren und sich mit ihm anzufreunden. Erstaunlicherweise gelingt es Thierry tatsächlich Banksy und sein Team bei der Arbeit begleiten zu dürfen. Bei der spektakulären Guantanamo-Aktion im Disneyland-Resort, bei der Herstellung der \"ermordeten Telefonzelle\". Doch als Banksy schließlich Druck macht, dass Thierry endlich mal seine Dokumentation der Öffentlichtkeit vorstellt, gerät dieser unter Druck. Thierry hat zwar alles aufgenommen, gesichtet aber, oder gar geordnet hat er die tausenden Videobänder nie. Sein durchaus experimenteller Film ist wahrlich keine klassische Dokumentation, die die Geschichte von Street Art nachzeichnet, sondern etwas ganz eigenes. Banksy schlägt Thierry daraufhin vor, doch lieber selbst als Street Artist eine Karriere zu beginnen...  (Quelle: Videorome.de)",
-      "trailer": "https://youtu.be/9PH8hbfDrLk",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "581",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-insel-im-cassiopeia/shows/movies",
-      "cinemaName": "freiluftkino-insel-im-cassiopeia",
-      "cinemaShortName": "cassiopeia",
       "id": "cassiopeia-2412412931",
       "title": "B-MOVIE: LUST & SOUND IN WEST-BERLIN 1979-1989 (OV / subtitled OV English / im Revier Südost)",
       "date": "Di., 3.8.,",
@@ -2602,24 +2536,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
       "cinemaName": "b-ware-openair-fmp",
       "cinemaShortName": "fmp",
-      "id": "fmp-2414219013",
-      "title": "DER MAURETANIER (subtitled OV / en)",
-      "date": "Mo., 2.8.,",
-      "timestamp": 1627862400000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2414219013?layout=shows",
-      "img": "https://media.kinoheld.de/g8wkwDmm2OhW6nSzmTVihMeyFZY=/400x560/images%2Ffilm%2Fder-mauretanier-18871.v21.jpg",
-      "description": "Auf Befehl der US-Regierung wurde der Mauretanier Mohamedou Ould Slahi (Tahar Rahim) bereits vor Jahren auf den Militärstützpunkt Guantanamo verschleppt und wird dort immer noch ohne Anklage oder Gerichtsverfahren festgehalten. Durch unzählige Verhöre und brutale Folter längst aller Hoffnung beraubt, ist deshalb nicht nur Slahi überrascht, als sich die US-Anwältin Nancy Hollander (Jodie Foster) und ihre Kollegin Teri Duncan (Shailene Woodley) plötzlich für seinen Fall interessieren. Ohne selbst von seiner Unschuld überzeugt zu sein, bieten sie ihm sogar an seine Verteidigung zu übernehmen. Dabei stellen ihnen die US-Behörden immer wieder zahlreiche Hindernisse in den Weg, allen voran Militärstaatsanwalt Oberstleutnant Stuart Couch (Benedict Cumberbatch), der fest davon überzeugt ist, mit Slahi einen der Drahtzieher hinter den Terroranschlägen vom 11. September 2001 festgesetzt zu haben. Nach und nach bringt Nancy Hollanders kontroverser und aufopferungsvoller Einsatz Beweise und Fakten ans Tageslicht, die eine schockierende Verschwörung offenbaren und die klar gegen die freiheitlichen Grundrechte der US-Verfassung verstoßen. Für Slahi selbst zählt aber vor allem eins: Gerechtigkeit.",
-      "trailer": "https://www.youtube.com/watch?v=YK6ZulV-nhw",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "1657",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
-      "cinemaName": "b-ware-openair-fmp",
-      "cinemaShortName": "fmp",
       "id": "fmp-2415459815",
       "title": "DEFA FILMS: HELKE MISSELWITZ ABEND - SPERRMÜLL ",
       "date": "Di., 3.8.,",
@@ -2715,7 +2631,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2414227910?layout=shows",
       "img": "https://media.kinoheld.de/R8VDXSPvszmiJwKj83Io0hLKCVY=/400x560/images%2Ffilm%2Fmo%2F3013-36027.v2.jpg",
       "description": "Ein Sex-Tape gelangt ins Internet und geht dort viral. Es zeigt eine Frau und einen Mann, die beide Masken tragen, beim Geschlechtsakt. Doch die Frau in dem Video lässt sich als Emi (Katia Pascariu) identifizieren - eine Lehrerin.\r\n\r\nEmis Ruf und Karriere geraten in Bedrängnis, als die Eltern ihrer Schüler ihren augenblicklichen Rücktritt fordern. Doch die Lehrerin weigert sich, dem öffentlichen Druck nachzugeben, nur weil die anderen ihre Vorbild-Funktion anzweifeln.\r\n\r\nVorurteile, Heuchelei und Chauvinismus prallen in Folge dessen aufeinander, als immer mehr Verschwörungstheorien die Runde machen und ein Streit über den gesellschaftlichen Umgang mit pornografischen Inhalten entbrennt.",
-      "trailer": "https://youtu.be/MKJ-nXADsVk",
+      "trailer": "https://youtu.be/8AEgcTSMSOY",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -2919,21 +2835,6 @@
     }
   ],
   "central-kino-open-air": [
-    {
-      "cinemaId": "1839",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
-      "cinemaName": "central-kino-open-air",
-      "cinemaShortName": "central",
-      "id": "central-2394922904",
-      "title": "open air: The Short Nights of Berlin (subtitled OV English)",
-      "date": "Mo., 2.8.,",
-      "timestamp": 1627862400000,
-      "time": "21:00",
-      "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2394922904?layout=shows",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
     {
       "cinemaId": "1839",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
@@ -3430,24 +3331,6 @@
     }
   ],
   "freiluftkino-pompeji-open-air-am-ostkreuz-berlin": [
-    {
-      "cinemaId": "2153",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-      "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-      "cinemaShortName": "pompeji ostkreuz",
-      "id": "pompeji ostkreuz-2400436142",
-      "title": "ICH BIN DEIN MENSCH (subtitled OV English)",
-      "date": "Mo., 2.8.,",
-      "timestamp": 1627862400000,
-      "time": "21:15",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2400436142?layout=shows",
-      "img": "https://media.kinoheld.de/GPv5gW6xg_Tn765cxn2SEVinVwo=/400x560/images%2Ffilm%2Fich-bin-dein-mensch-18809.v33.jpg",
-      "description": "Kann man sich in jemanden verlieben, der eine Ware ist, einzig dafür geschaffen, die Sehnsucht nach Nähe, Partnerschaft und Liebe zu erfüllen? Und was empfindet eigentlich ein Roboter? In ICH BIN DEIN MENSCH erzählt Maria Schrader von der Begegnung zwischen einer Frau und einem humanoiden Roboter. Alma (Maren Eggert) ist Wissenschaftlerin am berühmten Pergamon-Museum in Berlin. Um an Forschungsgelder für ihre Arbeit zu kommen, lässt sie sich zur Teilnahme an einer außergewöhnlichen Studie überreden. Drei Wochen lang soll sie mit einem ganz auf ihren Charakter und ihre Bedürfnisse zugeschnittenen humanoiden Roboter zusammenleben, dessen künstliche Intelligenz darauf angelegt ist, der perfekte Lebenspartner für sie zu sein. Alma trifft auf Tom (Dan Stevens), eine hochentwickelte Maschine in Menschengestalt, einzig dafür geschaffen, sie glücklich zu machen…. ICH BIN DEIN MENSCH erzählt von einer Begegnung, die uns in der nahen Zukunft vielleicht erwartet. Es ist eine melancholische Komödie um die Fragen der Liebe, der Sehnsucht und was den Menschen zum Menschen macht. ICH BIN DEIN MENSCH unter der Regie von Maria Schrader (“Unorthodox”, VOR DER MORGEN-RÖTE) feierte seine Premiere im Wettbewerb der 71. Internationalen Filmfestspiele Berlin. Die Geschichte mit Maren Eggert (ICH WAR ZU HAUSE, ABER…, GIRAFFE) und Dan Stevens („Legion“, „Eurovision“, DIE SCHÖNE UND DAS BIEST) in den Hauptrollen erzählt von der Begegnung einer Frau und einem humanoiden Roboter, der zu nichts anderem geschaffen wurde, als sie glücklich zu machen. Maren Eggert wurde für ihre darstellerische Leistung mit dem Silbernen Bären ausgezeichnet.",
-      "trailer": "https://youtu.be/J8eq53SdH1E",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
     {
       "cinemaId": "2153",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
@@ -4135,21 +4018,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/mobile-kino-berlin/shows/movies",
       "cinemaName": "mobile-kino-berlin",
       "cinemaShortName": "mobile kino",
-      "id": "mobile kino-2400927478",
-      "title": "2021 SUNDANCE SHORT FILMS (subtitled OV English)",
-      "date": "Mo., 2.8.,",
-      "timestamp": 1627862400000,
-      "time": "21:15",
-      "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2400927478?layout=shows",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "3033",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/mobile-kino-berlin/shows/movies",
-      "cinemaName": "mobile-kino-berlin",
-      "cinemaShortName": "mobile kino",
       "id": "mobile kino-2386737079",
       "title": "MATTHIAS & MAXIME (subtitled OV English)",
       "date": "Di., 3.8.,",
@@ -4531,8 +4399,8 @@
       "time": "21:15",
       "date": "Di., 3.8.,",
       "timestamp": 1628025300000,
-      "available": 25,
-      "reserved": 435,
+      "available": 22,
+      "reserved": 438,
       "bookable": true
     },
     {
@@ -4549,8 +4417,8 @@
       "time": "21:15",
       "date": "Mi., 4.8.,",
       "timestamp": 1628111700000,
-      "available": 7,
-      "reserved": 453,
+      "available": 10,
+      "reserved": 450,
       "bookable": true
     },
     {
@@ -4585,8 +4453,8 @@
       "time": "21:15",
       "date": "Fr., 6.8.,",
       "timestamp": 1628284500000,
-      "available": 405,
-      "reserved": 55,
+      "available": 403,
+      "reserved": 57,
       "bookable": true
     },
     {
@@ -4603,8 +4471,8 @@
       "time": "21:15",
       "date": "Sa., 7.8.,",
       "timestamp": 1628370900000,
-      "available": 321,
-      "reserved": 139,
+      "available": 318,
+      "reserved": 142,
       "bookable": true
     },
     {
@@ -4692,8 +4560,8 @@
       "time": "21:15",
       "date": "Mi., 4.8.,",
       "timestamp": 1628111700000,
-      "available": 7,
-      "reserved": 453,
+      "available": 10,
+      "reserved": 450,
       "bookable": true
     },
     {
@@ -4763,8 +4631,8 @@
       "time": "21:15",
       "date": "Sa., 7.8.,",
       "timestamp": 1628370900000,
-      "available": 321,
-      "reserved": 139,
+      "available": 318,
+      "reserved": 142,
       "bookable": true
     },
     {
@@ -4781,8 +4649,8 @@
       "time": "21:15",
       "date": "Di., 3.8.,",
       "timestamp": 1628025300000,
-      "available": 25,
-      "reserved": 435,
+      "available": 21,
+      "reserved": 439,
       "bookable": true
     },
     {
@@ -4799,8 +4667,8 @@
       "time": "21:15",
       "date": "Fr., 6.8.,",
       "timestamp": 1628284500000,
-      "available": 405,
-      "reserved": 55,
+      "available": 403,
+      "reserved": 57,
       "bookable": true
     },
     {
@@ -4855,8 +4723,8 @@
       "time": "21:15",
       "date": "Di., 3.8.,",
       "timestamp": 1628025300000,
-      "available": 352,
-      "reserved": 147,
+      "available": 350,
+      "reserved": 149,
       "bookable": true
     },
     {
@@ -4908,8 +4776,8 @@
       "time": "21:15",
       "date": "Fr., 6.8.,",
       "timestamp": 1628284500000,
-      "available": 468,
-      "reserved": 175,
+      "available": 470,
+      "reserved": 173,
       "bookable": true
     },
     {
@@ -4979,8 +4847,8 @@
       "time": "21:15",
       "date": "Fr., 6.8.,",
       "timestamp": 1628284500000,
-      "available": 468,
-      "reserved": 175,
+      "available": 470,
+      "reserved": 173,
       "bookable": true
     },
     {
@@ -5015,8 +4883,8 @@
       "time": "21:15",
       "date": "Di., 3.8.,",
       "timestamp": 1628025300000,
-      "available": 352,
-      "reserved": 147,
+      "available": 350,
+      "reserved": 149,
       "bookable": true
     },
     {
