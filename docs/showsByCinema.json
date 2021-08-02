@@ -31,8 +31,8 @@
       "date": "Di., 3.8.,",
       "timestamp": 1628024400000,
       "time": "21:00",
-      "available": 812,
-      "reserved": 266,
+      "available": 806,
+      "reserved": 272,
       "bookable": true
     },
     {
@@ -48,8 +48,8 @@
       "date": "Mo., 2.8.,",
       "timestamp": 1627938000000,
       "time": "21:00",
-      "available": 784,
-      "reserved": 294,
+      "available": 775,
+      "reserved": 303,
       "bookable": true
     },
     {
@@ -137,8 +137,8 @@
       "date": "So., 8.8.,",
       "timestamp": 1628456400000,
       "time": "21:00",
-      "available": 1047,
-      "reserved": 31,
+      "available": 1045,
+      "reserved": 33,
       "bookable": true
     },
     {
@@ -225,8 +225,8 @@
       "date": "So., 15.8.",
       "timestamp": 1629043200000,
       "time": "16:00",
-      "available": 847,
-      "reserved": 231,
+      "available": 843,
+      "reserved": 235,
       "bookable": true
     },
     {
@@ -243,8 +243,8 @@
       "date": "So., 15.8.",
       "timestamp": 1629061200000,
       "time": "21:00",
-      "available": 1055,
-      "reserved": 23,
+      "available": 1053,
+      "reserved": 25,
       "bookable": true
     },
     {
@@ -279,8 +279,8 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628974800000,
       "time": "21:00",
-      "available": 909,
-      "reserved": 169,
+      "available": 901,
+      "reserved": 177,
       "bookable": true
     },
     {
@@ -296,8 +296,8 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628960400000,
       "time": "17:00",
-      "available": 451,
-      "reserved": 542,
+      "available": 449,
+      "reserved": 544,
       "bookable": true
     },
     {
@@ -366,8 +366,8 @@
       "date": "Di., 3.8.,",
       "timestamp": 1628024400000,
       "time": "21:00",
-      "available": 506,
-      "reserved": 187,
+      "available": 503,
+      "reserved": 190,
       "bookable": true
     },
     {
@@ -402,8 +402,8 @@
       "date": "Mo., 2.8.,",
       "timestamp": 1627938000000,
       "time": "21:00",
-      "available": 513,
-      "reserved": 180,
+      "available": 503,
+      "reserved": 190,
       "bookable": true
     },
     {
@@ -420,8 +420,8 @@
       "date": "Sa., 7.8.,",
       "timestamp": 1628370000000,
       "time": "21:00",
-      "available": 603,
-      "reserved": 90,
+      "available": 598,
+      "reserved": 95,
       "bookable": true
     },
     {
@@ -633,8 +633,8 @@
       "date": "Di., 3.8.,",
       "timestamp": 1628024400000,
       "time": "21:00",
-      "available": 492,
-      "reserved": 81,
+      "available": 486,
+      "reserved": 87,
       "bookable": true
     },
     {
@@ -650,8 +650,8 @@
       "date": "Mo., 2.8.,",
       "timestamp": 1627938000000,
       "time": "21:00",
-      "available": 397,
-      "reserved": 176,
+      "available": 384,
+      "reserved": 189,
       "bookable": true
     },
     {
@@ -739,8 +739,8 @@
       "date": "So., 8.8.,",
       "timestamp": 1628456400000,
       "time": "21:00",
-      "available": 556,
-      "reserved": 17,
+      "available": 558,
+      "reserved": 15,
       "bookable": true
     },
     {
@@ -828,8 +828,8 @@
       "date": "Do., 12.8.",
       "timestamp": 1628802000000,
       "time": "21:00",
-      "available": 467,
-      "reserved": 106,
+      "available": 466,
+      "reserved": 107,
       "bookable": true
     },
     {
@@ -1139,9 +1139,9 @@
       "timestamp": 1627862400000,
       "time": "18:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/691289?layout=shows",
-      "available": -1,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1157,8 +1157,8 @@
       "img": "https://media.kinoheld.de/nGB5qJCKE-9-pQTApf34z8UlpHg=/400x560/images%2Ffilm%2Fjudas-and-the-black-messiah-19127.v11.jpg",
       "description": "In den späten 1960er Jahren wird der 17-jährige Kleinkriminelle William O'Neal in Chicago verhaftet, nachdem er versucht hat, ein Auto zu entführen, während er sich als Bundesbeamter ausgab. Er wird von FBI-Spezialagent Roy Mitchell angesprochen, der anbietet, O'Neals Anklage fallen zu lassen, wenn er undercover für das FBI arbeitet. O'Neal wird beauftragt, die Illinois-Sektion der Black Panther Party und ihren Anführer Fred Hampton zu infiltrieren. O'Neal beginnt, sich Hampton anzunähern, der daran arbeitet, Allianzen mit rivalisierenden Gangs und Milizgruppen zu bilden, während er die Gemeinde durch das „Free Breakfast for Children“-Programm der Black Panther unterstützt. Als der Parteivorsitzende Fred Hampton aufsteigt und sich unterwegs in die Mitrevolutionärin Deborah Johnson verliebt, entbrennt ein Kampf um O'Neals Seele.",
       "trailer": "https://www.youtube.com/watch?v=yNE70wMLTCc",
-      "available": 265,
-      "reserved": 109,
+      "available": 240,
+      "reserved": 119,
       "bookable": true
     },
     {
@@ -4194,8 +4194,8 @@
       "timestamp": 1627862400000,
       "time": "21:15",
       "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2400927478?layout=shows",
-      "available": 50,
-      "reserved": 106,
+      "available": 47,
+      "reserved": 109,
       "bookable": true
     },
     {
@@ -4277,8 +4277,8 @@
       "timestamp": 1628294400000,
       "time": "21:00",
       "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2413848705?layout=shows",
-      "available": 69,
-      "reserved": 6,
+      "available": 67,
+      "reserved": 8,
       "bookable": true
     },
     {
@@ -4583,8 +4583,8 @@
       "time": "21:15",
       "date": "Mo., 2.8.,",
       "timestamp": 1627938900000,
-      "available": 160,
-      "reserved": 300,
+      "available": 154,
+      "reserved": 306,
       "bookable": true
     },
     {
@@ -4601,8 +4601,8 @@
       "time": "21:15",
       "date": "Di., 3.8.,",
       "timestamp": 1628025300000,
-      "available": 64,
-      "reserved": 396,
+      "available": 49,
+      "reserved": 411,
       "bookable": true
     },
     {
@@ -4673,8 +4673,8 @@
       "time": "21:15",
       "date": "Sa., 7.8.,",
       "timestamp": 1628370900000,
-      "available": 329,
-      "reserved": 131,
+      "available": 327,
+      "reserved": 133,
       "bookable": true
     },
     {
@@ -4708,8 +4708,8 @@
       "time": "21:15",
       "date": "Mo., 9.8.,",
       "timestamp": 1628543700000,
-      "available": 400,
-      "reserved": 60,
+      "available": 398,
+      "reserved": 62,
       "bookable": true
     },
     {
@@ -4726,8 +4726,8 @@
       "time": "21:00",
       "date": "Di., 10.8.",
       "timestamp": 1628629200000,
-      "available": 89,
-      "reserved": 371,
+      "available": 87,
+      "reserved": 373,
       "bookable": true
     },
     {
@@ -4744,26 +4744,26 @@
       "time": "21:00",
       "date": "Mi., 11.8.",
       "timestamp": 1628715600000,
-      "available": 233,
-      "reserved": 227,
+      "available": 235,
+      "reserved": 225,
       "bookable": true
     },
     {
-      "title": "Minari (OmU)",
-      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/6040aff3614440766907979b/show_Minari-2.jpg",
-      "description": "Lee Isaac Chung erzählt inspiriert von seiner eigenen Biografie von einer koreanischen Familie, die in den 1980ern auf der Suche nach dem American Dream nach Arkansas zieht. Nominiert für 6 Oscars.",
-      "trailer": "https://www.youtube.com/watch?v=OwykvCg02gM&ab_channel=vipmagazinvipmagazin",
+      "title": "FABIAN ODER DER GANG VOR DIE HUNDE",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60dd79896144404c8baee28b/show_DCM__Fabian-Artworks_Final_gelb-scaled-352x528_2.jpeg",
+      "description": "Im Berlin des Jahres 1931 lässt sich Jakob Fabian durch das Leben treiben. Eines Tages trifft er auf Cornelia und verliebt sich auf den ersten Blick in sie. Fabians naives Leben nimmt eine dramatische Wendung, als er einer Entlassungswelle zum Opfer fällt, Cornelias Karriere als Schauspielerin jedoch an Fahrt aufnimmt. Eines Tages trifft er in einem Atelier auf Cornelia (Saskia Rosendahl) und verliebt sich auf den ersten Blick in sie. Fabians naives Leben nimmt eine dramatische Wendung, als er einer Entlassungswelle zum Opfer fällt, Cornelias Karriere als Schauspielerin jedoch an Fahrt aufnimmt...\n\nFrei nach dem Roman von Erich Kästner.",
+      "trailer": "https://www.youtube.com/watch?v=VQFk1DMzvvI&ab_channel=DCM",
       "cinemaId": "54eefd0b683138488b190000",
       "cinemaUrl": "https://yorck.de/kinos/sommerkino-kulturforum",
       "cinemaName": "sommerkino-kulturforum",
       "cinemaShortName": "kulturforum",
-      "id": "kulturforum-290",
-      "url": "https://yorck.de/checkout/step01?showid=290&siteid=1015",
+      "id": "kulturforum-286",
+      "url": "https://yorck.de/checkout/step01?showid=286&siteid=1015",
       "time": "21:15",
-      "date": "Mo., 9.8.,",
-      "timestamp": 1628543700000,
-      "available": 400,
-      "reserved": 60,
+      "date": "Mi., 4.8.,",
+      "timestamp": 1628111700000,
+      "available": 7,
+      "reserved": 453,
       "bookable": true
     },
     {
@@ -4802,24 +4802,6 @@
       "bookable": true
     },
     {
-      "title": "FABIAN ODER DER GANG VOR DIE HUNDE",
-      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60dd79896144404c8baee28b/show_DCM__Fabian-Artworks_Final_gelb-scaled-352x528_2.jpeg",
-      "description": "Im Berlin des Jahres 1931 lässt sich Jakob Fabian durch das Leben treiben. Eines Tages trifft er auf Cornelia und verliebt sich auf den ersten Blick in sie. Fabians naives Leben nimmt eine dramatische Wendung, als er einer Entlassungswelle zum Opfer fällt, Cornelias Karriere als Schauspielerin jedoch an Fahrt aufnimmt. Eines Tages trifft er in einem Atelier auf Cornelia (Saskia Rosendahl) und verliebt sich auf den ersten Blick in sie. Fabians naives Leben nimmt eine dramatische Wendung, als er einer Entlassungswelle zum Opfer fällt, Cornelias Karriere als Schauspielerin jedoch an Fahrt aufnimmt...\n\nFrei nach dem Roman von Erich Kästner.",
-      "trailer": "https://www.youtube.com/watch?v=VQFk1DMzvvI&ab_channel=DCM",
-      "cinemaId": "54eefd0b683138488b190000",
-      "cinemaUrl": "https://yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-286",
-      "url": "https://yorck.de/checkout/step01?showid=286&siteid=1015",
-      "time": "21:15",
-      "date": "Mi., 4.8.,",
-      "timestamp": 1628111700000,
-      "available": 7,
-      "reserved": 453,
-      "bookable": true
-    },
-    {
       "title": "ARTE | Grusel, Glaube & Genie: Gotik!",
       "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60f9655f6144401f0880966c/show_aDCrXL0nbrnYaZpLEwxApk1BBGx.jpg",
       "description": "Fegefeuer, Hölle & das Paradies, Darstellungen von Nacktheit & Grauen in lodernden Farben – die Kunst der Gotik zieht seit gut 500 Jahren Menschen in ihren Bann. Die Kunsthistorikerin Grit Lederer hat Expert*innen für gotische Kunst interviewt  und geht dieser Frage in ihrer Doku auf den Grund.",
@@ -4833,8 +4815,8 @@
       "time": "21:00",
       "date": "Mi., 11.8.",
       "timestamp": 1628715600000,
-      "available": 233,
-      "reserved": 227,
+      "available": 235,
+      "reserved": 225,
       "bookable": true
     },
     {
@@ -4851,8 +4833,8 @@
       "time": "21:15",
       "date": "Sa., 7.8.,",
       "timestamp": 1628370900000,
-      "available": 329,
-      "reserved": 131,
+      "available": 327,
+      "reserved": 133,
       "bookable": true
     },
     {
@@ -4869,8 +4851,8 @@
       "time": "21:15",
       "date": "Di., 3.8.,",
       "timestamp": 1628025300000,
-      "available": 64,
-      "reserved": 396,
+      "available": 49,
+      "reserved": 411,
       "bookable": true
     },
     {
@@ -4889,6 +4871,24 @@
       "timestamp": 1628284500000,
       "available": 405,
       "reserved": 55,
+      "bookable": true
+    },
+    {
+      "title": "Minari (OmU)",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/6040aff3614440766907979b/show_Minari-2.jpg",
+      "description": "Lee Isaac Chung erzählt inspiriert von seiner eigenen Biografie von einer koreanischen Familie, die in den 1980ern auf der Suche nach dem American Dream nach Arkansas zieht. Nominiert für 6 Oscars.",
+      "trailer": "https://www.youtube.com/watch?v=OwykvCg02gM&ab_channel=vipmagazinvipmagazin",
+      "cinemaId": "54eefd0b683138488b190000",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-290",
+      "url": "https://yorck.de/checkout/step01?showid=290&siteid=1015",
+      "time": "21:15",
+      "date": "Mo., 9.8.,",
+      "timestamp": 1628543700000,
+      "available": 398,
+      "reserved": 62,
       "bookable": true
     },
     {
@@ -4904,8 +4904,8 @@
       "time": "21:15",
       "date": "Mo., 2.8.,",
       "timestamp": 1627938900000,
-      "available": 160,
-      "reserved": 300,
+      "available": 154,
+      "reserved": 306,
       "bookable": true
     },
     {
@@ -4922,8 +4922,8 @@
       "time": "21:00",
       "date": "Di., 10.8.",
       "timestamp": 1628629200000,
-      "available": 89,
-      "reserved": 371,
+      "available": 87,
+      "reserved": 373,
       "bookable": true
     }
   ],
@@ -4942,8 +4942,8 @@
       "time": "21:15",
       "date": "Mo., 2.8.,",
       "timestamp": 1627938900000,
-      "available": 256,
-      "reserved": 243,
+      "available": 248,
+      "reserved": 251,
       "bookable": true
     },
     {
@@ -4960,8 +4960,8 @@
       "time": "21:15",
       "date": "Di., 3.8.,",
       "timestamp": 1628025300000,
-      "available": 374,
-      "reserved": 125,
+      "available": 372,
+      "reserved": 127,
       "bookable": true
     },
     {
@@ -5013,8 +5013,8 @@
       "time": "21:15",
       "date": "Fr., 6.8.,",
       "timestamp": 1628284500000,
-      "available": 482,
-      "reserved": 161,
+      "available": 477,
+      "reserved": 166,
       "bookable": true
     },
     {
@@ -5031,8 +5031,8 @@
       "time": "21:15",
       "date": "Mo., 9.8.,",
       "timestamp": 1628543700000,
-      "available": 430,
-      "reserved": 69,
+      "available": 428,
+      "reserved": 71,
       "bookable": true
     },
     {
@@ -5049,8 +5049,8 @@
       "time": "21:00",
       "date": "Di., 10.8.",
       "timestamp": 1628629200000,
-      "available": 427,
-      "reserved": 72,
+      "available": 423,
+      "reserved": 76,
       "bookable": true
     },
     {
@@ -5072,24 +5072,6 @@
       "bookable": true
     },
     {
-      "title": "Minari (OmU)",
-      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/6040aff3614440766907979b/show_Minari-2.jpg",
-      "description": "Lee Isaac Chung erzählt inspiriert von seiner eigenen Biografie von einer koreanischen Familie, die in den 1980ern auf der Suche nach dem American Dream nach Arkansas zieht. Nominiert für 6 Oscars.",
-      "trailer": "https://www.youtube.com/watch?v=OwykvCg02gM&ab_channel=vipmagazinvipmagazin",
-      "cinemaId": "60a3b5ed61444058ac0797a2",
-      "cinemaUrl": "https://yorck.de/kinos/sommerkino-schloss-charlottenburg",
-      "cinemaName": "sommerkino-schloss-charlottenburg",
-      "cinemaShortName": "schloss-charlottenburg",
-      "id": "schloss-charlottenburg-69",
-      "url": "https://yorck.de/checkout/step01?showid=69&siteid=1020",
-      "time": "21:00",
-      "date": "Di., 10.8.",
-      "timestamp": 1628629200000,
-      "available": 427,
-      "reserved": 72,
-      "bookable": true
-    },
-    {
       "title": "Bohemian Rhapsody (OmU)",
       "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/5b9b87406144402241a9ecf1/show_BohemianPos_Poster_S.jpg",
       "description": "Im Jahr 1970 gründen Freddie Mercury (Rami Malek) und seine Bandmitglieder Brian May (Gwilym Lee), Roger Taylor (Ben Hardy) und John Deacon (Joseph Mazello) die Band Queen. Schnell feiern die vier Männer erste Erfolge und produzieren bald Hit um Hit, doch hinter der Fassade der Band sieht es weit weniger gut aus: Freddie Mercury, der mit bürgerlichem Namen Farrokh Bulsara heißt und aus dem heutigen Tansania stammt, kämpft mit seiner inneren Zerrissenheit und versucht, sich mit seiner Homosexualität zu arrangieren. Schließlich verlässt Mercury Queen um eine Solokarriere zu starten, doch muss schon bald erkennen, dass er ohne seine Mitstreiter aufgeschmissen ist. Obwohl er mittlerweile an AIDS erkrankt ist, gelingt es ihm, seine Bandmitglieder noch einmal zusammenzutrommeln und beim Live Aid einen der legendärsten Auftritte der Musikgeschichte hinzulegen.",
@@ -5102,8 +5084,8 @@
       "time": "21:15",
       "date": "Fr., 6.8.,",
       "timestamp": 1628284500000,
-      "available": 482,
-      "reserved": 161,
+      "available": 477,
+      "reserved": 166,
       "bookable": true
     },
     {
@@ -5138,8 +5120,8 @@
       "time": "21:15",
       "date": "Di., 3.8.,",
       "timestamp": 1628025300000,
-      "available": 374,
-      "reserved": 125,
+      "available": 372,
+      "reserved": 127,
       "bookable": true
     },
     {
@@ -5156,8 +5138,8 @@
       "time": "21:15",
       "date": "Mo., 9.8.,",
       "timestamp": 1628543700000,
-      "available": 430,
-      "reserved": 69,
+      "available": 428,
+      "reserved": 71,
       "bookable": true
     },
     {
@@ -5210,8 +5192,26 @@
       "time": "21:15",
       "date": "Mo., 2.8.,",
       "timestamp": 1627938900000,
-      "available": 256,
-      "reserved": 243,
+      "available": 246,
+      "reserved": 253,
+      "bookable": true
+    },
+    {
+      "title": "Minari (OmU)",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/6040aff3614440766907979b/show_Minari-2.jpg",
+      "description": "Lee Isaac Chung erzählt inspiriert von seiner eigenen Biografie von einer koreanischen Familie, die in den 1980ern auf der Suche nach dem American Dream nach Arkansas zieht. Nominiert für 6 Oscars.",
+      "trailer": "https://www.youtube.com/watch?v=OwykvCg02gM&ab_channel=vipmagazinvipmagazin",
+      "cinemaId": "60a3b5ed61444058ac0797a2",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-schloss-charlottenburg",
+      "cinemaName": "sommerkino-schloss-charlottenburg",
+      "cinemaShortName": "schloss-charlottenburg",
+      "id": "schloss-charlottenburg-69",
+      "url": "https://yorck.de/checkout/step01?showid=69&siteid=1020",
+      "time": "21:00",
+      "date": "Di., 10.8.",
+      "timestamp": 1628629200000,
+      "available": 423,
+      "reserved": 76,
       "bookable": true
     }
   ]
