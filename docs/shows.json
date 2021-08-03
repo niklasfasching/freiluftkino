@@ -346,8 +346,8 @@
     "date": "Di., 3.8.,",
     "timestamp": 1628024400000,
     "time": "21:00",
-    "available": 464,
-    "reserved": 229,
+    "available": 456,
+    "reserved": 237,
     "bookable": true
   },
   "xberg-657": {
@@ -382,8 +382,8 @@
     "date": "Sa., 7.8.,",
     "timestamp": 1628370000000,
     "time": "21:00",
-    "available": 584,
-    "reserved": 109,
+    "available": 586,
+    "reserved": 107,
     "bookable": true
   },
   "xberg-659": {
@@ -435,8 +435,8 @@
     "date": "Mo., 9.8.,",
     "timestamp": 1628543700000,
     "time": "21:15",
-    "available": 682,
-    "reserved": 11,
+    "available": 680,
+    "reserved": 13,
     "bookable": true
   },
   "xberg-649": {
@@ -488,8 +488,8 @@
     "date": "Mi., 11.8.",
     "timestamp": 1628716500000,
     "time": "21:15",
-    "available": 652,
-    "reserved": 41,
+    "available": 650,
+    "reserved": 43,
     "bookable": true
   },
   "xberg-666": {
@@ -593,8 +593,8 @@
     "date": "Di., 3.8.,",
     "timestamp": 1628024400000,
     "time": "21:00",
-    "available": 455,
-    "reserved": 118,
+    "available": 454,
+    "reserved": 119,
     "bookable": true
   },
   "rehberge-654": {
@@ -1371,6 +1371,21 @@
     "reserved": 0,
     "bookable": true
   },
+  "hasenheide-693633": {
+    "cinemaId": "580",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
+    "cinemaName": "freiluftkino-hasenheide",
+    "cinemaShortName": "hasenheide",
+    "id": "hasenheide-693633",
+    "title": "Theatersport - Das Match ",
+    "date": "Mo., 9.8.,",
+    "timestamp": 1628467200000,
+    "time": "18:30",
+    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/693633?layout=shows",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
   "hasenheide-693056": {
     "cinemaId": "580",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
@@ -1698,6 +1713,21 @@
     "img": "https://media.kinoheld.de/hMVQjO2n2ZkZ0QfM9AKDbk-rjM0=/400x560/images%2Ffilm%2F4%2Fchecker-tobi-und-das-geheimnis-unseres-planeten-11857.v16.jpg",
     "description": "Das größte Abenteuer seines Lebens beginnt für Checker Tobi auf einem Piratenschiff mitten im Meer. Dort entdeckt er eine Flaschenpost, in der ein Rätsel steckt. Wenn er es löst, wird er das Geheimnis unseres Planeten lüften. Eine aufregende Schnitzeljagd um die Erde beginnt! Tobi klettert auf den Krater eines feuerspeienden Vulkans, taucht mit Seedrachen im Pazifik, erkundet mit Klimaforschern die einsamsten Gegenden der Arktis und landet ausgerechnet in der trockensten Zeit des Jahres in Indien. In Mumbai wird er zum Bollywoodstar, ehe der Monsun die Megametropole verwandelt. Schließlich checkt Tobi, dass er des Rätsels Lösung während seiner ganzen Reise vor Augen hatte. (Quelle: Verleih)",
     "trailer": "https://www.youtube.com/watch?v=HCTN1vq_zKo",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
+  "hasenheide-693641": {
+    "cinemaId": "580",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
+    "cinemaName": "freiluftkino-hasenheide",
+    "cinemaShortName": "hasenheide",
+    "id": "hasenheide-693641",
+    "title": "Theatersport - Das Match ",
+    "date": "Mo., 16.8.",
+    "timestamp": 1629072000000,
+    "time": "18:30",
+    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/693641?layout=shows",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2041,6 +2071,21 @@
     "reserved": 0,
     "bookable": true
   },
+  "hasenheide-693634": {
+    "cinemaId": "580",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
+    "cinemaName": "freiluftkino-hasenheide",
+    "cinemaShortName": "hasenheide",
+    "id": "hasenheide-693634",
+    "title": "Theatersport - Das Match ",
+    "date": "Mo., 23.8.",
+    "timestamp": 1629676800000,
+    "time": "18:30",
+    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/693634?layout=shows",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
   "hasenheide-693168": {
     "cinemaId": "580",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
@@ -2287,8 +2332,8 @@
     "timestamp": 1628467200000,
     "time": "20:45",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-insel-im-cassiopeia/show/2418079847?layout=shows",
-    "img": "https://media.kinoheld.de/_bhstJhp4fwk5JjSFCbLFUCErb0=/400x560/images%2Ffilm%2Fcourage-19043.v2.png",
-    "description": "In seinem Dokumentarfilm begleitet Aliaksei Paluyan die Freunde Maryna, Pavel und Denis, die Mitglieder einer Untergrund-Theatergruppe in Minsk sind. Als es 2020 im Zuge der Präsidentschaftswahlen in Belarus zu friedlichen Massenprotesten kommt, nimmt die Gruppe gemeinsam mit vielen anderen Menschen daran teil. Dabei entkommen sie nur knapp einer Verhaftung. Trotzdem lassen sie sich nicht beirren und hoffen weiter auf Meinungsfreiheit und Demokratie in ihrem Land.",
+    "img": "https://media.kinoheld.de/zxpoY5FD9OdzMKrD-GCo_eLuBjA=/400x560/images%2Ffilm%2Fcourage-19033.v5.jpg",
+    "description": "Vor 15 Jahren schon haben Maryna, Pavel und Denis die engen Toleranzgrenzen des autoritären Regimes nicht länger hingenommen: Sie verließen das Staatstheater Minsk, um für das neu gegründete Belarus Free Theatre zu spielen. Zivilcourage als Gebot der Moral. Die Proben laufen heimlich, der Regisseur wird per Skype aus dem Exil zugeschaltet, die Mittel sind knapp, die Themen brisant. Das aktuelle Stück handelt (wie das Leben zwischen Alltag und Untergrund) von verschwundenen Oppositionspolitiker*innen und dem Verlust jeglicher Existenzgrundlage. Von Wahrheit. Wer sie ausspricht, nimmt Repressionen und sogar den Tod in Kauf. Denis hat sich deshalb bewusst für den „Verrat an der Kunst“ entschieden, wie er sagt, und sich zurückgezogen, um seine Familie zu schützen. Doch auch wer „nur“ zuschaut, setzt mittlerweile alles aufs Spiel. Denn Hinsehen heißt Wissen. Seit den Präsidentschaftswahlen im August 2020 sind es Hunderttausende, die nicht mehr wegschauen. Die „laut schweigend“, gewaltfrei für einen friedlichen Machtwechsel in Belarus protestieren. Von diesem Sog, die drei mittendrin, handelt Courage. Ein Film, der schmerzhaft anzusehen ist, gerade weil er mit Ruhe und äußerster Geduld den fragilen Handlungsspielraum der Massenprotestbewegung vermisst. Und der nachvollziehbar macht, warum dieser Widerstand für so viele selbstverständlich geworden ist. Wer hier als Mensch leben – und überleben – will, braucht Mut.",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -3964,7 +4009,7 @@
     "cinemaName": "b-ware-openairprinzessinnengarten-kollektiv-neukoell",
     "cinemaShortName": "prinzessinengärten",
     "id": "prinzessinengärten-2414215373",
-    "title": "DER WILDE WALD - NATUR NATUR SEIN LASSEN (subtitled OV)",
+    "title": "DER WILDE WALD - NATUR NATUR SEIN LASSEN - FILM PREVIEW (subtitled OV)",
     "date": "Fr., 6.8.,",
     "timestamp": 1628208000000,
     "time": "21:30",
@@ -3981,7 +4026,7 @@
     "cinemaName": "b-ware-openairprinzessinnengarten-kollektiv-neukoell",
     "cinemaShortName": "prinzessinengärten",
     "id": "prinzessinengärten-2414216824",
-    "title": "NOTES OF BERLIN (subtitled OV)",
+    "title": "NOTES OF BERLIN - FILM PREVIEW (subtitled OV)",
     "date": "Fr., 20.8.",
     "timestamp": 1629417600000,
     "time": "21:15",
@@ -4034,7 +4079,7 @@
     "timestamp": 1628121600000,
     "time": "21:00",
     "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2413853078?layout=shows",
-    "img": "https://media.kinoheld.de/yQbo-8DJsWqFes8bxg6tudmMtwU=/400x560/images%2Ffilm%2Fausser-atem-19559.v2.jpg",
+    "img": "https://media.kinoheld.de/8ROO--HvEHHInteBWHtzcym-z2Y=/400x560/images%2Ffilm%2F4%2Fjean-luc-godard-ausser-atem-601.v31.jpg",
     "description": "Michel, Abenteurer und Autodieb aus Leidenschaft, ist mit einem gestohlenem Luxuswagen auf dem Weg nach Paris, als er eher zufällig in eine Polizeikontrolle gerät und bei der anschließenden Verfolgungsjagt einen Polizisten erschießt. In Paris trifft er Patricia, eine amerikanische Studentin und Michels große Liebe, die ihm hilft unterzutauchen. Godards längst zum Klassiker gewordener Erstlingsfilm ist eine Huldigung an Humphrey Bogart und die \"B-Filme\" Hollywoods: Der Film wimmelt von inszenatorischen Regelverstößen, die man seinerzeit der Unerfahrenheit des Anfängers zuschrieb und erst später als raffinierte Absicht erkannte, zum einen den Kunstcharakter des Films hervorzuheben und zugleich das amerikanische Ideal des \"unsichtbaren\" Schnitts zu hinterfragen. Das hinreißende Paar Jean-Paul Belmondo und Jean Seberg lieferte nebenbei eine der ergreifendsten und schönsten Sterbeszenen der Filmgeschichte.",
     "trailer": "https://www.youtube.com/watch?v=w0omtWIMmWI",
     "available": 73,
@@ -4374,8 +4419,8 @@
     "time": "21:15",
     "date": "Di., 3.8.,",
     "timestamp": 1628025300000,
-    "available": 22,
-    "reserved": 438,
+    "available": 21,
+    "reserved": 439,
     "bookable": true
   },
   "kulturforum-286": {
