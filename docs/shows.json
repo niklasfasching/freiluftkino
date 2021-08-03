@@ -13,8 +13,8 @@
     "date": "Mi., 4.8.,",
     "timestamp": 1628110800000,
     "time": "21:00",
-    "available": 939,
-    "reserved": 139,
+    "available": 937,
+    "reserved": 141,
     "bookable": true
   },
   "fhain-725": {
@@ -30,8 +30,8 @@
     "date": "Di., 3.8.,",
     "timestamp": 1628024400000,
     "time": "21:00",
-    "available": 695,
-    "reserved": 383,
+    "available": 678,
+    "reserved": 400,
     "bookable": true
   },
   "fhain-728": {
@@ -48,8 +48,8 @@
     "date": "Mo., 9.8.,",
     "timestamp": 1628542800000,
     "time": "21:00",
-    "available": 1046,
-    "reserved": 32,
+    "available": 1037,
+    "reserved": 41,
     "bookable": true
   },
   "fhain-702": {
@@ -278,8 +278,8 @@
     "date": "Sa., 14.8.",
     "timestamp": 1628960400000,
     "time": "17:00",
-    "available": 447,
-    "reserved": 546,
+    "available": 443,
+    "reserved": 550,
     "bookable": true
   },
   "fhain-670": {
@@ -346,8 +346,8 @@
     "date": "Di., 3.8.,",
     "timestamp": 1628024400000,
     "time": "21:00",
-    "available": 362,
-    "reserved": 331,
+    "available": 346,
+    "reserved": 347,
     "bookable": true
   },
   "xberg-657": {
@@ -364,8 +364,8 @@
     "date": "Mi., 4.8.,",
     "timestamp": 1628110800000,
     "time": "21:00",
-    "available": 495,
-    "reserved": 198,
+    "available": 493,
+    "reserved": 200,
     "bookable": true
   },
   "xberg-650": {
@@ -382,8 +382,8 @@
     "date": "Sa., 7.8.,",
     "timestamp": 1628370000000,
     "time": "21:00",
-    "available": 577,
-    "reserved": 116,
+    "available": 575,
+    "reserved": 118,
     "bookable": true
   },
   "xberg-659": {
@@ -453,8 +453,8 @@
     "date": "Do., 5.8.,",
     "timestamp": 1628193600000,
     "time": "20:00",
-    "available": 538,
-    "reserved": 155,
+    "available": 536,
+    "reserved": 157,
     "bookable": true
   },
   "xberg-658": {
@@ -471,8 +471,8 @@
     "date": "Fr., 6.8.,",
     "timestamp": 1628283600000,
     "time": "21:00",
-    "available": 483,
-    "reserved": 210,
+    "available": 479,
+    "reserved": 214,
     "bookable": true
   },
   "xberg-662": {
@@ -559,8 +559,8 @@
     "date": "Do., 12.8.",
     "timestamp": 1628802900000,
     "time": "21:15",
-    "available": 411,
-    "reserved": 282,
+    "available": 401,
+    "reserved": 292,
     "bookable": true
   },
   "xberg-602": {
@@ -593,8 +593,8 @@
     "date": "Di., 3.8.,",
     "timestamp": 1628024400000,
     "time": "21:00",
-    "available": 360,
-    "reserved": 213,
+    "available": 342,
+    "reserved": 231,
     "bookable": true
   },
   "rehberge-654": {
@@ -611,8 +611,8 @@
     "date": "Mi., 4.8.,",
     "timestamp": 1628110800000,
     "time": "21:00",
-    "available": 485,
-    "reserved": 88,
+    "available": 486,
+    "reserved": 87,
     "bookable": true
   },
   "rehberge-640": {
@@ -647,8 +647,8 @@
     "date": "Fr., 6.8.,",
     "timestamp": 1628283600000,
     "time": "21:00",
-    "available": 468,
-    "reserved": 105,
+    "available": 466,
+    "reserved": 107,
     "bookable": true
   },
   "rehberge-658": {
@@ -1080,9 +1080,9 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/692204?layout=shows",
     "img": "https://media.kinoheld.de/Fx9FoYZoN8GDRdqpAmXrN4xQbCc=/400x560/images%2Ffilm%2Fgaza-mon-amour-19201.v9.jpg",
     "description": "Die kleine, feine Tragikomödie erzählt  von einem 60-jährigen palästinensischen Fischer, der unglücklich verliebt ist – und auf eine ominöse Statue stößt, die sein Leben gehörig auf den Kopf stellt. Ein liebenswerter, charmanter Film, der zum Träumen einlädt und an die Macht der (späten) Liebe glaubt.",
-    "available": -1,
+    "available": 0,
     "reserved": 0,
-    "bookable": true
+    "bookable": false
   },
   "hasenheide-692210": {
     "cinemaId": "580",
@@ -1098,8 +1098,8 @@
     "img": "https://media.kinoheld.de/oO1mnhwCgLFA2jiJXg5aKuZEIBE=/400x560/images%2Ffilm%2F4%2Fb-movie-lust-sound-in-west-berlin-1979-1989-1581.v15.jpg",
     "description": "Eine Dokumentation über Musik, Kunst & Chaos im wilden West-Berlin der 80er Jahre. Bevor der eiserne Vorhang fiel, war die eingemauerte Stadt ein kreativer Schmelztiegel für Sub- und Popkultur. Von Punk bis zur Love Parade - erzählt mit authentischen Zeitdokumenten aus unzähligen Archiven.",
     "trailer": "https://youtu.be/MKJ-nXADsVk",
-    "available": 202,
-    "reserved": 126,
+    "available": 169,
+    "reserved": 135,
     "bookable": true
   },
   "hasenheide-691729": {
@@ -4050,8 +4050,8 @@
     "img": "https://media.kinoheld.de/VJ575z3Wugek2Jcv3PLs2shT8AY=/400x560/images%2Ffilm%2Fmatthias-maxime-17408.v5.jpg",
     "description": "Matthias und Maxime sind schon seit ihrer Kindheit beste Freunde und können sich gar nicht vorstellen, plötzlich getrennte Wege zu gehen. Doch das Erwachsenwerden bedeutet Veränderung und so zieht es Maxime für längere Zeit nach Australien.\r\n\r\nIn den Tagen vor seiner Abreise ziehen die beiden im Kreis ihrer Freunde von einer Party zur nächsten. Als eine ihrer Freundinnen, eine Filmstudentin, für ihren neuesten Kurzfilm noch zwei Schauspieler sucht, werden Matthias und Maxime kurzerhand und nicht ganz gegen ihren Willen engagiert. Der Knackpunkt des Ganzen? Die beiden Freunde müssen sich vor der Kamera küssen und dies bringt plötzlich alles ins Wanken.\r\n\r\nUngeahnte und unterdrückte Gefühle erwachen, die die beiden vor Entscheidungen und Herausforderungen stellen, die unüberwindbar scheinen. Denn während Matthias sich krampfhaft gegen seine Gefühle zu wehren versucht, wächst in Maxime mehr und mehr der Wunsch, Matthias noch näher zu kommen, bevor sie der Ozean endgültig trennt. Gibt es für die beiden doch noch ein Happy End?",
     "trailer": "https://www.youtube.com/watch?v=EVE6XP2HcH8",
-    "available": 30,
-    "reserved": 86,
+    "available": 29,
+    "reserved": 87,
     "bookable": true
   },
   "mobile kino-2407995499": {
@@ -4435,9 +4435,9 @@
     "time": "21:15",
     "date": "Di., 3.8.,",
     "timestamp": 1628025300000,
-    "available": 11,
-    "reserved": 449,
-    "bookable": true
+    "available": 0,
+    "reserved": 0,
+    "bookable": false
   },
   "kulturforum-286": {
     "title": "Fabian oder Der Gang vor die Hunde",
@@ -4453,8 +4453,8 @@
     "time": "21:15",
     "date": "Mi., 4.8.,",
     "timestamp": 1628111700000,
-    "available": 7,
-    "reserved": 453,
+    "available": 10,
+    "reserved": 450,
     "bookable": true
   },
   "kulturforum-292": {
@@ -4471,8 +4471,8 @@
     "time": "21:15",
     "date": "Do., 5.8.,",
     "timestamp": 1628198100000,
-    "available": 391,
-    "reserved": 69,
+    "available": 389,
+    "reserved": 71,
     "bookable": true
   },
   "kulturforum-287": {
@@ -4489,8 +4489,8 @@
     "time": "21:15",
     "date": "Fr., 6.8.,",
     "timestamp": 1628284500000,
-    "available": 393,
-    "reserved": 67,
+    "available": 392,
+    "reserved": 68,
     "bookable": true
   },
   "kulturforum-288": {
@@ -4507,8 +4507,8 @@
     "time": "21:15",
     "date": "Sa., 7.8.,",
     "timestamp": 1628370900000,
-    "available": 303,
-    "reserved": 157,
+    "available": 301,
+    "reserved": 159,
     "bookable": true
   },
   "kulturforum-289": {
@@ -4524,8 +4524,8 @@
     "time": "21:15",
     "date": "So., 8.8.,",
     "timestamp": 1628457300000,
-    "available": 349,
-    "reserved": 111,
+    "available": 348,
+    "reserved": 112,
     "bookable": true
   },
   "kulturforum-290": {
@@ -4542,8 +4542,8 @@
     "time": "21:15",
     "date": "Mo., 9.8.,",
     "timestamp": 1628543700000,
-    "available": 393,
-    "reserved": 67,
+    "available": 391,
+    "reserved": 69,
     "bookable": true
   },
   "kulturforum-280": {
@@ -4560,8 +4560,8 @@
     "time": "21:00",
     "date": "Di., 10.8.",
     "timestamp": 1628629200000,
-    "available": 72,
-    "reserved": 388,
+    "available": 69,
+    "reserved": 391,
     "bookable": true
   },
   "kulturforum-293": {
@@ -4578,8 +4578,8 @@
     "time": "21:00",
     "date": "Mi., 11.8.",
     "timestamp": 1628715600000,
-    "available": 222,
-    "reserved": 238,
+    "available": 220,
+    "reserved": 240,
     "bookable": true
   },
   "schloss-charlottenburg-64": {
@@ -4596,8 +4596,8 @@
     "time": "21:15",
     "date": "Di., 3.8.,",
     "timestamp": 1628025300000,
-    "available": 313,
-    "reserved": 186,
+    "available": 309,
+    "reserved": 190,
     "bookable": true
   },
   "schloss-charlottenburg-70": {
@@ -4614,8 +4614,8 @@
     "time": "21:15",
     "date": "Mi., 4.8.,",
     "timestamp": 1628111700000,
-    "available": 437,
-    "reserved": 62,
+    "available": 438,
+    "reserved": 61,
     "bookable": true
   },
   "schloss-charlottenburg-65": {
@@ -4632,8 +4632,8 @@
     "time": "21:15",
     "date": "Do., 5.8.,",
     "timestamp": 1628198100000,
-    "available": 413,
-    "reserved": 86,
+    "available": 410,
+    "reserved": 89,
     "bookable": true
   },
   "schloss-charlottenburg-66": {
@@ -4649,8 +4649,8 @@
     "time": "21:15",
     "date": "Fr., 6.8.,",
     "timestamp": 1628284500000,
-    "available": 453,
-    "reserved": 190,
+    "available": 447,
+    "reserved": 196,
     "bookable": true
   },
   "schloss-charlottenburg-68": {
@@ -4703,8 +4703,62 @@
     "time": "21:00",
     "date": "Mi., 11.8.",
     "timestamp": 1628715600000,
-    "available": 425,
-    "reserved": 74,
+    "available": 423,
+    "reserved": 76,
+    "bookable": true
+  },
+  "schloss-charlottenburg-74": {
+    "title": "Judas and the Black Messiah (OmU)",
+    "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60d9af3669f5b509d7551a0b/show_Judas_and_the_Black_Messiah.jpg",
+    "description": "Der FBI-Informant William O’Neal wird in die Black-Panther-Partei von Illinois eingeschleust und damit beauftragt, deren charismatischen Anführer Fred Hampton zu bespitzeln. Als geübter Dieb genießt O’Neal sichtlich den Nervenkitzel, sowohl seine Kameraden als auch den für ihn zuständigen Special Agent Roy Mitchell an der Nase herumzuführen.",
+    "trailer": "https://www.youtube.com/watch?v=hdM8H4tCFr8&ab_channel=WarnerBros.DE",
+    "cinemaId": "60a3b5ed61444058ac0797a2",
+    "cinemaUrl": "https://yorck.de/kinos/sommerkino-schloss-charlottenburg",
+    "cinemaName": "sommerkino-schloss-charlottenburg",
+    "cinemaShortName": "schloss-charlottenburg",
+    "id": "schloss-charlottenburg-74",
+    "url": "https://yorck.de/checkout/step01?showid=74&siteid=1020",
+    "time": "21:00",
+    "date": "Do., 12.8.",
+    "timestamp": 1628802000000,
+    "available": 499,
+    "reserved": 0,
+    "bookable": true
+  },
+  "schloss-charlottenburg-75": {
+    "title": "Léon - Der Profi (OmU)",
+    "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/5d8dbb6c6144407bdd1b9b65/show_Leon_Poster_Kino_A4_Poster_S.jpg",
+    "description": "Leon ist Auftragskiller. Ein\"Cleaner\", der unglaublich präzise und perfekt arbeitet. Er gilt als unangreifbar und unzerstörbar. Sein Schatten hängt, wie eine bewaffnete Drohung, über den einschlägigen Quartieren der Mega-City New York. Bis er eines Tages einen Fehler macht. Er öffnet einem kleinen Mädchen mit großen Augen seine Tür: Mathilda.",
+    "trailer": "https://www.youtube.com/watch?v=3XgSLq-CePM&ab_channel=einenaccount",
+    "cinemaId": "60a3b5ed61444058ac0797a2",
+    "cinemaUrl": "https://yorck.de/kinos/sommerkino-schloss-charlottenburg",
+    "cinemaName": "sommerkino-schloss-charlottenburg",
+    "cinemaShortName": "schloss-charlottenburg",
+    "id": "schloss-charlottenburg-75",
+    "url": "https://yorck.de/checkout/step01?showid=75&siteid=1020",
+    "time": "21:00",
+    "date": "Fr., 13.8.",
+    "timestamp": 1628888400000,
+    "available": 643,
+    "reserved": 0,
+    "bookable": true
+  },
+  "schloss-charlottenburg-76": {
+    "title": "Und Morgen die ganze Welt",
+    "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/5f5f39cb69f5b55fa833316d/show_und-morgen-die-ganze-welt.jpg",
+    "description": "Luisa ist 20 Jahre alt, stammt aus gutem Haus, studiert Jura im ersten Semester. Und sie will, dass sich etwas verändert in Deutschland. Alarmiert vom Rechtsdruck im Land und der zunehmenden Beliebtheit populistischer Parteien, tut sie sich mit ihren Freunden zusammen, um sich klar gegen die neue Rechte zu positionieren. Schnell findet sie Anschluss bei dem charismatischen Alfa und dessen besten Freund Lenor: Für die beiden ist auch der Einsatz von Gewalt ein legitimes Mittel, um Widerstand zu leisten. Bald schon überstürzen sich die Ereignisse. Und Luisa muss entscheiden, wie weit zu gehen sie bereit ist – auch wenn das fatale Konsequenzen für sie und ihre Freunde haben könnte.",
+    "trailer": "https://www.youtube.com/watch?v=aYQnSwDpdQo&ab_channel=CinemalditoCinemaldito",
+    "cinemaId": "60a3b5ed61444058ac0797a2",
+    "cinemaUrl": "https://yorck.de/kinos/sommerkino-schloss-charlottenburg",
+    "cinemaName": "sommerkino-schloss-charlottenburg",
+    "cinemaShortName": "schloss-charlottenburg",
+    "id": "schloss-charlottenburg-76",
+    "url": "https://yorck.de/checkout/step01?showid=76&siteid=1020",
+    "time": "21:00",
+    "date": "Sa., 14.8.",
+    "timestamp": 1628974800000,
+    "available": 643,
+    "reserved": 0,
     "bookable": true
   }
 }
