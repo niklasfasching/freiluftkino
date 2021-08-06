@@ -48,8 +48,8 @@
     "date": "Fr., 6.8.,",
     "timestamp": 1628283600000,
     "time": "21:00",
-    "available": 648,
-    "reserved": 344,
+    "available": 658,
+    "reserved": 334,
     "bookable": true
   },
   "fhain-729": {
@@ -504,8 +504,8 @@
     "date": "Sa., 7.8.,",
     "timestamp": 1628370000000,
     "time": "21:00",
-    "available": 451,
-    "reserved": 242,
+    "available": 443,
+    "reserved": 250,
     "bookable": true
   },
   "xberg-659": {
@@ -557,8 +557,8 @@
     "date": "Mo., 9.8.,",
     "timestamp": 1628543700000,
     "time": "21:15",
-    "available": 466,
-    "reserved": 227,
+    "available": 0,
+    "reserved": 0,
     "bookable": true
   },
   "xberg-658": {
@@ -575,8 +575,8 @@
     "date": "Fr., 6.8.,",
     "timestamp": 1628283600000,
     "time": "21:00",
-    "available": 219,
-    "reserved": 474,
+    "available": 196,
+    "reserved": 497,
     "bookable": true
   },
   "xberg-662": {
@@ -592,8 +592,8 @@
     "date": "Mi., 11.8.",
     "timestamp": 1628716500000,
     "time": "21:15",
-    "available": 539,
-    "reserved": 154,
+    "available": 537,
+    "reserved": 156,
     "bookable": true
   },
   "xberg-666": {
@@ -627,8 +627,8 @@
     "date": "Fr., 13.8.",
     "timestamp": 1628889300000,
     "time": "21:15",
-    "available": 635,
-    "reserved": 58,
+    "available": 0,
+    "reserved": 0,
     "bookable": true
   },
   "xberg-667": {
@@ -663,8 +663,8 @@
     "date": "Do., 12.8.",
     "timestamp": 1628802900000,
     "time": "21:15",
-    "available": 221,
-    "reserved": 472,
+    "available": 218,
+    "reserved": 475,
     "bookable": true
   },
   "xberg-602": {
@@ -697,8 +697,8 @@
     "date": "Fr., 6.8.,",
     "timestamp": 1628283600000,
     "time": "21:00",
-    "available": 427,
-    "reserved": 146,
+    "available": 423,
+    "reserved": 150,
     "bookable": true
   },
   "rehberge-658": {
@@ -715,8 +715,8 @@
     "date": "Di., 10.8.",
     "timestamp": 1628629200000,
     "time": "21:00",
-    "available": 536,
-    "reserved": 37,
+    "available": 538,
+    "reserved": 35,
     "bookable": true
   },
   "rehberge-656": {
@@ -732,8 +732,8 @@
     "date": "So., 8.8.,",
     "timestamp": 1628456400000,
     "time": "21:00",
-    "available": 533,
-    "reserved": 40,
+    "available": 529,
+    "reserved": 44,
     "bookable": true
   },
   "rehberge-655": {
@@ -1133,9 +1133,9 @@
     "img": "https://media.kinoheld.de/C2dYXxpSr0SeCwgfz9swyoC85yU=/400x560/images%2Ffilm%2Fder-junge-und-die-wildgaense-16353.v91.jpg",
     "description": "Thomas (Louis Vazquez) ist alles andere als begeistert, als ihm seine Mutter mitteilt, dass er seine Ferien bei seinem Vater in der Provence verbringen soll. Viel lieber würde er in seinem Zimmer hocken und Computerspiele spielen, statt bei seinem naturverbundenen Vater in der Einöde zu sitzen und sich von ihm täglich in die Natur schleppen zu lassen. Doch dann stellt Thomas fest, dass sein Vater in diesem Sommer ein spannendes Projekt verfolgt: Er hilft verwaisten Junggänsen, den Weg von Norwegen nach Frankreich zu finden. Plötzlich findet Thomas es gar nicht mehr so blöd, an der frischen Luft zu sein und den Tieren zu helfen…",
     "trailer": "https://www.youtube.com/watch?v=WxGXbsiDhw0",
-    "available": -1,
+    "available": 0,
     "reserved": 0,
-    "bookable": true
+    "bookable": false
   },
   "hasenheide-691805": {
     "cinemaId": "580",
@@ -1166,8 +1166,8 @@
     "img": "https://media.kinoheld.de/zAa01K_Wc_Ukkdd7ewI4AB9r1Q8=/400x560/images%2Ffilm%2Fder-rausch-18282.v16.jpg",
     "description": "Früher war Martin Lehrer aus Leidenschaft – heute sind nicht nur die Schüler von seinem fehlenden Enthusiasmus gelangweilt, auch in Martins Ehe ist die Luft raus. Seinen drei Freunden, die am selben Gymnasium unterrichten, geht es nicht viel besser. Bei einer angeheiterten Geburtstagsrunde diskutieren sie die Theorie eines norwegischen Philosophen: Nach dieser ist ein Mensch nur mit einem erhöhten Alkoholgehalt im Blut zu Bestleistungen fähig. Solch eine gewagte These muss überprüft werden. Die vier beschließen den Selbsttest zu machen und während der Arbeit einen bestimmten Pegel zu halten. Soll nicht sogar Churchill den Zweiten Weltkrieg in einem Alkoholrausch gewonnen haben? Mit neuem Antrieb stürzen sie sich in ihre geheime wissenschaftliche Studie. Die Wirkung lässt nicht lange auf sich warten …",
     "trailer": "https://www.youtube.com/watch?v=b2z6M24yq2Y",
-    "available": 173,
-    "reserved": 140,
+    "available": 147,
+    "reserved": 149,
     "bookable": true
   },
   "hasenheide-693049": {
@@ -1220,8 +1220,8 @@
     "img": "https://media.kinoheld.de/GwZHiD65bCVb3mxAuT7jVcFqH9M=/400x560/images%2Ffilm%2Fnomadland-18288.v2.png",
     "description": "Nach dem wirtschaftlichen Zusammenbruch einer Stadt im ländlichen Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren weißen Van und macht sich auf den Weg, um als moderne Nomadin im Westen der USA ein Leben außerhalb der konventionellen Gesellschaft zu erkunden.",
     "trailer": "https://www.youtube.com/watch?v=5a-U7Wwi18c",
-    "available": 53,
-    "reserved": 179,
+    "available": 30,
+    "reserved": 186,
     "bookable": true
   },
   "hasenheide-692889": {
@@ -4157,8 +4157,8 @@
     "time": "21:15",
     "date": "Fr., 6.8.,",
     "timestamp": 1628284500000,
-    "available": 333,
-    "reserved": 127,
+    "available": 335,
+    "reserved": 125,
     "bookable": true
   },
   "kulturforum-288": {
@@ -4175,8 +4175,8 @@
     "time": "21:15",
     "date": "Sa., 7.8.,",
     "timestamp": 1628370900000,
-    "available": 97,
-    "reserved": 363,
+    "available": 83,
+    "reserved": 377,
     "bookable": true
   },
   "kulturforum-289": {
@@ -4192,8 +4192,8 @@
     "time": "21:15",
     "date": "So., 8.8.,",
     "timestamp": 1628457300000,
-    "available": 312,
-    "reserved": 148,
+    "available": 306,
+    "reserved": 154,
     "bookable": true
   },
   "kulturforum-290": {
@@ -4299,8 +4299,8 @@
     "time": "21:00",
     "date": "So., 15.8.",
     "timestamp": 1629061200000,
-    "available": 436,
-    "reserved": 24,
+    "available": 433,
+    "reserved": 27,
     "bookable": true
   },
   "kulturforum-269": {
@@ -4333,8 +4333,8 @@
     "time": "21:15",
     "date": "Fr., 6.8.,",
     "timestamp": 1628284500000,
-    "available": 345,
-    "reserved": 298,
+    "available": 343,
+    "reserved": 300,
     "bookable": true
   },
   "schloss-charlottenburg-73": {
@@ -4404,8 +4404,8 @@
     "time": "21:00",
     "date": "Mi., 11.8.",
     "timestamp": 1628715600000,
-    "available": 366,
-    "reserved": 133,
+    "available": 367,
+    "reserved": 132,
     "bookable": true
   },
   "schloss-charlottenburg-74": {
@@ -4422,8 +4422,8 @@
     "time": "21:00",
     "date": "Do., 12.8.",
     "timestamp": 1628802000000,
-    "available": 466,
-    "reserved": 33,
+    "available": 463,
+    "reserved": 36,
     "bookable": true
   },
   "schloss-charlottenburg-75": {
@@ -4458,8 +4458,8 @@
     "time": "21:00",
     "date": "Sa., 14.8.",
     "timestamp": 1628974800000,
-    "available": 610,
-    "reserved": 33,
+    "available": 606,
+    "reserved": 37,
     "bookable": true
   },
   "schloss-charlottenburg-79": {
@@ -4476,8 +4476,8 @@
     "time": "21:00",
     "date": "So., 15.8.",
     "timestamp": 1629061200000,
-    "available": 475,
-    "reserved": 24,
+    "available": 477,
+    "reserved": 22,
     "bookable": true
   },
   "schloss-charlottenburg-80": {
