@@ -48,8 +48,8 @@
     "date": "Fr., 6.8.,",
     "timestamp": 1628283600000,
     "time": "21:00",
-    "available": 662,
-    "reserved": 330,
+    "available": 658,
+    "reserved": 334,
     "bookable": true
   },
   "fhain-729": {
@@ -120,8 +120,8 @@
     "date": "Do., 12.8.",
     "timestamp": 1628802000000,
     "time": "21:00",
-    "available": 896,
-    "reserved": 96,
+    "available": 894,
+    "reserved": 98,
     "bookable": true
   },
   "fhain-732": {
@@ -177,6 +177,22 @@
     "reserved": 45,
     "bookable": true
   },
+  "fhain-737": {
+    "cinemaId": "fh_freiluftkino",
+    "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+    "cinemaName": "Freiluftkino Friedrichshain",
+    "cinemaShortName": "fhain",
+    "id": "fhain-737",
+    "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/737",
+    "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=722",
+    "title": "Nebenan",
+    "date": "Mo., 16.8.",
+    "timestamp": 1629072000000,
+    "time": "00:00",
+    "available": 0,
+    "reserved": 0,
+    "bookable": false
+  },
   "fhain-735": {
     "trailer": "https://www.youtube-nocookie.com/embed/7ZUOzlVsNp8?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
     "description": "Autumn ist 17 Jahre alt, lebt im ländlichen Pennsylvania. Als sie ungewollt schwanger wird, weiß sie nur eins: Ihren Eltern kann sie sich nicht anvertrauen. Erst recht nicht, da sie plant, eine Abtreibung vornehmen zu lassen. Doch die ist ohne Einwilligung der Eltern nicht möglich. Hilfe findet Autumn bei ihrer Cousine Skylar, die ihr nicht nur mit Geld zur Seite steht, sondern sie auch begleitet, als Autumn sich auf eine Busreise nach New York aufmacht. Im Gepäck, die Adresse einer Klinik.\n\"Es ist nicht weniger als meisterhaft, wie Eliza Hittman uns emotional durch die Geschichte führt und dabei jederzeit ihren Figuren und dem Anliegen gegenüber absolut ehrlich und aufrichtig bleibt. Ein sensibler, ein wichtiger, ein großer Film.\" Deutsche Film- und Medienbewertung",
@@ -230,6 +246,59 @@
     "reserved": 563,
     "bookable": true
   },
+  "fhain-743": {
+    "description": "Auf Veranlassung der US-Regierung, wird der Mauretanier Mohamedou Ould Slahi auf den Militärstützpunkt Guantanamo verschleppt und dort ohne Anklage festgehalten. Nach Jahren der Verhöre und Folter aller Hoffnung beraubt, ist nicht nur Slahi überrascht, als sich die US-Anwältin Nancy Hollander für seinen Fall interessiert. Ohne selbst von seiner Unschuld überzeugt zu sein, bieten sie ihm an seine Verteidigung zu übernehmen, denn für sie zählt erst einmal nur eins: ein rechtsstaatlicher Prozess. Durch Hollanders Recherchen aufgeschreckt, stellen die US-Behörden ihr immer mehr Hindernisse in den Weg, überwacht von Militärstaatsanwalt Stuart Couch, der fest davon überzeugt ist, mit Slahi einen der Drahtzieher hinter den Terroranschlägen vom 11. September 2001 festgesetzt zu haben. »Ein kraftvolles, emotional aufrüttelndes Drama« (Filmstarts)\n",
+    "cinemaId": "fh_freiluftkino",
+    "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+    "cinemaName": "Freiluftkino Friedrichshain",
+    "cinemaShortName": "fhain",
+    "id": "fhain-743",
+    "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/743",
+    "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=727",
+    "title": "Der Mauretanier",
+    "date": "Di., 24.8.",
+    "timestamp": 1629837000000,
+    "time": "20:30",
+    "available": 992,
+    "reserved": 0,
+    "bookable": true
+  },
+  "fhain-739": {
+    "trailer": "https://www.youtube-nocookie.com/embed/oJwlO6vcsm0?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
+    "description": "Früher war Martin Lehrer aus Leidenschaft – heute sind nicht nur die Schüler von seinem fehlenden Enthusiasmus gelangweilt, auch in Martins Ehe ist die Luft raus. Seinen drei Freunden, die am selben Gymnasium unterrichten, geht es nicht viel besser. Bei einer angeheiterten Geburtstagsrunde diskutieren sie die Theorie eines norwegischen Philosophen: Nach dieser ist ein Mensch nur mit einem erhöhten Alkoholgehalt im Blut zu Bestleistungen fähig. Solch eine gewagte These muss überprüft werden. Die vier beschließen den Selbsttest zu machen und während der Arbeit einen bestimmten Pegel zu halten. Die Wirkung lässt nicht lange auf sich warten …\n\"Mads Mikkelsen hat als Martin hier einen der Auftritte seines Lebens.\" (Zeit Online)\n",
+    "cinemaId": "fh_freiluftkino",
+    "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+    "cinemaName": "Freiluftkino Friedrichshain",
+    "cinemaShortName": "fhain",
+    "id": "fhain-739",
+    "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/739",
+    "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=723",
+    "title": "Der Rausch",
+    "date": "Do., 19.8.",
+    "timestamp": 1629406800000,
+    "time": "21:00",
+    "available": 992,
+    "reserved": 0,
+    "bookable": true
+  },
+  "fhain-741": {
+    "trailer": "https://www.youtube-nocookie.com/embed/L4ifAPp5cBc?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
+    "description": "\"Mein Baby gehört zu mir\". Endlich ist es wieder Sommer ‘63 im Ferien Resort Kellermann's... und damit heißt es Leinwand frei für eine der größten Kino-Kult-Romanzen überhaupt. Zeit also die eigene Zitatfestigkeit zu überprüfen und dabei zu sein wenn die Tochter aus gutem Hause, Frances \"Baby\" Houseman, auf den mittellosen Tanzlehrer Johnny trifft. Der Beginn einer leidenschaftlicher Liebesgeschichte entgegen, na klar, jeder gesellschaftlichen Konvention, getragen von großartiger Musik und Tanzszenen, die ganze Generationen zurück in die Tanzschulen trieb…Also Ladies: Wassermelone nicht vergessen!",
+    "cinemaId": "fh_freiluftkino",
+    "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+    "cinemaName": "Freiluftkino Friedrichshain",
+    "cinemaShortName": "fhain",
+    "id": "fhain-741",
+    "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/741",
+    "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=725",
+    "title": "Dirty Dancing",
+    "date": "Sa., 21.8.",
+    "timestamp": 1629577800000,
+    "time": "20:30",
+    "available": 992,
+    "reserved": 0,
+    "bookable": true
+  },
   "fhain-670": {
     "cinemaId": "fh_freiluftkino",
     "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
@@ -243,6 +312,147 @@
     "timestamp": 1629649800000,
     "time": "16:30",
     "available": 0,
+    "reserved": 0,
+    "bookable": true
+  },
+  "fhain-752": {
+    "description": "",
+    "cinemaId": "fh_freiluftkino",
+    "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+    "cinemaName": "Freiluftkino Friedrichshain",
+    "cinemaShortName": "fhain",
+    "id": "fhain-752",
+    "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/752",
+    "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=736",
+    "title": "Lesung: Dieter Kosslick/Film:Grand Budapest Hotel",
+    "date": "So., 22.8.",
+    "timestamp": 1629660600000,
+    "time": "19:30",
+    "available": 992,
+    "reserved": 0,
+    "bookable": true
+  },
+  "fhain-740": {
+    "trailer": "https://www.youtube-nocookie.com/embed/hp693wtpG6k?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
+    "description": "\"Girl meets robot boy\" in Maria Schraders furioser Romantikkomödie über die Möglichkeit der Liebe in Zeiten künstlicher Intelligenz.\nAlma arbeitet als Anthropologin am Pergamon-Museum. Um an Forschungsgelder für ihre Arbeit zu kommen, lässt sie sich zur Teilnahme an einer außergewöhnlichen Studie überreden. Drei Wochen lang soll sie mit einem ganz auf ihren Charakter und ihre Bedürfnisse zugeschnittenen humanoiden Roboter zusammenleben, dessen künstliche Intelligenz darauf angelegt ist, der perfekte Lebenspartner für sie zu sein. Alma trifft auf Tom, eine hochentwickelte Maschine in Menschengestalt, einzig dafür geschaffen, sie glücklich zu machen.\n\"Der lustigste Film seit Toni Erdmann.\" (Brigitte)",
+    "cinemaId": "fh_freiluftkino",
+    "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+    "cinemaName": "Freiluftkino Friedrichshain",
+    "cinemaShortName": "fhain",
+    "id": "fhain-740",
+    "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/740",
+    "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=724",
+    "title": "Ich bin dein Mensch",
+    "date": "Fr., 20.8.",
+    "timestamp": 1629491400000,
+    "time": "20:30",
+    "available": 992,
+    "reserved": 0,
+    "bookable": true
+  },
+  "fhain-742": {
+    "description": "",
+    "cinemaId": "fh_freiluftkino",
+    "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+    "cinemaName": "Freiluftkino Friedrichshain",
+    "cinemaShortName": "fhain",
+    "id": "fhain-742",
+    "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/742",
+    "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=726",
+    "title": "The Father",
+    "date": "Mo., 23.8.",
+    "timestamp": 1629750600000,
+    "time": "20:30",
+    "available": 992,
+    "reserved": 0,
+    "bookable": true
+  },
+  "fhain-750": {
+    "description": "Der junge Ire Redmond Barry (Ryan O'Neal) liebt seine Cousine. Nachdem er in einem manipulierten Duell vermeintlich seinen Rivalen erschossen hat, flieht er und tritt in die englische Armee ein. Er desertiert, fällt jedoch dem preußischen Hauptmann Potzdorf in die Hände. Barry gewinnt dessen Vertrauen und soll nach dem Krieg als Spitzel arbeiten. Er lehnt ab. Am Spieltisch lernt er seine zukünftige Frau kennen, die reiche Baronin von Lyndon (Marisa Berenson). \"Kubrick wollte einen Film machen, durch den sich der Zuschauer optisch und emotional ins 18. Jahrhundert versetzt fühlt; der Film sollte wirken, als hätte ihn ein Filmemacher im 18. Jahrhundert inszeniert. Dabei sind Kubrick Bilder gelungen, wie man sie im Kino bislang nicht gesehen hat.\" Der Spiegel",
+    "cinemaId": "fh_freiluftkino",
+    "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+    "cinemaName": "Freiluftkino Friedrichshain",
+    "cinemaShortName": "fhain",
+    "id": "fhain-750",
+    "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/750",
+    "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=734",
+    "title": "Barry Lyndon",
+    "date": "Di., 31.8.",
+    "timestamp": 1630440000000,
+    "time": "20:00",
+    "available": 992,
+    "reserved": 0,
+    "bookable": true
+  },
+  "fhain-748": {
+    "trailer": "https://www.youtube-nocookie.com/embed/mP0VHJYFOAU?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
+    "description": "Is this his real life? Is this just fantasy? Bohemian Rhapsody ähnelt Freddie Mercury auf vielerlei Weise: überbordend und spritzig, etwas kitschig und mit der Wahrheit kokettierend, dabei aber in seiner Opulenz großartig unterhaltsam. Ein mehr als würdiges Filmdenkmal für eine Band, deren Sounds und Songs sich in den Rock-Olymp einschrieben und ihren charismatischen Frontman, den bis heute unerreichten Freddie Mercury. \"Bohemian Rhapsody\" will rock you.\n",
+    "cinemaId": "fh_freiluftkino",
+    "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+    "cinemaName": "Freiluftkino Friedrichshain",
+    "cinemaShortName": "fhain",
+    "id": "fhain-748",
+    "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/748",
+    "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=732",
+    "title": "Bohemian Rhapsody",
+    "date": "So., 29.8.",
+    "timestamp": 1630269000000,
+    "time": "20:30",
+    "available": 992,
+    "reserved": 0,
+    "bookable": true
+  },
+  "fhain-746": {
+    "trailer": "https://www.youtube-nocookie.com/embed/VQFk1DMzvvI?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
+    "description": "\"Dominik Graf bemüht die ganze Klaviatur der Filmgeschichte. Zeigt wie modernes audiovisuelles Erzählen aussehen kann. Intelligent und verspielt, dramatisch und leicht. Kurzum: Ein großer Wurf!\" Deutschlandfunk Kultur. \nJakob Fabian (Tom Schilling) arbeitet in der Werbeabteilung eines Zigarettenherstellers. Eines Abends trifft er im Berliner Nachtleben des Jahres 1931 Cornelia (Saskia Rosendahl) – erstmals beginnt Fabian an eine große Liebe zu glauben, die seinem Leben Bestimmung geben kann. Gemeinsam mit ihr und seinem wohlhabenden Freund Labude (Albrecht Schuch) stürzen sich die drei in das Gewusel der letzten Jahre der Weimarer Republik. Dabei gerät Jakob Fabian immer mehr zwischen die Fronten der sich ausbreitenden politischen Extremen. ",
+    "cinemaId": "fh_freiluftkino",
+    "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+    "cinemaName": "Freiluftkino Friedrichshain",
+    "cinemaShortName": "fhain",
+    "id": "fhain-746",
+    "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/746",
+    "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=730",
+    "title": "Fabian oder Der Gang vor die Hunde",
+    "date": "Fr., 27.8.",
+    "timestamp": 1630096200000,
+    "time": "20:30",
+    "available": 992,
+    "reserved": 0,
+    "bookable": true
+  },
+  "fhain-751": {
+    "trailer": "https://www.youtube-nocookie.com/embed/DitVsuZ66fQ?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
+    "description": "Mit zärtlicher Wucht und nach autobiographischen Motiven erzählt Regisseur Faraz Shariat vom jungen Deutschiraner Parvis, der sich sein Leben bequem zwischen Grindr-Dates und langen Clubnächten eingerichtet hat. Doch dann wird er bei einem Ladendiebstahl erwischt und muss in einem Wohnprojekt für Flüchtlinge seine Sozialstunden ableisten. Dort trifft er auf das iranische Geschwis­ter­paar Banafshe und Amon; der Beginn einer intensiven Freundschaft. Zu dritt erleben sie einen Sommer stürmisch durchfeierter Nächte und zwischen Parvis und Amon knistert es ganz gewaltig. \n\"Futur Drei\" erzählt ein doppeltes Coming-out, ein queeres und ein kulturelles (Tagesspiegel). ",
+    "cinemaId": "fh_freiluftkino",
+    "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+    "cinemaName": "Freiluftkino Friedrichshain",
+    "cinemaShortName": "fhain",
+    "id": "fhain-751",
+    "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/751",
+    "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=735",
+    "title": "Futur Drei",
+    "date": "Mi., 1.9.,",
+    "timestamp": 1630526400000,
+    "time": "20:00",
+    "available": 992,
+    "reserved": 0,
+    "bookable": true
+  },
+  "fhain-745": {
+    "trailer": "https://www.youtube-nocookie.com/embed/MoGRjPtOGn4?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
+    "description": "\"Der schönste, intelligenteste Mafiafilm seit Martin Scorseses \"Casino\" (Le Monde). Während der frühen 1980er Jahre tobt ein Krieg im Inneren der sizilianischen Cosa Nostra. Der hochrangige Mafiaboss Tommaso Buscetta taucht in Brasilien unter, während in Italien alte Rechnungen beglichen und Buscettas Verbündete und Angehörige systematisch ermordet werden. Aufgespürt, verhaftet und von der brasilianischen Polizei nach Italien ausgeliefert, trifft der bis dato loyale Gefolgsmann Buscetta die Entscheidung, gegenüber dem Untersuchungsrichter Giovanni Falcone das Schweigegelübde zu brechen, das er mit dem Beitritt in die sizilianische Cosa Nostra abgelegt hat. ",
+    "cinemaId": "fh_freiluftkino",
+    "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
+    "cinemaName": "Freiluftkino Friedrichshain",
+    "cinemaShortName": "fhain",
+    "id": "fhain-745",
+    "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/745",
+    "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=729",
+    "title": "Il Traditore - Als Kronzeuge gegen die Cosa Nostra",
+    "date": "Do., 26.8.",
+    "timestamp": 1630009800000,
+    "time": "20:30",
+    "available": 992,
     "reserved": 0,
     "bookable": true
   },
@@ -294,8 +504,8 @@
     "date": "Sa., 7.8.,",
     "timestamp": 1628370000000,
     "time": "21:00",
-    "available": 460,
-    "reserved": 233,
+    "available": 453,
+    "reserved": 240,
     "bookable": true
   },
   "xberg-659": {
@@ -347,8 +557,8 @@
     "date": "Mo., 9.8.,",
     "timestamp": 1628543700000,
     "time": "21:15",
-    "available": 467,
-    "reserved": 226,
+    "available": 466,
+    "reserved": 227,
     "bookable": true
   },
   "xberg-658": {
@@ -365,8 +575,8 @@
     "date": "Fr., 6.8.,",
     "timestamp": 1628283600000,
     "time": "21:00",
-    "available": 237,
-    "reserved": 456,
+    "available": 225,
+    "reserved": 468,
     "bookable": true
   },
   "xberg-662": {
@@ -382,8 +592,8 @@
     "date": "Mi., 11.8.",
     "timestamp": 1628716500000,
     "time": "21:15",
-    "available": 548,
-    "reserved": 145,
+    "available": 539,
+    "reserved": 154,
     "bookable": true
   },
   "xberg-666": {
@@ -435,8 +645,8 @@
     "date": "Mo., 16.8.",
     "timestamp": 1629148500000,
     "time": "21:15",
-    "available": 528,
-    "reserved": 165,
+    "available": 527,
+    "reserved": 166,
     "bookable": true
   },
   "xberg-663": {
@@ -453,8 +663,8 @@
     "date": "Do., 12.8.",
     "timestamp": 1628802900000,
     "time": "21:15",
-    "available": 226,
-    "reserved": 467,
+    "available": 221,
+    "reserved": 472,
     "bookable": true
   },
   "xberg-602": {
@@ -487,8 +697,8 @@
     "date": "Fr., 6.8.,",
     "timestamp": 1628283600000,
     "time": "21:00",
-    "available": 432,
-    "reserved": 141,
+    "available": 429,
+    "reserved": 144,
     "bookable": true
   },
   "rehberge-658": {
@@ -522,8 +732,8 @@
     "date": "So., 8.8.,",
     "timestamp": 1628456400000,
     "time": "21:00",
-    "available": 538,
-    "reserved": 35,
+    "available": 533,
+    "reserved": 40,
     "bookable": true
   },
   "rehberge-655": {
@@ -611,8 +821,8 @@
     "date": "Do., 12.8.",
     "timestamp": 1628802000000,
     "time": "21:00",
-    "available": 413,
-    "reserved": 160,
+    "available": 412,
+    "reserved": 161,
     "bookable": true
   },
   "rehberge-662": {
@@ -956,8 +1166,8 @@
     "img": "https://media.kinoheld.de/zAa01K_Wc_Ukkdd7ewI4AB9r1Q8=/400x560/images%2Ffilm%2Fder-rausch-18282.v16.jpg",
     "description": "Früher war Martin Lehrer aus Leidenschaft – heute sind nicht nur die Schüler von seinem fehlenden Enthusiasmus gelangweilt, auch in Martins Ehe ist die Luft raus. Seinen drei Freunden, die am selben Gymnasium unterrichten, geht es nicht viel besser. Bei einer angeheiterten Geburtstagsrunde diskutieren sie die Theorie eines norwegischen Philosophen: Nach dieser ist ein Mensch nur mit einem erhöhten Alkoholgehalt im Blut zu Bestleistungen fähig. Solch eine gewagte These muss überprüft werden. Die vier beschließen den Selbsttest zu machen und während der Arbeit einen bestimmten Pegel zu halten. Soll nicht sogar Churchill den Zweiten Weltkrieg in einem Alkoholrausch gewonnen haben? Mit neuem Antrieb stürzen sie sich in ihre geheime wissenschaftliche Studie. Die Wirkung lässt nicht lange auf sich warten …",
     "trailer": "https://www.youtube.com/watch?v=b2z6M24yq2Y",
-    "available": 197,
-    "reserved": 132,
+    "available": 184,
+    "reserved": 138,
     "bookable": true
   },
   "hasenheide-693049": {
@@ -1010,8 +1220,8 @@
     "img": "https://media.kinoheld.de/GwZHiD65bCVb3mxAuT7jVcFqH9M=/400x560/images%2Ffilm%2Fnomadland-18288.v2.png",
     "description": "Nach dem wirtschaftlichen Zusammenbruch einer Stadt im ländlichen Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren weißen Van und macht sich auf den Weg, um als moderne Nomadin im Westen der USA ein Leben außerhalb der konventionellen Gesellschaft zu erkunden.",
     "trailer": "https://www.youtube.com/watch?v=5a-U7Wwi18c",
-    "available": 89,
-    "reserved": 167,
+    "available": 80,
+    "reserved": 171,
     "bookable": true
   },
   "hasenheide-692889": {
@@ -1106,8 +1316,8 @@
     "timestamp": 1628467200000,
     "time": "21:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/693056?layout=shows",
-    "available": 651,
-    "reserved": 6,
+    "available": 632,
+    "reserved": 11,
     "bookable": true
   },
   "hasenheide-693058": {
@@ -2471,7 +2681,7 @@
     "img": "https://media.kinoheld.de/05Q9g3CzGjSrED-jm-g0dVl1LNs=/400x560/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v209.jpg",
     "description": "Aufgewachsen im komfortablen Wohlstand seiner iranischen Einwanderer-Eltern entzieht sich Millenial Parvis dem Provinzleben in Hildesheim durch Popkultur, Grindr-Dates und Raves. Als Strafe für einen Ladendiebstahl muß er Sozialstunden als Übersetzer in einer Unterkunft für Geflüchtete leisten, in der er auf das iranische Geschwisterpaar Banafshe und Amon trifft. Zwischen ihnen entwickelt sich eine fragile Dreierbeziehung, die zunehmend von dem Bewusstsein geprägt ist, dass ihre Zukunft in Deutschland ungleich ist.",
     "trailer": "https://www.youtube.com/watch?v=DitVsuZ66fQ",
-    "available": 16,
+    "available": 18,
     "reserved": 36,
     "bookable": true
   },
@@ -3567,8 +3777,8 @@
     "timestamp": 1628294400000,
     "time": "21:00",
     "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2413848705?layout=shows",
-    "available": 58,
-    "reserved": 17,
+    "available": 55,
+    "reserved": 20,
     "bookable": true
   },
   "mobile kino-2413857701": {
@@ -3947,8 +4157,8 @@
     "time": "21:15",
     "date": "Fr., 6.8.,",
     "timestamp": 1628284500000,
-    "available": 353,
-    "reserved": 107,
+    "available": 339,
+    "reserved": 121,
     "bookable": true
   },
   "kulturforum-288": {
@@ -3965,8 +4175,8 @@
     "time": "21:15",
     "date": "Sa., 7.8.,",
     "timestamp": 1628370900000,
-    "available": 118,
-    "reserved": 342,
+    "available": 98,
+    "reserved": 362,
     "bookable": true
   },
   "kulturforum-289": {
@@ -3982,8 +4192,8 @@
     "time": "21:15",
     "date": "So., 8.8.,",
     "timestamp": 1628457300000,
-    "available": 313,
-    "reserved": 147,
+    "available": 312,
+    "reserved": 148,
     "bookable": true
   },
   "kulturforum-290": {
@@ -4054,8 +4264,8 @@
     "time": "21:00",
     "date": "Do., 12.8.",
     "timestamp": 1628802000000,
-    "available": 327,
-    "reserved": 133,
+    "available": 320,
+    "reserved": 140,
     "bookable": true
   },
   "kulturforum-295": {
@@ -4123,8 +4333,8 @@
     "time": "21:15",
     "date": "Fr., 6.8.,",
     "timestamp": 1628284500000,
-    "available": 356,
-    "reserved": 287,
+    "available": 347,
+    "reserved": 296,
     "bookable": true
   },
   "schloss-charlottenburg-73": {
@@ -4158,8 +4368,8 @@
     "time": "21:15",
     "date": "Mo., 9.8.,",
     "timestamp": 1628543700000,
-    "available": 356,
-    "reserved": 143,
+    "available": 354,
+    "reserved": 145,
     "bookable": true
   },
   "schloss-charlottenburg-69": {
@@ -4176,8 +4386,8 @@
     "time": "21:00",
     "date": "Di., 10.8.",
     "timestamp": 1628629200000,
-    "available": 404,
-    "reserved": 95,
+    "available": 406,
+    "reserved": 93,
     "bookable": true
   },
   "schloss-charlottenburg-72": {
@@ -4194,8 +4404,8 @@
     "time": "21:00",
     "date": "Mi., 11.8.",
     "timestamp": 1628715600000,
-    "available": 369,
-    "reserved": 130,
+    "available": 367,
+    "reserved": 132,
     "bookable": true
   },
   "schloss-charlottenburg-74": {
@@ -4248,8 +4458,43 @@
     "time": "21:00",
     "date": "Sa., 14.8.",
     "timestamp": 1628974800000,
-    "available": 612,
-    "reserved": 31,
+    "available": 609,
+    "reserved": 34,
+    "bookable": true
+  },
+  "schloss-charlottenburg-79": {
+    "title": "Der Rausch (OmU)",
+    "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/60a79f9a69f5b543b871ec2a/show_Der_Rausch_Poster_S.jpg",
+    "description": "Vier Lehrer starten ein Experiment: dauerhaft halten sie einen niedrigen Alkoholpegel aufrecht. Ausgezeichnet mit vier Europäischen Filmpreisen und dem Oscar für den besten fremdsprachigen Film.",
+    "trailer": "https://www.youtube.com/watch?v=BQyIaFreaQA&ab_channel=FilmladenFilmverleihFilmladenFilmverleih",
+    "cinemaId": "60a3b5ed61444058ac0797a2",
+    "cinemaUrl": "https://yorck.de/kinos/sommerkino-schloss-charlottenburg",
+    "cinemaName": "sommerkino-schloss-charlottenburg",
+    "cinemaShortName": "schloss-charlottenburg",
+    "id": "schloss-charlottenburg-79",
+    "url": "https://yorck.de/checkout/step01?showid=79&siteid=1020",
+    "time": "21:00",
+    "date": "So., 15.8.",
+    "timestamp": 1629061200000,
+    "available": 479,
+    "reserved": 20,
+    "bookable": true
+  },
+  "schloss-charlottenburg-80": {
+    "title": "Promising Young Woman (OmU)",
+    "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/5e46811869f5b5468b8d22e8/show_PYWPOS_Poster_S.jpg",
+    "description": "Cassandra (Carey Mulligan) nimmt Rache an den übergriffigen Männern, die das Pech haben, ihren Weg zu kreuzen. Bissiger, knallpinker Rachethriller von  Emerald Fennell (Killing Eve).",
+    "cinemaId": "60a3b5ed61444058ac0797a2",
+    "cinemaUrl": "https://yorck.de/kinos/sommerkino-schloss-charlottenburg",
+    "cinemaName": "sommerkino-schloss-charlottenburg",
+    "cinemaShortName": "schloss-charlottenburg",
+    "id": "schloss-charlottenburg-80",
+    "url": "https://yorck.de/checkout/step01?showid=80&siteid=1020",
+    "time": "21:00",
+    "date": "Mo., 16.8.",
+    "timestamp": 1629147600000,
+    "available": 479,
+    "reserved": 20,
     "bookable": true
   },
   "schloss-charlottenburg-77": {
