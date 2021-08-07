@@ -14,8 +14,8 @@
       "date": "Mo., 9.8.,",
       "timestamp": 1628542800000,
       "time": "21:00",
-      "available": 901,
-      "reserved": 91,
+      "available": 899,
+      "reserved": 93,
       "bookable": true
     },
     {
@@ -382,8 +382,8 @@
       "date": "So., 29.8.",
       "timestamp": 1630269000000,
       "time": "20:30",
-      "available": 990,
-      "reserved": 2,
+      "available": 992,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -508,8 +508,8 @@
       "date": "So., 8.8.,",
       "timestamp": 1628456400000,
       "time": "21:00",
-      "available": 673,
-      "reserved": 20,
+      "available": 671,
+      "reserved": 22,
       "bookable": true
     },
     {
@@ -755,8 +755,8 @@
       "date": "So., 8.8.,",
       "timestamp": 1628456400000,
       "time": "21:00",
-      "available": 519,
-      "reserved": 54,
+      "available": 515,
+      "reserved": 58,
       "bookable": true
     },
     {
@@ -1196,7 +1196,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/filmrauschpalast/show/2410947390?layout=shows",
       "img": "https://media.kinoheld.de/PyYvEPhzQTl-brqy6Qo1VsAMuBU=/400x560/images%2Ffilm%2F4%2Fheil-1729.v2.jpg",
       "description": "„Heil“ ist eine kreischend komische Liebeskomödie und bitterböse Gesellschaftssatire, in der alle durch den Kakao gezogen werden. Die alten rechtsradikalen Schläger und die neuen, sich harmlos gebenden „Nipster“. Die liberalen Intellektuellen mit ihren Denkverboten. Die Antifa mit ihren Schwarzweiß-Feindbildern. Der Verfassungsschutz mit seinem grotesken Bürokratie-Wirrwarr. Der Kulturbetrieb mit seinem prätentiösen Kunst-Blabla. Und nicht zuletzt die Medienöffentlichkeit, die süchtig ist nach Erregung und sich ihre eigene Wirklichkeit schafft. Rasant und rasend zugleich inszeniert, ist „Heil“ eine schrille Farce über die Lage der Nation, der nichts heilig ist.",
-      "available": 71,
+      "available": 69,
       "reserved": 14,
       "bookable": true
     },
@@ -2427,7 +2427,7 @@
       "timestamp": 1628899200000,
       "time": "20:45",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-insel-im-cassiopeia/show/2418093347?layout=shows",
-      "img": "https://media.kinoheld.de/o7491tUQveI0MaN9W9IxqLfYwb4=/400x560/images%2Ffilm%2Fhome-19467.v2.png",
+      "img": "https://media.kinoheld.de/bBNagXUSiPslVD-0znWHxT5ipjw=/400x560/images%2Ffilm%2Fhome-19467.v4.png",
       "description": "Marvin Hacks (Jake McLaughlin) saß 17 Jahre lang hinter Gittern und nun ist es so weit, er darf wieder nach Hause. Mit seinem Skateboard und dem Trainingsanzug, den er trug, als er als Teenager verhaftet wurde, macht er sich auf den Weg nach Newhall. Dort angekommen erwartet ihn seine schwerkranke Mutter Bernadette (Kathy Bates) in dem gleichen, mittlerweile heruntergekommenen Haus seiner Kindheit. Doch Marvin bemerkt schnell, dass die Bewohner der Kleinstadt auch nach fast 20 Jahren nicht vergessen haben, was Marvin einst ins Gefängnis brachte. Ganz besonders großer Hass kommt ihm vom Flintow-Clan entgegen. Doch wenn Marvin einst aus seiner Zeit im Knast gelernt hat, dann, dass er sich den Konsequenzen seines Handelns stellen muss. Also ist er nun auch bereit, sich den Auswirkungen seiner Vergangenheit zu stellen, mit allem, was dazugehört. Er erträgt alles, jede auch nur kleinste Schikane und jeden Stein, der ihm in den Weg gelegt wird – was besonders bei der jungen Delta Flintow (Aisling Franciosi) ankommt, die ihn fortan mit anderen Augen sieht.",
       "trailer": "https://www.youtube.com/watch?v=XxMkftoJxkg",
       "available": -1,
@@ -2838,8 +2838,8 @@
       "img": "https://media.kinoheld.de/05Q9g3CzGjSrED-jm-g0dVl1LNs=/400x560/images%2Ffilm%2Fqueerfilmnacht-futur-drei-17294.v209.jpg",
       "description": "Aufgewachsen im komfortablen Wohlstand seiner iranischen Einwanderer-Eltern entzieht sich Millenial Parvis dem Provinzleben in Hildesheim durch Popkultur, Grindr-Dates und Raves. Als Strafe für einen Ladendiebstahl muß er Sozialstunden als Übersetzer in einer Unterkunft für Geflüchtete leisten, in der er auf das iranische Geschwisterpaar Banafshe und Amon trifft. Zwischen ihnen entwickelt sich eine fragile Dreierbeziehung, die zunehmend von dem Bewusstsein geprägt ist, dass ihre Zukunft in Deutschland ungleich ist.",
       "trailer": "https://www.youtube.com/watch?v=DitVsuZ66fQ",
-      "available": 15,
-      "reserved": 38,
+      "available": 12,
+      "reserved": 40,
       "bookable": true
     },
     {
@@ -4297,8 +4297,8 @@
       "time": "21:15",
       "date": "Sa., 7.8.,",
       "timestamp": 1628370900000,
-      "available": 25,
-      "reserved": 435,
+      "available": 24,
+      "reserved": 436,
       "bookable": true
     },
     {
@@ -4350,9 +4350,9 @@
       "time": "21:00",
       "date": "Di., 10.8.",
       "timestamp": 1628629200000,
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 8,
+      "reserved": 452,
+      "bookable": true
     },
     {
       "title": "ARTE | Grusel, Glaube & Genie: Gotik!",
@@ -4368,8 +4368,8 @@
       "time": "21:00",
       "date": "Mi., 11.8.",
       "timestamp": 1628715600000,
-      "available": 177,
-      "reserved": 283,
+      "available": 175,
+      "reserved": 285,
       "bookable": true
     },
     {
@@ -4507,8 +4507,8 @@
       "time": "21:00",
       "date": "Mi., 11.8.",
       "timestamp": 1628715600000,
-      "available": 177,
-      "reserved": 283,
+      "available": 175,
+      "reserved": 285,
       "bookable": true
     },
     {
@@ -4525,8 +4525,8 @@
       "time": "21:15",
       "date": "Sa., 7.8.,",
       "timestamp": 1628370900000,
-      "available": 25,
-      "reserved": 435,
+      "available": 24,
+      "reserved": 436,
       "bookable": true
     },
     {
@@ -4631,9 +4631,9 @@
       "time": "21:00",
       "date": "Di., 10.8.",
       "timestamp": 1628629200000,
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 8,
+      "reserved": 452,
+      "bookable": true
     }
   ],
   "sommerkino-schloss-charlottenburg": [
@@ -4740,8 +4740,8 @@
       "time": "21:00",
       "date": "Fr., 13.8.",
       "timestamp": 1628888400000,
-      "available": 574,
-      "reserved": 69,
+      "available": 572,
+      "reserved": 71,
       "bookable": true
     },
     {
@@ -4936,8 +4936,8 @@
       "time": "21:00",
       "date": "Fr., 13.8.",
       "timestamp": 1628888400000,
-      "available": 574,
-      "reserved": 69,
+      "available": 572,
+      "reserved": 71,
       "bookable": true
     },
     {
