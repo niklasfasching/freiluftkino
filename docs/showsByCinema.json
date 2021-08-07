@@ -14,8 +14,8 @@
       "date": "Mo., 9.8.,",
       "timestamp": 1628542800000,
       "time": "21:00",
-      "available": 713,
-      "reserved": 91,
+      "available": 709,
+      "reserved": 95,
       "bookable": true
     },
     {
@@ -68,8 +68,8 @@
       "date": "So., 8.8.,",
       "timestamp": 1628456400000,
       "time": "21:00",
-      "available": 719,
-      "reserved": 85,
+      "available": 715,
+      "reserved": 89,
       "bookable": true
     },
     {
@@ -122,8 +122,8 @@
       "date": "Fr., 13.8.",
       "timestamp": 1628888400000,
       "time": "21:00",
-      "available": 717,
-      "reserved": 87,
+      "available": 712,
+      "reserved": 92,
       "bookable": true
     },
     {
@@ -157,8 +157,8 @@
       "date": "So., 15.8.",
       "timestamp": 1629061200000,
       "time": "21:00",
-      "available": 783,
-      "reserved": 21,
+      "available": 781,
+      "reserved": 23,
       "bookable": true
     },
     {
@@ -209,8 +209,8 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628974800000,
       "time": "21:00",
-      "available": 511,
-      "reserved": 293,
+      "available": 508,
+      "reserved": 296,
       "bookable": true
     },
     {
@@ -365,8 +365,8 @@
       "date": "Di., 31.8.",
       "timestamp": 1630440000000,
       "time": "20:00",
-      "available": 804,
-      "reserved": 0,
+      "available": 802,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -491,8 +491,8 @@
       "date": "Sa., 7.8.,",
       "timestamp": 1628370000000,
       "time": "21:00",
-      "available": 172,
-      "reserved": 521,
+      "available": 154,
+      "reserved": 539,
       "bookable": true
     },
     {
@@ -756,8 +756,8 @@
       "date": "So., 8.8.,",
       "timestamp": 1628456400000,
       "time": "21:00",
-      "available": 484,
-      "reserved": 89,
+      "available": 446,
+      "reserved": 127,
       "bookable": true
     },
     {
@@ -773,8 +773,8 @@
       "date": "Sa., 7.8.,",
       "timestamp": 1628370000000,
       "time": "21:00",
-      "available": 427,
-      "reserved": 146,
+      "available": 420,
+      "reserved": 153,
       "bookable": true
     },
     {
@@ -809,8 +809,8 @@
       "date": "Mi., 11.8.",
       "timestamp": 1628715600000,
       "time": "21:00",
-      "available": 522,
-      "reserved": 51,
+      "available": 520,
+      "reserved": 53,
       "bookable": true
     },
     {
@@ -934,8 +934,8 @@
       "date": "Fr., 13.8.",
       "timestamp": 1628888400000,
       "time": "21:00",
-      "available": 560,
-      "reserved": 13,
+      "available": 558,
+      "reserved": 15,
       "bookable": true
     },
     {
@@ -1022,8 +1022,8 @@
       "date": "Fr., 20.8.",
       "timestamp": 1629489600000,
       "time": "20:00",
-      "available": 326,
-      "reserved": 278,
+      "available": 318,
+      "reserved": 286,
       "bookable": true
     },
     {
@@ -1199,8 +1199,8 @@
       "url": "https://www.kinoheld.de/cinema-berlin/filmrauschpalast/show/2410947390?layout=shows",
       "img": "https://media.kinoheld.de/PyYvEPhzQTl-brqy6Qo1VsAMuBU=/400x560/images%2Ffilm%2F4%2Fheil-1729.v2.jpg",
       "description": "„Heil“ ist eine kreischend komische Liebeskomödie und bitterböse Gesellschaftssatire, in der alle durch den Kakao gezogen werden. Die alten rechtsradikalen Schläger und die neuen, sich harmlos gebenden „Nipster“. Die liberalen Intellektuellen mit ihren Denkverboten. Die Antifa mit ihren Schwarzweiß-Feindbildern. Der Verfassungsschutz mit seinem grotesken Bürokratie-Wirrwarr. Der Kulturbetrieb mit seinem prätentiösen Kunst-Blabla. Und nicht zuletzt die Medienöffentlichkeit, die süchtig ist nach Erregung und sich ihre eigene Wirklichkeit schafft. Rasant und rasend zugleich inszeniert, ist „Heil“ eine schrille Farce über die Lage der Nation, der nichts heilig ist.",
-      "available": 40,
-      "reserved": 45,
+      "available": 35,
+      "reserved": 50,
       "bookable": true
     },
     {
@@ -3856,8 +3856,8 @@
       "timestamp": 1628467200000,
       "time": "21:00",
       "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2413857701?layout=shows",
-      "available": 93,
-      "reserved": 15,
+      "available": 92,
+      "reserved": 16,
       "bookable": true
     },
     {
@@ -4268,9 +4268,9 @@
       "time": "21:15",
       "date": "Sa., 7.8.,",
       "timestamp": 1628370900000,
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 16,
+      "reserved": 444,
+      "bookable": true
     },
     {
       "title": "Chungking Express (OmU)",
@@ -4496,9 +4496,9 @@
       "time": "21:15",
       "date": "Sa., 7.8.,",
       "timestamp": 1628370900000,
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
+      "available": 16,
+      "reserved": 444,
+      "bookable": true
     },
     {
       "title": "Minari (OmU)",
@@ -4621,8 +4621,8 @@
       "time": "21:15",
       "date": "So., 8.8.,",
       "timestamp": 1628457300000,
-      "available": 414,
-      "reserved": 85,
+      "available": 413,
+      "reserved": 86,
       "bookable": true
     },
     {
@@ -4675,8 +4675,8 @@
       "time": "21:00",
       "date": "Mi., 11.8.",
       "timestamp": 1628715600000,
-      "available": 351,
-      "reserved": 148,
+      "available": 349,
+      "reserved": 150,
       "bookable": true
     },
     {
@@ -4693,8 +4693,8 @@
       "time": "21:00",
       "date": "Do., 12.8.",
       "timestamp": 1628802000000,
-      "available": 459,
-      "reserved": 40,
+      "available": 458,
+      "reserved": 41,
       "bookable": true
     },
     {
@@ -4711,8 +4711,8 @@
       "time": "21:00",
       "date": "Fr., 13.8.",
       "timestamp": 1628888400000,
-      "available": 570,
-      "reserved": 73,
+      "available": 568,
+      "reserved": 75,
       "bookable": true
     },
     {
@@ -4835,8 +4835,8 @@
       "time": "21:00",
       "date": "Mi., 11.8.",
       "timestamp": 1628715600000,
-      "available": 351,
-      "reserved": 148,
+      "available": 349,
+      "reserved": 150,
       "bookable": true
     },
     {
@@ -4889,8 +4889,8 @@
       "time": "21:00",
       "date": "Do., 12.8.",
       "timestamp": 1628802000000,
-      "available": 459,
-      "reserved": 40,
+      "available": 458,
+      "reserved": 41,
       "bookable": true
     },
     {
@@ -4907,8 +4907,8 @@
       "time": "21:00",
       "date": "Fr., 13.8.",
       "timestamp": 1628888400000,
-      "available": 570,
-      "reserved": 73,
+      "available": 568,
+      "reserved": 75,
       "bookable": true
     },
     {
@@ -4976,8 +4976,8 @@
       "time": "21:15",
       "date": "So., 8.8.,",
       "timestamp": 1628457300000,
-      "available": 414,
-      "reserved": 85,
+      "available": 413,
+      "reserved": 86,
       "bookable": true
     },
     {
