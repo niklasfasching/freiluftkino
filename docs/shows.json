@@ -13,8 +13,8 @@
     "date": "Mo., 9.8.,",
     "timestamp": 1628542800000,
     "time": "21:00",
-    "available": 719,
-    "reserved": 85,
+    "available": 710,
+    "reserved": 94,
     "bookable": true
   },
   "fhain-702": {
@@ -67,8 +67,8 @@
     "date": "So., 8.8.,",
     "timestamp": 1628456400000,
     "time": "21:00",
-    "available": 723,
-    "reserved": 81,
+    "available": 721,
+    "reserved": 83,
     "bookable": true
   },
   "fhain-730": {
@@ -85,8 +85,8 @@
     "date": "Mi., 11.8.",
     "timestamp": 1628715600000,
     "time": "21:00",
-    "available": 738,
-    "reserved": 66,
+    "available": 634,
+    "reserved": 170,
     "bookable": true
   },
   "fhain-731": {
@@ -208,8 +208,8 @@
     "date": "Sa., 14.8.",
     "timestamp": 1628974800000,
     "time": "21:00",
-    "available": 518,
-    "reserved": 286,
+    "available": 511,
+    "reserved": 293,
     "bookable": true
   },
   "fhain-667": {
@@ -299,7 +299,7 @@
     "bookable": true
   },
   "fhain-752": {
-    "description": "",
+    "description": "Wir freuen uns auf Dieter Kosslick, der in den vergangenen Jahrzehnten (!) als Berlinale-Chef immer wieder bei zu Gast war. Er wird mit der Journalistin Anke Leweke über sein Buch \"Immer auf dem Teppich bleiben\" sprechen, über die gemeinsamen Jahre bei der Berlinale und vieles mehr. Dieter Kosslick wird aus seinem Buch lesen und Wes Andersons GRAND BUDAPEST HOTEL wird den Abend beschließen. Besser geht nicht.",
     "cinemaId": "fh_freiluftkino",
     "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
     "cinemaName": "Freiluftkino Friedrichshain",
@@ -329,12 +329,13 @@
     "date": "Fr., 20.8.",
     "timestamp": 1629491400000,
     "time": "20:30",
-    "available": 800,
-    "reserved": 4,
+    "available": 798,
+    "reserved": 6,
     "bookable": true
   },
   "fhain-742": {
-    "description": "",
+    "trailer": "https://www.youtube-nocookie.com/embed/pe7YYlcGrVU?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
+    "description": "\"Der besondere Coup des Films ist die gewählte Perspektive, die das Geschehen konsequent aus Sicht des Erkrankten zeigt. Ein beeindruckendes, aufschlussreiches filmisches Erlebnis.\" prorammkino.de\n\"Zwischen Starrsinn und Verletzlichkeit, Zärtlichkeit und Bosheit, plötzlich aufblitzendem Charme und tiefster Verzweiflung findet Hopkins einen ungeheuren Reichtum von Nuancen [und] trifft – man muss es so pathetisch sagen – mit seiner schlichten Menschlichkeit direkt ins Herz..\" (epd Film)",
     "cinemaId": "fh_freiluftkino",
     "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
     "cinemaName": "Freiluftkino Friedrichshain",
@@ -399,8 +400,8 @@
     "date": "Fr., 27.8.",
     "timestamp": 1630096200000,
     "time": "20:30",
-    "available": 802,
-    "reserved": 2,
+    "available": 800,
+    "reserved": 4,
     "bookable": true
   },
   "fhain-751": {
@@ -487,8 +488,8 @@
     "date": "Sa., 7.8.,",
     "timestamp": 1628370000000,
     "time": "21:00",
-    "available": 230,
-    "reserved": 463,
+    "available": 190,
+    "reserved": 503,
     "bookable": true
   },
   "xberg-659": {
@@ -505,8 +506,8 @@
     "date": "So., 8.8.,",
     "timestamp": 1628456400000,
     "time": "21:00",
-    "available": 663,
-    "reserved": 30,
+    "available": 661,
+    "reserved": 32,
     "bookable": true
   },
   "xberg-661": {
@@ -522,8 +523,8 @@
     "date": "Di., 10.8.",
     "timestamp": 1628630100000,
     "time": "21:15",
-    "available": 604,
-    "reserved": 89,
+    "available": 602,
+    "reserved": 91,
     "bookable": true
   },
   "xberg-660": {
@@ -557,8 +558,8 @@
     "date": "Mi., 11.8.",
     "timestamp": 1628716500000,
     "time": "21:15",
-    "available": 525,
-    "reserved": 168,
+    "available": 526,
+    "reserved": 167,
     "bookable": true
   },
   "xberg-669": {
@@ -575,8 +576,8 @@
     "date": "Mi., 18.8.",
     "timestamp": 1629321300000,
     "time": "21:15",
-    "available": 695,
-    "reserved": 4,
+    "available": 693,
+    "reserved": 6,
     "bookable": true
   },
   "xberg-666": {
@@ -610,8 +611,8 @@
     "date": "Fr., 13.8.",
     "timestamp": 1628889300000,
     "time": "21:15",
-    "available": 619,
-    "reserved": 74,
+    "available": 616,
+    "reserved": 77,
     "bookable": true
   },
   "xberg-667": {
@@ -628,8 +629,8 @@
     "date": "Mo., 16.8.",
     "timestamp": 1629148500000,
     "time": "21:15",
-    "available": 518,
-    "reserved": 175,
+    "available": 516,
+    "reserved": 177,
     "bookable": true
   },
   "xberg-663": {
@@ -767,8 +768,8 @@
     "date": "Sa., 7.8.,",
     "timestamp": 1628370000000,
     "time": "21:00",
-    "available": 445,
-    "reserved": 128,
+    "available": 435,
+    "reserved": 138,
     "bookable": true
   },
   "rehberge-657": {
@@ -911,8 +912,8 @@
     "date": "So., 15.8.",
     "timestamp": 1629061200000,
     "time": "21:00",
-    "available": 514,
-    "reserved": 59,
+    "available": 512,
+    "reserved": 61,
     "bookable": true
   },
   "rehberge-661": {
@@ -951,7 +952,8 @@
     "bookable": true
   },
   "rehberge-673": {
-    "description": "",
+    "trailer": "https://www.youtube-nocookie.com/embed/haPA-zbxWJQ?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
+    "description": "In poetischen Bildern und mit verspieltem Humor ist mit DER HOCHZEITSSCHNEIDER VON ATHEN eine liebevoll erzählte, romantische Komödie über eine ganz besondere Anziehungskraft zwischen zwei Menschen gelungen, die sich nicht unterkriegen lassen. Regisseurin Sonia Liza Kenterman entführt uns in eine Welt voller wunderbarer Details und kleiner Wunder, inszeniert in den lebensfrohen Farben eines rauschenden Hochzeitsfests. ",
     "cinemaId": "rb_freiluftkino",
     "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
     "cinemaName": "Freiluftkino Rehberge",
@@ -968,7 +970,7 @@
     "bookable": true
   },
   "rehberge-671": {
-    "description": "",
+    "description": "Der 60-jährige Junggeselle Issa führt ein ruhiges, einsames Leben als einfacher Fischer im Hafen von Gaza. Verliebt ist er (heimlich) in die Witwe Siham, die er täglich an ihrem Marktstand beobachtet. Sein Liebeswerben ist allerdings von so großer Schüchternheit geprägt, dass es unbemerkt bleiben muss. Als ihm eines Tages ein ungewöhnlicher Fang ins Netz geht, ist es mit dem ruhigen Leben jedoch vorbei: Eine antike Apollo-Statue mit unübersehbarem erigiertem Penis stürzt den Fischer ins Chaos. Eine solch obszöne Figur ruft die Sittenpolizei des Gaza-Streifens auf den Plan. Issa muss einen Gang zulegen, um sich aus den Fängen der Behörden zu befreien und gleichzeitig endlich in Liebesdingen voranzukommen.",
     "cinemaId": "rb_freiluftkino",
     "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
     "cinemaName": "Freiluftkino Rehberge",
@@ -1020,7 +1022,8 @@
     "bookable": true
   },
   "rehberge-672": {
-    "description": "",
+    "trailer": "https://www.youtube-nocookie.com/embed/pe7YYlcGrVU?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
+    "description": "\"Der besondere Coup des Films ist die gewählte Perspektive, die das Geschehen konsequent aus Sicht des Erkrankten zeigt. Ein beeindruckendes, aufschlussreiches filmisches Erlebnis.\" prorammkino.de\n\"Zwischen Starrsinn und Verletzlichkeit, Zärtlichkeit und Bosheit, plötzlich aufblitzendem Charme und tiefster Verzweiflung findet Hopkins einen ungeheuren Reichtum von Nuancen [und] trifft – man muss es so pathetisch sagen – mit seiner schlichten Menschlichkeit direkt ins Herz..\" (epd Film)",
     "cinemaId": "rb_freiluftkino",
     "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
     "cinemaName": "Freiluftkino Rehberge",
@@ -1189,8 +1192,8 @@
     "url": "https://www.kinoheld.de/cinema-berlin/filmrauschpalast/show/2410947390?layout=shows",
     "img": "https://media.kinoheld.de/PyYvEPhzQTl-brqy6Qo1VsAMuBU=/400x560/images%2Ffilm%2F4%2Fheil-1729.v2.jpg",
     "description": "„Heil“ ist eine kreischend komische Liebeskomödie und bitterböse Gesellschaftssatire, in der alle durch den Kakao gezogen werden. Die alten rechtsradikalen Schläger und die neuen, sich harmlos gebenden „Nipster“. Die liberalen Intellektuellen mit ihren Denkverboten. Die Antifa mit ihren Schwarzweiß-Feindbildern. Der Verfassungsschutz mit seinem grotesken Bürokratie-Wirrwarr. Der Kulturbetrieb mit seinem prätentiösen Kunst-Blabla. Und nicht zuletzt die Medienöffentlichkeit, die süchtig ist nach Erregung und sich ihre eigene Wirklichkeit schafft. Rasant und rasend zugleich inszeniert, ist „Heil“ eine schrille Farce über die Lage der Nation, der nichts heilig ist.",
-    "available": 43,
-    "reserved": 42,
+    "available": 41,
+    "reserved": 44,
     "bookable": true
   },
   "filmrauschpalast-2410947596": {
@@ -1461,8 +1464,8 @@
     "timestamp": 1628467200000,
     "time": "21:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/693056?layout=shows",
-    "available": 622,
-    "reserved": 13,
+    "available": 611,
+    "reserved": 15,
     "bookable": true
   },
   "hasenheide-693058": {
@@ -1511,8 +1514,8 @@
     "img": "https://media.kinoheld.de/GfLOd1LQsa02ny_3ukH3Xsx_-XQ=/400x560/images%2Ffilm%2Fmutter-mother-17562.v39.jpg",
     "description": "Ema ist Tänzerin und lebt zusammen mit Gastón. Sie hatten ein Waisenkind adoptiert, doch nach kurzer Zeit entschied sich Ema, ihn „zurückzugeben“, da er mit Feuer spielte und jemanden verletzt hat. Ihr Umfeld reagierte entsetzt und auch Ema scheint es sich überlegt zu haben. Doch als das Adoptionsamt ihr sagt, dass er bei einer neuen Familie ist, ist Ema klar: Sie zieht in den Krieg! Ihre Waffen: Sex, Tanz – und ein Flammenwerfer!",
     "trailer": "https://www.youtube.com/watch?v=3xVGjzPaV6s",
-    "available": 658,
-    "reserved": 5,
+    "available": 644,
+    "reserved": 7,
     "bookable": true
   },
   "hasenheide-693218": {
@@ -1662,8 +1665,8 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/692893?layout=shows",
     "img": "https://media.kinoheld.de/yjMQZ0rDO8UBz50qBmFqke8MZQg=/400x560/images%2Ffilm%2Fsommer-rebellen-19610.v1.jpg",
     "description": "Jonas (11) wünscht sich nichts mehr, als in den Sommerferien zu seinem coolen Opa Bernard in die Slowakei zu fahren. Seit dem Tod seines Vaters gibt es nur noch Zoff zu Hause und so haut Jonas nach einem erneuten Eklat kurzer Hand ab. Durch eine List lässt sich Jonas von Bernard auf halber Strecke abholen. Der lang erwünschte Sommer bei Opa kann beginnen. Doch Opa ist nicht mehr so, wie ihn Jonas in Erinnerung hat. Inzwischen in den Vorruhestand befördert, verhält er sich seltsam und launisch. Von der erhofften Zeit voller Spaß und Action ist auch nach 3 Tagen nichts zu merken. Als sich Jonas mit dem Nachbarskind Alex anfreundet, hecken die beiden einen verrückten Plan für Opa aus: ein neues Hobby, eine neue Frau oder ein neuer Job muss her!",
-    "available": 248,
-    "reserved": 138,
+    "available": 236,
+    "reserved": 142,
     "bookable": true
   },
   "hasenheide-693101": {
@@ -1713,8 +1716,8 @@
     "img": "https://media.kinoheld.de/3B5xyt_tZ59QCBxUwOBc9nVlLGA=/400x560/images%2Ffilm%2Fpromising-young-woman-19021.v1.jpg",
     "description": "Cassie ist eine vielversprechende junge Medizinstudentin, bis ein Schicksalsschlag sie eines Tages komplett aus der Bahn wirft. Sie bricht ihr Studium ab, sucht sich einen Job in einem Café und zieht wieder bei ihren Eltern ein. Doch sie führt ein geheimes Doppelleben: Nachts trifft sie in Bars auf Männer, die hinter Cassies betrunkener Fassade leichte Beute erhoffen.",
     "trailer": "https://www.youtube.com/watch?v=MBd1arxlo3g",
-    "available": 599,
-    "reserved": 17,
+    "available": 592,
+    "reserved": 19,
     "bookable": true
   },
   "hasenheide-692890": {
@@ -3815,8 +3818,8 @@
     "timestamp": 1628294400000,
     "time": "21:00",
     "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2413848705?layout=shows",
-    "available": 51,
-    "reserved": 24,
+    "available": 49,
+    "reserved": 26,
     "bookable": true
   },
   "mobile kino-2413857701": {
@@ -3953,8 +3956,8 @@
     "timestamp": 1629158400000,
     "time": "20:45",
     "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2415339858?layout=shows",
-    "available": 150,
-    "reserved": 6,
+    "available": 148,
+    "reserved": 8,
     "bookable": true
   },
   "mobile kino-2408676991": {
@@ -3970,8 +3973,8 @@
     "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2408676991?layout=shows",
     "img": "https://media.kinoheld.de/8TPU1O3Kk0ZrbDCIdVWTJFc8etQ=/400x560/images%2Ffilm%2Fthis-is-not-berlin-16169.v4.jpg",
     "description": "Mexico City 1986. Der 17-jährige Carlos (Xabiani Ponce de León) ist in der Schule ein Außenseiter. Während seine Familie der Fußball-WM entgegenfiebert, entdeckt er mit seinem besten Freund Gera (José Antonio Toledano) den sagenumwobenen Underground-Club 'Azteca'. Dort eröffnet sich den beiden Jungs eine unbekannte Welt aus wilden Partys, Drogenrausch und sexueller Freiheit, die auch Carlos' Beziehung zu Gera in ein neues Licht setzt...",
-    "available": 66,
-    "reserved": 9,
+    "available": 62,
+    "reserved": 13,
     "bookable": true
   },
   "mobile kino-2420686161": {
@@ -4257,8 +4260,8 @@
     "time": "21:15",
     "date": "So., 8.8.,",
     "timestamp": 1628457300000,
-    "available": 290,
-    "reserved": 170,
+    "available": 292,
+    "reserved": 168,
     "bookable": true
   },
   "kulturforum-290": {
@@ -4275,8 +4278,8 @@
     "time": "21:15",
     "date": "Mo., 9.8.,",
     "timestamp": 1628543700000,
-    "available": 340,
-    "reserved": 120,
+    "available": 338,
+    "reserved": 122,
     "bookable": true
   },
   "kulturforum-280": {
@@ -4329,8 +4332,8 @@
     "time": "21:00",
     "date": "Do., 12.8.",
     "timestamp": 1628802000000,
-    "available": 283,
-    "reserved": 177,
+    "available": 275,
+    "reserved": 185,
     "bookable": true
   },
   "kulturforum-295": {
@@ -4415,8 +4418,8 @@
     "time": "21:15",
     "date": "So., 8.8.,",
     "timestamp": 1628457300000,
-    "available": 421,
-    "reserved": 78,
+    "available": 420,
+    "reserved": 79,
     "bookable": true
   },
   "schloss-charlottenburg-68": {
@@ -4433,8 +4436,8 @@
     "time": "21:15",
     "date": "Mo., 9.8.,",
     "timestamp": 1628543700000,
-    "available": 323,
-    "reserved": 176,
+    "available": 322,
+    "reserved": 177,
     "bookable": true
   },
   "schloss-charlottenburg-69": {
@@ -4523,8 +4526,8 @@
     "time": "21:00",
     "date": "Sa., 14.8.",
     "timestamp": 1628974800000,
-    "available": 600,
-    "reserved": 43,
+    "available": 596,
+    "reserved": 47,
     "bookable": true
   },
   "schloss-charlottenburg-79": {
@@ -4541,8 +4544,8 @@
     "time": "21:00",
     "date": "So., 15.8.",
     "timestamp": 1629061200000,
-    "available": 475,
-    "reserved": 24,
+    "available": 474,
+    "reserved": 25,
     "bookable": true
   },
   "schloss-charlottenburg-80": {
@@ -4558,8 +4561,8 @@
     "time": "21:00",
     "date": "Mo., 16.8.",
     "timestamp": 1629147600000,
-    "available": 470,
-    "reserved": 29,
+    "available": 468,
+    "reserved": 31,
     "bookable": true
   },
   "schloss-charlottenburg-77": {
