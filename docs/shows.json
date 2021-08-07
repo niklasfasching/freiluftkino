@@ -13,8 +13,8 @@
     "date": "Mo., 9.8.,",
     "timestamp": 1628542800000,
     "time": "21:00",
-    "available": 724,
-    "reserved": 80,
+    "available": 719,
+    "reserved": 85,
     "bookable": true
   },
   "fhain-702": {
@@ -208,8 +208,8 @@
     "date": "Sa., 14.8.",
     "timestamp": 1628974800000,
     "time": "21:00",
-    "available": 524,
-    "reserved": 280,
+    "available": 522,
+    "reserved": 282,
     "bookable": true
   },
   "fhain-667": {
@@ -487,8 +487,8 @@
     "date": "Sa., 7.8.,",
     "timestamp": 1628370000000,
     "time": "21:00",
-    "available": 295,
-    "reserved": 398,
+    "available": 256,
+    "reserved": 437,
     "bookable": true
   },
   "xberg-659": {
@@ -646,8 +646,8 @@
     "date": "Do., 12.8.",
     "timestamp": 1628802900000,
     "time": "21:15",
-    "available": 168,
-    "reserved": 525,
+    "available": 166,
+    "reserved": 527,
     "bookable": true
   },
   "xberg-668": {
@@ -733,8 +733,8 @@
     "date": "Di., 10.8.",
     "timestamp": 1628629200000,
     "time": "21:00",
-    "available": 536,
-    "reserved": 37,
+    "available": 533,
+    "reserved": 40,
     "bookable": true
   },
   "rehberge-656": {
@@ -750,8 +750,8 @@
     "date": "So., 8.8.,",
     "timestamp": 1628456400000,
     "time": "21:00",
-    "available": 507,
-    "reserved": 66,
+    "available": 501,
+    "reserved": 72,
     "bookable": true
   },
   "rehberge-655": {
@@ -767,8 +767,8 @@
     "date": "Sa., 7.8.,",
     "timestamp": 1628370000000,
     "time": "21:00",
-    "available": 457,
-    "reserved": 116,
+    "available": 451,
+    "reserved": 122,
     "bookable": true
   },
   "rehberge-657": {
@@ -839,8 +839,8 @@
     "date": "Mo., 16.8.",
     "timestamp": 1629147600000,
     "time": "21:00",
-    "available": 571,
-    "reserved": 2,
+    "available": 569,
+    "reserved": 4,
     "bookable": true
   },
   "rehberge-668": {
@@ -875,8 +875,8 @@
     "date": "Sa., 14.8.",
     "timestamp": 1628973900000,
     "time": "20:45",
-    "available": 305,
-    "reserved": 268,
+    "available": 300,
+    "reserved": 273,
     "bookable": true
   },
   "rehberge-660": {
@@ -1189,8 +1189,8 @@
     "url": "https://www.kinoheld.de/cinema-berlin/filmrauschpalast/show/2410947390?layout=shows",
     "img": "https://media.kinoheld.de/PyYvEPhzQTl-brqy6Qo1VsAMuBU=/400x560/images%2Ffilm%2F4%2Fheil-1729.v2.jpg",
     "description": "„Heil“ ist eine kreischend komische Liebeskomödie und bitterböse Gesellschaftssatire, in der alle durch den Kakao gezogen werden. Die alten rechtsradikalen Schläger und die neuen, sich harmlos gebenden „Nipster“. Die liberalen Intellektuellen mit ihren Denkverboten. Die Antifa mit ihren Schwarzweiß-Feindbildern. Der Verfassungsschutz mit seinem grotesken Bürokratie-Wirrwarr. Der Kulturbetrieb mit seinem prätentiösen Kunst-Blabla. Und nicht zuletzt die Medienöffentlichkeit, die süchtig ist nach Erregung und sich ihre eigene Wirklichkeit schafft. Rasant und rasend zugleich inszeniert, ist „Heil“ eine schrille Farce über die Lage der Nation, der nichts heilig ist.",
-    "available": 53,
-    "reserved": 32,
+    "available": 49,
+    "reserved": 34,
     "bookable": true
   },
   "filmrauschpalast-2410947596": {
@@ -1398,9 +1398,9 @@
     "img": "https://media.kinoheld.de/GwZHiD65bCVb3mxAuT7jVcFqH9M=/400x560/images%2Ffilm%2Fnomadland-18288.v2.png",
     "description": "Nach dem wirtschaftlichen Zusammenbruch einer Stadt im ländlichen Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren weißen Van und macht sich auf den Weg, um als moderne Nomadin im Westen der USA ein Leben außerhalb der konventionellen Gesellschaft zu erkunden.",
     "trailer": "https://www.youtube.com/watch?v=5a-U7Wwi18c",
-    "available": -1,
+    "available": 0,
     "reserved": 0,
-    "bookable": true
+    "bookable": false
   },
   "hasenheide-693053": {
     "cinemaId": "580",
@@ -2167,7 +2167,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/693168?layout=shows",
     "img": "https://media.kinoheld.de/AJp2lGdCEh0N32SZLfV-16f_8hw=/400x560/images%2Ffilm%2Fwoman-17367.v2.png",
     "description": "Im Projekt „Woman“ sollen Ungerechtigkeiten gezeigt werden, denen Frauen ausgesetzt sind. 2000 Frauen aus fünfzig Ländern bekommen damit eine Stimme. In hunderten Geschichten erzählen Frauen über Mutterschaft, Bildung, Sexualität, Ehe oder finanzieller Unabhängigkeit. Auch tabuisierte Themen wie Menstruation und häuslicher Gewalt kommen zur Sprache. Zu hören sind Staatschefinnen und Bäuerinnen, Schönheitsköniginnen und Busfahrerinnen. Die Frauen kommen aus den unterschiedlichsten Orten der Welt, ob nun aus kleinen, abgelegenen Dörfern oder modernen Metropolen.",
-    "available": 685,
+    "available": 686,
     "reserved": 0,
     "bookable": true
   },
@@ -4048,8 +4048,8 @@
     "img": "https://media.kinoheld.de/SW9yYj5664XaZfh1rUXniSIBO8I=/400x560/images%2Ffilm%2Fnew-order-die-neue-weltordnung-19296.v1.jpg",
     "description": "Eine verschwenderische Hochzeit der Oberschicht gerät während eines unerwarteten Aufstands des Klassenkampfes aus den Fugen, der in einen gewaltsamen Staatsstreich mündet. Aus der Sicht der sympathischen jungen Braut und der Diener, die für und gegen ihre reiche Familie arbeiten, zeichnet der Film den Zusammenbruch eines politischen Systems nach, während in seinem Gefolge ein noch erschreckenderer Ersatz entsteht.",
     "trailer": "https://www.youtube.com/watch?v=4-XZCNRbOlw",
-    "available": 106,
-    "reserved": 2,
+    "available": 104,
+    "reserved": 4,
     "bookable": true
   },
   "mobile kino-2409279332": {
@@ -4240,8 +4240,8 @@
     "time": "21:15",
     "date": "Sa., 7.8.,",
     "timestamp": 1628370900000,
-    "available": 8,
-    "reserved": 452,
+    "available": 9,
+    "reserved": 451,
     "bookable": true
   },
   "kulturforum-289": {
@@ -4293,9 +4293,9 @@
     "time": "21:00",
     "date": "Di., 10.8.",
     "timestamp": 1628629200000,
-    "available": 8,
-    "reserved": 452,
-    "bookable": true
+    "available": 0,
+    "reserved": 0,
+    "bookable": false
   },
   "kulturforum-293": {
     "title": "ARTE | Grusel, Glaube & Genie: Gotik!",
@@ -4311,8 +4311,8 @@
     "time": "21:00",
     "date": "Mi., 11.8.",
     "timestamp": 1628715600000,
-    "available": 158,
-    "reserved": 302,
+    "available": 155,
+    "reserved": 305,
     "bookable": true
   },
   "kulturforum-294": {
@@ -4329,8 +4329,8 @@
     "time": "21:00",
     "date": "Do., 12.8.",
     "timestamp": 1628802000000,
-    "available": 275,
-    "reserved": 185,
+    "available": 283,
+    "reserved": 177,
     "bookable": true
   },
   "kulturforum-295": {
@@ -4433,8 +4433,8 @@
     "time": "21:15",
     "date": "Mo., 9.8.,",
     "timestamp": 1628543700000,
-    "available": 328,
-    "reserved": 171,
+    "available": 325,
+    "reserved": 174,
     "bookable": true
   },
   "schloss-charlottenburg-69": {
@@ -4469,8 +4469,8 @@
     "time": "21:00",
     "date": "Mi., 11.8.",
     "timestamp": 1628715600000,
-    "available": 353,
-    "reserved": 146,
+    "available": 355,
+    "reserved": 144,
     "bookable": true
   },
   "schloss-charlottenburg-74": {
@@ -4487,8 +4487,8 @@
     "time": "21:00",
     "date": "Do., 12.8.",
     "timestamp": 1628802000000,
-    "available": 461,
-    "reserved": 38,
+    "available": 459,
+    "reserved": 40,
     "bookable": true
   },
   "schloss-charlottenburg-75": {
@@ -4505,8 +4505,8 @@
     "time": "21:00",
     "date": "Fr., 13.8.",
     "timestamp": 1628888400000,
-    "available": 571,
-    "reserved": 72,
+    "available": 570,
+    "reserved": 73,
     "bookable": true
   },
   "schloss-charlottenburg-76": {
@@ -4523,8 +4523,8 @@
     "time": "21:00",
     "date": "Sa., 14.8.",
     "timestamp": 1628974800000,
-    "available": 600,
-    "reserved": 43,
+    "available": 598,
+    "reserved": 45,
     "bookable": true
   },
   "schloss-charlottenburg-79": {
@@ -4558,8 +4558,8 @@
     "time": "21:00",
     "date": "Mo., 16.8.",
     "timestamp": 1629147600000,
-    "available": 467,
-    "reserved": 32,
+    "available": 470,
+    "reserved": 29,
     "bookable": true
   },
   "schloss-charlottenburg-77": {
