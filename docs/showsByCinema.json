@@ -14,8 +14,8 @@
       "date": "Mo., 9.8.,",
       "timestamp": 1628542800000,
       "time": "21:00",
-      "available": 699,
-      "reserved": 105,
+      "available": 697,
+      "reserved": 107,
       "bookable": true
     },
     {
@@ -50,8 +50,8 @@
       "date": "So., 8.8.,",
       "timestamp": 1628456400000,
       "time": "21:00",
-      "available": 702,
-      "reserved": 102,
+      "available": 698,
+      "reserved": 106,
       "bookable": true
     },
     {
@@ -86,8 +86,8 @@
       "date": "Do., 12.8.",
       "timestamp": 1628802000000,
       "time": "21:00",
-      "available": 715,
-      "reserved": 89,
+      "available": 713,
+      "reserved": 91,
       "bookable": true
     },
     {
@@ -191,8 +191,8 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628974800000,
       "time": "21:00",
-      "available": 496,
-      "reserved": 308,
+      "available": 492,
+      "reserved": 312,
       "bookable": true
     },
     {
@@ -490,8 +490,8 @@
       "date": "Di., 10.8.",
       "timestamp": 1628630100000,
       "time": "21:15",
-      "available": 602,
-      "reserved": 91,
+      "available": 600,
+      "reserved": 93,
       "bookable": true
     },
     {
@@ -525,8 +525,8 @@
       "date": "Mi., 11.8.",
       "timestamp": 1628716500000,
       "time": "21:15",
-      "available": 526,
-      "reserved": 167,
+      "available": 520,
+      "reserved": 173,
       "bookable": true
     },
     {
@@ -578,8 +578,8 @@
       "date": "Fr., 13.8.",
       "timestamp": 1628889300000,
       "time": "21:15",
-      "available": 614,
-      "reserved": 79,
+      "available": 612,
+      "reserved": 81,
       "bookable": true
     },
     {
@@ -596,8 +596,8 @@
       "date": "Mo., 16.8.",
       "timestamp": 1629148500000,
       "time": "21:15",
-      "available": 508,
-      "reserved": 185,
+      "available": 504,
+      "reserved": 189,
       "bookable": true
     },
     {
@@ -614,8 +614,8 @@
       "date": "Do., 12.8.",
       "timestamp": 1628802900000,
       "time": "21:15",
-      "available": 152,
-      "reserved": 541,
+      "available": 146,
+      "reserved": 547,
       "bookable": true
     },
     {
@@ -720,8 +720,8 @@
       "date": "So., 8.8.,",
       "timestamp": 1628456400000,
       "time": "21:00",
-      "available": 429,
-      "reserved": 144,
+      "available": 420,
+      "reserved": 153,
       "bookable": true
     },
     {
@@ -969,8 +969,8 @@
       "date": "Fr., 20.8.",
       "timestamp": 1629489600000,
       "time": "20:00",
-      "available": 316,
-      "reserved": 288,
+      "available": 315,
+      "reserved": 289,
       "bookable": true
     },
     {
@@ -1286,9 +1286,9 @@
       "img": "https://media.kinoheld.de/GwZHiD65bCVb3mxAuT7jVcFqH9M=/400x560/images%2Ffilm%2Fnomadland-18288.v2.png",
       "description": "Nach dem wirtschaftlichen Zusammenbruch einer Stadt im ländlichen Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren weißen Van und macht sich auf den Weg, um als moderne Nomadin im Westen der USA ein Leben außerhalb der konventionellen Gesellschaft zu erkunden.",
       "trailer": "https://www.youtube.com/watch?v=5a-U7Wwi18c",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -1500,8 +1500,8 @@
       "img": "https://media.kinoheld.de/oiBE1aMdFNTyfoEyvdhTcd2-GoA=/400x560/images%2Ffilm%2Ffilm-star-preview-shane-mit-starbesuch-19019.v2.jpg",
       "description": "Shane MacGowan ist nicht nur legendärer Frontmann der Band The Pogues, sondern dazu auch noch Poet, Rebell und Punk durch und durch. Wie bei vielen überaus talentierten Menschen neigt auch der begnadete Songwriter zur Selbstzerstörung. Einst zog er aus Irland nach London und mischte die dort gerade aufkeimende Punkbewegung mit irischem Folk auf. Mit seiner Musik schaffte Shane es, seinen Landsleuten in der Hochzeit des Nordirland-Konflikts eine Stimme zu geben. Trotz seines Rowdytums und der harten Schale, schuf er mit „Fairytale Of New York“ eines der meistgehörten Weihnachtslieder der Briten des 21. Jahrhunderts. Der Filmemacher Julien Temple setzt dem Punksänger anhand Archivaufnahmen und bisher unveröffentlichten Bildmaterial ein Denkmal.",
       "trailer": "https://www.youtube.com/watch?v=gtUV3K_rTW8",
-      "available": 629,
-      "reserved": 10,
+      "available": 617,
+      "reserved": 12,
       "bookable": true
     },
     {
@@ -4092,8 +4092,8 @@
       "time": "21:15",
       "date": "So., 8.8.,",
       "timestamp": 1628457300000,
-      "available": 273,
-      "reserved": 187,
+      "available": 270,
+      "reserved": 190,
       "bookable": true
     },
     {
@@ -4164,8 +4164,8 @@
       "time": "21:00",
       "date": "Do., 12.8.",
       "timestamp": 1628802000000,
-      "available": 270,
-      "reserved": 190,
+      "available": 268,
+      "reserved": 192,
       "bookable": true
     },
     {
@@ -4250,8 +4250,8 @@
       "time": "21:15",
       "date": "So., 8.8.,",
       "timestamp": 1628457300000,
-      "available": 273,
-      "reserved": 187,
+      "available": 270,
+      "reserved": 190,
       "bookable": true
     },
     {
@@ -4338,8 +4338,8 @@
       "time": "21:00",
       "date": "Do., 12.8.",
       "timestamp": 1628802000000,
-      "available": 270,
-      "reserved": 190,
+      "available": 268,
+      "reserved": 192,
       "bookable": true
     },
     {
@@ -4410,8 +4410,8 @@
       "time": "21:15",
       "date": "So., 8.8.,",
       "timestamp": 1628457300000,
-      "available": 399,
-      "reserved": 100,
+      "available": 397,
+      "reserved": 102,
       "bookable": true
     },
     {
@@ -4500,8 +4500,8 @@
       "time": "21:00",
       "date": "Fr., 13.8.",
       "timestamp": 1628888400000,
-      "available": 564,
-      "reserved": 79,
+      "available": 563,
+      "reserved": 80,
       "bookable": true
     },
     {
@@ -4696,8 +4696,8 @@
       "time": "21:00",
       "date": "Fr., 13.8.",
       "timestamp": 1628888400000,
-      "available": 564,
-      "reserved": 79,
+      "available": 563,
+      "reserved": 80,
       "bookable": true
     },
     {
@@ -4765,8 +4765,8 @@
       "time": "21:15",
       "date": "So., 8.8.,",
       "timestamp": 1628457300000,
-      "available": 399,
-      "reserved": 100,
+      "available": 397,
+      "reserved": 102,
       "bookable": true
     },
     {
