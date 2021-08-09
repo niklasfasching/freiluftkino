@@ -14,8 +14,8 @@
       "date": "Di., 10.8.",
       "timestamp": 1628629200000,
       "time": "21:00",
-      "available": 716,
-      "reserved": 88,
+      "available": 713,
+      "reserved": 91,
       "bookable": true
     },
     {
@@ -68,8 +68,8 @@
       "date": "Do., 12.8.",
       "timestamp": 1628802000000,
       "time": "21:00",
-      "available": 648,
-      "reserved": 156,
+      "available": 644,
+      "reserved": 160,
       "bookable": true
     },
     {
@@ -173,8 +173,8 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628974800000,
       "time": "21:00",
-      "available": 299,
-      "reserved": 505,
+      "available": 291,
+      "reserved": 513,
       "bookable": true
     },
     {
@@ -225,8 +225,8 @@
       "date": "Do., 19.8.",
       "timestamp": 1629406800000,
       "time": "21:00",
-      "available": 767,
-      "reserved": 37,
+      "available": 765,
+      "reserved": 39,
       "bookable": true
     },
     {
@@ -312,8 +312,8 @@
       "date": "Mo., 23.8.",
       "timestamp": 1629750600000,
       "time": "20:30",
-      "available": 801,
-      "reserved": 3,
+      "available": 799,
+      "reserved": 5,
       "bookable": true
     },
     {
@@ -472,8 +472,8 @@
       "date": "Mi., 11.8.",
       "timestamp": 1628716500000,
       "time": "21:15",
-      "available": 457,
-      "reserved": 236,
+      "available": 455,
+      "reserved": 238,
       "bookable": true
     },
     {
@@ -543,8 +543,8 @@
       "date": "Mo., 16.8.",
       "timestamp": 1629148500000,
       "time": "21:15",
-      "available": 465,
-      "reserved": 228,
+      "available": 463,
+      "reserved": 230,
       "bookable": true
     },
     {
@@ -559,8 +559,8 @@
       "date": "Do., 12.8.",
       "timestamp": 1628802900000,
       "time": "21:15",
-      "available": 0,
-      "reserved": 0,
+      "available": 4,
+      "reserved": 689,
       "bookable": true
     },
     {
@@ -576,8 +576,8 @@
       "date": "Di., 17.8.",
       "timestamp": 1629234900000,
       "time": "21:15",
-      "available": 0,
-      "reserved": 0,
+      "available": 692,
+      "reserved": 7,
       "bookable": true
     },
     {
@@ -756,8 +756,8 @@
       "date": "Do., 12.8.",
       "timestamp": 1628802000000,
       "time": "21:00",
-      "available": 216,
-      "reserved": 357,
+      "available": 218,
+      "reserved": 355,
       "bookable": true
     },
     {
@@ -792,8 +792,8 @@
       "date": "Fr., 13.8.",
       "timestamp": 1628888400000,
       "time": "21:00",
-      "available": 531,
-      "reserved": 42,
+      "available": 529,
+      "reserved": 44,
       "bookable": true
     },
     {
@@ -1167,51 +1167,6 @@
     }
   ],
   "freiluftkino-hasenheide": [
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "hasenheide-693054",
-      "title": "Ferien auf Saltkrokan - Der verwunschene Prinz ",
-      "date": "Mo., 9.8.,",
-      "timestamp": 1628467200000,
-      "time": "16:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/693054?layout=shows",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "hasenheide-693633",
-      "title": "Theatersport - Das Match ",
-      "date": "Mo., 9.8.,",
-      "timestamp": 1628467200000,
-      "time": "18:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/693633?layout=shows",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "hasenheide-693056",
-      "title": "A SINGLE MAN (subtitled OV German)",
-      "date": "Mo., 9.8.,",
-      "timestamp": 1628467200000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/693056?layout=shows",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
     {
       "cinemaId": "580",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
@@ -2134,23 +2089,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-insel-im-cassiopeia/shows/movies",
       "cinemaName": "freiluftkino-insel-im-cassiopeia",
       "cinemaShortName": "cassiopeia",
-      "id": "cassiopeia-2418079847",
-      "title": "COURAGE - DEMOKRATIEBEWEGUNGEN IN BELARUS (subtitled OV German)",
-      "date": "Mo., 9.8.,",
-      "timestamp": 1628467200000,
-      "time": "20:45",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-insel-im-cassiopeia/show/2418079847?layout=shows",
-      "img": "https://media.kinoheld.de/_bhstJhp4fwk5JjSFCbLFUCErb0=/400x560/images%2Ffilm%2Fcourage-19043.v2.png",
-      "description": "In seinem Dokumentarfilm begleitet Aliaksei Paluyan die Freunde Maryna, Pavel und Denis, die Mitglieder einer Untergrund-Theatergruppe in Minsk sind. Als es 2020 im Zuge der Präsidentschaftswahlen in Belarus zu friedlichen Massenprotesten kommt, nimmt die Gruppe gemeinsam mit vielen anderen Menschen daran teil. Dabei entkommen sie nur knapp einer Verhaftung. Trotzdem lassen sie sich nicht beirren und hoffen weiter auf Meinungsfreiheit und Demokratie in ihrem Land.",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "581",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-insel-im-cassiopeia/shows/movies",
-      "cinemaName": "freiluftkino-insel-im-cassiopeia",
-      "cinemaShortName": "cassiopeia",
       "id": "cassiopeia-2418079861",
       "title": "IN THE MOOD FOR LOVE (WA: 2021) (subtitled OV German)",
       "date": "Di., 10.8.",
@@ -2368,7 +2306,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2414227910?layout=shows",
       "img": "https://media.kinoheld.de/R8VDXSPvszmiJwKj83Io0hLKCVY=/400x560/images%2Ffilm%2Fmo%2F3013-36027.v2.jpg",
       "description": "Ein Sex-Tape gelangt ins Internet und geht dort viral. Es zeigt eine Frau und einen Mann, die beide Masken tragen, beim Geschlechtsakt. Doch die Frau in dem Video lässt sich als Emi (Katia Pascariu) identifizieren - eine Lehrerin.\r\n\r\nEmis Ruf und Karriere geraten in Bedrängnis, als die Eltern ihrer Schüler ihren augenblicklichen Rücktritt fordern. Doch die Lehrerin weigert sich, dem öffentlichen Druck nachzugeben, nur weil die anderen ihre Vorbild-Funktion anzweifeln.\r\n\r\nVorurteile, Heuchelei und Chauvinismus prallen in Folge dessen aufeinander, als immer mehr Verschwörungstheorien die Runde machen und ein Streit über den gesellschaftlichen Umgang mit pornografischen Inhalten entbrennt.",
-      "trailer": "https://youtu.be/MKJ-nXADsVk",
+      "trailer": "https://youtu.be/8AEgcTSMSOY",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -2577,21 +2515,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
       "cinemaName": "central-kino-open-air",
       "cinemaShortName": "central",
-      "id": "central-2395944380",
-      "title": "open air: The Short Nights of Berlin (subtitled OV English)",
-      "date": "Mo., 9.8.,",
-      "timestamp": 1628467200000,
-      "time": "20:45",
-      "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2395944380?layout=shows",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "1839",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
-      "cinemaName": "central-kino-open-air",
-      "cinemaShortName": "central",
       "id": "central-2395944404",
       "title": "open air: Porträt einer jungen Frau in Flammen - Portrait de la jeune fille en feu (subtitled OV English)",
       "date": "Di., 10.8.",
@@ -2619,8 +2542,8 @@
       "img": "https://media.kinoheld.de/mIu1QYh0jTr0SFfvTQsJBC7p6ZA=/400x560/images%2Ffilm%2F2%2Fyuli-11879.v19.png",
       "description": "Carlos ist ein undiszipliniertes Kind, das alles, was es über das Leben weiß, auf den Straßen Havannas gelernt hat. Doch sein Vater Pedro - selbst Sohn einer Mutter, die noch als Sklavin in den kubanischen Zuckerrohrplantagen ausgebeutet wurde - erkennt das außergewöhnliche Talent seines Sohnes, den er nach dem Sohn eines afrikanischen Kriegsgottes nur Yuli nennt: Er kann tanzen wie kein zweiter. Gegen dessen Willen schickt er ihn auf die staatliche Ballettschule und sorgt mit harter Hand dafür, dass Yuli seine Ausbildung beendet. Yuli wird bald zu einem der besten Tänzer seiner Generation, feiert internationale Erfolge und ist der erste dunkelhäutige Romeo am Royal Opera House in London. Doch trotz des Ruhms zehrt das Heimweh an ihm, die Sehnsucht nach Freunden und Familie. Als er nach einer schweren Verletzung mit dem Tanzen pausieren muss, geht er zurück nach Kuba. Nach all den Jahren der Entbehrung und Einsamkeit lebt Yuli hier erstmals seinen schier unstillbaren Hunger nach Leben aus - und setzt damit seine Karriere aufs Spiel. Er muss sich entscheiden ob seine eigene Liebe zum Tanz ausreicht um den Weg weiterzugehen, den sein Vater ihm vorherbestimmt hat. (Quelle: Verleih)",
       "trailer": "https://www.youtube.com/watch?v=B_GOiK5CFlI",
-      "available": 55,
-      "reserved": 11,
+      "available": 54,
+      "reserved": 12,
       "bookable": true
     },
     {
@@ -3014,23 +2937,6 @@
     }
   ],
   "freiluftkino-pompeji-open-air-am-ostkreuz-berlin": [
-    {
-      "cinemaId": "2153",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-      "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-      "cinemaShortName": "pompeji ostkreuz",
-      "id": "pompeji ostkreuz-2408592354",
-      "title": "14TH BRITISH SHORTS: MIDNIGHT MOVIES (OV)",
-      "date": "Mo., 9.8.,",
-      "timestamp": 1628467200000,
-      "time": "21:00",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2408592354?layout=shows",
-      "img": "https://media.kinoheld.de/eC-uvyOSI8gTgYJYsqoCfz_UkxQ=/400x560/images%2Ffilm%2Fmo%2F2413-39011.v2.jpg",
-      "description": "Zweimal mussten wir coronabedingt verschieben ... weil wir statt ins Digitale abzuwandern das Festivalerlebnis im Kino erhalten wollten. Aber jetzt ist es soweit: British Shorts präsentiert wieder diverse filmische Perspektiven aus Großbritannien und Irland! Von Dra ma, Comedy, Animation, Thriller, Mu sik video, Experimentalfilm bis Doku und mehr. Konzerte, Talks, ein kosten loser Festi - val-Workshop (mit 48-Stunden-Film-Challenge) und eine Fotoausstellung mit beeindruckenden Momentaufnahmen der Lockdown- Zeit in London ergänzen das Programm. Wie jedes Jahr werden ein Jury- und ein Publikumspreis vergeben. Zudem ermöglicht die Festival-Retrospektive “Teenage Kicks!” einen Blick auf prägende Jugendkulturen aus Großbritannien zwischen 1962 und 1999. Viel Spaß! ++ Two times we had to postpone the festival because of the pandemic ... because our aim has always been to bring short films to the big screen for a collective experience. Now it’s finally time to happen: British Shorts continues to present diverse filmic perspectives from the UK and Ireland. From drama, comedy, animation, thriller, horror, experimental film and music videos to documentary films, all genres are represented. Concerts, a free film workshop including a 48-Hour Film Challenge and an exhibition will create a great festival atmosphere and as always there will be a jury and an audience award. The festival retrospective “Teenage Kicks!” will have a look at UK subcultures between 1962 and 1999. Have fun!",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
     {
       "cinemaId": "2153",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
@@ -3540,21 +3446,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/mobile-kino-berlin/shows/movies",
       "cinemaName": "mobile-kino-berlin",
       "cinemaShortName": "mobile kino",
-      "id": "mobile kino-2413857701",
-      "title": "SONNENALLEE (subtitled OV English)",
-      "date": "Mo., 9.8.,",
-      "timestamp": 1628467200000,
-      "time": "21:00",
-      "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2413857701?layout=shows",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "3033",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/mobile-kino-berlin/shows/movies",
-      "cinemaName": "mobile-kino-berlin",
-      "cinemaShortName": "mobile kino",
       "id": "mobile kino-2409278808",
       "title": "MID90S (subtitled OV German)",
       "date": "Di., 10.8.",
@@ -3994,8 +3885,8 @@
       "time": "21:00",
       "date": "Do., 12.8.",
       "timestamp": 1628802000000,
-      "available": 183,
-      "reserved": 277,
+      "available": 180,
+      "reserved": 280,
       "bookable": true
     },
     {
@@ -4223,8 +4114,8 @@
       "time": "21:00",
       "date": "Do., 12.8.",
       "timestamp": 1628802000000,
-      "available": 183,
-      "reserved": 277,
+      "available": 180,
+      "reserved": 280,
       "bookable": true
     },
     {
@@ -4296,8 +4187,8 @@
       "time": "21:00",
       "date": "Di., 10.8.",
       "timestamp": 1628629200000,
-      "available": 339,
-      "reserved": 160,
+      "available": 335,
+      "reserved": 164,
       "bookable": true
     },
     {
@@ -4314,8 +4205,8 @@
       "time": "21:00",
       "date": "Mi., 11.8.",
       "timestamp": 1628715600000,
-      "available": 299,
-      "reserved": 200,
+      "available": 297,
+      "reserved": 202,
       "bookable": true
     },
     {
@@ -4350,8 +4241,8 @@
       "time": "21:00",
       "date": "Fr., 13.8.",
       "timestamp": 1628888400000,
-      "available": 518,
-      "reserved": 125,
+      "available": 520,
+      "reserved": 123,
       "bookable": true
     },
     {
@@ -4474,8 +4365,8 @@
       "time": "21:00",
       "date": "Mi., 11.8.",
       "timestamp": 1628715600000,
-      "available": 299,
-      "reserved": 200,
+      "available": 297,
+      "reserved": 202,
       "bookable": true
     },
     {
@@ -4528,8 +4419,8 @@
       "time": "21:00",
       "date": "Fr., 13.8.",
       "timestamp": 1628888400000,
-      "available": 518,
-      "reserved": 125,
+      "available": 520,
+      "reserved": 123,
       "bookable": true
     },
     {
@@ -4546,8 +4437,8 @@
       "time": "21:00",
       "date": "Di., 10.8.",
       "timestamp": 1628629200000,
-      "available": 339,
-      "reserved": 160,
+      "available": 335,
+      "reserved": 164,
       "bookable": true
     },
     {
