@@ -13,8 +13,8 @@
     "date": "Mo., 9.8.,",
     "timestamp": 1628542800000,
     "time": "21:00",
-    "available": 585,
-    "reserved": 219,
+    "available": 549,
+    "reserved": 255,
     "bookable": true
   },
   "fhain-729": {
@@ -31,8 +31,8 @@
     "date": "Di., 10.8.",
     "timestamp": 1628629200000,
     "time": "21:00",
-    "available": 730,
-    "reserved": 74,
+    "available": 722,
+    "reserved": 82,
     "bookable": true
   },
   "fhain-749": {
@@ -67,8 +67,8 @@
     "date": "Mi., 11.8.",
     "timestamp": 1628715600000,
     "time": "21:00",
-    "available": 580,
-    "reserved": 224,
+    "available": 554,
+    "reserved": 250,
     "bookable": true
   },
   "fhain-731": {
@@ -85,8 +85,8 @@
     "date": "Do., 12.8.",
     "timestamp": 1628802000000,
     "time": "21:00",
-    "available": 667,
-    "reserved": 137,
+    "available": 663,
+    "reserved": 141,
     "bookable": true
   },
   "fhain-732": {
@@ -103,8 +103,8 @@
     "date": "Fr., 13.8.",
     "timestamp": 1628888400000,
     "time": "21:00",
-    "available": 633,
-    "reserved": 171,
+    "available": 625,
+    "reserved": 179,
     "bookable": true
   },
   "fhain-719": {
@@ -138,8 +138,8 @@
     "date": "So., 15.8.",
     "timestamp": 1629061200000,
     "time": "21:00",
-    "available": 742,
-    "reserved": 62,
+    "available": 732,
+    "reserved": 72,
     "bookable": true
   },
   "fhain-737": {
@@ -172,8 +172,8 @@
     "date": "Mo., 16.8.",
     "timestamp": 1629147600000,
     "time": "21:00",
-    "available": 783,
-    "reserved": 21,
+    "available": 781,
+    "reserved": 23,
     "bookable": true
   },
   "fhain-733": {
@@ -190,8 +190,8 @@
     "date": "Sa., 14.8.",
     "timestamp": 1628974800000,
     "time": "21:00",
-    "available": 377,
-    "reserved": 427,
+    "available": 334,
+    "reserved": 470,
     "bookable": true
   },
   "fhain-667": {
@@ -207,8 +207,8 @@
     "date": "Sa., 14.8.",
     "timestamp": 1628960400000,
     "time": "17:00",
-    "available": 419,
-    "reserved": 574,
+    "available": 417,
+    "reserved": 576,
     "bookable": true
   },
   "fhain-743": {
@@ -242,8 +242,8 @@
     "date": "Do., 19.8.",
     "timestamp": 1629406800000,
     "time": "21:00",
-    "available": 772,
-    "reserved": 32,
+    "available": 769,
+    "reserved": 35,
     "bookable": true
   },
   "fhain-741": {
@@ -364,8 +364,8 @@
     "date": "So., 29.8.",
     "timestamp": 1630269000000,
     "time": "20:30",
-    "available": 796,
-    "reserved": 8,
+    "available": 794,
+    "reserved": 10,
     "bookable": true
   },
   "fhain-746": {
@@ -469,8 +469,8 @@
     "date": "Di., 10.8.",
     "timestamp": 1628630100000,
     "time": "21:15",
-    "available": 578,
-    "reserved": 115,
+    "available": 572,
+    "reserved": 121,
     "bookable": true
   },
   "xberg-660": {
@@ -487,8 +487,8 @@
     "date": "Mo., 9.8.,",
     "timestamp": 1628543700000,
     "time": "21:15",
-    "available": 371,
-    "reserved": 322,
+    "available": 344,
+    "reserved": 349,
     "bookable": true
   },
   "xberg-662": {
@@ -505,8 +505,8 @@
     "date": "Mi., 11.8.",
     "timestamp": 1628716500000,
     "time": "21:15",
-    "available": 474,
-    "reserved": 219,
+    "available": 467,
+    "reserved": 226,
     "bookable": true
   },
   "xberg-669": {
@@ -540,8 +540,8 @@
     "date": "So., 15.8.",
     "timestamp": 1629061200000,
     "time": "21:00",
-    "available": 0,
-    "reserved": 0,
+    "available": 685,
+    "reserved": 8,
     "bookable": true
   },
   "xberg-664": {
@@ -558,8 +558,8 @@
     "date": "Fr., 13.8.",
     "timestamp": 1628889300000,
     "time": "21:15",
-    "available": 558,
-    "reserved": 135,
+    "available": 547,
+    "reserved": 146,
     "bookable": true
   },
   "xberg-667": {
@@ -576,8 +576,8 @@
     "date": "Mo., 16.8.",
     "timestamp": 1629148500000,
     "time": "21:15",
-    "available": 0,
-    "reserved": 0,
+    "available": 481,
+    "reserved": 212,
     "bookable": true
   },
   "xberg-663": {
@@ -645,8 +645,8 @@
     "date": "Do., 19.8.",
     "timestamp": 1629407700000,
     "time": "21:15",
-    "available": 0,
-    "reserved": 0,
+    "available": 692,
+    "reserved": 7,
     "bookable": true
   },
   "xberg-601": {
@@ -661,7 +661,7 @@
     "date": "Do., 19.8.",
     "timestamp": 1629396000000,
     "time": "18:00",
-    "available": 0,
+    "available": 571,
     "reserved": 0,
     "bookable": true
   },
@@ -679,8 +679,8 @@
     "date": "Di., 10.8.",
     "timestamp": 1628629200000,
     "time": "21:00",
-    "available": 508,
-    "reserved": 65,
+    "available": 506,
+    "reserved": 67,
     "bookable": true
   },
   "rehberge-657": {
@@ -697,8 +697,8 @@
     "date": "Mo., 9.8.,",
     "timestamp": 1628542800000,
     "time": "21:00",
-    "available": 494,
-    "reserved": 79,
+    "available": 477,
+    "reserved": 96,
     "bookable": true
   },
   "rehberge-659": {
@@ -715,8 +715,8 @@
     "date": "Mi., 11.8.",
     "timestamp": 1628715600000,
     "time": "21:00",
-    "available": 477,
-    "reserved": 96,
+    "available": 473,
+    "reserved": 100,
     "bookable": true
   },
   "rehberge-667": {
@@ -787,8 +787,8 @@
     "date": "Sa., 14.8.",
     "timestamp": 1628973900000,
     "time": "20:45",
-    "available": 188,
-    "reserved": 385,
+    "available": 85,
+    "reserved": 488,
     "bookable": true
   },
   "rehberge-660": {
@@ -805,8 +805,8 @@
     "date": "Do., 12.8.",
     "timestamp": 1628802000000,
     "time": "21:00",
-    "available": 264,
-    "reserved": 309,
+    "available": 247,
+    "reserved": 326,
     "bookable": true
   },
   "rehberge-662": {
@@ -823,8 +823,8 @@
     "date": "So., 15.8.",
     "timestamp": 1629061200000,
     "time": "21:00",
-    "available": 486,
-    "reserved": 87,
+    "available": 484,
+    "reserved": 89,
     "bookable": true
   },
   "rehberge-661": {
@@ -912,8 +912,8 @@
     "date": "Do., 19.8.",
     "timestamp": 1629405000000,
     "time": "20:30",
-    "available": 567,
-    "reserved": 6,
+    "available": 564,
+    "reserved": 9,
     "bookable": true
   },
   "rehberge-585": {
@@ -1001,8 +1001,8 @@
     "date": "Sa., 28.8.",
     "timestamp": 1630180800000,
     "time": "20:00",
-    "available": 571,
-    "reserved": 2,
+    "available": 569,
+    "reserved": 4,
     "bookable": true
   },
   "rehberge-664": {
@@ -1239,9 +1239,9 @@
     "timestamp": 1628467200000,
     "time": "18:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/693633?layout=shows",
-    "available": -1,
+    "available": 0,
     "reserved": 0,
-    "bookable": true
+    "bookable": false
   },
   "hasenheide-693056": {
     "cinemaId": "580",
@@ -1254,8 +1254,8 @@
     "timestamp": 1628467200000,
     "time": "21:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/693056?layout=shows",
-    "available": 505,
-    "reserved": 36,
+    "available": 483,
+    "reserved": 40,
     "bookable": true
   },
   "hasenheide-693058": {
@@ -1405,8 +1405,8 @@
     "img": "https://media.kinoheld.de/oiBE1aMdFNTyfoEyvdhTcd2-GoA=/400x560/images%2Ffilm%2Ffilm-star-preview-shane-mit-starbesuch-19019.v2.jpg",
     "description": "Shane MacGowan ist nicht nur legendärer Frontmann der Band The Pogues, sondern dazu auch noch Poet, Rebell und Punk durch und durch. Wie bei vielen überaus talentierten Menschen neigt auch der begnadete Songwriter zur Selbstzerstörung. Einst zog er aus Irland nach London und mischte die dort gerade aufkeimende Punkbewegung mit irischem Folk auf. Mit seiner Musik schaffte Shane es, seinen Landsleuten in der Hochzeit des Nordirland-Konflikts eine Stimme zu geben. Trotz seines Rowdytums und der harten Schale, schuf er mit „Fairytale Of New York“ eines der meistgehörten Weihnachtslieder der Briten des 21. Jahrhunderts. Der Filmemacher Julien Temple setzt dem Punksänger anhand Archivaufnahmen und bisher unveröffentlichten Bildmaterial ein Denkmal.",
     "trailer": "https://www.youtube.com/watch?v=gtUV3K_rTW8",
-    "available": 570,
-    "reserved": 24,
+    "available": 549,
+    "reserved": 26,
     "bookable": true
   },
   "hasenheide-693100": {
@@ -1506,8 +1506,8 @@
     "img": "https://media.kinoheld.de/3B5xyt_tZ59QCBxUwOBc9nVlLGA=/400x560/images%2Ffilm%2Fpromising-young-woman-19021.v1.jpg",
     "description": "Cassie ist eine vielversprechende junge Medizinstudentin, bis ein Schicksalsschlag sie eines Tages komplett aus der Bahn wirft. Sie bricht ihr Studium ab, sucht sich einen Job in einem Café und zieht wieder bei ihren Eltern ein. Doch sie führt ein geheimes Doppelleben: Nachts trifft sie in Bars auf Männer, die hinter Cassies betrunkener Fassade leichte Beute erhoffen.",
     "trailer": "https://www.youtube.com/watch?v=MBd1arxlo3g",
-    "available": 524,
-    "reserved": 36,
+    "available": 499,
+    "reserved": 42,
     "bookable": true
   },
   "hasenheide-692890": {
@@ -1809,8 +1809,8 @@
     "img": "https://media.kinoheld.de/GwZHiD65bCVb3mxAuT7jVcFqH9M=/400x560/images%2Ffilm%2Fnomadland-18288.v2.png",
     "description": "Nach dem wirtschaftlichen Zusammenbruch einer Stadt im ländlichen Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren weißen Van und macht sich auf den Weg, um als moderne Nomadin im Westen der USA ein Leben außerhalb der konventionellen Gesellschaft zu erkunden.",
     "trailer": "https://www.youtube.com/watch?v=5a-U7Wwi18c",
-    "available": 534,
-    "reserved": 36,
+    "available": 528,
+    "reserved": 38,
     "bookable": true
   },
   "hasenheide-693223": {
@@ -2011,8 +2011,8 @@
     "img": "https://media.kinoheld.de/zAa01K_Wc_Ukkdd7ewI4AB9r1Q8=/400x560/images%2Ffilm%2Fder-rausch-18282.v16.jpg",
     "description": "Früher war Martin Lehrer aus Leidenschaft – heute sind nicht nur die Schüler von seinem fehlenden Enthusiasmus gelangweilt, auch in Martins Ehe ist die Luft raus. Seinen drei Freunden, die am selben Gymnasium unterrichten, geht es nicht viel besser. Bei einer angeheiterten Geburtstagsrunde diskutieren sie die Theorie eines norwegischen Philosophen: Nach dieser ist ein Mensch nur mit einem erhöhten Alkoholgehalt im Blut zu Bestleistungen fähig. Solch eine gewagte These muss überprüft werden. Die vier beschließen den Selbsttest zu machen und während der Arbeit einen bestimmten Pegel zu halten. Soll nicht sogar Churchill den Zweiten Weltkrieg in einem Alkoholrausch gewonnen haben? Mit neuem Antrieb stürzen sie sich in ihre geheime wissenschaftliche Studie. Die Wirkung lässt nicht lange auf sich warten …",
     "trailer": "https://www.youtube.com/watch?v=b2z6M24yq2Y",
-    "available": 559,
-    "reserved": 27,
+    "available": 567,
+    "reserved": 26,
     "bookable": true
   },
   "hasenheide-693172": {
@@ -3567,7 +3567,7 @@
     "description": "Jonah Hills (21 Jump Street, The Wolf of Wall Street) Regiedebüt ist eine Zeitreise mitten in die 90er. Eine Zeit, in der Skateboarden sportliche Konventionen sprengte und man mit Mixtapes Mädels beeindrucken konnte. Stevie ist 13 und wächst unter schwierigen Verhältnissen in Los Angeles auf. Seine Tage verbringt er mit \"Street Fighter II\" zocken und heimlich die CD-Sammlung seines großen Bruders rauf und runter hören. Als er anfängt, mit den Jungs vom Local Skateshop abzuhängen, öffnet sich ihm eine völlig neue Welt: Skaten an verbotenen Plätzen, Abhauen vor der Polizei, Hauspartys und natürlich Girls. Befreit aus der Umklammerung seiner alleinerziehenden Mutter und den Prügeln seines Bruders, fühlt sich Stevie unbesiegbar - bis er merkt, dass auch seine Idole auf die Schnauze fliegen können. Und das nicht nur beim Skaten. (Quelle: Verleih)",
     "trailer": "https://www.youtube.com/watch?v=P16Zs-1tvkM",
     "available": 76,
-    "reserved": 23,
+    "reserved": 25,
     "bookable": true
   },
   "mobile kino-2414227861": {
@@ -3958,8 +3958,8 @@
     "time": "21:15",
     "date": "Mo., 9.8.,",
     "timestamp": 1628543700000,
-    "available": 280,
-    "reserved": 180,
+    "available": 275,
+    "reserved": 185,
     "bookable": true
   },
   "kulturforum-280": {
@@ -3976,8 +3976,8 @@
     "time": "21:00",
     "date": "Di., 10.8.",
     "timestamp": 1628629200000,
-    "available": 8,
-    "reserved": 452,
+    "available": 9,
+    "reserved": 451,
     "bookable": true
   },
   "kulturforum-293": {
@@ -4012,8 +4012,8 @@
     "time": "21:00",
     "date": "Do., 12.8.",
     "timestamp": 1628802000000,
-    "available": 216,
-    "reserved": 244,
+    "available": 210,
+    "reserved": 250,
     "bookable": true
   },
   "kulturforum-295": {
@@ -4079,8 +4079,8 @@
     "time": "21:00",
     "date": "Mo., 16.8.",
     "timestamp": 1629147600000,
-    "available": 356,
-    "reserved": 104,
+    "available": 353,
+    "reserved": 107,
     "bookable": true
   },
   "kulturforum-282": {
@@ -4094,8 +4094,8 @@
     "time": "21:00",
     "date": "Di., 17.8.",
     "timestamp": 1629234000000,
-    "available": 162,
-    "reserved": 298,
+    "available": 107,
+    "reserved": 353,
     "bookable": true
   },
   "kulturforum-298": {
@@ -4144,8 +4144,8 @@
     "time": "21:15",
     "date": "Mo., 9.8.,",
     "timestamp": 1628543700000,
-    "available": 228,
-    "reserved": 271,
+    "available": 210,
+    "reserved": 289,
     "bookable": true
   },
   "schloss-charlottenburg-69": {
@@ -4162,8 +4162,8 @@
     "time": "21:00",
     "date": "Di., 10.8.",
     "timestamp": 1628629200000,
-    "available": 371,
-    "reserved": 128,
+    "available": 348,
+    "reserved": 151,
     "bookable": true
   },
   "schloss-charlottenburg-72": {
@@ -4180,8 +4180,8 @@
     "time": "21:00",
     "date": "Mi., 11.8.",
     "timestamp": 1628715600000,
-    "available": 308,
-    "reserved": 191,
+    "available": 303,
+    "reserved": 196,
     "bookable": true
   },
   "schloss-charlottenburg-74": {
@@ -4198,8 +4198,8 @@
     "time": "21:00",
     "date": "Do., 12.8.",
     "timestamp": 1628802000000,
-    "available": 437,
-    "reserved": 62,
+    "available": 435,
+    "reserved": 64,
     "bookable": true
   },
   "schloss-charlottenburg-75": {
@@ -4216,8 +4216,8 @@
     "time": "21:00",
     "date": "Fr., 13.8.",
     "timestamp": 1628888400000,
-    "available": 529,
-    "reserved": 114,
+    "available": 527,
+    "reserved": 116,
     "bookable": true
   },
   "schloss-charlottenburg-76": {
@@ -4234,8 +4234,8 @@
     "time": "21:00",
     "date": "Sa., 14.8.",
     "timestamp": 1628974800000,
-    "available": 576,
-    "reserved": 67,
+    "available": 572,
+    "reserved": 71,
     "bookable": true
   },
   "schloss-charlottenburg-79": {
@@ -4252,8 +4252,8 @@
     "time": "21:00",
     "date": "So., 15.8.",
     "timestamp": 1629061200000,
-    "available": 458,
-    "reserved": 41,
+    "available": 454,
+    "reserved": 45,
     "bookable": true
   },
   "schloss-charlottenburg-80": {
@@ -4269,8 +4269,8 @@
     "time": "21:00",
     "date": "Mo., 16.8.",
     "timestamp": 1629147600000,
-    "available": 454,
-    "reserved": 45,
+    "available": 455,
+    "reserved": 44,
     "bookable": true
   },
   "schloss-charlottenburg-77": {
@@ -4287,8 +4287,8 @@
     "time": "21:00",
     "date": "Di., 17.8.",
     "timestamp": 1629234000000,
-    "available": 466,
-    "reserved": 33,
+    "available": 464,
+    "reserved": 35,
     "bookable": true
   },
   "schloss-charlottenburg-78": {
