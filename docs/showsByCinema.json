@@ -14,8 +14,8 @@
       "date": "Mo., 9.8.,",
       "timestamp": 1628542800000,
       "time": "21:00",
-      "available": 651,
-      "reserved": 153,
+      "available": 647,
+      "reserved": 157,
       "bookable": true
     },
     {
@@ -32,8 +32,8 @@
       "date": "Di., 10.8.",
       "timestamp": 1628629200000,
       "time": "21:00",
-      "available": 736,
-      "reserved": 68,
+      "available": 734,
+      "reserved": 70,
       "bookable": true
     },
     {
@@ -68,8 +68,8 @@
       "date": "Mi., 11.8.",
       "timestamp": 1628715600000,
       "time": "21:00",
-      "available": 603,
-      "reserved": 201,
+      "available": 600,
+      "reserved": 204,
       "bookable": true
     },
     {
@@ -104,8 +104,8 @@
       "date": "Fr., 13.8.",
       "timestamp": 1628888400000,
       "time": "21:00",
-      "available": 670,
-      "reserved": 134,
+      "available": 661,
+      "reserved": 143,
       "bookable": true
     },
     {
@@ -191,8 +191,8 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628974800000,
       "time": "21:00",
-      "available": 434,
-      "reserved": 370,
+      "available": 428,
+      "reserved": 376,
       "bookable": true
     },
     {
@@ -225,8 +225,8 @@
       "date": "Di., 24.8.",
       "timestamp": 1629837000000,
       "time": "20:30",
-      "available": 804,
-      "reserved": 0,
+      "available": 802,
+      "reserved": 2,
       "bookable": true
     },
     {
@@ -472,8 +472,8 @@
       "date": "Di., 10.8.",
       "timestamp": 1628630100000,
       "time": "21:15",
-      "available": 588,
-      "reserved": 105,
+      "available": 587,
+      "reserved": 106,
       "bookable": true
     },
     {
@@ -490,11 +490,12 @@
       "date": "Mo., 9.8.,",
       "timestamp": 1628543700000,
       "time": "21:15",
-      "available": 433,
-      "reserved": 260,
+      "available": 429,
+      "reserved": 264,
       "bookable": true
     },
     {
+      "trailer": "https://www.youtube-nocookie.com/embed/_aEuhzZtwmU?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
       "description": "Das XPOSED-Team feiert die Eröffnung des 15. XPOSED Queer Film Festivals Berlin! Macht euch auf ein Programm gefasst, das sich der narrativen Erzählung widersetzt, in seinen feministischen Wurzeln schwelgt und die Poesie, das Androgyne und das Aktivistische feiert. Es geht um weit mehr als Identitäten und Labels, doch zugleich können eben diese auch mächtige Werkzeuge sein für den eigenen Werdegang und Transformation. Wir cruisen durch Parks, Wortspiele und Traditionen, während Lieder der Liebe und des Protests ertönen. Der Kurzfilm ist wieder auf der Leinwand in seiner experimentellen Kraft und deshalb traditionsgemäß die perfekte Form, um das 15-jährige XPOSED-Jubiläum zu eröffnen.",
       "cinemaId": "kb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
@@ -560,8 +561,8 @@
       "date": "Fr., 13.8.",
       "timestamp": 1628889300000,
       "time": "21:15",
-      "available": 574,
-      "reserved": 119,
+      "available": 564,
+      "reserved": 129,
       "bookable": true
     },
     {
@@ -578,8 +579,8 @@
       "date": "Mo., 16.8.",
       "timestamp": 1629148500000,
       "time": "21:15",
-      "available": 496,
-      "reserved": 197,
+      "available": 493,
+      "reserved": 200,
       "bookable": true
     },
     {
@@ -596,8 +597,8 @@
       "date": "Do., 12.8.",
       "timestamp": 1628802900000,
       "time": "21:15",
-      "available": 43,
-      "reserved": 650,
+      "available": 31,
+      "reserved": 662,
       "bookable": true
     },
     {
@@ -811,8 +812,8 @@
       "date": "Do., 12.8.",
       "timestamp": 1628802000000,
       "time": "21:00",
-      "available": 313,
-      "reserved": 260,
+      "available": 304,
+      "reserved": 269,
       "bookable": true
     },
     {
@@ -834,6 +835,7 @@
       "bookable": true
     },
     {
+      "trailer": "https://www.youtube-nocookie.com/embed/KdzZiMZlFNE?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
       "description": "KELTI macht eine Menge Spaß – eine verrückte Party, eine lustige Geschichte und damit\nein fabelhaft gewagtes Spielfilmdebüt von Milica Tomović. Selten berührt ein Film so viele Themen, aber KELTI gelingt es, sie alle meisterhaft zusammenzubringen: Die 90er Jahre, eine große Familie mit erstaunlich vielfältigen Charakteren, eine Gruppe von Freund*innen mit unterschiedlichen sexuellen Vorlieben, dazu Masturbation, Eifersucht und intensive politische Diskussionen. Es ist ein Erlebnis und eine große Freude, Euch dieses besondere Herzstück zu unserem 15-jährigen Jubiläum zu präsentieren.\n",
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
@@ -846,8 +848,8 @@
       "date": "Fr., 13.8.",
       "timestamp": 1628888400000,
       "time": "21:00",
-      "available": 552,
-      "reserved": 21,
+      "available": 548,
+      "reserved": 25,
       "bookable": true
     },
     {
@@ -1414,8 +1416,8 @@
       "img": "https://media.kinoheld.de/oiBE1aMdFNTyfoEyvdhTcd2-GoA=/400x560/images%2Ffilm%2Ffilm-star-preview-shane-mit-starbesuch-19019.v2.jpg",
       "description": "Shane MacGowan ist nicht nur legendärer Frontmann der Band The Pogues, sondern dazu auch noch Poet, Rebell und Punk durch und durch. Wie bei vielen überaus talentierten Menschen neigt auch der begnadete Songwriter zur Selbstzerstörung. Einst zog er aus Irland nach London und mischte die dort gerade aufkeimende Punkbewegung mit irischem Folk auf. Mit seiner Musik schaffte Shane es, seinen Landsleuten in der Hochzeit des Nordirland-Konflikts eine Stimme zu geben. Trotz seines Rowdytums und der harten Schale, schuf er mit „Fairytale Of New York“ eines der meistgehörten Weihnachtslieder der Briten des 21. Jahrhunderts. Der Filmemacher Julien Temple setzt dem Punksänger anhand Archivaufnahmen und bisher unveröffentlichten Bildmaterial ein Denkmal.",
       "trailer": "https://www.youtube.com/watch?v=gtUV3K_rTW8",
-      "available": 606,
-      "reserved": 14,
+      "available": 598,
+      "reserved": 16,
       "bookable": true
     },
     {
@@ -1464,8 +1466,8 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/692893?layout=shows",
       "img": "https://media.kinoheld.de/yjMQZ0rDO8UBz50qBmFqke8MZQg=/400x560/images%2Ffilm%2Fsommer-rebellen-19610.v1.jpg",
       "description": "Jonas (11) wünscht sich nichts mehr, als in den Sommerferien zu seinem coolen Opa Bernard in die Slowakei zu fahren. Seit dem Tod seines Vaters gibt es nur noch Zoff zu Hause und so haut Jonas nach einem erneuten Eklat kurzer Hand ab. Durch eine List lässt sich Jonas von Bernard auf halber Strecke abholen. Der lang erwünschte Sommer bei Opa kann beginnen. Doch Opa ist nicht mehr so, wie ihn Jonas in Erinnerung hat. Inzwischen in den Vorruhestand befördert, verhält er sich seltsam und launisch. Von der erhofften Zeit voller Spaß und Action ist auch nach 3 Tagen nichts zu merken. Als sich Jonas mit dem Nachbarskind Alex anfreundet, hecken die beiden einen verrückten Plan für Opa aus: ein neues Hobby, eine neue Frau oder ein neuer Job muss her!",
-      "available": 129,
-      "reserved": 175,
+      "available": 121,
+      "reserved": 179,
       "bookable": true
     },
     {
@@ -2662,7 +2664,7 @@
       "img": "https://media.kinoheld.de/6Qu2TJ0HehGLKgwa4dBGTKappvI=/400x560/images%2Ffilm%2Ftenet-16731.v2.png",
       "description": "Ein Agent wird rekrutiert, um einen besonderen Auftrag auszuführen: Er soll den 3. Weltkrieg verhindern. Diesmal ist jedoch keine nukleare Bedrohung der Grund, sondern es muss eine Person gestoppt werden, welche die Fähigkeit besitzt, die Zeit zu manipulieren.",
       "trailer": "https://www.youtube.com/watch?v=jfEQ0BdeQJQ",
-      "available": 56,
+      "available": 53,
       "reserved": 12,
       "bookable": true
     },
@@ -3953,8 +3955,8 @@
       "time": "21:15",
       "date": "Mo., 9.8.,",
       "timestamp": 1628543700000,
-      "available": 294,
-      "reserved": 166,
+      "available": 292,
+      "reserved": 168,
       "bookable": true
     },
     {
@@ -3971,8 +3973,8 @@
       "time": "21:00",
       "date": "Di., 10.8.",
       "timestamp": 1628629200000,
-      "available": 7,
-      "reserved": 453,
+      "available": 9,
+      "reserved": 451,
       "bookable": true
     },
     {
@@ -4007,8 +4009,8 @@
       "time": "21:00",
       "date": "Do., 12.8.",
       "timestamp": 1628802000000,
-      "available": 233,
-      "reserved": 227,
+      "available": 230,
+      "reserved": 230,
       "bookable": true
     },
     {
@@ -4129,8 +4131,8 @@
       "time": "21:15",
       "date": "Mo., 9.8.,",
       "timestamp": 1628543700000,
-      "available": 294,
-      "reserved": 166,
+      "available": 292,
+      "reserved": 168,
       "bookable": true
     },
     {
@@ -4164,8 +4166,8 @@
       "time": "21:00",
       "date": "Do., 12.8.",
       "timestamp": 1628802000000,
-      "available": 233,
-      "reserved": 227,
+      "available": 230,
+      "reserved": 230,
       "bookable": true
     },
     {
@@ -4217,8 +4219,8 @@
       "time": "21:00",
       "date": "Di., 10.8.",
       "timestamp": 1628629200000,
-      "available": 7,
-      "reserved": 453,
+      "available": 9,
+      "reserved": 451,
       "bookable": true
     }
   ],
@@ -4237,8 +4239,8 @@
       "time": "21:15",
       "date": "Mo., 9.8.,",
       "timestamp": 1628543700000,
-      "available": 270,
-      "reserved": 229,
+      "available": 263,
+      "reserved": 236,
       "bookable": true
     },
     {
@@ -4327,8 +4329,8 @@
       "time": "21:00",
       "date": "Sa., 14.8.",
       "timestamp": 1628974800000,
-      "available": 582,
-      "reserved": 61,
+      "available": 578,
+      "reserved": 65,
       "bookable": true
     },
     {
@@ -4451,8 +4453,8 @@
       "time": "21:15",
       "date": "Mo., 9.8.,",
       "timestamp": 1628543700000,
-      "available": 270,
-      "reserved": 229,
+      "available": 263,
+      "reserved": 236,
       "bookable": true
     },
     {
@@ -4575,8 +4577,8 @@
       "time": "21:00",
       "date": "Sa., 14.8.",
       "timestamp": 1628974800000,
-      "available": 582,
-      "reserved": 61,
+      "available": 578,
+      "reserved": 65,
       "bookable": true
     }
   ]
