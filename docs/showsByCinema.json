@@ -32,8 +32,8 @@
       "date": "Mi., 11.8.",
       "timestamp": 1628715600000,
       "time": "21:00",
-      "available": 406,
-      "reserved": 398,
+      "available": 404,
+      "reserved": 400,
       "bookable": true
     },
     {
@@ -50,8 +50,8 @@
       "date": "Do., 12.8.",
       "timestamp": 1628802000000,
       "time": "21:00",
-      "available": 510,
-      "reserved": 294,
+      "available": 501,
+      "reserved": 303,
       "bookable": true
     },
     {
@@ -68,8 +68,8 @@
       "date": "Fr., 13.8.",
       "timestamp": 1628888400000,
       "time": "21:00",
-      "available": 383,
-      "reserved": 421,
+      "available": 375,
+      "reserved": 429,
       "bookable": true
     },
     {
@@ -103,8 +103,8 @@
       "date": "So., 15.8.",
       "timestamp": 1629061200000,
       "time": "21:00",
-      "available": 693,
-      "reserved": 111,
+      "available": 689,
+      "reserved": 115,
       "bookable": true
     },
     {
@@ -153,9 +153,9 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628974800000,
       "time": "21:00",
-      "available": 91,
-      "reserved": 713,
-      "bookable": true
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
     },
     {
       "description": "Ein Roadtrip voller Komik, Dramatik und unvorhersehbarer Abzweigungen von Deutschlands Bestsellerautor Nr. 1 Sebastian Fitzek - mit zwei skurrilen, ans Herz gehenden Hauptfiguren, die unterschiedlicher nicht sein könnten. Livius Reimer macht sich auf den Weg von München nach Berlin, um seine Ehe zu retten. Als sein Flug gestrichen wird, muss er sich den einzig noch verfügbaren Mietwagen mit einer jungen Frau teilen, um die er sonst einen großen Bogen gemacht hätte. Zu schräg, zu laut, zu ungewöhnlich - mit ihrer unkonventionellen Sicht auf die Welt überfordert Lea von Armin Livius von der ersten Sekunde an. Bereits kurz nach der Abfahrt lässt Livius sich auf ein ungewöhnliches Gedankenexperiment von Lea ein – und weiß nicht, dass damit nicht nur ihr Roadtrip einen völlig neuen Verlauf nimmt, sondern sein ganzes Leben!",
@@ -170,8 +170,8 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628960400000,
       "time": "17:00",
-      "available": 460,
-      "reserved": 533,
+      "available": 288,
+      "reserved": 535,
       "bookable": true
     },
     {
@@ -205,8 +205,8 @@
       "date": "Do., 19.8.",
       "timestamp": 1629406800000,
       "time": "21:00",
-      "available": 737,
-      "reserved": 67,
+      "available": 731,
+      "reserved": 73,
       "bookable": true
     },
     {
@@ -274,8 +274,8 @@
       "date": "Fr., 20.8.",
       "timestamp": 1629491400000,
       "time": "20:30",
-      "available": 780,
-      "reserved": 24,
+      "available": 779,
+      "reserved": 25,
       "bookable": true
     },
     {
@@ -292,8 +292,8 @@
       "date": "Mo., 23.8.",
       "timestamp": 1629750600000,
       "time": "20:30",
-      "available": 0,
-      "reserved": 0,
+      "available": 789,
+      "reserved": 15,
       "bookable": true
     },
     {
@@ -345,8 +345,8 @@
       "date": "Fr., 27.8.",
       "timestamp": 1630096200000,
       "time": "20:30",
-      "available": 773,
-      "reserved": 31,
+      "available": 772,
+      "reserved": 32,
       "bookable": true
     },
     {
@@ -451,8 +451,8 @@
       "date": "Mi., 11.8.",
       "timestamp": 1628716500000,
       "time": "21:15",
-      "available": 233,
-      "reserved": 460,
+      "available": 213,
+      "reserved": 480,
       "bookable": true
     },
     {
@@ -504,8 +504,8 @@
       "date": "Fr., 13.8.",
       "timestamp": 1628889300000,
       "time": "21:15",
-      "available": 365,
-      "reserved": 328,
+      "available": 359,
+      "reserved": 334,
       "bookable": true
     },
     {
@@ -522,8 +522,8 @@
       "date": "Mo., 16.8.",
       "timestamp": 1629148500000,
       "time": "21:15",
-      "available": 388,
-      "reserved": 305,
+      "available": 382,
+      "reserved": 311,
       "bookable": true
     },
     {
@@ -623,8 +623,8 @@
       "date": "Do., 19.8.",
       "timestamp": 1629407700000,
       "time": "21:15",
-      "available": 682,
-      "reserved": 17,
+      "available": 680,
+      "reserved": 19,
       "bookable": true
     },
     {
@@ -703,7 +703,7 @@
       "date": "Fr., 27.8.",
       "timestamp": 1630098900000,
       "time": "21:15",
-      "available": 699,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -771,8 +771,8 @@
       "date": "Mi., 11.8.",
       "timestamp": 1628715600000,
       "time": "21:00",
-      "available": 288,
-      "reserved": 285,
+      "available": 274,
+      "reserved": 299,
       "bookable": true
     },
     {
@@ -789,8 +789,8 @@
       "date": "Di., 17.8.",
       "timestamp": 1629234000000,
       "time": "21:00",
-      "available": 565,
-      "reserved": 8,
+      "available": 567,
+      "reserved": 6,
       "bookable": true
     },
     {
@@ -843,8 +843,8 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628973900000,
       "time": "20:45",
-      "available": 63,
-      "reserved": 510,
+      "available": 59,
+      "reserved": 514,
       "bookable": true
     },
     {
@@ -877,8 +877,8 @@
       "date": "So., 15.8.",
       "timestamp": 1629061200000,
       "time": "21:00",
-      "available": 371,
-      "reserved": 202,
+      "available": 359,
+      "reserved": 214,
       "bookable": true
     },
     {
@@ -895,8 +895,8 @@
       "date": "Fr., 13.8.",
       "timestamp": 1628888400000,
       "time": "21:00",
-      "available": 501,
-      "reserved": 72,
+      "available": 499,
+      "reserved": 74,
       "bookable": true
     },
     {
@@ -1299,9 +1299,9 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/693062?layout=shows",
       "img": "https://media.kinoheld.de/n2LLOWFHYrlqmBPgRfjQyFH35F4=/400x560/images%2Ffilm%2Fdas-maedchen-und-die-spinne-19311.v2.jpg",
       "description": "Eine junge Frau zieht aus ihrer WG in eine eigene Wohnung, was zu Problemen führt.",
-      "available": -1,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -1317,8 +1317,8 @@
       "img": "https://media.kinoheld.de/QiJV4p0CSSVLICzaS0OVKVlHjnM=/400x560/images%2Ffilm%2Fonce-upon-a-time-in-hollywood-13423.v112.jpg",
       "description": "Quentin Tarantinos \"Once Upon a Time... in Hollywood\" spielt im Los Angeles von 1969, zu einer Zeit, als alles im Umbruch ist. Auch TV-Star Rick Dalton (Leonardo DiCaprio) und sein langjähriges Stunt-Double Cliff Booth (Brad Pitt) müssen sich in einer Branche zurechtfinden, die sie kaum mehr wiedererkennen. (Quelle: Verleih)",
       "trailer": "https://youtu.be/MKJ-nXADsVk",
-      "available": 443,
-      "reserved": 51,
+      "available": 437,
+      "reserved": 52,
       "bookable": true
     },
     {
@@ -1368,7 +1368,7 @@
       "img": "https://media.kinoheld.de/oiBE1aMdFNTyfoEyvdhTcd2-GoA=/400x560/images%2Ffilm%2Ffilm-star-preview-shane-mit-starbesuch-19019.v2.jpg",
       "description": "Shane MacGowan ist nicht nur legendärer Frontmann der Band The Pogues, sondern dazu auch noch Poet, Rebell und Punk durch und durch. Wie bei vielen überaus talentierten Menschen neigt auch der begnadete Songwriter zur Selbstzerstörung. Einst zog er aus Irland nach London und mischte die dort gerade aufkeimende Punkbewegung mit irischem Folk auf. Mit seiner Musik schaffte Shane es, seinen Landsleuten in der Hochzeit des Nordirland-Konflikts eine Stimme zu geben. Trotz seines Rowdytums und der harten Schale, schuf er mit „Fairytale Of New York“ eines der meistgehörten Weihnachtslieder der Briten des 21. Jahrhunderts. Der Filmemacher Julien Temple setzt dem Punksänger anhand Archivaufnahmen und bisher unveröffentlichten Bildmaterial ein Denkmal.",
       "trailer": "https://www.youtube.com/watch?v=gtUV3K_rTW8",
-      "available": 452,
+      "available": 460,
       "reserved": 50,
       "bookable": true
     },
@@ -1469,7 +1469,7 @@
       "img": "https://media.kinoheld.de/3B5xyt_tZ59QCBxUwOBc9nVlLGA=/400x560/images%2Ffilm%2Fpromising-young-woman-19021.v1.jpg",
       "description": "Cassie ist eine vielversprechende junge Medizinstudentin, bis ein Schicksalsschlag sie eines Tages komplett aus der Bahn wirft. Sie bricht ihr Studium ab, sucht sich einen Job in einem Café und zieht wieder bei ihren Eltern ein. Doch sie führt ein geheimes Doppelleben: Nachts trifft sie in Bars auf Männer, die hinter Cassies betrunkener Fassade leichte Beute erhoffen.",
       "trailer": "https://www.youtube.com/watch?v=MBd1arxlo3g",
-      "available": 289,
+      "available": 282,
       "reserved": 106,
       "bookable": true
     },
@@ -1553,8 +1553,8 @@
       "img": "https://media.kinoheld.de/bWGHM8Zwj3X-4mFQsCeNjErA1-k=/400x560/images%2Ffilm%2Fnebenan-19133.v14.jpg",
       "description": "Der Filmstar Daniel (Daniel Brühl) scheint das perfekte Leben zu führen: Er lebt in einer schicken Wohnung in Berlin-Prenzlauer Berg, hat eine schöne Ehefrau und eine Nanny, die sich um die Kinder kümmert. Als er gerade auf dem Weg nach London zu einem Casting für die Rolle in einem Superheldenfilm ist, legt der deutsch-spanische Schauspielstar noch einen schnellen Abstecher in seiner Stammkneipe ein. Es scheint für Daniel der perfekte Ort, um kurz vor dem Vorsprechen noch mal runterzukommen: Dort ist es ruhig, es warten keine Fans auf ihn und er kann in Ruhe seine Dialoge durchgehen. Allerdings hat er nicht mit Bruno (Peter Kurth) gerechnet. Der fremde Mann kennt nicht nur alle Filme des Schauspielers, sondern weiß auch ziemlich viele Details aus seinem Privatleben. Je länger das Gespräch dauert, desto mehr Angst bekommt Daniel vor dem fremden Mann. Was er nicht weiß: Bruno fühlt sich vom Leben abgehängt und ist auf Rache aus. Und Daniel ist das perfekte Opfer...",
       "trailer": "https://www.youtube.com/watch?v=ujRKKXXsofs",
-      "available": 554,
-      "reserved": 26,
+      "available": 537,
+      "reserved": 30,
       "bookable": true
     },
     {
@@ -1757,7 +1757,7 @@
       "img": "https://media.kinoheld.de/GwZHiD65bCVb3mxAuT7jVcFqH9M=/400x560/images%2Ffilm%2Fnomadland-18288.v2.png",
       "description": "Nach dem wirtschaftlichen Zusammenbruch einer Stadt im ländlichen Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren weißen Van und macht sich auf den Weg, um als moderne Nomadin im Westen der USA ein Leben außerhalb der konventionellen Gesellschaft zu erkunden.",
       "trailer": "https://www.youtube.com/watch?v=5a-U7Wwi18c",
-      "available": 434,
+      "available": 441,
       "reserved": 63,
       "bookable": true
     },
@@ -3848,8 +3848,8 @@
       "time": "21:00",
       "date": "Mi., 11.8.",
       "timestamp": 1628715600000,
-      "available": 85,
-      "reserved": 375,
+      "available": 103,
+      "reserved": 357,
       "bookable": true
     },
     {
@@ -3866,8 +3866,8 @@
       "time": "21:00",
       "date": "Do., 12.8.",
       "timestamp": 1628802000000,
-      "available": 23,
-      "reserved": 437,
+      "available": 8,
+      "reserved": 452,
       "bookable": true
     },
     {
@@ -3883,8 +3883,8 @@
       "time": "21:00",
       "date": "Fr., 13.8.",
       "timestamp": 1628888400000,
-      "available": 407,
-      "reserved": 53,
+      "available": 405,
+      "reserved": 55,
       "bookable": true
     },
     {
@@ -3898,8 +3898,8 @@
       "time": "21:00",
       "date": "Sa., 14.8.",
       "timestamp": 1628974800000,
-      "available": 361,
-      "reserved": 99,
+      "available": 356,
+      "reserved": 104,
       "bookable": true
     },
     {
@@ -3916,8 +3916,8 @@
       "time": "21:00",
       "date": "So., 15.8.",
       "timestamp": 1629061200000,
-      "available": 407,
-      "reserved": 53,
+      "available": 406,
+      "reserved": 54,
       "bookable": true
     },
     {
@@ -3933,8 +3933,8 @@
       "time": "21:00",
       "date": "Mo., 16.8.",
       "timestamp": 1629147600000,
-      "available": 338,
-      "reserved": 122,
+      "available": 336,
+      "reserved": 124,
       "bookable": true
     },
     {
@@ -3948,8 +3948,8 @@
       "time": "21:00",
       "date": "Di., 17.8.",
       "timestamp": 1629234000000,
-      "available": 96,
-      "reserved": 364,
+      "available": 95,
+      "reserved": 365,
       "bookable": true
     },
     {
@@ -3980,8 +3980,8 @@
       "time": "21:00",
       "date": "Do., 19.8.",
       "timestamp": 1629406800000,
-      "available": 418,
-      "reserved": 42,
+      "available": 416,
+      "reserved": 44,
       "bookable": true
     },
     {
@@ -4013,8 +4013,8 @@
       "time": "20:45",
       "date": "Sa., 21.8.",
       "timestamp": 1629578700000,
-      "available": 431,
-      "reserved": 29,
+      "available": 432,
+      "reserved": 28,
       "bookable": true
     },
     {
@@ -4045,8 +4045,8 @@
       "time": "21:00",
       "date": "Sa., 14.8.",
       "timestamp": 1628974800000,
-      "available": 361,
-      "reserved": 99,
+      "available": 356,
+      "reserved": 104,
       "bookable": true
     },
     {
@@ -4060,8 +4060,8 @@
       "time": "21:00",
       "date": "Do., 19.8.",
       "timestamp": 1629406800000,
-      "available": 418,
-      "reserved": 42,
+      "available": 416,
+      "reserved": 44,
       "bookable": true
     },
     {
@@ -4075,8 +4075,8 @@
       "time": "21:00",
       "date": "Di., 17.8.",
       "timestamp": 1629234000000,
-      "available": 96,
-      "reserved": 364,
+      "available": 95,
+      "reserved": 365,
       "bookable": true
     },
     {
@@ -4093,8 +4093,8 @@
       "time": "20:45",
       "date": "Sa., 21.8.",
       "timestamp": 1629578700000,
-      "available": 431,
-      "reserved": 29,
+      "available": 432,
+      "reserved": 28,
       "bookable": true
     },
     {
@@ -4142,8 +4142,8 @@
       "time": "21:00",
       "date": "Fr., 13.8.",
       "timestamp": 1628888400000,
-      "available": 407,
-      "reserved": 53,
+      "available": 405,
+      "reserved": 55,
       "bookable": true
     },
     {
@@ -4160,8 +4160,8 @@
       "time": "21:00",
       "date": "Mi., 11.8.",
       "timestamp": 1628715600000,
-      "available": 85,
-      "reserved": 375,
+      "available": 103,
+      "reserved": 357,
       "bookable": true
     },
     {
@@ -4195,8 +4195,8 @@
       "time": "21:00",
       "date": "Do., 12.8.",
       "timestamp": 1628802000000,
-      "available": 23,
-      "reserved": 437,
+      "available": 8,
+      "reserved": 452,
       "bookable": true
     },
     {
@@ -4213,8 +4213,8 @@
       "time": "21:00",
       "date": "So., 15.8.",
       "timestamp": 1629061200000,
-      "available": 407,
-      "reserved": 53,
+      "available": 406,
+      "reserved": 54,
       "bookable": true
     },
     {
@@ -4230,8 +4230,8 @@
       "time": "21:00",
       "date": "Mo., 16.8.",
       "timestamp": 1629147600000,
-      "available": 338,
-      "reserved": 122,
+      "available": 336,
+      "reserved": 124,
       "bookable": true
     }
   ],
@@ -4250,8 +4250,8 @@
       "time": "21:00",
       "date": "Mi., 11.8.",
       "timestamp": 1628715600000,
-      "available": 210,
-      "reserved": 289,
+      "available": 212,
+      "reserved": 287,
       "bookable": true
     },
     {
@@ -4268,8 +4268,8 @@
       "time": "21:00",
       "date": "Do., 12.8.",
       "timestamp": 1628802000000,
-      "available": 355,
-      "reserved": 144,
+      "available": 354,
+      "reserved": 145,
       "bookable": true
     },
     {
@@ -4286,8 +4286,8 @@
       "time": "21:00",
       "date": "Fr., 13.8.",
       "timestamp": 1628888400000,
-      "available": 454,
-      "reserved": 189,
+      "available": 452,
+      "reserved": 191,
       "bookable": true
     },
     {
@@ -4304,8 +4304,8 @@
       "time": "21:00",
       "date": "Sa., 14.8.",
       "timestamp": 1628974800000,
-      "available": 524,
-      "reserved": 119,
+      "available": 503,
+      "reserved": 140,
       "bookable": true
     },
     {
@@ -4339,8 +4339,8 @@
       "time": "21:00",
       "date": "Mo., 16.8.",
       "timestamp": 1629147600000,
-      "available": 430,
-      "reserved": 69,
+      "available": 431,
+      "reserved": 68,
       "bookable": true
     },
     {
@@ -4392,8 +4392,8 @@
       "time": "21:00",
       "date": "Do., 19.8.",
       "timestamp": 1629406800000,
-      "available": 470,
-      "reserved": 29,
+      "available": 473,
+      "reserved": 26,
       "bookable": true
     },
     {
@@ -4410,8 +4410,8 @@
       "time": "21:00",
       "date": "Fr., 20.8.",
       "timestamp": 1629493200000,
-      "available": 611,
-      "reserved": 32,
+      "available": 609,
+      "reserved": 34,
       "bookable": true
     },
     {
@@ -4445,8 +4445,8 @@
       "time": "21:00",
       "date": "So., 22.8.",
       "timestamp": 1629666000000,
-      "available": 479,
-      "reserved": 20,
+      "available": 478,
+      "reserved": 21,
       "bookable": true
     },
     {
@@ -4481,8 +4481,8 @@
       "time": "21:00",
       "date": "Fr., 20.8.",
       "timestamp": 1629493200000,
-      "available": 611,
-      "reserved": 32,
+      "available": 609,
+      "reserved": 34,
       "bookable": true
     },
     {
@@ -4499,8 +4499,8 @@
       "time": "21:00",
       "date": "Do., 19.8.",
       "timestamp": 1629406800000,
-      "available": 470,
-      "reserved": 29,
+      "available": 473,
+      "reserved": 26,
       "bookable": true
     },
     {
@@ -4534,8 +4534,8 @@
       "time": "21:00",
       "date": "Mi., 11.8.",
       "timestamp": 1628715600000,
-      "available": 210,
-      "reserved": 289,
+      "available": 212,
+      "reserved": 287,
       "bookable": true
     },
     {
@@ -4570,8 +4570,8 @@
       "time": "21:00",
       "date": "Do., 12.8.",
       "timestamp": 1628802000000,
-      "available": 355,
-      "reserved": 144,
+      "available": 354,
+      "reserved": 145,
       "bookable": true
     },
     {
@@ -4588,8 +4588,8 @@
       "time": "21:00",
       "date": "Fr., 13.8.",
       "timestamp": 1628888400000,
-      "available": 454,
-      "reserved": 189,
+      "available": 452,
+      "reserved": 191,
       "bookable": true
     },
     {
@@ -4606,8 +4606,8 @@
       "time": "21:00",
       "date": "So., 22.8.",
       "timestamp": 1629666000000,
-      "available": 479,
-      "reserved": 20,
+      "available": 478,
+      "reserved": 21,
       "bookable": true
     },
     {
@@ -4623,8 +4623,8 @@
       "time": "21:00",
       "date": "Mo., 16.8.",
       "timestamp": 1629147600000,
-      "available": 430,
-      "reserved": 69,
+      "available": 431,
+      "reserved": 68,
       "bookable": true
     },
     {
@@ -4658,8 +4658,8 @@
       "time": "21:00",
       "date": "Sa., 14.8.",
       "timestamp": 1628974800000,
-      "available": 524,
-      "reserved": 119,
+      "available": 503,
+      "reserved": 140,
       "bookable": true
     }
   ]
