@@ -13,7 +13,7 @@
     "date": "Mo., 30.8.",
     "timestamp": 1630355400000,
     "time": "20:30",
-    "available": 0,
+    "available": 804,
     "reserved": 0,
     "bookable": true
   },
@@ -31,8 +31,8 @@
     "date": "Mi., 11.8.",
     "timestamp": 1628715600000,
     "time": "21:00",
-    "available": 0,
-    "reserved": 0,
+    "available": 449,
+    "reserved": 355,
     "bookable": true
   },
   "fhain-731": {
@@ -49,8 +49,8 @@
     "date": "Do., 12.8.",
     "timestamp": 1628802000000,
     "time": "21:00",
-    "available": 0,
-    "reserved": 0,
+    "available": 544,
+    "reserved": 260,
     "bookable": true
   },
   "fhain-732": {
@@ -67,8 +67,8 @@
     "date": "Fr., 13.8.",
     "timestamp": 1628888400000,
     "time": "21:00",
-    "available": 0,
-    "reserved": 0,
+    "available": 423,
+    "reserved": 381,
     "bookable": true
   },
   "fhain-719": {
@@ -84,8 +84,8 @@
     "date": "So., 15.8.",
     "timestamp": 1629043200000,
     "time": "16:00",
-    "available": 0,
-    "reserved": 0,
+    "available": 476,
+    "reserved": 328,
     "bookable": true
   },
   "fhain-734": {
@@ -102,8 +102,8 @@
     "date": "So., 15.8.",
     "timestamp": 1629061200000,
     "time": "21:00",
-    "available": 0,
-    "reserved": 0,
+    "available": 702,
+    "reserved": 102,
     "bookable": true
   },
   "fhain-737": {
@@ -120,7 +120,7 @@
     "time": "00:00",
     "available": 0,
     "reserved": 0,
-    "bookable": true
+    "bookable": false
   },
   "fhain-735": {
     "trailer": "https://www.youtube-nocookie.com/embed/7ZUOzlVsNp8?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
@@ -136,8 +136,8 @@
     "date": "Mo., 16.8.",
     "timestamp": 1629147600000,
     "time": "21:00",
-    "available": 0,
-    "reserved": 0,
+    "available": 777,
+    "reserved": 27,
     "bookable": true
   },
   "fhain-733": {
@@ -154,8 +154,8 @@
     "date": "Sa., 14.8.",
     "timestamp": 1628974800000,
     "time": "21:00",
-    "available": 0,
-    "reserved": 0,
+    "available": 101,
+    "reserved": 703,
     "bookable": true
   },
   "fhain-667": {
@@ -171,8 +171,8 @@
     "date": "Sa., 14.8.",
     "timestamp": 1628960400000,
     "time": "17:00",
-    "available": 0,
-    "reserved": 0,
+    "available": 462,
+    "reserved": 531,
     "bookable": true
   },
   "fhain-743": {
@@ -188,8 +188,8 @@
     "date": "Di., 24.8.",
     "timestamp": 1629837000000,
     "time": "20:30",
-    "available": 0,
-    "reserved": 0,
+    "available": 802,
+    "reserved": 2,
     "bookable": true
   },
   "fhain-739": {
@@ -206,8 +206,8 @@
     "date": "Do., 19.8.",
     "timestamp": 1629406800000,
     "time": "21:00",
-    "available": 0,
-    "reserved": 0,
+    "available": 747,
+    "reserved": 57,
     "bookable": true
   },
   "fhain-741": {
@@ -224,8 +224,8 @@
     "date": "Sa., 21.8.",
     "timestamp": 1629577800000,
     "time": "20:30",
-    "available": 0,
-    "reserved": 0,
+    "available": 794,
+    "reserved": 10,
     "bookable": true
   },
   "fhain-670": {
@@ -257,7 +257,7 @@
     "date": "So., 22.8.",
     "timestamp": 1629660600000,
     "time": "19:30",
-    "available": 0,
+    "available": 804,
     "reserved": 0,
     "bookable": true
   },
@@ -275,8 +275,8 @@
     "date": "Fr., 20.8.",
     "timestamp": 1629491400000,
     "time": "20:30",
-    "available": 0,
-    "reserved": 0,
+    "available": 782,
+    "reserved": 22,
     "bookable": true
   },
   "fhain-742": {
@@ -293,8 +293,8 @@
     "date": "Mo., 23.8.",
     "timestamp": 1629750600000,
     "time": "20:30",
-    "available": 0,
-    "reserved": 0,
+    "available": 793,
+    "reserved": 11,
     "bookable": true
   },
   "fhain-750": {
@@ -310,8 +310,8 @@
     "date": "Di., 31.8.",
     "timestamp": 1630440000000,
     "time": "20:00",
-    "available": 0,
-    "reserved": 0,
+    "available": 798,
+    "reserved": 6,
     "bookable": true
   },
   "fhain-748": {
@@ -328,8 +328,8 @@
     "date": "So., 29.8.",
     "timestamp": 1630269000000,
     "time": "20:30",
-    "available": 0,
-    "reserved": 0,
+    "available": 790,
+    "reserved": 14,
     "bookable": true
   },
   "fhain-746": {
@@ -346,8 +346,8 @@
     "date": "Fr., 27.8.",
     "timestamp": 1630096200000,
     "time": "20:30",
-    "available": 0,
-    "reserved": 0,
+    "available": 773,
+    "reserved": 31,
     "bookable": true
   },
   "fhain-751": {
@@ -364,7 +364,7 @@
     "date": "Mi., 1.9.,",
     "timestamp": 1630526400000,
     "time": "20:00",
-    "available": 0,
+    "available": 804,
     "reserved": 0,
     "bookable": true
   },
@@ -382,8 +382,8 @@
     "date": "Do., 26.8.",
     "timestamp": 1630009800000,
     "time": "20:30",
-    "available": 0,
-    "reserved": 0,
+    "available": 803,
+    "reserved": 1,
     "bookable": true
   },
   "fhain-703": {
@@ -399,8 +399,8 @@
     "date": "Sa., 4.9.,",
     "timestamp": 1630769400000,
     "time": "15:30",
-    "available": 0,
-    "reserved": 0,
+    "available": 678,
+    "reserved": 126,
     "bookable": true
   },
   "fhain-704": {
@@ -416,8 +416,8 @@
     "date": "So., 12.9.",
     "timestamp": 1631458800000,
     "time": "15:00",
-    "available": 0,
-    "reserved": 0,
+    "available": 745,
+    "reserved": 59,
     "bookable": true
   },
   "xberg-662": {
@@ -434,8 +434,8 @@
     "date": "Mi., 11.8.",
     "timestamp": 1628716500000,
     "time": "21:15",
-    "available": 328,
-    "reserved": 365,
+    "available": 317,
+    "reserved": 376,
     "bookable": true
   },
   "xberg-669": {
@@ -452,8 +452,8 @@
     "date": "Mi., 18.8.",
     "timestamp": 1629321300000,
     "time": "21:15",
-    "available": 663,
-    "reserved": 36,
+    "available": 661,
+    "reserved": 38,
     "bookable": true
   },
   "xberg-666": {
@@ -469,8 +469,8 @@
     "date": "So., 15.8.",
     "timestamp": 1629061200000,
     "time": "21:00",
-    "available": 680,
-    "reserved": 13,
+    "available": 678,
+    "reserved": 15,
     "bookable": true
   },
   "xberg-664": {
@@ -487,8 +487,8 @@
     "date": "Fr., 13.8.",
     "timestamp": 1628889300000,
     "time": "21:15",
-    "available": 409,
-    "reserved": 284,
+    "available": 401,
+    "reserved": 292,
     "bookable": true
   },
   "xberg-667": {
@@ -505,8 +505,8 @@
     "date": "Mo., 16.8.",
     "timestamp": 1629148500000,
     "time": "21:15",
-    "available": 402,
-    "reserved": 291,
+    "available": 401,
+    "reserved": 292,
     "bookable": true
   },
   "xberg-663": {
@@ -521,8 +521,8 @@
     "date": "Do., 12.8.",
     "timestamp": 1628802900000,
     "time": "21:15",
-    "available": 4,
-    "reserved": 689,
+    "available": 0,
+    "reserved": 0,
     "bookable": true
   },
   "xberg-668": {
@@ -608,8 +608,8 @@
     "date": "Mi., 11.8.",
     "timestamp": 1628715600000,
     "time": "21:00",
-    "available": 379,
-    "reserved": 194,
+    "available": 357,
+    "reserved": 216,
     "bookable": true
   },
   "rehberge-667": {
@@ -644,8 +644,8 @@
     "date": "Mo., 16.8.",
     "timestamp": 1629147600000,
     "time": "21:00",
-    "available": 527,
-    "reserved": 46,
+    "available": 524,
+    "reserved": 49,
     "bookable": true
   },
   "rehberge-668": {
@@ -698,8 +698,8 @@
     "date": "Do., 12.8.",
     "timestamp": 1628802000000,
     "time": "21:00",
-    "available": 24,
-    "reserved": 549,
+    "available": 23,
+    "reserved": 550,
     "bookable": true
   },
   "rehberge-662": {
@@ -716,8 +716,8 @@
     "date": "So., 15.8.",
     "timestamp": 1629061200000,
     "time": "21:00",
-    "available": 413,
-    "reserved": 160,
+    "available": 404,
+    "reserved": 169,
     "bookable": true
   },
   "rehberge-661": {
@@ -876,8 +876,8 @@
     "date": "Fr., 27.8.",
     "timestamp": 1630096200000,
     "time": "20:30",
-    "available": 559,
-    "reserved": 14,
+    "available": 557,
+    "reserved": 16,
     "bookable": true
   },
   "rehberge-676": {
@@ -1253,8 +1253,8 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/692893?layout=shows",
     "img": "https://media.kinoheld.de/yjMQZ0rDO8UBz50qBmFqke8MZQg=/400x560/images%2Ffilm%2Fsommer-rebellen-19610.v1.jpg",
     "description": "Jonas (11) wünscht sich nichts mehr, als in den Sommerferien zu seinem coolen Opa Bernard in die Slowakei zu fahren. Seit dem Tod seines Vaters gibt es nur noch Zoff zu Hause und so haut Jonas nach einem erneuten Eklat kurzer Hand ab. Durch eine List lässt sich Jonas von Bernard auf halber Strecke abholen. Der lang erwünschte Sommer bei Opa kann beginnen. Doch Opa ist nicht mehr so, wie ihn Jonas in Erinnerung hat. Inzwischen in den Vorruhestand befördert, verhält er sich seltsam und launisch. Von der erhofften Zeit voller Spaß und Action ist auch nach 3 Tagen nichts zu merken. Als sich Jonas mit dem Nachbarskind Alex anfreundet, hecken die beiden einen verrückten Plan für Opa aus: ein neues Hobby, eine neue Frau oder ein neuer Job muss her!",
-    "available": 33,
-    "reserved": 217,
+    "available": 26,
+    "reserved": 221,
     "bookable": true
   },
   "hasenheide-693101": {
@@ -1304,8 +1304,8 @@
     "img": "https://media.kinoheld.de/3B5xyt_tZ59QCBxUwOBc9nVlLGA=/400x560/images%2Ffilm%2Fpromising-young-woman-19021.v1.jpg",
     "description": "Cassie ist eine vielversprechende junge Medizinstudentin, bis ein Schicksalsschlag sie eines Tages komplett aus der Bahn wirft. Sie bricht ihr Studium ab, sucht sich einen Job in einem Café und zieht wieder bei ihren Eltern ein. Doch sie führt ein geheimes Doppelleben: Nachts trifft sie in Bars auf Männer, die hinter Cassies betrunkener Fassade leichte Beute erhoffen.",
     "trailer": "https://www.youtube.com/watch?v=MBd1arxlo3g",
-    "available": 343,
-    "reserved": 89,
+    "available": 334,
+    "reserved": 93,
     "bookable": true
   },
   "hasenheide-692890": {
@@ -1337,8 +1337,8 @@
     "img": "https://media.kinoheld.de/RIGzN4s6pmF-I9ax8bRVO8inl2o=/400x560/images%2Ffilm%2Fsommer-85-19153.v2.png",
     "description": "\"Ein originell verpackter Liebesfilm mit leinwandpräsenten Helden, ebenso hübschen Bildern sowie nostalgisch korrekter Ausstattung. Ein echter Ozon!\" Programmkino.de",
     "trailer": "https://www.youtube.com/watch?v=wS4uvD3SqY8",
-    "available": 595,
-    "reserved": 15,
+    "available": 562,
+    "reserved": 19,
     "bookable": true
   },
   "hasenheide-693104": {
@@ -1592,8 +1592,8 @@
     "img": "https://media.kinoheld.de/GwZHiD65bCVb3mxAuT7jVcFqH9M=/400x560/images%2Ffilm%2Fnomadland-18288.v2.png",
     "description": "Nach dem wirtschaftlichen Zusammenbruch einer Stadt im ländlichen Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren weißen Van und macht sich auf den Weg, um als moderne Nomadin im Westen der USA ein Leben außerhalb der konventionellen Gesellschaft zu erkunden.",
     "trailer": "https://www.youtube.com/watch?v=5a-U7Wwi18c",
-    "available": 457,
-    "reserved": 54,
+    "available": 462,
+    "reserved": 55,
     "bookable": true
   },
   "hasenheide-693223": {
@@ -1794,8 +1794,8 @@
     "img": "https://media.kinoheld.de/zAa01K_Wc_Ukkdd7ewI4AB9r1Q8=/400x560/images%2Ffilm%2Fder-rausch-18282.v16.jpg",
     "description": "Früher war Martin Lehrer aus Leidenschaft – heute sind nicht nur die Schüler von seinem fehlenden Enthusiasmus gelangweilt, auch in Martins Ehe ist die Luft raus. Seinen drei Freunden, die am selben Gymnasium unterrichten, geht es nicht viel besser. Bei einer angeheiterten Geburtstagsrunde diskutieren sie die Theorie eines norwegischen Philosophen: Nach dieser ist ein Mensch nur mit einem erhöhten Alkoholgehalt im Blut zu Bestleistungen fähig. Solch eine gewagte These muss überprüft werden. Die vier beschließen den Selbsttest zu machen und während der Arbeit einen bestimmten Pegel zu halten. Soll nicht sogar Churchill den Zweiten Weltkrieg in einem Alkoholrausch gewonnen haben? Mit neuem Antrieb stürzen sie sich in ihre geheime wissenschaftliche Studie. Die Wirkung lässt nicht lange auf sich warten …",
     "trailer": "https://www.youtube.com/watch?v=b2z6M24yq2Y",
-    "available": 530,
-    "reserved": 35,
+    "available": 524,
+    "reserved": 37,
     "bookable": true
   },
   "hasenheide-693172": {
@@ -2353,8 +2353,8 @@
     "img": "https://media.kinoheld.de/mIu1QYh0jTr0SFfvTQsJBC7p6ZA=/400x560/images%2Ffilm%2F2%2Fyuli-11879.v19.png",
     "description": "Carlos ist ein undiszipliniertes Kind, das alles, was es über das Leben weiß, auf den Straßen Havannas gelernt hat. Doch sein Vater Pedro - selbst Sohn einer Mutter, die noch als Sklavin in den kubanischen Zuckerrohrplantagen ausgebeutet wurde - erkennt das außergewöhnliche Talent seines Sohnes, den er nach dem Sohn eines afrikanischen Kriegsgottes nur Yuli nennt: Er kann tanzen wie kein zweiter. Gegen dessen Willen schickt er ihn auf die staatliche Ballettschule und sorgt mit harter Hand dafür, dass Yuli seine Ausbildung beendet. Yuli wird bald zu einem der besten Tänzer seiner Generation, feiert internationale Erfolge und ist der erste dunkelhäutige Romeo am Royal Opera House in London. Doch trotz des Ruhms zehrt das Heimweh an ihm, die Sehnsucht nach Freunden und Familie. Als er nach einer schweren Verletzung mit dem Tanzen pausieren muss, geht er zurück nach Kuba. Nach all den Jahren der Entbehrung und Einsamkeit lebt Yuli hier erstmals seinen schier unstillbaren Hunger nach Leben aus - und setzt damit seine Karriere aufs Spiel. Er muss sich entscheiden ob seine eigene Liebe zum Tanz ausreicht um den Weg weiterzugehen, den sein Vater ihm vorherbestimmt hat. (Quelle: Verleih)",
     "trailer": "https://www.youtube.com/watch?v=B_GOiK5CFlI",
-    "available": 33,
-    "reserved": 27,
+    "available": 26,
+    "reserved": 32,
     "bookable": true
   },
   "central-2408788407": {
@@ -2383,8 +2383,8 @@
     "timestamp": 1629072000000,
     "time": "20:45",
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2395945291?layout=shows",
-    "available": 42,
-    "reserved": 7,
+    "available": 40,
+    "reserved": 9,
     "bookable": true
   },
   "central-2395945315": {
@@ -3617,8 +3617,8 @@
     "time": "21:00",
     "date": "Mi., 11.8.",
     "timestamp": 1628715600000,
-    "available": 97,
-    "reserved": 363,
+    "available": 99,
+    "reserved": 361,
     "bookable": true
   },
   "kulturforum-294": {
@@ -3635,8 +3635,8 @@
     "time": "21:00",
     "date": "Do., 12.8.",
     "timestamp": 1628802000000,
-    "available": 60,
-    "reserved": 400,
+    "available": 53,
+    "reserved": 407,
     "bookable": true
   },
   "kulturforum-295": {
@@ -3685,8 +3685,8 @@
     "time": "21:00",
     "date": "So., 15.8.",
     "timestamp": 1629061200000,
-    "available": 410,
-    "reserved": 50,
+    "available": 412,
+    "reserved": 48,
     "bookable": true
   },
   "kulturforum-269": {
@@ -3717,8 +3717,8 @@
     "time": "21:00",
     "date": "Di., 17.8.",
     "timestamp": 1629234000000,
-    "available": 98,
-    "reserved": 362,
+    "available": 96,
+    "reserved": 364,
     "bookable": true
   },
   "kulturforum-298": {
@@ -3749,8 +3749,8 @@
     "time": "21:00",
     "date": "Do., 19.8.",
     "timestamp": 1629406800000,
-    "available": 424,
-    "reserved": 36,
+    "available": 420,
+    "reserved": 40,
     "bookable": true
   },
   "kulturforum-299": {
@@ -3817,8 +3817,8 @@
     "time": "21:00",
     "date": "Mi., 11.8.",
     "timestamp": 1628715600000,
-    "available": 235,
-    "reserved": 264,
+    "available": 233,
+    "reserved": 266,
     "bookable": true
   },
   "schloss-charlottenburg-74": {
@@ -3835,8 +3835,8 @@
     "time": "21:00",
     "date": "Do., 12.8.",
     "timestamp": 1628802000000,
-    "available": 376,
-    "reserved": 123,
+    "available": 374,
+    "reserved": 125,
     "bookable": true
   },
   "schloss-charlottenburg-75": {
@@ -3871,8 +3871,8 @@
     "time": "21:00",
     "date": "Sa., 14.8.",
     "timestamp": 1628974800000,
-    "available": 544,
-    "reserved": 99,
+    "available": 541,
+    "reserved": 102,
     "bookable": true
   },
   "schloss-charlottenburg-79": {
@@ -3889,8 +3889,8 @@
     "time": "21:00",
     "date": "So., 15.8.",
     "timestamp": 1629061200000,
-    "available": 410,
-    "reserved": 89,
+    "available": 409,
+    "reserved": 90,
     "bookable": true
   },
   "schloss-charlottenburg-80": {
