@@ -31,8 +31,8 @@
     "date": "Mi., 11.8.",
     "timestamp": 1628715600000,
     "time": "21:00",
-    "available": 449,
-    "reserved": 355,
+    "available": 436,
+    "reserved": 368,
     "bookable": true
   },
   "fhain-731": {
@@ -49,8 +49,8 @@
     "date": "Do., 12.8.",
     "timestamp": 1628802000000,
     "time": "21:00",
-    "available": 544,
-    "reserved": 260,
+    "available": 539,
+    "reserved": 265,
     "bookable": true
   },
   "fhain-732": {
@@ -67,8 +67,8 @@
     "date": "Fr., 13.8.",
     "timestamp": 1628888400000,
     "time": "21:00",
-    "available": 423,
-    "reserved": 381,
+    "available": 412,
+    "reserved": 392,
     "bookable": true
   },
   "fhain-719": {
@@ -102,8 +102,8 @@
     "date": "So., 15.8.",
     "timestamp": 1629061200000,
     "time": "21:00",
-    "available": 702,
-    "reserved": 102,
+    "available": 699,
+    "reserved": 105,
     "bookable": true
   },
   "fhain-737": {
@@ -154,8 +154,8 @@
     "date": "Sa., 14.8.",
     "timestamp": 1628974800000,
     "time": "21:00",
-    "available": 101,
-    "reserved": 703,
+    "available": 95,
+    "reserved": 709,
     "bookable": true
   },
   "fhain-667": {
@@ -171,8 +171,8 @@
     "date": "Sa., 14.8.",
     "timestamp": 1628960400000,
     "time": "17:00",
-    "available": 462,
-    "reserved": 531,
+    "available": 460,
+    "reserved": 533,
     "bookable": true
   },
   "fhain-743": {
@@ -206,8 +206,8 @@
     "date": "Do., 19.8.",
     "timestamp": 1629406800000,
     "time": "21:00",
-    "available": 747,
-    "reserved": 57,
+    "available": 742,
+    "reserved": 62,
     "bookable": true
   },
   "fhain-741": {
@@ -257,8 +257,8 @@
     "date": "So., 22.8.",
     "timestamp": 1629660600000,
     "time": "19:30",
-    "available": 804,
-    "reserved": 0,
+    "available": 802,
+    "reserved": 2,
     "bookable": true
   },
   "fhain-740": {
@@ -275,8 +275,8 @@
     "date": "Fr., 20.8.",
     "timestamp": 1629491400000,
     "time": "20:30",
-    "available": 782,
-    "reserved": 22,
+    "available": 780,
+    "reserved": 24,
     "bookable": true
   },
   "fhain-742": {
@@ -420,6 +420,22 @@
     "reserved": 59,
     "bookable": true
   },
+  "xberg-678": {
+    "cinemaId": "kb_freiluftkino",
+    "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+    "cinemaName": "Freiluftkino Kreuzberg",
+    "cinemaShortName": "xberg",
+    "id": "xberg-678",
+    "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/678",
+    "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=644",
+    "title": "Ich bin dein Mensch",
+    "date": "Do., 26.8.",
+    "timestamp": 1630012500000,
+    "time": "21:15",
+    "available": 699,
+    "reserved": 0,
+    "bookable": true
+  },
   "xberg-662": {
     "trailer": "https://www.youtube-nocookie.com/embed/_aEuhzZtwmU?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
     "description": "Das XPOSED-Team feiert die Eröffnung des 15. XPOSED Queer Film Festivals Berlin! Macht euch auf ein Programm gefasst, das sich der narrativen Erzählung widersetzt, in seinen feministischen Wurzeln schwelgt und die Poesie, das Androgyne und das Aktivistische feiert. Es geht um weit mehr als Identitäten und Labels, doch zugleich können eben diese auch mächtige Werkzeuge sein für den eigenen Werdegang und Transformation. Wir cruisen durch Parks, Wortspiele und Traditionen, während Lieder der Liebe und des Protests ertönen. Der Kurzfilm ist wieder auf der Leinwand in seiner experimentellen Kraft und deshalb traditionsgemäß die perfekte Form, um das 15-jährige XPOSED-Jubiläum zu eröffnen.",
@@ -434,8 +450,8 @@
     "date": "Mi., 11.8.",
     "timestamp": 1628716500000,
     "time": "21:15",
-    "available": 317,
-    "reserved": 376,
+    "available": 278,
+    "reserved": 415,
     "bookable": true
   },
   "xberg-669": {
@@ -487,8 +503,8 @@
     "date": "Fr., 13.8.",
     "timestamp": 1628889300000,
     "time": "21:15",
-    "available": 401,
-    "reserved": 292,
+    "available": 391,
+    "reserved": 302,
     "bookable": true
   },
   "xberg-667": {
@@ -505,8 +521,8 @@
     "date": "Mo., 16.8.",
     "timestamp": 1629148500000,
     "time": "21:15",
-    "available": 401,
-    "reserved": 292,
+    "available": 395,
+    "reserved": 298,
     "bookable": true
   },
   "xberg-663": {
@@ -521,8 +537,8 @@
     "date": "Do., 12.8.",
     "timestamp": 1628802900000,
     "time": "21:15",
-    "available": 0,
-    "reserved": 0,
+    "available": 4,
+    "reserved": 689,
     "bookable": true
   },
   "xberg-668": {
@@ -540,6 +556,22 @@
     "time": "21:15",
     "available": 690,
     "reserved": 9,
+    "bookable": true
+  },
+  "xberg-675": {
+    "cinemaId": "kb_freiluftkino",
+    "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+    "cinemaName": "Freiluftkino Kreuzberg",
+    "cinemaShortName": "xberg",
+    "id": "xberg-675",
+    "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/675",
+    "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=661",
+    "title": "Alles ist eins. Ausser der 0.",
+    "date": "Di., 24.8.",
+    "timestamp": 1629839700000,
+    "time": "21:15",
+    "available": 699,
+    "reserved": 0,
     "bookable": true
   },
   "xberg-672": {
@@ -560,6 +592,22 @@
     "reserved": 2,
     "bookable": true
   },
+  "xberg-674": {
+    "cinemaId": "kb_freiluftkino",
+    "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+    "cinemaName": "Freiluftkino Kreuzberg",
+    "cinemaShortName": "xberg",
+    "id": "xberg-674",
+    "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/674",
+    "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=660",
+    "title": "Gaza Mon Amour",
+    "date": "Mo., 23.8.",
+    "timestamp": 1629753300000,
+    "time": "21:15",
+    "available": 699,
+    "reserved": 0,
+    "bookable": true
+  },
   "xberg-670": {
     "trailer": "https://www.youtube-nocookie.com/embed/5PlNW3_xHvU?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
     "description": "\"Ein starkes Schauspielerduell.\" (programmkino.de): Im besetzten Frankreich wird der junge Belgier Gilles von der SS verhaftet und in ein KZ gebracht. Um der Exekution zu entgehen behauptet er, Perser zu sein – eine Lüge, die ihm zunächst das Leben rettet. Doch als  Lagerkommandant Klaus Koch von einem Perser in seinem Lager hört, lässt er ihn zu sich bringen. Ausgerechnet in Teheran will Koch nach dem Krieg ein Restaurant eröffnen und daher auch Persisch lernen. Da gibt es nur ein Problem: Gilles spricht kein Persisch. Verzweifelt beginnt er Wörter, schließlich eine ganze Sprache zu erfinden. Ein Drahtseilakt beginnt, denn jeder Fehltritt könnte Gilles auffliegen lassen. ",
@@ -578,6 +626,22 @@
     "reserved": 17,
     "bookable": true
   },
+  "xberg-677": {
+    "cinemaId": "kb_freiluftkino",
+    "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+    "cinemaName": "Freiluftkino Kreuzberg",
+    "cinemaShortName": "xberg",
+    "id": "xberg-677",
+    "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/677",
+    "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=663",
+    "title": "Sweat",
+    "date": "Mi., 25.8.",
+    "timestamp": 1629926100000,
+    "time": "21:15",
+    "available": 699,
+    "reserved": 0,
+    "bookable": true
+  },
   "xberg-601": {
     "cinemaId": "kb_freiluftkino",
     "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
@@ -591,6 +655,102 @@
     "timestamp": 1629396000000,
     "time": "18:00",
     "available": 571,
+    "reserved": 0,
+    "bookable": true
+  },
+  "xberg-680": {
+    "cinemaId": "kb_freiluftkino",
+    "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+    "cinemaName": "Freiluftkino Kreuzberg",
+    "cinemaShortName": "xberg",
+    "id": "xberg-680",
+    "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/680",
+    "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=666",
+    "title": "Fabian oder Der Gang vor die Hunde",
+    "date": "Sa., 28.8.",
+    "timestamp": 1630180800000,
+    "time": "20:00",
+    "available": 699,
+    "reserved": 0,
+    "bookable": true
+  },
+  "xberg-683": {
+    "cinemaId": "kb_freiluftkino",
+    "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+    "cinemaName": "Freiluftkino Kreuzberg",
+    "cinemaShortName": "xberg",
+    "id": "xberg-683",
+    "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/683",
+    "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=668",
+    "title": "Futur Drei",
+    "date": "Mo., 30.8.",
+    "timestamp": 1630358100000,
+    "time": "21:15",
+    "available": 699,
+    "reserved": 0,
+    "bookable": true
+  },
+  "xberg-679": {
+    "cinemaId": "kb_freiluftkino",
+    "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+    "cinemaName": "Freiluftkino Kreuzberg",
+    "cinemaShortName": "xberg",
+    "id": "xberg-679",
+    "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/679",
+    "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=665",
+    "title": "Seret International Filmfestival",
+    "date": "Fr., 27.8.",
+    "timestamp": 1630098900000,
+    "time": "21:15",
+    "available": 699,
+    "reserved": 0,
+    "bookable": true
+  },
+  "xberg-686": {
+    "cinemaId": "kb_freiluftkino",
+    "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+    "cinemaName": "Freiluftkino Kreuzberg",
+    "cinemaShortName": "xberg",
+    "id": "xberg-686",
+    "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/686",
+    "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=671",
+    "title": "Queeres B: 1 Berlin-Harlem",
+    "date": "Do., 2.9.,",
+    "timestamp": 1630617300000,
+    "time": "21:15",
+    "available": 697,
+    "reserved": 2,
+    "bookable": true
+  },
+  "xberg-688": {
+    "cinemaId": "kb_freiluftkino",
+    "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+    "cinemaName": "Freiluftkino Kreuzberg",
+    "cinemaShortName": "xberg",
+    "id": "xberg-688",
+    "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/688",
+    "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=673",
+    "title": "Die Wächterin ",
+    "date": "So., 5.9.,",
+    "timestamp": 1630872000000,
+    "time": "20:00",
+    "available": 0,
+    "reserved": 0,
+    "bookable": true
+  },
+  "xberg-687": {
+    "cinemaId": "kb_freiluftkino",
+    "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
+    "cinemaName": "Freiluftkino Kreuzberg",
+    "cinemaShortName": "xberg",
+    "id": "xberg-687",
+    "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/687",
+    "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=672",
+    "title": "Es gilt das gesprochene Wort",
+    "date": "Sa., 4.9.,",
+    "timestamp": 1630785600000,
+    "time": "20:00",
+    "available": 0,
     "reserved": 0,
     "bookable": true
   },
@@ -608,8 +768,8 @@
     "date": "Mi., 11.8.",
     "timestamp": 1628715600000,
     "time": "21:00",
-    "available": 357,
-    "reserved": 216,
+    "available": 328,
+    "reserved": 245,
     "bookable": true
   },
   "rehberge-667": {
@@ -644,8 +804,8 @@
     "date": "Mo., 16.8.",
     "timestamp": 1629147600000,
     "time": "21:00",
-    "available": 524,
-    "reserved": 49,
+    "available": 518,
+    "reserved": 55,
     "bookable": true
   },
   "rehberge-668": {
@@ -662,8 +822,8 @@
     "date": "Mi., 18.8.",
     "timestamp": 1629318600000,
     "time": "20:30",
-    "available": 571,
-    "reserved": 2,
+    "available": 569,
+    "reserved": 4,
     "bookable": true
   },
   "rehberge-622": {
@@ -698,8 +858,8 @@
     "date": "Do., 12.8.",
     "timestamp": 1628802000000,
     "time": "21:00",
-    "available": 23,
-    "reserved": 550,
+    "available": 13,
+    "reserved": 560,
     "bookable": true
   },
   "rehberge-662": {
@@ -716,8 +876,8 @@
     "date": "So., 15.8.",
     "timestamp": 1629061200000,
     "time": "21:00",
-    "available": 404,
-    "reserved": 169,
+    "available": 393,
+    "reserved": 180,
     "bookable": true
   },
   "rehberge-661": {
@@ -734,8 +894,8 @@
     "date": "Fr., 13.8.",
     "timestamp": 1628888400000,
     "time": "21:00",
-    "available": 506,
-    "reserved": 67,
+    "available": 502,
+    "reserved": 71,
     "bookable": true
   },
   "rehberge-623": {
@@ -752,8 +912,8 @@
     "date": "So., 22.8.",
     "timestamp": 1629665100000,
     "time": "20:45",
-    "available": 553,
-    "reserved": 20,
+    "available": 550,
+    "reserved": 23,
     "bookable": true
   },
   "rehberge-673": {
@@ -787,8 +947,8 @@
     "date": "Mo., 23.8.",
     "timestamp": 1629750600000,
     "time": "20:30",
-    "available": 573,
-    "reserved": 0,
+    "available": 570,
+    "reserved": 3,
     "bookable": true
   },
   "rehberge-669": {
@@ -963,8 +1123,8 @@
     "date": "Do., 2.9.,",
     "timestamp": 1630614600000,
     "time": "20:30",
-    "available": 567,
-    "reserved": 6,
+    "available": 563,
+    "reserved": 10,
     "bookable": true
   },
   "rehberge-644": {
@@ -998,8 +1158,8 @@
     "img": "https://media.kinoheld.de/-bSeZVIs4JQ8iPdztZWMGF09QK0=/400x560/images%2Ffilm%2Fmo%2F1863-39389.v2.jpg",
     "description": "Die Studentinnen Otilia und Gabita teilen ein Zimmer im Wohnheim einer kleinen Stadt in Rumänien. Das kommunistische Regime unter Ceausescu liegt in den letzten Zügen. Der Alltag ist für die Menschen täglich eine neue Herausforderung, schon das Anmieten eines Zimmers in einem Hotel ein schwieriges Unterfangen. In einem Hotelzimmer erwarten die beiden Freundinnen einen gewissen Mr. Bebe. Gabita ist schwanger, Abtreibung in Rumänien illegal - und die jungen Frauen, die keine Ahnung haben, was in einer solchen Situation zu tun ist, schlittern in ein Fiasko. \r\n\r\nDer beeindruckende Film war 2007 nicht nur in Cannes, beim wichtigsten Filmfestival der Welt, der Überraschungserfolg. Weltweit wurde er auf verschiedenen Festivals ausgezeichnet und sowohl von der Kritik, als auch vom Publikum gefeiert. Dem grandiosen Spiel der jungen Darstellerinnen, denen die Kamera stets nah ist, ohne ihnen zu nahe zu treten, kann sich der Zuschauer nicht entziehen. Ein Film voll schmerzhafter Intensität, der sich ins Gedächtnis brennt. \r\n\r\nGoldenen Palme, Cannes 2007. Europäischer Filmpreis 2007.",
     "trailer": "https://youtu.be/MKJ-nXADsVk",
-    "available": 81,
-    "reserved": 4,
+    "available": 79,
+    "reserved": 6,
     "bookable": true
   },
   "filmrauschpalast-2411085293": {
@@ -1152,8 +1312,8 @@
     "img": "https://media.kinoheld.de/QiJV4p0CSSVLICzaS0OVKVlHjnM=/400x560/images%2Ffilm%2Fonce-upon-a-time-in-hollywood-13423.v112.jpg",
     "description": "Quentin Tarantinos \"Once Upon a Time... in Hollywood\" spielt im Los Angeles von 1969, zu einer Zeit, als alles im Umbruch ist. Auch TV-Star Rick Dalton (Leonardo DiCaprio) und sein langjähriges Stunt-Double Cliff Booth (Brad Pitt) müssen sich in einer Branche zurechtfinden, die sie kaum mehr wiedererkennen. (Quelle: Verleih)",
     "trailer": "https://youtu.be/MKJ-nXADsVk",
-    "available": 552,
-    "reserved": 26,
+    "available": 502,
+    "reserved": 35,
     "bookable": true
   },
   "hasenheide-693098": {
@@ -1203,8 +1363,8 @@
     "img": "https://media.kinoheld.de/oiBE1aMdFNTyfoEyvdhTcd2-GoA=/400x560/images%2Ffilm%2Ffilm-star-preview-shane-mit-starbesuch-19019.v2.jpg",
     "description": "Shane MacGowan ist nicht nur legendärer Frontmann der Band The Pogues, sondern dazu auch noch Poet, Rebell und Punk durch und durch. Wie bei vielen überaus talentierten Menschen neigt auch der begnadete Songwriter zur Selbstzerstörung. Einst zog er aus Irland nach London und mischte die dort gerade aufkeimende Punkbewegung mit irischem Folk auf. Mit seiner Musik schaffte Shane es, seinen Landsleuten in der Hochzeit des Nordirland-Konflikts eine Stimme zu geben. Trotz seines Rowdytums und der harten Schale, schuf er mit „Fairytale Of New York“ eines der meistgehörten Weihnachtslieder der Briten des 21. Jahrhunderts. Der Filmemacher Julien Temple setzt dem Punksänger anhand Archivaufnahmen und bisher unveröffentlichten Bildmaterial ein Denkmal.",
     "trailer": "https://www.youtube.com/watch?v=gtUV3K_rTW8",
-    "available": 470,
-    "reserved": 48,
+    "available": 460,
+    "reserved": 50,
     "bookable": true
   },
   "hasenheide-693100": {
@@ -1304,8 +1464,8 @@
     "img": "https://media.kinoheld.de/3B5xyt_tZ59QCBxUwOBc9nVlLGA=/400x560/images%2Ffilm%2Fpromising-young-woman-19021.v1.jpg",
     "description": "Cassie ist eine vielversprechende junge Medizinstudentin, bis ein Schicksalsschlag sie eines Tages komplett aus der Bahn wirft. Sie bricht ihr Studium ab, sucht sich einen Job in einem Café und zieht wieder bei ihren Eltern ein. Doch sie führt ein geheimes Doppelleben: Nachts trifft sie in Bars auf Männer, die hinter Cassies betrunkener Fassade leichte Beute erhoffen.",
     "trailer": "https://www.youtube.com/watch?v=MBd1arxlo3g",
-    "available": 334,
-    "reserved": 93,
+    "available": 316,
+    "reserved": 98,
     "bookable": true
   },
   "hasenheide-692890": {
@@ -1338,7 +1498,7 @@
     "description": "\"Ein originell verpackter Liebesfilm mit leinwandpräsenten Helden, ebenso hübschen Bildern sowie nostalgisch korrekter Ausstattung. Ein echter Ozon!\" Programmkino.de",
     "trailer": "https://www.youtube.com/watch?v=wS4uvD3SqY8",
     "available": 562,
-    "reserved": 19,
+    "reserved": 23,
     "bookable": true
   },
   "hasenheide-693104": {
@@ -1436,8 +1596,8 @@
     "img": "https://media.kinoheld.de/DbWHTKT3neGjvULOXqsnipemH2A=/400x560/images%2Ffilm%2Fminari-18286.v2.png",
     "description": "Jacob beschließt, mit seiner koreanisch-amerikanischen Familie von Los Angeles nach Arkansas zu ziehen, um als Farmer sein Glück zu versuchen. Seine Frau Monica und die Kinder David und Anne fühlen sich jedoch fremd in der neuen Heimat, und das fragile Familienleben wird zusätzlich auf die Probe gestellt, als die schlagfertige und liebevolle Großmutter Soonja von Südkorea zu ihnen auf die Farm zieht.",
     "trailer": "https://www.youtube.com/watch?v=suCHYHMrO9Q",
-    "available": 593,
-    "reserved": 17,
+    "available": 579,
+    "reserved": 19,
     "bookable": true
   },
   "hasenheide-693109": {
@@ -1592,8 +1752,8 @@
     "img": "https://media.kinoheld.de/GwZHiD65bCVb3mxAuT7jVcFqH9M=/400x560/images%2Ffilm%2Fnomadland-18288.v2.png",
     "description": "Nach dem wirtschaftlichen Zusammenbruch einer Stadt im ländlichen Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren weißen Van und macht sich auf den Weg, um als moderne Nomadin im Westen der USA ein Leben außerhalb der konventionellen Gesellschaft zu erkunden.",
     "trailer": "https://www.youtube.com/watch?v=5a-U7Wwi18c",
-    "available": 462,
-    "reserved": 55,
+    "available": 455,
+    "reserved": 57,
     "bookable": true
   },
   "hasenheide-693223": {
@@ -2061,6 +2221,56 @@
     "reserved": 0,
     "bookable": true
   },
+  "cassiopeia-2424460276": {
+    "cinemaId": "581",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-insel-im-cassiopeia/shows/movies",
+    "cinemaName": "freiluftkino-insel-im-cassiopeia",
+    "cinemaShortName": "cassiopeia",
+    "id": "cassiopeia-2424460276",
+    "title": "DER RAUSCH -Another Round (subtitled OV English)",
+    "date": "Do., 19.8.",
+    "timestamp": 1629331200000,
+    "time": "20:30",
+    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-insel-im-cassiopeia/show/2424460276?layout=shows",
+    "img": "https://media.kinoheld.de/zAa01K_Wc_Ukkdd7ewI4AB9r1Q8=/400x560/images%2Ffilm%2Fder-rausch-18282.v16.jpg",
+    "description": "Früher war Martin Lehrer aus Leidenschaft – heute sind nicht nur die Schüler von seinem fehlenden Enthusiasmus gelangweilt, auch in Martins Ehe ist die Luft raus. Seinen drei Freunden, die am selben Gymnasium unterrichten, geht es nicht viel besser. Bei einer angeheiterten Geburtstagsrunde diskutieren sie die Theorie eines norwegischen Philosophen: Nach dieser ist ein Mensch nur mit einem erhöhten Alkoholgehalt im Blut zu Bestleistungen fähig. Solch eine gewagte These muss überprüft werden. Die vier beschließen den Selbsttest zu machen und während der Arbeit einen bestimmten Pegel zu halten. Soll nicht sogar Churchill den Zweiten Weltkrieg in einem Alkoholrausch gewonnen haben? Mit neuem Antrieb stürzen sie sich in ihre geheime wissenschaftliche Studie. Die Wirkung lässt nicht lange auf sich warten …",
+    "trailer": "https://www.youtube.com/watch?v=b2z6M24yq2Y",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
+  "cassiopeia-2424461878": {
+    "cinemaId": "581",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-insel-im-cassiopeia/shows/movies",
+    "cinemaName": "freiluftkino-insel-im-cassiopeia",
+    "cinemaShortName": "cassiopeia",
+    "id": "cassiopeia-2424461878",
+    "title": "JAZZ AN EINEM SOMMERABEND .AZZ ON A SUMMER'S DAYOmU (subtitled OV German)",
+    "date": "So., 22.8.",
+    "timestamp": 1629590400000,
+    "time": "20:15",
+    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-insel-im-cassiopeia/show/2424461878?layout=shows",
+    "img": "https://media.kinoheld.de/2ABW1ByHl1T4oGBLDWfGi_X01K8=/400x560/images%2Ffilm%2Fjazz-an-einem-sommerabend-19243.v3.jpg",
+    "description": "Im Jahr 1958 findet das Jazz Festival in Newport statt. Der Film von Bert Stern dokumentiert das Ereignis von Handwerkern, die letzte Hand an die Bühne legen über eine Dixieland-Band, die durch die Stadt zieht bis hin zu den musikalischen Highlights wie Louis Armstrong. (Die fehlenden Publikums-Bilder wurden später nachgestellt, indem Jazz-Kritiker wie Martin Williams ins Studio geladen wurden, um ihre Reaktionen einzufangen.) Untermalt wird der Dokumentarfilm außerdem von Bildern der America's Cup Trials, wobei Segelboote abwechselnd zu den Klängen in der nahen Narragansett-Bucht übers Wasser gleiten. Während der Tag in die Nacht übergeht, wechselt die Musik von improvisierten Stücken zu Gospel und zeichnet damit zugleich ein Zeitbild des Jazz.",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
+  "cassiopeia-2424454299": {
+    "cinemaId": "581",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-insel-im-cassiopeia/shows/movies",
+    "cinemaName": "freiluftkino-insel-im-cassiopeia",
+    "cinemaShortName": "cassiopeia",
+    "id": "cassiopeia-2424454299",
+    "title": "SON OF THE SOUTH (subtitled OV German)",
+    "date": "Do., 26.8.",
+    "timestamp": 1629936000000,
+    "time": "20:00",
+    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-insel-im-cassiopeia/show/2424454299?layout=shows",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
   "cassiopeia-2423538221": {
     "cinemaId": "581",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-insel-im-cassiopeia/shows/movies",
@@ -2353,8 +2563,8 @@
     "img": "https://media.kinoheld.de/mIu1QYh0jTr0SFfvTQsJBC7p6ZA=/400x560/images%2Ffilm%2F2%2Fyuli-11879.v19.png",
     "description": "Carlos ist ein undiszipliniertes Kind, das alles, was es über das Leben weiß, auf den Straßen Havannas gelernt hat. Doch sein Vater Pedro - selbst Sohn einer Mutter, die noch als Sklavin in den kubanischen Zuckerrohrplantagen ausgebeutet wurde - erkennt das außergewöhnliche Talent seines Sohnes, den er nach dem Sohn eines afrikanischen Kriegsgottes nur Yuli nennt: Er kann tanzen wie kein zweiter. Gegen dessen Willen schickt er ihn auf die staatliche Ballettschule und sorgt mit harter Hand dafür, dass Yuli seine Ausbildung beendet. Yuli wird bald zu einem der besten Tänzer seiner Generation, feiert internationale Erfolge und ist der erste dunkelhäutige Romeo am Royal Opera House in London. Doch trotz des Ruhms zehrt das Heimweh an ihm, die Sehnsucht nach Freunden und Familie. Als er nach einer schweren Verletzung mit dem Tanzen pausieren muss, geht er zurück nach Kuba. Nach all den Jahren der Entbehrung und Einsamkeit lebt Yuli hier erstmals seinen schier unstillbaren Hunger nach Leben aus - und setzt damit seine Karriere aufs Spiel. Er muss sich entscheiden ob seine eigene Liebe zum Tanz ausreicht um den Weg weiterzugehen, den sein Vater ihm vorherbestimmt hat. (Quelle: Verleih)",
     "trailer": "https://www.youtube.com/watch?v=B_GOiK5CFlI",
-    "available": 26,
-    "reserved": 32,
+    "available": 22,
+    "reserved": 36,
     "bookable": true
   },
   "central-2408788407": {
@@ -2368,8 +2578,8 @@
     "timestamp": 1628985600000,
     "time": "20:45",
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2408788407?layout=shows",
-    "available": 25,
-    "reserved": 21,
+    "available": 21,
+    "reserved": 24,
     "bookable": true
   },
   "central-2395945291": {
@@ -2800,17 +3010,17 @@
     "reserved": 0,
     "bookable": true
   },
-  "pompeji ostkreuz-2416110789": {
+  "pompeji ostkreuz-2424497777": {
     "cinemaId": "2153",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
     "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
     "cinemaShortName": "pompeji ostkreuz",
-    "id": "pompeji ostkreuz-2416110789",
-    "title": "MATTHIAS & MAXIME (subtitled OV English)",
+    "id": "pompeji ostkreuz-2424497777",
+    "title": "MATTHIAS & MAXIME (subtitled OV German)",
     "date": "Fr., 13.8.",
     "timestamp": 1628812800000,
     "time": "23:30",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2416110789?layout=shows",
+    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2424497777?layout=shows",
     "img": "https://media.kinoheld.de/VJ575z3Wugek2Jcv3PLs2shT8AY=/400x560/images%2Ffilm%2Fmatthias-maxime-17408.v5.jpg",
     "description": "Matthias und Maxime sind schon seit ihrer Kindheit beste Freunde und können sich gar nicht vorstellen, plötzlich getrennte Wege zu gehen. Doch das Erwachsenwerden bedeutet Veränderung und so zieht es Maxime für längere Zeit nach Australien. In den Tagen vor seiner Abreise ziehen die beiden im Kreis ihrer Freunde von einer Party zur nächsten. Als eine ihrer Freundinnen, eine Filmstudentin, für ihren neuesten Kurzfilm noch zwei Schauspieler sucht, werden Matthias und Maxime kurzerhand und nicht ganz gegen ihren Willen engagiert. Der Knackpunkt des Ganzen? Die beiden Freunde müssen sich vor der Kamera küssen und dies bringt plötzlich alles ins Wanken. Ungeahnte und unterdrückte Gefühle erwachen, die die beiden vor Entscheidungen und Herausforderungen stellen, die unüberwindbar scheinen. Denn während Matthias sich krampfhaft gegen seine Gefühle zu wehren versucht, wächst in Maxime mehr und mehr der Wunsch, Matthias noch näher zu kommen, bevor sie der Ozean endgültig trennt. Gibt es für die beiden doch noch ein Happy End?",
     "trailer": "https://youtu.be/BJ-5OujmDEw",
@@ -3088,17 +3298,17 @@
     "reserved": 0,
     "bookable": true
   },
-  "pompeji ostkreuz-2416117750": {
+  "pompeji ostkreuz-2424498272": {
     "cinemaId": "2153",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
     "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
     "cinemaShortName": "pompeji ostkreuz",
-    "id": "pompeji ostkreuz-2416117750",
-    "title": "MATTHIAS & MAXIME (subtitled OV English)",
+    "id": "pompeji ostkreuz-2424498272",
+    "title": "MATTHIAS & MAXIME (subtitled OV German)",
     "date": "Do., 26.8.",
     "timestamp": 1629936000000,
     "time": "20:30",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2416117750?layout=shows",
+    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2424498272?layout=shows",
     "img": "https://media.kinoheld.de/VJ575z3Wugek2Jcv3PLs2shT8AY=/400x560/images%2Ffilm%2Fmatthias-maxime-17408.v5.jpg",
     "description": "Matthias und Maxime sind schon seit ihrer Kindheit beste Freunde und können sich gar nicht vorstellen, plötzlich getrennte Wege zu gehen. Doch das Erwachsenwerden bedeutet Veränderung und so zieht es Maxime für längere Zeit nach Australien. In den Tagen vor seiner Abreise ziehen die beiden im Kreis ihrer Freunde von einer Party zur nächsten. Als eine ihrer Freundinnen, eine Filmstudentin, für ihren neuesten Kurzfilm noch zwei Schauspieler sucht, werden Matthias und Maxime kurzerhand und nicht ganz gegen ihren Willen engagiert. Der Knackpunkt des Ganzen? Die beiden Freunde müssen sich vor der Kamera küssen und dies bringt plötzlich alles ins Wanken. Ungeahnte und unterdrückte Gefühle erwachen, die die beiden vor Entscheidungen und Herausforderungen stellen, die unüberwindbar scheinen. Denn während Matthias sich krampfhaft gegen seine Gefühle zu wehren versucht, wächst in Maxime mehr und mehr der Wunsch, Matthias noch näher zu kommen, bevor sie der Ozean endgültig trennt. Gibt es für die beiden doch noch ein Happy End?",
     "trailer": "https://youtu.be/BJ-5OujmDEw",
@@ -3330,8 +3540,8 @@
     "timestamp": 1629158400000,
     "time": "20:45",
     "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2415339858?layout=shows",
-    "available": 144,
-    "reserved": 12,
+    "available": 142,
+    "reserved": 14,
     "bookable": true
   },
   "mobile kino-2408676991": {
@@ -3617,8 +3827,8 @@
     "time": "21:00",
     "date": "Mi., 11.8.",
     "timestamp": 1628715600000,
-    "available": 99,
-    "reserved": 361,
+    "available": 95,
+    "reserved": 365,
     "bookable": true
   },
   "kulturforum-294": {
@@ -3635,8 +3845,8 @@
     "time": "21:00",
     "date": "Do., 12.8.",
     "timestamp": 1628802000000,
-    "available": 53,
-    "reserved": 407,
+    "available": 40,
+    "reserved": 420,
     "bookable": true
   },
   "kulturforum-295": {
@@ -3667,8 +3877,8 @@
     "time": "21:00",
     "date": "Sa., 14.8.",
     "timestamp": 1628974800000,
-    "available": 373,
-    "reserved": 87,
+    "available": 365,
+    "reserved": 95,
     "bookable": true
   },
   "kulturforum-296": {
@@ -3702,8 +3912,8 @@
     "time": "21:00",
     "date": "Mo., 16.8.",
     "timestamp": 1629147600000,
-    "available": 342,
-    "reserved": 118,
+    "available": 340,
+    "reserved": 120,
     "bookable": true
   },
   "kulturforum-282": {
@@ -3734,8 +3944,8 @@
     "time": "21:00",
     "date": "Mi., 18.8.",
     "timestamp": 1629320400000,
-    "available": 430,
-    "reserved": 30,
+    "available": 428,
+    "reserved": 32,
     "bookable": true
   },
   "kulturforum-283": {
@@ -3749,8 +3959,8 @@
     "time": "21:00",
     "date": "Do., 19.8.",
     "timestamp": 1629406800000,
-    "available": 420,
-    "reserved": 40,
+    "available": 418,
+    "reserved": 42,
     "bookable": true
   },
   "kulturforum-299": {
@@ -3764,8 +3974,8 @@
     "time": "20:45",
     "date": "Fr., 20.8.",
     "timestamp": 1629492300000,
-    "available": 436,
-    "reserved": 24,
+    "available": 434,
+    "reserved": 26,
     "bookable": true
   },
   "kulturforum-300": {
@@ -3782,8 +3992,8 @@
     "time": "20:45",
     "date": "Sa., 21.8.",
     "timestamp": 1629578700000,
-    "available": 435,
-    "reserved": 25,
+    "available": 433,
+    "reserved": 27,
     "bookable": true
   },
   "kulturforum-301": {
@@ -3817,8 +4027,8 @@
     "time": "21:00",
     "date": "Mi., 11.8.",
     "timestamp": 1628715600000,
-    "available": 233,
-    "reserved": 266,
+    "available": 224,
+    "reserved": 275,
     "bookable": true
   },
   "schloss-charlottenburg-74": {
@@ -3835,8 +4045,8 @@
     "time": "21:00",
     "date": "Do., 12.8.",
     "timestamp": 1628802000000,
-    "available": 374,
-    "reserved": 125,
+    "available": 371,
+    "reserved": 128,
     "bookable": true
   },
   "schloss-charlottenburg-75": {
@@ -3853,8 +4063,8 @@
     "time": "21:00",
     "date": "Fr., 13.8.",
     "timestamp": 1628888400000,
-    "available": 467,
-    "reserved": 176,
+    "available": 464,
+    "reserved": 179,
     "bookable": true
   },
   "schloss-charlottenburg-76": {
@@ -3871,8 +4081,8 @@
     "time": "21:00",
     "date": "Sa., 14.8.",
     "timestamp": 1628974800000,
-    "available": 541,
-    "reserved": 102,
+    "available": 536,
+    "reserved": 107,
     "bookable": true
   },
   "schloss-charlottenburg-79": {
@@ -3889,8 +4099,8 @@
     "time": "21:00",
     "date": "So., 15.8.",
     "timestamp": 1629061200000,
-    "available": 409,
-    "reserved": 90,
+    "available": 403,
+    "reserved": 96,
     "bookable": true
   },
   "schloss-charlottenburg-80": {
@@ -3977,8 +4187,8 @@
     "time": "21:00",
     "date": "Fr., 20.8.",
     "timestamp": 1629493200000,
-    "available": 617,
-    "reserved": 26,
+    "available": 611,
+    "reserved": 32,
     "bookable": true
   },
   "schloss-charlottenburg-83": {
@@ -3994,8 +4204,8 @@
     "time": "21:00",
     "date": "Sa., 21.8.",
     "timestamp": 1629579600000,
-    "available": 623,
-    "reserved": 20,
+    "available": 620,
+    "reserved": 23,
     "bookable": true
   },
   "schloss-charlottenburg-84": {
