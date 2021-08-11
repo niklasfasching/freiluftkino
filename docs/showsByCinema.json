@@ -14,7 +14,7 @@
       "date": "Mo., 30.8.",
       "timestamp": 1630355400000,
       "time": "20:30",
-      "available": 804,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -32,8 +32,8 @@
       "date": "Mi., 11.8.",
       "timestamp": 1628715600000,
       "time": "21:00",
-      "available": 468,
-      "reserved": 336,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -50,8 +50,8 @@
       "date": "Do., 12.8.",
       "timestamp": 1628802000000,
       "time": "21:00",
-      "available": 558,
-      "reserved": 246,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -68,8 +68,8 @@
       "date": "Fr., 13.8.",
       "timestamp": 1628888400000,
       "time": "21:00",
-      "available": 450,
-      "reserved": 354,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -85,8 +85,8 @@
       "date": "So., 15.8.",
       "timestamp": 1629043200000,
       "time": "16:00",
-      "available": 482,
-      "reserved": 322,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -103,8 +103,8 @@
       "date": "So., 15.8.",
       "timestamp": 1629061200000,
       "time": "21:00",
-      "available": 704,
-      "reserved": 100,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -121,7 +121,7 @@
       "time": "00:00",
       "available": 0,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "trailer": "https://www.youtube-nocookie.com/embed/7ZUOzlVsNp8?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
@@ -137,8 +137,8 @@
       "date": "Mo., 16.8.",
       "timestamp": 1629147600000,
       "time": "21:00",
-      "available": 777,
-      "reserved": 27,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -155,8 +155,8 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628974800000,
       "time": "21:00",
-      "available": 119,
-      "reserved": 685,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -172,8 +172,8 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628960400000,
       "time": "17:00",
-      "available": 466,
-      "reserved": 527,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -189,8 +189,8 @@
       "date": "Di., 24.8.",
       "timestamp": 1629837000000,
       "time": "20:30",
-      "available": 802,
-      "reserved": 2,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -207,8 +207,8 @@
       "date": "Do., 19.8.",
       "timestamp": 1629406800000,
       "time": "21:00",
-      "available": 753,
-      "reserved": 51,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -225,8 +225,8 @@
       "date": "Sa., 21.8.",
       "timestamp": 1629577800000,
       "time": "20:30",
-      "available": 794,
-      "reserved": 10,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -258,7 +258,7 @@
       "date": "So., 22.8.",
       "timestamp": 1629660600000,
       "time": "19:30",
-      "available": 804,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -276,8 +276,8 @@
       "date": "Fr., 20.8.",
       "timestamp": 1629491400000,
       "time": "20:30",
-      "available": 782,
-      "reserved": 22,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -294,8 +294,8 @@
       "date": "Mo., 23.8.",
       "timestamp": 1629750600000,
       "time": "20:30",
-      "available": 795,
-      "reserved": 9,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -311,8 +311,8 @@
       "date": "Di., 31.8.",
       "timestamp": 1630440000000,
       "time": "20:00",
-      "available": 798,
-      "reserved": 6,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -329,8 +329,8 @@
       "date": "So., 29.8.",
       "timestamp": 1630269000000,
       "time": "20:30",
-      "available": 790,
-      "reserved": 14,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -347,8 +347,8 @@
       "date": "Fr., 27.8.",
       "timestamp": 1630096200000,
       "time": "20:30",
-      "available": 773,
-      "reserved": 31,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -365,7 +365,7 @@
       "date": "Mi., 1.9.,",
       "timestamp": 1630526400000,
       "time": "20:00",
-      "available": 804,
+      "available": 0,
       "reserved": 0,
       "bookable": true
     },
@@ -383,8 +383,8 @@
       "date": "Do., 26.8.",
       "timestamp": 1630009800000,
       "time": "20:30",
-      "available": 803,
-      "reserved": 1,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -400,8 +400,8 @@
       "date": "Sa., 4.9.,",
       "timestamp": 1630769400000,
       "time": "15:30",
-      "available": 678,
-      "reserved": 126,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     },
     {
@@ -417,8 +417,8 @@
       "date": "So., 12.9.",
       "timestamp": 1631458800000,
       "time": "15:00",
-      "available": 745,
-      "reserved": 59,
+      "available": 0,
+      "reserved": 0,
       "bookable": true
     }
   ],
@@ -437,8 +437,8 @@
       "date": "Mi., 11.8.",
       "timestamp": 1628716500000,
       "time": "21:15",
-      "available": 343,
-      "reserved": 350,
+      "available": 328,
+      "reserved": 365,
       "bookable": true
     },
     {
@@ -490,8 +490,8 @@
       "date": "Fr., 13.8.",
       "timestamp": 1628889300000,
       "time": "21:15",
-      "available": 412,
-      "reserved": 281,
+      "available": 409,
+      "reserved": 284,
       "bookable": true
     },
     {
@@ -508,8 +508,8 @@
       "date": "Mo., 16.8.",
       "timestamp": 1629148500000,
       "time": "21:15",
-      "available": 405,
-      "reserved": 288,
+      "available": 402,
+      "reserved": 291,
       "bookable": true
     },
     {
@@ -541,8 +541,8 @@
       "date": "Di., 17.8.",
       "timestamp": 1629234900000,
       "time": "21:15",
-      "available": 692,
-      "reserved": 7,
+      "available": 690,
+      "reserved": 9,
       "bookable": true
     },
     {
@@ -577,8 +577,8 @@
       "date": "Do., 19.8.",
       "timestamp": 1629407700000,
       "time": "21:15",
-      "available": 684,
-      "reserved": 15,
+      "available": 682,
+      "reserved": 17,
       "bookable": true
     },
     {
@@ -613,8 +613,8 @@
       "date": "Mi., 11.8.",
       "timestamp": 1628715600000,
       "time": "21:00",
-      "available": 396,
-      "reserved": 177,
+      "available": 379,
+      "reserved": 194,
       "bookable": true
     },
     {
@@ -649,8 +649,8 @@
       "date": "Mo., 16.8.",
       "timestamp": 1629147600000,
       "time": "21:00",
-      "available": 529,
-      "reserved": 44,
+      "available": 527,
+      "reserved": 46,
       "bookable": true
     },
     {
@@ -685,8 +685,8 @@
       "date": "Sa., 14.8.",
       "timestamp": 1628973900000,
       "time": "20:45",
-      "available": 66,
-      "reserved": 507,
+      "available": 64,
+      "reserved": 509,
       "bookable": true
     },
     {
@@ -703,8 +703,8 @@
       "date": "Do., 12.8.",
       "timestamp": 1628802000000,
       "time": "21:00",
-      "available": 47,
-      "reserved": 526,
+      "available": 24,
+      "reserved": 549,
       "bookable": true
     },
     {
@@ -721,8 +721,8 @@
       "date": "So., 15.8.",
       "timestamp": 1629061200000,
       "time": "21:00",
-      "available": 421,
-      "reserved": 152,
+      "available": 413,
+      "reserved": 160,
       "bookable": true
     },
     {
@@ -1161,8 +1161,8 @@
       "img": "https://media.kinoheld.de/QiJV4p0CSSVLICzaS0OVKVlHjnM=/400x560/images%2Ffilm%2Fonce-upon-a-time-in-hollywood-13423.v112.jpg",
       "description": "Quentin Tarantinos \"Once Upon a Time... in Hollywood\" spielt im Los Angeles von 1969, zu einer Zeit, als alles im Umbruch ist. Auch TV-Star Rick Dalton (Leonardo DiCaprio) und sein langjähriges Stunt-Double Cliff Booth (Brad Pitt) müssen sich in einer Branche zurechtfinden, die sie kaum mehr wiedererkennen. (Quelle: Verleih)",
       "trailer": "https://youtu.be/MKJ-nXADsVk",
-      "available": 580,
-      "reserved": 21,
+      "available": 552,
+      "reserved": 26,
       "bookable": true
     },
     {
@@ -1212,8 +1212,8 @@
       "img": "https://media.kinoheld.de/oiBE1aMdFNTyfoEyvdhTcd2-GoA=/400x560/images%2Ffilm%2Ffilm-star-preview-shane-mit-starbesuch-19019.v2.jpg",
       "description": "Shane MacGowan ist nicht nur legendärer Frontmann der Band The Pogues, sondern dazu auch noch Poet, Rebell und Punk durch und durch. Wie bei vielen überaus talentierten Menschen neigt auch der begnadete Songwriter zur Selbstzerstörung. Einst zog er aus Irland nach London und mischte die dort gerade aufkeimende Punkbewegung mit irischem Folk auf. Mit seiner Musik schaffte Shane es, seinen Landsleuten in der Hochzeit des Nordirland-Konflikts eine Stimme zu geben. Trotz seines Rowdytums und der harten Schale, schuf er mit „Fairytale Of New York“ eines der meistgehörten Weihnachtslieder der Briten des 21. Jahrhunderts. Der Filmemacher Julien Temple setzt dem Punksänger anhand Archivaufnahmen und bisher unveröffentlichten Bildmaterial ein Denkmal.",
       "trailer": "https://www.youtube.com/watch?v=gtUV3K_rTW8",
-      "available": 476,
-      "reserved": 46,
+      "available": 470,
+      "reserved": 48,
       "bookable": true
     },
     {
@@ -1263,7 +1263,7 @@
       "img": "https://media.kinoheld.de/yjMQZ0rDO8UBz50qBmFqke8MZQg=/400x560/images%2Ffilm%2Fsommer-rebellen-19610.v1.jpg",
       "description": "Jonas (11) wünscht sich nichts mehr, als in den Sommerferien zu seinem coolen Opa Bernard in die Slowakei zu fahren. Seit dem Tod seines Vaters gibt es nur noch Zoff zu Hause und so haut Jonas nach einem erneuten Eklat kurzer Hand ab. Durch eine List lässt sich Jonas von Bernard auf halber Strecke abholen. Der lang erwünschte Sommer bei Opa kann beginnen. Doch Opa ist nicht mehr so, wie ihn Jonas in Erinnerung hat. Inzwischen in den Vorruhestand befördert, verhält er sich seltsam und launisch. Von der erhofften Zeit voller Spaß und Action ist auch nach 3 Tagen nichts zu merken. Als sich Jonas mit dem Nachbarskind Alex anfreundet, hecken die beiden einen verrückten Plan für Opa aus: ein neues Hobby, eine neue Frau oder ein neuer Job muss her!",
       "available": 33,
-      "reserved": 214,
+      "reserved": 217,
       "bookable": true
     },
     {
@@ -1346,8 +1346,8 @@
       "img": "https://media.kinoheld.de/RIGzN4s6pmF-I9ax8bRVO8inl2o=/400x560/images%2Ffilm%2Fsommer-85-19153.v2.png",
       "description": "\"Ein originell verpackter Liebesfilm mit leinwandpräsenten Helden, ebenso hübschen Bildern sowie nostalgisch korrekter Ausstattung. Ein echter Ozon!\" Programmkino.de",
       "trailer": "https://www.youtube.com/watch?v=wS4uvD3SqY8",
-      "available": 609,
-      "reserved": 13,
+      "available": 595,
+      "reserved": 15,
       "bookable": true
     },
     {
@@ -1601,7 +1601,7 @@
       "img": "https://media.kinoheld.de/GwZHiD65bCVb3mxAuT7jVcFqH9M=/400x560/images%2Ffilm%2Fnomadland-18288.v2.png",
       "description": "Nach dem wirtschaftlichen Zusammenbruch einer Stadt im ländlichen Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren weißen Van und macht sich auf den Weg, um als moderne Nomadin im Westen der USA ein Leben außerhalb der konventionellen Gesellschaft zu erkunden.",
       "trailer": "https://www.youtube.com/watch?v=5a-U7Wwi18c",
-      "available": 467,
+      "available": 457,
       "reserved": 54,
       "bookable": true
     },
@@ -1857,8 +1857,8 @@
       "img": "https://media.kinoheld.de/StLHZv24mjNUvG5-BkOqzxrfBCE=/400x560/images%2Ffilm%2Fder-wilde-wald-19371.v2.png",
       "description": "Der Nationalpark Bayerischer Wald hat sich eine ganz besondere Philosophie auf die Fahne geschrieben: Sie lassen die Natur einfach Natur sein. Was einst nur eine Vision war, wurde im Laufe der Zeit trotz heftigen Widerstandes zu einem Vorzeigeprojekt. Der Mensch greift in diesem Naturschutzgebiet nicht mehr ein, sodass aus den ehemaligen Wirtschaftswäldern ein richtiger Urwald geworden ist. Mittlerweile beherbergt der Wald ein einzigartiges Ökosystem und wurde für viele Arten zu einem einzigartigen Rückzugsort. Die Filmemacherin Lisa Eder begleitet die vielen Menschen, die Jahr für Jahr den Wald besuchen und ergründen wollen, warum wir mehr wilde Natur brauchen und was wir von ihr lernen können.",
       "trailer": "https://www.youtube.com/watch?v=jd0OwWArei8",
-      "available": 672,
-      "reserved": 2,
+      "available": 662,
+      "reserved": 4,
       "bookable": true
     },
     {
@@ -3642,8 +3642,8 @@
       "time": "21:00",
       "date": "Mi., 11.8.",
       "timestamp": 1628715600000,
-      "available": 92,
-      "reserved": 368,
+      "available": 97,
+      "reserved": 363,
       "bookable": true
     },
     {
@@ -3660,8 +3660,8 @@
       "time": "21:00",
       "date": "Do., 12.8.",
       "timestamp": 1628802000000,
-      "available": 61,
-      "reserved": 399,
+      "available": 60,
+      "reserved": 400,
       "bookable": true
     },
     {
@@ -3692,8 +3692,8 @@
       "time": "21:00",
       "date": "Sa., 14.8.",
       "timestamp": 1628974800000,
-      "available": 376,
-      "reserved": 84,
+      "available": 373,
+      "reserved": 87,
       "bookable": true
     },
     {
@@ -3789,8 +3789,8 @@
       "time": "20:45",
       "date": "Fr., 20.8.",
       "timestamp": 1629492300000,
-      "available": 438,
-      "reserved": 22,
+      "available": 436,
+      "reserved": 24,
       "bookable": true
     },
     {
@@ -3839,8 +3839,8 @@
       "time": "21:00",
       "date": "Sa., 14.8.",
       "timestamp": 1628974800000,
-      "available": 376,
-      "reserved": 84,
+      "available": 373,
+      "reserved": 87,
       "bookable": true
     },
     {
@@ -3919,8 +3919,8 @@
       "time": "20:45",
       "date": "Fr., 20.8.",
       "timestamp": 1629492300000,
-      "available": 438,
-      "reserved": 22,
+      "available": 436,
+      "reserved": 24,
       "bookable": true
     },
     {
@@ -3954,8 +3954,8 @@
       "time": "21:00",
       "date": "Mi., 11.8.",
       "timestamp": 1628715600000,
-      "available": 92,
-      "reserved": 368,
+      "available": 97,
+      "reserved": 363,
       "bookable": true
     },
     {
@@ -3989,8 +3989,8 @@
       "time": "21:00",
       "date": "Do., 12.8.",
       "timestamp": 1628802000000,
-      "available": 61,
-      "reserved": 399,
+      "available": 60,
+      "reserved": 400,
       "bookable": true
     },
     {
@@ -4044,8 +4044,8 @@
       "time": "21:00",
       "date": "Mi., 11.8.",
       "timestamp": 1628715600000,
-      "available": 242,
-      "reserved": 257,
+      "available": 235,
+      "reserved": 264,
       "bookable": true
     },
     {
@@ -4062,8 +4062,8 @@
       "time": "21:00",
       "date": "Do., 12.8.",
       "timestamp": 1628802000000,
-      "available": 384,
-      "reserved": 115,
+      "available": 376,
+      "reserved": 123,
       "bookable": true
     },
     {
@@ -4080,8 +4080,8 @@
       "time": "21:00",
       "date": "Fr., 13.8.",
       "timestamp": 1628888400000,
-      "available": 465,
-      "reserved": 178,
+      "available": 467,
+      "reserved": 176,
       "bookable": true
     },
     {
@@ -4116,8 +4116,8 @@
       "time": "21:00",
       "date": "So., 15.8.",
       "timestamp": 1629061200000,
-      "available": 412,
-      "reserved": 87,
+      "available": 410,
+      "reserved": 89,
       "bookable": true
     },
     {
@@ -4186,8 +4186,8 @@
       "time": "21:00",
       "date": "Do., 19.8.",
       "timestamp": 1629406800000,
-      "available": 476,
-      "reserved": 23,
+      "available": 474,
+      "reserved": 25,
       "bookable": true
     },
     {
@@ -4204,8 +4204,8 @@
       "time": "21:00",
       "date": "Fr., 20.8.",
       "timestamp": 1629493200000,
-      "available": 621,
-      "reserved": 22,
+      "available": 617,
+      "reserved": 26,
       "bookable": true
     },
     {
@@ -4257,8 +4257,8 @@
       "time": "21:00",
       "date": "So., 15.8.",
       "timestamp": 1629061200000,
-      "available": 412,
-      "reserved": 87,
+      "available": 410,
+      "reserved": 89,
       "bookable": true
     },
     {
@@ -4275,8 +4275,8 @@
       "time": "21:00",
       "date": "Fr., 20.8.",
       "timestamp": 1629493200000,
-      "available": 621,
-      "reserved": 22,
+      "available": 617,
+      "reserved": 26,
       "bookable": true
     },
     {
@@ -4293,8 +4293,8 @@
       "time": "21:00",
       "date": "Do., 19.8.",
       "timestamp": 1629406800000,
-      "available": 476,
-      "reserved": 23,
+      "available": 474,
+      "reserved": 25,
       "bookable": true
     },
     {
@@ -4328,8 +4328,8 @@
       "time": "21:00",
       "date": "Mi., 11.8.",
       "timestamp": 1628715600000,
-      "available": 242,
-      "reserved": 257,
+      "available": 235,
+      "reserved": 264,
       "bookable": true
     },
     {
@@ -4364,8 +4364,8 @@
       "time": "21:00",
       "date": "Do., 12.8.",
       "timestamp": 1628802000000,
-      "available": 384,
-      "reserved": 115,
+      "available": 376,
+      "reserved": 123,
       "bookable": true
     },
     {
@@ -4382,8 +4382,8 @@
       "time": "21:00",
       "date": "Fr., 13.8.",
       "timestamp": 1628888400000,
-      "available": 465,
-      "reserved": 178,
+      "available": 467,
+      "reserved": 176,
       "bookable": true
     },
     {
