@@ -32,8 +32,8 @@
       "date": "Do., 12.8.",
       "timestamp": 1628802000000,
       "time": "21:00",
-      "available": 438,
-      "reserved": 366,
+      "available": 436,
+      "reserved": 368,
       "bookable": true
     },
     {
@@ -187,8 +187,8 @@
       "date": "Do., 19.8.",
       "timestamp": 1629406800000,
       "time": "21:00",
-      "available": 710,
-      "reserved": 94,
+      "available": 708,
+      "reserved": 96,
       "bookable": true
     },
     {
@@ -415,8 +415,8 @@
       "date": "Do., 26.8.",
       "timestamp": 1630012500000,
       "time": "21:15",
-      "available": 0,
-      "reserved": 0,
+      "available": 694,
+      "reserved": 5,
       "bookable": true
     },
     {
@@ -699,7 +699,7 @@
       "date": "So., 5.9.,",
       "timestamp": 1630872000000,
       "time": "20:00",
-      "available": 0,
+      "available": 699,
       "reserved": 0,
       "bookable": true
     },
@@ -771,8 +771,8 @@
       "date": "Mo., 16.8.",
       "timestamp": 1629147600000,
       "time": "21:00",
-      "available": 514,
-      "reserved": 59,
+      "available": 512,
+      "reserved": 61,
       "bookable": true
     },
     {
@@ -789,8 +789,8 @@
       "date": "Mi., 18.8.",
       "timestamp": 1629318600000,
       "time": "20:30",
-      "available": 567,
-      "reserved": 6,
+      "available": 563,
+      "reserved": 10,
       "bookable": true
     },
     {
@@ -841,8 +841,8 @@
       "date": "So., 15.8.",
       "timestamp": 1629061200000,
       "time": "21:00",
-      "available": 314,
-      "reserved": 259,
+      "available": 304,
+      "reserved": 269,
       "bookable": true
     },
     {
@@ -859,8 +859,8 @@
       "date": "Fr., 13.8.",
       "timestamp": 1628888400000,
       "time": "21:00",
-      "available": 487,
-      "reserved": 86,
+      "available": 485,
+      "reserved": 88,
       "bookable": true
     },
     {
@@ -1239,56 +1239,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
       "cinemaName": "freiluftkino-hasenheide",
       "cinemaShortName": "hasenheide",
-      "id": "hasenheide-693218",
-      "title": "Wir Kinder aus Bullerbü ",
-      "date": "Mi., 11.8.",
-      "timestamp": 1628640000000,
-      "time": "16:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/693218?layout=shows",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "hasenheide-693062",
-      "title": "Mädchen und die Spinne, Das (subtitled OV English)",
-      "date": "Mi., 11.8.",
-      "timestamp": 1628640000000,
-      "time": "18:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/693062?layout=shows",
-      "img": "https://media.kinoheld.de/n2LLOWFHYrlqmBPgRfjQyFH35F4=/400x560/images%2Ffilm%2Fdas-maedchen-und-die-spinne-19311.v2.jpg",
-      "description": "Eine junge Frau zieht aus ihrer WG in eine eigene Wohnung, was zu Problemen führt.",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "hasenheide-693063",
-      "title": "Once Upon A Time ... In Hollywood (subtitled OV German)",
-      "date": "Mi., 11.8.",
-      "timestamp": 1628640000000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/693063?layout=shows",
-      "img": "https://media.kinoheld.de/QiJV4p0CSSVLICzaS0OVKVlHjnM=/400x560/images%2Ffilm%2Fonce-upon-a-time-in-hollywood-13423.v112.jpg",
-      "description": "Quentin Tarantinos \"Once Upon a Time... in Hollywood\" spielt im Los Angeles von 1969, zu einer Zeit, als alles im Umbruch ist. Auch TV-Star Rick Dalton (Leonardo DiCaprio) und sein langjähriges Stunt-Double Cliff Booth (Brad Pitt) müssen sich in einer Branche zurechtfinden, die sie kaum mehr wiedererkennen. (Quelle: Verleih)",
-      "trailer": "https://www.youtube.com/watch?v=-zwy4-W7qBA",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
       "id": "hasenheide-693098",
       "title": "Yakari - Der Kinofilm ",
       "date": "Do., 12.8.",
@@ -1432,8 +1382,8 @@
       "img": "https://media.kinoheld.de/3B5xyt_tZ59QCBxUwOBc9nVlLGA=/400x560/images%2Ffilm%2Fpromising-young-woman-19021.v1.jpg",
       "description": "Cassie ist eine vielversprechende junge Medizinstudentin, bis ein Schicksalsschlag sie eines Tages komplett aus der Bahn wirft. Sie bricht ihr Studium ab, sucht sich einen Job in einem Café und zieht wieder bei ihren Eltern ein. Doch sie führt ein geheimes Doppelleben: Nachts trifft sie in Bars auf Männer, die hinter Cassies betrunkener Fassade leichte Beute erhoffen.",
       "trailer": "https://www.youtube.com/watch?v=MBd1arxlo3g",
-      "available": 230,
-      "reserved": 121,
+      "available": 222,
+      "reserved": 123,
       "bookable": true
     },
     {
@@ -1770,7 +1720,7 @@
       "img": "https://media.kinoheld.de/jHvvh1Xl1T39hdM2gpymZbS4gGo=/400x560/images%2Ffilm%2Fcruella-18919.v22.jpg",
       "description": "London in den 1970er Jahren: Die junge Estella (Emma Stone) ist eine talentierte Designerin und träumt von einer großen Karriere als Modeschöpferin. Doch da sie verwaist und mittellos aufgewachsen ist, scheint ihr der Weg in höhere Kreise verschlossen. Mit ihren zwei Kumpels, den Amateur-Dieben Horace (Paul Walter Hauser) und Jasper (Joel Fry), streift sie durch London und begeht hier und da kleine Verbrechen – und wann immer sich die Möglichkeit ergibt, wenigstens kurz in den von ihr ersehnten Luxus der Schönen und Reichen einzutauchen, greift sie schamlos zu. Dann aber bietet sich ihr endlich eine einzigartige Gelegenheit, um der Gosse zu entkommen: Ein aufstrebender Rockstar entdeckt ihr Talent und beauftragt Estella damit, ihm ein einzigartiges Outfit zu entwerfen. Auf der Suche nach dem perfekten Material muss sich Estella, die ein Faible für Hundefell hat, fragen, was sie für ihren Erfolg zu opfern bereit ist.",
       "trailer": "https://www.youtube.com/watch?v=DNUL_vjeeZk",
-      "available": 569,
+      "available": 586,
       "reserved": 21,
       "bookable": true
     },
@@ -2263,21 +2213,6 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/nomadenkino-berlin/shows/movies",
       "cinemaName": "nomadenkino-berlin",
       "cinemaShortName": "nomadenkino",
-      "id": "nomadenkino-2420583430",
-      "title": "KUSAMA: INFINITY ",
-      "date": "Mi., 11.8.",
-      "timestamp": 1628640000000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/nomadenkino-berlin/show/2420583430?layout=shows",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "1621",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/nomadenkino-berlin/shows/movies",
-      "cinemaName": "nomadenkino-berlin",
-      "cinemaShortName": "nomadenkino",
       "id": "nomadenkino-2416590511",
       "title": "DER RAUSCH ",
       "date": "Do., 12.8.",
@@ -2326,21 +2261,6 @@
     }
   ],
   "b-ware-openair-fmp": [
-    {
-      "cinemaId": "1657",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
-      "cinemaName": "b-ware-openair-fmp",
-      "cinemaShortName": "fmp",
-      "id": "fmp-2414227919",
-      "title": "nd.ImClub: DAS MÄDCHEN AUS DEM FAHRSTUHL ",
-      "date": "Mi., 11.8.",
-      "timestamp": 1628640000000,
-      "time": "20:00",
-      "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2414227919?layout=shows",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
     {
       "cinemaId": "1657",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
@@ -2525,24 +2445,6 @@
     }
   ],
   "central-kino-open-air": [
-    {
-      "cinemaId": "1839",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
-      "cinemaName": "central-kino-open-air",
-      "cinemaShortName": "central",
-      "id": "central-2395944446",
-      "title": "open air: Yuli (subtitled OV English)",
-      "date": "Mi., 11.8.",
-      "timestamp": 1628640000000,
-      "time": "20:45",
-      "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2395944446?layout=shows",
-      "img": "https://media.kinoheld.de/mIu1QYh0jTr0SFfvTQsJBC7p6ZA=/400x560/images%2Ffilm%2F2%2Fyuli-11879.v19.png",
-      "description": "Carlos ist ein undiszipliniertes Kind, das alles, was es über das Leben weiß, auf den Straßen Havannas gelernt hat. Doch sein Vater Pedro - selbst Sohn einer Mutter, die noch als Sklavin in den kubanischen Zuckerrohrplantagen ausgebeutet wurde - erkennt das außergewöhnliche Talent seines Sohnes, den er nach dem Sohn eines afrikanischen Kriegsgottes nur Yuli nennt: Er kann tanzen wie kein zweiter. Gegen dessen Willen schickt er ihn auf die staatliche Ballettschule und sorgt mit harter Hand dafür, dass Yuli seine Ausbildung beendet. Yuli wird bald zu einem der besten Tänzer seiner Generation, feiert internationale Erfolge und ist der erste dunkelhäutige Romeo am Royal Opera House in London. Doch trotz des Ruhms zehrt das Heimweh an ihm, die Sehnsucht nach Freunden und Familie. Als er nach einer schweren Verletzung mit dem Tanzen pausieren muss, geht er zurück nach Kuba. Nach all den Jahren der Entbehrung und Einsamkeit lebt Yuli hier erstmals seinen schier unstillbaren Hunger nach Leben aus - und setzt damit seine Karriere aufs Spiel. Er muss sich entscheiden ob seine eigene Liebe zum Tanz ausreicht um den Weg weiterzugehen, den sein Vater ihm vorherbestimmt hat. (Quelle: Verleih)",
-      "trailer": "https://www.youtube.com/watch?v=B_GOiK5CFlI",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
     {
       "cinemaId": "1839",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
@@ -2934,24 +2836,6 @@
     }
   ],
   "freiluftkino-pompeji-open-air-am-ostkreuz-berlin": [
-    {
-      "cinemaId": "2153",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-      "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-      "cinemaShortName": "pompeji ostkreuz",
-      "id": "pompeji ostkreuz-2408798889",
-      "title": "BAD LUCK BANGING OR LOONY PORN (subtitled OV English)",
-      "date": "Mi., 11.8.",
-      "timestamp": 1628640000000,
-      "time": "21:00",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2408798889?layout=shows",
-      "img": "https://media.kinoheld.de/jIOk7uV0ZG-rmxBLojvmZj_IIAQ=/400x560/images%2Ffilm%2Fbad-luck-banging-or-loony-porn-18954.v10.jpg",
-      "description": "Lustvoll, zügellos, explizit: Emi und ihr Mann haben großartigen und ausschweifenden Sex. Leider auch auf Video. Ihr sehr privater Pornofilm gerät irgendwie ins Internet und geht viral. Weil Emi eine Lehrerin an einer renommierten Schule ist, haben darüber sehr viele Leute eine Meinung. Wahrheitsgrad egal, Begründung überflüssig. Von moralisch empört über aggressiv anklagend bis vulgär beleidigend ist alles dabei. Emi muss antreten zu einem Elternabend der besonderen Art. Sie macht sich auf den Weg durch die groteske Alltagsbrutalität auf den Strassen von Bukarest. Über diesen Porno möchte seltsamerweise niemand einen Shitstorm verbreiten. In der Hoffnung auf eine Verbündete stattet Emi der Schuldirektorin einen Besuch ab – doch weit gefehlt. Man muss doch den Eltern die Gelegenheit zur Aussprache geben. Doch die „Debatte“ gerät zum Tribunal – über konsensualen Sex, Pornografie, die Nazis, Wahrheit, Bildungstheorie und vieles mehr. Emi verlebt einen wahrlich schrillen Abend zwischen archaischen Affekten und manischem Meinungsfuror. Die Lehrerin wird plötzlich nicht nur für ihr Sexleben verantwortlich gemacht, sondern auch für die rumänische Geschichte des 20. Jahrhunderts, die Psychologie der Kinder im Allgemeinen und für die Emanzipation sowieso natürlich auch. Die Moral der Elternschicht? Man ist sich einig, dass man in Kürze bald wieder anderer Meinung sein wird. Ein Goldener Bär für ein überwältigendes Meisterwerk: BAD LUCK BANGING OR LOONY PORN von Radu Jude ist glückliches Fragment, Enzyklopädie unserer Zeit und die gnadenlose Versuchsanordnung einer völlig zersplitterten Gemeinschaft, die nur noch in der Feindseligkeit zusammenfinden kann. Radu Jude treibt den Irrwitz auf die Spitze und lässt uns erahnen, zu welch bitterböser Farce unsere Zeit geworden ist, die man den Untergang der Demokratie nennen könnte. Eine filmische Erfahrung zwischen totaler Finsternis und grell erleuchteter Humorzone.",
-      "trailer": "https://youtu.be/8AEgcTSMSOY",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
     {
       "cinemaId": "2153",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
@@ -3843,8 +3727,8 @@
       "time": "21:00",
       "date": "Sa., 14.8.",
       "timestamp": 1628974800000,
-      "available": 347,
-      "reserved": 113,
+      "available": 345,
+      "reserved": 115,
       "bookable": true
     },
     {
@@ -3893,8 +3777,8 @@
       "time": "21:00",
       "date": "Di., 17.8.",
       "timestamp": 1629234000000,
-      "available": 93,
-      "reserved": 367,
+      "available": 95,
+      "reserved": 365,
       "bookable": true
     },
     {
@@ -3958,8 +3842,8 @@
       "time": "20:45",
       "date": "Sa., 21.8.",
       "timestamp": 1629578700000,
-      "available": 432,
-      "reserved": 28,
+      "available": 430,
+      "reserved": 30,
       "bookable": true
     },
     {
@@ -3975,8 +3859,23 @@
       "time": "20:45",
       "date": "So., 22.8.",
       "timestamp": 1629665100000,
-      "available": 437,
-      "reserved": 23,
+      "available": 436,
+      "reserved": 24,
+      "bookable": true
+    },
+    {
+      "cinemaId": "54eefd0b683138488b190000",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-302",
+      "title": "Blood Simple (Director's Cut) (OmU)",
+      "url": "https://yorck.de/checkout/step01?showid=302&siteid=1015",
+      "time": "20:45",
+      "date": "Mo., 23.8.",
+      "timestamp": 1629751500000,
+      "available": 434,
+      "reserved": 26,
       "bookable": true
     },
     {
@@ -3990,8 +3889,8 @@
       "time": "21:00",
       "date": "Sa., 14.8.",
       "timestamp": 1628974800000,
-      "available": 347,
-      "reserved": 113,
+      "available": 345,
+      "reserved": 115,
       "bookable": true
     },
     {
@@ -4020,8 +3919,8 @@
       "time": "21:00",
       "date": "Di., 17.8.",
       "timestamp": 1629234000000,
-      "available": 93,
-      "reserved": 367,
+      "available": 95,
+      "reserved": 365,
       "bookable": true
     },
     {
@@ -4038,8 +3937,23 @@
       "time": "20:45",
       "date": "Sa., 21.8.",
       "timestamp": 1629578700000,
-      "available": 432,
-      "reserved": 28,
+      "available": 430,
+      "reserved": 30,
+      "bookable": true
+    },
+    {
+      "cinemaId": "54eefd0b683138488b190000",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-302",
+      "title": "Blood Simple (Director's Cut) (OmU)",
+      "url": "https://yorck.de/checkout/step01?showid=302&siteid=1015",
+      "time": "20:45",
+      "date": "Mo., 23.8.",
+      "timestamp": 1629751500000,
+      "available": 434,
+      "reserved": 26,
       "bookable": true
     },
     {
@@ -4055,8 +3969,8 @@
       "time": "20:45",
       "date": "So., 22.8.",
       "timestamp": 1629665100000,
-      "available": 437,
-      "reserved": 23,
+      "available": 436,
+      "reserved": 24,
       "bookable": true
     },
     {
@@ -4177,8 +4091,8 @@
       "time": "21:00",
       "date": "Do., 12.8.",
       "timestamp": 1628802000000,
-      "available": 334,
-      "reserved": 165,
+      "available": 332,
+      "reserved": 167,
       "bookable": true
     },
     {
@@ -4195,8 +4109,8 @@
       "time": "21:00",
       "date": "Fr., 13.8.",
       "timestamp": 1628888400000,
-      "available": 435,
-      "reserved": 208,
+      "available": 427,
+      "reserved": 216,
       "bookable": true
     },
     {
@@ -4213,8 +4127,8 @@
       "time": "21:00",
       "date": "Sa., 14.8.",
       "timestamp": 1628974800000,
-      "available": 486,
-      "reserved": 157,
+      "available": 484,
+      "reserved": 159,
       "bookable": true
     },
     {
@@ -4248,8 +4162,8 @@
       "time": "21:00",
       "date": "Mo., 16.8.",
       "timestamp": 1629147600000,
-      "available": 433,
-      "reserved": 66,
+      "available": 432,
+      "reserved": 67,
       "bookable": true
     },
     {
@@ -4354,8 +4268,26 @@
       "time": "21:00",
       "date": "So., 22.8.",
       "timestamp": 1629666000000,
-      "available": 478,
-      "reserved": 21,
+      "available": 476,
+      "reserved": 23,
+      "bookable": true
+    },
+    {
+      "title": "Der Rosengarten von Madame Vernet (OmU)",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/6112822469f5b571d35eb255/show_2671720.jpg",
+      "description": "Eve führt eine traditionsreiche Gärtnerei im französischen Burgund. Lang ist es jedoch bereits her, dass sie mit der begehrten „Goldenen Rose“ ausgezeichnet wurde. Dies will sie ändern & erhält dafür ausgerechnet Hilfe von drei durch ein Resozialisierungsprogramm neu eingestellte Mitarbeiter*innen.",
+      "trailer": "https://www.youtube.com/watch?v=3cMtDOqkj7o",
+      "cinemaId": "60a3b5ed61444058ac0797a2",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-schloss-charlottenburg",
+      "cinemaName": "sommerkino-schloss-charlottenburg",
+      "cinemaShortName": "schloss-charlottenburg",
+      "id": "schloss-charlottenburg-87",
+      "url": "https://yorck.de/checkout/step01?showid=87&siteid=1020",
+      "time": "21:00",
+      "date": "Mo., 23.8.",
+      "timestamp": 1629752400000,
+      "available": 399,
+      "reserved": 100,
       "bookable": true
     },
     {
@@ -4461,8 +4393,8 @@
       "time": "21:00",
       "date": "Do., 12.8.",
       "timestamp": 1628802000000,
-      "available": 334,
-      "reserved": 165,
+      "available": 332,
+      "reserved": 167,
       "bookable": true
     },
     {
@@ -4479,8 +4411,8 @@
       "time": "21:00",
       "date": "Fr., 13.8.",
       "timestamp": 1628888400000,
-      "available": 435,
-      "reserved": 208,
+      "available": 427,
+      "reserved": 216,
       "bookable": true
     },
     {
@@ -4497,8 +4429,8 @@
       "time": "21:00",
       "date": "So., 22.8.",
       "timestamp": 1629666000000,
-      "available": 478,
-      "reserved": 21,
+      "available": 476,
+      "reserved": 23,
       "bookable": true
     },
     {
@@ -4514,8 +4446,26 @@
       "time": "21:00",
       "date": "Mo., 16.8.",
       "timestamp": 1629147600000,
-      "available": 433,
-      "reserved": 66,
+      "available": 432,
+      "reserved": 67,
+      "bookable": true
+    },
+    {
+      "title": "Der Rosengarten von Madame Vernet (OmU)",
+      "img": "https://s3-cache.yorck.cloud/system/uploads/movie/poster_image/6112822469f5b571d35eb255/show_2671720.jpg",
+      "description": "Eve führt eine traditionsreiche Gärtnerei im französischen Burgund. Lang ist es jedoch bereits her, dass sie mit der begehrten „Goldenen Rose“ ausgezeichnet wurde. Dies will sie ändern & erhält dafür ausgerechnet Hilfe von drei durch ein Resozialisierungsprogramm neu eingestellte Mitarbeiter*innen.",
+      "trailer": "https://www.youtube.com/watch?v=3cMtDOqkj7o",
+      "cinemaId": "60a3b5ed61444058ac0797a2",
+      "cinemaUrl": "https://yorck.de/kinos/sommerkino-schloss-charlottenburg",
+      "cinemaName": "sommerkino-schloss-charlottenburg",
+      "cinemaShortName": "schloss-charlottenburg",
+      "id": "schloss-charlottenburg-87",
+      "url": "https://yorck.de/checkout/step01?showid=87&siteid=1020",
+      "time": "21:00",
+      "date": "Mo., 23.8.",
+      "timestamp": 1629752400000,
+      "available": 399,
+      "reserved": 100,
       "bookable": true
     },
     {
@@ -4549,8 +4499,8 @@
       "time": "21:00",
       "date": "Sa., 14.8.",
       "timestamp": 1628974800000,
-      "available": 486,
-      "reserved": 157,
+      "available": 484,
+      "reserved": 159,
       "bookable": true
     }
   ]
