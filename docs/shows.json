@@ -31,8 +31,8 @@
     "date": "Do., 12.8.",
     "timestamp": 1628802000000,
     "time": "21:00",
-    "available": 265,
-    "reserved": 539,
+    "available": 255,
+    "reserved": 549,
     "bookable": true
   },
   "fhain-732": {
@@ -49,8 +49,8 @@
     "date": "Fr., 13.8.",
     "timestamp": 1628888400000,
     "time": "21:00",
-    "available": 182,
-    "reserved": 622,
+    "available": 161,
+    "reserved": 643,
     "bookable": true
   },
   "fhain-719": {
@@ -84,8 +84,8 @@
     "date": "So., 15.8.",
     "timestamp": 1629061200000,
     "time": "21:00",
-    "available": 652,
-    "reserved": 152,
+    "available": 649,
+    "reserved": 155,
     "bookable": true
   },
   "fhain-737": {
@@ -186,8 +186,8 @@
     "date": "Do., 19.8.",
     "timestamp": 1629406800000,
     "time": "21:00",
-    "available": 695,
-    "reserved": 109,
+    "available": 688,
+    "reserved": 116,
     "bookable": true
   },
   "fhain-741": {
@@ -204,8 +204,8 @@
     "date": "Sa., 21.8.",
     "timestamp": 1629577800000,
     "time": "20:30",
-    "available": 792,
-    "reserved": 12,
+    "available": 786,
+    "reserved": 18,
     "bookable": true
   },
   "fhain-670": {
@@ -255,8 +255,8 @@
     "date": "Fr., 20.8.",
     "timestamp": 1629491400000,
     "time": "20:30",
-    "available": 771,
-    "reserved": 33,
+    "available": 766,
+    "reserved": 38,
     "bookable": true
   },
   "fhain-742": {
@@ -273,8 +273,8 @@
     "date": "Mo., 23.8.",
     "timestamp": 1629750600000,
     "time": "20:30",
-    "available": 789,
-    "reserved": 15,
+    "available": 785,
+    "reserved": 19,
     "bookable": true
   },
   "fhain-750": {
@@ -430,8 +430,8 @@
     "date": "Mi., 18.8.",
     "timestamp": 1629321300000,
     "time": "21:15",
-    "available": 626,
-    "reserved": 73,
+    "available": 624,
+    "reserved": 75,
     "bookable": true
   },
   "xberg-666": {
@@ -447,8 +447,8 @@
     "date": "So., 15.8.",
     "timestamp": 1629061200000,
     "time": "21:00",
-    "available": 673,
-    "reserved": 20,
+    "available": 670,
+    "reserved": 23,
     "bookable": true
   },
   "xberg-664": {
@@ -465,8 +465,8 @@
     "date": "Fr., 13.8.",
     "timestamp": 1628889300000,
     "time": "21:15",
-    "available": 205,
-    "reserved": 488,
+    "available": 188,
+    "reserved": 505,
     "bookable": true
   },
   "xberg-667": {
@@ -483,8 +483,8 @@
     "date": "Mo., 16.8.",
     "timestamp": 1629148500000,
     "time": "21:15",
-    "available": 331,
-    "reserved": 362,
+    "available": 333,
+    "reserved": 360,
     "bookable": true
   },
   "xberg-663": {
@@ -802,8 +802,8 @@
     "date": "Sa., 14.8.",
     "timestamp": 1628973900000,
     "time": "20:45",
-    "available": 45,
-    "reserved": 528,
+    "available": 44,
+    "reserved": 529,
     "bookable": true
   },
   "rehberge-660": {
@@ -836,8 +836,8 @@
     "date": "So., 15.8.",
     "timestamp": 1629061200000,
     "time": "21:00",
-    "available": 226,
-    "reserved": 347,
+    "available": 221,
+    "reserved": 352,
     "bookable": true
   },
   "rehberge-661": {
@@ -854,8 +854,8 @@
     "date": "Fr., 13.8.",
     "timestamp": 1628888400000,
     "time": "21:00",
-    "available": 467,
-    "reserved": 106,
+    "available": 463,
+    "reserved": 110,
     "bookable": true
   },
   "rehberge-623": {
@@ -1255,9 +1255,9 @@
     "timestamp": 1628726400000,
     "time": "18:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/692894?layout=shows",
-    "available": -1,
+    "available": 0,
     "reserved": 0,
-    "bookable": true
+    "bookable": false
   },
   "hasenheide-693099": {
     "cinemaId": "580",
@@ -1374,8 +1374,8 @@
     "img": "https://media.kinoheld.de/3B5xyt_tZ59QCBxUwOBc9nVlLGA=/400x560/images%2Ffilm%2Fpromising-young-woman-19021.v1.jpg",
     "description": "Cassie ist eine vielversprechende junge Medizinstudentin, bis ein Schicksalsschlag sie eines Tages komplett aus der Bahn wirft. Sie bricht ihr Studium ab, sucht sich einen Job in einem Café und zieht wieder bei ihren Eltern ein. Doch sie führt ein geheimes Doppelleben: Nachts trifft sie in Bars auf Männer, die hinter Cassies betrunkener Fassade leichte Beute erhoffen.",
     "trailer": "https://www.youtube.com/watch?v=MBd1arxlo3g",
-    "available": 10,
-    "reserved": 192,
+    "available": 6,
+    "reserved": 196,
     "bookable": true
   },
   "hasenheide-692890": {
@@ -1476,7 +1476,7 @@
     "img": "https://media.kinoheld.de/bWGHM8Zwj3X-4mFQsCeNjErA1-k=/400x560/images%2Ffilm%2Fnebenan-19133.v14.jpg",
     "description": "Der Filmstar Daniel (Daniel Brühl) scheint das perfekte Leben zu führen: Er lebt in einer schicken Wohnung in Berlin-Prenzlauer Berg, hat eine schöne Ehefrau und eine Nanny, die sich um die Kinder kümmert. Als er gerade auf dem Weg nach London zu einem Casting für die Rolle in einem Superheldenfilm ist, legt der deutsch-spanische Schauspielstar noch einen schnellen Abstecher in seiner Stammkneipe ein. Es scheint für Daniel der perfekte Ort, um kurz vor dem Vorsprechen noch mal runterzukommen: Dort ist es ruhig, es warten keine Fans auf ihn und er kann in Ruhe seine Dialoge durchgehen. Allerdings hat er nicht mit Bruno (Peter Kurth) gerechnet. Der fremde Mann kennt nicht nur alle Filme des Schauspielers, sondern weiß auch ziemlich viele Details aus seinem Privatleben. Je länger das Gespräch dauert, desto mehr Angst bekommt Daniel vor dem fremden Mann. Was er nicht weiß: Bruno fühlt sich vom Leben abgehängt und ist auf Rache aus. Und Daniel ist das perfekte Opfer...",
     "trailer": "https://www.youtube.com/watch?v=ujRKKXXsofs",
-    "available": 508,
+    "available": 516,
     "reserved": 36,
     "bookable": true
   },
@@ -3387,8 +3387,8 @@
     "timestamp": 1629158400000,
     "time": "20:45",
     "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2415339858?layout=shows",
-    "available": 133,
-    "reserved": 23,
+    "available": 130,
+    "reserved": 26,
     "bookable": true
   },
   "mobile kino-2408676991": {
@@ -3691,8 +3691,8 @@
     "time": "21:00",
     "date": "Fr., 13.8.",
     "timestamp": 1628888400000,
-    "available": 390,
-    "reserved": 70,
+    "available": 388,
+    "reserved": 72,
     "bookable": true
   },
   "kulturforum-281": {
@@ -3706,8 +3706,8 @@
     "time": "21:00",
     "date": "Sa., 14.8.",
     "timestamp": 1628974800000,
-    "available": 304,
-    "reserved": 156,
+    "available": 301,
+    "reserved": 159,
     "bookable": true
   },
   "kulturforum-296": {
@@ -3803,8 +3803,8 @@
     "time": "20:45",
     "date": "Fr., 20.8.",
     "timestamp": 1629492300000,
-    "available": 431,
-    "reserved": 29,
+    "available": 429,
+    "reserved": 31,
     "bookable": true
   },
   "kulturforum-300": {
@@ -3821,8 +3821,8 @@
     "time": "20:45",
     "date": "Sa., 21.8.",
     "timestamp": 1629578700000,
-    "available": 424,
-    "reserved": 36,
+    "available": 422,
+    "reserved": 38,
     "bookable": true
   },
   "kulturforum-301": {
@@ -3871,8 +3871,8 @@
     "time": "21:00",
     "date": "Do., 12.8.",
     "timestamp": 1628802000000,
-    "available": 258,
-    "reserved": 241,
+    "available": 261,
+    "reserved": 238,
     "bookable": true
   },
   "schloss-charlottenburg-75": {
@@ -3889,8 +3889,8 @@
     "time": "21:00",
     "date": "Fr., 13.8.",
     "timestamp": 1628888400000,
-    "available": 333,
-    "reserved": 310,
+    "available": 326,
+    "reserved": 317,
     "bookable": true
   },
   "schloss-charlottenburg-76": {
@@ -3907,8 +3907,8 @@
     "time": "21:00",
     "date": "Sa., 14.8.",
     "timestamp": 1628974800000,
-    "available": 444,
-    "reserved": 199,
+    "available": 442,
+    "reserved": 201,
     "bookable": true
   },
   "schloss-charlottenburg-79": {
@@ -3925,8 +3925,8 @@
     "time": "21:00",
     "date": "So., 15.8.",
     "timestamp": 1629061200000,
-    "available": 356,
-    "reserved": 143,
+    "available": 355,
+    "reserved": 144,
     "bookable": true
   },
   "schloss-charlottenburg-80": {
@@ -3942,8 +3942,8 @@
     "time": "21:00",
     "date": "Mo., 16.8.",
     "timestamp": 1629147600000,
-    "available": 403,
-    "reserved": 96,
+    "available": 406,
+    "reserved": 93,
     "bookable": true
   },
   "schloss-charlottenburg-77": {
