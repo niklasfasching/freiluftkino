@@ -118,7 +118,7 @@
     "img": "https://media.kinoheld.de/2PV8Tc8-8pi9T1r5iwvJUQiAoRQ=/400x560/images%2Ffilm%2Fmo%2F1863-39371.v2.jpg",
     "description": "Grenzgebiet ist ein ruhiger und ehrlicher Film, der sich auf sympathische Art und Weise dem Standardrepertoire des Graffiti Genres widersetzt. Unbeeindruckt von den Erwartungshaltungen und Sehgewohnheiten der eigenen Subkultur entwickelt Grenzgebiet einen ganz eigenen Blick auf Graffiti und dessen Dokumentation. Schnell, laut und auf Action gebürstet, darum geht es in vielen Streifen, sicherlich zu Recht. Aber genau deswegen wirkt Grenzgebiet so erfrischend, weil er eben genau das nicht macht und nicht will. Leichtfüßig drückt er auf die Bremse, gönnt sich lange Einstellungen, schräge Dialoge, skurrile Sequenzen, viel Natur, schöne Landschaften und geile Züge. Vieles ist zu sehen, nur eben kein einziges Graffiti. Und auch das ist so erfrischend, weil er damit die vielen Zwischentöne freilegt, die sonst kaum wahrgenommen werden aber zu Graffiti gehören, wie Sprühlack, Züge, Reisen u.v.m. Eine wunderbare Perspektive. Eine Perspektive die gelingt, weil sich alle Protagonisten kennen, befreundet sind und vier Wochen zusammen in einem alten Passat stecken mit dem sie durch Osteuropa fahren. Gesucht und gefunden werden Züge, doch am Ende geht es um viel mehr, wie sich im Laufe der Reise heraustellen wird.",
     "available": 62,
-    "reserved": 21,
+    "reserved": 23,
     "bookable": true
   },
   "hasenheide-693098": {
@@ -168,8 +168,8 @@
     "img": "https://media.kinoheld.de/oiBE1aMdFNTyfoEyvdhTcd2-GoA=/400x560/images%2Ffilm%2Ffilm-star-preview-shane-mit-starbesuch-19019.v2.jpg",
     "description": "Shane MacGowan ist nicht nur legendärer Frontmann der Band The Pogues, sondern dazu auch noch Poet, Rebell und Punk durch und durch. Wie bei vielen überaus talentierten Menschen neigt auch der begnadete Songwriter zur Selbstzerstörung. Einst zog er aus Irland nach London und mischte die dort gerade aufkeimende Punkbewegung mit irischem Folk auf. Mit seiner Musik schaffte Shane es, seinen Landsleuten in der Hochzeit des Nordirland-Konflikts eine Stimme zu geben. Trotz seines Rowdytums und der harten Schale, schuf er mit „Fairytale Of New York“ eines der meistgehörten Weihnachtslieder der Briten des 21. Jahrhunderts. Der Filmemacher Julien Temple setzt dem Punksänger anhand Archivaufnahmen und bisher unveröffentlichten Bildmaterial ein Denkmal.",
     "trailer": "https://www.youtube.com/watch?v=gtUV3K_rTW8",
-    "available": 408,
-    "reserved": 64,
+    "available": 401,
+    "reserved": 69,
     "bookable": true
   },
   "hasenheide-693100": {
@@ -269,8 +269,8 @@
     "img": "https://media.kinoheld.de/3B5xyt_tZ59QCBxUwOBc9nVlLGA=/400x560/images%2Ffilm%2Fpromising-young-woman-19021.v1.jpg",
     "description": "Cassie ist eine vielversprechende junge Medizinstudentin, bis ein Schicksalsschlag sie eines Tages komplett aus der Bahn wirft. Sie bricht ihr Studium ab, sucht sich einen Job in einem Café und zieht wieder bei ihren Eltern ein. Doch sie führt ein geheimes Doppelleben: Nachts trifft sie in Bars auf Männer, die hinter Cassies betrunkener Fassade leichte Beute erhoffen.",
     "trailer": "https://www.youtube.com/watch?v=MBd1arxlo3g",
-    "available": 110,
-    "reserved": 155,
+    "available": 96,
+    "reserved": 159,
     "bookable": true
   },
   "hasenheide-692890": {
@@ -575,8 +575,8 @@
     "img": "https://media.kinoheld.de/GwZHiD65bCVb3mxAuT7jVcFqH9M=/400x560/images%2Ffilm%2Fnomadland-18288.v2.png",
     "description": "Nach dem wirtschaftlichen Zusammenbruch einer Stadt im ländlichen Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren weißen Van und macht sich auf den Weg, um als moderne Nomadin im Westen der USA ein Leben außerhalb der konventionellen Gesellschaft zu erkunden.",
     "trailer": "https://www.youtube.com/watch?v=5a-U7Wwi18c",
-    "available": 389,
-    "reserved": 77,
+    "available": 385,
+    "reserved": 78,
     "bookable": true
   },
   "hasenheide-693223": {
@@ -2196,21 +2196,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "mobile kino-2414227861": {
-    "cinemaId": "3033",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/mobile-kino-berlin/shows/movies",
-    "cinemaName": "mobile-kino-berlin",
-    "cinemaShortName": "mobile kino",
-    "id": "mobile kino-2414227861",
-    "title": "HERE WE MOVE, HERE WE GROOVE (subtitled OV English)",
-    "date": "Do., 12.8.",
-    "timestamp": 1628726400000,
-    "time": "20:45",
-    "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2414227861?layout=shows",
-    "available": 108,
-    "reserved": 0,
-    "bookable": true
-  },
   "mobile kino-2415332501": {
     "cinemaId": "3033",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/mobile-kino-berlin/shows/movies",
@@ -2584,9 +2569,9 @@
     "time": "21:00",
     "date": "Do., 12.8.",
     "timestamp": 1628802000000,
-    "available": 8,
-    "reserved": 452,
-    "bookable": true
+    "available": 0,
+    "reserved": 0,
+    "bookable": false
   },
   "kulturforum-295": {
     "title": "Flash Gordon (OmU)",
@@ -2601,8 +2586,8 @@
     "time": "21:00",
     "date": "Fr., 13.8.",
     "timestamp": 1628888400000,
-    "available": 392,
-    "reserved": 68,
+    "available": 390,
+    "reserved": 70,
     "bookable": true
   },
   "kulturforum-281": {
@@ -2616,8 +2601,8 @@
     "time": "21:00",
     "date": "Sa., 14.8.",
     "timestamp": 1628974800000,
-    "available": 332,
-    "reserved": 128,
+    "available": 330,
+    "reserved": 130,
     "bookable": true
   },
   "kulturforum-296": {
@@ -2666,8 +2651,8 @@
     "time": "21:00",
     "date": "Di., 17.8.",
     "timestamp": 1629234000000,
-    "available": 95,
-    "reserved": 365,
+    "available": 93,
+    "reserved": 367,
     "bookable": true
   },
   "kulturforum-298": {
@@ -2731,8 +2716,8 @@
     "time": "20:45",
     "date": "Sa., 21.8.",
     "timestamp": 1629578700000,
-    "available": 430,
-    "reserved": 30,
+    "available": 426,
+    "reserved": 34,
     "bookable": true
   },
   "kulturforum-301": {
@@ -2748,8 +2733,8 @@
     "time": "20:45",
     "date": "So., 22.8.",
     "timestamp": 1629665100000,
-    "available": 436,
-    "reserved": 24,
+    "available": 435,
+    "reserved": 25,
     "bookable": true
   },
   "kulturforum-302": {
@@ -2781,8 +2766,8 @@
     "time": "21:00",
     "date": "Do., 12.8.",
     "timestamp": 1628802000000,
-    "available": 322,
-    "reserved": 177,
+    "available": 307,
+    "reserved": 192,
     "bookable": true
   },
   "schloss-charlottenburg-75": {
@@ -2799,8 +2784,8 @@
     "time": "21:00",
     "date": "Fr., 13.8.",
     "timestamp": 1628888400000,
-    "available": 390,
-    "reserved": 253,
+    "available": 387,
+    "reserved": 256,
     "bookable": true
   },
   "schloss-charlottenburg-76": {
@@ -2817,8 +2802,8 @@
     "time": "21:00",
     "date": "Sa., 14.8.",
     "timestamp": 1628974800000,
-    "available": 474,
-    "reserved": 169,
+    "available": 471,
+    "reserved": 172,
     "bookable": true
   },
   "schloss-charlottenburg-79": {
@@ -2835,8 +2820,8 @@
     "time": "21:00",
     "date": "So., 15.8.",
     "timestamp": 1629061200000,
-    "available": 374,
-    "reserved": 125,
+    "available": 370,
+    "reserved": 129,
     "bookable": true
   },
   "schloss-charlottenburg-80": {
@@ -2852,8 +2837,8 @@
     "time": "21:00",
     "date": "Mo., 16.8.",
     "timestamp": 1629147600000,
-    "available": 428,
-    "reserved": 71,
+    "available": 426,
+    "reserved": 73,
     "bookable": true
   },
   "schloss-charlottenburg-77": {
@@ -2905,8 +2890,8 @@
     "time": "21:00",
     "date": "Do., 19.8.",
     "timestamp": 1629406800000,
-    "available": 465,
-    "reserved": 34,
+    "available": 463,
+    "reserved": 36,
     "bookable": true
   },
   "schloss-charlottenburg-82": {
