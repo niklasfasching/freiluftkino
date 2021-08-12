@@ -17,24 +17,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "fhain-731": {
-    "trailer": "https://www.youtube-nocookie.com/embed/Z9AYPxH5NTM?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
-    "description": "Sinnliches Gefühlskino, basierend auf dem feinsinnigen Drehbuch von Altmeister James Ivory (Maurice, Wiedersehen in Howards End, Zimmer mit Aussicht) Norditalien, 1983: Familie Perlman verbringt den Sommer in ihrer mondänen Villa. In einer Mischung aus erfreulicher Zielstrebigkeit, jungendlicher Selbstüberschätzung und überspielter Schüchternheit nähert sich der 17 Jahre alte Elio dem auf römische Kulturgeschichte spezialisierten Archäologie-Doktoranden Oliver, den der Vater für die Saison angestellt hat. ",
-    "cinemaId": "fh_freiluftkino",
-    "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
-    "cinemaName": "Freiluftkino Friedrichshain",
-    "cinemaShortName": "fhain",
-    "id": "fhain-731",
-    "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/731",
-    "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=716",
-    "title": "Call me by your Name",
-    "date": "Do., 12.8.",
-    "timestamp": 1628802000000,
-    "time": "21:00",
-    "available": 238,
-    "reserved": 566,
-    "bookable": true
-  },
   "fhain-732": {
     "trailer": "https://www.youtube-nocookie.com/embed/cq4qKvvR76E?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
     "description": "Ein weiterer Beweis, dass das Leben noch immer die außergewöhnlichsten Geschichten schreibt, ist die wahre Lebensgeschichte des britischen Elektroartikelhändler Greville Wynne, der in den 1960er Jahren, die Welt steht kurz vor einem Nuklearkrieg,  vom britischen Geheimdienst rekrutiert wird. Als Spion hat er zwar keinerlei Erfahrung, ein James-Bond-Typ ist er auch nicht. So einen suchen seine Auftraggeber aber auch gar nicht: Sie wollen einen unauffälligen Geschäftsreisenden nach Moskau schicken, der dort den sowjetischen Geheimdienstmitarbeiter und Überläufer Oleg Penkowski treffen soll. Die beiden Männer verstehen sich, die Gefährlichkeit ihrer Mission ist ihnen bewusst und schweißt sie umso mehr zusammen. Schon bald bezeichnen sie sich als Freunde, die für einander jederzeit einstehen würden. Doch lange bald bleibt diese Freundschaft nicht unentdeckt. \n",
@@ -49,8 +31,8 @@
     "date": "Fr., 13.8.",
     "timestamp": 1628888400000,
     "time": "21:00",
-    "available": 120,
-    "reserved": 684,
+    "available": 102,
+    "reserved": 702,
     "bookable": true
   },
   "fhain-719": {
@@ -66,8 +48,8 @@
     "date": "So., 15.8.",
     "timestamp": 1629043200000,
     "time": "16:00",
-    "available": 467,
-    "reserved": 337,
+    "available": 465,
+    "reserved": 339,
     "bookable": true
   },
   "fhain-734": {
@@ -84,8 +66,8 @@
     "date": "So., 15.8.",
     "timestamp": 1629061200000,
     "time": "21:00",
-    "available": 642,
-    "reserved": 162,
+    "available": 640,
+    "reserved": 164,
     "bookable": true
   },
   "fhain-737": {
@@ -151,8 +133,8 @@
     "date": "Sa., 14.8.",
     "timestamp": 1628960400000,
     "time": "17:00",
-    "available": 284,
-    "reserved": 539,
+    "available": 282,
+    "reserved": 541,
     "bookable": true
   },
   "fhain-743": {
@@ -186,8 +168,8 @@
     "date": "Do., 19.8.",
     "timestamp": 1629406800000,
     "time": "21:00",
-    "available": 685,
-    "reserved": 119,
+    "available": 683,
+    "reserved": 121,
     "bookable": true
   },
   "fhain-741": {
@@ -273,8 +255,8 @@
     "date": "Mo., 23.8.",
     "timestamp": 1629750600000,
     "time": "20:30",
-    "available": 785,
-    "reserved": 19,
+    "available": 781,
+    "reserved": 23,
     "bookable": true
   },
   "fhain-750": {
@@ -326,8 +308,8 @@
     "date": "Fr., 27.8.",
     "timestamp": 1630096200000,
     "time": "20:30",
-    "available": 758,
-    "reserved": 46,
+    "available": 756,
+    "reserved": 48,
     "bookable": true
   },
   "fhain-751": {
@@ -447,8 +429,8 @@
     "date": "So., 15.8.",
     "timestamp": 1629061200000,
     "time": "21:00",
-    "available": 673,
-    "reserved": 20,
+    "available": 668,
+    "reserved": 25,
     "bookable": true
   },
   "xberg-664": {
@@ -465,8 +447,8 @@
     "date": "Fr., 13.8.",
     "timestamp": 1628889300000,
     "time": "21:15",
-    "available": 176,
-    "reserved": 517,
+    "available": 172,
+    "reserved": 521,
     "bookable": true
   },
   "xberg-667": {
@@ -483,8 +465,8 @@
     "date": "Mo., 16.8.",
     "timestamp": 1629148500000,
     "time": "21:15",
-    "available": 329,
-    "reserved": 364,
+    "available": 328,
+    "reserved": 365,
     "bookable": true
   },
   "xberg-663": {
@@ -766,8 +748,8 @@
     "date": "Mo., 16.8.",
     "timestamp": 1629147600000,
     "time": "21:00",
-    "available": 494,
-    "reserved": 79,
+    "available": 492,
+    "reserved": 81,
     "bookable": true
   },
   "rehberge-668": {
@@ -806,22 +788,6 @@
     "reserved": 529,
     "bookable": true
   },
-  "rehberge-660": {
-    "cinemaId": "rb_freiluftkino",
-    "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
-    "cinemaName": "Freiluftkino Rehberge",
-    "cinemaShortName": "rehberge",
-    "id": "rehberge-660",
-    "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/660",
-    "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=640",
-    "title": "Nomadland engl.",
-    "date": "Do., 12.8.",
-    "timestamp": 1628802000000,
-    "time": "21:00",
-    "available": 14,
-    "reserved": 559,
-    "bookable": true
-  },
   "rehberge-662": {
     "trailer": "https://www.youtube-nocookie.com/embed/ppVtuI7G9D0?rel=0&autoplay=1&showsearch=0&showinfo=0&fs=1",
     "description": "\"Der Film ist wie die Entdeckungsreise eines neuen Landes, das man mehr als einmal besuchen möchte.\" New York Times\nNach dem wirtschaftlichen Zusammenbruch der Bergbaustadt Empire in Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren Van und begibt sich, ohne ein Ziel vor Augen, auf eine Reise, die sie als moderne Nomadin in eine Welt führt, die außerhalb des konventionellen Mainstreams existiert.\n\"Nomadland ist eine poetische Charakterstudie über die Vergessenen und Unterdrückten und fängt auf wunderbare Weise eine Lebenswelt ein, die durch die große Rezession von 2008 entstanden ist.\" Rotten Tomatoes\n\n\n",
@@ -836,8 +802,8 @@
     "date": "So., 15.8.",
     "timestamp": 1629061200000,
     "time": "21:00",
-    "available": 208,
-    "reserved": 365,
+    "available": 205,
+    "reserved": 368,
     "bookable": true
   },
   "rehberge-661": {
@@ -854,8 +820,8 @@
     "date": "Fr., 13.8.",
     "timestamp": 1628888400000,
     "time": "21:00",
-    "available": 457,
-    "reserved": 116,
+    "available": 455,
+    "reserved": 118,
     "bookable": true
   },
   "rehberge-623": {
@@ -1273,8 +1239,8 @@
     "img": "https://media.kinoheld.de/oiBE1aMdFNTyfoEyvdhTcd2-GoA=/400x560/images%2Ffilm%2Ffilm-star-preview-shane-mit-starbesuch-19019.v2.jpg",
     "description": "Shane MacGowan ist nicht nur legendärer Frontmann der Band The Pogues, sondern dazu auch noch Poet, Rebell und Punk durch und durch. Wie bei vielen überaus talentierten Menschen neigt auch der begnadete Songwriter zur Selbstzerstörung. Einst zog er aus Irland nach London und mischte die dort gerade aufkeimende Punkbewegung mit irischem Folk auf. Mit seiner Musik schaffte Shane es, seinen Landsleuten in der Hochzeit des Nordirland-Konflikts eine Stimme zu geben. Trotz seines Rowdytums und der harten Schale, schuf er mit „Fairytale Of New York“ eines der meistgehörten Weihnachtslieder der Briten des 21. Jahrhunderts. Der Filmemacher Julien Temple setzt dem Punksänger anhand Archivaufnahmen und bisher unveröffentlichten Bildmaterial ein Denkmal.",
     "trailer": "https://www.youtube.com/watch?v=gtUV3K_rTW8",
-    "available": 304,
-    "reserved": 100,
+    "available": 245,
+    "reserved": 116,
     "bookable": true
   },
   "hasenheide-693100": {
@@ -1374,8 +1340,8 @@
     "img": "https://media.kinoheld.de/3B5xyt_tZ59QCBxUwOBc9nVlLGA=/400x560/images%2Ffilm%2Fpromising-young-woman-19021.v1.jpg",
     "description": "Cassie ist eine vielversprechende junge Medizinstudentin, bis ein Schicksalsschlag sie eines Tages komplett aus der Bahn wirft. Sie bricht ihr Studium ab, sucht sich einen Job in einem Café und zieht wieder bei ihren Eltern ein. Doch sie führt ein geheimes Doppelleben: Nachts trifft sie in Bars auf Männer, die hinter Cassies betrunkener Fassade leichte Beute erhoffen.",
     "trailer": "https://www.youtube.com/watch?v=MBd1arxlo3g",
-    "available": 4,
-    "reserved": 200,
+    "available": 2,
+    "reserved": 202,
     "bookable": true
   },
   "hasenheide-692890": {
@@ -2074,9 +2040,9 @@
     "img": "https://media.kinoheld.de/GwZHiD65bCVb3mxAuT7jVcFqH9M=/400x560/images%2Ffilm%2Fnomadland-18288.v2.png",
     "description": "Nach dem wirtschaftlichen Zusammenbruch einer Stadt im ländlichen Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren weißen Van und macht sich auf den Weg, um als moderne Nomadin im Westen der USA ein Leben außerhalb der konventionellen Gesellschaft zu erkunden.",
     "trailer": "https://www.youtube.com/watch?v=5a-U7Wwi18c",
-    "available": -1,
+    "available": 0,
     "reserved": 0,
-    "bookable": true
+    "bookable": false
   },
   "cassiopeia-2418093347": {
     "cinemaId": "581",
@@ -2228,9 +2194,9 @@
     "img": "https://media.kinoheld.de/zAa01K_Wc_Ukkdd7ewI4AB9r1Q8=/400x560/images%2Ffilm%2Fder-rausch-18282.v16.jpg",
     "description": "Früher war Martin Lehrer aus Leidenschaft – heute sind nicht nur die Schüler von seinem fehlenden Enthusiasmus gelangweilt, auch in Martins Ehe ist die Luft raus. Seinen drei Freunden, die am selben Gymnasium unterrichten, geht es nicht viel besser. Bei einer angeheiterten Geburtstagsrunde diskutieren sie die Theorie eines norwegischen Philosophen: Nach dieser ist ein Mensch nur mit einem erhöhten Alkoholgehalt im Blut zu Bestleistungen fähig. Solch eine gewagte These muss überprüft werden. Die vier beschließen den Selbsttest zu machen und während der Arbeit einen bestimmten Pegel zu halten. Soll nicht sogar Churchill den Zweiten Weltkrieg in einem Alkoholrausch gewonnen haben? Mit neuem Antrieb stürzen sie sich in ihre geheime wissenschaftliche Studie. Die Wirkung lässt nicht lange auf sich warten …",
     "trailer": "https://www.youtube.com/watch?v=b2z6M24yq2Y",
-    "available": -1,
+    "available": 0,
     "reserved": 0,
-    "bookable": true
+    "bookable": false
   },
   "nomadenkino-2417869650": {
     "cinemaId": "1621",
@@ -2276,9 +2242,9 @@
     "timestamp": 1628726400000,
     "time": "20:00",
     "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2414238573?layout=shows",
-    "available": -1,
+    "available": 0,
     "reserved": 0,
-    "bookable": true
+    "bookable": false
   },
   "fmp-2414238605": {
     "cinemaId": "1657",
@@ -2850,9 +2816,9 @@
     "img": "https://media.kinoheld.de/vfiiKKU6kMMLvtL0RxFLP0etVzg=/400x560/images%2Ffilm%2Fmo%2F2413-39055.v2.jpg",
     "description": "Shane MacGowan. Rebell, Punk, Poet. Frontmann der legendären Band The Pogues. Begnadeter Songwriter und exorbitanter Selbstzerstörer. Der durchgeknallte Unruhestifter mit irischen Wurzeln, der nach London zog, um in den Underground-Clubs und Pubs die dort gerade entstehende Punkbewegung mit irischem Folk aufzumischen. Aus der Nische des Punk heraus schaffte es Shane, seinen Landsleuten in der aufgeheizten Stimmung des Nordirland-Konflikts eine weithin hörbare Stimme zu geben, mit einer Wucht und Hemmungslosigkeit, die sie bis dahin nie hatten. Und wie nebenbei schuf er mit „Fairytale Of New York“ im Stil einer irischen Folk-Ballade eines der meistgehörten Weihnachtslieder der Briten im 21. Jahrhundert. Nun hat der gefeierte Dokumentarfilmer und Wegbegleiter des Punk, Julien Temple, Shane ein Denkmal gesetzt: ein Feuerwerk aus intimen Aufnahmen der britischen Punk-Kultur aus Temples eigenen Archiven und bisher unveröffentlichtem Material. Temple beschwört in seinem Film Aufstieg und Niedergang eines rotzigen Genies, das sich selbst mit seinen Exzessen aus der eigenen Band katapultierte und bis in den Rollstuhl brachte, um schließlich seinen 60sten Geburtstag mit neuen Zähnen, altem Humor und Größen wie Nick Cave und Johnny Depp als rauschendes Fest auf der Bühne zu feiern.",
     "trailer": "https://youtu.be/gtUV3K_rTW8",
-    "available": -1,
+    "available": 0,
     "reserved": 0,
-    "bookable": true
+    "bookable": false
   },
   "pompeji ostkreuz-2411501915": {
     "cinemaId": "2153",
@@ -3342,8 +3308,8 @@
     "timestamp": 1628812800000,
     "time": "20:45",
     "url": "https://www.kinoheld.de/cinema-berlin/mobile-kino-berlin/show/2415386307?layout=shows",
-    "available": 124,
-    "reserved": 21,
+    "available": 120,
+    "reserved": 25,
     "bookable": true
   },
   "mobile kino-2415332672": {
@@ -3518,8 +3484,8 @@
     "img": "https://media.kinoheld.de/zAa01K_Wc_Ukkdd7ewI4AB9r1Q8=/400x560/images%2Ffilm%2Fder-rausch-18282.v16.jpg",
     "description": "Früher war Martin Lehrer aus Leidenschaft – heute sind nicht nur die Schüler von seinem fehlenden Enthusiasmus gelangweilt, auch in Martins Ehe ist die Luft raus. Seinen drei Freunden, die am selben Gymnasium unterrichten, geht es nicht viel besser. Bei einer angeheiterten Geburtstagsrunde diskutieren sie die Theorie eines norwegischen Philosophen: Nach dieser ist ein Mensch nur mit einem erhöhten Alkoholgehalt im Blut zu Bestleistungen fähig. Solch eine gewagte These muss überprüft werden. Die vier beschließen den Selbsttest zu machen und während der Arbeit einen bestimmten Pegel zu halten. Soll nicht sogar Churchill den Zweiten Weltkrieg in einem Alkoholrausch gewonnen haben? Mit neuem Antrieb stürzen sie sich in ihre geheime wissenschaftliche Studie. Die Wirkung lässt nicht lange auf sich warten …",
     "trailer": "https://www.youtube.com/watch?v=b2z6M24yq2Y",
-    "available": 101,
-    "reserved": 7,
+    "available": 99,
+    "reserved": 9,
     "bookable": true
   },
   "mobile kino-2407998749": {
@@ -3691,8 +3657,8 @@
     "time": "21:00",
     "date": "Fr., 13.8.",
     "timestamp": 1628888400000,
-    "available": 388,
-    "reserved": 72,
+    "available": 386,
+    "reserved": 74,
     "bookable": true
   },
   "kulturforum-281": {
@@ -3724,8 +3690,8 @@
     "time": "21:00",
     "date": "So., 15.8.",
     "timestamp": 1629061200000,
-    "available": 395,
-    "reserved": 65,
+    "available": 393,
+    "reserved": 67,
     "bookable": true
   },
   "kulturforum-269": {
@@ -3741,8 +3707,8 @@
     "time": "21:00",
     "date": "Mo., 16.8.",
     "timestamp": 1629147600000,
-    "available": 326,
-    "reserved": 134,
+    "available": 324,
+    "reserved": 136,
     "bookable": true
   },
   "kulturforum-282": {
@@ -3821,8 +3787,8 @@
     "time": "20:45",
     "date": "Sa., 21.8.",
     "timestamp": 1629578700000,
-    "available": 418,
-    "reserved": 42,
+    "available": 420,
+    "reserved": 40,
     "bookable": true
   },
   "kulturforum-301": {
@@ -3853,8 +3819,8 @@
     "time": "20:45",
     "date": "Mo., 23.8.",
     "timestamp": 1629751500000,
-    "available": 434,
-    "reserved": 26,
+    "available": 432,
+    "reserved": 28,
     "bookable": true
   },
   "schloss-charlottenburg-74": {
@@ -3871,8 +3837,8 @@
     "time": "21:00",
     "date": "Do., 12.8.",
     "timestamp": 1628802000000,
-    "available": 245,
-    "reserved": 254,
+    "available": 238,
+    "reserved": 261,
     "bookable": true
   },
   "schloss-charlottenburg-75": {
@@ -3889,8 +3855,8 @@
     "time": "21:00",
     "date": "Fr., 13.8.",
     "timestamp": 1628888400000,
-    "available": 323,
-    "reserved": 320,
+    "available": 325,
+    "reserved": 318,
     "bookable": true
   },
   "schloss-charlottenburg-76": {
@@ -3907,8 +3873,8 @@
     "time": "21:00",
     "date": "Sa., 14.8.",
     "timestamp": 1628974800000,
-    "available": 430,
-    "reserved": 213,
+    "available": 431,
+    "reserved": 212,
     "bookable": true
   },
   "schloss-charlottenburg-79": {
@@ -3925,8 +3891,8 @@
     "time": "21:00",
     "date": "So., 15.8.",
     "timestamp": 1629061200000,
-    "available": 342,
-    "reserved": 157,
+    "available": 335,
+    "reserved": 164,
     "bookable": true
   },
   "schloss-charlottenburg-80": {
@@ -3942,8 +3908,8 @@
     "time": "21:00",
     "date": "Mo., 16.8.",
     "timestamp": 1629147600000,
-    "available": 406,
-    "reserved": 93,
+    "available": 404,
+    "reserved": 95,
     "bookable": true
   },
   "schloss-charlottenburg-77": {
@@ -3995,8 +3961,8 @@
     "time": "21:00",
     "date": "Do., 19.8.",
     "timestamp": 1629406800000,
-    "available": 457,
-    "reserved": 42,
+    "available": 459,
+    "reserved": 40,
     "bookable": true
   },
   "schloss-charlottenburg-82": {
@@ -4013,8 +3979,8 @@
     "time": "21:00",
     "date": "Fr., 20.8.",
     "timestamp": 1629493200000,
-    "available": 593,
-    "reserved": 50,
+    "available": 584,
+    "reserved": 59,
     "bookable": true
   },
   "schloss-charlottenburg-83": {
