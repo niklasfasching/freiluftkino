@@ -22,30 +22,25 @@ const cinemas = {
 };
 
 (async () => {
-  try {
-    const showsByCinema = {};
-    for (let [id, [name, shortName, url]] of Object.entries(cinemas.kinoTicketsOnline)) {
-      console.log(name);
-      showsByCinema[name] = await getKinoTicketsOnlineCinema(id, name, shortName, url);
-    }
-    for (let [id, [name, shortName]] of Object.entries(cinemas.kinoHeld)) {
-      console.log(name);
-      showsByCinema[name] = await getKinoheldCinema(id, name, shortName);
-    }
-    for (let [id, [name, shortName]] of Object.entries(cinemas.yorck)) {
-      console.log(name);
-      showsByCinema[name] = await getYorckCinema(id, name, shortName);
-    }
-    await fetch("/create?path=docs/showsByCinema.json", {method: "POST", body: JSON.stringify(showsByCinema, null, 2)});
-    console.info("wrote docs/showsByCinema.json");
-    const shows = Object.values(showsByCinema).flat().reduce((xs, x) => Object.assign(xs, {[x.id]: x}), {});
-    await fetch("/create?path=docs/shows.json", {method: "POST", body: JSON.stringify(shows, null, 2)});
-    console.info("wrote docs/shows.json");
-    if (!window.args.includes("dev")) console.clear(0);
-  } catch(err) {
-    console.error(err);
-    if (!window.args.includes("dev")) console.clear(1);
+  const showsByCinema = {};
+  for (let [id, [name, shortName, url]] of Object.entries(cinemas.kinoTicketsOnline)) {
+    console.log(name);
+    showsByCinema[name] = await getKinoTicketsOnlineCinema(id, name, shortName, url);
   }
+  for (let [id, [name, shortName]] of Object.entries(cinemas.kinoHeld)) {
+    console.log(name);
+    showsByCinema[name] = await getKinoheldCinema(id, name, shortName);
+  }
+  for (let [id, [name, shortName]] of Object.entries(cinemas.yorck)) {
+    console.log(name);
+    showsByCinema[name] = await getYorckCinema(id, name, shortName);
+  }
+  await writeFile("docs/showsByCinema.json", JSON.stringify(showsByCinema, null, 2));
+  console.log("wrote docs/showsByCinema.json");
+  const shows = Object.values(showsByCinema).flat().reduce((xs, x) => Object.assign(xs, {[x.id]: x}), {});
+  await writeFile("docs/shows.json", JSON.stringify(shows, null, 2));
+  console.log("wrote docs/shows.json");
+  window.close(0);
 })();
 
 async function getKinoheldCinema(cinemaId, cinemaName, cinemaShortName) {
