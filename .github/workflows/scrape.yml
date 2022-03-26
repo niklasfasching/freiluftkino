@@ -24,7 +24,7 @@ jobs:
         git log -1 --format="%H"
     - name: run
       run: |
-        ~/go/bin/headless -b "--disable-web-security" -fs scrape.mjs
+        ~/go/bin/headless -b "--disable-web-security" -fs -c "$(cat scrape.mjs)"
         python3 post_process.py
         git add -A && git commit -m "Update data" || echo "No changes to commit"
         git push
