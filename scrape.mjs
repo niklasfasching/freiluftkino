@@ -31,10 +31,10 @@ const cinemas = {
     console.log(name);
     showsByCinema[name] = await getKinoheldCinema(id, name, shortName);
   }
-  for (let [id, [name, shortName]] of Object.entries(cinemas.yorck)) {
-    console.log(name);
-    showsByCinema[name] = await getYorckCinema(id, name, shortName);
-  }
+  // for (let [id, [name, shortName]] of Object.entries(cinemas.yorck)) {
+  //   console.log(name);
+  //   showsByCinema[name] = await getYorckCinema(id, name, shortName);
+  // }
   await writeFile("docs/showsByCinema.json", JSON.stringify(showsByCinema, null, 2));
   console.log("wrote docs/showsByCinema.json");
   const shows = Object.values(showsByCinema).flat().reduce((xs, x) => Object.assign(xs, {[x.id]: x}), {});
@@ -84,7 +84,8 @@ async function getKinoheldCinema(cinemaId, cinemaName, cinemaShortName) {
   }));
 }
 
-
+// TODO: yorck seems to have changed their setup - the below 404s even for cinemas that are
+// currently active. This url works though: https://www.yorck.de/_next/data/azhPNziceUkr-3ZSLp23q/en/films.json
 async function getYorckCinema(cinemaId, cinemaName, cinemaShortName) {
   const result = await fetch(`https://yorck.de/shows/foobar/movies.js?cinemaid=${cinemaId}`).then(r => r.text());
   const div = document.createElement("div");
