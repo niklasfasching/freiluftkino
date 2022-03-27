@@ -28,11 +28,6 @@ jobs:
         python3 post_process.py
         git add -A && git commit -m "Update data" || echo "No changes to commit"
         git push
-    - name: notify subscribers
-      uses: niklasfasching/github-action-telegram-subscriptions@v2
-      with:
-        token: ${{ secrets.TELEGRAM_TOKEN }}
-        module: ./notify.mjs
     - name: notify
       if: ${{ failure() }}
       run: |
