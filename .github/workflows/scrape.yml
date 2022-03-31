@@ -13,7 +13,6 @@ jobs:
     - name: dependencies
       run: |
         sudo snap install go --classic
-        go get github.com/niklasfasching/headless/
         go install github.com/niklasfasching/headless/cmd/headless@latest
         pip3 install GitPython
     - name: git
