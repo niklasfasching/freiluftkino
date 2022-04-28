@@ -13,8 +13,7 @@ jobs:
     - name: dependencies
       run: |
         sudo snap install go --classic
-        go install github.com/niklasfasching/headless/cmd/headless@latest
-        pip3 install GitPython
+        make install
     - name: git
       run: |
         git clone "https://x-access-token:${{secrets.GITHUB_TOKEN}}@github.com/${GITHUB_REPOSITORY}" .
@@ -23,8 +22,7 @@ jobs:
         git log -1 --format="%H"
     - name: run
       run: |
-        ~/go/bin/headless -b "--disable-web-security" -fs -c "$(cat scrape.mjs)"
-        python3 post_process.py
+        make run
         git add -A && git commit -m "Update data" || echo "No changes to commit"
         git push
     - name: notify
