@@ -140,7 +140,7 @@ async function getKinoTicketsOnlineCinema(cinemaId, cinemaName, cinemaShortName,
   const cinemaUrl = `https://kinotickets-online.com/${cinemaId}`;
   const d = await getDocument(cinemaUrl);
   return Promise.all([...d.querySelectorAll("main > div > ul > li")].map(async (li) => {
-    const id = li.querySelector("a").href.match(/\/(\d+$)/)[1];
+    const id = li.querySelector(`a[href*="/booking/"]`).href.match(/\/(\d+$)/)[1];
     const url = `https://kinotickets-online.com/${cinemaId}/sale/seats/${id}`;
     const movieId = li.querySelector("img").src.match(/movieId=(\d+)/)[1];
     const [_, day, month, time] = li.querySelector("ul li").innerText.match(/(\d+)\.(\d+)\s*(\d+:\d+)/m);
