@@ -10,10 +10,6 @@ jobs:
     env:
       HEADLESS_EXECUTABLE: google-chrome
     steps:
-    - name: dependencies
-      run: |
-        sudo snap install go --classic
-        make install
     - name: git
       run: |
         git clone "https://x-access-token:${{secrets.GITHUB_TOKEN}}@github.com/${GITHUB_REPOSITORY}" .
@@ -22,7 +18,7 @@ jobs:
         git log -1 --format="%H"
     - name: run
       run: |
-        make run
+        make install run
         git add -A && git commit -m "Update data" || echo "No changes to commit"
         git push
     - name: notify
