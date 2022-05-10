@@ -1097,7 +1097,62 @@
       "bookable": true
     }
   ],
-  "freiluftkino-hasenheide": [],
+  "freiluftkino-hasenheide": [
+    {
+      "cinemaId": "580",
+      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
+      "cinemaName": "freiluftkino-hasenheide",
+      "cinemaShortName": "hasenheide",
+      "id": "hasenheide-714981",
+      "title": "Clara und der magische Drache ",
+      "date": "Mi., 25.5.",
+      "timestamp": 1653436800000,
+      "time": "16:30",
+      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/714981?layout=shows",
+      "img": "https://media.kinoheld.de/BPAivlWtzGBguefClACfqJ_fUgg=/400x560/images%2Ffilm%2Fclara-und-der-magische-drache-17548.v64.jpg",
+      "description": "Ein lustiger Waschbär und der grummelige Zwerg Alfred werden durch Zufall quasi Eltern eines neugeborenen Drachenbabys. So ein magischer Drache hat die Fähigkeit, die Welt heller und bunter werden zu lassen und wird nur einmal in tausend Jahren geboren. Deshalb haben es vor allem dunkle Mächte auf ihn abgesehen, die seine magischen Kräfte zerstören wollen. Als er entführt werden soll, geht das Vorhaben schief und er landet schließlich bei seinen neuen, gutartigen, Eltern. Sogleich wollen sich der Waschbär und der Zwerg auf die Suche nach der eigentlichen Heimat des Babydrachens machen und wenden sich hilfesuchend an Clara. Clara ist ein junges Mädchen, das eigentlich nicht weiß, wer oder was sie eigentlich ist, da sie die Erinnerung an ihre Vergangenheit verloren hat. In einer Sache ist sie sich jedoch ziemlich sicher: Sie glaubt fest daran, einmal eine Fee gewesen zu sein. Gemeinsam begibt sich die Gruppe auf eine abenteuerliche Reise. Können sie das Drachenbaby nach Hause bringen und herausfinden, wer Clara wirklich ist?",
+      "trailer": "https://www.youtube.com/watch?v=NICPi_c8xAo",
+      "available": 0,
+      "reserved": 0,
+      "bookable": false
+    },
+    {
+      "cinemaId": "580",
+      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
+      "cinemaName": "freiluftkino-hasenheide",
+      "cinemaShortName": "hasenheide",
+      "id": "hasenheide-714984",
+      "title": "Nomadland (subtitled OV)",
+      "date": "Mi., 25.5.",
+      "timestamp": 1653436800000,
+      "time": "18:30",
+      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/714984?layout=shows",
+      "img": "https://media.kinoheld.de/GwZHiD65bCVb3mxAuT7jVcFqH9M=/400x560/images%2Ffilm%2Fnomadland-18288.v2.png",
+      "description": "Fern (einfühlsam verkörpert von Frances McDormand) nimmt uns an der Hand auf ihrer Reise durch die USA, ins NOMADLAND. Gezwungen, in ihrem Transporter zu leben, hält sie sich mit saisonalen Gelegenheitsjobs über Wasser. Mal zusammen mit Gleichgesinnten, die wie sie in einer von Rezession gebeutelten Welt keinen Platz mehr finden. Dann wieder ist sie alleine unterwegs in den schier unendlichen Weiten Nordamerikas. Begleitet von der Schönheit der Landschaft. Dicht gefolgt aber auch von der Einsamkeit. Und all jenen Problemen, die ein Leben auf der Straße – nicht ohne Obdach zwar, doch ohne Haus – mit sich bringt. (Tobias Greslehner)<br><br>Die US-amerikanische Produktion feierte am 11. September 2020 in gleichzeitigen Vorführungen bei den Internationalen Filmfestspielen von Venedig und dem Toronto International Film Festival ihre Premiere. In Venedig gewann Nomadland mit dem Goldenen Löwen den Hauptpreis des Festivals, in Toronto den People’s Choice Award, ebenfalls die höchste Auszeichnung. Bei der Oscarverleihung 2021 gewann der Film in den drei Kategorien bester Film, beste Regie und beste Hauptdarstellerin für Frances McDormand, zudem erhielt er Oscar-Nominierungen für das beste adaptierte Drehbuch, die beste Kamera und den besten Schnitt. Darüber hinaus gewann der Film über 200 weitere internationale Film- und Festivalpreise.",
+      "trailer": "https://www.youtube.com/watch?v=ppVtuI7G9D0",
+      "available": -1,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "580",
+      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
+      "cinemaName": "freiluftkino-hasenheide",
+      "cinemaShortName": "hasenheide",
+      "id": "hasenheide-714985",
+      "title": "Licorice Pizza (subtitled OV)",
+      "date": "Mi., 25.5.",
+      "timestamp": 1653436800000,
+      "time": "21:45",
+      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/714985?layout=shows",
+      "img": "https://media.kinoheld.de/VMHbBObSnBxwLDcO0L7NXS4PGqg=/400x560/images%2Ffilm%2Flicorice-pizza-21773.v373.jpg",
+      "description": "Im kalifornischen San Fernando Valley entwickelt sich 1973 zwischen Mittzwanzigerin Alana und Teenager Gary eine ungewöhnliche Freundschaft. Doch inmitten des alltäglichen Trubels aus Gelegenheitsjobs und Schauspielkarriere, Freunden und Politik, Vinyl und Super 8 entstehen mit der Zeit auch intensivere Gefühle ...",
+      "trailer": "https://www.youtube.com/watch?v=hEc9sRd19ac",
+      "available": -1,
+      "reserved": 0,
+      "bookable": true
+    }
+  ],
   "freiluftkino-insel-im-cassiopeia": [],
   "nomadenkino-berlin": [
     {
