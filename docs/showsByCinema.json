@@ -2065,7 +2065,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/715497?layout=shows",
       "img": "https://media.kinoheld.de/EyJZNjEiyKjL-mDlUfXjcXbxaGA=/400x560/images%2Ffilm%2Flieber-thomas-19725.v8.jpg",
       "description": "Thomas Brasch (Albrecht Schuch) ist als deutsch-jüdischer Emigrant in England geboren, um Anfang der 1950er Jahre zusammen mit seiner Familie in die junge DDR überzusiedeln. Seinem Vater Horst (Jörg Schüttauf) ist es vor allem daran gelegen, den neuen deutschen Staat mitaufzubauen. Doch Thomas will sich lieber als Schriftsteller verwirklichen und entdeckt dabei sein Potenzial als poetischer Rebell. Schon sein allererstes Stück wird verboten und bald darauf verliert er auch seinen Platz an der Filmhochschule. Als 1968 die Panzer der Sowjetunion durch die tschechische Hauptstadt Prag rollen, versuchen Brasch und seine Freundin Sanda (Ioana Jacob) mit anderen Studenten in den Straßen Berlins zum Protest aufzurufen – und scheitern. Sein eigener Vater verrät ihn an die Stasi und lässt es damit zu, dass Thomas ins Gefängnis wandert. Nachdem er auf Bewährung entlassen wird, versucht er sich weiter als Poet und schreibt über die Liebe, die Revolte und den Tod. In der DDR allerdings möchte man mit einem wie ihn nichts zu tun haben. Ohne Aussicht, auf Gehör zu stoßen, verlässt Thomas mit Katarina (Jella Haase), der Frau, die er liebt, die DDR, um im Westen den Ruhm zu ernten, der ihm gebührt. Doch auch hier ist er weit davon entfernt, zur Ruhe zu kommen.",
-      "trailer": "https://www.youtube.com/watch?v=LUbkrqIB4mE",
+      "trailer": "https://youtu.be/MKJ-nXADsVk",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -2183,7 +2183,62 @@
     }
   ],
   "b-ware-openair-fmp": [],
-  "central-kino-open-air": [],
+  "central-kino-open-air": [
+    {
+      "cinemaId": "1839",
+      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
+      "cinemaName": "central-kino-open-air",
+      "cinemaShortName": "central",
+      "id": "central-2582632194",
+      "title": "open air: Porträt einer jungen Frau in Flammen - Portrait de la jeune fille en feu (subtitled OV English)",
+      "date": "So., 22.5.",
+      "timestamp": 1653177600000,
+      "time": "21:15",
+      "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2582632194?layout=shows",
+      "img": "https://media.kinoheld.de/DjXNUmH-Vg-O6UoXMGqxdGhenA0=/400x560/images%2Ffilm%2Fportraet-einer-jungen-frau-in-flammen-14653.v128.jpg",
+      "description": "Ein ungewöhnlicher Auftrag führt die Pariser Malerin Marianne (Noémie Marchant) im Jahr 1770 auf eine einsame Insel an der Küste der Bretagne: Sie soll heimlich ein Gemälde von Héloïse (Adèle Haenel) anfertigen, die gerade eine Klosterschule für junge adelige Frauen verlassen hat und bald verheiratet werden soll. Denn Héloïse weigert sich, Modell zu sitzen, um gegen die von ihrer Mutter (Valeria Golino) arrangierte Ehe zu protestieren. So beobachtet Marianne Héloïse während ihrer Spaziergänge an die Küste und malt abends aus dem Gedächtnis heraus ihr Porträt. Langsam wächst zwischen den eindringlichen Blicken eine unwiderstehliche Anziehungskraft... (Quelle: Verleih)",
+      "trailer": "https://www.youtube.com/watch?v=u3DrDtl2VBU",
+      "available": 70,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "1839",
+      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
+      "cinemaName": "central-kino-open-air",
+      "cinemaShortName": "central",
+      "id": "central-2582632220",
+      "title": "open air: Der Himmel über Berlin - Wings of Desire (subtitled OV English)",
+      "date": "Mo., 23.5.",
+      "timestamp": 1653264000000,
+      "time": "21:15",
+      "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2582632220?layout=shows",
+      "img": "https://media.kinoheld.de/FsNKn9KVQQJ1JOoT5CdMA2H0bfI=/400x560/images%2Ffilm%2F4%2Fder-himmel-ueber-berlin-9307.v21.jpg",
+      "description": "Damiel ist ein Engel. Und gemeinsam mit seinem himmlischen Kollegen Cassiel wandert er durch das geteilte Berlin und wacht über die Menschen. Doch als Engel bleibt Damiel der menschlichen Welt verborgen. Er kann sie nur beobachten und ihren Gedanken lauschen, mitfühlen und miterleben kann er ihre Empfindungen nicht. Als er sich eines Tages in die zauberhafte Trapezkünstlerin Marion verliebt, beschließt er, selbst ein Mensch zu werden. Doch dafür muss er ein großes Opfer bringen: seine Unsterblichkeit. (j.b.)",
+      "trailer": "https://www.youtube.com/watch?v=_Zih4o6NLCc",
+      "available": 70,
+      "reserved": 0,
+      "bookable": true
+    },
+    {
+      "cinemaId": "1839",
+      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
+      "cinemaName": "central-kino-open-air",
+      "cinemaShortName": "central",
+      "id": "central-2582632246",
+      "title": "open air: Call Me by Your Name (subtitled OV)",
+      "date": "Di., 24.5.",
+      "timestamp": 1653350400000,
+      "time": "21:15",
+      "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2582632246?layout=shows",
+      "img": "https://media.kinoheld.de/k11C0JarD5UITKM-jlXRzEOgTAE=/400x560/images%2Ffilm%2F3%2Fcall-me-by-your-name-8826.v4.jpg",
+      "description": "Mit seinem neuen Film CALL ME BY YOUR NAME bringt Luca Guadagnino eine sinnlich-transzendentale Geschichte über die erste Liebe auf die große Leinwand, basierend auf André Acimans gefeiertem Roman. Der altkluge 17-Jährige Elio Perlman (Timothée Chalamet) genießt den norditalienischen Sommer des Jahres 1983 auf der im 17. Jahrhundert errichteten Villa der Familie. Seine Zeit verbringt der italoamerikanische Junge damit, klassische Musik zu spielen und zu transkribieren, zu lesen und mit seiner Freundin Marzia (Esther Garrel) zu flirten. Mit seinen Eltern ist Elio eng verbunden. Sein Vater (Michael Stuhlbarg), ein angesehener Professor, hat sich auf die griechisch-römische Kultur spezialisiert. Elios Mutter Annella (Amira Casar) arbeitet als Übersetzerin. Gemeinsam bringen sie ihrem Sohn die Errungenschaften der Hochkultur nahe und bereiten ihm ein sorgenfreies Leben mit allen Vorzügen. Dank seiner Weltklugheit und seiner intellektuellen Begabungen wirkt der Junge nach außen bereits wie ein Erwachsener, doch dem Anschein entgegen ist Elio in mancherlei Hinsicht durchaus noch sehr unerfahren - besonders in Herzensangelegenheiten. Eines Tages trifft der charmante amerikanische Doktorand Oliver (Armie Hammer) als neuer Sommer-Praktikant von Elios Vater auf der Villa ein. Inmitten jener prächtigen, sonnengetränkten Szenerie entdecken Elio und Oliver die berauschende Schönheit aufblühenden Verlangens im Verlauf eines Sommers, der ihre Leben für immer verändern wird. (Quelle: Verleih)",
+      "trailer": "https://www.youtube.com/watch?v=sBVbtKqn61w",
+      "available": 70,
+      "reserved": 0,
+      "bookable": true
+    }
+  ],
   "freiluftkino-pompeji-open-air-am-ostkreuz-berlin": [
     {
       "cinemaId": "2153",
