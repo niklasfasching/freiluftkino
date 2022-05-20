@@ -66,23 +66,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "fhain-773": {
-    "cinemaId": "fh_freiluftkino",
-    "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
-    "cinemaName": "Freiluftkino Friedrichshain",
-    "cinemaShortName": "fhain",
-    "id": "fhain-773",
-    "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/773",
-    "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=759",
-    "trailer": "https://www.youtube.com/watch?v=mBeyq0a959k",
-    "title": "King Richard",
-    "date": "Do., 19.5.",
-    "timestamp": 1652994900000,
-    "time": "21:15",
-    "available": 0,
-    "reserved": 0,
-    "bookable": true
-  },
   "fhain-777": {
     "cinemaId": "fh_freiluftkino",
     "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
@@ -580,13 +563,13 @@
     "reserved": 0,
     "bookable": true
   },
-  "fhain-771": {
+  "fhain-767": {
     "cinemaId": "fh_freiluftkino",
     "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
     "cinemaName": "Freiluftkino Friedrichshain",
     "cinemaShortName": "fhain",
-    "id": "fhain-771",
-    "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/771",
+    "id": "fhain-767",
+    "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/767",
     "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=756",
     "title": "Literatur LIVE: Wolf Haas liest aus seinem neuen Brenner-Krimi \"Müll\"",
     "date": "Sa., 27.8.",
@@ -607,23 +590,6 @@
     "title": "Die Unbeugsamen",
     "date": "So., 22.5.",
     "timestamp": 1653255000000,
-    "time": "21:30",
-    "available": 0,
-    "reserved": 0,
-    "bookable": true
-  },
-  "xberg-704": {
-    "cinemaId": "kb_freiluftkino",
-    "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
-    "cinemaName": "Freiluftkino Kreuzberg",
-    "cinemaShortName": "xberg",
-    "id": "xberg-704",
-    "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/704",
-    "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=690",
-    "trailer": "https://www.youtube.com/watch?v=l35Ix-dIkAU",
-    "title": "Lamb",
-    "date": "Do., 19.5.",
-    "timestamp": 1652995800000,
     "time": "21:30",
     "available": 0,
     "reserved": 0,
@@ -1991,7 +1957,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/715497?layout=shows",
     "img": "https://media.kinoheld.de/EyJZNjEiyKjL-mDlUfXjcXbxaGA=/400x560/images%2Ffilm%2Flieber-thomas-19725.v8.jpg",
     "description": "Thomas Brasch (Albrecht Schuch) ist als deutsch-jüdischer Emigrant in England geboren, um Anfang der 1950er Jahre zusammen mit seiner Familie in die junge DDR überzusiedeln. Seinem Vater Horst (Jörg Schüttauf) ist es vor allem daran gelegen, den neuen deutschen Staat mitaufzubauen. Doch Thomas will sich lieber als Schriftsteller verwirklichen und entdeckt dabei sein Potenzial als poetischer Rebell. Schon sein allererstes Stück wird verboten und bald darauf verliert er auch seinen Platz an der Filmhochschule. Als 1968 die Panzer der Sowjetunion durch die tschechische Hauptstadt Prag rollen, versuchen Brasch und seine Freundin Sanda (Ioana Jacob) mit anderen Studenten in den Straßen Berlins zum Protest aufzurufen – und scheitern. Sein eigener Vater verrät ihn an die Stasi und lässt es damit zu, dass Thomas ins Gefängnis wandert. Nachdem er auf Bewährung entlassen wird, versucht er sich weiter als Poet und schreibt über die Liebe, die Revolte und den Tod. In der DDR allerdings möchte man mit einem wie ihn nichts zu tun haben. Ohne Aussicht, auf Gehör zu stoßen, verlässt Thomas mit Katarina (Jella Haase), der Frau, die er liebt, die DDR, um im Westen den Ruhm zu ernten, der ihm gebührt. Doch auch hier ist er weit davon entfernt, zur Ruhe zu kommen.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://www.youtube.com/watch?v=LUbkrqIB4mE",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2371,7 +2337,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716026?layout=shows",
     "img": "https://media.kinoheld.de/84CWyGVkuSng1LeqjrXpHL0oau0=/400x560/images%2Ffilm%2Fdeath-of-a-ladies-man-19082.v9.jpg",
     "description": "Das Leben eines vergnügungssüchtigen College-Professors nimmt eine Reihe unvorstellbarer Wendungen, und alle alten Geschichten erhalten eine neue Wendung, als er beginnt, surreale Halluzinationen zu haben und erfährt, dass er vielleicht nicht mehr lange auf dieser Welt ist.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://www.youtube.com/watch?v=r-iLG2lMmAk",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2425,7 +2391,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716029?layout=shows",
     "img": "https://media.kinoheld.de/MbP4VrCdQ29hjA5ArcFqK6110eY=/400x560/images%2Ffilm%2Flast-night-in-soho-20347.v17.jpg",
     "description": "Die junge Eloise (Thomasin McKenzie) stammt vom Land und ist gerade nach London gezogen, wo sie ihre große Leidenschaft für Modedesign ausleben will. Ausgefallene Stoffe, klassische Schnitte oder mutige Muster: Für die Modedesignstudentin ist Kleidung pure Lust, denn sie hat sich schon immer ihre eigenen Klamotten angefertigt. Während aber ihre Mitstudierenden ausgelassen Party machen, träumt sich die von ihrer neuen Umgebung überforderte Eloise ins London der 1960er-Jahre. In der Gestalt der jungen Sandy (Anya Taylor-Joy) zieht sie durchs Londoner Café de Paris und andere Clubs, die ihr das Gefühl von Sicherheit geben. Sie führt ein Parallelleben, in dem sie eines Tages den verführerischen Manager Jack (Matt Smith) trifft und ist fasziniert von seiner geheimnisvollen Aura. Doch die beschwingten, romantisierten Sechziger sind tatsächlich längst nicht so schön und frei, wie es zuerst den Anschein hat.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://www.youtube.com/watch?v=n4dDg5rOXzw",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2461,7 +2427,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716081?layout=shows",
     "img": "https://media.kinoheld.de/tN4DZJfrBGvBMOFcYv6PQoXlcqA=/400x560/images%2Ffilm%2Fniemand-ist-bei-den-kaelbern-20962.v2.png",
     "description": "Hochsommer in der Mecklenburgischen Provinz. Fu¨nf Häuser, eine Bushaltestelle, Ku¨he und ringsum nichts als Felder. Christin, 24, (Saskia Rosendahl) lebt auf dem Bauernhof ihres langjährigen Freundes Jan, 25 (Rick Okon). Die Aufbruchsstimmung der Nachwendejahre, die ihre Kindheit prägten, ist längst dahin und auch in ihrer Beziehung gibt es schon lange keine Liebe mehr. Ihr Vater säuft. Den Kirsch hat auch Christin immer griffbereit unterm Autositz. Unter der flirrenden Hitze des Sommers scheint die Zeit stillzustehen. Da taucht Windkraftingenieur Klaus, 46, (Godehard Giese) aus Hamburg auf, und die Welt beginnt sich wieder zu drehen.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://www.youtube.com/watch?v=Ab5py2jAcIE",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2515,7 +2481,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716084?layout=shows",
     "img": "https://media.kinoheld.de/mOmJMNvikpxf3k1jahFLcrPQJdc=/400x560/images%2Ffilm%2Fkimi-21332.v21.jpg",
     "description": "Nachdem eine agoraphobische technische Angestellte bei der Überprüfung eines gewöhnlichen Datenstroms aufgezeichnete Beweise für ein Gewaltverbrechen entdeckt hat, versucht sie, die Befehlskette in ihrem Unternehmen zu durchbrechen. Sie stößt auf Widerstand und Bürokratie und erkennt, dass sie das tun muss, wovor sie sich am meisten fürchtet - sie muss ihre Wohnung verlassen, um sich einzumischen.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://www.youtube.com/watch?v=CW-UikJsEI8",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2533,7 +2499,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716085?layout=shows",
     "img": "https://media.kinoheld.de/BafDJ8qfI9P7XyJnmWxzbBvbJwc=/400x560/images%2Ffilm%2Fred-rocket-21835.v4.jpg",
     "description": "Finding himself down and out in Los Angeles, ex porn star Mikey Saber decides to crawl back to his hometown of Texas City, Texas, where his estranged wife and mother-in-law are living. Just as this dysfunctional family seems to be making things work, Mikey meets a young woman named Strawberry working the cash register at a local doughnut shop.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://www.youtube.com/watch?v=nwY3p-6JTQ4",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2823,6 +2789,21 @@
     "reserved": 0,
     "bookable": true
   },
+  "hasenheide-716212": {
+    "cinemaId": "580",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
+    "cinemaName": "freiluftkino-hasenheide",
+    "cinemaShortName": "hasenheide",
+    "id": "hasenheide-716212",
+    "title": "Wie wir wollen ",
+    "date": "Do., 16.6.",
+    "timestamp": 1655337600000,
+    "time": "18:30",
+    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716212?layout=shows",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
   "hasenheide-716146": {
     "cinemaId": "580",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
@@ -2834,9 +2815,9 @@
     "timestamp": 1655337600000,
     "time": "21:45",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716146?layout=shows",
-    "img": "https://media.kinoheld.de/8SvNhTinN8fYjCmcwx_uXnliiyM=/400x560/images%2Ffilm%2F4%2Fephraim-und-das-lamm-2145.v2.jpg",
-    "description": "Als sein Vater in die Stadt geht, um Arbeit zu finden, lässt er seinen Sohn bei Verwandten, die im Hochland Äthiopiens leben. Alleingelassen in der fremden Umgebung, ist der neunjährige Junge froh, dass er sein Lamm Chuni, das für ihn Haustier und Freund zugleich ist, bei sich hat. Doch dann will sein Onkel Chuni schlachten lassen und Ephraim schmiedet verzweifelt einen Plan, damit er sein Lamm noch retten kann. Fast alle seine Bemühungen sind indes zum Scheitern verurteilt... (v.f.)",
-    "trailer": "https://www.youtube.com/watch?v=DpVKGRiP7ew",
+    "img": "https://media.kinoheld.de/tAYkSmcz319sqYkeHPDMmQqFFC8=/400x560/images%2Ffilm%2Flamb-20290.v1.jpg",
+    "description": "Maria (Noomi Rapace) und Ingvar (Hilmir Snær Guðnason) arbeiten als Schafzüchter und hegen schon lange den Wunsch, endlich auch Nachwuchs in den eigenen vier Wänden zu haben. Dieser Wunsch wird ihnen zur Weihnachtszeit auf denkbar ungewöhnlichste Weise erfüllt, denn sie entdecken ein mysteriöses Neugeborenes auf ihrem Bauernhof in Island. Das Kind ist zur Hälfte Schaf und zur Hälfte Mensch. Obwohl die Situation erst einmal einige Irritationen hervorruft, ist die Freude schließlich groß, mit ihrem kleinen Menschen-Lamm endlich eine eigene, kleine Familie gründen zu können. Nach und nach aber spült die Aufzucht der Kreatur immer mehr Probleme an die Oberfläche und scheint Maria und Ingvar langsam zu zerstören.",
+    "trailer": "https://www.youtube.com/watch?v=ruBcCq3YNMs",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -3112,7 +3093,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716162?layout=shows",
     "img": "https://media.kinoheld.de/mOmJMNvikpxf3k1jahFLcrPQJdc=/400x560/images%2Ffilm%2Fkimi-21332.v21.jpg",
     "description": "Nachdem eine agoraphobische technische Angestellte bei der Überprüfung eines gewöhnlichen Datenstroms aufgezeichnete Beweise für ein Gewaltverbrechen entdeckt hat, versucht sie, die Befehlskette in ihrem Unternehmen zu durchbrechen. Sie stößt auf Widerstand und Bürokratie und erkennt, dass sie das tun muss, wovor sie sich am meisten fürchtet - sie muss ihre Wohnung verlassen, um sich einzumischen.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://www.youtube.com/watch?v=CW-UikJsEI8",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -3166,25 +3147,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716165?layout=shows",
     "img": "https://media.kinoheld.de/OtcvT14tFvOPm0PN2x8h2L8V4Nw=/400x560/images%2Ffilm%2Ftitane-19684.v16.jpg",
     "description": "Als kleines Mädchen erhält Alexia nach einem Autounfall eine Titanplatte in den Schädel transplantiert. Die Narben über dem rechten Ohr lassen sich zwar durch ihr nachwachsendes Haar kaschieren, doch schon bald entwickelt sie eine körperliche Zuneigung zu Fahrzeugen. Bereits als sie aus dem Krankenhaus entlassen wird, würdigt sie ihre Eltern keines Blickes. Stattdessen läuft sie auf den Unfallwagen zu, umarmt und liebkost diesen. Jahrzehnte später im Erwachsenenalter arbeitet Alexia als erotische Tänzerin bei einer Auto-Show und sie tötet Menschen, die ihr im Wege sind oder ihr zu nahe kommen ...",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
-  "nomadenkino-2577828142": {
-    "cinemaId": "1621",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/nomadenkino-berlin/shows/movies",
-    "cinemaName": "nomadenkino-berlin",
-    "cinemaShortName": "nomadenkino",
-    "id": "nomadenkino-2577828142",
-    "title": "PARALLELE MÜTTER ",
-    "date": "Do., 19.5.",
-    "timestamp": 1652918400000,
-    "time": "20:30",
-    "url": "https://www.kinoheld.de/cinema-berlin/nomadenkino-berlin/show/2577828142?layout=shows",
-    "img": "https://media.kinoheld.de/A-xxGuNoBz_e4hRWW-Mtb9P86LE=/400x560/images%2Ffilm%2Fparallele-muetter-20270.v2.png",
-    "description": "Janis (Penélope Cruz) und Ana (Milena Smit) treffen in einem Krankenhauszimmer aufeinander, wo sie bald entbinden werden. Beide sind alleinstehend und wurden zufällig schwanger. Janis, im mittleren Alter, bereut es nicht und ist überglücklich. Ana hingegen ist verängstigt, reumütig und traumatisiert. Janis versucht, sie zu ermutigen, während sie wie Schlafwandler durch die Krankenhausflure wandern. Die wenigen Worte, die sie in diesen Stunden austauschen, schaffen eine sehr enge Verbindung zwischen den beiden, die sich zufällig entwickelt und verkompliziert und ihr Leben auf entscheidende Weise verändert.",
-    "trailer": "https://www.youtube.com/watch?v=DpXQB5tp2yo",
+    "trailer": "https://www.youtube.com/watch?v=nKXXUe0YCWw",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -3221,8 +3184,8 @@
     "img": "https://media.kinoheld.de/FsNKn9KVQQJ1JOoT5CdMA2H0bfI=/400x560/images%2Ffilm%2F4%2Fder-himmel-ueber-berlin-9307.v21.jpg",
     "description": "Damiel ist ein Engel. Und gemeinsam mit seinem himmlischen Kollegen Cassiel wandert er durch das geteilte Berlin und wacht über die Menschen. Doch als Engel bleibt Damiel der menschlichen Welt verborgen. Er kann sie nur beobachten und ihren Gedanken lauschen, mitfühlen und miterleben kann er ihre Empfindungen nicht. Als er sich eines Tages in die zauberhafte Trapezkünstlerin Marion verliebt, beschließt er, selbst ein Mensch zu werden. Doch dafür muss er ein großes Opfer bringen: seine Unsterblichkeit. (j.b.)",
     "trailer": "https://www.youtube.com/watch?v=_Zih4o6NLCc",
-    "available": 65,
-    "reserved": 5,
+    "available": 64,
+    "reserved": 6,
     "bookable": true
   },
   "central-2582632246": {
@@ -3239,8 +3202,8 @@
     "img": "https://media.kinoheld.de/k11C0JarD5UITKM-jlXRzEOgTAE=/400x560/images%2Ffilm%2F3%2Fcall-me-by-your-name-8826.v4.jpg",
     "description": "Mit seinem neuen Film CALL ME BY YOUR NAME bringt Luca Guadagnino eine sinnlich-transzendentale Geschichte über die erste Liebe auf die große Leinwand, basierend auf André Acimans gefeiertem Roman. Der altkluge 17-Jährige Elio Perlman (Timothée Chalamet) genießt den norditalienischen Sommer des Jahres 1983 auf der im 17. Jahrhundert errichteten Villa der Familie. Seine Zeit verbringt der italoamerikanische Junge damit, klassische Musik zu spielen und zu transkribieren, zu lesen und mit seiner Freundin Marzia (Esther Garrel) zu flirten. Mit seinen Eltern ist Elio eng verbunden. Sein Vater (Michael Stuhlbarg), ein angesehener Professor, hat sich auf die griechisch-römische Kultur spezialisiert. Elios Mutter Annella (Amira Casar) arbeitet als Übersetzerin. Gemeinsam bringen sie ihrem Sohn die Errungenschaften der Hochkultur nahe und bereiten ihm ein sorgenfreies Leben mit allen Vorzügen. Dank seiner Weltklugheit und seiner intellektuellen Begabungen wirkt der Junge nach außen bereits wie ein Erwachsener, doch dem Anschein entgegen ist Elio in mancherlei Hinsicht durchaus noch sehr unerfahren - besonders in Herzensangelegenheiten. Eines Tages trifft der charmante amerikanische Doktorand Oliver (Armie Hammer) als neuer Sommer-Praktikant von Elios Vater auf der Villa ein. Inmitten jener prächtigen, sonnengetränkten Szenerie entdecken Elio und Oliver die berauschende Schönheit aufblühenden Verlangens im Verlauf eines Sommers, der ihre Leben für immer verändern wird. (Quelle: Verleih)",
     "trailer": "https://www.youtube.com/watch?v=sBVbtKqn61w",
-    "available": 67,
-    "reserved": 3,
+    "available": 66,
+    "reserved": 4,
     "bookable": true
   },
   "central-2584355531": {
@@ -3258,24 +3221,6 @@
     "description": "Bradley Cooper spielt den Countrymusic-Star Jackson Maine, dessen Karriere auf einer Abwärtsspirale trudelt, als er eine begabte Unbekannte namens Ally (Lady Gaga) entdeckt. Die beiden beginnen eine leidenschaftliche Liebesbeziehung, und Jack drängt Ally ins Rampenlicht, wo sie über Nacht zum Star aufsteigt. Als Allys Karriere Jack bald in den Schatten stellt, fällt es ihm zunehmend schwerer, sich mit seinem verblassenden Ruhm abzufinden.",
     "trailer": "https://www.youtube.com/watch?v=i0lAq6UIzyA",
     "available": 86,
-    "reserved": 0,
-    "bookable": true
-  },
-  "pompeji ostkreuz-2573799740": {
-    "cinemaId": "2153",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-    "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-    "cinemaShortName": "pompeji ostkreuz",
-    "id": "pompeji ostkreuz-2573799740",
-    "title": "PLEASURE (subtitled OV German)",
-    "date": "Do., 19.5.",
-    "timestamp": 1652918400000,
-    "time": "21:15",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2573799740?layout=shows",
-    "img": "https://media.kinoheld.de/T08jJm8CekbNeR-6Mry-0idTSVM=/400x560/images%2Ffilm%2Fpleasure-20357.v2.png",
-    "description": "<b>Originalversion mit deutschen Untertiteln</b>. Die 19-jährige Linnéa verlässt ihre schwedische Kleinstadt und zieht nach Los Angeles, um als „Bella Cherry“ der nächste große Pornostar zu werden. Doch der Weg dahin ist steiniger als erwartet. Zwar erhält sie schnell erste Aufträge, aber das Business ist gnadenlos. Bella erkennt, dass sie nur eine Chance hat, wenn sie ausnahmslos alles tut, was von ihr verlangt wird – selbst wenn dies Erniedrigung und Schmerz bedeutet. Doch wie weit kann sie gehen, um ihr Ziel zu erreichen? Regisseurin Ninja Thyberg offenbart in PLEASURE einen schonungslosen Blick auf ein männerdominertes Business um Lust, Gewalt und Macht. Ihr authentisches Langfilmdebüt, das aus konsequent weiblicher Perspektive erzählt wird, besetzte sie mit Ausnahme der Hauptrolle mit echten Darstellern und Größen der Branche. Der mehrfach preisgekrönte Film gehörte zur offiziellen Auswahl der Filmfestspiele von Cannes 2020 und feierte seine umjubelte Premiere beim Sundance Filmfestival 2021.",
-    "trailer": "https://youtu.be/j2f1IiSdAQ8",
-    "available": -1,
     "reserved": 0,
     "bookable": true
   },
