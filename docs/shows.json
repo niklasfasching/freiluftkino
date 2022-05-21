@@ -82,23 +82,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "fhain-774": {
-    "cinemaId": "fh_freiluftkino",
-    "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
-    "cinemaName": "Freiluftkino Friedrichshain",
-    "cinemaShortName": "fhain",
-    "id": "fhain-774",
-    "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/774",
-    "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=760",
-    "trailer": "https://www.youtube.com/watch?v=TCuhswRzQxs",
-    "title": "Wunderschön",
-    "date": "Fr., 20.5.",
-    "timestamp": 1653081300000,
-    "time": "21:15",
-    "available": 0,
-    "reserved": 0,
-    "bookable": true
-  },
   "fhain-782": {
     "cinemaId": "fh_freiluftkino",
     "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
@@ -579,22 +562,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "xberg-705": {
-    "cinemaId": "kb_freiluftkino",
-    "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
-    "cinemaName": "Freiluftkino Kreuzberg",
-    "cinemaShortName": "xberg",
-    "id": "xberg-705",
-    "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/705",
-    "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=691",
-    "title": "Maixabel - Eine Geschichte von Liebe, Zorn und Hoffnung",
-    "date": "Fr., 20.5.",
-    "timestamp": 1653082200000,
-    "time": "21:30",
-    "available": 0,
-    "reserved": 0,
-    "bookable": true
-  },
   "xberg-710": {
     "cinemaId": "kb_freiluftkino",
     "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
@@ -993,19 +960,19 @@
     "reserved": 0,
     "bookable": true
   },
-  "rehberge-712": {
+  "rehberge-745": {
     "cinemaId": "rb_freiluftkino",
     "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
     "cinemaName": "Freiluftkino Rehberge",
     "cinemaShortName": "rehberge",
-    "id": "rehberge-712",
-    "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/712",
+    "id": "rehberge-745",
+    "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/745",
     "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=687",
     "trailer": "https://www.youtube.com/watch?v=0GnOo5-j4Ok",
     "title": "Come on Come on",
-    "date": "Fr., 20.5.",
-    "timestamp": 1653081300000,
-    "time": "21:15",
+    "date": "Di., 28.6.",
+    "timestamp": 1656452700000,
+    "time": "21:45",
     "available": 0,
     "reserved": 0,
     "bookable": true
@@ -1606,9 +1573,9 @@
     "img": "https://media.kinoheld.de/GwZHiD65bCVb3mxAuT7jVcFqH9M=/400x560/images%2Ffilm%2Fnomadland-18288.v2.png",
     "description": "Fern (einfühlsam verkörpert von Frances McDormand) nimmt uns an der Hand auf ihrer Reise durch die USA, ins NOMADLAND. Gezwungen, in ihrem Transporter zu leben, hält sie sich mit saisonalen Gelegenheitsjobs über Wasser. Mal zusammen mit Gleichgesinnten, die wie sie in einer von Rezession gebeutelten Welt keinen Platz mehr finden. Dann wieder ist sie alleine unterwegs in den schier unendlichen Weiten Nordamerikas. Begleitet von der Schönheit der Landschaft. Dicht gefolgt aber auch von der Einsamkeit. Und all jenen Problemen, die ein Leben auf der Straße – nicht ohne Obdach zwar, doch ohne Haus – mit sich bringt. (Tobias Greslehner)<br><br>Die US-amerikanische Produktion feierte am 11. September 2020 in gleichzeitigen Vorführungen bei den Internationalen Filmfestspielen von Venedig und dem Toronto International Film Festival ihre Premiere. In Venedig gewann Nomadland mit dem Goldenen Löwen den Hauptpreis des Festivals, in Toronto den People’s Choice Award, ebenfalls die höchste Auszeichnung. Bei der Oscarverleihung 2021 gewann der Film in den drei Kategorien bester Film, beste Regie und beste Hauptdarstellerin für Frances McDormand, zudem erhielt er Oscar-Nominierungen für das beste adaptierte Drehbuch, die beste Kamera und den besten Schnitt. Darüber hinaus gewann der Film über 200 weitere internationale Film- und Festivalpreise.",
     "trailer": "https://www.youtube.com/watch?v=ppVtuI7G9D0",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-714985": {
     "cinemaId": "580",
@@ -1624,9 +1591,9 @@
     "img": "https://media.kinoheld.de/FsrtHJ9QJLzMGSnHvo9aMNzkkwM=/400x560/images%2Ffilm%2Flicorice-pizza-21773.v374.jpg",
     "description": "Im kalifornischen San Fernando Valley entwickelt sich 1973 zwischen Mittzwanzigerin Alana und Teenager Gary eine ungewöhnliche Freundschaft. Doch inmitten des alltäglichen Trubels aus Gelegenheitsjobs und Schauspielkarriere, Freunden und Politik, Vinyl und Super 8 entstehen mit der Zeit auch intensivere Gefühle ...",
     "trailer": "https://www.youtube.com/watch?v=hEc9sRd19ac",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-715482": {
     "cinemaId": "580",
@@ -1642,9 +1609,9 @@
     "img": "https://media.kinoheld.de/LwwHRPTw10O9X73ESB5ZAiDZWYQ=/400x560/images%2Ffilm%2Fsing-2-20703.v163.png",
     "description": "Buster und seine neue Besetzung haben sich jetzt vorgenommen, eine neue Show im Crystal Tower Theater im glamourösen Redshore City zu debütieren. Aber ohne Verbindungen müssen er und seine Sänger sich in die Büros von Crystal Entertainment schleichen, die vom skrupellosen Wolfsmogul Jimmy Crystal betrieben werden, wo die Gang die lächerliche Idee entwickelt, die Löwenrock-Legende Clay Calloway in ihrer Show zu besetzen.",
     "trailer": "https://www.youtube.com/watch?v=F1J_MY0m6q4",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-715483": {
     "cinemaId": "580",
@@ -1660,9 +1627,9 @@
     "img": "https://media.kinoheld.de/p5d31ut1UpsKRKsz6FWUXtpWAM4=/400x560/images%2Ffilm%2Fder-rausch-18282.v192.jpg",
     "description": "Früher war Martin Lehrer aus Leidenschaft – heute sind nicht nur die Schüler von seinem fehlenden Enthusiasmus gelangweilt, auch in Martins Ehe ist die Luft raus. Seinen drei Freunden, die am selben Gymnasium unterrichten, geht es nicht viel besser. Bei einer angeheiterten Geburtstagsrunde diskutieren sie die Theorie eines norwegischen Philosophen: Nach dieser ist ein Mensch nur mit einem erhöhten Alkoholgehalt im Blut zu Bestleistungen fähig. Solch eine gewagte These muss überprüft werden. Die vier beschließen den Selbsttest zu machen und während der Arbeit einen bestimmten Pegel zu halten. Soll nicht sogar Churchill den Zweiten Weltkrieg in einem Alkoholrausch gewonnen haben? Mit neuem Antrieb stürzen sie sich in ihre geheime wissenschaftliche Studie. Die Wirkung lässt nicht lange auf sich warten…",
     "trailer": "https://www.youtube.com/watch?v=b2z6M24yq2Y",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-715484": {
     "cinemaId": "580",
@@ -1678,9 +1645,9 @@
     "img": "https://media.kinoheld.de/A-xxGuNoBz_e4hRWW-Mtb9P86LE=/400x560/images%2Ffilm%2Fparallele-muetter-20270.v2.png",
     "description": "Janis (Penélope Cruz) und Ana (Milena Smit) treffen in einem Krankenhauszimmer aufeinander, wo sie bald entbinden werden. Beide sind alleinstehend und wurden zufällig schwanger. Janis, im mittleren Alter, bereut es nicht und ist überglücklich. Ana hingegen ist verängstigt, reumütig und traumatisiert. Janis versucht, sie zu ermutigen, während sie wie Schlafwandler durch die Krankenhausflure wandern. Die wenigen Worte, die sie in diesen Stunden austauschen, schaffen eine sehr enge Verbindung zwischen den beiden, die sich zufällig entwickelt und verkompliziert und ihr Leben auf entscheidende Weise verändert.",
     "trailer": "https://www.youtube.com/watch?v=DpXQB5tp2yo",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-715485": {
     "cinemaId": "580",
@@ -1696,9 +1663,9 @@
     "img": "https://media.kinoheld.de/QIa9IC9nD7ePTSvb5QyqjfWQUP4=/400x560/images%2Ffilm%2Fyakari-der-kinofilm-17433.v210.jpg",
     "description": "Yakari hat einen Traum: Er möchte eines Tages auf Kleiner Donner reiten, dem Wildpferd, das noch von keinem Sioux gezähmt werden konnte.  Als die Jäger seines Stammes eine Herde Mustangs einfangen, kann Kleiner Donner mit einem mächtigen Sprung wieder entkommen. Yakari folgt dem jungen Pferd und befreit es, als es seinen Huf unter einem Felsen eingeklemmt hat. Für diese mutige Tat verleiht ihm Großer Adler, Yakaris Totemtier, die Gabe, mit Tieren zu sprechen.  Auf der Suche nach Kleiner Donner gerät Yakari in einen reißenden Fluss. Nun ist es Yakari, der die Hilfe von Kleiner Donner braucht: Gemeinsam machen sie sich auf den weiten und abenteuerlichen Rückweg durchs Gebirge.",
     "trailer": "https://www.youtube.com/watch?v=KnDFOyIhMsQ",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-715486": {
     "cinemaId": "580",
@@ -1714,9 +1681,9 @@
     "img": "https://media.kinoheld.de/aSpJiTabDRC16J_8ksz8jxeHRtA=/400x560/images%2Ffilm%2Fcome-on-come-on-21505.v2.png",
     "description": "Ein Radiojournalist auf Interviewreise muss sich um seinen kleinen Neffen kümmern und wächst an dieser Aufgabe. Das in ausdrucksstarke Schwarz-Weiß-Bilder getauchte, famos gespielte Roadmovie spürt auf kluge, meditative Weise den Befindlichkeiten von Kindern und Erwachsenen nach.",
     "trailer": "https://www.youtube.com/watch?v=evQCPabMru4",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-715487": {
     "cinemaId": "580",
@@ -1732,9 +1699,9 @@
     "img": "https://media.kinoheld.de/DA3dw5iZBCm0uRx-DJHui0Cxxqc=/400x560/images%2Ffilm%2Fla-dune-19907.v7.jpg",
     "description": "Die Neuverfilmung des gleichnamigen, populären Sci-Fi-Romans von Frank Herbert.  Aus der Vorlage erzählt Dune die komplexe Geschichte einer gefallenen Adelsfamilie und ihres Versuchs, die Kontrolle über den Wüstenplaneten Arrakis zu erlangen. Und über dessen kostbarste Exportware, das Spice, eine seltene bewusstseinserweiternde Droge. Doch sie wird von einem galaktischen Imperator betrogen, und Paul Atreides, der junge Sohn des Herrschers dieser Familie, muss sich ins Ödland flüchten und mit den dort heimischen Nomadenstämmen verbünden, um schließlich zurückzuschlagen.",
     "trailer": "https://www.youtube.com/watch?v=hNpXZRjMSWg&t=54s",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-715488": {
     "cinemaId": "580",
@@ -1750,9 +1717,9 @@
     "img": "https://media.kinoheld.de/Uuayb0xMsSRwcxjbuzQp4QAsTh4=/400x560/images%2Ffilm%2Ftraeume-sind-wie-wilde-tiger-21226.v10.jpg",
     "description": "Für den zwölfjährigen Ranji aus Mumbai ist Bollywood das Größte: Die bunten Filme der indischen Filmindustrie mit ihren ansteckenden Songs und Tanzchoreographien machen ihn glücklich",
     "trailer": "https://www.youtube.com/watch?v=-uqn5bw6pNg",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-715489": {
     "cinemaId": "580",
@@ -1768,9 +1735,9 @@
     "img": "https://media.kinoheld.de/FsrtHJ9QJLzMGSnHvo9aMNzkkwM=/400x560/images%2Ffilm%2Flicorice-pizza-21773.v374.jpg",
     "description": "Im kalifornischen San Fernando Valley entwickelt sich 1973 zwischen Mittzwanzigerin Alana und Teenager Gary eine ungewöhnliche Freundschaft. Doch inmitten des alltäglichen Trubels aus Gelegenheitsjobs und Schauspielkarriere, Freunden und Politik, Vinyl und Super 8 entstehen mit der Zeit auch intensivere Gefühle ...",
     "trailer": "https://www.youtube.com/watch?v=hEc9sRd19ac",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-715490": {
     "cinemaId": "580",
@@ -1786,9 +1753,9 @@
     "img": "https://media.kinoheld.de/WkuPS0OMZIpD6k5iBmlQAXWu938=/400x560/images%2Ffilm%2Fjames-bond-007-keine-zeit-zu-sterben-16123.v2.png",
     "description": "James Bond hat seine Lizenz zum Töten im Auftrag des britischen Geheimdienstes abgegeben und genießt seinen Ruhestand in Jamaika. Die friedliche Zeit nimmt ein unerwartetes Ende, als sein alter CIA-Kollege Felix Leiter auftaucht und ihn um Hilfe bittet. Ein bedeutender Wissenschaftler ist entführt worden und muss so schnell wie möglich gefunden werden. Was als simple Rettungsmission beginnt, erreicht bald einen bedrohlichen Wendepunkt, denn Bond kommt einem geheimnisvollen Gegenspieler auf die Spur, der im Besitz einer brandgefährlichen neuen Technologie ist.",
     "trailer": "https://www.youtube.com/watch?v=miJsoS1ITVo",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-715543": {
     "cinemaId": "580",
@@ -1801,9 +1768,9 @@
     "timestamp": 1653782400000,
     "time": "16:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/715543?layout=shows",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-715491": {
     "cinemaId": "580",
@@ -1819,9 +1786,9 @@
     "img": "https://media.kinoheld.de/J5-eZP2bpzxubC7xebweIzxETTc=/400x560/images%2Ffilm%2F4%2Fpersonal-shopper-4060.v3.jpg",
     "description": "Die Amerikanerin Maureen arbeitet in Paris als persönliche Einkäuferin für Stars und Sternchen. Doch eigentlich begreift sie sich als Medium, das mit Toten in Kontakt treten kann. Seit Wochen wartet sie auf ein Zeichen ihres verstorbenen Zwillingsbruders Lewis. Plötzlich bekommt sie geheimnisvolle SMS von einer unbekannten Nummer. Ist es ihr Bruder, der aus dem Jenseits Kontakt zu ihr aufnimmt? Oder nur der sehr lebendige Geliebte ihrer Chefin, der es auf sie abgesehen hat? (Quelle: Verleih)",
     "trailer": "https://www.youtube.com/watch?v=ox3DZODR0S8",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-715492": {
     "cinemaId": "580",
@@ -1837,9 +1804,9 @@
     "img": "https://media.kinoheld.de/nWryEDH-pjV4OIQ2ghHwZgbZpl8=/400x560/images%2Ffilm%2Fspencer-20897.v98.jpg",
     "description": "Dezember 1991: In der Ehe zwischen dem Prinzen und der Prinzessin von Wales herrscht seit Langem Eiszeit. Trotz der wilden Gerüchte über Affären und eine Scheidung wird für die Weihnachtsfeierlichkeiten auf dem königlichen Landsitz Sandringham ein Frieden verhängt. Es wird gegessen und getrunken, geschossen und gejagt. Diana kennt das Spiel. Dieses Jahr wird es eine ganz andere Wendung nehmen.",
     "trailer": "https://www.youtube.com/watch?v=rqAKuQRwnUk",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-715493": {
     "cinemaId": "580",
@@ -1852,9 +1819,9 @@
     "timestamp": 1653868800000,
     "time": "16:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/715493?layout=shows",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-715494": {
     "cinemaId": "580",
@@ -1870,9 +1837,9 @@
     "img": "https://media.kinoheld.de/fsfQyPR-adJVSv7EiiKlOLARz0w=/400x560/images%2Ffilm%2Fballade-von-der-weissen-kuh-21147.v6.jpg",
     "description": "Ihrer kleinen Tochter erzählt Mina, dass der Papa weit weg wäre. In Wirklichkeit wurde er hingerichtet. Ein Jahr nach seinem Tod erfährt Mina, dass ihr Mann unschuldig war. Die Behörden stellen ihr eine finanzielle Entschädigung in Aussicht, doch Mina nimmt den Kampf gegen ein menschenverachtendes System auf und fordert mehr als nur materielle Wiedergutmachung. Eines Tages begegnet Mina einem Freund ihres Mannes, der eine alte Schuld begleichen will. Mina lässt ihn in ihr Leben, ohne sein Geheimnis zu kennen.  Der Berlinale-Wettbewerbsfilm erzählt eindringlich und in meisterlichen Bildkompositionen von den Folgen eines fatalen Justizirrtums. Mit großer Intensität und starkem Spiel beeindruckt Regisseurin Maryam Moghaddam als Mina, die mutig ihren Weg geht und die Frage nach moralischer und gesellschaftlicher Schuld aufwirft. „Ballade von der weißen Kuh“ ist großes iranisches Kino, das tief berührt.",
     "trailer": "https://www.youtube.com/watch?v=UB6u44Mp8aw",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-715495": {
     "cinemaId": "580",
@@ -1888,9 +1855,9 @@
     "img": "https://media.kinoheld.de/l2HL_1qw5QofteLl2x42t86qj2c=/400x560/images%2Ffilm%2Fmonobloc-20579.v3.jpg",
     "description": "Der Monobloc ist das meistver­kaufte Möbel­stück aller Zeiten. Nach Schätzungen soll es eine Milli­arde Ex­emplare dieses billigen, oft weißen Plastikstuhls geben – auf der ganzen Welt, in jedem Land und jedem Winkel. Wie konnte es so weit kommen?  Der Kino-Dokumen­tarfilm MONOBLOC erzählt die Geschichte, wie dieser unscheinbare, von vielen verlachte Stuhl die Welt eroberte. Wie er Existenzen zerstör­t und Reich­tum beschert. Wie er unsere Um­welt be­droht und den gu­ten Geschmack. Aber auch, wie der Monobloc für Millionen Menschen unentbehrlich ist, für die ein Stuhl ein Stuhl ist und nicht mehr.",
     "trailer": "https://www.youtube.com/watch?v=qXRKlT4bMpU",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-715496": {
     "cinemaId": "580",
@@ -1906,9 +1873,9 @@
     "img": "https://media.kinoheld.de/ZyDqtkHi0I0lSTbwZwTA8mFgbaw=/400x560/images%2Ffilm%2F4%2Fdie-melodie-des-meeres-2345.v3.jpg",
     "description": "Ben und seine kleine Schwester Saoirse lieben die magische Muschel, die sie von ihrer verstorbenen Mutter bekommen haben. Wann immer sie sich diese ans Ohr halten, können sie das Meer rauschen hören. Eines Tages entlockt das Mädchen der Muschel eine wundersame Melodie, welche die Kinder mitten in ein Märchen führt: Saoirse erfährt dabei, dass sie in Wahrheit ein auf dem Land lebendes Robbenmädchen ist. Eine aufregende Zeit zwischen zwei Welten bricht an, aber der Tag, an dem sie sich für eine davon entscheiden muss, rückt näher... (v.f.)",
     "trailer": "https://www.youtube.com/watch?v=VrhoOzW8oF8",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-715544": {
     "cinemaId": "580",
@@ -1924,9 +1891,9 @@
     "img": "https://media.kinoheld.de/4pTxTYWX6T7iJoxAFmci1ObaOFA=/400x560/images%2Ffilm%2F2%2Ffamilie-brasch-eine-deutsche-geschichte-10439.v3.jpg",
     "description": "Annekatrin Hendel begleitet Aufstieg und Fall der Funktionärsfamilie Brasch, die in den Jahren nach 1945 in der sowjetisch besetzten Zone den deutschen Traum vom Sozialismus lebt. Das antifaschistische Familienoberhaupt Horst Brasch wirkt am Aufbau der DDR entgegen den Ressentiments seiner Frau Gerda mit. Die Risse in der Vorzeigefamilie treten allerdings spätestens mit Einsetzen der Pubertät ihrer Söhne offen zutage: Vater Brasch liefert seinen ältesten Sohn den Behörden aus. Nur 20 Jahre später ist der sozialistische Traum gescheitert. (vf)",
     "trailer": "https://www.youtube.com/watch?v=DpJEADhDBMc",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-715497": {
     "cinemaId": "580",
@@ -1941,10 +1908,10 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/715497?layout=shows",
     "img": "https://media.kinoheld.de/EyJZNjEiyKjL-mDlUfXjcXbxaGA=/400x560/images%2Ffilm%2Flieber-thomas-19725.v8.jpg",
     "description": "Thomas Brasch (Albrecht Schuch) ist als deutsch-jüdischer Emigrant in England geboren, um Anfang der 1950er Jahre zusammen mit seiner Familie in die junge DDR überzusiedeln. Seinem Vater Horst (Jörg Schüttauf) ist es vor allem daran gelegen, den neuen deutschen Staat mitaufzubauen. Doch Thomas will sich lieber als Schriftsteller verwirklichen und entdeckt dabei sein Potenzial als poetischer Rebell. Schon sein allererstes Stück wird verboten und bald darauf verliert er auch seinen Platz an der Filmhochschule. Als 1968 die Panzer der Sowjetunion durch die tschechische Hauptstadt Prag rollen, versuchen Brasch und seine Freundin Sanda (Ioana Jacob) mit anderen Studenten in den Straßen Berlins zum Protest aufzurufen – und scheitern. Sein eigener Vater verrät ihn an die Stasi und lässt es damit zu, dass Thomas ins Gefängnis wandert. Nachdem er auf Bewährung entlassen wird, versucht er sich weiter als Poet und schreibt über die Liebe, die Revolte und den Tod. In der DDR allerdings möchte man mit einem wie ihn nichts zu tun haben. Ohne Aussicht, auf Gehör zu stoßen, verlässt Thomas mit Katarina (Jella Haase), der Frau, die er liebt, die DDR, um im Westen den Ruhm zu ernten, der ihm gebührt. Doch auch hier ist er weit davon entfernt, zur Ruhe zu kommen.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
-    "available": 0,
+    "trailer": "https://www.youtube.com/watch?v=LUbkrqIB4mE",
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-715498": {
     "cinemaId": "580",
@@ -1960,9 +1927,9 @@
     "img": "https://media.kinoheld.de/YHvVVuH2Go7urJybzZFQzRhafdE=/400x560/images%2Ffilm%2Fshaun-das-schaf-der-film-ufo-alarm-14019.v2.png",
     "description": "Seltsame Lichter über dem verschlafenen Städtchen Mossingham kündigen die Ankunft eines geheimnisvollen Besuchers aus einer fernen Galaxie an... Aber auf der nahe gelegenen Mossy Bottom Farm hat Shaun ganz andere Dinge im Kopf, denn ständig werden seine verrückten Streiche von einem entnervten Bitzer vereitelt. Doch als plötzlich ein ebenso lustiges wie bezauberndes Außerirdischen-Mädchen mit erstaunlichen Kräften in der Nähe der Farm bruchlandet, erkennt Shaun sofort die einmalige Chance: mit Hilfe der Außerirdischen kann er jede Menge neue Späße und Abenteuer anstellen! Gleichzeitig ist es aber auch der Beginn einer Mission, die Außerirdische wieder sicher nach Hause zu bringen... (Quelle: Verleih)",
     "trailer": "https://www.youtube.com/watch?v=MetnXT732cc",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-715499": {
     "cinemaId": "580",
@@ -1978,9 +1945,9 @@
     "img": "https://media.kinoheld.de/O3dzZ1fOOk_dT5D3FtLAjDdi1c4=/400x560/images%2Ffilm%2Ffirst-cow-20395.v4.jpg",
     "description": "Ein schweigsamer Einzelgänger und erfahrener Koch reist nach Westen und schließt sich einer Gruppe von Pelzfängern im Oregon-Territorium an, wobei er eine echte Verbindung nur zu einem chinesischen Einwanderer aufbauen kann, der ebenfalls sein Glück sucht. Schon bald arbeiten die beiden an einer erfolgreichen Geschäftsidee, obwohl deren Langlebigkeit von der heimlichen Teilnahme der geschätzten Milchkuh eines nahe gelegenen reichen Landbesitzers abhängt...",
     "trailer": "https://www.youtube.com/watch?v=y8q9Izal8AU",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-715500": {
     "cinemaId": "580",
@@ -1996,9 +1963,9 @@
     "img": "https://media.kinoheld.de/5Zo-aH4fGs9CupLl1bs5NoIDIjo=/400x560/images%2Ffilm%2Fdownton-abbey-ii-eine-neue-aera-21366.v32.jpg",
     "description": "Auf Downton Abbey brechen im Jahr 1928 turbulente Zeiten an: Um die Familienkasse aufzubessern, hat Lady Mary (Michelle Dockery) das Anwesen für einen Hollywood-Filmdreh zur Verfügung gestellt. Als Stummfilm-Star Myrna Dalgleish (Laura Haddock), die nun ihren ersten Tonfilm drehen soll, mit einer riesigen Schar von Filmleuten anreist, steht Downton sofort Kopf. Kein Wunder, dass sich der Earl of Grantham (Hugh Bonneville), seine Frau Cora (Elizabeth McGovern), der Rest der Crawley-Familie und auch das Dienstpersonal nach Erholung sehnen – und die bekommen sie auch, als ihnen die Gräfinwitwe Lady Violet (Maggie Smith) eine überraschende Neuigkeit enthüllt. Von einem früheren Verehrer hat sie eine Villa in Südfrankreich geerbt. Während die Crawleys noch rätseln, wie tief genau das Verhältnis zwischen Lady Violet und dem mysteriösen Mann wohl gegangen sein mag, packen sie auch schon ihre Koffer: Die Familie reist an die sonnige Côte d’Azur, um die Erbschaft in Augenschein zu nehmen.",
     "trailer": "https://www.youtube.com/watch?v=C7VINbB8FcI",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716008": {
     "cinemaId": "580",
@@ -2014,9 +1981,9 @@
     "img": "https://media.kinoheld.de/WNsc1I4DCHokYGWffdMljdV8sKg=/400x560/images%2Ffilm%2Fdie-gangster-gang-21356.v4.jpg",
     "description": "Mastermind Mr. Wolf, Safeknacker Mr. Snake, Mr. Shark, der Meister der Verwandlung, Mr. Piranha, der Mann fürs Grobe, und die geniale Hackerin Ms. Tarantula sind die \"Gangster Gang\", die meistgesuchten Verbrecher von allen. Als die fünf Bösewichte nach einem spektakulären Raub gefasst werden, geloben sie inständig Besserung, um dem Gefängnis zu entgehen, und merken bald, dass Gutes tun gar nicht so schlecht ist. Doch dann bedroht ein neuer Schurke die Stadt ... Das neue Animationsabenteuer von DreamWorks DIE GANGSTER GANG basiert auf der erfolgreichen Kinderbuchreihe von Aaron Blabey. Produziert wird das Regiedebüt des 3D-Animators Pierre Perifel (Kung Fu Panda) von Damon Ross (Trolls) und Rebecca Huntley (The Boss Baby). Quelle: upig.de\"",
     "trailer": "https://www.youtube.com/watch?v=nsFkeENinNs",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716009": {
     "cinemaId": "580",
@@ -2029,9 +1996,9 @@
     "timestamp": 1654128000000,
     "time": "18:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716009?layout=shows",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716010": {
     "cinemaId": "580",
@@ -2047,9 +2014,9 @@
     "img": "https://media.kinoheld.de/t-k_MW6lapeJYDRz4sYGGYxt-pI=/400x560/images%2Ffilm%2Fbelfast-21119.v4.jpg",
     "description": "Sommer, 1969 in Belfast: Der neunjährige Buddy (Jude Hill) ist Sohn einer typischen Arbeiterfamilie in der nordirischen Hauptstadt. Er liebt Kinobesuche, Matchbox-Autos und seine Großeltern Granny (Judi Dench) und Pop (Ciarán Hinds) – außerdem schwärmt er für eine seiner Mitschülerinnen. Als jedoch die gesellschaftspolitischen Spannungen in Belfast eskalieren und es daraufhin sogar in der friedlichen Nachbarschaft zu grausamen Gewalteruptionen kommt, endet die idyllische Kindheit von Buddy mit einem Schlag. Während seine Eltern Ma (Caitriona Balfe) und Pa (Jamie Dornan) versuchen, die Zukunft der Familie zu sichern, ist Buddy gezwungen, viel zu schnell erwachsen zu werden. Trotz allem versucht er, seine Lebensfreude und seine Begeisterung für Film und Fernsehen nicht zu verlieren ...",
     "trailer": "https://www.youtube.com/watch?v=v8cEqUuqO40",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716011": {
     "cinemaId": "580",
@@ -2062,9 +2029,9 @@
     "timestamp": 1654214400000,
     "time": "16:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716011?layout=shows",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716013": {
     "cinemaId": "580",
@@ -2080,9 +2047,9 @@
     "img": "https://media.kinoheld.de/OhQuGDVEAGZv_VUBA0ULue1d9nc=/400x560/images%2Ffilm%2F4%2Fgrand-budapest-hotel-41.v6.jpg",
     "description": "Ein Schriftsteller mit einer Schreibblockade erzählt 17 Jahre nach seinem Aufenthalt im ehemals luxuriösen Grand Budapest Hotel, das jetzt eher einer Ruine gleicht, was ihm der Besitzer der früheren Nobelabsteige über das wechselvolle Schicksal seines Hauses anvertraute. So weiht er den Autor in das Geheimnis ein, wie er vom namenlosen Angestellten zum Hotelier wurde. Alles begann mit seinem alten Vorgesetzten Gustave, der ein Verhältnis mit der älteren schwerreichen Madame D. unterhielt. Als die Dame mit 84 Jahren starb, vermachte sie ihrem Liebhaber ein teures Kunstwerk, eine Klausel im Testament, die ihre Verwandtschaft nicht klaglos hinnehmen wollte. Mit dem Diebstahl seines Erbteils beginnt für Gustave der Niedergang als Geschäftsmann... (v.f.)",
     "trailer": "https://www.youtube.com/watch?v=7d28TPa0vrE",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716014": {
     "cinemaId": "580",
@@ -2098,9 +2065,9 @@
     "img": "https://media.kinoheld.de/3JDPzCc1d726h1OAn261oimS2-0=/400x560/images%2Ffilm%2Fthe-french-dispatch-19681.v2.png",
     "description": "Das amerikanische Magazin The French Dispatch ist ein Ableger der Zeitung Liberty, Kansas Evening Star, dessen Redaktion sich in der fiktiven französischen Stadt Ennui-sur-Blasé befindet. Gegründet wurden der Evening Star und der French Dispatch von Arthur Howitzer Jr. (Bill Murray), der das Magazin 50 Jahre lang leitete und nun verstorben ist. Seine Angestellten erinnern sich an Howitzer zurück und vier große Geschichten, die in der Zeitung veröffentlicht wurden, werden zum Leben erweckt: Der im Gefängnis sitzende Maler Moses Rosenthaler (Benicio del Toro) findet in seiner Wärterin Simone (Lea Seydoux) Muse und Model. Die Reporterin Lucinda Krementz (Frances McDormand) beginnt eine Affäre mit dem Revoluzzer Zeffirelli (Timothée Chalamet) und zweifelt an ihrer journalistischen Integrität. Ein radelnder Reporter schreibt Reiseberichte aus den schlimmsten Ecken der Stadt, und als der Sohn des Kommissars (Mathieu Amalric) entführt wird, kann ihn nur der Koch retten.",
     "trailer": "https://www.youtube.com/watch?v=TcPk2p0Zaw4",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716015": {
     "cinemaId": "580",
@@ -2116,9 +2083,9 @@
     "img": "https://media.kinoheld.de/LwwHRPTw10O9X73ESB5ZAiDZWYQ=/400x560/images%2Ffilm%2Fsing-2-20703.v163.png",
     "description": "Buster und seine neue Besetzung haben sich jetzt vorgenommen, eine neue Show im Crystal Tower Theater im glamourösen Redshore City zu debütieren. Aber ohne Verbindungen müssen er und seine Sänger sich in die Büros von Crystal Entertainment schleichen, die vom skrupellosen Wolfsmogul Jimmy Crystal betrieben werden, wo die Gang die lächerliche Idee entwickelt, die Löwenrock-Legende Clay Calloway in ihrer Show zu besetzen.",
     "trailer": "https://www.youtube.com/watch?v=F1J_MY0m6q4",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716016": {
     "cinemaId": "580",
@@ -2134,9 +2101,9 @@
     "img": "https://media.kinoheld.de/YDHFQNl1Ig-IUBkKDMAlvejoZQA=/400x560/images%2Ffilm%2F25h-a-star-is-born-14873.v21.jpg",
     "description": "Bradley Cooper spielt den Countrymusic-Star Jackson Maine, dessen Karriere auf einer Abwärtsspirale trudelt, als er eine begabte Unbekannte namens Ally (Lady Gaga) entdeckt. Die beiden beginnen eine leidenschaftliche Liebesbeziehung, und Jack drängt Ally ins Rampenlicht, wo sie über Nacht zum Star aufsteigt. Als Allys Karriere Jack bald in den Schatten stellt, fällt es ihm zunehmend schwerer, sich mit seinem verblassenden Ruhm abzufinden.",
     "trailer": "https://www.youtube.com/watch?v=i0lAq6UIzyA",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716017": {
     "cinemaId": "580",
@@ -2152,9 +2119,9 @@
     "img": "https://media.kinoheld.de/WsBqwiaN9J24wqRJclAcKQSfMbk=/400x560/images%2Ffilm%2Fhouse-of-gucci-20470.v2.png",
     "description": "Es war ein Fall der nicht nur die Modewelt in Aufruhr versetzte: Die Ermordung des Gucci-Erben Maurizio Gucci (Adam Driver) sorgt 1995 für Schlagzeilen. Schnell scheint die Polizei eine Verdächtige ins Visier zu nehmen, die auf das Opfer nicht gut zu sprechen war. Maurizios Ex-Frau Patrizia Reggiani (Lady Gaga) wird des Mordes beschuldigt. Während sie sich mit allen Mitteln gegen die Vorwürfe wehrt und auf ihrer Unschuld beharrt, kommen jedoch immer neue Details ans Tageslicht. Eine geheime Affäre ihres Mannes, die Gier nach Rache und die finanzielle Abhängigkeit formen ein Bild von Patrizia, das in der Öffentlichkeit für Aufsehen sorgt. Es kommt zu einem Prozess, an dessen Ende die Wahrheit ans Tageslicht kommt: Sie heuerte einen Profikiller an, um ihren Mann zu ermorden.\r\n\r\nBasiert auf wahren Begebenheiten.",
     "trailer": "https://www.youtube.com/watch?v=SJ8U0hi-EhY",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716018": {
     "cinemaId": "580",
@@ -2167,9 +2134,9 @@
     "timestamp": 1654387200000,
     "time": "14:00",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716018?layout=shows",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716019": {
     "cinemaId": "580",
@@ -2182,9 +2149,9 @@
     "timestamp": 1654387200000,
     "time": "16:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716019?layout=shows",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716020": {
     "cinemaId": "580",
@@ -2200,9 +2167,9 @@
     "img": "https://media.kinoheld.de/9ARlXQQQ7HRfIN2fiXZFRP7z3uA=/400x560/images%2Ffilm%2Fwas-sehen-wir-wenn-wir-zum-himmel-schauen-21787.v10.jpg",
     "description": "Es ist Liebe auf den ersten Blick, als sich Lisa und Giorgi in der georgischen Stadt Kutaissi für einen kurzen Moment begegnen. Die Liebe erwischt sie so plötzlich, dass sie sogar vergessen, sich gegenseitig ihre Namen zu verraten. Bevor sie beide wieder ihrer Wege gehen, vereinbaren sie, sich am nächsten Tag zu treffen. Doch die beiden ahnen nicht, dass sie einem Fluch zum Opfer fallen. Gelingt es ihnen, sich wiederzusehen? Und falls es ihnen gelingt, werden sie sich wiedererkennen? Das Leben in der Stadt geht währenddessen weiter, die Straßenhunde streunen herum, die Fußballweltmeisterschaft beginnt und eine Filmcrew, die sich der Aufgabe verschrieben hat, die wahre Liebe zu finden, könnte Lisas und Giorgis Rettung sein.",
     "trailer": "https://www.youtube.com/watch?v=hCzT46CR02A",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716021": {
     "cinemaId": "580",
@@ -2218,9 +2185,9 @@
     "img": "https://media.kinoheld.de/DveKy4okMuvfetFPbCTVoU-bnow=/400x560/images%2Ffilm%2Fdirty-dancing-17-16583.v4.jpg",
     "description": "Es soll die Zeit ihres Lebens werden. Aber als die 17-jährige Frances Houseman im Sommer '63 mit ihrer Familie in die Ferien fährt, sieht alles anfangs eher nach einem langweiligen und spießigen Urlaub mit den Eltern aus. Zumindest so lange, bis sie den Tanzlehrer Johnny kennen lernt und mit ihm die Liebe. Denn während er ihr das Tanzen beibringt, zeigt sie ihm, wie wichtig es ist, immer an sich zu glauben. Und so ist ihr letzter gemeinsamer Tanz nicht nur das Ende der Saison. Es ist mehr. (j.b.)",
     "trailer": "https://www.youtube.com/watch?v=L4ifAPp5cBc",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716022": {
     "cinemaId": "580",
@@ -2236,9 +2203,9 @@
     "img": "https://media.kinoheld.de/UN4ctDmC1adWTRSMtfuOvHFhu70=/400x560/images%2Ffilm%2F4%2Fdie-winzlinge-abenteuer-in-der-karibik-12001.v11.jpg",
     "description": "Bei einem heimlichen Ausflug in die Kastanienfabrik seines Dorfes landet ein junger unerschrockener Marienkäfer versehentlich in einer Pappschachtel und wird in die Karibik verschifft. Ohne zu zögern, begibt sich sein Papa auf eine abenteuerliche Reise, um den geliebten Nachwuchs zu finden. Kaum wieder vereint, stehen sie vor der nächsten Herausforderung: Die Heimat ihrer neuen karibischen Marienkäferfreunde ist in Gefahr, von einer großen Baufirma zerstört zu werden. Zum Glück kann unser Held auf seine tierischen Freunde zählen, allen voran die schwarze Ameise und die clevere Spinne, die aus der Heimat zu Hilfe eilen! Gemeinsam entwickeln sie einen ausgeklügelten Plan, um das idyllische Paradies zu retten. (Quelle: Verleih)",
     "trailer": "https://www.youtube.com/watch?v=2fYtnWTSZZg",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716023": {
     "cinemaId": "580",
@@ -2254,9 +2221,9 @@
     "img": "https://media.kinoheld.de/pnqCwNjJqZG4A_GR96pdIL3FWiw=/400x560/images%2Ffilm%2Fschachnovelle-17558.v2.png",
     "description": "Als Wien 1938 von den Nationalsozialisten besetzt wird, versucht der Anwalt Josef Bartok (Oliver Masucci) noch zusammen mit seiner Frau Anna (Birgit Minichmayr) in die USA zu fliehen, doch die Mühe war umsonst – er wird von der Gestapo verhaftet und ins Hotel Metropol gebracht. Da Bartok das Vermögen des Adels verwaltet, soll er im Hauptsitz der Geheimen Staatspolizei dem Leiter der Behörde Franz-Josef Böhm (Albrecht Schuch) Zugang zu einigen Konten der Aristokraten ermöglichen. Der Jurist ist jedoch standhaft und weigert sich, egal in welcher Form auch immer, mit der Gestapo zu kooperieren. Die anschließende Isolationshaft zermürbt Bartok zunehmend. Als er zufällig in Besitz eines Schachbuches gerät, beginnt sich das Blatt zu wenden...\r\n\r\nVerfilmung der gleichnamigen Novelle von Stefan Zweig, die erstmals 1941 erschien.",
     "trailer": "https://www.youtube.com/watch?v=lwfy2rSmg4c",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716024": {
     "cinemaId": "580",
@@ -2272,9 +2239,9 @@
     "img": "https://media.kinoheld.de/MYKGQ7l9udrQMNvXhCQAKhu5gDI=/400x560/images%2Ffilm%2Fwo-in-paris-die-sonne-aufgeht-21562.v2.png",
     "description": "Drei Mädchen und ein Junge in Paris, die Freunde sind, manchmal Liebhaber und oft beides: Émilie (Lucie Zhang) hat ihr Studium an einer Elite-Universität absolviert, arbeitet nun in billigen Gelegenheitsjobs und hat schnellen Sex, während sie von einer Beziehung träumt. Der junge Lehrer Camille (Makita Samba) verfolgt berufliche Ziele, die manche als Illusionen bezeichnen, glaubt andererseits aber nicht an eine erfüllende, liebevolle Beziehung und setzt auf unkomplizierten Sex. Nora (Noémie Merlant) ist nach Paris gezogen, weil sie hier ihr Jura-Studium wieder aufnehmen will, obwohl sie Anfang 30 ist. Louise (Jehnny Beth) nennt sich im Internet Amber, sie bietet dort erotische Dienstleistungen an.",
     "trailer": "https://www.youtube.com/watch?v=MdCtlYq5UOs",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716012": {
     "cinemaId": "580",
@@ -2287,9 +2254,9 @@
     "timestamp": 1654560000000,
     "time": "16:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716012?layout=shows",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716025": {
     "cinemaId": "580",
@@ -2304,9 +2271,9 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716025?layout=shows",
     "img": "https://media.kinoheld.de/Uppalc88WvTpHvZtsqiJexOuWdc=/400x560/images%2Ffilm%2Fmarianne-leonard-words-of-love-15177.v47.jpg",
     "description": "Der neueste Film des gefeierten Dokumentarfilmregisseurs Nick Broomfield, \"Marianne & Leonard - Words of Love\", erzählt die schöne, aber auch tragische Liebesgeschichte zwischen Leonard Cohen und seiner norwegischen Muse Marianne Ihlen. Ihre Liebe begann 1960 auf der idyllischen griechischen Insel Hydra als Teil einer unkonventionellen Gemeinschaft ausländischer Künstler, Schriftsteller und Musiker. Mit vielen bisher unveröffentlichten Aufnahmen folgt der Film ihrer Beziehung von den Anfängen auf Hydra, einer bescheidenen Zeit der \"freien Liebe\" und der offenen Ehe, bis hin zur Entwicklung ihrer Liebe, als Leonard ein erfolgreicher Musiker wurde. Marianne und Leonards Liebesgeschichte sollte für den Rest ihres Lebens weitergehen. Auf diesem Weg erfahren wir von den Tragödien derer, die die Schönheit von Hydra nicht überlebt haben, von den Höhen und Tiefen in Leonards Karriere und der inspirierenden Kraft, die Marianne besaß. (Quelle: Verleih)",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716026": {
     "cinemaId": "580",
@@ -2321,10 +2288,10 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716026?layout=shows",
     "img": "https://media.kinoheld.de/84CWyGVkuSng1LeqjrXpHL0oau0=/400x560/images%2Ffilm%2Fdeath-of-a-ladies-man-19082.v9.jpg",
     "description": "Das Leben eines vergnügungssüchtigen College-Professors nimmt eine Reihe unvorstellbarer Wendungen, und alle alten Geschichten erhalten eine neue Wendung, als er beginnt, surreale Halluzinationen zu haben und erfährt, dass er vielleicht nicht mehr lange auf dieser Welt ist.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
-    "available": 0,
+    "trailer": "https://www.youtube.com/watch?v=r-iLG2lMmAk",
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716027": {
     "cinemaId": "580",
@@ -2340,9 +2307,9 @@
     "img": "https://media.kinoheld.de/mkCmIqfrFdJjOPVPVokH01vNHeo=/400x560/images%2Ffilm%2F2%2Fpaddington-1105.v6.jpg",
     "description": "Weil Paddington ein Faible für alles Britische hat, macht sich der kleine Bär auf und reist von Peru nach London. Als er sich aber - mutterseelenallein und verlassen - an der U-Bahn-Station Paddington wiederfindet, kommen dem pelzigen Zotteltierchen die Tränen: Was soll er nur anfangen in der Fremde, wo er keinen kennt? Glücklicherweise finden die Browns den verzweifelten Bären. Die hilfsbereite und herzensgute Familie zögert nicht, Paddington bei sich aufzunehmen. Nun könnte alles gut werden, hätte es nicht eine skrupellose Tierpräparatorin auf seinen exotischen Pelz abgesehen... (v.f.)",
     "trailer": "https://www.youtube.com/watch?v=C998Xq3bpjI",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716028": {
     "cinemaId": "580",
@@ -2358,9 +2325,9 @@
     "img": "https://media.kinoheld.de/nWryEDH-pjV4OIQ2ghHwZgbZpl8=/400x560/images%2Ffilm%2Fspencer-20897.v98.jpg",
     "description": "Dezember 1991: In der Ehe zwischen dem Prinzen und der Prinzessin von Wales herrscht seit Langem Eiszeit. Trotz der wilden Gerüchte über Affären und eine Scheidung wird für die Weihnachtsfeierlichkeiten auf dem königlichen Landsitz Sandringham ein Frieden verhängt. Es wird gegessen und getrunken, geschossen und gejagt. Diana kennt das Spiel. Dieses Jahr wird es eine ganz andere Wendung nehmen.",
     "trailer": "https://www.youtube.com/watch?v=rqAKuQRwnUk",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716029": {
     "cinemaId": "580",
@@ -2375,10 +2342,10 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716029?layout=shows",
     "img": "https://media.kinoheld.de/MbP4VrCdQ29hjA5ArcFqK6110eY=/400x560/images%2Ffilm%2Flast-night-in-soho-20347.v17.jpg",
     "description": "Die junge Eloise (Thomasin McKenzie) stammt vom Land und ist gerade nach London gezogen, wo sie ihre große Leidenschaft für Modedesign ausleben will. Ausgefallene Stoffe, klassische Schnitte oder mutige Muster: Für die Modedesignstudentin ist Kleidung pure Lust, denn sie hat sich schon immer ihre eigenen Klamotten angefertigt. Während aber ihre Mitstudierenden ausgelassen Party machen, träumt sich die von ihrer neuen Umgebung überforderte Eloise ins London der 1960er-Jahre. In der Gestalt der jungen Sandy (Anya Taylor-Joy) zieht sie durchs Londoner Café de Paris und andere Clubs, die ihr das Gefühl von Sicherheit geben. Sie führt ein Parallelleben, in dem sie eines Tages den verführerischen Manager Jack (Matt Smith) trifft und ist fasziniert von seiner geheimnisvollen Aura. Doch die beschwingten, romantisierten Sechziger sind tatsächlich längst nicht so schön und frei, wie es zuerst den Anschein hat.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
-    "available": 0,
+    "trailer": "https://www.youtube.com/watch?v=n4dDg5rOXzw",
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716080": {
     "cinemaId": "580",
@@ -2391,12 +2358,12 @@
     "timestamp": 1654732800000,
     "time": "16:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716080?layout=shows",
-    "img": "https://media.kinoheld.de/NLXWdW_fPu6qi8qxquV0BaJKA5E=/400x560/images%2Ffilm%2Fgeschichten-vom-franz-21881.v5.jpg",
+    "img": "https://media.kinoheld.de/Uh5tviudvogC9Ht6ULuPZGFpCLY=/400x560/images%2Ffilm%2Fgeschichten-vom-franz-21881.v7.jpg",
     "description": "Als der Franz  den Influencer Hank Haberer entdeckt, sind seine zwei besten Freunde die Gabi  und der Eberhard zunächst skeptisch. Aber der Franz als der ewig Kleinste in der Klasse, mit seiner unberechenbaren Pieps-Stimme, ist für Ratschläge dieser Art sehr zu haben! Denn neben seinem Lehrer Zick Zack , bereitet ihm neuerdings auch die Klassenqueen Elfi  Kopfzerbrechen. Dass der scheinbar einfache Weg doch nicht zum Ziel führt, wird dem Franz spätestens dann klar, als die Gabi plötzlich fort ist. Selbst die Mama und der Papa  sind ratlos, und die Gabi Eltern sowieso. Also machen sich der Franz und der Eberhard - vorbei am Hausschreck Frau Berger - ganz allein auf die abenteuerliche Suche, und das Trio findet am Ende wieder, was sie schon verloren glaubten: die beste Freundschaft, die es geben kann.",
     "trailer": "https://www.youtube.com/watch?v=PrBiQ-SoLZQ",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716081": {
     "cinemaId": "580",
@@ -2411,10 +2378,10 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716081?layout=shows",
     "img": "https://media.kinoheld.de/tN4DZJfrBGvBMOFcYv6PQoXlcqA=/400x560/images%2Ffilm%2Fniemand-ist-bei-den-kaelbern-20962.v2.png",
     "description": "Hochsommer in der Mecklenburgischen Provinz. Fu¨nf Häuser, eine Bushaltestelle, Ku¨he und ringsum nichts als Felder. Christin, 24, (Saskia Rosendahl) lebt auf dem Bauernhof ihres langjährigen Freundes Jan, 25 (Rick Okon). Die Aufbruchsstimmung der Nachwendejahre, die ihre Kindheit prägten, ist längst dahin und auch in ihrer Beziehung gibt es schon lange keine Liebe mehr. Ihr Vater säuft. Den Kirsch hat auch Christin immer griffbereit unterm Autositz. Unter der flirrenden Hitze des Sommers scheint die Zeit stillzustehen. Da taucht Windkraftingenieur Klaus, 46, (Godehard Giese) aus Hamburg auf, und die Welt beginnt sich wieder zu drehen.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
-    "available": 0,
+    "trailer": "https://www.youtube.com/watch?v=Ab5py2jAcIE",
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716082": {
     "cinemaId": "580",
@@ -2430,9 +2397,9 @@
     "img": "https://media.kinoheld.de/bX-Ae7lGyd9DGLbP3z968IZLkVk=/400x560/images%2Ffilm%2Ftod-auf-dem-nil-17247.v2.png",
     "description": "Neuverfilmung des Agatha-Christie-Romans „Tod auf dem Nil“. Regie führen und die Hauptrolle übernehmen soll erneut Kenneth Branagh – am Ende von „Mord im Orient-Express“ wurde es ja bereits ziemlich eindeutig, dass die von Branagh gespielte Figur Hercule Poirot anschließend Richtung Ägypten aufbricht. In der Romanvorlage zu „Tod auf dem Nil“ schließt sich Poirot einer bunt gemischten Reisegruppe an, die auf einem Dampfer den Nil bereist. Es kommt zum Mord an der schönen und reichen Linnet Doyle, doch die Hauptverdächtige - Jacqueline de Bellefort, der Linnet ihren Verlobten Simon weggeschnappt hat – hat zum Tatzeitpunkt ein Alibi. Poirot nimmt die Ermittlungen auf und muss unter den zahlreichen anderen Verdächtigen, darunter Linnets Dienstmädchen Louise Bourget, der überzeugte Kommunist Mr. Ferguson und der italienische Archäologe Guide Richetti, den Tätern finden.",
     "trailer": "https://www.youtube.com/watch?v=npTTR2LDFGI",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716083": {
     "cinemaId": "580",
@@ -2448,9 +2415,9 @@
     "img": "https://media.kinoheld.de/hkG4jj8pIQiIp8C59a1i3djhypU=/400x560/images%2Ffilm%2Fjim-knopf-und-die-wilde-13-17425.v1333.jpg",
     "description": "Ein neues Abenteuer für Jim Knopf und Lokführer Lukas. Ein Jahr nach den Ereignissen geht das Leben in Lummerland wieder seinen gewohnten Gang. Doch es ziehen dunkle Wolken über der beschaulichen Insel auf: Die Wilde 13 hat erfahren, dass Frau Malzahn besiegt wurde, und will dafür nun Rache nehmen. Die Einwohner von Lummerland ahnen noch nichts von der drohenden Gefahr. Währenddessen ist Prinzessin Li Si bei Jim Knopf zu Besuch. Ihr kann Jim sein größtes Geheimnis anvertrauen: Er möchte endlich die Wahrheit über seine Herkunft erfahren.  Um das Geheimnis zu lüften und Lummerland vor einer weiteren Bedrohung zu beschützen, machen sich die Helden gemeinsam mit den Dampflokomotiven Emma und Molly auf den Weg in ein gefährliches Abenteuer.",
     "trailer": "https://www.youtube.com/watch?v=JwG3kZSox2g",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716084": {
     "cinemaId": "580",
@@ -2465,10 +2432,10 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716084?layout=shows",
     "img": "https://media.kinoheld.de/mOmJMNvikpxf3k1jahFLcrPQJdc=/400x560/images%2Ffilm%2Fkimi-21332.v21.jpg",
     "description": "Nachdem eine agoraphobische technische Angestellte bei der Überprüfung eines gewöhnlichen Datenstroms aufgezeichnete Beweise für ein Gewaltverbrechen entdeckt hat, versucht sie, die Befehlskette in ihrem Unternehmen zu durchbrechen. Sie stößt auf Widerstand und Bürokratie und erkennt, dass sie das tun muss, wovor sie sich am meisten fürchtet - sie muss ihre Wohnung verlassen, um sich einzumischen.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
-    "available": 0,
+    "trailer": "https://www.youtube.com/watch?v=CW-UikJsEI8",
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716085": {
     "cinemaId": "580",
@@ -2483,10 +2450,10 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716085?layout=shows",
     "img": "https://media.kinoheld.de/BafDJ8qfI9P7XyJnmWxzbBvbJwc=/400x560/images%2Ffilm%2Fred-rocket-21835.v4.jpg",
     "description": "Finding himself down and out in Los Angeles, ex porn star Mikey Saber decides to crawl back to his hometown of Texas City, Texas, where his estranged wife and mother-in-law are living. Just as this dysfunctional family seems to be making things work, Mikey meets a young woman named Strawberry working the cash register at a local doughnut shop.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
-    "available": 0,
+    "trailer": "https://www.youtube.com/watch?v=nwY3p-6JTQ4",
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716086": {
     "cinemaId": "580",
@@ -2502,9 +2469,9 @@
     "img": "https://media.kinoheld.de/WNsc1I4DCHokYGWffdMljdV8sKg=/400x560/images%2Ffilm%2Fdie-gangster-gang-21356.v4.jpg",
     "description": "Mastermind Mr. Wolf, Safeknacker Mr. Snake, Mr. Shark, der Meister der Verwandlung, Mr. Piranha, der Mann fürs Grobe, und die geniale Hackerin Ms. Tarantula sind die \"Gangster Gang\", die meistgesuchten Verbrecher von allen. Als die fünf Bösewichte nach einem spektakulären Raub gefasst werden, geloben sie inständig Besserung, um dem Gefängnis zu entgehen, und merken bald, dass Gutes tun gar nicht so schlecht ist. Doch dann bedroht ein neuer Schurke die Stadt ... Das neue Animationsabenteuer von DreamWorks DIE GANGSTER GANG basiert auf der erfolgreichen Kinderbuchreihe von Aaron Blabey. Produziert wird das Regiedebüt des 3D-Animators Pierre Perifel (Kung Fu Panda) von Damon Ross (Trolls) und Rebecca Huntley (The Boss Baby). Quelle: upig.de\"",
     "trailer": "https://www.youtube.com/watch?v=nsFkeENinNs",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716087": {
     "cinemaId": "580",
@@ -2520,9 +2487,9 @@
     "img": "https://media.kinoheld.de/eQ6o067Glpupa-A3knmATMjkWs0=/400x560/images%2Ffilm%2Fpetite-maman-als-wir-kinder-waren-20506.v13.jpg",
     "description": "Die achtjährige Nelly hat gerade ihre geliebte Großmutter verloren und hilft ihren Eltern, das Elternhaus ihrer Mutter auszuräumen. Sie erkundet das Haus und den umliegenden Wald, in dem ihre Mutter früher gespielt und das Fort gebaut hat, von dem Nelly so viel gehört hat. Eines Tages ist ihre Mutter plötzlich weg, und Nelly trifft im Wald ein Mädchen in ihrem Alter, das eine Festung baut.",
     "trailer": "https://www.youtube.com/watch?v=gP5R3Zxnndw",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716088": {
     "cinemaId": "580",
@@ -2538,9 +2505,9 @@
     "img": "https://media.kinoheld.de/6_sUD4zW9ogyb1Vhza7JjDGsoKY=/400x560/images%2Ffilm%2Fspider-man-no-way-home-20521.v9.jpg",
     "description": "Zum ersten Mal in der Filmgeschichte von Spider-Man ist die Identität unseres freundlichen Helden aus der Nachbarschaft enthüllt – was seine Pflichten als Superheld mit seinem normalen Leben in Konflikt bringt und wodurch diejenigen, die ihm am meisten am Herzen liegen, in Gefahr geraten. Als er die Hilfe von Doctor Strange in Anspruch nimmt, um sein Geheimnis wiederherzustellen, reißt dessen Zauber ein Loch in ihre Welt und setzt die mächtigsten Schurken frei, die jemals ein Spider-Man in irgendeinem Universum bekämpft hat. Jetzt ist es an Peter, seine bisher größte Herausforderung zu meistern, die nicht nur seine eigene Zukunft für immer verändern wird, sondern auch die Zukunft des Multiversums.\r\n\r\nAn der Seite von Tom Holland als Peter Parker, Zendaya als MJ und Jacob Batalon als Ned Leeds sind außerdem Benedict Cumberbatch als Doctor Strange, Jon Favreau als Happy Hogan und Marisa Tomei als Tante May zu sehen.\r\n\r\nRegie führt erneut Jon Watts, der bereits die Blockbuster-Vorgänger „Spider-Man: Homecoming“ und „Spider-Man: Far From Home“ inszenierte. Das Drehbuch stammt wieder von Chris McKenna und Erik Sommers. SPIDER-MAN: NO WAY HOME basiert auf den Comics von Stan Lee und Steve Ditko und wurde produziert von Kevin Feige und Amy Pascal. Als Executive Producers zeichnen Louis D’Esposito, Victoria Alonso, JoAnn Perritano, Rachel O'Connor, Avi Arad und Matt Tolmach verantwortlich.",
     "trailer": "https://www.youtube.com/watch?v=HNc3QiYtPwI",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716089": {
     "cinemaId": "580",
@@ -2553,9 +2520,9 @@
     "timestamp": 1654992000000,
     "time": "16:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716089?layout=shows",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716090": {
     "cinemaId": "580",
@@ -2571,9 +2538,9 @@
     "img": "https://media.kinoheld.de/A-xxGuNoBz_e4hRWW-Mtb9P86LE=/400x560/images%2Ffilm%2Fparallele-muetter-20270.v2.png",
     "description": "Janis (Penélope Cruz) und Ana (Milena Smit) treffen in einem Krankenhauszimmer aufeinander, wo sie bald entbinden werden. Beide sind alleinstehend und wurden zufällig schwanger. Janis, im mittleren Alter, bereut es nicht und ist überglücklich. Ana hingegen ist verängstigt, reumütig und traumatisiert. Janis versucht, sie zu ermutigen, während sie wie Schlafwandler durch die Krankenhausflure wandern. Die wenigen Worte, die sie in diesen Stunden austauschen, schaffen eine sehr enge Verbindung zwischen den beiden, die sich zufällig entwickelt und verkompliziert und ihr Leben auf entscheidende Weise verändert.",
     "trailer": "https://www.youtube.com/watch?v=DpXQB5tp2yo",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716091": {
     "cinemaId": "580",
@@ -2589,9 +2556,9 @@
     "img": "https://media.kinoheld.de/PKMzQ1Cvq0yZMnNwN5OdFyP-5Nc=/400x560/images%2Ffilm%2Fgrosse-freiheit-19945.v7.png",
     "description": "Hans Hoffmann (Franz Rogowski) ist schwul und Homosexualität ist im Nachkriegsdeutschland noch immer strafbar. Dementsprechend oft sitzt Hans im Gefängnis. Das hält ihn jedoch nicht davon ab, an den ungewöhnlichsten Orten nach der Liebe zu suchen. Die einzige Konstante in Hans' Leben ist sein Zellengenosse Viktor (Georg Friedrich), der ein verurteilter Mörder ist. Zwischen den beiden herrscht anfangs vor allem eines vor: Abscheu. Doch es dauert nicht lange und es entwickelt sich etwas, das sich Liebe nennen könnte..",
     "trailer": "https://www.youtube.com/watch?v=M1HxdDIVVKc",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716092": {
     "cinemaId": "580",
@@ -2607,9 +2574,9 @@
     "img": "https://media.kinoheld.de/YHvVVuH2Go7urJybzZFQzRhafdE=/400x560/images%2Ffilm%2Fshaun-das-schaf-der-film-ufo-alarm-14019.v2.png",
     "description": "Seltsame Lichter über dem verschlafenen Städtchen Mossingham kündigen die Ankunft eines geheimnisvollen Besuchers aus einer fernen Galaxie an... Aber auf der nahe gelegenen Mossy Bottom Farm hat Shaun ganz andere Dinge im Kopf, denn ständig werden seine verrückten Streiche von einem entnervten Bitzer vereitelt. Doch als plötzlich ein ebenso lustiges wie bezauberndes Außerirdischen-Mädchen mit erstaunlichen Kräften in der Nähe der Farm bruchlandet, erkennt Shaun sofort die einmalige Chance: mit Hilfe der Außerirdischen kann er jede Menge neue Späße und Abenteuer anstellen! Gleichzeitig ist es aber auch der Beginn einer Mission, die Außerirdische wieder sicher nach Hause zu bringen... (Quelle: Verleih)",
     "trailer": "https://www.youtube.com/watch?v=MetnXT732cc",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716093": {
     "cinemaId": "580",
@@ -2625,9 +2592,9 @@
     "img": "https://media.kinoheld.de/UC8eWd8M2vOSmFbTKGWXy9k2ec8=/400x560/images%2Ffilm%2Fsupernova-19155.v19.jpg",
     "description": "Zwanzig Jahre sind Sam und Tusker ein Paar. Um wieder mehr gemeinsame Zeit verbringen zu können, hat Sam seine Karriere als Pianist aufgegeben. In ihrem alten Wohnmobil brechen die beiden zu einer Reise durch den idyllischen Lake District auf, um Freunde, Familie und wichtige Orte ihrer Vergangenheit zu besuchen. Allerdings beginnen unterwegs ihre Vorstellungen von der gemeinsamen Zukunft zu kollidieren.  „Das Leuchten der Erinnerung“ trifft auf „A Single Man“: Colin Firth und Stanley Tucci brillieren als Paar in einem herzerwärmenden wie herzzerreißenden Film, der die große Liebe feiert. Regisseur Harry Macqueen gelingt durch seine behutsame Inszenierung eine tiefberührende Geschichte, die trotz aller Dramatik von Wärme und Lebenslust erfüllt ist.",
     "trailer": "https://www.youtube.com/watch?v=DRM-zRm0w5Y",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716094": {
     "cinemaId": "580",
@@ -2643,9 +2610,9 @@
     "img": "https://media.kinoheld.de/aSpJiTabDRC16J_8ksz8jxeHRtA=/400x560/images%2Ffilm%2Fcome-on-come-on-21505.v2.png",
     "description": "Ein Radiojournalist auf Interviewreise muss sich um seinen kleinen Neffen kümmern und wächst an dieser Aufgabe. Das in ausdrucksstarke Schwarz-Weiß-Bilder getauchte, famos gespielte Roadmovie spürt auf kluge, meditative Weise den Befindlichkeiten von Kindern und Erwachsenen nach.",
     "trailer": "https://www.youtube.com/watch?v=evQCPabMru4",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716095": {
     "cinemaId": "580",
@@ -2679,9 +2646,9 @@
     "img": "https://media.kinoheld.de/eGHlGJZghR_Bk1SbyDne9G_7z6g=/400x560/images%2Ffilm%2Fnowhere-special-19733.v5.png",
     "description": "Eine kleine Stadt in Irland. Der Fensterputzer John zieht seinen vierjährigen Sohn Michael alleine auf, seit die Mutter die Familie kurz nach der Geburt verlassen hat. Ihr Leben ist bestimmt von den täglichen Notwendigkeiten und Ritualen, geprägt von der tiefen Liebe zwischen Vater und Sohn. Was Michael nicht weiß: John hat Krebs. Ihm bleiben nur noch wenige Monate. Die will er nutzen, um eine neue Familie für Michael suchen, eine perfekte Familie. Aber wie kann er seinem Sohn erklären, warum sie so viele merkwürdige Menschen besuchen? Kennt er seinen Sohn gut genug, um zu wissen, was der braucht? Langsam beginnt John zu begreifen, dass er keine Entscheidung für die Zukunft treffen muss, sondern eine für die Gegenwart. Gemeinsam mit Michael.",
     "trailer": "https://www.youtube.com/watch?v=t_q__oGVrDI&t=2s",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716132": {
     "cinemaId": "580",
@@ -2697,9 +2664,9 @@
     "img": "https://media.kinoheld.de/GTdf-VyheyTlNPp60nz9eyk20IA=/400x560/images%2Ffilm%2Fje-suis-karl-19135.v16.jpg",
     "description": "Eine junge Frau verliert ihre Mutter und ihre Geschwister bei einem Bombenattentat und gerät in den Bann des charismatischen Studenten Karl, der in einer rechtsrevolutionären Bewegung aktiv ist.",
     "trailer": "https://www.youtube.com/watch?v=oFQel_8SZ6M",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716098": {
     "cinemaId": "580",
@@ -2715,9 +2682,9 @@
     "img": "https://media.kinoheld.de/nSpBX6cxqld0wcA7cV2VAhIpvnQ=/400x560/images%2Ffilm%2F4%2Fpaddington-2-7872.v11.jpg",
     "description": "Der liebenswerte Bär Paddington mit Schlapphut und Dufflecoat hat nicht nur bei Familie Brown ein Zuhause gefunden, er ist auch in der Nachbarschaft ein geschätztes Mitglied: Höflich, zuvorkommend und immer fröhlich - außerdem lieben alle seine Marmeladenbrote, ohne die er nie das Haus verlässt. Als der 100. Geburtstag von Tante Lucy ansteht, sucht Paddington nach einem geeigneten Geschenk. Fündig wird er im Antiquitäten-Laden des liebenswerten Mr. Gruber, das allerlei Schätze birgt: Ein einzigartiges Pop-up-Bilderbuch hat es Paddington angetan. Allerdings muss der kleine, tollpatschige Bär dafür ein paar Nebenjobs antreten - das Chaos ist vorprogrammiert. Und dann wird das Buch auch noch gestohlen! Paddington und die Browns setzen sich auf die Spuren des Diebs, der ein Meister der Verkleidung zu sein scheint... (Quelle: Verleih)",
     "trailer": "https://www.youtube.com/watch?v=tRsQHTg7IQs",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716099": {
     "cinemaId": "580",
@@ -2733,9 +2700,9 @@
     "img": "https://media.kinoheld.de/MYKGQ7l9udrQMNvXhCQAKhu5gDI=/400x560/images%2Ffilm%2Fwo-in-paris-die-sonne-aufgeht-21562.v2.png",
     "description": "Drei Mädchen und ein Junge in Paris, die Freunde sind, manchmal Liebhaber und oft beides: Émilie (Lucie Zhang) hat ihr Studium an einer Elite-Universität absolviert, arbeitet nun in billigen Gelegenheitsjobs und hat schnellen Sex, während sie von einer Beziehung träumt. Der junge Lehrer Camille (Makita Samba) verfolgt berufliche Ziele, die manche als Illusionen bezeichnen, glaubt andererseits aber nicht an eine erfüllende, liebevolle Beziehung und setzt auf unkomplizierten Sex. Nora (Noémie Merlant) ist nach Paris gezogen, weil sie hier ihr Jura-Studium wieder aufnehmen will, obwohl sie Anfang 30 ist. Louise (Jehnny Beth) nennt sich im Internet Amber, sie bietet dort erotische Dienstleistungen an.",
     "trailer": "https://www.youtube.com/watch?v=MdCtlYq5UOs",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716100": {
     "cinemaId": "580",
@@ -2751,9 +2718,9 @@
     "img": "https://media.kinoheld.de/WsBqwiaN9J24wqRJclAcKQSfMbk=/400x560/images%2Ffilm%2Fhouse-of-gucci-20470.v2.png",
     "description": "Es war ein Fall der nicht nur die Modewelt in Aufruhr versetzte: Die Ermordung des Gucci-Erben Maurizio Gucci (Adam Driver) sorgt 1995 für Schlagzeilen. Schnell scheint die Polizei eine Verdächtige ins Visier zu nehmen, die auf das Opfer nicht gut zu sprechen war. Maurizios Ex-Frau Patrizia Reggiani (Lady Gaga) wird des Mordes beschuldigt. Während sie sich mit allen Mitteln gegen die Vorwürfe wehrt und auf ihrer Unschuld beharrt, kommen jedoch immer neue Details ans Tageslicht. Eine geheime Affäre ihres Mannes, die Gier nach Rache und die finanzielle Abhängigkeit formen ein Bild von Patrizia, das in der Öffentlichkeit für Aufsehen sorgt. Es kommt zu einem Prozess, an dessen Ende die Wahrheit ans Tageslicht kommt: Sie heuerte einen Profikiller an, um ihren Mann zu ermorden.\r\n\r\nBasiert auf wahren Begebenheiten.",
     "trailer": "https://www.youtube.com/watch?v=SJ8U0hi-EhY",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716145": {
     "cinemaId": "580",
@@ -2769,9 +2736,9 @@
     "img": "https://media.kinoheld.de/wk26ddyQOyod9UMQuWJbqV8kSGc=/400x560/images%2Ffilm%2Fbiene-maja-das-geheime-koenigreich-21869.v44.png",
     "description": "Maja und Willi bekommen einen wichtigen Auftrag: Sie sollen ein Ameisenei zu einem weit entfernten Ameisenbau bringen. Doch der Bau ist nicht nur weit entfernt, die beiden Freunde werden auch noch von fiesen Krachkäfern verfolgt, die das Ei stehlen wollen. Maja und Willi nehmen den Auftrag an und erleben ein großes neues Abenteuer.",
     "trailer": "https://www.youtube.com/watch?v=k-lLdzG4onM",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716212": {
     "cinemaId": "580",
@@ -2784,9 +2751,9 @@
     "timestamp": 1655337600000,
     "time": "18:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716212?layout=shows",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716146": {
     "cinemaId": "580",
@@ -2802,9 +2769,9 @@
     "img": "https://media.kinoheld.de/tAYkSmcz319sqYkeHPDMmQqFFC8=/400x560/images%2Ffilm%2Flamb-20290.v1.jpg",
     "description": "Maria (Noomi Rapace) und Ingvar (Hilmir Snær Guðnason) arbeiten als Schafzüchter und hegen schon lange den Wunsch, endlich auch Nachwuchs in den eigenen vier Wänden zu haben. Dieser Wunsch wird ihnen zur Weihnachtszeit auf denkbar ungewöhnlichste Weise erfüllt, denn sie entdecken ein mysteriöses Neugeborenes auf ihrem Bauernhof in Island. Das Kind ist zur Hälfte Schaf und zur Hälfte Mensch. Obwohl die Situation erst einmal einige Irritationen hervorruft, ist die Freude schließlich groß, mit ihrem kleinen Menschen-Lamm endlich eine eigene, kleine Familie gründen zu können. Nach und nach aber spült die Aufzucht der Kreatur immer mehr Probleme an die Oberfläche und scheint Maria und Ingvar langsam zu zerstören.",
     "trailer": "https://www.youtube.com/watch?v=ruBcCq3YNMs",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716147": {
     "cinemaId": "580",
@@ -2817,12 +2784,12 @@
     "timestamp": 1655424000000,
     "time": "16:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716147?layout=shows",
-    "img": "https://media.kinoheld.de/NLXWdW_fPu6qi8qxquV0BaJKA5E=/400x560/images%2Ffilm%2Fgeschichten-vom-franz-21881.v5.jpg",
+    "img": "https://media.kinoheld.de/Uh5tviudvogC9Ht6ULuPZGFpCLY=/400x560/images%2Ffilm%2Fgeschichten-vom-franz-21881.v7.jpg",
     "description": "Als der Franz  den Influencer Hank Haberer entdeckt, sind seine zwei besten Freunde die Gabi  und der Eberhard zunächst skeptisch. Aber der Franz als der ewig Kleinste in der Klasse, mit seiner unberechenbaren Pieps-Stimme, ist für Ratschläge dieser Art sehr zu haben! Denn neben seinem Lehrer Zick Zack , bereitet ihm neuerdings auch die Klassenqueen Elfi  Kopfzerbrechen. Dass der scheinbar einfache Weg doch nicht zum Ziel führt, wird dem Franz spätestens dann klar, als die Gabi plötzlich fort ist. Selbst die Mama und der Papa  sind ratlos, und die Gabi Eltern sowieso. Also machen sich der Franz und der Eberhard - vorbei am Hausschreck Frau Berger - ganz allein auf die abenteuerliche Suche, und das Trio findet am Ende wieder, was sie schon verloren glaubten: die beste Freundschaft, die es geben kann.",
     "trailer": "https://www.youtube.com/watch?v=PrBiQ-SoLZQ",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716148": {
     "cinemaId": "580",
@@ -2838,9 +2805,9 @@
     "img": "https://media.kinoheld.de/MCS4PnQGDZE-ROFJYNEIG7Z4MXc=/400x560/images%2Ffilm%2Fa-hero-die-verlorene-ehre-des-herrn-soltani-21446.v2.jpg",
     "description": "Rahim sitzt wegen einer Schuld, die er nicht zurückzahlen konnte, im Gefängnis. Während eines zweitägigen Urlaubs versucht er, seinen Gläubiger davon zu überzeugen, seine Klage gegen Zahlung eines Teils der Summe zurückzuziehen. Aber die Dinge laufen nicht wie geplant. Ist er wirklich ein Held?",
     "trailer": "https://www.youtube.com/watch?v=SRC6XcHQ628",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716149": {
     "cinemaId": "580",
@@ -2856,9 +2823,9 @@
     "img": "https://media.kinoheld.de/FsrtHJ9QJLzMGSnHvo9aMNzkkwM=/400x560/images%2Ffilm%2Flicorice-pizza-21773.v374.jpg",
     "description": "Im kalifornischen San Fernando Valley entwickelt sich 1973 zwischen Mittzwanzigerin Alana und Teenager Gary eine ungewöhnliche Freundschaft. Doch inmitten des alltäglichen Trubels aus Gelegenheitsjobs und Schauspielkarriere, Freunden und Politik, Vinyl und Super 8 entstehen mit der Zeit auch intensivere Gefühle ...",
     "trailer": "https://www.youtube.com/watch?v=hEc9sRd19ac",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716150": {
     "cinemaId": "580",
@@ -2874,9 +2841,9 @@
     "img": "https://media.kinoheld.de/LwwHRPTw10O9X73ESB5ZAiDZWYQ=/400x560/images%2Ffilm%2Fsing-2-20703.v163.png",
     "description": "Buster und seine neue Besetzung haben sich jetzt vorgenommen, eine neue Show im Crystal Tower Theater im glamourösen Redshore City zu debütieren. Aber ohne Verbindungen müssen er und seine Sänger sich in die Büros von Crystal Entertainment schleichen, die vom skrupellosen Wolfsmogul Jimmy Crystal betrieben werden, wo die Gang die lächerliche Idee entwickelt, die Löwenrock-Legende Clay Calloway in ihrer Show zu besetzen.",
     "trailer": "https://www.youtube.com/watch?v=F1J_MY0m6q4",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716151": {
     "cinemaId": "580",
@@ -2891,9 +2858,9 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716151?layout=shows",
     "img": "https://media.kinoheld.de/T08jJm8CekbNeR-6Mry-0idTSVM=/400x560/images%2Ffilm%2Fpleasure-20357.v2.png",
     "description": "Die 19-jährige Linnéa verlässt ihre schwedische Kleinstadt und zieht nach Los Angeles, um als „Bella Cherry“ der nächste große Pornostar zu werden. Doch der Weg dahin ist steiniger als erwartet. Zwar erhält sie schnell erste Aufträge, aber das Business ist gnadenlos. Bella erkennt, dass sie nur eine Chance hat, wenn sie ausnahmslos alles tut, was von ihr verlangt wird – selbst wenn dies Erniedrigung und Schmerz bedeutet. Doch wie weit kann sie gehen, um ihr Ziel zu erreichen?",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716152": {
     "cinemaId": "580",
@@ -2909,9 +2876,9 @@
     "img": "https://media.kinoheld.de/DrH_PAmVqOlzAqISEwt-yfJoDu8=/400x560/images%2Ffilm%2Frabiye-kurnaz-gegen-george-w-bush-21601.v1.jpg",
     "description": "Murat ist weg. Inhaftiert im US-Gefangenenlager Guantanamo. Rabiye Kurnaz , Bremer Hausfrau und liebende Mutter, versteht die Welt nicht mehr. Geht zur Polizei, informiert Behörden und verzweifelt fast an ihrer Ohnmacht. Bis sie Bernhard Docke findet. Der zurückhaltende, besonnene Menschenrechtsanwalt und die temperamentvolle, türkische Mutter - sie kämpfen nun Seite an Seite für die Freilassung von Murat. Papier ist geduldig, Rabiye ist es nicht. Eigentlich möchte sie nur zurück zur Familie in ihr Reihenhaus und wird doch immer wieder in die Weltgeschichte katapultiert. Sie zieht mit Bernhard bis vor den Supreme Court nach Washington, um gegen George W. Bush zu klagen. Bernhard gibt dabei auf sie acht. Und Rabiye bringt ihn zum Lachen. Mit Herz und Seele. Mit letzter Kraft. Und am Ende geschieht, was niemand mehr für möglich hält.",
     "trailer": "https://www.youtube.com/watch?v=LMltJyiajhM",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716153": {
     "cinemaId": "580",
@@ -2924,9 +2891,9 @@
     "timestamp": 1655596800000,
     "time": "14:00",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716153?layout=shows",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716154": {
     "cinemaId": "580",
@@ -2939,9 +2906,9 @@
     "timestamp": 1655596800000,
     "time": "16:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716154?layout=shows",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716155": {
     "cinemaId": "580",
@@ -2957,9 +2924,9 @@
     "img": "https://media.kinoheld.de/wvkU205s5-i6h46t7W-vqF-4FYU=/400x560/images%2Ffilm%2F4%2Fla-boum-die-fete-7030.v16.jpg",
     "description": "Die 13-jährige Vic Beretton ist gerade erst nach Paris gezogen, aber zum Glück findet sie in Pénélope und deren Schwester Samantha direkt zwei neue Freundinnen. Auch eine andere Sache kommt endlich ins Rollen: Vic, die schon länger darauf aus ist, endlich erste Erfahrungen mit Jungs zu sammeln, lernt Mathieu kennen, der sich allerdings heimlich noch mit einem anderen Mädchen trifft. Vic hat diesen Tiefschlag noch nicht gar nicht verdaut, als herauskommt, dass ihr Vater seine Frau betrügt... (v.f.)",
     "trailer": "https://www.youtube.com/watch?v=7-BOHO8NORM",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716156": {
     "cinemaId": "580",
@@ -2974,9 +2941,9 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716156?layout=shows",
     "img": "https://media.kinoheld.de/JSBCgQF05iKPNk7-ErpKHc5JqGw=/400x560/images%2Ffilm%2Faeiou-das-schnelle-alphabet-der-liebe-22259.v2.jpg",
     "description": "Die 60-jährige Anna (Sophie Rois) ist Schauspielerin, doch ihre glorreichen Tage sind vorbei. Sie lebt allein und ihr Nachbar und Vermieter Michel (Udo Kier) ist ihr einziger Freund und Vertrauter. Das ändert sich erst, als sie widerwillig einen Job als Sprachlehrerin für den 17-jährigen Adrian (Milan Herms) annimmt, ein Waisenkind und Problemfall Obwohl der ihr kürzlich ihre Handtasche geklaut hat, entwickelt sich bald eine Liebesgeschichte zwischen ihnen und die beiden planen, Deutschland hinter sich zu lassen. Gemeinsam wollen sie nach Frankreich reisen, obwohl sie eigentlich überhaupt kein Geld haben.",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716157": {
     "cinemaId": "580",
@@ -2989,9 +2956,9 @@
     "timestamp": 1655683200000,
     "time": "16:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716157?layout=shows",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716158": {
     "cinemaId": "580",
@@ -3006,9 +2973,9 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716158?layout=shows",
     "img": "https://media.kinoheld.de/7Lb93hSr77nWIRxgTm5OvNhv6Kg=/400x560/images%2Ffilm%2Ftove-19631.v2.jpg",
     "description": "Als die junge Künstlerin Tove Jansson 1945 in Helsinki die Mumins erfindet, steckt sie gerade mitten in einer Sinnkrise: Sie führt eine offene Beziehung mit dem linken Politiker Atos und ist wild verliebt in die aufregende Theaterregisseurin Vivica. Toves Vater, ein renommierter Bildhauer, blickt verächtlich auf ihre Arbeit. Und auch sie selbst würde lieber mit moderner Kunst reüssieren. Doch ausgerechnet ihre nebenbei gezeichneten Geschichten von den Trollwesen mit den Knollnasen werden von einer Zeitung in Serie gedruckt – und machen Tove in kurzer Zeit reich und berühmt. Doch ist das schon die Freiheit, nach der sie sich immer gesehnt hat?",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716159": {
     "cinemaId": "580",
@@ -3024,9 +2991,9 @@
     "img": "https://media.kinoheld.de/Q3KtUWyoZazfx3Kosw4NYcY07EM=/400x560/images%2Ffilm%2Fder-schneeleopard-21386.v2.jpg",
     "description": "Naturfotograf Vincent Munier und Schriftsteller Sylvain Tesson suchen einen der letzten Schneeleoparden im tibetischen Hochland. Dokumentarfilm mit berückenden Aufnahmen.",
     "trailer": "https://www.youtube.com/watch?v=ICsmnKHBdws",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716160": {
     "cinemaId": "580",
@@ -3042,9 +3009,9 @@
     "img": "https://media.kinoheld.de/WNsc1I4DCHokYGWffdMljdV8sKg=/400x560/images%2Ffilm%2Fdie-gangster-gang-21356.v4.jpg",
     "description": "Mastermind Mr. Wolf, Safeknacker Mr. Snake, Mr. Shark, der Meister der Verwandlung, Mr. Piranha, der Mann fürs Grobe, und die geniale Hackerin Ms. Tarantula sind die \"Gangster Gang\", die meistgesuchten Verbrecher von allen. Als die fünf Bösewichte nach einem spektakulären Raub gefasst werden, geloben sie inständig Besserung, um dem Gefängnis zu entgehen, und merken bald, dass Gutes tun gar nicht so schlecht ist. Doch dann bedroht ein neuer Schurke die Stadt ... Das neue Animationsabenteuer von DreamWorks DIE GANGSTER GANG basiert auf der erfolgreichen Kinderbuchreihe von Aaron Blabey. Produziert wird das Regiedebüt des 3D-Animators Pierre Perifel (Kung Fu Panda) von Damon Ross (Trolls) und Rebecca Huntley (The Boss Baby). Quelle: upig.de\"",
     "trailer": "https://www.youtube.com/watch?v=nsFkeENinNs",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716161": {
     "cinemaId": "580",
@@ -3060,9 +3027,9 @@
     "img": "https://media.kinoheld.de/K4Cp-0GTi1JwYiauFpGZL32zphY=/400x560/images%2Ffilm%2Fdas-ereignis-21291.v6.jpg",
     "description": "Frankreich, 1963. Anne ist eine begabte Literaturstudentin, die eine vielversprechende Zukunft vor sich hat. Als sie schwanger wird, sieht sie ihre Chancen schwinden, ihr Studium zu beenden und sich aus den Zwängen ihrer sozialen Herkunft befreien zu können. Die Wochen verstreichen, die Abschlussklausuren stehen an. Anne entscheidet, ganz auf sich allein gestellt, zu handeln, auch wenn sie dabei riskiert, ins Gefängnis zu kommen.  DAS EREIGNIS von Regisseurin Audrey Diwan lief 2021 im Wettbewerb der 78. Internationalen Filmfestspiele von Venedig und wurde mit dem Hauptpreis als „Bester Film“ mit dem Goldenen Löwen ausgezeichnet. Ein cineastisches Plädoyer für Aufklärung und weibliche Selbstbestimmung!",
     "trailer": "https://www.youtube.com/watch?v=A_j_IrhRd7U",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716162": {
     "cinemaId": "580",
@@ -3077,10 +3044,10 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716162?layout=shows",
     "img": "https://media.kinoheld.de/mOmJMNvikpxf3k1jahFLcrPQJdc=/400x560/images%2Ffilm%2Fkimi-21332.v21.jpg",
     "description": "Nachdem eine agoraphobische technische Angestellte bei der Überprüfung eines gewöhnlichen Datenstroms aufgezeichnete Beweise für ein Gewaltverbrechen entdeckt hat, versucht sie, die Befehlskette in ihrem Unternehmen zu durchbrechen. Sie stößt auf Widerstand und Bürokratie und erkennt, dass sie das tun muss, wovor sie sich am meisten fürchtet - sie muss ihre Wohnung verlassen, um sich einzumischen.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
-    "available": 0,
+    "trailer": "https://www.youtube.com/watch?v=CW-UikJsEI8",
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716163": {
     "cinemaId": "580",
@@ -3096,9 +3063,9 @@
     "img": "https://media.kinoheld.de/Uuayb0xMsSRwcxjbuzQp4QAsTh4=/400x560/images%2Ffilm%2Ftraeume-sind-wie-wilde-tiger-21226.v10.jpg",
     "description": "Für den zwölfjährigen Ranji aus Mumbai ist Bollywood das Größte: Die bunten Filme der indischen Filmindustrie mit ihren ansteckenden Songs und Tanzchoreographien machen ihn glücklich",
     "trailer": "https://www.youtube.com/watch?v=-uqn5bw6pNg",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716164": {
     "cinemaId": "580",
@@ -3114,9 +3081,9 @@
     "img": "https://media.kinoheld.de/DrH_PAmVqOlzAqISEwt-yfJoDu8=/400x560/images%2Ffilm%2Frabiye-kurnaz-gegen-george-w-bush-21601.v1.jpg",
     "description": "Murat ist weg. Inhaftiert im US-Gefangenenlager Guantanamo. Rabiye Kurnaz , Bremer Hausfrau und liebende Mutter, versteht die Welt nicht mehr. Geht zur Polizei, informiert Behörden und verzweifelt fast an ihrer Ohnmacht. Bis sie Bernhard Docke findet. Der zurückhaltende, besonnene Menschenrechtsanwalt und die temperamentvolle, türkische Mutter - sie kämpfen nun Seite an Seite für die Freilassung von Murat. Papier ist geduldig, Rabiye ist es nicht. Eigentlich möchte sie nur zurück zur Familie in ihr Reihenhaus und wird doch immer wieder in die Weltgeschichte katapultiert. Sie zieht mit Bernhard bis vor den Supreme Court nach Washington, um gegen George W. Bush zu klagen. Bernhard gibt dabei auf sie acht. Und Rabiye bringt ihn zum Lachen. Mit Herz und Seele. Mit letzter Kraft. Und am Ende geschieht, was niemand mehr für möglich hält.",
     "trailer": "https://www.youtube.com/watch?v=LMltJyiajhM",
-    "available": 0,
+    "available": -1,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "hasenheide-716165": {
     "cinemaId": "580",
@@ -3131,7 +3098,168 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716165?layout=shows",
     "img": "https://media.kinoheld.de/OtcvT14tFvOPm0PN2x8h2L8V4Nw=/400x560/images%2Ffilm%2Ftitane-19684.v16.jpg",
     "description": "Als kleines Mädchen erhält Alexia nach einem Autounfall eine Titanplatte in den Schädel transplantiert. Die Narben über dem rechten Ohr lassen sich zwar durch ihr nachwachsendes Haar kaschieren, doch schon bald entwickelt sie eine körperliche Zuneigung zu Fahrzeugen. Bereits als sie aus dem Krankenhaus entlassen wird, würdigt sie ihre Eltern keines Blickes. Stattdessen läuft sie auf den Unfallwagen zu, umarmt und liebkost diesen. Jahrzehnte später im Erwachsenenalter arbeitet Alexia als erotische Tänzerin bei einer Auto-Show und sie tötet Menschen, die ihr im Wege sind oder ihr zu nahe kommen ...",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://www.youtube.com/watch?v=nKXXUe0YCWw",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
+  "fmp-2585506788": {
+    "cinemaId": "1657",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
+    "cinemaName": "b-ware-openair-fmp",
+    "cinemaShortName": "fmp",
+    "id": "fmp-2585506788",
+    "title": "COME ON, COME ON (subtitled OV / en)",
+    "date": "Fr., 27.5.",
+    "timestamp": 1653609600000,
+    "time": "21:30",
+    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2585506788?layout=shows",
+    "img": "https://media.kinoheld.de/aSpJiTabDRC16J_8ksz8jxeHRtA=/400x560/images%2Ffilm%2Fcome-on-come-on-21505.v2.png",
+    "description": "Ein Radiojournalist auf Interviewreise muss sich um seinen kleinen Neffen kümmern und wächst an dieser Aufgabe. Das in ausdrucksstarke Schwarz-Weiß-Bilder getauchte, famos gespielte Roadmovie spürt auf kluge, meditative Weise den Befindlichkeiten von Kindern und Erwachsenen nach.",
+    "trailer": "https://www.youtube.com/watch?v=evQCPabMru4",
+    "available": 0,
+    "reserved": 0,
+    "bookable": false
+  },
+  "fmp-2585506796": {
+    "cinemaId": "1657",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
+    "cinemaName": "b-ware-openair-fmp",
+    "cinemaShortName": "fmp",
+    "id": "fmp-2585506796",
+    "title": "PLEASURE (subtitled OV)",
+    "date": "Sa., 28.5.",
+    "timestamp": 1653696000000,
+    "time": "21:30",
+    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2585506796?layout=shows",
+    "img": "https://media.kinoheld.de/T08jJm8CekbNeR-6Mry-0idTSVM=/400x560/images%2Ffilm%2Fpleasure-20357.v2.png",
+    "description": "Die 19-jährige Linnéa verlässt ihre schwedische Kleinstadt und zieht nach Los Angeles, um als „Bella Cherry“ der nächste große Pornostar zu werden. Doch der Weg dahin ist steiniger als erwartet. Zwar erhält sie schnell erste Aufträge, aber das Business ist gnadenlos. Bella erkennt, dass sie nur eine Chance hat, wenn sie ausnahmslos alles tut, was von ihr verlangt wird – selbst wenn dies Erniedrigung und Schmerz bedeutet. Doch wie weit kann sie gehen, um ihr Ziel zu erreichen?",
+    "available": 0,
+    "reserved": 0,
+    "bookable": false
+  },
+  "fmp-2585506804": {
+    "cinemaId": "1657",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
+    "cinemaName": "b-ware-openair-fmp",
+    "cinemaShortName": "fmp",
+    "id": "fmp-2585506804",
+    "title": "DER WALDMACHER ",
+    "date": "Di., 31.5.",
+    "timestamp": 1653955200000,
+    "time": "21:30",
+    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2585506804?layout=shows",
+    "img": "https://media.kinoheld.de/ZfeIiLM1gHrLX1HU4-Ac9Lm-hj4=/400x560/images%2Ffilm%2Fder-waldmacher-21445.v19.jpg",
+    "description": "1981 kommt der Australier Tony Rinaudo als junger Agrarwissenschaftler in den Niger, um die wachsende Ausbreitung der Wüsten und das Elend der Bevölkerung zu bekämpfen. Radikale Rodungen haben das Land veröden lassen und einst fruchtbare Böden ausgelaugt. Doch Rinaudos Versuche die Wüste durch das Pflanzen von Bäumen aufzuhalten scheitern und nahezu alle seine Setzlinge gehen wieder ein. Dann bemerkt er unter dem vermeintlich toten Boden ein gewaltiges Wurzelnetzwerk – eine Entdeckung, die eine beispiellose Begrünungsaktion zur Folge hat und unzähligen Menschen neue Hoffnung schenkt.  In beeindruckenden Bildern lässt Volker Schlöndorff die Zuschauer daran teilhaben, wie dank der Passion eines Mannes eine ganze Region wieder aufblüht.  Tony Rinaudo wurde 2018 für sein Engagement mit dem Alternativen Nobelpreis geehrt.",
+    "trailer": "https://www.youtube.com/watch?v=yR-V0yD0FQo",
+    "available": 0,
+    "reserved": 0,
+    "bookable": false
+  },
+  "fmp-2585506812": {
+    "cinemaId": "1657",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
+    "cinemaName": "b-ware-openair-fmp",
+    "cinemaShortName": "fmp",
+    "id": "fmp-2585506812",
+    "title": "PARALLELE MÜTTER (subtitled OV)",
+    "date": "Mi., 1.6.,",
+    "timestamp": 1654041600000,
+    "time": "21:30",
+    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2585506812?layout=shows",
+    "img": "https://media.kinoheld.de/A-xxGuNoBz_e4hRWW-Mtb9P86LE=/400x560/images%2Ffilm%2Fparallele-muetter-20270.v2.png",
+    "description": "Janis (Penélope Cruz) und Ana (Milena Smit) treffen in einem Krankenhauszimmer aufeinander, wo sie bald entbinden werden. Beide sind alleinstehend und wurden zufällig schwanger. Janis, im mittleren Alter, bereut es nicht und ist überglücklich. Ana hingegen ist verängstigt, reumütig und traumatisiert. Janis versucht, sie zu ermutigen, während sie wie Schlafwandler durch die Krankenhausflure wandern. Die wenigen Worte, die sie in diesen Stunden austauschen, schaffen eine sehr enge Verbindung zwischen den beiden, die sich zufällig entwickelt und verkompliziert und ihr Leben auf entscheidende Weise verändert.",
+    "trailer": "https://www.youtube.com/watch?v=DpXQB5tp2yo",
+    "available": 0,
+    "reserved": 0,
+    "bookable": false
+  },
+  "fmp-2585511403": {
+    "cinemaId": "1657",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
+    "cinemaName": "b-ware-openair-fmp",
+    "cinemaShortName": "fmp",
+    "id": "fmp-2585511403",
+    "title": "MEMORIA (subtitled OV / en)",
+    "date": "Do., 2.6.,",
+    "timestamp": 1654128000000,
+    "time": "21:45",
+    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2585511403?layout=shows",
+    "img": "https://media.kinoheld.de/nNVrYI1r2c9KaveRNT8fKiNVgBg=/400x560/images%2Ffilm%2Fmemoria-21989.v4.jpg",
+    "description": "Jessica Holland (Tilda Swinton) hört einen Knall. Immer wieder ertönt der dumpfe, tiefe Schlag und sie weiß einfach nicht, woher das kommen kann. Die Schottin, die gerade durch Kolumbien reist, um auch ihre Schwester zu besuchen, beginnt sich nach dem Ursprung dieses Knalls zu machen. Sie fragt zunächst einen Toningenieur, der ihr dabei helfen soll, das Geräusch zu reproduzieren. Doch selbst danach hört das Ereignis nicht auf. Jessica beginnt sich dem wiederkehrenden Phänomen hinzugeben und versucht sich auch die Gestalt und den Ursprung der Klänge vorzustellen. Damit driftet die immer stärker aus dem Alltag heraus, aus der Stadt aufs Land und dann in den Dschungel, in dem sie zwei außergewöhnliche Begegnungen erwarten. \r\nNiemand steht im modernen Autorenkino so sehr für traumwandlerische Bilderwelten wie der mehrfach ausgezeichnete und gefeierte thailändische Regisseur und Künstler Apichatpong Weerasethakul.",
+    "trailer": "https://www.youtube.com/watch?v=9zYdjku0yqA",
+    "available": 0,
+    "reserved": 0,
+    "bookable": false
+  },
+  "fmp-2585511411": {
+    "cinemaId": "1657",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
+    "cinemaName": "b-ware-openair-fmp",
+    "cinemaShortName": "fmp",
+    "id": "fmp-2585511411",
+    "title": "DER SCHNEELEOPARD (subtitled OV)",
+    "date": "Di., 7.6.,",
+    "timestamp": 1654560000000,
+    "time": "21:45",
+    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2585511411?layout=shows",
+    "img": "https://media.kinoheld.de/Q3KtUWyoZazfx3Kosw4NYcY07EM=/400x560/images%2Ffilm%2Fder-schneeleopard-21386.v2.jpg",
+    "description": "Naturfotograf Vincent Munier und Schriftsteller Sylvain Tesson suchen einen der letzten Schneeleoparden im tibetischen Hochland. Dokumentarfilm mit berückenden Aufnahmen.",
+    "trailer": "https://www.youtube.com/watch?v=ICsmnKHBdws",
+    "available": 0,
+    "reserved": 0,
+    "bookable": false
+  },
+  "fmp-2585511419": {
+    "cinemaId": "1657",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
+    "cinemaName": "b-ware-openair-fmp",
+    "cinemaShortName": "fmp",
+    "id": "fmp-2585511419",
+    "title": "A HERO - DIE VERLORENE EHRE DES HERRN SOLTANI ",
+    "date": "Mi., 8.6.,",
+    "timestamp": 1654646400000,
+    "time": "21:45",
+    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2585511419?layout=shows",
+    "img": "https://media.kinoheld.de/MCS4PnQGDZE-ROFJYNEIG7Z4MXc=/400x560/images%2Ffilm%2Fa-hero-die-verlorene-ehre-des-herrn-soltani-21446.v2.jpg",
+    "description": "Rahim sitzt wegen einer Schuld, die er nicht zurückzahlen konnte, im Gefängnis. Während eines zweitägigen Urlaubs versucht er, seinen Gläubiger davon zu überzeugen, seine Klage gegen Zahlung eines Teils der Summe zurückzuziehen. Aber die Dinge laufen nicht wie geplant. Ist er wirklich ein Held?",
+    "trailer": "https://www.youtube.com/watch?v=SRC6XcHQ628",
+    "available": 0,
+    "reserved": 0,
+    "bookable": false
+  },
+  "fmp-2585514850": {
+    "cinemaId": "1657",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
+    "cinemaName": "b-ware-openair-fmp",
+    "cinemaShortName": "fmp",
+    "id": "fmp-2585514850",
+    "title": "WO IN PARIS DIE SONNE AUFGEHT (subtitled OV)",
+    "date": "Fr., 10.6.",
+    "timestamp": 1654819200000,
+    "time": "21:45",
+    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2585514850?layout=shows",
+    "img": "https://media.kinoheld.de/MYKGQ7l9udrQMNvXhCQAKhu5gDI=/400x560/images%2Ffilm%2Fwo-in-paris-die-sonne-aufgeht-21562.v2.png",
+    "description": "Drei Mädchen und ein Junge in Paris, die Freunde sind, manchmal Liebhaber und oft beides: Émilie (Lucie Zhang) hat ihr Studium an einer Elite-Universität absolviert, arbeitet nun in billigen Gelegenheitsjobs und hat schnellen Sex, während sie von einer Beziehung träumt. Der junge Lehrer Camille (Makita Samba) verfolgt berufliche Ziele, die manche als Illusionen bezeichnen, glaubt andererseits aber nicht an eine erfüllende, liebevolle Beziehung und setzt auf unkomplizierten Sex. Nora (Noémie Merlant) ist nach Paris gezogen, weil sie hier ihr Jura-Studium wieder aufnehmen will, obwohl sie Anfang 30 ist. Louise (Jehnny Beth) nennt sich im Internet Amber, sie bietet dort erotische Dienstleistungen an.",
+    "trailer": "https://www.youtube.com/watch?v=MdCtlYq5UOs",
+    "available": 0,
+    "reserved": 0,
+    "bookable": false
+  },
+  "fmp-2585514858": {
+    "cinemaId": "1657",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
+    "cinemaName": "b-ware-openair-fmp",
+    "cinemaShortName": "fmp",
+    "id": "fmp-2585514858",
+    "title": "JONAS DEICHMANN - DAS LIMIT BIN NUR ICH ",
+    "date": "Di., 14.6.",
+    "timestamp": 1655164800000,
+    "time": "21:45",
+    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2585514858?layout=shows",
+    "img": "https://media.kinoheld.de/_WoH1Mt0mbXXnol-xHQ9dZ1BTFw=/400x560/images%2Ffilm%2Fjonas-deichmann-das-limit-bin-nur-ich-22121.v4.jpg",
+    "description": "Wenn man Jonas Deichmann eine Berufsbeschreibung geben müsste, dann wäre „Abenteurer“ wohl die treffendste Bezeichnung. Er ist Weltrekordhalter und Extremsportler und hat sich für sein neuestes Vorhaben von Markus Weinberg mit der Kamera begleiten lassen. Der Plan: Jonas will den längsten Triathlon aller Zeiten absolvieren, der ihn einmal um den Globus bringen soll. Von München soll es wieder nach München gehen und das sowohl laufend, schwimmend und auf dem Rad. Die Reise beginnt turbulent und chaotisch mitten während der Corona-Pandemie. Quasi über Nacht werden vorab geplante Reiserouten unpassierbar. So werden vormals problemlose Grenzübertritte zu einem komplizierten Unterfangen. Doch es gibt auch Lichtblicke: Während seiner gut 14 Monate andauernden Reise wird der „verrückte Deutsche“ für die Menschen zu einem Phänomen, der ihnen in dunklen Zeiten wieder Hoffnung gibt.",
+    "trailer": "https://www.youtube.com/watch?v=D1nLajor-qA",
     "available": 0,
     "reserved": 0,
     "bookable": false
@@ -3186,8 +3314,8 @@
     "img": "https://media.kinoheld.de/k11C0JarD5UITKM-jlXRzEOgTAE=/400x560/images%2Ffilm%2F3%2Fcall-me-by-your-name-8826.v4.jpg",
     "description": "Mit seinem neuen Film CALL ME BY YOUR NAME bringt Luca Guadagnino eine sinnlich-transzendentale Geschichte über die erste Liebe auf die große Leinwand, basierend auf André Acimans gefeiertem Roman. Der altkluge 17-Jährige Elio Perlman (Timothée Chalamet) genießt den norditalienischen Sommer des Jahres 1983 auf der im 17. Jahrhundert errichteten Villa der Familie. Seine Zeit verbringt der italoamerikanische Junge damit, klassische Musik zu spielen und zu transkribieren, zu lesen und mit seiner Freundin Marzia (Esther Garrel) zu flirten. Mit seinen Eltern ist Elio eng verbunden. Sein Vater (Michael Stuhlbarg), ein angesehener Professor, hat sich auf die griechisch-römische Kultur spezialisiert. Elios Mutter Annella (Amira Casar) arbeitet als Übersetzerin. Gemeinsam bringen sie ihrem Sohn die Errungenschaften der Hochkultur nahe und bereiten ihm ein sorgenfreies Leben mit allen Vorzügen. Dank seiner Weltklugheit und seiner intellektuellen Begabungen wirkt der Junge nach außen bereits wie ein Erwachsener, doch dem Anschein entgegen ist Elio in mancherlei Hinsicht durchaus noch sehr unerfahren - besonders in Herzensangelegenheiten. Eines Tages trifft der charmante amerikanische Doktorand Oliver (Armie Hammer) als neuer Sommer-Praktikant von Elios Vater auf der Villa ein. Inmitten jener prächtigen, sonnengetränkten Szenerie entdecken Elio und Oliver die berauschende Schönheit aufblühenden Verlangens im Verlauf eines Sommers, der ihre Leben für immer verändern wird. (Quelle: Verleih)",
     "trailer": "https://www.youtube.com/watch?v=sBVbtKqn61w",
-    "available": 66,
-    "reserved": 4,
+    "available": 62,
+    "reserved": 8,
     "bookable": true
   },
   "central-2584355531": {
