@@ -17,6 +17,9 @@ const cinemas = {
   yorck: {
     "sommerkino-kulturforum": ["sommerkino-kulturforum", "kulturforum"],
     "sommerkino-charlottenburg": ["sommerkino-schloss-charlottenburg", "schloss-charlottenburg"],
+  },
+  cinetixx: {
+    2527240812: ["Freiluftbühne Weißensee", "weissensee"],
   }
 };
 
@@ -34,7 +37,10 @@ const cinemas = {
     console.log(name);
     showsByCinema[name] = await getYorckCinema(id, name, shortName);
   }
-  showsByCinema["weissensee"] = await getFreiluftWeissensee("weissensee");
+  for (let [id, [name, shortName]] of Object.entries(cinemas.cinetixx)) {
+    console.log(name);
+    showsByCinema[name] = await getCinetixxCinema(id, name, shortName);
+  }
   await writeFile("docs/showsByCinema.json", JSON.stringify(showsByCinema, null, 2));
   console.log("wrote docs/showsByCinema.json");
   const shows = Object.values(showsByCinema).flat().reduce((xs, x) => Object.assign(xs, {[x.id]: x}), {});
@@ -43,46 +49,48 @@ const cinemas = {
   window.close(0);
 })();
 
-async function getFreiluftWeissensee(cinemaShortName) {
-  const cinemaUrl = "https://freilichtbuehne-weissensee.de/events/categories/film/"
-  const document = await getDocument(cinemaUrl);
-  const shows = [];
-  for (const a of [...document.querySelectorAll(".event-image a")]) {
-    const document = await getDocument(a.href);
-    const jsonTags = document.querySelectorAll("script[type='application/ld+json']")
-    const event = JSON.parse(jsonTags[0].innerHTML);
-    const movie = JSON.parse(jsonTags[1].innerHTML);
 
-    const date = new Date(event.startDate.split("+")[0]+"+00:00")
-    const trailer = document.querySelector("iframe[src*=youtube]")?.src;
-    const description = document.querySelector(".content_single").innerText;
-    const showId = document.querySelector("#cinetixxFrame")?.src.split("/").slice(-1)[0];
-    const sectors = await fetch(`https://booking.cinetixx.de/api/shows/${showId}/sectors`)
-      .then(r => r.json());
-    let available = 0, reserved = 0;
-    for (const sector of sectors) {
-      const data = await fetch(`https://booking.cinetixx.de/api/shows/${showId}/sector/${sector.id}`)
-        .then(r => r.json())
-      available += data.seatCountFree;
-      reserved += data.seatCountTotal - data.seatCountFree;
+async function getCinetixxCinema(cinemaId, cinemaName, cinemaShortName) {
+  const cinemaUrl = "https://booking.cinetixx.de/frontend/#/program/" + cinemaId
+  const document = await getDocument("https://booking.cinetixx.de/Program?cinemaId=" + cinemaId);
+  const shows = [];
+  for (const el of document.querySelectorAll(".row.event")) {
+    const isNonMovie = el.querySelector(".details").innerHTML.includes("Verleih: -Keine Angabe-");
+    if (isNonMovie) continue;
+    for (const showTime of [...el.querySelectorAll(".date-picker-table span[ui-sref]")]) {
+      const showId = showTime.getAttribute("ui-sref").match(/showId: (\d+)/)[1]
+      const show = await fetch(`https://booking.cinetixx.de/api/shows/${showId}/`)
+        .then(r => r.json());
+      const date = new Date(show.displayDateTime+"+00:00");
+      const sectors = await fetch(`https://booking.cinetixx.de/api/shows/${showId}/sectors`)
+        .then(r => r.json());
+      let available = 0, reserved = 0;
+      for (const sector of sectors) {
+        const data = await fetch(`https://booking.cinetixx.de/api/shows/${showId}/sector/${sector.id}`)
+          .then(r => r.json())
+        available += data.seatCountFree;
+        reserved += data.seatCountTotal - data.seatCountFree;
+      }
+
+      shows.push({
+        cinemaId,
+        cinemaUrl,
+        cinemaName,
+        cinemaShortName,
+        id: cinemaShortName + "-" + date.getTime(),
+        url: show._UrlBooking,
+        date: formatDate(date),
+        timestamp: date.getTime(),
+        time: `${date.getUTCHours()}:${date.getUTCMinutes()}`,
+        title: show.showName,
+        img: el.querySelector("img").src,
+        description: el.querySelector(".movie-details div").innerText.trim(),
+        trailer: el.querySelector("trailer-button")?.getAttribute("trailer-url").slice(1, -1),
+        available,
+        reserved,
+        bookable: available > 0,
+      });
     }
-    shows.push({
-      cinemaId: "freilichtbuehne-weissensee",
-      cinemaUrl,
-      cinemaName: "Freilichtbühne Weissensee",
-      cinemaShortName,
-      id: cinemaShortName + "-" + date.getTime(),
-      url: a.href,
-      title: movie.name,
-      img: movie.image,
-      date: formatDate(date),
-      timestamp: date.getTime(),
-      time: `${date.getUTCHours()}:${date.getUTCMinutes()}`,
-      description,
-      available,
-      reserved,
-      bookable: available > 0,
-    });
   }
   return shows;
 }
