@@ -15,8 +15,8 @@ const cinemas = {
     3033: ["mobile-kino-berlin", "mobile kino"],
   },
   yorck: {
-    "54eefd0b683138488b190000": ["sommerkino-kulturforum", "kulturforum"],
-    "60a3b5ed61444058ac0797a2": ["sommerkino-schloss-charlottenburg", "schloss-charlottenburg"],
+    "sommerkino-kulturforum": ["sommerkino-kulturforum", "kulturforum"],
+    "sommerkino-charlottenburg": ["sommerkino-schloss-charlottenburg", "schloss-charlottenburg"],
   }
 };
 
@@ -30,10 +30,10 @@ const cinemas = {
     console.log(name);
     showsByCinema[name] = await getKinoheldCinema(id, name, shortName);
   }
-  // for (let [id, [name, shortName]] of Object.entries(cinemas.yorck)) {
-  //   console.log(name);
-  //   showsByCinema[name] = await getYorckCinema(id, name, shortName);
-  // }
+  for (let [id, [name, shortName]] of Object.entries(cinemas.yorck)) {
+    console.log(name);
+    showsByCinema[name] = await getYorckCinema(id, name, shortName);
+  }
   await writeFile("docs/showsByCinema.json", JSON.stringify(showsByCinema, null, 2));
   console.log("wrote docs/showsByCinema.json");
   const shows = Object.values(showsByCinema).flat().reduce((xs, x) => Object.assign(xs, {[x.id]: x}), {});
@@ -83,48 +83,49 @@ async function getKinoheldCinema(cinemaId, cinemaName, cinemaShortName) {
   }));
 }
 
-// TODO: yorck seems to have changed their setup - the below 404s even for cinemas that are
-// currently active. This url works though: https://www.yorck.de/_next/data/azhPNziceUkr-3ZSLp23q/en/films.json
 async function getYorckCinema(cinemaId, cinemaName, cinemaShortName) {
-  const result = await fetch(`https://yorck.de/shows/foobar/movies.js?cinemaid=${cinemaId}`).then(r => r.text());
-  const div = document.createElement("div");
-  div.innerHTML = result.match(/.replaceWith\("(.*)"\);\n/)[1].replaceAll("\\", "");
-  const movies = await Promise.all([...div.querySelectorAll(".cinema-program .movie-info")].map(async (el) => {
-    const url = `https://yorck.de${el.querySelector(".movie-details a").getAttribute("href")}`;
-    const d = await getDocument(url);
-    return {
-      title: el.querySelector(".movie-details h3").innerText.trim(),
-      img: d.querySelector(".movie-poster img ").src,
-      description: d.querySelector(".movie-description-text").innerText.trim(),
-      trailer: d.querySelector(".trailer-play-button")?.href,
-    };
-  }));
-  const movieMap = movies.reduce((xs, x) => Object.assign(xs, {[x.title.toLowerCase()]: x}), {});
-  return Promise.all([...div.querySelectorAll(".cinema-program .ticket-link")].map(async (el) => {
-    const url = `https://yorck.de${el.getAttribute("href")}`;
-    const time = el.innerText.replace(/[^\d:]/g, "").trim();
-    const [day, month] = el.closest(".show-times-column").querySelector(".program-header span").innerText.trim().split(".");
-    const date = new Date(`${new Date().getFullYear()}-${month}-${day} ${time} UTC`);
-    const id = cinemaShortName + "-" + url.match(/showid=(\d+)/)[1];
-    const d = await getDocument(url);
-    const facts = [...d.querySelectorAll(".facts .row .p-big")];
-    const title = facts[0].innerText.trim().replace(/\s+/mg, " ").replace("OmU", "(OmU)");
-    return Object.assign({}, movieMap[title.toLowerCase().replace(/\(.*\)/g, "").trim()], {
-      cinemaId,
-      cinemaUrl: `https://yorck.de/kinos/${cinemaName}`,
-      cinemaName,
-      cinemaShortName,
-      id,
-      title,
-      url,
-      time,
-      date: formatDate(date),
-      timestamp: date.getTime(),
-      available: d.querySelectorAll(".seats-room .seat:not(.taken)").length,
-      reserved: d.querySelectorAll(".seats-room .seat.taken").length,
-      bookable: !!d.querySelectorAll(".seats-room .seat:not(.taken)").length,
+  const cinemaUrl = "https://www.yorck.de/kinos/" + cinemaId;
+  const document = await getDocument(cinemaUrl);
+  const data = JSON.parse(document.querySelector("#__NEXT_DATA__").innerHTML);
+
+  const shows = data.props.pageProps.filmsSpecials.flatMap(fs => {
+    if (fs.fields.title === "Sommerkino 2022") {
+      return [];
+    }
+    return fs.fields.sessions.map(s => {
+      const date = new Date(s.fields.startTime.split("+")[0]+"+00:00");
+      return {
+        cinemaId,
+        cinemaUrl,
+        cinemaName,
+        cinemaShortName,
+        id: cinemaShortName + "-" + date.getTime(),
+        title: fs.fields.title,
+        date: formatDate(date),
+        timestamp: date.getTime(),
+        time: `${date.getUTCHours()}:${date.getUTCMinutes()}`,
+        url: "https://www.yorck.de/filme/" + fs.fields.slug,
+      };
     });
-  }));
+  });
+
+  const movies = {};
+  for (const show of shows) {
+    if (!movies[show.url]) {
+      const document = await getDocument(show.url);
+      const data = JSON.parse(document.querySelector("#__NEXT_DATA__").innerHTML);
+      const filmData = JSON.parse(data.props.pageProps.filmDecyled);
+      const trailerYouTubeId = filmData.fields.trailer1YouTubeId;
+      movies[show.url] = {
+        description: filmData.fields.synopsis,
+        img: filmData.fields.poster?.fields.file.url,
+        trailer: trailerYouTubeId && "https://www.youtube.com/watch?v=" + trailerYouTubeId,
+        bookable: true,
+      };
+    }
+    Object.assign(show, movies[show.url]);
+  }
+  return shows;
 }
 
 async function getKinoTicketsOnlineCinema(cinemaId, cinemaName, cinemaShortName, cinemaIndexUrl) {
