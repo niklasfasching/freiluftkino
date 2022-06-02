@@ -34,6 +34,7 @@ const cinemas = {
     console.log(name);
     showsByCinema[name] = await getYorckCinema(id, name, shortName);
   }
+  showsByCinema["weissensee"] = await getFreiluftWeissensee("weissensee");
   await writeFile("docs/showsByCinema.json", JSON.stringify(showsByCinema, null, 2));
   console.log("wrote docs/showsByCinema.json");
   const shows = Object.values(showsByCinema).flat().reduce((xs, x) => Object.assign(xs, {[x.id]: x}), {});
@@ -41,6 +42,50 @@ const cinemas = {
   console.log("wrote docs/shows.json");
   window.close(0);
 })();
+
+async function getFreiluftWeissensee(cinemaShortName) {
+  const cinemaUrl = "https://freilichtbuehne-weissensee.de/events/categories/film/"
+  const document = await getDocument(cinemaUrl);
+  const shows = [];
+  for (const a of [...document.querySelectorAll(".event-image a")]) {
+    const document = await getDocument(a.href);
+    const jsonTags = document.querySelectorAll("script[type='application/ld+json']")
+    const event = JSON.parse(jsonTags[0].innerHTML);
+    const movie = JSON.parse(jsonTags[1].innerHTML);
+
+    const date = new Date(event.startDate.split("+")[0]+"+00:00")
+    const trailer = document.querySelector("iframe[src*=youtube]")?.src;
+    const description = document.querySelector(".content_single").innerText;
+    const showId = document.querySelector("#cinetixxFrame")?.src.split("/").slice(-1)[0];
+    const sectors = await fetch(`https://booking.cinetixx.de/api/shows/${showId}/sectors`)
+      .then(r => r.json());
+    let available = 0, reserved = 0;
+    for (const sector of sectors) {
+      const data = await fetch(`https://booking.cinetixx.de/api/shows/${showId}/sector/${sector.id}`)
+        .then(r => r.json())
+      available += data.seatCountFree;
+      reserved += data.seatCountTotal - data.seatCountFree;
+    }
+    shows.push({
+      cinemaId: "freilichtbuehne-weissensee",
+      cinemaUrl,
+      cinemaName: "Freilichtbühne Weissensee",
+      cinemaShortName,
+      id: cinemaShortName + "-" + date.getTime(),
+      url: a.href,
+      title: movie.name,
+      img: movie.image,
+      date: formatDate(date),
+      timestamp: date.getTime(),
+      time: `${date.getUTCHours()}:${date.getUTCMinutes()}`,
+      description,
+      available,
+      reserved,
+      bookable: available > 0,
+    });
+  }
+  return shows;
+}
 
 async function getKinoheldCinema(cinemaId, cinemaName, cinemaShortName) {
   const result = await fetch(`https://www.kinoheld.de/ajax/getShowsForCinemas?cinemaIds[]=${cinemaId}`).then(r => r.json());
