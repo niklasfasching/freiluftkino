@@ -167,6 +167,10 @@ async function getYorckCinema(cinemaId, cinemaName, cinemaShortName) {
     if (!movies[show.url]) {
       const document = await getDocument(show.url);
       const data = JSON.parse(document.querySelector("#__NEXT_DATA__").innerHTML);
+      if (!data.props.pageProps.filmDecyled) {
+        console.log(`Skipping ${show.url}: Missing movie info`);
+        continue;
+      }
       const filmData = JSON.parse(data.props.pageProps.filmDecyled);
       const trailerYouTubeId = filmData.fields.trailer1YouTubeId;
       movies[show.url] = {
