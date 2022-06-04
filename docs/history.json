@@ -143671,6 +143671,11 @@
       1653356965000,
       86,
       0
+    ],
+    [
+      1654261593000,
+      84,
+      2
     ]
   ],
   "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2587657883?layout=shows": [
@@ -144352,6 +144357,11 @@
       1654048998000,
       0,
       0
+    ],
+    [
+      1654261593000,
+      -1,
+      0
     ]
   ],
   "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/717370?layout=shows": [
@@ -144359,12 +144369,22 @@
       1654048998000,
       0,
       0
+    ],
+    [
+      1654261593000,
+      -1,
+      0
     ]
   ],
   "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/717371?layout=shows": [
     [
       1654048998000,
       0,
+      0
+    ],
+    [
+      1654261593000,
+      -1,
       0
     ]
   ],
@@ -144828,6 +144848,11 @@
       1654214006000,
       122,
       0
+    ],
+    [
+      1654261593000,
+      118,
+      4
     ]
   ],
   "https://booking.cinetixx.de/frontend/index.html?cinemaId=2527240812&showId=2582180916&bgswitch=false&resize=false": [
@@ -144865,6 +144890,76 @@
     [
       1654214006000,
       100,
+      0
+    ]
+  ],
+  "https://kinotickets-online.com/fh_freiluftkino/sale/seats/814": [
+    [
+      1654261593000,
+      0,
+      0
+    ]
+  ],
+  "https://kinotickets-online.com/fh_freiluftkino/sale/seats/815": [
+    [
+      1654261593000,
+      0,
+      0
+    ]
+  ],
+  "https://kinotickets-online.com/fh_freiluftkino/sale/seats/816": [
+    [
+      1654261593000,
+      0,
+      0
+    ]
+  ],
+  "https://kinotickets-online.com/rb_freiluftkino/sale/seats/752": [
+    [
+      1654261593000,
+      0,
+      0
+    ]
+  ],
+  "https://kinotickets-online.com/rb_freiluftkino/sale/seats/751": [
+    [
+      1654261593000,
+      0,
+      0
+    ]
+  ],
+  "https://kinotickets-online.com/rb_freiluftkino/sale/seats/753": [
+    [
+      1654261593000,
+      0,
+      0
+    ]
+  ],
+  "https://www.yorck.de/filme/nelly-and-nadine": [
+    [
+      1654261593000,
+      0,
+      0
+    ]
+  ],
+  "https://www.yorck.de/filme/letat-et-moi": [
+    [
+      1654261593000,
+      0,
+      0
+    ]
+  ],
+  "https://www.yorck.de/filme/berlinale-goes-open-air": [
+    [
+      1654261593000,
+      0,
+      0
+    ]
+  ],
+  "https://www.yorck.de/filme/axiom": [
+    [
+      1654261593000,
+      0,
       0
     ]
   ]
