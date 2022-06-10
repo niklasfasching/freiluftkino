@@ -99,22 +99,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "fhain-794": {
-    "cinemaId": "fh_freiluftkino",
-    "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
-    "cinemaName": "Freiluftkino Friedrichshain",
-    "cinemaShortName": "fhain",
-    "id": "fhain-794",
-    "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/794",
-    "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=780",
-    "title": "Die wundersame Welt des Louis Wain",
-    "date": "Do., 9.6.,",
-    "timestamp": 1654811100000,
-    "time": "21:45",
-    "available": 0,
-    "reserved": 0,
-    "bookable": true
-  },
   "fhain-797": {
     "cinemaId": "fh_freiluftkino",
     "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
@@ -374,22 +358,6 @@
     "date": "Di., 14.6.",
     "timestamp": 1655243100000,
     "time": "21:45",
-    "available": 0,
-    "reserved": 0,
-    "bookable": true
-  },
-  "xberg-724": {
-    "cinemaId": "kb_freiluftkino",
-    "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
-    "cinemaName": "Freiluftkino Kreuzberg",
-    "cinemaShortName": "xberg",
-    "id": "xberg-724",
-    "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/724",
-    "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=710",
-    "title": "Die wundersame Welt des Louis Wain",
-    "date": "Do., 9.6.,",
-    "timestamp": 1654810200000,
-    "time": "21:30",
     "available": 0,
     "reserved": 0,
     "bookable": true
@@ -1100,23 +1068,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "rehberge-732": {
-    "cinemaId": "rb_freiluftkino",
-    "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
-    "cinemaName": "Freiluftkino Rehberge",
-    "cinemaShortName": "rehberge",
-    "id": "rehberge-732",
-    "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/732",
-    "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=707",
-    "trailer": "https://www.youtube.com/watch?v=OcEKzZeAcsY",
-    "title": "Spencer",
-    "date": "Do., 9.6.,",
-    "timestamp": 1654810200000,
-    "time": "21:30",
-    "available": 0,
-    "reserved": 0,
-    "bookable": true
-  },
   "rehberge-736": {
     "cinemaId": "rb_freiluftkino",
     "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
@@ -1316,60 +1267,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "hasenheide-716080": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-716080",
-    "title": "Geschichten vom Franz ",
-    "date": "Do., 9.6.,",
-    "timestamp": 1654732800000,
-    "time": "16:30",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716080?layout=shows",
-    "img": "https://media.kinoheld.de/cV0wrMgTPWZa0ru5RWMEsGVNRhE=/400x560/images%2Ffilm%2Fgeschichten-vom-franz-21881.v12.jpg",
-    "description": "Als der Franz  den Influencer Hank Haberer entdeckt, sind seine zwei besten Freunde die Gabi  und der Eberhard zunächst skeptisch. Aber der Franz als der ewig Kleinste in der Klasse, mit seiner unberechenbaren Pieps-Stimme, ist für Ratschläge dieser Art sehr zu haben! Denn neben seinem Lehrer Zick Zack , bereitet ihm neuerdings auch die Klassenqueen Elfi  Kopfzerbrechen. Dass der scheinbar einfache Weg doch nicht zum Ziel führt, wird dem Franz spätestens dann klar, als die Gabi plötzlich fort ist. Selbst die Mama und der Papa  sind ratlos, und die Gabi Eltern sowieso. Also machen sich der Franz und der Eberhard - vorbei am Hausschreck Frau Berger - ganz allein auf die abenteuerliche Suche, und das Trio findet am Ende wieder, was sie schon verloren glaubten: die beste Freundschaft, die es geben kann.",
-    "trailer": "https://www.youtube.com/watch?v=PrBiQ-SoLZQ",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
-  "hasenheide-716081": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-716081",
-    "title": "Niemand ist bei den Kälbern ",
-    "date": "Do., 9.6.,",
-    "timestamp": 1654732800000,
-    "time": "18:30",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716081?layout=shows",
-    "img": "https://media.kinoheld.de/tN4DZJfrBGvBMOFcYv6PQoXlcqA=/400x560/images%2Ffilm%2Fniemand-ist-bei-den-kaelbern-20962.v2.png",
-    "description": "Hochsommer in der Mecklenburgischen Provinz. Fu¨nf Häuser, eine Bushaltestelle, Ku¨he und ringsum nichts als Felder. Christin, 24, (Saskia Rosendahl) lebt auf dem Bauernhof ihres langjährigen Freundes Jan, 25 (Rick Okon). Die Aufbruchsstimmung der Nachwendejahre, die ihre Kindheit prägten, ist längst dahin und auch in ihrer Beziehung gibt es schon lange keine Liebe mehr. Ihr Vater säuft. Den Kirsch hat auch Christin immer griffbereit unterm Autositz. Unter der flirrenden Hitze des Sommers scheint die Zeit stillzustehen. Da taucht Windkraftingenieur Klaus, 46, (Godehard Giese) aus Hamburg auf, und die Welt beginnt sich wieder zu drehen.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
-  "hasenheide-716082": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-716082",
-    "title": "Tod auf dem Nil (subtitled OV)",
-    "date": "Do., 9.6.,",
-    "timestamp": 1654732800000,
-    "time": "21:45",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716082?layout=shows",
-    "img": "https://media.kinoheld.de/bX-Ae7lGyd9DGLbP3z968IZLkVk=/400x560/images%2Ffilm%2Ftod-auf-dem-nil-17247.v2.png",
-    "description": "Neuverfilmung des Agatha-Christie-Romans „Tod auf dem Nil“. Regie führen und die Hauptrolle übernehmen soll erneut Kenneth Branagh – am Ende von „Mord im Orient-Express“ wurde es ja bereits ziemlich eindeutig, dass die von Branagh gespielte Figur Hercule Poirot anschließend Richtung Ägypten aufbricht. In der Romanvorlage zu „Tod auf dem Nil“ schließt sich Poirot einer bunt gemischten Reisegruppe an, die auf einem Dampfer den Nil bereist. Es kommt zum Mord an der schönen und reichen Linnet Doyle, doch die Hauptverdächtige - Jacqueline de Bellefort, der Linnet ihren Verlobten Simon weggeschnappt hat – hat zum Tatzeitpunkt ein Alibi. Poirot nimmt die Ermittlungen auf und muss unter den zahlreichen anderen Verdächtigen, darunter Linnets Dienstmädchen Louise Bourget, der überzeugte Kommunist Mr. Ferguson und der italienische Archäologe Guide Richetti, den Tätern finden.",
-    "trailer": "https://www.youtube.com/watch?v=npTTR2LDFGI",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
   "hasenheide-716083": {
     "cinemaId": "580",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
@@ -1401,7 +1298,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716084?layout=shows",
     "img": "https://media.kinoheld.de/k0NBJbIVcED29tq76og_31UK_qY=/400x560/images%2Ffilm%2Fkimi-21332.v22.jpg",
     "description": "Nachdem eine agoraphobische technische Angestellte bei der Überprüfung eines gewöhnlichen Datenstroms aufgezeichnete Beweise für ein Gewaltverbrechen entdeckt hat, versucht sie, die Befehlskette in ihrem Unternehmen zu durchbrechen. Sie stößt auf Widerstand und Bürokratie und erkennt, dass sie das tun muss, wovor sie sich am meisten fürchtet - sie muss ihre Wohnung verlassen, um sich einzumischen.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://www.youtube.com/watch?v=CW-UikJsEI8",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -1419,7 +1316,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716085?layout=shows",
     "img": "https://media.kinoheld.de/egLvpz0AI04y9NG5zU4eTlANGJ0=/400x560/images%2Ffilm%2Fred-rocket-21835.v5.jpg",
     "description": "Finding himself down and out in Los Angeles, ex porn star Mikey Saber decides to crawl back to his hometown of Texas City, Texas, where his estranged wife and mother-in-law are living. Just as this dysfunctional family seems to be making things work, Mikey meets a young woman named Strawberry working the cash register at a local doughnut shop.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://www.youtube.com/watch?v=nwY3p-6JTQ4",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2013,7 +1910,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716162?layout=shows",
     "img": "https://media.kinoheld.de/k0NBJbIVcED29tq76og_31UK_qY=/400x560/images%2Ffilm%2Fkimi-21332.v22.jpg",
     "description": "Nachdem eine agoraphobische technische Angestellte bei der Überprüfung eines gewöhnlichen Datenstroms aufgezeichnete Beweise für ein Gewaltverbrechen entdeckt hat, versucht sie, die Befehlskette in ihrem Unternehmen zu durchbrechen. Sie stößt auf Widerstand und Bürokratie und erkennt, dass sie das tun muss, wovor sie sich am meisten fürchtet - sie muss ihre Wohnung verlassen, um sich einzumischen.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://www.youtube.com/watch?v=CW-UikJsEI8",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2067,7 +1964,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/716165?layout=shows",
     "img": "https://media.kinoheld.de/zS5IJycU-oYyafis9x92Hkk3lKk=/400x560/images%2Ffilm%2Ftitane-19684.v17.jpg",
     "description": "Als kleines Mädchen erhält Alexia nach einem Autounfall eine Titanplatte in den Schädel transplantiert. Die Narben über dem rechten Ohr lassen sich zwar durch ihr nachwachsendes Haar kaschieren, doch schon bald entwickelt sie eine körperliche Zuneigung zu Fahrzeugen. Bereits als sie aus dem Krankenhaus entlassen wird, würdigt sie ihre Eltern keines Blickes. Stattdessen läuft sie auf den Unfallwagen zu, umarmt und liebkost diesen. Jahrzehnte später im Erwachsenenalter arbeitet Alexia als erotische Tänzerin bei einer Auto-Show und sie tötet Menschen, die ihr im Wege sind oder ihr zu nahe kommen ...",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://www.youtube.com/watch?v=nKXXUe0YCWw",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2136,7 +2033,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/nomadenkino-berlin/show/2594067637?layout=shows",
     "img": "https://media.kinoheld.de/PTQsTZrHXRa-T_fFHyXoUtHjrYE=/400x560/images%2Ffilm%2Feverything-everywhere-all-at-once-22045.v27.jpg",
     "description": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://www.youtube.com/watch?v=nz-eUNVQpzk",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2154,7 +2051,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/nomadenkino-berlin/show/2594067683?layout=shows",
     "img": "https://media.kinoheld.de/PTQsTZrHXRa-T_fFHyXoUtHjrYE=/400x560/images%2Ffilm%2Feverything-everywhere-all-at-once-22045.v27.jpg",
     "description": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://www.youtube.com/watch?v=nz-eUNVQpzk",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2170,7 +2067,7 @@
     "timestamp": 1655164800000,
     "time": "21:30",
     "url": "https://www.kinoheld.de/cinema-berlin/nomadenkino-berlin/show/2594077142?layout=shows",
-    "img": "https://media.kinoheld.de/_ZzH7dIkh12Ro_EW2K9AdqEXO0I=/400x560/images%2Ffilm%2Fvolksvertreter-22501.v4.png",
+    "img": "https://media.kinoheld.de/ghUUCxK77Yt5iNOLqbxS4KDSPBs=/400x560/images%2Ffilm%2Fvolksvertreter-22501.v5.png",
     "description": "„Wir fordern unser Land und unser Volk zurück“, sagt ein führender Kopf der rechtspopulistischen Partei Alternative für Deutschland (AfD) in der Bundestagswahlnacht 2017 zu seinen Parteikollegen. Sie feiern, wie die vier Jahre zuvor gegründete AfD, drängt mit 94 Sitzen in den Deutschen Bundestag und ist damit auf Anhieb drittstärkste Partei. The Voice of the People begleitet vier Abgeordnete – allesamt Männer – drei Jahre lang bei ihrem Versuch, ihre Macht auszudehnen.",
     "trailer": "https://www.youtube.com/watch?v=K0UG1rHuDpA",
     "available": -1,
@@ -2190,7 +2087,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/nomadenkino-berlin/show/2594080772?layout=shows",
     "img": "https://media.kinoheld.de/PTQsTZrHXRa-T_fFHyXoUtHjrYE=/400x560/images%2Ffilm%2Feverything-everywhere-all-at-once-22045.v27.jpg",
     "description": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://www.youtube.com/watch?v=nz-eUNVQpzk",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2284,6 +2181,24 @@
     "reserved": 0,
     "bookable": true
   },
+  "fmp-2597221968": {
+    "cinemaId": "1657",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
+    "cinemaName": "b-ware-openair-fmp",
+    "cinemaShortName": "fmp",
+    "id": "fmp-2597221968",
+    "title": "THE CARD COUNTER (subtitled OV / en)",
+    "date": "Mi., 15.6.",
+    "timestamp": 1655251200000,
+    "time": "21:45",
+    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2597221968?layout=shows",
+    "img": "https://media.kinoheld.de/B0GUnzj8RebE8NtqF4Rv1giBQ_4=/400x560/images%2Ffilm%2Fthe-card-counter-21218.v25.jpg",
+    "description": "Zehn Jahre saß William Tell im Knast. Während der Vorgesetzte seiner Spezialeinheit ungeschoren davonkam, musste William als Sündenbock herhalten. In seiner Gefängniszelle lernte William die Kunst des Kartenzählers – bis zur Perfektion. Wieder in Freiheit reist er von Casino zu Casino. Er setzt niedrig, um nicht aufzufallen, und er gewinnt. Dabei lernt er La Linda und Cirk kennen. Während La Linda die Einsätze vorstrecken und die Gewinne erhöhen will, verfolgt Cirk einen perfiden Racheplan, der Williams ehemaligen Vorgesetzten im Visier hat.",
+    "trailer": "https://www.youtube.com/watch?v=ks6AmCG5F64",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
   "central-2587661702": {
     "cinemaId": "1839",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
@@ -2316,8 +2231,8 @@
     "img": "https://media.kinoheld.de/VMXdIcFNVLXLIBGnf1QYdGmNjzc=/400x560/images%2Ffilm%2Fdie-fabelhafte-welt-der-amelie-20353.v12.jpg",
     "description": "Amélie ist eine Träumerin, die in ihrer eigenen Welt lebt. Sie ist liebenswürdig, hilft gerne anderen Leuten und arbeitet als Kellnerin in einem Café in Montmartre. Dort ist immer was los, bis hin zu ziemlich schrägen Typen und einer hypochondrisch kranken Arbeitskollegin. Da hat man natürlich viel zu tun. Aber dann verliebt Amélie sich in den sanften Spinner Nino Quincampoix und weiß nicht, wie sie sich ihm nähern soll. Ein schönes poetisches Märchen über eine Träumerin, die ihre Phantasiewelt hinter sich lassen möchte, um dadurch der Realität entgegentreten zu können. (VA)",
     "trailer": "https://www.youtube.com/watch?v=LM0sZZ1xFDs",
-    "available": 80,
-    "reserved": 6,
+    "available": 76,
+    "reserved": 10,
     "bookable": true
   },
   "central-2587661760": {
@@ -2405,7 +2320,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2587663536?layout=shows",
     "img": "https://media.kinoheld.de/2FuAfe1K4kxhbHcGnW-lr2HVmLA=/400x560/images%2Ffilm%2Fmidsommar-14283.v18.jpg",
     "description": "Obwohl ihre Beziehung kriselt, schließt sich Dani ihrem Freund Christian auf einen Sommertrip in einen kleinen Ort in Schweden an. Gemeinsam mit Christians Clique sind sie zu einem einmaligen Mittsommerfestival eingeladen. Doch der anfänglich idyllische Eindruck der abgelegenen Gemeinschaft trügt, die freundlichen Dorfbewohner verhalten sich nach und nach merkwürdiger: Sie bereiten sich auf ein besonderes Mittsommer-Ritual vor, das nur alle 90 Jahre zelebriert wird. Was als puritanisches Fest der Liebe und Glückseligkeit beginnt, nimmt bald eine unheimliche Wendung, die das sonnengeflutete Paradies bis in die Eingeweide erschüttert. Nach dem Überraschungshit \"Hereditary\" legt Ausnahme-Regisseur Ari Aster den nächsten kultverdächtigen Horrorfilm vor, der sich zu einem albtraumhaften filmischen Märchen entfaltet. \"Midsommar\" spielt geschickt mit der Brutalität nordischer Mythen und entfesselt in atemraubenden Bildern die Kraft obskurer Riten in Nächten, die keine Dunkelheit kennen. (Quelle: Verleih)",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://www.youtube.com/watch?v=olqbJQ72G3Q",
     "available": 86,
     "reserved": 0,
     "bookable": true
@@ -2598,7 +2513,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2587670179?layout=shows",
     "img": "https://media.kinoheld.de/kYStEhPmGfaEZFCEJgfHXxwlOxU=/400x560/images%2Ffilm%2Fleon-der-profi-wa-2019-14361.v11.jpg",
     "description": "Léon verdient sein Geld als Auftragskiller der Italo-Mafia in den Straßen von New York. Er lebt zurückgezogen und pflegt außer zu seinem Boss Tony einzig zu seiner Topfpflanze ein freundschaftliches Verhältnis. Als die Familie seiner Nachbarstochter Mathilda von DEA-Polizisten brutal getötet wird, flüchtet sie zu Léon. Um sich an den Mördern ihres kleinen Bruders zu rächen, lässt sich Mathilda das grausame Handwerk eines Profi-Killers von Léon beibringen. (Quelle: Verleih)",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://www.youtube.com/watch?v=4e50Hpm9L4I",
     "available": 86,
     "reserved": 0,
     "bookable": true
@@ -2865,7 +2780,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2587706175?layout=shows",
     "img": "https://media.kinoheld.de/gWHnvjm92FrIL05XZCerlxTDocw=/400x560/images%2Ffilm%2Fbelle-de-jour-schoene-des-tages-6840.v1.jpg",
     "description": "Severine, die mit ihrem Mann Pierre nicht intim werden kann, kompensiert ihre sexuelle Frustration mit masochistischen Phantasien. Die Neugier treibt sie in ein Bordell, wo sie - ohne das Pierre etwas ahnt - als \"Schöne des Tages\" das dritte Mädchen wird, das für Madame Anaïs arbeitet. Indem sie die Bedürfnisse ihrer Kunden befriedigt, scheint sie zugleich ihren inneren Frieden gefunden zu haben. Doch das Arrangement kippt als Marcel, ein leicht aufbrausender Stammkunde, darauf besteht Severine für sich alleine zu haben.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://www.youtube.com/watch?v=1DtvynHArYo",
     "available": 86,
     "reserved": 0,
     "bookable": true
@@ -2936,7 +2851,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2587713994?layout=shows",
     "img": "https://media.kinoheld.de/yKvlkhqk_xqFAGPxf501ljlXzIg=/400x560/images%2Ffilm%2F4%2Fsuspiria-11018.v8.jpg",
     "description": "Die junge Amerikanerin Susie Bannion (Dakota Johnson) kommt 1977 zum renommierten Markos Tanzensemble nach Berlin. Während Susie unter der revolutionären künstlerischen Leiterin Madame Blanc (Tilda Swinton) außergewöhnliche Fortschritte macht, freundet sie sich mit der Tänzerin Sara (Mia Goth) an. Als Patricia (Chloë Grace Moretz), ebenfalls Mitglied des Ensembles, unter mysteriösen Umständen verschwindet, kommt der Psychotherapeut der jungen Tanzschülerin, Dr. Josef Klemperer (Lutz Ebersdorf), einem dunklen Geheimnis auf die Spur. Auch Susie und Sara ahnen, dass sich hinter der Fassade von Madame Blanc und ihrer Tanzschule unbarmherzige Hexen verbergen. (Text: Verleih)",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://www.youtube.com/watch?v=FEOTZhUlj0w",
     "available": 86,
     "reserved": 0,
     "bookable": true
@@ -2954,7 +2869,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2587715035?layout=shows",
     "img": "https://media.kinoheld.de/-dECS7O8QGHfULltY8QrE2JoGXk=/400x560/images%2Ffilm%2Fjoker-14395.v15.jpg",
     "description": "Gotham City im Jahr 1981: Der mental instabile Arthur Fleck führt wahrlich nicht das Leben, von dem man träumt: Vollgepumpt mit Medikamenten geht er seiner Arbeit als kostümierter Werbeschildträger nach und wird nicht selten das Ziel von Spott und Attacken. Abends zieht es ihn in sein heruntergekommenes Apartment, wo er sich um seine kranke Mutter kümmern muss. Gemeinsam hoffen sie auf ein besseres Leben, das Arthur als Stand-Up-Komiker realisieren will. Als plötzlich die Förderung für seine psychologische Betreuung gestrichen wird, nimmt das Unheil seinen Lauf. Die Schusswaffe eines Kollegen, die Suche nach seinem echten Vater und plötzlicher Ruhm sorgen dafür, dass der einstmals harmlose Exzentriker die ganze Stadt in Angst und Schrecken versetzt...",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://www.youtube.com/watch?v=ZWHQqgvBhGA",
     "available": 86,
     "reserved": 0,
     "bookable": true
@@ -3111,7 +3026,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2587718526?layout=shows",
     "img": "https://media.kinoheld.de/kYStEhPmGfaEZFCEJgfHXxwlOxU=/400x560/images%2Ffilm%2Fleon-der-profi-wa-2019-14361.v11.jpg",
     "description": "Léon verdient sein Geld als Auftragskiller der Italo-Mafia in den Straßen von New York. Er lebt zurückgezogen und pflegt außer zu seinem Boss Tony einzig zu seiner Topfpflanze ein freundschaftliches Verhältnis. Als die Familie seiner Nachbarstochter Mathilda von DEA-Polizisten brutal getötet wird, flüchtet sie zu Léon. Um sich an den Mördern ihres kleinen Bruders zu rächen, lässt sich Mathilda das grausame Handwerk eines Profi-Killers von Léon beibringen. (Quelle: Verleih)",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://www.youtube.com/watch?v=4e50Hpm9L4I",
     "available": 86,
     "reserved": 0,
     "bookable": true
@@ -3149,24 +3064,6 @@
     "description": "Die quirlige jüdische Grossmutter Berta und ihre nicht weniger leidenschaftliche Enkelin Shira streiten inniglich über die Liebe und darüber, was Frau darf und was nicht. Vor allem als sich ihre geliebte Enkeltochter ausgerechnet für Maria, eine Deutsche, entscheidet. Die beiden jungen Frauen machen richtig ernst sie wollen heiraten. So unterschiedlich beide Familien sind, so einig sind sich alle in einem Punkt: Die Hochzeit muss geplant werden. Nur eine versucht mit allen Mitteln diesen Bund des Lebens zu verhindern Berta. Für sie ist eine Ehe zwischen einer Israelin und einer Deutschen ein Ding der Unmöglichkeit. Obwohl auch sie mit dem Palästinenser Ibrahim ein recht unkonventionelles Liebesglück gefunden hat, das sie im Gegensatz zur lebensfrohen Enkeltochter vor der Familie verheimlicht. Aber wie lange kann das noch so gutgehen? Am Ende der turbulenten Familienfehde wird geheiratet.",
     "trailer": "https://www.youtube.com/watch?v=vbjXqyWpT74",
     "available": 86,
-    "reserved": 0,
-    "bookable": true
-  },
-  "pompeji ostkreuz-2592424035": {
-    "cinemaId": "2153",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-    "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-    "cinemaShortName": "pompeji ostkreuz",
-    "id": "pompeji ostkreuz-2592424035",
-    "title": "COME ON, COME ON (subtitled OV German / OmU)",
-    "date": "Do., 9.6.,",
-    "timestamp": 1654732800000,
-    "time": "21:45",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2592424035?layout=shows",
-    "img": "https://media.kinoheld.de/aSpJiTabDRC16J_8ksz8jxeHRtA=/400x560/images%2Ffilm%2Fcome-on-come-on-21505.v2.png",
-    "description": "Der New Yorker Radiomoderator Johnny (Joaquin Phoenix), der nach einer langen Beziehung wieder Single ist, muss sich nach einem Anruf von seiner Schwester Viv (Gaby Hoffmann) unerwartet um ihren Sohn kümmern, den neunjährigen Jesse (Woody Norman). Es ist das erste Mal, dass Johnny allein für ein Kind verantwortlich ist und Jesse längere Zeit von seiner Mutter getrennt ist. Gemeinsam begeben sie sich auf einen Roadtrip quer durch die USA, auf dem Johnny sein Radioprojekt fertigstellt, indem er Kinder zu ihren Träumen, Ängsten und Hoffnungen interviewt. Diese Reise verändert beide und es entsteht eine tiefe, emotionale Verbindung zwischen Onkel und Neffen.",
-    "trailer": "https://youtu.be/0w9MYVy04Qc",
-    "available": -1,
     "reserved": 0,
     "bookable": true
   },
@@ -3273,7 +3170,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2595691551?layout=shows",
     "img": "https://media.kinoheld.de/zS5IJycU-oYyafis9x92Hkk3lKk=/400x560/images%2Ffilm%2Ftitane-19684.v17.jpg",
     "description": "Als kleines Mädchen erhält Alexia nach einem Autounfall eine Titanplatte in den Schädel transplantiert. Die Narben über dem rechten Ohr lassen sich zwar durch ihr nachwachsendes Haar kaschieren, doch schon bald entwickelt sie eine körperliche Zuneigung zu Fahrzeugen. Bereits als sie aus dem Krankenhaus entlassen wird, würdigt sie ihre Eltern keines Blickes. Stattdessen läuft sie auf den Unfallwagen zu, umarmt und liebkost diesen. Jahrzehnte später im Erwachsenenalter arbeitet Alexia als erotische Tänzerin bei einer Auto-Show und sie tötet Menschen, die ihr im Wege sind oder ihr zu nahe kommen ...",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://www.youtube.com/watch?v=nKXXUe0YCWw",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -3492,22 +3389,6 @@
     "trailer": "https://www.youtube.com/watch?v=SRC6XcHQ628",
     "bookable": true
   },
-  "kulturforum-1654811100000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1654811100000",
-    "title": "Rabiye Kurnaz gegen George W. Bush",
-    "date": "Do., 9.6.,",
-    "timestamp": 1654811100000,
-    "time": "21:45",
-    "url": "https://www.yorck.de/filme/rabiye-kurnaz-gegen-george-w-bush",
-    "description": "Murat ist weg. Inhaftiert im US-Gefangenenlager Guantanamo. Rabiye Kurnaz, Bremer Hausfrau und liebende Mutter, versteht die Welt nicht mehr. Geht zur Polizei, informiert Behörden und verzweifelt fast an ihrer Ohnmacht. Bis sie Bernhard Docke findet. Der zurückhaltende, besonnene Menschenrechtsanwalt und die temperamentvolle, türkische Mutter – sie kämpfen nun Seite an Seite für die Freilassung von Murat. Papier ist geduldig, Rabiye ist es nicht. Eigentlich möchte sie nur zurück zur Familie in ihr Reihenhaus und wird doch immer wieder in die Weltgeschichte katapultiert. Sie zieht mit Bernhard bis vor den Supreme Court nach Washington, um gegen George W. Bush zu klagen. Bernhard gibt dabei auf sie acht. Und Rabiye bringt ihn zum Lachen. Mit Herz und Seele. Mit letzter Kraft. Und am Ende geschieht, was niemand mehr für möglich hält.\n",
-    "img": "//images.ctfassets.net/4mws6uyas4ta/attI38okzNDUiJuQ7/b9bb40d89347d1bb475462999ce7cf70/Rabiye_Kurnaz_vs._George_W._Bush.jpg",
-    "trailer": "https://www.youtube.com/watch?v=G_kZpupNIl0",
-    "bookable": true
-  },
   "kulturforum-1655934300000": {
     "cinemaId": "sommerkino-kulturforum",
     "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
@@ -3721,8 +3602,8 @@
     "img": "https://images.cinetixx.com/posters/2498403080/thumbnails/2498403080_211_300.jpg",
     "description": "Ausnahmeregisseur Paul Thomas Anderson kehrt endlich auf die große Leinwand zurück. Mit der turbulent-ungewöhnlichen Romanze LICORICE PIZZA widmet er sich diesmal dem Erwachsenwerden, der Liebe und dem Lebensgefühl der Siebziger.\n\nVier Jahre nach seinem Oscar®-prämierten Meisterwerk Der seidene Faden kehrt Ausnahmeregisseur Paul Thomas Anderson (The Master, Magnolia) endlich auf die große Leinwand zurück. Mit der turbulent-ungewöhnlichen Romanze LICORICE PIZZA widmet er sich diesmal dem Erwachsenwerden und der großen Liebe.\n\nIm kalifornischen San Fernando Valley des Jahres 1973 entwickelt sich zwischen Mittzwanzigerin Alana Kane (Alana Haim) und Teenager Gary Valentine (Cooper Hoffman) eine ungewöhnliche Freundschaft. Doch inmitten des alltäglichen Trubels aus Gelegenheitsjobs und Schauspielkarriere, Freunden und Politik, Vinyl und Super 8 entstehen mit der Zeit auch intensivere Gefühle ...\n\nIn LICORICE PIZZA erzählt Paul Thomas Anderson nicht nur von einer außergewöhnlichen Liebe und der so aufwühlenden wie verwirrenden Zeit des Erwachsenwerdens, sondern nimmt das Publikum auch mit auf eine stimmungsvolle Reise zurück in die Siebziger – und in ein Leben zwischen Schlaghosen und Ölpreiskrise, New Hollywood und Motown.\n\nVor der Kamera begeistern in den Hauptrollen zwei Shootingstars in ihrem grandiosen Schauspieldebüt: Cooper Hoffman, Sohn der verstorbenen Schauspiellegende Philip Seymour Hoffman, und die Grammy-nominierte Musikerin Alana Haim aus der Schwesternband Haim, die Anderson bereits in mehreren Kurzdokus begleitet hat und die in LICORICE PIZZA auch vor der Kamera als Familie zu sehen ist.\n\nAn ihrer Seite brilliert ein erstklassiges Ensemble aus dem achtfach Oscar®- und dreifach Golden-Globe-nominierten Bradley Cooper (Silver Linings, A Star is Born), dem zweifachen Oscar®-Gewinner Sean Penn (Milk, Mystic River), der mit diversen Emmys geehrten Comedienne Maya Rudolph (Brautalarm) sowie dem mehrfach Grammy-prämierten Kultmusiker Tom Waits (Down By Law).",
     "trailer": "https://www.youtube.com/watch?v=ofnXPwUPENo",
-    "available": 87,
-    "reserved": 35,
+    "available": 79,
+    "reserved": 43,
     "bookable": true
   },
   "weissensee-1655502300000": {
