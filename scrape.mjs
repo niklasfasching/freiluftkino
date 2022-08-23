@@ -83,7 +83,7 @@ async function getCinetixxCinema(cinemaId, cinemaName, cinemaShortName) {
         timestamp: date.getTime(),
         time: `${date.getUTCHours()}:${date.getUTCMinutes()}`,
         title: show.showName,
-        version: getVersion(show.showName),
+        version: getVersion(show.language),
         normalizedTitle: normalizeTitle(show.showName),
         img: el.querySelector("img").src,
         description: el.querySelector(".movie-details div").innerText.trim(),
@@ -126,7 +126,7 @@ async function getKinoheldCinema(cinemaId, cinemaName, cinemaShortName) {
       id: cinemaShortName + "-" + show.id,
       title,
       normalizedTitle: normalizeTitle(title),
-      version: getVersion(title),
+      version: getVersion(show.flags?.map(f => f.name).join(" ")),
       date: formatDate(new Date(show.date)),
       timestamp: new Date(show.date + " UTC").getTime(),
       time: show.time,
@@ -160,7 +160,7 @@ async function getYorckCinema(cinemaId, cinemaName, cinemaShortName) {
         id: cinemaShortName + "-" + date.getTime(),
         title: fs.fields.title,
         normalizedTitle: normalizeTitle(fs.fields.title),
-        version: getVersion(fs.fields.title),
+        version: getVersion(fs.fields.sessions?.[0]?.fields.formats?.join(" ")),
         date: formatDate(date),
         timestamp: date.getTime(),
         time: `${date.getUTCHours()}:${date.getUTCMinutes()}`,
@@ -196,10 +196,11 @@ async function getKinoTicketsOnlineCinema(cinemaId, cinemaName, cinemaShortName,
   const index = await getDocument(cinemaIndexUrl), meta = {};
   for (const el of [...index.querySelectorAll(".lazyload")]) {
     el.innerHTML = el.firstChild.textContent; // <span class=lazyload><!-- $html --></span>
-    const id = el.querySelector("a[href*=kinotickets-online]")?.href?.match(/\/(\d+$)/)[1];
+    const id = el.querySelector("a[href*='kinotickets.express']")?.href?.match(/\/(\d+$)/)[1];
     meta[id] = {
       trailer: el.querySelector("a[data-fancybox]")?.href,
       description: el.querySelector(".teasertext").innerText,
+      rawVersion: el.querySelector(".teasertitel_version").innerText,
     };
   }
   const cinemaUrl = `https://kinotickets-online.com/${cinemaId}`;
@@ -224,7 +225,7 @@ async function getKinoTicketsOnlineCinema(cinemaId, cinemaName, cinemaShortName,
       trailer: trailerUrl,
 	  title,
       normalizedTitle: normalizeTitle(title),
-      version: getVersion(title),
+      version: getVersion(meta[id].rawVersion),
       date: formatDate(date),
       timestamp: date.getTime(),
       time,
@@ -248,6 +249,10 @@ function normalizeTitle(title) {
   return title.toUpperCase().replace(/\(.*\)|-.*?film preview|open air:/ig, "").trim();
 }
 
-function getVersion(title) {
-  return /\b(Ome?U|subtitled?)\b/i.test(title) ? "subtitled" : "normal";
+function getVersion(raw) {
+  return {
+    raw,
+    original: /\b(original\w*|OF|OV|Ome?U)\b/i.test(raw),
+    english: /\b(English|engl|en|\wMeU)\b/i.test(raw),
+  };
 }

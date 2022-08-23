@@ -1,6 +1,9 @@
 {
   "Freiluftkino Friedrichshain": [
     {
+      "trailer": "https://www.youtube.com/watch?v=v8cEqUuqO40",
+      "description": "Sommer 1969 in der nordirischen Hauptstadt: Der neunjährige Buddy liebt Kinobesuche, Matchbox-Autos und seine hingebungsvollen Großeltern. Die zunehmenden Spannungen auf den Straßen hemmen seinen Abenteuerdrang kaum.\"In seinem schwarz-weißen, hochemotionalen Film spricht Branagh mit großartigen Darstellern (Jamie Dornan, Caitriona Balfe, Ciarán Hinds und Judi Dench) berührend von der menschlichen Größe und der Kraft einfacher Leute.\" Knut Elstermann radioeins *Heute mit exklusiver Verlosung von zwei Belsazar Picknick-Taschen.",
+      "rawVersion": "dt. Fassung",
       "cinemaId": "fh_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
       "cinemaName": "Freiluftkino Friedrichshain",
@@ -8,10 +11,13 @@
       "id": "fhain-873",
       "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/873",
       "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=862",
-      "trailer": "https://www.youtube.com/watch?v=v8cEqUuqO40",
       "title": "Belfast",
       "normalizedTitle": "BELFAST",
-      "version": "normal",
+      "version": {
+        "raw": "dt. Fassung",
+        "original": false,
+        "english": false
+      },
       "date": "Mi., 24.08",
       "timestamp": 1661373000000,
       "time": "20:30",
@@ -20,6 +26,9 @@
       "bookable": true
     },
     {
+      "trailer": "https://www.youtube.com/watch?v=55M5ZgAqbWo",
+      "description": "In den meisten Dingen ist Julie unentschlossen. Sei es das Studium oder die Liebe - sie kann und will sich nicht festlegen. Zu viele Wege sind offen. Zu viele Möglichkeiten bieten sich an. Das zeigt sich einmal mehr, als zwei sehr unterschiedliche Männer in ihr Leben treten. Julie navigiert durch Liebesaffären und existenzielle Unsicherheiten, während sie beginnt zu entscheiden, wer sie werden will. Joachim Triers herrlicher Film über die Liebe und die vermaledeite Suche nach diesem Ding namens Glück, ist einer unserer Lieblingsfilme der Saison.  \"Einer der zärtlichsten und klügsten Filme der letzten Monate\" artechock\n",
+      "rawVersion": "dt. Fassung",
       "cinemaId": "fh_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
       "cinemaName": "Freiluftkino Friedrichshain",
@@ -27,10 +36,13 @@
       "id": "fhain-884",
       "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/884",
       "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=861",
-      "trailer": "https://www.youtube.com/watch?v=55M5ZgAqbWo",
       "title": "Der schlimmste Mensch der Welt",
       "normalizedTitle": "DER SCHLIMMSTE MENSCH DER WELT",
-      "version": "normal",
+      "version": {
+        "raw": "dt. Fassung",
+        "original": false,
+        "english": false
+      },
       "date": "Mo., 05.09",
       "timestamp": 1662408000000,
       "time": "20:00",
@@ -39,6 +51,9 @@
       "bookable": true
     },
     {
+      "trailer": "https://www.youtube.com/watch?v=nz-eUNVQpzk",
+      "description": "Evelyn Wang betreibt einen Waschsalon und führt ein eher durchschnittliches Leben. Bis sie eines Tages, mitten im Finanzamt, aus einem Paralleluniversum kontaktiert wird und erfährt, dass nur sie die Welt retten kann. Unsere Heldin wider Willen hat nicht viel Zeit um zu lernen, ihre neu entdeckten Kräfte zu kanalisieren und sich durch die zersplitternden Zeitlinien des Multiversums zu kämpfen, um ihre Heimat, ihre Familie und sich selbst zu retten. \"Ein echter Ritt in die äußerste Wildnis der Fantasie, ins Reich des luziden Träumens und der Grenzräume.\" The Independent  \"Einer der originellsten und kreativsten Filme der letzten Jahre.\" San Francisco Chronicle ",
+      "rawVersion": "dt. Fassung",
       "cinemaId": "fh_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
       "cinemaName": "Freiluftkino Friedrichshain",
@@ -46,10 +61,13 @@
       "id": "fhain-892",
       "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/892",
       "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=859",
-      "trailer": "https://www.youtube.com/watch?v=nz-eUNVQpzk",
       "title": "Everything Everywhere All At Once",
       "normalizedTitle": "EVERYTHING EVERYWHERE ALL AT ONCE",
-      "version": "normal",
+      "version": {
+        "raw": "dt. Fassung",
+        "original": false,
+        "english": false
+      },
       "date": "Mi., 31.08",
       "timestamp": 1661976900000,
       "time": "20:15",
@@ -58,24 +76,8 @@
       "bookable": true
     },
     {
-      "cinemaId": "fh_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
-      "cinemaName": "Freiluftkino Friedrichshain",
-      "cinemaShortName": "fhain",
-      "id": "fhain-859",
-      "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/859",
-      "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=848",
-      "title": "Premiere: Unsere Herzen, ein Klang",
-      "normalizedTitle": "PREMIERE: UNSERE HERZEN, EIN KLANG",
-      "version": "normal",
-      "date": "Di., 23.08",
-      "timestamp": 1661286600000,
-      "time": "20:30",
-      "available": 0,
-      "reserved": 0,
-      "bookable": true
-    },
-    {
+      "description": "Weihnachten 1877: Es ist der 40. Geburtstag von Kaiserin Elisabeth von Österreich. In ihrer Rolle als Repräsentantin an der Seite ihres Mannes Kaiser Franz Josef darf sie keine Meinungen äußern, sondern muss für immer die schöne, junge Kaiserin bleiben. Um dieser Erwartung zu entsprechen, hält sie an einem rigiden Plan aus Hungern, Sport, Frisieren und täglichen Messungen der Taille fest. Doch Elisabeth ist immer noch eine wissbegierige und lebenshungrige Frau, deren Widerstand gegen das überlebensgroße Bild ihrer selbst wächst und die nicht länger in einem höfischen Korsett leben will.",
+      "rawVersion": "dt. Fassung",
       "cinemaId": "fh_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
       "cinemaName": "Freiluftkino Friedrichshain",
@@ -85,7 +87,11 @@
       "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=880",
       "title": "Corsage",
       "normalizedTitle": "CORSAGE",
-      "version": "normal",
+      "version": {
+        "raw": "dt. Fassung",
+        "original": false,
+        "english": false
+      },
       "date": "Mo., 29.08",
       "timestamp": 1661804100000,
       "time": "20:15",
@@ -94,6 +100,9 @@
       "bookable": true
     },
     {
+      "trailer": "https://www.youtube.com/watch?v=KT3GNpxvI00",
+      "description": "\"Hommage an einen Musiker, ein Sexidol, eine Ikone \"Elvis\" ist ein mitreißender Blick auf eine Ära der Pop- aber auch der Sozialgeschichte Amerikas. Egal ob legendärer Hüftschwung, die pomadierte Tolle oder ein Blick der sich irgendwo zwischen verführerisch und gefährlich bewegt: Austin Butler überzeugt in jedem Moment und kommt dem unbeschreiblichen Mysterium Elvis Presleys so nah wie möglich.\" Besser als programmkino.de hätten wir das auch nicht sagen können.",
+      "rawVersion": "dt. Fassung",
       "cinemaId": "fh_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
       "cinemaName": "Freiluftkino Friedrichshain",
@@ -101,10 +110,13 @@
       "id": "fhain-875",
       "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/875",
       "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=864",
-      "trailer": "https://www.youtube.com/watch?v=KT3GNpxvI00",
       "title": "Elvis",
       "normalizedTitle": "ELVIS",
-      "version": "normal",
+      "version": {
+        "raw": "dt. Fassung",
+        "original": false,
+        "english": false
+      },
       "date": "Fr., 26.08",
       "timestamp": 1661545800000,
       "time": "20:30",
@@ -113,6 +125,9 @@
       "bookable": true
     },
     {
+      "trailer": "https://www.youtube.com/watch?v=mBeyq0a959k",
+      "description": "Seine beiden Töchter Venus und Serena sind noch Kleinkinder, als ihr Vater Richard Williams einen ausgeklügelten Plan entwickelt, der ihnen den Weg an die Weltspitze im Tennis ebnen soll. Hindernisse sind zahllos, denn Compton, Kalifornien, ist nicht der Ort, der Tennis-Champions hervorbringt. Richard aber bleibt beharrlich: Mit unerschütterlicher Entschlossenheit und unkonventionellen Methoden bringt er seinen Töchtern die Feinheiten eines Spiels bei, das er selbst nie gespielt hat und kämpft gegen die uralten Grenzlinien von Hautfarbe, Geld und Klasse. \"Richard hat seine Fehler, er ist kein Schurke, aber eben auch kein Held, und er befolgt nur selten seinen eigenen inbrünstigen Rat, bescheiden zu sein. Man hat Ehrfurcht vor dem, was er erreicht hat, aber man bewundert seine Person nicht. Nur wenige Biopics wagen diese Vielschichtigkeit.\" New York Post",
+      "rawVersion": "engl.m.dt.Ut",
       "cinemaId": "fh_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
       "cinemaName": "Freiluftkino Friedrichshain",
@@ -120,10 +135,13 @@
       "id": "fhain-874",
       "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/874",
       "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=863",
-      "trailer": "https://www.youtube.com/watch?v=mBeyq0a959k",
       "title": "King Richard",
       "normalizedTitle": "KING RICHARD",
-      "version": "normal",
+      "version": {
+        "raw": "engl.m.dt.Ut",
+        "original": false,
+        "english": true
+      },
       "date": "Do., 25.08",
       "timestamp": 1661459400000,
       "time": "20:30",
@@ -132,6 +150,9 @@
       "bookable": true
     },
     {
+      "trailer": "https://www.youtube.com/watch?v=sm89nsy-5bE",
+      "description": "Der Schauspieler Nicolas Cage steht vor dem finanziellen Ruin und sieht sich gewzungen ein 1 Million Dollar Angebot anzunehmen, für das er den Geburtstag eines Superfans besuchen muss. Leider jedoch entpuppt dieser sich als gefährlicher Gangster und Mitglied eines Drogen-Kartells. Und damit fangen die Probleme erst dann. Kurzum: Mit einem Mal sieht er sich gezwungen, seiner eigenen Legende gerecht zu werden, indem er seine ikonischsten und beliebtesten Filmfiguren verkörpert, um sich und seine Liebsten zu retten. Der preisgekrönte Schauspieler muss die Rolle seines Lebens annehmen: Nick Cage. ",
+      "rawVersion": "engl.m.dt.Ut",
       "cinemaId": "fh_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
       "cinemaName": "Freiluftkino Friedrichshain",
@@ -139,10 +160,13 @@
       "id": "fhain-879",
       "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/879",
       "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=868",
-      "trailer": "https://www.youtube.com/watch?v=sm89nsy-5bE",
       "title": "Massive Talent",
       "normalizedTitle": "MASSIVE TALENT",
-      "version": "normal",
+      "version": {
+        "raw": "engl.m.dt.Ut",
+        "original": false,
+        "english": true
+      },
       "date": "Di., 30.08",
       "timestamp": 1661890500000,
       "time": "20:15",
@@ -151,6 +175,9 @@
       "bookable": true
     },
     {
+      "trailer": "https://www.youtube.com/watch?v=ZKrYSfBz_G8",
+      "description": "Monsieur Claude, der Meister der formvollendeten Zerknirschung, ist zurück! Keiner beherrscht die Kunst der gerümpften Nase so unterhaltsam wie er: Christian Clavier brilliert in seinem langerwarteten neuen Leinwandabenteuer in der Königsklasse der familiären Diplomatie: Einem Fest aus Anlass seines 40. Hochzeitstags.",
+      "rawVersion": "dt. Fassung",
       "cinemaId": "fh_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
       "cinemaName": "Freiluftkino Friedrichshain",
@@ -158,10 +185,13 @@
       "id": "fhain-877",
       "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/877",
       "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=866",
-      "trailer": "https://www.youtube.com/watch?v=ZKrYSfBz_G8",
       "title": "Monsieur Claude und sein großes Fest",
       "normalizedTitle": "MONSIEUR CLAUDE UND SEIN GROSSES FEST",
-      "version": "normal",
+      "version": {
+        "raw": "dt. Fassung",
+        "original": false,
+        "english": false
+      },
       "date": "So., 28.08",
       "timestamp": 1661718600000,
       "time": "20:30",
@@ -170,6 +200,9 @@
       "bookable": true
     },
     {
+      "trailer": "https://www.youtube.com/watch?v=TCuhswRzQxs",
+      "description": "Mit Leichtigkeit, Stilsicherheit, Emotion und einer großen Portion Humor führt Regisseurin Karoline Herfurth die Geschichten von fünf Frauen zusammen, die auf unterschiedlichste Weise mit längst überholt geglaubten Rollenmustern genauso zu kämpfen haben, wie mit den Anforderungen des permanenten Selbst-Optimierungswahns. Die so leicht eingeforderte Body-Positivity ist nur ein Teil davon. Getragen von einem fantastischen Ensemble um  Martina Gedeck, Nora Tschirner, Emilia Schüle, Friedrich Mücke, Maximilian Brückner und Joachim Król. \n",
+      "rawVersion": "dt. Fassung",
       "cinemaId": "fh_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
       "cinemaName": "Freiluftkino Friedrichshain",
@@ -177,10 +210,13 @@
       "id": "fhain-876",
       "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/876",
       "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=865",
-      "trailer": "https://www.youtube.com/watch?v=TCuhswRzQxs",
       "title": "Wunderschön",
       "normalizedTitle": "WUNDERSCHÖN",
-      "version": "normal",
+      "version": {
+        "raw": "dt. Fassung",
+        "original": false,
+        "english": false
+      },
       "date": "Sa., 27.08",
       "timestamp": 1661632200000,
       "time": "20:30",
@@ -189,6 +225,9 @@
       "bookable": true
     },
     {
+      "trailer": "https://www.youtube.com/watch?v=33R3R0GDGhQ",
+      "description": "Die Berlinale Jury lobte in Ihrer Begründung für den Goldnen Bären die \"außergewöhnlichen Leistung\" der Schauspielerinnen und Schauspieler und dies Fähigkeit des Films, \"die Zärtlichkeit und Komik innerhalb einer Familie\" zu zeigen, die wegen der drohenden Zwangsräumung ihre Plantage vor große Aufgaben gestellt wird.",
+      "rawVersion": "kata.m.dt.Ut.",
       "cinemaId": "fh_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
       "cinemaName": "Freiluftkino Friedrichshain",
@@ -196,10 +235,13 @@
       "id": "fhain-893",
       "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/893",
       "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=882",
-      "trailer": "https://www.youtube.com/watch?v=33R3R0GDGhQ",
       "title": "Alcarràs - Die letzte Ernte",
       "normalizedTitle": "ALCARRÀS - DIE LETZTE ERNTE",
-      "version": "normal",
+      "version": {
+        "raw": "kata.m.dt.Ut.",
+        "original": false,
+        "english": false
+      },
       "date": "Di., 06.09",
       "timestamp": 1662494400000,
       "time": "20:00",
@@ -208,6 +250,9 @@
       "bookable": true
     },
     {
+      "trailer": "https://www.youtube.com/watch?v=0GnOo5-j4Ok",
+      "description": "Der New Yorker Radiojournalist Johnny will zu einer Recherchereise quer durch die USA starten. Für eine große Reportage befragt er Kinder nach ihren Erwartungen an die Zukunft. Ausgerechnet jetzt bittet ihn seine Schwester, für einige Zeit auf ihren neunjährigen Sohn Jesse aufzupassen. Kurzerhand nimmt er ihn mit auf Reisen. Regisseur und Drehbuchautor Mike Mills gelingt Großes: Ohne Kitsch zu berühren; Den 9-jährigen Darsteller einem Joaquin Phoenix auf schauspielerischer Augenhöhe entgegenzusetzen und die Fragen von Freundschaft, Familie und Verantwortung in einen Film zu bannen, der einen inspiriert aus dem Kino entlässt.\n\"Zärtlich, eindringlich und unangestrengt.\" radioeins\n",
+      "rawVersion": "engl.m.dt.Ut",
       "cinemaId": "fh_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
       "cinemaName": "Freiluftkino Friedrichshain",
@@ -215,10 +260,13 @@
       "id": "fhain-885",
       "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/885",
       "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=874",
-      "trailer": "https://www.youtube.com/watch?v=0GnOo5-j4Ok",
       "title": "Come on Come on",
       "normalizedTitle": "COME ON COME ON",
-      "version": "normal",
+      "version": {
+        "raw": "engl.m.dt.Ut",
+        "original": false,
+        "english": true
+      },
       "date": "Mi., 07.09",
       "timestamp": 1662580800000,
       "time": "20:00",
@@ -227,6 +275,9 @@
       "bookable": true
     },
     {
+      "trailer": "https://www.youtube.com/watch?v=BJ7TYanAAR0",
+      "description": "Der neue Film von Fernando de Leon (Montags in der Sonne) mit einem furios lustvoll aufspielenden Javier Badem als Firmenpatriarch, dem die Kontrolle über sein ehemals souverän geführtes Reich grandios entgleitet. Er ist der perfekte Chef: kompetent, charismatisch und fürsorglich. Als Inhaber eines Familienunternehmens für Industriewaagen ist er beseelt vom Glauben an Gleichgewicht und Gerechtigkeit. Das hat ihm Reichtum beschert, Respekt eingebracht und viele Preise. Nur einer fehlt noch, der Preis für exzellente Unternehmensführung. Das muss zu unsere Freude ordentlich schief gehen ....",
+      "rawVersion": "dt. Fassung",
       "cinemaId": "fh_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
       "cinemaName": "Freiluftkino Friedrichshain",
@@ -234,10 +285,13 @@
       "id": "fhain-883",
       "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/883",
       "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=872",
-      "trailer": "https://www.youtube.com/watch?v=BJ7TYanAAR0",
       "title": "Der perfekte Chef",
       "normalizedTitle": "DER PERFEKTE CHEF",
-      "version": "normal",
+      "version": {
+        "raw": "dt. Fassung",
+        "original": false,
+        "english": false
+      },
       "date": "So., 04.09",
       "timestamp": 1662321600000,
       "time": "20:00",
@@ -246,6 +300,8 @@
       "bookable": true
     },
     {
+      "description": "Bildgewaltiges Epos um eine entmachtete Adelsfamilie und ihren Kampf, die Kontrolle über ihren Heimatplaneten Arrakis zu erlangen, dem Ort, an dem die wertvollste Substanz des Universums abgebaut wird: Spice. Die Begehrlichkeiten sind schnell geschürt - der Beginn einer intergalaktischen Handelsfehde heftigen Ausmaßes. \"DUNE ist vor allem eine überwältigende körperliche Erfahrung.\" Filmstarts",
+      "rawVersion": "dt. Fassung",
       "cinemaId": "fh_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
       "cinemaName": "Freiluftkino Friedrichshain",
@@ -255,7 +311,11 @@
       "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=870",
       "title": "Dune",
       "normalizedTitle": "DUNE",
-      "version": "normal",
+      "version": {
+        "raw": "dt. Fassung",
+        "original": false,
+        "english": false
+      },
       "date": "Fr., 02.09",
       "timestamp": 1662148800000,
       "time": "20:00",
@@ -264,6 +324,9 @@
       "bookable": true
     },
     {
+      "trailer": "https://www.youtube.com/watch?v=ksuaW_B9Sdk",
+      "description": "Was auch immer guter Sex sein mag, Nancy, eine pensionierte Lehrerin, ist sich ziemlich sicher, dass sie ihn noch nie hatte, aber sie ist entschlossen, endlich etwas dagegen zu tun. Nancy hat sogar schon einen Plan und dieser beinhaltete ein anonymes Hotelzimmer und einen jungen Sexarbeiter, der sich Leo Grande nennt. Leo ist selbstbewusst, adrett und stolz darauf, dass er seinen Job gut macht. Außerdem scheint er von Nancy fasziniert zu sein - eine der vielen Überraschungen, die sie während ihrer gemeinsamen Zeit erleben. \"Filme wie diesen gibt es nicht jeden Tag, und Sie werden ihn nicht verpassen wollen.\" Entertainment Weekly",
+      "rawVersion": "engl.m.dt.Ut",
       "cinemaId": "fh_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
       "cinemaName": "Freiluftkino Friedrichshain",
@@ -271,10 +334,13 @@
       "id": "fhain-880",
       "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/880",
       "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=869",
-      "trailer": "https://www.youtube.com/watch?v=ksuaW_B9Sdk",
       "title": "Meine Stunden mit Leo",
       "normalizedTitle": "MEINE STUNDEN MIT LEO",
-      "version": "normal",
+      "version": {
+        "raw": "engl.m.dt.Ut",
+        "original": false,
+        "english": true
+      },
       "date": "Do., 01.09",
       "timestamp": 1662062400000,
       "time": "20:00",
@@ -283,6 +349,8 @@
       "bookable": true
     },
     {
+      "description": "Wir schreiben die 1970er, lange Haare und Schlaghosen regieren. Außer beim jungen Gru, der in einer Vorstadt aufwächst und ein ganz anderes Ziel verfolgt: Böse genug sein, um Mitglied der Superschurkengruppe Vicious 6 werden zu können. An seiner Seite, weil auch damals schon auf der Suche nach einem würdigen Tyrannen, dem sie folgen können: die Minions in chaotischer Bestform ...",
+      "rawVersion": "dt. Fassung",
       "cinemaId": "fh_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
       "cinemaName": "Freiluftkino Friedrichshain",
@@ -292,7 +360,11 @@
       "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=871",
       "title": "Minions - Auf der Suche nach dem Mini-Boss",
       "normalizedTitle": "MINIONS - AUF DER SUCHE NACH DEM MINI-BOSS",
-      "version": "normal",
+      "version": {
+        "raw": "dt. Fassung",
+        "original": false,
+        "english": false
+      },
       "date": "Sa., 03.09",
       "timestamp": 1662235200000,
       "time": "20:00",
@@ -301,6 +373,8 @@
       "bookable": true
     },
     {
+      "description": "",
+      "rawVersion": "franz.m.dt.Ut",
       "cinemaId": "fh_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
       "cinemaName": "Freiluftkino Friedrichshain",
@@ -310,7 +384,11 @@
       "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=878",
       "title": "Die Küchenbrigade",
       "normalizedTitle": "DIE KÜCHENBRIGADE",
-      "version": "normal",
+      "version": {
+        "raw": "franz.m.dt.Ut",
+        "original": false,
+        "english": false
+      },
       "date": "So., 11.09",
       "timestamp": 1662926400000,
       "time": "20:00",
@@ -319,6 +397,8 @@
       "bookable": true
     },
     {
+      "description": "Ausgangspunkt für die vier so schön verwobenen Episoden des neuen Wes Anderson Films ist die Redaktion des ,French Dispatch’ irgendwo in der französischen Provinz. Die Energie, der Humor, die Phantasie, die ausgeklügelte Ästhetik und die geniale Starpower jeder einzelnen Episode bringen das Beste an Wes Andersons Schaffen zum Strahlen. Und unsere Kinoherzen zum Leuchten.",
+      "rawVersion": "dt. Fassung",
       "cinemaId": "fh_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
       "cinemaName": "Freiluftkino Friedrichshain",
@@ -328,7 +408,11 @@
       "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=875",
       "title": "The French Dispatch",
       "normalizedTitle": "THE FRENCH DISPATCH",
-      "version": "normal",
+      "version": {
+        "raw": "dt. Fassung",
+        "original": false,
+        "english": false
+      },
       "date": "Do., 08.09",
       "timestamp": 1662667200000,
       "time": "20:00",
@@ -339,25 +423,9 @@
   ],
   "Freiluftkino Kreuzberg": [
     {
-      "cinemaId": "kb_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
-      "cinemaName": "Freiluftkino Kreuzberg",
-      "cinemaShortName": "xberg",
-      "id": "xberg-803",
-      "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/803",
-      "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=789",
-      "trailer": "https://www.youtube.com/watch?v=gFAqwx5-j40",
-      "title": "Der beste Film aller Zeiten",
-      "normalizedTitle": "DER BESTE FILM ALLER ZEITEN",
-      "version": "normal",
-      "date": "Di., 23.08",
-      "timestamp": 1661289300000,
-      "time": "21:15",
-      "available": 0,
-      "reserved": 0,
-      "bookable": true
-    },
-    {
+      "trailer": "https://www.youtube.com/watch?v=ksuaW_B9Sdk",
+      "description": "Was auch immer guter Sex sein mag, Nancy, eine pensionierte Lehrerin, ist sich ziemlich sicher, dass sie ihn noch nie hatte, aber sie ist entschlossen, endlich etwas dagegen zu tun. Nancy hat sogar schon einen Plan und dieser beinhaltete ein anonymes Hotelzimmer und einen jungen Sexarbeiter, der sich Leo Grande nennt. Leo ist selbstbewusst, adrett und stolz darauf, dass er seinen Job gut macht. Außerdem scheint er von Nancy fasziniert zu sein - eine der vielen Überraschungen, die sie während ihrer gemeinsamen Zeit erleben. \"Filme wie diesen gibt es nicht jeden Tag, und Sie werden ihn nicht verpassen wollen.\" Entertainment Weekly",
+      "rawVersion": "(engl.m.dt.Ut.)",
       "cinemaId": "kb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
       "cinemaName": "Freiluftkino Kreuzberg",
@@ -365,10 +433,13 @@
       "id": "xberg-804",
       "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/804",
       "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=790",
-      "trailer": "https://www.youtube.com/watch?v=ksuaW_B9Sdk",
       "title": "Meine Stunden mit Leo",
       "normalizedTitle": "MEINE STUNDEN MIT LEO",
-      "version": "normal",
+      "version": {
+        "raw": "(engl.m.dt.Ut.)",
+        "original": false,
+        "english": true
+      },
       "date": "Mi., 24.08",
       "timestamp": 1661375700000,
       "time": "21:15",
@@ -377,6 +448,8 @@
       "bookable": true
     },
     {
+      "description": "Vom Computer-Nerd zum Datenkünstler, vom Einsiedler zum Medienstar, vom subversiven Hacker zum Verfechter der Demokratie: Der energiegeladene Dokumentarfilm \"Alles ist eins. Außer der 0.\" zeigt mit cleveren Montagen, wie große Fragen unserer Gegenwart das Leben und Wirken Wau Hollands durchzogen haben. Erzählt wird dabei auch die Geschichte von Deutschlands bekanntester Hackervereinigung, dem Chaos Computer Club, der von einer exklusiven Vereinigung zu einer Instanz wurde, die heute bei vielen Fragen der Netzpolitik zu Rate gezogen wird. Angesichts der heutigen Dynamik des Internets, in der Meinung nicht nur freie Äußerung sondern auch eine Waffe sein kann, wirkt die Hackerethik des CCC wie ein Mahnmal ziviler Werte. Dem Film voraus geht die Vorstellung der ersten gemeinsamen Broschüre des Weizenbaum-Instituts und der Berliner Landeszentrale für politische Bildung zum Thema \"Demokratie und Digitalisierung\" und ein Podiumsgespräch mit Ina Czyborra vom Berliner Abgeordnetenhaus und Tim Pritlove vom Chaos Computer Club darüber, was der Staat tun muss und was Zivilgesellschaft tun darf, um Demokratie zu ermöglichen und zu stärken.  ",
+      "rawVersion": "(dt.m.engl.Ut)",
       "cinemaId": "kb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
       "cinemaName": "Freiluftkino Kreuzberg",
@@ -386,7 +459,11 @@
       "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=802",
       "title": "Weizenbaum-Filmnacht 2022: Alles ist eins. Ausser der 0.",
       "normalizedTitle": "WEIZENBAUM-FILMNACHT 2022: ALLES IST EINS. AUSSER DER 0.",
-      "version": "normal",
+      "version": {
+        "raw": "(dt.m.engl.Ut)",
+        "original": false,
+        "english": true
+      },
       "date": "Do., 25.08",
       "timestamp": 1661462100000,
       "time": "21:15",
@@ -395,6 +472,9 @@
       "bookable": true
     },
     {
+      "trailer": "https://www.youtube.com/watch?v=v8cEqUuqO40",
+      "description": "Sommer 1969 in der nordirischen Hauptstadt: Der neunjährige Buddy liebt Kinobesuche, Matchbox-Autos und seine hingebungsvollen Großeltern. Die zunehmenden Spannungen auf den Straßen hemmen seinen Abenteuerdrang kaum.\"In seinem schwarz-weißen, hochemotionalen Film spricht Branagh mit großartigen Darstellern (Jamie Dornan, Caitriona Balfe, Ciarán Hinds und Judi Dench) berührend von der menschlichen Größe und der Kraft einfacher Leute.\" Knut Elstermann radioeins",
+      "rawVersion": "(engl.m.dt.Ut.)",
       "cinemaId": "kb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
       "cinemaName": "Freiluftkino Kreuzberg",
@@ -402,10 +482,13 @@
       "id": "xberg-809",
       "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/809",
       "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=796",
-      "trailer": "https://www.youtube.com/watch?v=v8cEqUuqO40",
       "title": "Belfast",
       "normalizedTitle": "BELFAST",
-      "version": "normal",
+      "version": {
+        "raw": "(engl.m.dt.Ut.)",
+        "original": false,
+        "english": true
+      },
       "date": "Di., 30.08",
       "timestamp": 1661894100000,
       "time": "21:15",
@@ -414,6 +497,9 @@
       "bookable": true
     },
     {
+      "trailer": "https://www.youtube.com/watch?v=BJ7TYanAAR0",
+      "description": "Der neue Film von Fernando de Leon (Montags in der Sonne) mit einem furios lustvoll aufspielenden Javier Badem als Firmenpatriarch, dem die Kontrolle über sein ehemals souverän geführtes Reich grandios entgleitet. Er ist der perfekte Chef: kompetent, charismatisch und fürsorglich. Als Inhaber eines Familienunternehmens für Industriewaagen ist er beseelt vom Glauben an Gleichgewicht und Gerechtigkeit. Das hat ihm Reichtum beschert, Respekt eingebracht und viele Preise. Nur einer fehlt noch, der Preis für exzellente Unternehmensführung. Das muss zu unsere Freude ordentlich schief gehen ....",
+      "rawVersion": "(span.m.dt.Ut)",
       "cinemaId": "kb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
       "cinemaName": "Freiluftkino Kreuzberg",
@@ -421,10 +507,13 @@
       "id": "xberg-810",
       "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/810",
       "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=797",
-      "trailer": "https://www.youtube.com/watch?v=BJ7TYanAAR0",
       "title": "Der perfekte Chef",
       "normalizedTitle": "DER PERFEKTE CHEF",
-      "version": "normal",
+      "version": {
+        "raw": "(span.m.dt.Ut)",
+        "original": false,
+        "english": false
+      },
       "date": "Mi., 31.08",
       "timestamp": 1661980500000,
       "time": "21:15",
@@ -433,6 +522,8 @@
       "bookable": true
     },
     {
+      "description": "Bildgewaltiges Epos um eine entmachtete Adelsfamilie und ihren Kampf, die Kontrolle über ihren Heimatplaneten Arrakis zu erlangen, dem Ort, an dem die wertvollste Substanz des Universums abgebaut wird: Spice. Die Begehrlichkeiten sind schnell geschürt - der Beginn einer intergalaktischen Handelsfehde heftigen Ausmaßes. \"DUNE ist vor allem eine überwältigende körperliche Erfahrung.\" Filmstarts",
+      "rawVersion": "(engl.m.dt.Ut.)",
       "cinemaId": "kb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
       "cinemaName": "Freiluftkino Kreuzberg",
@@ -442,7 +533,11 @@
       "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=794",
       "title": "Dune",
       "normalizedTitle": "DUNE",
-      "version": "normal",
+      "version": {
+        "raw": "(engl.m.dt.Ut.)",
+        "original": false,
+        "english": true
+      },
       "date": "So., 28.08",
       "timestamp": 1661716800000,
       "time": "20:00",
@@ -451,6 +546,9 @@
       "bookable": true
     },
     {
+      "trailer": "https://www.youtube.com/watch?v=nz-eUNVQpzk",
+      "description": "Evelyn Wang betreibt einen Waschsalon und führt ein eher durchschnittliches Leben. Bis sie eines Tages, mitten im Finanzamt, aus einem Paralleluniversum kontaktiert wird und erfährt, dass nur sie die Welt retten kann. Unsere Heldin wider Willen hat nicht viel Zeit um zu lernen, ihre neu entdeckten Kräfte zu kanalisieren und sich durch die zersplitternden Zeitlinien des Multiversums zu kämpfen, um ihre Heimat, ihre Familie und sich selbst zu retten. \"Ein echter Ritt in die äußerste Wildnis der Fantasie, ins Reich des luziden Träumens und der Grenzräume.\" The Independent  \"Einer der originellsten und kreativsten Filme der letzten Jahre.\" San Francisco Chronicle ",
+      "rawVersion": "(engl./mand./kant.m.dt.Ut)",
       "cinemaId": "kb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
       "cinemaName": "Freiluftkino Kreuzberg",
@@ -458,10 +556,13 @@
       "id": "xberg-816",
       "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/816",
       "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=803",
-      "trailer": "https://www.youtube.com/watch?v=nz-eUNVQpzk",
       "title": "Everything Everywhere All At Once",
       "normalizedTitle": "EVERYTHING EVERYWHERE ALL AT ONCE",
-      "version": "normal",
+      "version": {
+        "raw": "(engl./mand./kant.m.dt.Ut)",
+        "original": false,
+        "english": true
+      },
       "date": "Mo., 29.08",
       "timestamp": 1661807700000,
       "time": "21:15",
@@ -470,6 +571,9 @@
       "bookable": true
     },
     {
+      "trailer": "https://www.youtube.com/watch?v=sm89nsy-5bE",
+      "description": "Der Schauspieler Nicolas Cage steht vor dem finanziellen Ruin und sieht sich gewzungen ein 1 Million Dollar Angebot anzunehmen, für das er den Geburtstag eines Superfans besuchen muss. Leider jedoch entpuppt dieser sich als gefährlicher Gangster und Mitglied eines Drogen-Kartells. Und damit fangen die Probleme erst dann. Kurzum: Mit einem Mal sieht er sich gezwungen, seiner eigenen Legende gerecht zu werden, indem er seine ikonischsten und beliebtesten Filmfiguren verkörpert, um sich und seine Liebsten zu retten. Der preisgekrönte Schauspieler muss die Rolle seines Lebens annehmen: Nick Cage. ",
+      "rawVersion": "(engl.m.dt.Ut.)",
       "cinemaId": "kb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
       "cinemaName": "Freiluftkino Kreuzberg",
@@ -477,10 +581,13 @@
       "id": "xberg-805",
       "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/805",
       "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=792",
-      "trailer": "https://www.youtube.com/watch?v=sm89nsy-5bE",
       "title": "Massive Talent",
       "normalizedTitle": "MASSIVE TALENT",
-      "version": "normal",
+      "version": {
+        "raw": "(engl.m.dt.Ut.)",
+        "original": false,
+        "english": true
+      },
       "date": "Fr., 26.08",
       "timestamp": 1661548500000,
       "time": "21:15",
@@ -489,6 +596,8 @@
       "bookable": true
     },
     {
+      "description": "Ausgangspunkt für die vier so schön verwobenen Episoden des neuen Wes Anderson Films ist die Redaktion des ,French Dispatch’ irgendwo in der französischen Provinz. Die Energie, der Humor, die Phantasie, die ausgeklügelte Ästhetik und die geniale Starpower jeder einzelnen Episode bringen das Beste an Wes Andersons Schaffen zum Strahlen. Und unsere Kinoherzen zum Leuchten.",
+      "rawVersion": "(engl.m.dt.Ut.)",
       "cinemaId": "kb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
       "cinemaName": "Freiluftkino Kreuzberg",
@@ -498,7 +607,11 @@
       "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=793",
       "title": "The French Dispatch",
       "normalizedTitle": "THE FRENCH DISPATCH",
-      "version": "normal",
+      "version": {
+        "raw": "(engl.m.dt.Ut.)",
+        "original": false,
+        "english": true
+      },
       "date": "Sa., 27.08",
       "timestamp": 1661630400000,
       "time": "20:00",
@@ -507,6 +620,9 @@
       "bookable": true
     },
     {
+      "trailer": "https://www.youtube.com/watch?v=55M5ZgAqbWo",
+      "description": "In den meisten Dingen ist Julie unentschlossen. Sei es das Studium oder die Liebe - sie kann und will sich nicht festlegen. Zu viele Wege sind offen. Zu viele Möglichkeiten bieten sich an. Das zeigt sich einmal mehr, als zwei sehr unterschiedliche Männer in ihr Leben treten. Julie navigiert durch Liebesaffären und existenzielle Unsicherheiten, während sie beginnt zu entscheiden, wer sie werden will. Joachim Triers herrlicher Film über die Liebe und die vermaledeite Suche nach diesem Ding namens Glück, ist einer unserer Lieblingsfilme der Saison.  \"Einer der zärtlichsten und klügsten Filme der letzten Monate\" artechock\n",
+      "rawVersion": "(norw./dt.Ut)",
       "cinemaId": "kb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
       "cinemaName": "Freiluftkino Kreuzberg",
@@ -514,10 +630,13 @@
       "id": "xberg-811",
       "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/811",
       "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=798",
-      "trailer": "https://www.youtube.com/watch?v=55M5ZgAqbWo",
       "title": "Der schlimmste Mensch der Welt",
       "normalizedTitle": "DER SCHLIMMSTE MENSCH DER WELT",
-      "version": "normal",
+      "version": {
+        "raw": "(norw./dt.Ut)",
+        "original": false,
+        "english": false
+      },
       "date": "Do., 01.09",
       "timestamp": 1662066900000,
       "time": "21:15",
@@ -526,6 +645,9 @@
       "bookable": true
     },
     {
+      "trailer": "https://www.youtube.com/watch?v=KT3GNpxvI00",
+      "description": "\"Hommage an einen Musiker, ein Sexidol, eine Ikone \"Elvis\" ist ein mitreißender Blick auf eine Ära der Pop- aber auch der Sozialgeschichte Amerikas. Egal ob legendärer Hüftschwung, die pomadierte Tolle oder ein Blick der sich irgendwo zwischen verführerisch und gefährlich bewegt: Austin Butler überzeugt in jedem Moment und kommt dem unbeschreiblichen Mysterium Elvis Presleys so nah wie möglich.\" Besser als programmkino.de hätten wir das auch nicht sagen können.",
+      "rawVersion": "(engl.m.dt.Ut.)",
       "cinemaId": "kb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
       "cinemaName": "Freiluftkino Kreuzberg",
@@ -533,10 +655,13 @@
       "id": "xberg-813",
       "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/813",
       "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=800",
-      "trailer": "https://www.youtube.com/watch?v=KT3GNpxvI00",
       "title": "Elvis",
       "normalizedTitle": "ELVIS",
-      "version": "normal",
+      "version": {
+        "raw": "(engl.m.dt.Ut.)",
+        "original": false,
+        "english": true
+      },
       "date": "Sa., 03.09",
       "timestamp": 1662235200000,
       "time": "20:00",
@@ -545,6 +670,9 @@
       "bookable": true
     },
     {
+      "trailer": "https://www.youtube.com/watch?v=NOWXkjhqSqQ",
+      "description": "Der Schwertkämpfer Li Mu Bai möchte sich endlich zur Ruhe setzen und ein neues Leben beginnen. Er vertraut seine Waffe seiner langjährigen Weggefährtin Yu Shu Lien an, mit der ihn eine unausgelebte, heimliche Liebe verbindet. Als das Schwert eines Abends von einer maskierten Person gestohlen wird, ist dies der Beginn einer wilden Jagd. Ein aufwendiges Martial-Arts-Epos von zeitloser Schönheit. ",
+      "rawVersion": "(mand.m.dt.Ut.)",
       "cinemaId": "kb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
       "cinemaName": "Freiluftkino Kreuzberg",
@@ -552,10 +680,13 @@
       "id": "xberg-814",
       "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/814",
       "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=801",
-      "trailer": "https://www.youtube.com/watch?v=NOWXkjhqSqQ",
       "title": "Tiger & Dragon",
       "normalizedTitle": "TIGER & DRAGON",
-      "version": "normal",
+      "version": {
+        "raw": "(mand.m.dt.Ut.)",
+        "original": false,
+        "english": false
+      },
       "date": "So., 04.09",
       "timestamp": 1662321600000,
       "time": "20:00",
@@ -566,6 +697,9 @@
   ],
   "Freiluftkino Rehberge": [
     {
+      "trailer": "https://www.youtube.com/watch?v=KT3GNpxvI00",
+      "description": "\"Hommage an einen Musiker, ein Sexidol, eine Ikone \"Elvis\" ist ein mitreißender Blick auf eine Ära der Pop- aber auch der Sozialgeschichte Amerikas. Egal ob legendärer Hüftschwung, die pomadierte Tolle oder ein Blick der sich irgendwo zwischen verführerisch und gefährlich bewegt: Austin Butler überzeugt in jedem Moment und kommt dem unbeschreiblichen Mysterium Elvis Presleys so nah wie möglich.\" Besser als programmkino.de hätten wir das auch nicht sagen können.",
+      "rawVersion": "engl.m.dt.Ut",
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
@@ -573,10 +707,13 @@
       "id": "rehberge-825",
       "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/825",
       "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=785",
-      "trailer": "https://www.youtube.com/watch?v=KT3GNpxvI00",
       "title": "Elvis",
       "normalizedTitle": "ELVIS",
-      "version": "normal",
+      "version": {
+        "raw": "engl.m.dt.Ut",
+        "original": false,
+        "english": true
+      },
       "date": "Fr., 09.09",
       "timestamp": 1662753600000,
       "time": "20:00",
@@ -585,6 +722,9 @@
       "bookable": true
     },
     {
+      "trailer": "https://www.youtube.com/watch?v=nz-eUNVQpzk",
+      "description": "Evelyn Wang betreibt einen Waschsalon und führt ein eher durchschnittliches Leben. Bis sie eines Tages, mitten im Finanzamt, aus einem Paralleluniversum kontaktiert wird und erfährt, dass nur sie die Welt retten kann. Unsere Heldin wider Willen hat nicht viel Zeit um zu lernen, ihre neu entdeckten Kräfte zu kanalisieren und sich durch die zersplitternden Zeitlinien des Multiversums zu kämpfen, um ihre Heimat, ihre Familie und sich selbst zu retten. \"Ein echter Ritt in die äußerste Wildnis der Fantasie, ins Reich des luziden Träumens und der Grenzräume.\" The Independent  \"Einer der originellsten und kreativsten Filme der letzten Jahre.\" San Francisco Chronicle ",
+      "rawVersion": "dt. Fassung",
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
@@ -592,10 +732,13 @@
       "id": "rehberge-811",
       "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/811",
       "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=787",
-      "trailer": "https://www.youtube.com/watch?v=nz-eUNVQpzk",
       "title": "Everything Everywhere All At Once",
       "normalizedTitle": "EVERYTHING EVERYWHERE ALL AT ONCE",
-      "version": "normal",
+      "version": {
+        "raw": "dt. Fassung",
+        "original": false,
+        "english": false
+      },
       "date": "Mi., 24.08",
       "timestamp": 1661373000000,
       "time": "20:30",
@@ -604,24 +747,9 @@
       "bookable": true
     },
     {
-      "cinemaId": "rb_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
-      "cinemaName": "Freiluftkino Rehberge",
-      "cinemaShortName": "rehberge",
-      "id": "rehberge-830",
-      "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/830",
-      "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=807",
-      "title": "Grease",
-      "normalizedTitle": "GREASE",
-      "version": "normal",
-      "date": "Di., 23.08",
-      "timestamp": 1661286600000,
-      "time": "20:30",
-      "available": 0,
-      "reserved": 0,
-      "bookable": true
-    },
-    {
+      "trailer": "https://www.youtube.com/watch?v=v8cEqUuqO40",
+      "description": "Sommer 1969 in der nordirischen Hauptstadt: Der neunjährige Buddy liebt Kinobesuche, Matchbox-Autos und seine hingebungsvollen Großeltern. Die zunehmenden Spannungen auf den Straßen hemmen seinen Abenteuerdrang kaum.\"In seinem schwarz-weißen, hochemotionalen Film spricht Branagh mit großartigen Darstellern (Jamie Dornan, Caitriona Balfe, Ciarán Hinds und Judi Dench) berührend von der menschlichen Größe und der Kraft einfacher Leute.\" Knut Elstermann radioeins",
+      "rawVersion": "engl.m.dt.Ut",
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
@@ -629,10 +757,13 @@
       "id": "rehberge-815",
       "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/815",
       "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=791",
-      "trailer": "https://www.youtube.com/watch?v=v8cEqUuqO40",
       "title": "Belfast",
       "normalizedTitle": "BELFAST",
-      "version": "normal",
+      "version": {
+        "raw": "engl.m.dt.Ut",
+        "original": false,
+        "english": true
+      },
       "date": "Mo., 29.08",
       "timestamp": 1661804100000,
       "time": "20:15",
@@ -641,6 +772,8 @@
       "bookable": true
     },
     {
+      "description": "24 Stunden Berlin durch das Auge einer Kamera gesehen. Der nicht-narrative \"Stadtfilm\", nach einer Idee des Drehbuchautors Carl Mayer in neusachlicher Manier der aktuellen \"Bildreportage\" in einer wegweisenden Collage- und Montagetechnik gehalten, übersetzt das pulsierende Leben der Großstadt in filmische Dynamik und pure Rhythmik.\nAußerdem der Kurzfilm EIN LICHTSPIEL SCHWARZ-WEISS-GRAU (1932) von Bauhaus Legende László Moholy-Nagy.\n",
+      "rawVersion": "",
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
@@ -650,7 +783,11 @@
       "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=788",
       "title": "Die Sinfonie einer Großstadt / Live Klavierbegleitung von Jürgen Kurz",
       "normalizedTitle": "DIE SINFONIE EINER GROSSSTADT / LIVE KLAVIERBEGLEITUNG VON JÜRGEN KURZ",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "Do., 25.08",
       "timestamp": 1661459400000,
       "time": "20:30",
@@ -659,6 +796,9 @@
       "bookable": true
     },
     {
+      "trailer": "https://www.youtube.com/watch?v=05ebuAXSdkI",
+      "description": "Heiko, Stammgast in einer Berliner Kneipe, kommt erst dann ganz zu sich, wenn er ein paar Bier und Futschi intus hat – und mutiert dann auch gerne zum Darts-Champion. Dabei ist er nicht ohne Ziel: Mit dem Preisgeld der Kneipenmeisterschaft will er die Augenoperation seiner Mutter bezahlen. Bis er auf eine scheinbar überlegene Gegnerin stößt, die im Gegenzug für einen Turnierverzicht Hilfe bei einem skurrilen Diebstahl verlangt.  \"Heikos Welt ist wunderbar entspannt, wie ein Kneipenabend.\" kino-zeit",
+      "rawVersion": "dt. Fassung",
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
@@ -666,10 +806,13 @@
       "id": "rehberge-817",
       "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/817",
       "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=793",
-      "trailer": "https://www.youtube.com/watch?v=05ebuAXSdkI",
       "title": "Heikos Welt",
       "normalizedTitle": "HEIKOS WELT",
-      "version": "normal",
+      "version": {
+        "raw": "dt. Fassung",
+        "original": false,
+        "english": false
+      },
       "date": "Mi., 31.08",
       "timestamp": 1661976900000,
       "time": "20:15",
@@ -678,6 +821,9 @@
       "bookable": true
     },
     {
+      "trailer": "https://www.youtube.com/watch?v=sm89nsy-5bE",
+      "description": "Der Schauspieler Nicolas Cage steht vor dem finanziellen Ruin und sieht sich gewzungen ein 1 Million Dollar Angebot anzunehmen, für das er den Geburtstag eines Superfans besuchen muss. Leider jedoch entpuppt dieser sich als gefährlicher Gangster und Mitglied eines Drogen-Kartells. Und damit fangen die Probleme erst dann. Kurzum: Mit einem Mal sieht er sich gezwungen, seiner eigenen Legende gerecht zu werden, indem er seine ikonischsten und beliebtesten Filmfiguren verkörpert, um sich und seine Liebsten zu retten. Der preisgekrönte Schauspieler muss die Rolle seines Lebens annehmen: Nick Cage. ",
+      "rawVersion": "engl.m.dt.Ut",
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
@@ -685,10 +831,13 @@
       "id": "rehberge-814",
       "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/814",
       "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=790",
-      "trailer": "https://www.youtube.com/watch?v=sm89nsy-5bE",
       "title": "Massive Talent",
       "normalizedTitle": "MASSIVE TALENT",
-      "version": "normal",
+      "version": {
+        "raw": "engl.m.dt.Ut",
+        "original": false,
+        "english": true
+      },
       "date": "So., 28.08",
       "timestamp": 1661718600000,
       "time": "20:30",
@@ -697,6 +846,9 @@
       "bookable": true
     },
     {
+      "trailer": "https://www.youtube.com/watch?v=ZKrYSfBz_G8",
+      "description": "Monsieur Claude, der Meister der formvollendeten Zerknirschung, ist zurück! Keiner beherrscht die Kunst der gerümpften Nase so unterhaltsam wie er: Christian Clavier brilliert in seinem langerwarteten neuen Leinwandabenteuer in der Königsklasse der familiären Diplomatie: Einem Fest aus Anlass seines 40. Hochzeitstags.",
+      "rawVersion": "dt. Fassung",
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
@@ -704,10 +856,13 @@
       "id": "rehberge-813",
       "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/813",
       "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=789",
-      "trailer": "https://www.youtube.com/watch?v=ZKrYSfBz_G8",
       "title": "Monsieur Claude und sein großes Fest",
       "normalizedTitle": "MONSIEUR CLAUDE UND SEIN GROSSES FEST",
-      "version": "normal",
+      "version": {
+        "raw": "dt. Fassung",
+        "original": false,
+        "english": false
+      },
       "date": "Sa., 27.08",
       "timestamp": 1661632200000,
       "time": "20:30",
@@ -716,6 +871,8 @@
       "bookable": true
     },
     {
+      "description": "Ein Poetry Slam von den Kiezpoeten. Könnte das nicht eine richtig gute Idee sein, fragst du dich. Mit einem kühlen Bier in der Hand unter schattigen Bäumen fläzen und dabei großartig unterhalten werden? Und du hast Recht, genau das wird passieren. \"Das ist ein richtig guter Sommer\", wirst du dir denken, wenn du mit deinen Freund:innen im Schlepptau den Sonnenuntergang hinter der Bühne des Rehberge Freiluftkinos genießt, und du wirst absolut Recht haben. \"Aber wer tritt denn da eigentlich auf?\", fragst du dich, als du dein vergünstigtes Early Bird Ticket kaufst. Eine Schleswig-Holsteinische Meisterin im Poetry Slam zum Beispiel. Ein Berliner Meister natürlich auch. Und überhaupt: die charmantesten, authentischsten und unterhaltsamsten Slammer:innen die die Szene zu bieten hat. Gute Entscheidung also, dass du hier dabei sein willst.",
+      "rawVersion": "dt. Fassung",
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
@@ -725,7 +882,11 @@
       "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=685",
       "title": "Rehberge Freiluft Slam 2022 / Einlass 18:30 bis 19:00 Uhr",
       "normalizedTitle": "REHBERGE FREILUFT SLAM 2022 / EINLASS 18:30 BIS 19:00 UHR",
-      "version": "normal",
+      "version": {
+        "raw": "dt. Fassung",
+        "original": false,
+        "english": false
+      },
       "date": "Fr., 26.08",
       "timestamp": 1661542200000,
       "time": "19:30",
@@ -734,6 +895,9 @@
       "bookable": true
     },
     {
+      "trailer": "https://www.youtube.com/watch?v=TCuhswRzQxs",
+      "description": "Mit Leichtigkeit, Stilsicherheit, Emotion und einer großen Portion Humor führt Regisseurin Karoline Herfurth die Geschichten von fünf Frauen zusammen, die auf unterschiedlichste Weise mit längst überholt geglaubten Rollenmustern genauso zu kämpfen haben, wie mit den Anforderungen des permanenten Selbst-Optimierungswahns. Die so leicht eingeforderte Body-Positivity ist nur ein Teil davon. Getragen von einem fantastischen Ensemble um  Martina Gedeck, Nora Tschirner, Emilia Schüle, Friedrich Mücke, Maximilian Brückner und Joachim Król. \n",
+      "rawVersion": "dt. Fassung",
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
@@ -741,10 +905,13 @@
       "id": "rehberge-816",
       "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/816",
       "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=792",
-      "trailer": "https://www.youtube.com/watch?v=TCuhswRzQxs",
       "title": "Wunderschön",
       "normalizedTitle": "WUNDERSCHÖN",
-      "version": "normal",
+      "version": {
+        "raw": "dt. Fassung",
+        "original": false,
+        "english": false
+      },
       "date": "Di., 30.08",
       "timestamp": 1661890500000,
       "time": "20:15",
@@ -753,6 +920,9 @@
       "bookable": true
     },
     {
+      "trailer": "https://www.youtube.com/watch?v=BJ7TYanAAR0",
+      "description": "Der neue Film von Fernando de Leon (Montags in der Sonne) mit einem furios lustvoll aufspielenden Javier Badem als Firmenpatriarch, dem die Kontrolle über sein ehemals souverän geführtes Reich grandios entgleitet. Er ist der perfekte Chef: kompetent, charismatisch und fürsorglich. Als Inhaber eines Familienunternehmens für Industriewaagen ist er beseelt vom Glauben an Gleichgewicht und Gerechtigkeit. Das hat ihm Reichtum beschert, Respekt eingebracht und viele Preise. Nur einer fehlt noch, der Preis für exzellente Unternehmensführung. Das muss zu unsere Freude ordentlich schief gehen ....",
+      "rawVersion": "dt. Fassung",
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
@@ -760,10 +930,13 @@
       "id": "rehberge-828",
       "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/828",
       "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=797",
-      "trailer": "https://www.youtube.com/watch?v=BJ7TYanAAR0",
       "title": "Der perfekte Chef",
       "normalizedTitle": "DER PERFEKTE CHEF",
-      "version": "normal",
+      "version": {
+        "raw": "dt. Fassung",
+        "original": false,
+        "english": false
+      },
       "date": "So., 04.09",
       "timestamp": 1662321600000,
       "time": "20:00",
@@ -772,6 +945,9 @@
       "bookable": true
     },
     {
+      "trailer": "https://www.youtube.com/watch?v=55M5ZgAqbWo",
+      "description": "In den meisten Dingen ist Julie unentschlossen. Sei es das Studium oder die Liebe - sie kann und will sich nicht festlegen. Zu viele Wege sind offen. Zu viele Möglichkeiten bieten sich an. Das zeigt sich einmal mehr, als zwei sehr unterschiedliche Männer in ihr Leben treten. Julie navigiert durch Liebesaffären und existenzielle Unsicherheiten, während sie beginnt zu entscheiden, wer sie werden will. Joachim Triers herrlicher Film über die Liebe und die vermaledeite Suche nach diesem Ding namens Glück, ist einer unserer Lieblingsfilme der Saison.  \"Einer der zärtlichsten und klügsten Filme der letzten Monate\" artechock\n",
+      "rawVersion": "dt. Fassung",
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
@@ -779,10 +955,13 @@
       "id": "rehberge-823",
       "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/823",
       "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=799",
-      "trailer": "https://www.youtube.com/watch?v=55M5ZgAqbWo",
       "title": "Der schlimmste Mensch der Welt",
       "normalizedTitle": "DER SCHLIMMSTE MENSCH DER WELT",
-      "version": "normal",
+      "version": {
+        "raw": "dt. Fassung",
+        "original": false,
+        "english": false
+      },
       "date": "Mi., 07.09",
       "timestamp": 1662580800000,
       "time": "20:00",
@@ -791,6 +970,8 @@
       "bookable": true
     },
     {
+      "description": "Bildgewaltiges Epos um eine entmachtete Adelsfamilie und ihren Kampf, die Kontrolle über ihren Heimatplaneten Arrakis zu erlangen, dem Ort, an dem die wertvollste Substanz des Universums abgebaut wird: Spice. Die Begehrlichkeiten sind schnell geschürt - der Beginn einer intergalaktischen Handelsfehde heftigen Ausmaßes. \"DUNE ist vor allem eine überwältigende körperliche Erfahrung.\" Filmstarts",
+      "rawVersion": "dt. Fassung",
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
@@ -800,7 +981,11 @@
       "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=794",
       "title": "Dune",
       "normalizedTitle": "DUNE",
-      "version": "normal",
+      "version": {
+        "raw": "dt. Fassung",
+        "original": false,
+        "english": false
+      },
       "date": "Do., 01.09",
       "timestamp": 1662062400000,
       "time": "20:00",
@@ -809,6 +994,8 @@
       "bookable": true
     },
     {
+      "description": "Ausgangspunkt für die vier so schön verwobenen Episoden des neuen Wes Anderson Films ist die Redaktion des ,French Dispatch’ irgendwo in der französischen Provinz. Die Energie, der Humor, die Phantasie, die ausgeklügelte Ästhetik und die geniale Starpower jeder einzelnen Episode bringen das Beste an Wes Andersons Schaffen zum Strahlen. Und unsere Kinoherzen zum Leuchten.",
+      "rawVersion": "dt. Fassung",
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
@@ -818,7 +1005,11 @@
       "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=795",
       "title": "The French Dispatch",
       "normalizedTitle": "THE FRENCH DISPATCH",
-      "version": "normal",
+      "version": {
+        "raw": "dt. Fassung",
+        "original": false,
+        "english": false
+      },
       "date": "Fr., 02.09",
       "timestamp": 1662148800000,
       "time": "20:00",
@@ -827,6 +1018,8 @@
       "bookable": true
     },
     {
+      "description": "For English press Brittain-Flag Button!\n\nMit dem einzigartigen Live-Cast-Team von Max Mayhem. Ein unvergessliches Event. Die Schauspieler kommen ins Publikum. Sie sind wirklich dabei, wenn Janet und Brad im Schloss von Dr. Frank-N-Furter ankommen. Im Freiluftkino Rehberge findet einmal im Jahr die weltweit größte Veranstaltung dieser Art statt, zu der inzwischen aus ganz Deutschland die Fans anreisen.  Freuen Sie sich auf einen tollen Abend! \n\nBeachten Sie die Einlasszeit, die auf Ihrem Ticket hinter dem Filmtitel abgedruckt ist.\n\nMit dem Kauf von Eintrittskarten für unser Freiluftkino Rehberge stimmen Sie der Einhaltung der Zugangs- und Aufenthaltsbestimmungen im Rahmen des Infektionsschutzes, sowie unserer Hausordnung zu. \n\nBitte die Altersfreigabe \"12\" beachten. Kinder ab sechs Jahren können in Begleitung von Erziehungsberechtigten an dieser Veranstaltung teilnehmen. \n\nSie handeln durch den Kauf der Eintrittskarten selbstverantwortlich und sind für die Beachtung der Altersfreigaben und Einlassbedingungen verantwortlich. \n\nUm Missverständnisse zu vermeiden, ist das Mitbringen von Wurfutensilien nicht gestattet. Im Ermessen des/der Einlasser*in können diese aber zugelassen werden. Wenn, diese erlaubt sind, dann nur in haushaltsüblichen Mengen, 100 g pro Person. Konfetti ist nur als Öko-Variante zugelassen. Biologisch abbaubar zum Beispiel Blütenkonfetti bis 50g pro Person. Jede Person darf nur die Menge für eine Person bei sich haben. Mengen für mehrere Personen müssen am Eingang aufgeteilt bzw. Großpakete (1kg) in kleine Tüten umgefüllt werden.\n Wir machen Sie darauf aufmerksam, dass bei dieser Veranstaltung mit Mehl, Wasser und Reis geworfen werden könnte und Ihre Kleidung dadurch beschmutzt werden könnte. Dies ist Teil des Charakters der Veranstaltung, daher sind die Besucher*innen aufgefordert selbst ihre Kleidung etc. vor Verschmutzen zu schützen.\n  Wir bieten an der Gastronomie Regencapes für 1.- € an.\n  Bitte nehmen Sie auf andere Rücksicht!\n \n  Ihr Freiluftkino Rehberge Team",
+      "rawVersion": "engl.OF ohne Ut",
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
@@ -836,7 +1029,11 @@
       "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=686",
       "title": "The Rocky Horror Picture Show - Einlass 18:00 bis 18:45 Uhr",
       "normalizedTitle": "THE ROCKY HORROR PICTURE SHOW - EINLASS 18:00 BIS 18:45 UHR",
-      "version": "normal",
+      "version": {
+        "raw": "engl.OF ohne Ut",
+        "original": true,
+        "english": true
+      },
       "date": "Sa., 03.09",
       "timestamp": 1662235200000,
       "time": "20:00",
@@ -845,6 +1042,8 @@
       "bookable": true
     },
     {
+      "description": "Mit den Filmen:  MENARCA; THE WORDS I DO HAVE TO GET; HEAVEN REACHES DOWN TO EARTH: SCUM MUTATION und RED ANINSRI - OR TIPTOEING N STILL TREMBLING BERLIN WALL.",
+      "rawVersion": "original mit engl. Ut.",
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
@@ -854,7 +1053,11 @@
       "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=806",
       "title": "XPOSED SUNSET - Queer Short Films",
       "normalizedTitle": "XPOSED SUNSET - QUEER SHORT FILMS",
-      "version": "normal",
+      "version": {
+        "raw": "original mit engl. Ut.",
+        "original": true,
+        "english": true
+      },
       "date": "Mo., 05.09",
       "timestamp": 1662408000000,
       "time": "20:00",
@@ -863,6 +1066,8 @@
       "bookable": true
     },
     {
+      "description": "",
+      "rawVersion": "engl.m.dt.Ut",
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
@@ -872,7 +1077,11 @@
       "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=803",
       "title": "Das Piano",
       "normalizedTitle": "DAS PIANO",
-      "version": "normal",
+      "version": {
+        "raw": "engl.m.dt.Ut",
+        "original": false,
+        "english": true
+      },
       "date": "So., 11.09",
       "timestamp": 1662926400000,
       "time": "20:00",
@@ -887,67 +1096,14 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
       "cinemaName": "freiluftkino-hasenheide",
       "cinemaShortName": "hasenheide",
-      "id": "hasenheide-723430",
-      "title": "Ferien auf Saltkrokan - Die Seeräuber ",
-      "normalizedTitle": "FERIEN AUF SALTKROKAN - DIE SEERÄUBER",
-      "version": "normal",
-      "date": "Di., 23.08",
-      "timestamp": 1661212800000,
-      "time": "16:00",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/723430?layout=shows",
-      "available": 0,
-      "reserved": 0,
-      "bookable": false
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "hasenheide-723431",
-      "title": "Promising Young Woman (subtitled OV)",
-      "normalizedTitle": "PROMISING YOUNG WOMAN",
-      "version": "subtitled",
-      "date": "Di., 23.08",
-      "timestamp": 1661212800000,
-      "time": "18:00",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/723431?layout=shows",
-      "img": "https://media.kinoheld.de/fW-cOrCqrvAqtkqZkSfxgiVDj2g=/400x560/images%2Ffilm%2Fpromising-young-woman-19021.v7.jpg",
-      "description": "In \"Promising Young Woman\" spielt Carey Mulligan eine Frau auf der Suche nach Rache. Die Oscar®-nominierte Engländerin ist bekannt für ihre Darstellung komplexer Frauenrollen. Von der Musik, über die Kostüme bis zur unglaublich guten Storyline ist der Film ein großartiges Meisterwerk. Im Rahmen der Oscarverleihung 2021 erhielt der Film fünf Nominierungen und wurde für das beste Originaldrehbuch ​mit einem Oscar gekrönt.<br><br>In Cassies Leben ist nichts, wie es scheint. Sie ist klug, gerissen und führt bei Nacht, angetrieben von einem Trauma aus ihrer Vergangenheit, ein mörderisches Doppelleben. Abend für Abend besucht sie Bars und Clubs, um sich an Männern zu rächen, die sich an hilflosen Frauen vergehen. Doch eine unerwartete Begegnung könnte ihr schließlich die Möglichkeit bieten, einige ihrer eigenen Fehler aus der Vergangenheit wieder gut zu machen.",
-      "trailer": "https://www.youtube.com/watch?v=MBd1arxlo3g",
-      "available": -1,
-      "reserved": 0,
-      "bookable": true
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "hasenheide-723432",
-      "title": "B-Movie (subtitled OV)",
-      "normalizedTitle": "B-MOVIE",
-      "version": "subtitled",
-      "date": "Di., 23.08",
-      "timestamp": 1661212800000,
-      "time": "20:45",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/723432?layout=shows",
-      "img": "https://media.kinoheld.de/z5aQ5P65BCIMjnPlUOo7DHAF0WI=/400x560/images%2Ffilm%2F4%2Fb-movie-lust-sound-in-west-berlin-1979-1989-1581.v16.jpg",
-      "description": "Eine Dokumentation über Musik, Kunst & Chaos im wilden West-Berlin der 80er Jahre. Bevor der eiserne Vorhang fiel, war die eingemauerte Stadt ein kreativer Schmelztiegel für Sub- und Popkultur. Von Punk bis zur Love Parade - erzählt mit authentischen Zeitdokumenten aus unzähligen Archiven.",
-      "trailer": "https://youtu.be/MKJ-nXADsVk",
-      "available": -1,
-      "reserved": 0,
-      "bookable": true
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
       "id": "hasenheide-723433",
       "title": "Mein Lotta-Leben - Alles Tschaka mit Alpaka ",
       "normalizedTitle": "MEIN LOTTA-LEBEN - ALLES TSCHAKA MIT ALPAKA",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "Mi., 24.08",
       "timestamp": 1661299200000,
       "time": "16:00",
@@ -967,7 +1123,11 @@
       "id": "hasenheide-723434",
       "title": "Meine Stunden mit Leo (subtitled OV)",
       "normalizedTitle": "MEINE STUNDEN MIT LEO",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV",
+        "original": true,
+        "english": false
+      },
       "date": "Mi., 24.08",
       "timestamp": 1661299200000,
       "time": "18:00",
@@ -987,7 +1147,11 @@
       "id": "hasenheide-723435",
       "title": "Die Magnetischen (subtitled OV / OmU)",
       "normalizedTitle": "DIE MAGNETISCHEN",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV OmU",
+        "original": true,
+        "english": false
+      },
       "date": "Mi., 24.08",
       "timestamp": 1661299200000,
       "time": "20:45",
@@ -1007,7 +1171,11 @@
       "id": "hasenheide-723484",
       "title": "Raya und der letzte Drache ",
       "normalizedTitle": "RAYA UND DER LETZTE DRACHE",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "Do., 25.08",
       "timestamp": 1661385600000,
       "time": "16:00",
@@ -1027,7 +1195,11 @@
       "id": "hasenheide-723485",
       "title": "Nomadland (subtitled OV)",
       "normalizedTitle": "NOMADLAND",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV",
+        "original": true,
+        "english": false
+      },
       "date": "Do., 25.08",
       "timestamp": 1661385600000,
       "time": "18:00",
@@ -1047,7 +1219,11 @@
       "id": "hasenheide-723486",
       "title": "Dune (subtitled OV)",
       "normalizedTitle": "DUNE",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV",
+        "original": true,
+        "english": false
+      },
       "date": "Do., 25.08",
       "timestamp": 1661385600000,
       "time": "20:30",
@@ -1067,7 +1243,11 @@
       "id": "hasenheide-723487",
       "title": "Yakari - Der Kinofilm ",
       "normalizedTitle": "YAKARI - DER KINOFILM",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "Fr., 26.08",
       "timestamp": 1661472000000,
       "time": "16:00",
@@ -1087,14 +1267,18 @@
       "id": "hasenheide-723488",
       "title": "Red Rocket (subtitled OV)",
       "normalizedTitle": "RED ROCKET",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV",
+        "original": true,
+        "english": false
+      },
       "date": "Fr., 26.08",
       "timestamp": 1661472000000,
       "time": "18:00",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/723488?layout=shows",
       "img": "https://media.kinoheld.de/egLvpz0AI04y9NG5zU4eTlANGJ0=/400x560/images%2Ffilm%2Fred-rocket-21835.v5.jpg",
       "description": "Der Ex-Pornostar Mikey Saber (Simon Rex) hat guten Grund, aus Los Angeles abzuhauen. Er drehte viele Pornos dort, nun aber läuft das Geschäft für ihn nicht mehr. Mikey geht in seine kleine Heimatstadt in Texas zurück, wo seine entfremdete Frau Lexi (Bree Elrod) und seine Schwiegermutter Lil (Brenda Deiss) leben. Er zieht mit ein. Gerade als diese eigentlich dysfunktionale Familie einigermaßen zu funktionieren scheint, lernt Mikey eine junge Frau namens Strawberry (Suzanna Son) kennen, die an der Kasse eines örtlichen Donut-Ladens arbeitet. Mikey fällt sofort wieder in seine alten Gewohnheiten zurück. Er will Strawberrys Wunsch erfüllen, ein Pornostar zu werden...",
-      "trailer": "https://youtu.be/MKJ-nXADsVk",
+      "trailer": "https://www.youtube.com/watch?v=nwY3p-6JTQ4",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -1107,12 +1291,16 @@
       "id": "hasenheide-723489",
       "title": "Licorice Pizza (subtitled OV)",
       "normalizedTitle": "LICORICE PIZZA",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV",
+        "original": true,
+        "english": false
+      },
       "date": "Fr., 26.08",
       "timestamp": 1661472000000,
       "time": "20:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/723489?layout=shows",
-      "img": "https://media.kinoheld.de/7yCVQn_Om8o4SId_gNpuwf259Qo=/400x560/images%2Ffilm%2Flicorice-pizza-21773.v382.jpg",
+      "img": "https://media.kinoheld.de/NRR-jb1GWW62vJyhEYF-ujat82U=/400x560/images%2Ffilm%2Flicorice-pizza-21773.v384.jpg",
       "description": "Im kalifornischen San Fernando Valley entwickelt sich 1973 zwischen Mittzwanzigerin Alana und Teenager Gary eine ungewöhnliche Freundschaft. Doch inmitten des alltäglichen Trubels aus Gelegenheitsjobs und Schauspielkarriere, Freunden und Politik, Vinyl und Super 8 entstehen mit der Zeit auch intensivere Gefühle ...",
       "trailer": "https://www.youtube.com/watch?v=hEc9sRd19ac",
       "available": -1,
@@ -1127,7 +1315,11 @@
       "id": "hasenheide-722988",
       "title": "Mein Vater, die Wurst ",
       "normalizedTitle": "MEIN VATER, DIE WURST",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "Sa., 27.08",
       "timestamp": 1661558400000,
       "time": "16:00",
@@ -1147,7 +1339,11 @@
       "id": "hasenheide-723554",
       "title": "Kleinod vor dem Umbruch ",
       "normalizedTitle": "KLEINOD VOR DEM UMBRUCH",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "Sa., 27.08",
       "timestamp": 1661558400000,
       "time": "18:00",
@@ -1164,7 +1360,11 @@
       "id": "hasenheide-723490",
       "title": "Elvis (subtitled OV)",
       "normalizedTitle": "ELVIS",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV",
+        "original": true,
+        "english": false
+      },
       "date": "Sa., 27.08",
       "timestamp": 1661558400000,
       "time": "20:30",
@@ -1184,7 +1384,11 @@
       "id": "hasenheide-723491",
       "title": "Shaun das Schaf - Der Film (2015) ",
       "normalizedTitle": "SHAUN DAS SCHAF - DER FILM",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "Mo., 29.08",
       "timestamp": 1661731200000,
       "time": "16:00",
@@ -1201,7 +1405,11 @@
       "id": "hasenheide-723492",
       "title": "Wunderschön (subtitled OV English)",
       "normalizedTitle": "WUNDERSCHÖN",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV English",
+        "original": true,
+        "english": true
+      },
       "date": "Mo., 29.08",
       "timestamp": 1661731200000,
       "time": "18:00",
@@ -1221,14 +1429,18 @@
       "id": "hasenheide-723493",
       "title": "Last Duel, The (subtitled OV)",
       "normalizedTitle": "LAST DUEL, THE",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV",
+        "original": true,
+        "english": false
+      },
       "date": "Mo., 29.08",
       "timestamp": 1661731200000,
       "time": "20:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/723493?layout=shows",
       "img": "https://media.kinoheld.de/uR1byfxaYBwPUIipOtCHm3p7_gc=/400x560/images%2Ffilm%2Fthe-last-duel-20157.v19.jpg",
       "description": "Als die schöne Marguerite de Carrouges, die Ehefrau des Ritters Jean de Carrouges, den Knappen Jacques Le Gris beschuldigt, sie vergewaltigt zu haben, trägt ihr Mann den Vorwurf König Charles dem Sechsten vor. Der König entscheidet, dass ein Duell der einzige Weg ist, um den Streit der Männer zu schlichten. Der Kampf wird das letzte legale Duell in der Geschichte Frankreichs...",
-      "trailer": "https://youtu.be/MKJ-nXADsVk",
+      "trailer": "https://www.youtube.com/watch?v=dP4efNYXwaA",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -1241,7 +1453,11 @@
       "id": "hasenheide-723494",
       "title": "Mein Freund Poly ",
       "normalizedTitle": "MEIN FREUND POLY",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "Di., 30.08",
       "timestamp": 1661817600000,
       "time": "16:00",
@@ -1261,7 +1477,11 @@
       "id": "hasenheide-723495",
       "title": "Futur Drei (subtitled OV English)",
       "normalizedTitle": "FUTUR DREI",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV English",
+        "original": true,
+        "english": true
+      },
       "date": "Di., 30.08",
       "timestamp": 1661817600000,
       "time": "18:00",
@@ -1281,7 +1501,11 @@
       "id": "hasenheide-723555",
       "title": "One, two, three ",
       "normalizedTitle": "ONE, TWO, THREE",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "Di., 30.08",
       "timestamp": 1661817600000,
       "time": "20:30",
@@ -1301,7 +1525,11 @@
       "id": "hasenheide-723496",
       "title": "Ferien auf Saltkrokan - Glückliche Heimkehr ",
       "normalizedTitle": "FERIEN AUF SALTKROKAN - GLÜCKLICHE HEIMKEHR",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "Mi., 31.08",
       "timestamp": 1661904000000,
       "time": "16:00",
@@ -1318,7 +1546,11 @@
       "id": "hasenheide-723497",
       "title": "Rabiye Kurnaz gegen George W. Bush ",
       "normalizedTitle": "RABIYE KURNAZ GEGEN GEORGE W. BUSH",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "Mi., 31.08",
       "timestamp": 1661904000000,
       "time": "18:00",
@@ -1338,7 +1570,11 @@
       "id": "hasenheide-723498",
       "title": "Der Sommer mit Anais (subtitled OV / OmU)",
       "normalizedTitle": "DER SOMMER MIT ANAIS",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV OmU",
+        "original": true,
+        "english": false
+      },
       "date": "Mi., 31.08",
       "timestamp": 1661904000000,
       "time": "20:30",
@@ -1358,12 +1594,16 @@
       "id": "hasenheide-723539",
       "title": "DC League of Super-Pets ",
       "normalizedTitle": "DC LEAGUE OF SUPER-PETS",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "Do., 01.09",
       "timestamp": 1661990400000,
       "time": "16:00",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/723539?layout=shows",
-      "img": "https://media.kinoheld.de/YyaRkEsC5ltfgHZ6Qrc-grgpL2c=/400x560/images%2Ffilm%2Fdc-league-of-super-pets-23049.v73.jpg",
+      "img": "https://media.kinoheld.de/LgtzfieOO_7XOwdF9846TKRKn2s=/400x560/images%2Ffilm%2Fdc-league-of-super-pets-23049.v76.jpg",
       "description": "Superhund Krypto und Superman. Die beiden besitzen die gleichen Superkräfte und kämpfen in Metropolis Seite an Seite gegen das Verbrechen. Doch als Superman und der Rest der Justice League entführt werden, muss Krypto alles daransetzen, die Helden zu befreien. In Hund Ace, Hängebauchschwein PB, Schildkröte Merton und Eichhörnchen Chip findet er Verbündete. Doch erst einmal muss Krypto die bunt zusammengewürfelte Heimtier-Bande davon überzeugen, ihre neu entdeckten Kräfte zur Rettung der Superhelden einzusetzen.",
       "trailer": "https://www.youtube.com/watch?v=TyMiyczmNh8",
       "available": -1,
@@ -1378,7 +1618,11 @@
       "id": "hasenheide-723540",
       "title": "Der Rausch (subtitled OV / OmU)",
       "normalizedTitle": "DER RAUSCH",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV OmU",
+        "original": true,
+        "english": false
+      },
       "date": "Do., 01.09",
       "timestamp": 1661990400000,
       "time": "18:00",
@@ -1398,7 +1642,11 @@
       "id": "hasenheide-723541",
       "title": "Thor: Love and Thunder (subtitled OV)",
       "normalizedTitle": "THOR: LOVE AND THUNDER",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV",
+        "original": true,
+        "english": false
+      },
       "date": "Do., 01.09",
       "timestamp": 1661990400000,
       "time": "20:15",
@@ -1418,7 +1666,11 @@
       "id": "hasenheide-723542",
       "title": "Das Große Abenteuer des kleinen Vampir ",
       "normalizedTitle": "DAS GROSSE ABENTEUER DES KLEINEN VAMPIR",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "Fr., 02.09",
       "timestamp": 1662076800000,
       "time": "16:00",
@@ -1438,14 +1690,18 @@
       "id": "hasenheide-723556",
       "title": "Get Out (subtitled OV)",
       "normalizedTitle": "GET OUT",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV",
+        "original": true,
+        "english": false
+      },
       "date": "Fr., 02.09",
       "timestamp": 1662076800000,
       "time": "18:00",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/723556?layout=shows",
       "img": "https://media.kinoheld.de/4U8C-7DtGv4GtYT8wn86FPMAR5U=/400x560/images%2Ffilm%2F4%2Fget-out-5542.v13.jpg",
       "description": "Ein Landhaus im Grünen, ein Wochenende bei den neuen Schwiegereltern in spe, der Empfang ist herzlich - vielleicht eine Spur \"zu herzlich\". Schnell muss Chris (Daniel Kaluuya; Sicario) feststellen, dass mit der Familie seiner Freundin Rose (Allison Williams; Girls) etwas nicht stimmt. Bizarre Zwischenfälle verwandeln den vermeintlich entspannten Antrittsbesuch unversehens in einen ausgewachsenen Alptraum für den Familien-Neuling. (Quelle: Verleih)",
-      "trailer": "https://youtu.be/MKJ-nXADsVk",
+      "trailer": "https://www.youtube.com/watch?v=1XTD56Iy7Us",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -1458,7 +1714,11 @@
       "id": "hasenheide-723543",
       "title": "Nope (subtitled OV)",
       "normalizedTitle": "NOPE",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV",
+        "original": true,
+        "english": false
+      },
       "date": "Fr., 02.09",
       "timestamp": 1662076800000,
       "time": "20:15",
@@ -1478,7 +1738,11 @@
       "id": "hasenheide-723544",
       "title": "Encanto ",
       "normalizedTitle": "ENCANTO",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "Sa., 03.09",
       "timestamp": 1662163200000,
       "time": "16:00",
@@ -1498,7 +1762,11 @@
       "id": "hasenheide-723557",
       "title": "Get fucked in Hasenheide - Olympia's Event (OV)",
       "normalizedTitle": "GET FUCKED IN HASENHEIDE - OLYMPIA'S EVENT",
-      "version": "normal",
+      "version": {
+        "raw": "OV",
+        "original": true,
+        "english": false
+      },
       "date": "Sa., 03.09",
       "timestamp": 1662163200000,
       "time": "18:00",
@@ -1515,14 +1783,18 @@
       "id": "hasenheide-723545",
       "title": "Everything Everywhere All at Once (subtitled OV)",
       "normalizedTitle": "EVERYTHING EVERYWHERE ALL AT ONCE",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV",
+        "original": true,
+        "english": false
+      },
       "date": "Sa., 03.09",
       "timestamp": 1662163200000,
       "time": "20:15",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/723545?layout=shows",
-      "img": "https://media.kinoheld.de/fkwZYVniNawZbSIU-vB2K1CEh3k=/400x560/images%2Ffilm%2Feverything-everywhere-all-at-once-22045.v61.jpg",
+      "img": "https://media.kinoheld.de/hXGVafNPrwS49fmcXH1rV6PyIJM=/400x560/images%2Ffilm%2Feverything-everywhere-all-at-once-22045.v63.jpg",
       "description": "Waschsalonbesitzerin Evelyn Wang geht im Chaos ihres Alltags unter: Der bevorstehende Besuch ihres Vaters überfordert sie, die Wünsche der Kunden bringen sie an ihre Grenzen und die anstehende Steuererklärung wächst ihr komplett über den Kopf. Der Gang zum Finanzamt ist unausweichlich, doch während sie mit ihrer Familie bei der Steuerprüferin vorspricht, wird ihr Universum komplett durcheinandergewirbelt. Raum und Zeit lösen sich auf, und die Menschen um sie herum haben, ebenso wie sie selbst, plötzlich weitere Leben in Parallelwelten. Sie entdeckt, dass das Multiversum real ist und sie auf die Fähigkeiten und das Leben anderer Versionen ihrer selbst zugreifen kann. Das ist auch bitter nötig, denn sie wird mit einer großen, wenn nicht der größtmöglichen Mission betraut: Der Rettung der Welt vor dem unbekannten Bösen.",
-      "trailer": "https://youtu.be/MKJ-nXADsVk",
+      "trailer": "https://www.youtube.com/watch?v=nz-eUNVQpzk",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -1535,7 +1807,11 @@
       "id": "hasenheide-723546",
       "title": "Keinen Kaffee für die Hyäne ",
       "normalizedTitle": "KEINEN KAFFEE FÜR DIE HYÄNE",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "So., 04.09",
       "timestamp": 1662249600000,
       "time": "14:30",
@@ -1552,7 +1828,11 @@
       "id": "hasenheide-723547",
       "title": "Sing 2 - Die Show deines Lebens ",
       "normalizedTitle": "SING 2 - DIE SHOW DEINES LEBENS",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "So., 04.09",
       "timestamp": 1662249600000,
       "time": "16:00",
@@ -1572,7 +1852,11 @@
       "id": "hasenheide-723548",
       "title": "Corsage (subtitled OV / OmU)",
       "normalizedTitle": "CORSAGE",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV OmU",
+        "original": true,
+        "english": false
+      },
       "date": "So., 04.09",
       "timestamp": 1662249600000,
       "time": "18:00",
@@ -1591,7 +1875,11 @@
       "id": "hasenheide-723549",
       "title": "House of Gucci (subtitled OV)",
       "normalizedTitle": "HOUSE OF GUCCI",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV",
+        "original": true,
+        "english": false
+      },
       "date": "So., 04.09",
       "timestamp": 1662249600000,
       "time": "20:15",
@@ -1611,7 +1899,11 @@
       "id": "hasenheide-723550",
       "title": "Winzlinge, Die - Abenteuer in der Karibik ",
       "normalizedTitle": "WINZLINGE, DIE - ABENTEUER IN DER KARIBIK",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "Mo., 05.09",
       "timestamp": 1662336000000,
       "time": "16:00",
@@ -1631,7 +1923,11 @@
       "id": "hasenheide-723551",
       "title": "Call me by your Name (subtitled OV / OmU)",
       "normalizedTitle": "CALL ME BY YOUR NAME",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV OmU",
+        "original": true,
+        "english": false
+      },
       "date": "Mo., 05.09",
       "timestamp": 1662336000000,
       "time": "18:00",
@@ -1651,7 +1947,11 @@
       "id": "hasenheide-723558",
       "title": "Märzengrund (subtitled OV / OmU)",
       "normalizedTitle": "MÄRZENGRUND",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV OmU",
+        "original": true,
+        "english": false
+      },
       "date": "Mo., 05.09",
       "timestamp": 1662336000000,
       "time": "20:15",
@@ -1671,7 +1971,11 @@
       "id": "hasenheide-723559",
       "title": "Die Gangster Gang ",
       "normalizedTitle": "DIE GANGSTER GANG",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "Di., 06.09",
       "timestamp": 1662422400000,
       "time": "16:00",
@@ -1691,7 +1995,11 @@
       "id": "hasenheide-723560",
       "title": "French Dispatch, The (subtitled OV)",
       "normalizedTitle": "FRENCH DISPATCH, THE",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV",
+        "original": true,
+        "english": false
+      },
       "date": "Di., 06.09",
       "timestamp": 1662422400000,
       "time": "18:00",
@@ -1711,7 +2019,11 @@
       "id": "hasenheide-723561",
       "title": "Drive my Car (subtitled OV)",
       "normalizedTitle": "DRIVE MY CAR",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV",
+        "original": true,
+        "english": false
+      },
       "date": "Di., 06.09",
       "timestamp": 1662422400000,
       "time": "20:15",
@@ -1731,7 +2043,11 @@
       "id": "hasenheide-723562",
       "title": "Meine wunderbar seltsame Woche mit Tess ",
       "normalizedTitle": "MEINE WUNDERBAR SELTSAME WOCHE MIT TESS",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "Mi., 07.09",
       "timestamp": 1662508800000,
       "time": "16:00",
@@ -1751,14 +2067,18 @@
       "id": "hasenheide-723563",
       "title": "Outfit, The - Verbrechen nach Maß (subtitled OV)",
       "normalizedTitle": "OUTFIT, THE - VERBRECHEN NACH MASS",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV",
+        "original": true,
+        "english": false
+      },
       "date": "Mi., 07.09",
       "timestamp": 1662508800000,
       "time": "18:00",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/723563?layout=shows",
       "img": "https://media.kinoheld.de/bAxWCOeTmQ5ZzUi809ZK5KqgdKA=/400x560/images%2Ffilm%2Fthe-outfit-verbrechen-nach-mass-22289.v7.jpg",
       "description": "Ein raffinierter und meisterhafter Thriller, in dem ein Maßschneider eine Gruppe von Gangstern überlisten muss, um eine schicksalhafte Nacht zu überleben.",
-      "trailer": "https://youtu.be/MKJ-nXADsVk",
+      "trailer": "https://www.youtube.com/watch?v=t1aA11jwPxM",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -1771,7 +2091,11 @@
       "id": "hasenheide-723564",
       "title": "Hive (subtitled OV / OmU)",
       "normalizedTitle": "HIVE",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV OmU",
+        "original": true,
+        "english": false
+      },
       "date": "Mi., 07.09",
       "timestamp": 1662508800000,
       "time": "20:15",
@@ -1790,7 +2114,11 @@
       "id": "hasenheide-723617",
       "title": "Asterix im Land der Götter ",
       "normalizedTitle": "ASTERIX IM LAND DER GÖTTER",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "Do., 08.09",
       "timestamp": 1662595200000,
       "time": "15:30",
@@ -1810,7 +2138,11 @@
       "id": "hasenheide-723618",
       "title": "Borga (subtitled OV)",
       "normalizedTitle": "BORGA",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV",
+        "original": true,
+        "english": false
+      },
       "date": "Do., 08.09",
       "timestamp": 1662595200000,
       "time": "17:30",
@@ -1830,7 +2162,11 @@
       "id": "hasenheide-723619",
       "title": "Evolution (subtitled OV / OmU)",
       "normalizedTitle": "EVOLUTION",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV OmU",
+        "original": true,
+        "english": false
+      },
       "date": "Do., 08.09",
       "timestamp": 1662595200000,
       "time": "20:00",
@@ -1850,7 +2186,11 @@
       "id": "hasenheide-723620",
       "title": "Minions - Auf der Suche nach dem Mini-Boss ",
       "normalizedTitle": "MINIONS - AUF DER SUCHE NACH DEM MINI-BOSS",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "Fr., 09.09",
       "timestamp": 1662681600000,
       "time": "15:30",
@@ -1870,7 +2210,11 @@
       "id": "hasenheide-723621",
       "title": "Mit 20 wirst du sterben (subtitled OV)",
       "normalizedTitle": "MIT 20 WIRST DU STERBEN",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV",
+        "original": true,
+        "english": false
+      },
       "date": "Fr., 09.09",
       "timestamp": 1662681600000,
       "time": "17:30",
@@ -1889,7 +2233,11 @@
       "id": "hasenheide-723622",
       "title": "Alcarràs - Die letzte Ernte (subtitled OV / OmU)",
       "normalizedTitle": "ALCARRÀS - DIE LETZTE ERNTE",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV OmU",
+        "original": true,
+        "english": false
+      },
       "date": "Fr., 09.09",
       "timestamp": 1662681600000,
       "time": "20:00",
@@ -1909,7 +2257,11 @@
       "id": "hasenheide-723623",
       "title": "Der kleine Rabe Socke - Suche nach dem verlorenen Schatz ",
       "normalizedTitle": "DER KLEINE RABE SOCKE - SUCHE NACH DEM VERLORENEN SCHATZ",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "Sa., 10.09",
       "timestamp": 1662768000000,
       "time": "15:30",
@@ -1929,7 +2281,11 @@
       "id": "hasenheide-723624",
       "title": "Parallele Mütter (subtitled OV / OmU)",
       "normalizedTitle": "PARALLELE MÜTTER",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV OmU",
+        "original": true,
+        "english": false
+      },
       "date": "Sa., 10.09",
       "timestamp": 1662768000000,
       "time": "17:30",
@@ -1949,7 +2305,11 @@
       "id": "hasenheide-723625",
       "title": "Elvis (subtitled OV)",
       "normalizedTitle": "ELVIS",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV",
+        "original": true,
+        "english": false
+      },
       "date": "Sa., 10.09",
       "timestamp": 1662768000000,
       "time": "20:00",
@@ -1969,12 +2329,16 @@
       "id": "hasenheide-723626",
       "title": "Alfons Zitterbacke - Endlich Klassenfahrt ",
       "normalizedTitle": "ALFONS ZITTERBACKE - ENDLICH KLASSENFAHRT",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "So., 11.09",
       "timestamp": 1662854400000,
       "time": "15:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/723626?layout=shows",
-      "img": "https://media.kinoheld.de/2y17YxU9fETbP9hp_6EN7zzrk_0=/400x560/images%2Ffilm%2Falfons-zitterbacke-endlich-klassenfahrt-22105.v52.png",
+      "img": "https://media.kinoheld.de/8GeNRfrjqkZP0wmEnjl0H4J9VaU=/400x560/images%2Ffilm%2Falfons-zitterbacke-endlich-klassenfahrt-22105.v55.png",
       "description": "Alfons Zitterbacke hat es erwischt, er ist verliebt! Die Angebetete ist seine neue Klassenkameradin Leonie, die er einfach umwerfend findet. Als eine Klassenfahrt ansteht, will Alfons die Gunst der Stunde nutzen und versuchen, ihr endlich näher zu kommen. Doch obwohl er mittlerweile etwas älter und reifer geworden ist, heißt das noch lange nicht, dass dieses romantische Unterfangen weniger chaotisch ablaufen wird. Außerdem ist Alfons nicht der Einzige, der um die Gunst von Leonie buhlt, schließlich ist da noch sein Erzfeind Nico.",
       "trailer": "https://www.youtube.com/watch?v=9IB157TLNwc",
       "available": -1,
@@ -1989,7 +2353,11 @@
       "id": "hasenheide-723627",
       "title": "Meine Stunden mit Leo (subtitled OV)",
       "normalizedTitle": "MEINE STUNDEN MIT LEO",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV",
+        "original": true,
+        "english": false
+      },
       "date": "So., 11.09",
       "timestamp": 1662854400000,
       "time": "17:30",
@@ -2009,7 +2377,11 @@
       "id": "hasenheide-723634",
       "title": "Schlimmste Mensch der Welt, Der (subtitled OV)",
       "normalizedTitle": "SCHLIMMSTE MENSCH DER WELT, DER",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV",
+        "original": true,
+        "english": false
+      },
       "date": "So., 11.09",
       "timestamp": 1662854400000,
       "time": "20:00",
@@ -2029,7 +2401,11 @@
       "id": "hasenheide-723628",
       "title": "Shaun das Schaf - Der Film: UFO-Alarm ",
       "normalizedTitle": "SHAUN DAS SCHAF - DER FILM: UFO-ALARM",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "Mo., 12.09",
       "timestamp": 1662940800000,
       "time": "15:30",
@@ -2049,7 +2425,11 @@
       "id": "hasenheide-723629",
       "title": "Evolution (subtitled OV / OmU)",
       "normalizedTitle": "EVOLUTION",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV OmU",
+        "original": true,
+        "english": false
+      },
       "date": "Mo., 12.09",
       "timestamp": 1662940800000,
       "time": "17:30",
@@ -2069,7 +2449,11 @@
       "id": "hasenheide-723635",
       "title": "Die Magnetischen (subtitled OV / OmU)",
       "normalizedTitle": "DIE MAGNETISCHEN",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV OmU",
+        "original": true,
+        "english": false
+      },
       "date": "Mo., 12.09",
       "timestamp": 1662940800000,
       "time": "20:00",
@@ -2089,7 +2473,11 @@
       "id": "hasenheide-723630",
       "title": "Mein Nachbar Totoro ",
       "normalizedTitle": "MEIN NACHBAR TOTORO",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "Di., 13.09",
       "timestamp": 1663027200000,
       "time": "15:30",
@@ -2109,14 +2497,18 @@
       "id": "hasenheide-723631",
       "title": "Grand Jeté (subtitled OV English)",
       "normalizedTitle": "GRAND JETÉ",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV English",
+        "original": true,
+        "english": true
+      },
       "date": "Di., 13.09",
       "timestamp": 1663027200000,
       "time": "17:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/723631?layout=shows",
       "img": "https://media.kinoheld.de/n7B7d5eTMJInOFaveN9HntEOsDo=/400x560/images%2Ffilm%2Fgrand-jete-25923.v3.jpg",
       "description": "Nadjas Körper ist kaputt. Die Zehen bluten, dazu Ekzeme am Hals, die aussehen wie Blutergüsse. Die harte Arbeit als Ballerina macht sich bemerkbar. Nadja unterrichtet als Tanzlehrerin junge Mädchen. Als sie selbst noch jung war, bekam sie einen Sohn. Den gab sie damals bei ihrer Mutter ab. Der Sohn heißt Mario. Mario trainiert seinen Körper jeden Tag im Fitnessstudio. Er hat seine Mutter sehr lange nicht gesehen. Nadja hat keine Ahnung von Muttergefühlen, heißt es einmal. Dann steht sie irgendwann wieder vor der Tür. Interessiert sich für ihren Sohn. Sieht seinen Körper, will ihn anfassen. Fasst ihn an. Immer öfter.",
-      "trailer": "https://youtu.be/MKJ-nXADsVk",
+      "trailer": "https://www.youtube.com/watch?v=cWNq6Psd2u8",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -2129,7 +2521,11 @@
       "id": "hasenheide-723636",
       "title": "Wo in Paris die Sonne aufgeht (subtitled OV / OmU)",
       "normalizedTitle": "WO IN PARIS DIE SONNE AUFGEHT",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV OmU",
+        "original": true,
+        "english": false
+      },
       "date": "Di., 13.09",
       "timestamp": 1663027200000,
       "time": "20:00",
@@ -2149,7 +2545,11 @@
       "id": "hasenheide-723632",
       "title": "Die Melodie des Meeres ",
       "normalizedTitle": "DIE MELODIE DES MEERES",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "Mi., 14.09",
       "timestamp": 1663113600000,
       "time": "15:30",
@@ -2169,7 +2569,11 @@
       "id": "hasenheide-723633",
       "title": "Operation Moonbird (subtitled OV English)",
       "normalizedTitle": "OPERATION MOONBIRD",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV English",
+        "original": true,
+        "english": true
+      },
       "date": "Mi., 14.09",
       "timestamp": 1663113600000,
       "time": "17:30",
@@ -2186,7 +2590,11 @@
       "id": "hasenheide-723637",
       "title": "Märzengrund (subtitled OV / OmU)",
       "normalizedTitle": "MÄRZENGRUND",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV OmU",
+        "original": true,
+        "english": false
+      },
       "date": "Mi., 14.09",
       "timestamp": 1663113600000,
       "time": "20:00",
@@ -2206,7 +2614,11 @@
       "id": "hasenheide-723680",
       "title": "Arrietty ",
       "normalizedTitle": "ARRIETTY",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "Do., 15.09",
       "timestamp": 1663200000000,
       "time": "15:30",
@@ -2223,7 +2635,11 @@
       "id": "hasenheide-723681",
       "title": "No one is coming except the waves ",
       "normalizedTitle": "NO ONE IS COMING EXCEPT THE WAVES",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "Do., 15.09",
       "timestamp": 1663200000000,
       "time": "17:30",
@@ -2240,7 +2656,11 @@
       "id": "hasenheide-723682",
       "title": "Moonage Daydream (subtitled OV)",
       "normalizedTitle": "MOONAGE DAYDREAM",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV",
+        "original": true,
+        "english": false
+      },
       "date": "Do., 15.09",
       "timestamp": 1663200000000,
       "time": "20:00",
@@ -2260,7 +2680,11 @@
       "id": "hasenheide-723683",
       "title": "Zoomania ",
       "normalizedTitle": "ZOOMANIA",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "Fr., 16.09",
       "timestamp": 1663286400000,
       "time": "15:30",
@@ -2280,7 +2704,11 @@
       "id": "hasenheide-723684",
       "title": "Corsage (subtitled OV / OmU)",
       "normalizedTitle": "CORSAGE",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV OmU",
+        "original": true,
+        "english": false
+      },
       "date": "Fr., 16.09",
       "timestamp": 1663286400000,
       "time": "17:30",
@@ -2299,7 +2727,11 @@
       "id": "hasenheide-723685",
       "title": "Respect (subtitled OV)",
       "normalizedTitle": "RESPECT",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV",
+        "original": true,
+        "english": false
+      },
       "date": "Fr., 16.09",
       "timestamp": 1663286400000,
       "time": "20:00",
@@ -2319,7 +2751,11 @@
       "id": "hasenheide-723686",
       "title": "Der Wolf und der Löwe ",
       "normalizedTitle": "DER WOLF UND DER LÖWE",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "Sa., 17.09",
       "timestamp": 1663372800000,
       "time": "15:30",
@@ -2339,7 +2775,11 @@
       "id": "hasenheide-723687",
       "title": "Alcarràs - Die letzte Ernte (subtitled OV / OmU)",
       "normalizedTitle": "ALCARRÀS - DIE LETZTE ERNTE",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV OmU",
+        "original": true,
+        "english": false
+      },
       "date": "Sa., 17.09",
       "timestamp": 1663372800000,
       "time": "17:30",
@@ -2359,7 +2799,11 @@
       "id": "hasenheide-723688",
       "title": "Dune (subtitled OV / OmU)",
       "normalizedTitle": "DUNE",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV OmU",
+        "original": true,
+        "english": false
+      },
       "date": "Sa., 17.09",
       "timestamp": 1663372800000,
       "time": "20:00",
@@ -2379,7 +2823,11 @@
       "id": "hasenheide-723689",
       "title": "Raya und der letzte Drache ",
       "normalizedTitle": "RAYA UND DER LETZTE DRACHE",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "So., 18.09",
       "timestamp": 1663459200000,
       "time": "15:30",
@@ -2399,7 +2847,11 @@
       "id": "hasenheide-723690",
       "title": "Moonage Daydream (subtitled OV)",
       "normalizedTitle": "MOONAGE DAYDREAM",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV",
+        "original": true,
+        "english": false
+      },
       "date": "So., 18.09",
       "timestamp": 1663459200000,
       "time": "17:30",
@@ -2419,7 +2871,11 @@
       "id": "hasenheide-723691",
       "title": "Nope (subtitled OV)",
       "normalizedTitle": "NOPE",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV",
+        "original": true,
+        "english": false
+      },
       "date": "So., 18.09",
       "timestamp": 1663459200000,
       "time": "20:15",
@@ -2441,7 +2897,11 @@
       "id": "cassiopeia-2633293365",
       "title": "DUNE (subtitled OV / OmU)",
       "normalizedTitle": "DUNE",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV OmU",
+        "original": true,
+        "english": false
+      },
       "date": "Do., 25.08",
       "timestamp": 1661385600000,
       "time": "20:15",
@@ -2461,14 +2921,18 @@
       "id": "cassiopeia-2633293378",
       "title": "BEST-OF-CINEMA : LÉON - DER PROFI (subtitled OV / OmU)",
       "normalizedTitle": "BEST-OF-CINEMA : LÉON - DER PROFI",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV OmU",
+        "original": true,
+        "english": false
+      },
       "date": "Fr., 26.08",
       "timestamp": 1661472000000,
       "time": "20:15",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-insel-revier-suedost/show/2633293378?layout=shows",
       "img": "https://media.kinoheld.de/xSnZ3Jqh-CzCcHDM3CtMUmNTa0U=/400x560/images%2Ffilm%2Fleon-der-profi-wa-2022-22411.v3.jpg",
       "description": "Léon verdient sein Geld als Auftragskiller der Italo-Mafia in den Straßen von New York. Er lebt zurückgezogen und pflegt außer zu seinem Boss Tony einzig zu seiner Topfpflanze ein freundschaftliches Verhältnis. Als die Familie seiner Nachbarstochter Mathilda von DEA-Polizisten brutal getötet wird, flüchtet sie zu Léon. Um sich an den Mördern ihres kleinen Bruders zu rächen, lässt sich Mathilda das grausame Handwerk eines Profi-Killers von Léon beibringen. (Quelle: Verleih)",
-      "trailer": "https://youtu.be/MKJ-nXADsVk",
+      "trailer": "https://www.youtube.com/watch?v=4e50Hpm9L4I",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -2481,12 +2945,16 @@
       "id": "cassiopeia-2633293393",
       "title": "TOP GUN MAVERICK (subtitled OV German / OmU)",
       "normalizedTitle": "TOP GUN MAVERICK",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV German OmU",
+        "original": true,
+        "english": false
+      },
       "date": "Sa., 27.08",
       "timestamp": 1661558400000,
       "time": "20:15",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-insel-revier-suedost/show/2633293393?layout=shows",
-      "img": "https://media.kinoheld.de/MHgzuEwcyL4Y5wYrfBIpmfGQm68=/400x560/images%2Ffilm%2Ftop-gun-maverick-22051.v155.jpg",
+      "img": "https://media.kinoheld.de/hj5Iy2RR1ADR34BSeqnG45jUOEA=/400x560/images%2Ffilm%2Ftop-gun-maverick-22051.v158.jpg",
       "description": "Ex-Flieger-Ass Maverick  ist nun ein Fluglehrer, der den jungen Macho-Piloten von heute auf der Flugakademie zeigt, wie es geht. Dabei muss er aber auch mit der neuen Zeit zu Recht kommen, in der Piloten immer weniger eine Rolle spielen, da unbemannnte Drohnen eingesetzt werden.",
       "trailer": "https://www.youtube.com/watch?v=3hO--XhlsfU",
       "available": -1,
@@ -2501,7 +2969,11 @@
       "id": "cassiopeia-2633293409",
       "title": "MYSTERY TRAIN ",
       "normalizedTitle": "MYSTERY TRAIN",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "So., 28.08",
       "timestamp": 1661644800000,
       "time": "20:15",
@@ -2522,7 +2994,11 @@
       "id": "nomadenkino-2641520126",
       "title": "DER ENTHUSIASMUS ",
       "normalizedTitle": "DER ENTHUSIASMUS",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "Mi., 24.08",
       "timestamp": 1661299200000,
       "time": "21:00",
@@ -2539,7 +3015,11 @@
       "id": "nomadenkino-2641523746",
       "title": "DER SCHLIMMSTE MENSCH DER WELT ",
       "normalizedTitle": "DER SCHLIMMSTE MENSCH DER WELT",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "Do., 25.08",
       "timestamp": 1661385600000,
       "time": "21:00",
@@ -2559,7 +3039,11 @@
       "id": "nomadenkino-2613143857",
       "title": "RABIYE KURNAZ GEGEN GEORGE W. BUSH ",
       "normalizedTitle": "RABIYE KURNAZ GEGEN GEORGE W. BUSH",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "Mo., 29.08",
       "timestamp": 1661731200000,
       "time": "20:45",
@@ -2579,14 +3063,18 @@
       "id": "nomadenkino-2644105095",
       "title": "EVERYTHING EVERYWHERE ALL AT ONCE ",
       "normalizedTitle": "EVERYTHING EVERYWHERE ALL AT ONCE",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "Di., 30.08",
       "timestamp": 1661817600000,
       "time": "20:30",
       "url": "https://www.kinoheld.de/cinema-berlin/nomadenkino-berlin/show/2644105095?layout=shows",
-      "img": "https://media.kinoheld.de/fkwZYVniNawZbSIU-vB2K1CEh3k=/400x560/images%2Ffilm%2Feverything-everywhere-all-at-once-22045.v61.jpg",
+      "img": "https://media.kinoheld.de/hXGVafNPrwS49fmcXH1rV6PyIJM=/400x560/images%2Ffilm%2Feverything-everywhere-all-at-once-22045.v63.jpg",
       "description": "Waschsalonbesitzerin Evelyn Wang geht im Chaos ihres Alltags unter: Der bevorstehende Besuch ihres Vaters überfordert sie, die Wünsche der Kunden bringen sie an ihre Grenzen und die anstehende Steuererklärung wächst ihr komplett über den Kopf. Der Gang zum Finanzamt ist unausweichlich, doch während sie mit ihrer Familie bei der Steuerprüferin vorspricht, wird ihr Universum komplett durcheinandergewirbelt. Raum und Zeit lösen sich auf, und die Menschen um sie herum haben, ebenso wie sie selbst, plötzlich weitere Leben in Parallelwelten. Sie entdeckt, dass das Multiversum real ist und sie auf die Fähigkeiten und das Leben anderer Versionen ihrer selbst zugreifen kann. Das ist auch bitter nötig, denn sie wird mit einer großen, wenn nicht der größtmöglichen Mission betraut: Der Rettung der Welt vor dem unbekannten Bösen.",
-      "trailer": "https://youtu.be/MKJ-nXADsVk",
+      "trailer": "https://www.youtube.com/watch?v=nz-eUNVQpzk",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -2599,7 +3087,11 @@
       "id": "nomadenkino-2594859082",
       "title": "CONTRA ",
       "normalizedTitle": "CONTRA",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "Fr., 09.09",
       "timestamp": 1662681600000,
       "time": "20:30",
@@ -2618,30 +3110,14 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
       "cinemaName": "b-ware-openair-fmp",
       "cinemaShortName": "fmp",
-      "id": "fmp-2628610922",
-      "title": "nd-Koop: RISE UP (Q&A) ",
-      "normalizedTitle": "ND-KOOP: RISE UP",
-      "version": "normal",
-      "date": "Di., 23.08",
-      "timestamp": 1661212800000,
-      "time": "21:00",
-      "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2628610922?layout=shows",
-      "img": "https://media.kinoheld.de/VRs3WBCoFnPfmFlp4B0PPyK3oco=/400x560/images%2Ffilm%2Fmo%2F3013-62219.v2.jpg",
-      "description": "Fünf Menschen, die an überwältigenden gesellschaftlichen Umbrüchen beteiligt waren, ringen gemeinsam mit den Autor:innen des Films und dem Publikum um Antworten. Diese finden Ausdruck durch eine sechste, eher übergreifenden Stimme, einem selbstreflexiven Voiceover, welches die Gedanken, Zweifel und Visionen von Protagonist:innen, Filmschaffenden und Publikum auffängt und weiterdenkt. Wann entscheidet sich jemand, Normalität und Sicherheit aufzugeben, mehr oder weniger alles hinter sich zu lassen und das Unmögliche zu versuchen? RISE UP sucht die Verwandlung von kleinen Leuten zu großen Held:innen, vom einzelnen Aufbegehren zur großen Revolte, von einer einzelnen Idee zu einem historischen Fortschritt. Von den Macher:innen von HAMBURGER GITTER.",
-      "trailer": "https://www.youtube.com/watch?v=sbJ9_BvEQek",
-      "available": -1,
-      "reserved": 0,
-      "bookable": true
-    },
-    {
-      "cinemaId": "1657",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
-      "cinemaName": "b-ware-openair-fmp",
-      "cinemaShortName": "fmp",
       "id": "fmp-2632569511",
       "title": "DEFA-Koop: DIE JAGD NACH DEM STIEFEL plus Lesung ",
       "normalizedTitle": "DEFA-KOOP: DIE JAGD NACH DEM STIEFEL PLUS LESUNG",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "Mi., 24.08",
       "timestamp": 1661299200000,
       "time": "20:00",
@@ -2660,7 +3136,11 @@
       "id": "fmp-2643244756",
       "title": "RABIYE KURNAZ GEGEN GEORGE W. BUSH ",
       "normalizedTitle": "RABIYE KURNAZ GEGEN GEORGE W. BUSH",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "Fr., 26.08",
       "timestamp": 1661472000000,
       "time": "20:45",
@@ -2680,14 +3160,18 @@
       "id": "fmp-2643244742",
       "title": "EVERYTHING EVERYWHERE ALL AT ONCE (subtitled OV)",
       "normalizedTitle": "EVERYTHING EVERYWHERE ALL AT ONCE",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV",
+        "original": true,
+        "english": false
+      },
       "date": "So., 28.08",
       "timestamp": 1661644800000,
       "time": "20:45",
       "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2643244742?layout=shows",
-      "img": "https://media.kinoheld.de/fkwZYVniNawZbSIU-vB2K1CEh3k=/400x560/images%2Ffilm%2Feverything-everywhere-all-at-once-22045.v61.jpg",
+      "img": "https://media.kinoheld.de/hXGVafNPrwS49fmcXH1rV6PyIJM=/400x560/images%2Ffilm%2Feverything-everywhere-all-at-once-22045.v63.jpg",
       "description": "Waschsalonbesitzerin Evelyn Wang geht im Chaos ihres Alltags unter: Der bevorstehende Besuch ihres Vaters überfordert sie, die Wünsche der Kunden bringen sie an ihre Grenzen und die anstehende Steuererklärung wächst ihr komplett über den Kopf. Der Gang zum Finanzamt ist unausweichlich, doch während sie mit ihrer Familie bei der Steuerprüferin vorspricht, wird ihr Universum komplett durcheinandergewirbelt. Raum und Zeit lösen sich auf, und die Menschen um sie herum haben, ebenso wie sie selbst, plötzlich weitere Leben in Parallelwelten. Sie entdeckt, dass das Multiversum real ist und sie auf die Fähigkeiten und das Leben anderer Versionen ihrer selbst zugreifen kann. Das ist auch bitter nötig, denn sie wird mit einer großen, wenn nicht der größtmöglichen Mission betraut: Der Rettung der Welt vor dem unbekannten Bösen.",
-      "trailer": "https://youtu.be/MKJ-nXADsVk",
+      "trailer": "https://www.youtube.com/watch?v=nz-eUNVQpzk",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -2700,7 +3184,11 @@
       "id": "fmp-2643244765",
       "title": "MEINE STUNDEN MIT LEO (subtitled OV / en)",
       "normalizedTitle": "MEINE STUNDEN MIT LEO",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV en",
+        "original": true,
+        "english": true
+      },
       "date": "Mo., 29.08",
       "timestamp": 1661731200000,
       "time": "20:45",
@@ -2720,7 +3208,11 @@
       "id": "fmp-2643244774",
       "title": "THE FRENCH DISPATCH (subtitled OV / en)",
       "normalizedTitle": "THE FRENCH DISPATCH",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV en",
+        "original": true,
+        "english": true
+      },
       "date": "Di., 30.08",
       "timestamp": 1661817600000,
       "time": "21:00",
@@ -2740,7 +3232,11 @@
       "id": "fmp-2643244783",
       "title": "DUNE (subtitled OV / en)",
       "normalizedTitle": "DUNE",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV en",
+        "original": true,
+        "english": true
+      },
       "date": "Mi., 31.08",
       "timestamp": 1661904000000,
       "time": "20:45",
@@ -2760,7 +3256,11 @@
       "id": "fmp-2643251167",
       "title": "NOPE (subtitled OV / en)",
       "normalizedTitle": "NOPE",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV en",
+        "original": true,
+        "english": true
+      },
       "date": "Do., 01.09",
       "timestamp": 1661990400000,
       "time": "20:45",
@@ -2780,7 +3280,11 @@
       "id": "fmp-2643251223",
       "title": "MONA LISA AND THE BLOOD MOON (subtitled OV / en)",
       "normalizedTitle": "MONA LISA AND THE BLOOD MOON",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV en",
+        "original": true,
+        "english": true
+      },
       "date": "So., 04.09",
       "timestamp": 1662249600000,
       "time": "20:30",
@@ -2799,7 +3303,11 @@
       "id": "fmp-2643251247",
       "title": "ELVIS (subtitled OV / en)",
       "normalizedTitle": "ELVIS",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV en",
+        "original": true,
+        "english": true
+      },
       "date": "Mo., 05.09",
       "timestamp": 1662336000000,
       "time": "20:30",
@@ -2819,7 +3327,11 @@
       "id": "fmp-2643282100",
       "title": "nd-Koop: UNSERE HERZEN - EIN KLANG (Q&A) ",
       "normalizedTitle": "ND-KOOP: UNSERE HERZEN - EIN KLANG",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "Mi., 07.09",
       "timestamp": 1662508800000,
       "time": "20:30",
@@ -2839,7 +3351,11 @@
       "id": "fmp-2643280841",
       "title": "RISE UP ",
       "normalizedTitle": "RISE UP",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "Do., 08.09",
       "timestamp": 1662595200000,
       "time": "21:00",
@@ -2859,14 +3375,18 @@
       "id": "fmp-2643264420",
       "title": "EVERYTHING EVERYWHERE ALL AT ONCE (OmeU)",
       "normalizedTitle": "EVERYTHING EVERYWHERE ALL AT ONCE",
-      "version": "subtitled",
+      "version": {
+        "raw": "OmeU",
+        "original": true,
+        "english": true
+      },
       "date": "Fr., 09.09",
       "timestamp": 1662681600000,
       "time": "20:30",
       "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2643264420?layout=shows",
-      "img": "https://media.kinoheld.de/fkwZYVniNawZbSIU-vB2K1CEh3k=/400x560/images%2Ffilm%2Feverything-everywhere-all-at-once-22045.v61.jpg",
+      "img": "https://media.kinoheld.de/hXGVafNPrwS49fmcXH1rV6PyIJM=/400x560/images%2Ffilm%2Feverything-everywhere-all-at-once-22045.v63.jpg",
       "description": "Waschsalonbesitzerin Evelyn Wang geht im Chaos ihres Alltags unter: Der bevorstehende Besuch ihres Vaters überfordert sie, die Wünsche der Kunden bringen sie an ihre Grenzen und die anstehende Steuererklärung wächst ihr komplett über den Kopf. Der Gang zum Finanzamt ist unausweichlich, doch während sie mit ihrer Familie bei der Steuerprüferin vorspricht, wird ihr Universum komplett durcheinandergewirbelt. Raum und Zeit lösen sich auf, und die Menschen um sie herum haben, ebenso wie sie selbst, plötzlich weitere Leben in Parallelwelten. Sie entdeckt, dass das Multiversum real ist und sie auf die Fähigkeiten und das Leben anderer Versionen ihrer selbst zugreifen kann. Das ist auch bitter nötig, denn sie wird mit einer großen, wenn nicht der größtmöglichen Mission betraut: Der Rettung der Welt vor dem unbekannten Bösen.",
-      "trailer": "https://youtu.be/MKJ-nXADsVk",
+      "trailer": "https://www.youtube.com/watch?v=nz-eUNVQpzk",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -2879,7 +3399,11 @@
       "id": "fmp-2643264429",
       "title": "DER SCHLIMMSTE MENSCH DER WELT ",
       "normalizedTitle": "DER SCHLIMMSTE MENSCH DER WELT",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "Sa., 10.09",
       "timestamp": 1662768000000,
       "time": "20:30",
@@ -2899,7 +3423,11 @@
       "id": "fmp-2643264438",
       "title": "WUNDERSCHÖN (DmeU)",
       "normalizedTitle": "WUNDERSCHÖN",
-      "version": "normal",
+      "version": {
+        "raw": "DmeU",
+        "original": false,
+        "english": true
+      },
       "date": "Mo., 12.09",
       "timestamp": 1662940800000,
       "time": "20:30",
@@ -2919,7 +3447,11 @@
       "id": "fmp-2643264447",
       "title": "NOPE (subtitled OV / en)",
       "normalizedTitle": "NOPE",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV en",
+        "original": true,
+        "english": true
+      },
       "date": "Mi., 14.09",
       "timestamp": 1663113600000,
       "time": "20:30",
@@ -2938,30 +3470,14 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
       "cinemaName": "central-kino-open-air",
       "cinemaShortName": "central",
-      "id": "central-2589122289",
-      "title": "open air: Another Round - Der Rausch (subtitled OV English / OMeU)",
-      "normalizedTitle": "ANOTHER ROUND - DER RAUSCH",
-      "version": "subtitled",
-      "date": "Di., 23.08",
-      "timestamp": 1661212800000,
-      "time": "20:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2589122289?layout=shows",
-      "img": "https://media.kinoheld.de/tjxfBszIlJmdswqRJx2PsaSH5zU=/400x560/images%2Ffilm%2Fder-rausch-18282.v196.jpg",
-      "description": "Früher war Martin Lehrer aus Leidenschaft – heute sind nicht nur die Schüler von seinem fehlenden Enthusiasmus gelangweilt, auch in Martins Ehe ist die Luft raus. Seinen drei Freunden, die am selben Gymnasium unterrichten, geht es nicht viel besser. Bei einer angeheiterten Geburtstagsrunde diskutieren sie die Theorie eines norwegischen Philosophen: Nach dieser ist ein Mensch nur mit einem erhöhten Alkoholgehalt im Blut zu Bestleistungen fähig. Solch eine gewagte These muss überprüft werden. Die vier beschließen den Selbsttest zu machen und während der Arbeit einen bestimmten Pegel zu halten. Soll nicht sogar Churchill den Zweiten Weltkrieg in einem Alkoholrausch gewonnen haben? Mit neuem Antrieb stürzen sie sich in ihre geheime wissenschaftliche Studie. Die Wirkung lässt nicht lange auf sich warten…",
-      "trailer": "https://www.youtube.com/watch?v=oJwlO6vcsm0",
-      "available": 61,
-      "reserved": 23,
-      "bookable": true
-    },
-    {
-      "cinemaId": "1839",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
-      "cinemaName": "central-kino-open-air",
-      "cinemaShortName": "central",
       "id": "central-2587715110",
       "title": "open air: Spencer (subtitled OV / OmU)",
       "normalizedTitle": "SPENCER",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV OmU",
+        "original": true,
+        "english": false
+      },
       "date": "Mi., 24.08",
       "timestamp": 1661299200000,
       "time": "20:30",
@@ -2981,7 +3497,11 @@
       "id": "central-2589127229",
       "title": "open air: Neurotitan Galerie presents: Punk the Capital: Building a Sound Movement (OV / Originalversion)",
       "normalizedTitle": "NEUROTITAN GALERIE PRESENTS: PUNK THE CAPITAL: BUILDING A SOUND MOVEMENT",
-      "version": "normal",
+      "version": {
+        "raw": "OV Originalversion",
+        "original": true,
+        "english": false
+      },
       "date": "So., 28.08",
       "timestamp": 1661644800000,
       "time": "20:15",
@@ -3000,7 +3520,11 @@
       "id": "central-2587716315",
       "title": "open air: The Short Nights of Berlin (subtitled OV English / OMeU)",
       "normalizedTitle": "THE SHORT NIGHTS OF BERLIN",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV English OMeU",
+        "original": true,
+        "english": true
+      },
       "date": "Mo., 29.08",
       "timestamp": 1661731200000,
       "time": "20:15",
@@ -3019,7 +3543,11 @@
       "id": "central-2587716340",
       "title": "open air: A Star is born (subtitled OV / OmU)",
       "normalizedTitle": "A STAR IS BORN",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV OmU",
+        "original": true,
+        "english": false
+      },
       "date": "Di., 30.08",
       "timestamp": 1661817600000,
       "time": "20:15",
@@ -3039,7 +3567,11 @@
       "id": "central-2587718475",
       "title": "open air: Tronthaim: Berlin - Die Sinfonie ",
       "normalizedTitle": "TRONTHAIM: BERLIN - DIE SINFONIE",
-      "version": "normal",
+      "version": {
+        "raw": "",
+        "original": false,
+        "english": false
+      },
       "date": "So., 04.09",
       "timestamp": 1662249600000,
       "time": "20:00",
@@ -3058,7 +3590,11 @@
       "id": "central-2587718501",
       "title": "open air: Der Himmel über Berlin - Wings of Desire (subtitled OV English / OMeU)",
       "normalizedTitle": "DER HIMMEL ÜBER BERLIN - WINGS OF DESIRE",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV English OMeU",
+        "original": true,
+        "english": true
+      },
       "date": "Mo., 05.09",
       "timestamp": 1662336000000,
       "time": "20:00",
@@ -3078,14 +3614,18 @@
       "id": "central-2587718526",
       "title": "open air: Léon: der Profi (subtitled OV / OmU)",
       "normalizedTitle": "LÉON: DER PROFI",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV OmU",
+        "original": true,
+        "english": false
+      },
       "date": "Di., 06.09",
       "timestamp": 1662422400000,
       "time": "20:00",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2587718526?layout=shows",
       "img": "https://media.kinoheld.de/kYStEhPmGfaEZFCEJgfHXxwlOxU=/400x560/images%2Ffilm%2Fleon-der-profi-wa-2019-14361.v11.jpg",
       "description": "Léon verdient sein Geld als Auftragskiller der Italo-Mafia in den Straßen von New York. Er lebt zurückgezogen und pflegt außer zu seinem Boss Tony einzig zu seiner Topfpflanze ein freundschaftliches Verhältnis. Als die Familie seiner Nachbarstochter Mathilda von DEA-Polizisten brutal getötet wird, flüchtet sie zu Léon. Um sich an den Mördern ihres kleinen Bruders zu rächen, lässt sich Mathilda das grausame Handwerk eines Profi-Killers von Léon beibringen. (Quelle: Verleih)",
-      "trailer": "https://youtu.be/MKJ-nXADsVk",
+      "trailer": "https://www.youtube.com/watch?v=4e50Hpm9L4I",
       "available": 84,
       "reserved": 2,
       "bookable": true
@@ -3098,7 +3638,11 @@
       "id": "central-2587718554",
       "title": "open air: Loving Vincent (subtitled OV / OmU)",
       "normalizedTitle": "LOVING VINCENT",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV OmU",
+        "original": true,
+        "english": false
+      },
       "date": "Mi., 07.09",
       "timestamp": 1662508800000,
       "time": "20:00",
@@ -3118,7 +3662,11 @@
       "id": "central-2618848597",
       "title": "open air: SERET BERLIN: One more story (subtitled OV English / OMeU)",
       "normalizedTitle": "SERET BERLIN: ONE MORE STORY",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV English OMeU",
+        "original": true,
+        "english": true
+      },
       "date": "So., 11.09",
       "timestamp": 1662854400000,
       "time": "20:00",
@@ -3137,7 +3685,11 @@
       "id": "central-2604920113",
       "title": "open air: Seret in Kooperation mit den Jüdischen Kulturtagen Berlin: On this Happy Note (subtitled OV English / OMeU)",
       "normalizedTitle": "SERET IN KOOPERATION MIT DEN JÜDISCHEN KULTURTAGEN BERLIN: ON THIS HAPPY NOTE",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV English OMeU",
+        "original": true,
+        "english": true
+      },
       "date": "Mo., 12.09",
       "timestamp": 1662940800000,
       "time": "20:00",
@@ -3156,7 +3708,11 @@
       "id": "central-2618848628",
       "title": "open air: SERET BERLIN: The Next Generation (subtitled OV English / OMeU)",
       "normalizedTitle": "SERET BERLIN: THE NEXT GENERATION",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV English OMeU",
+        "original": true,
+        "english": true
+      },
       "date": "Di., 13.09",
       "timestamp": 1663027200000,
       "time": "20:00",
@@ -3174,7 +3730,11 @@
       "id": "central-2587719189",
       "title": "open air: Kiss me kosher (subtitled OV English / OMeU)",
       "normalizedTitle": "KISS ME KOSHER",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV English OMeU",
+        "original": true,
+        "english": true
+      },
       "date": "Mi., 14.09",
       "timestamp": 1663113600000,
       "time": "20:00",
@@ -3193,30 +3753,14 @@
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
       "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
       "cinemaShortName": "pompeji ostkreuz",
-      "id": "pompeji ostkreuz-2626628328",
-      "title": "NIGHTMARE ALLEY (subtitled OV German / OmU)",
-      "normalizedTitle": "NIGHTMARE ALLEY",
-      "version": "subtitled",
-      "date": "Di., 23.08",
-      "timestamp": 1661212800000,
-      "time": "20:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2626628328?layout=shows",
-      "img": "https://media.kinoheld.de/QEBti3TSQWI9Y2x0kJpbSwGdGZs=/400x560/images%2Ffilm%2Fnightmare-alley-21206.v3.png",
-      "description": "Auf einem düsteren Jahrmarkt findet der vor seiner Vergangenheit fliehende Stanton 'Stan' Carlisle (Bradley Cooper) Unterschlupf und lernt bald die Tricks der Schausteller*innen. Durch sein Talent, Menschen um die Finger zu wickeln, nimmt ihn das Mentalistenpaar Zeena & Pete (Toni Collette und David Strathairn) unter ihre Fittiche. Stan wird zum geschickten Schlitzohr, das andere bewusst manipulieren kann. Die kleine Welt des Jahrmarkts reicht ihm bald nicht mehr und er geht in die große Stadt, wo er seine Fähigkeiten bald nicht nur zu Unterhaltung, sondern zu seinem persönlichen Vorteil ausnutzt. Als er mit seiner Masche an die Psychiaterin Lilith Ritter (Cate Blanchett) gerät, lässt die ihn aber nicht auffliegen, sondern hilft ihm. Doch immer mehr zeigt sich, dass Lilith noch gefährlicher als Stan ist. Für den abgebrühten Trickser beginnt ein Spiel, in dem er schon bald die Kontrolle zu verlieren scheint.",
-      "trailer": "https://youtu.be/MKJ-nXADsVk",
-      "available": -1,
-      "reserved": 0,
-      "bookable": true
-    },
-    {
-      "cinemaId": "2153",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-      "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-      "cinemaShortName": "pompeji ostkreuz",
       "id": "pompeji ostkreuz-2626628336",
       "title": "NOMADLAND (subtitled OV German / OmU)",
       "normalizedTitle": "NOMADLAND",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV German OmU",
+        "original": true,
+        "english": false
+      },
       "date": "Mi., 24.08",
       "timestamp": 1661299200000,
       "time": "20:30",
@@ -3236,7 +3780,11 @@
       "id": "pompeji ostkreuz-2626630674",
       "title": "DER RAUSCH (subtitled OV German / OmU)",
       "normalizedTitle": "DER RAUSCH",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV German OmU",
+        "original": true,
+        "english": false
+      },
       "date": "Do., 25.08",
       "timestamp": 1661385600000,
       "time": "20:30",
@@ -3256,12 +3804,16 @@
       "id": "pompeji ostkreuz-2626630682",
       "title": "EVERYTHING EVERYWHERE ALL AT ONCE (subtitled OV English / OmeU)",
       "normalizedTitle": "EVERYTHING EVERYWHERE ALL AT ONCE",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV English OmeU",
+        "original": true,
+        "english": true
+      },
       "date": "Fr., 26.08",
       "timestamp": 1661472000000,
       "time": "20:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2626630682?layout=shows",
-      "img": "https://media.kinoheld.de/fkwZYVniNawZbSIU-vB2K1CEh3k=/400x560/images%2Ffilm%2Feverything-everywhere-all-at-once-22045.v61.jpg",
+      "img": "https://media.kinoheld.de/hXGVafNPrwS49fmcXH1rV6PyIJM=/400x560/images%2Ffilm%2Feverything-everywhere-all-at-once-22045.v63.jpg",
       "description": "Waschsalonbesitzerin Evelyn Wang (Michelle Yeoh) geht im Chaos ihres Alltags unter: Der bevorstehende Besuch ihres Vaters (James Hong) überfordert sie, die Wünsche der Kunden bringen sie an ihre Grenzen und die anstehende Steuererklärung wächst ihr komplett über den Kopf. Der Gang zum Finanzamt ist unausweichlich, doch während sie mit ihrer Familie bei der Steuerprüferin (Jamie Lee Curtis) vorspricht, wird ihr Universum komplett durcheinandergewirbelt. Raum und Zeit lösen sich auf, und die Menschen um sie herum haben, ebenso wie sie selbst, plötzlich weitere Leben in Parallelwelten. Sie entdeckt, dass das Multiversum real ist und sie auf die Fähigkeiten und das Leben anderer Versionen ihrer selbst zugreifen kann. Das ist auch bitter nötig, denn sie wird mit einer großen, wenn nicht der größtmöglichen Mission betraut: Der Rettung der Welt vor dem unbekannten Bösen.",
       "trailer": "https://youtu.be/wxN1T1uxQ2g",
       "available": -1,
@@ -3276,7 +3828,11 @@
       "id": "pompeji ostkreuz-2626630691",
       "title": "ELVIS (subtitled OV German / OmU)",
       "normalizedTitle": "ELVIS",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV German OmU",
+        "original": true,
+        "english": false
+      },
       "date": "Sa., 27.08",
       "timestamp": 1661558400000,
       "time": "20:30",
@@ -3296,7 +3852,11 @@
       "id": "pompeji ostkreuz-2626630700",
       "title": "A E I O U - A QUICK ALPHABET OF LOVE (subtitled OV English / OmeU)",
       "normalizedTitle": "A E I O U - A QUICK ALPHABET OF LOVE",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV English OmeU",
+        "original": true,
+        "english": true
+      },
       "date": "So., 28.08",
       "timestamp": 1661644800000,
       "time": "20:30",
@@ -3316,7 +3876,11 @@
       "id": "pompeji ostkreuz-2628802405",
       "title": "CINEMATIC CONCERT: NIGHT ON EARTH (subtitled OV German / Konzert / OmU)",
       "normalizedTitle": "CINEMATIC CONCERT: NIGHT ON EARTH",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV German Konzert OmU",
+        "original": true,
+        "english": false
+      },
       "date": "Mo., 29.08",
       "timestamp": 1661731200000,
       "time": "20:15",
@@ -3335,7 +3899,11 @@
       "id": "pompeji ostkreuz-2626630708",
       "title": "RABIYE KURNAZ VS GEORGE W. BUSH (subtitled OV English / OmeU)",
       "normalizedTitle": "RABIYE KURNAZ VS GEORGE W. BUSH",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV English OmeU",
+        "original": true,
+        "english": true
+      },
       "date": "Di., 30.08",
       "timestamp": 1661817600000,
       "time": "20:15",
@@ -3355,7 +3923,11 @@
       "id": "pompeji ostkreuz-2626630716",
       "title": "DEAR THOMAS (subtitled OV English / OmeU)",
       "normalizedTitle": "DEAR THOMAS",
-      "version": "subtitled",
+      "version": {
+        "raw": "subtitled OV English OmeU",
+        "original": true,
+        "english": true
+      },
       "date": "Mi., 31.08",
       "timestamp": 1661904000000,
       "time": "20:15",
@@ -3379,7 +3951,11 @@
       "id": "kulturforum-1661373900000",
       "title": "Girls can't surf",
       "normalizedTitle": "GIRLS CAN'T SURF",
-      "version": "normal",
+      "version": {
+        "raw": "OmU",
+        "original": true,
+        "english": false
+      },
       "date": "Mi., 24.08",
       "timestamp": 1661373900000,
       "time": "20:45",
@@ -3393,26 +3969,14 @@
       "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
       "cinemaName": "sommerkino-kulturforum",
       "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1661287500000",
-      "title": "Der Sommer mit Anaïs",
-      "normalizedTitle": "DER SOMMER MIT ANAÏS",
-      "version": "normal",
-      "date": "Di., 23.08",
-      "timestamp": 1661287500000,
-      "time": "20:45",
-      "url": "https://www.yorck.de/filme/der-sommer-mit-anais",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attBqS3fhRyFN354m/5970fbf5e501079a0ac43961a3cf2fe6/Sommer_mit.jpg",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
       "id": "kulturforum-1661633100000",
       "title": "Nope",
       "normalizedTitle": "NOPE",
-      "version": "normal",
+      "version": {
+        "raw": "OmU",
+        "original": true,
+        "english": false
+      },
       "date": "Sa., 27.08",
       "timestamp": 1661633100000,
       "time": "20:45",
@@ -3430,7 +3994,11 @@
       "id": "kulturforum-1661459400000",
       "title": "Donatello - Schöpfer der Renaissance",
       "normalizedTitle": "DONATELLO - SCHÖPFER DER RENAISSANCE",
-      "version": "normal",
+      "version": {
+        "raw": "DF",
+        "original": false,
+        "english": false
+      },
       "date": "Do., 25.08",
       "timestamp": 1661459400000,
       "time": "20:30",
@@ -3447,7 +4015,11 @@
       "id": "kulturforum-1661546700000",
       "title": "Hallelujah: Leonard Cohen, A Journey, A Song",
       "normalizedTitle": "HALLELUJAH: LEONARD COHEN, A JOURNEY, A SONG",
-      "version": "normal",
+      "version": {
+        "raw": "OmU",
+        "original": true,
+        "english": false
+      },
       "date": "Fr., 26.08",
       "timestamp": 1661546700000,
       "time": "20:45",
@@ -3462,28 +4034,14 @@
       "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-charlottenburg",
       "cinemaName": "sommerkino-schloss-charlottenburg",
       "cinemaShortName": "schloss-charlottenburg",
-      "id": "schloss-charlottenburg-1661287500000",
-      "title": "Der schlimmste Mensch der Welt",
-      "normalizedTitle": "DER SCHLIMMSTE MENSCH DER WELT",
-      "version": "normal",
-      "date": "Di., 23.08",
-      "timestamp": 1661287500000,
-      "time": "20:45",
-      "url": "https://www.yorck.de/filme/der-schlimmste-mensch-der-welt",
-      "description": "Julie weiß nicht, was sie will. Die Studentin wechselt die Fächer und Fachrichtungen wie andere ihre Socken. Irgendwann lernt sie den älteren Comiczeichner Aksel kennen. Die Liebe zwischen den beiden ist zunächst groß, konfrontiert Julie aber recht schnell mit Erwartungen, die sie nicht erfüllen möchte. Und während die Beziehung zu Aksel vor sich hinkriselt, sucht Julie weiter nach dem Sinn ihres Lebens und lässt ganz nebenbei in Oslo magisch die Zeit stehen.\n",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attWNXjoIugD2jEzJ/59c5e2acec0e0780628abc4c521b7529/The_Worst_Person_in_the_World.jpg",
-      "trailer": "https://www.youtube.com/watch?v=B-iz7Gp2dVo",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-charlottenburg",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-charlottenburg",
-      "cinemaName": "sommerkino-schloss-charlottenburg",
-      "cinemaShortName": "schloss-charlottenburg",
       "id": "schloss-charlottenburg-1661373900000",
       "title": "Der beste Film aller Zeiten",
       "normalizedTitle": "DER BESTE FILM ALLER ZEITEN",
-      "version": "normal",
+      "version": {
+        "raw": "DF",
+        "original": false,
+        "english": false
+      },
       "date": "Mi., 24.08",
       "timestamp": 1661373900000,
       "time": "20:45",
@@ -3500,7 +4058,11 @@
       "id": "schloss-charlottenburg-1661460300000",
       "title": "La Dolce Vita",
       "normalizedTitle": "LA DOLCE VITA",
-      "version": "normal",
+      "version": {
+        "raw": "DF",
+        "original": false,
+        "english": false
+      },
       "date": "Do., 25.08",
       "timestamp": 1661460300000,
       "time": "20:45",
@@ -3518,7 +4080,11 @@
       "id": "schloss-charlottenburg-1661546700000",
       "title": "Mittagsstunde",
       "normalizedTitle": "MITTAGSSTUNDE",
-      "version": "normal",
+      "version": {
+        "raw": "DF",
+        "original": false,
+        "english": false
+      },
       "date": "Fr., 26.08",
       "timestamp": 1661546700000,
       "time": "20:45",
@@ -3540,7 +4106,11 @@
       "timestamp": 1661976900000,
       "time": "20:15",
       "title": "MEMORIA",
-      "version": "normal",
+      "version": {
+        "raw": "OmU, Originalversion",
+        "original": true,
+        "english": false
+      },
       "normalizedTitle": "MEMORIA",
       "img": "https://images.cinetixx.com/posters/2566800624/thumbnails/2566800624_211_300.jpg",
       "description": "Seit Jessica (Tilda Swinton) bei Tagesanbruch von einem lauten Knall aufgeschreckt wurde, leidet sie unter Schlafstörungen. Immer wieder hört sie dieses bedrohliche Geräusch, das außer ihr sonst niemand wahrzunehmen scheint. Sie reist ins kolumbianischeBogotá, um ihre kranke Schwester Karen zu besuchen. Dort versucht sie auch mit einem Sounddesigner dem mysteriösen Geräusch auf die Spur zu kommen und in Streifzügen durch die Stadt und Umgebung Klarheit zu finden. Sie freundet sich mit der Archäologin Agnès an. Diese untersucht menschliche Überreste, die beim Bau eines Tunnels entdeckt wurden. Jessica besucht Agnès an der Ausgrabungsstätte. Eine noch tief verborgene Ahnung, woher das Geräusch rühren könnte, wächst in Jessica heran. In einer kleinen Stadt in der Nähe der Ausgrabungsstätte macht sie schließlich die Bekanntschaft des Fischers Hernán. Beide verbringen zusammen Zeit am Fluss, tauschen Erfahrungen aus und teilen Erinnerungen miteinander. Gegen Abend empfindet Jessica schließlich ein ungewöhnliches Gefühl der Klarheit.",
@@ -3560,7 +4130,11 @@
       "timestamp": 1663358400000,
       "time": "20:0",
       "title": "NOPE",
-      "version": "normal",
+      "version": {
+        "raw": "OmU, Originalversion",
+        "original": true,
+        "english": false
+      },
       "normalizedTitle": "NOPE",
       "img": "https://images.cinetixx.com/posters/2585088981/thumbnails/2585088981_211_300.jpg",
       "description": "Jill (Keke Palmer) und James (Daniel Kaluuya) sind die Eigentümer einer Farm für Hollywood-Filmpferde. Ihre kalifornische Haywood-Ranch, weitab von den ersten Anzeichen menschlicher Zivilisation, ist bereits seit Jahrzehnten in Familienbesitz. Eines Nachts beobachten sie auf ihrem Land schockierende Phänomene, für die es keinerlei Erklärung zu geben scheint. Dabei ahnen sie nicht, dass es sich nur um die Vorboten eines grauenerregenden Geheimnisses handelt ...",
