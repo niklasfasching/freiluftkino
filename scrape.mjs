@@ -83,6 +83,7 @@ async function getCinetixxCinema(cinemaId, cinemaName, cinemaShortName) {
         timestamp: date.getTime(),
         time: `${date.getUTCHours()}:${date.getUTCMinutes()}`,
         title: show.showName,
+        version: getVersion(show.showName),
         normalizedTitle: normalizeTitle(show.showName),
         img: el.querySelector("img").src,
         description: el.querySelector(".movie-details div").innerText.trim(),
@@ -125,6 +126,7 @@ async function getKinoheldCinema(cinemaId, cinemaName, cinemaShortName) {
       id: cinemaShortName + "-" + show.id,
       title,
       normalizedTitle: normalizeTitle(title),
+      version: getVersion(title),
       date: formatDate(new Date(show.date)),
       timestamp: new Date(show.date + " UTC").getTime(),
       time: show.time,
@@ -158,6 +160,7 @@ async function getYorckCinema(cinemaId, cinemaName, cinemaShortName) {
         id: cinemaShortName + "-" + date.getTime(),
         title: fs.fields.title,
         normalizedTitle: normalizeTitle(fs.fields.title),
+        version: getVersion(fs.fields.title),
         date: formatDate(date),
         timestamp: date.getTime(),
         time: `${date.getUTCHours()}:${date.getUTCMinutes()}`,
@@ -221,6 +224,7 @@ async function getKinoTicketsOnlineCinema(cinemaId, cinemaName, cinemaShortName,
       trailer: trailerUrl,
 	  title,
       normalizedTitle: normalizeTitle(title),
+      version: getVersion(title),
       date: formatDate(date),
       timestamp: date.getTime(),
       time,
@@ -242,4 +246,8 @@ function formatDate(date) {
 
 function normalizeTitle(title) {
   return title.toUpperCase().replace(/\(.*\)|-.*?film preview|open air:/ig, "").trim();
+}
+
+function getVersion(title) {
+  return /\b(Ome?U|subtitled?)\b/i.test(title) ? "subtitled" : "normal";
 }
