@@ -5,7 +5,7 @@ const cinemas = {
     rb_freiluftkino: ["Freiluftkino Rehberge", "rehberge", "http://www.freiluftkino-rehberge.de/index.php"],
   },
   kinoHeld: {
-    581: ["freiluftkino-insel-im-cassiopeia", "cassiopeia"],
+    581: ["freiluftkino-insel-revier-suedost", "cassiopeia"],
     580: ["freiluftkino-hasenheide", "hasenheide"],
     2153: ["freiluftkino-pompeji-open-air-am-ostkreuz-berlin", "pompeji ostkreuz"],
     1839: ["central-kino-open-air", "central"],
@@ -83,6 +83,7 @@ async function getCinetixxCinema(cinemaId, cinemaName, cinemaShortName) {
         timestamp: date.getTime(),
         time: `${date.getUTCHours()}:${date.getUTCMinutes()}`,
         title: show.showName,
+        normalizedTitle: normalizeTitle(show.showName),
         img: el.querySelector("img").src,
         description: el.querySelector(".movie-details div").innerText.trim(),
         trailer: el.querySelector("trailer-button")?.getAttribute("trailer-url").slice(1, -1),
@@ -115,13 +116,15 @@ async function getKinoheldCinema(cinemaId, cinemaName, cinemaShortName) {
     const seatMap = Object.values(seatResult.seats || []).reduce((acc, e) => acc.set(e.status, (acc.get(e.status) || 0) + 1), new Map());
     const bookable = seatResult.sectors?.some(s => s.availableSeats.order || s.availableSeats.reservation) || false;
     const movie = result.movies[show.movieId];
+    const title = `${show.name} ${show.flags.length ? `(${show.flags.map(flag => flag.name).join(" / ")})` : ""}`;
     return {
       cinemaId,
       cinemaUrl: `https://www.kinoheld.de/kino-berlin/${cinemaName}/shows/movies`,
       cinemaName,
       cinemaShortName,
       id: cinemaShortName + "-" + show.id,
-      title: `${show.name} ${show.flags.length ? `(${show.flags.map(flag => flag.name).join(" / ")})` : ""}`,
+      title,
+      normalizedTitle: normalizeTitle(title),
       date: formatDate(new Date(show.date)),
       timestamp: new Date(show.date + " UTC").getTime(),
       time: show.time,
@@ -154,6 +157,7 @@ async function getYorckCinema(cinemaId, cinemaName, cinemaShortName) {
         cinemaShortName,
         id: cinemaShortName + "-" + date.getTime(),
         title: fs.fields.title,
+        normalizedTitle: normalizeTitle(fs.fields.title),
         date: formatDate(date),
         timestamp: date.getTime(),
         time: `${date.getUTCHours()}:${date.getUTCMinutes()}`,
@@ -205,6 +209,7 @@ async function getKinoTicketsOnlineCinema(cinemaId, cinemaName, cinemaShortName,
     const [_, day, month, time] = li.querySelector("ul li").innerText.match(/(\d+)\.(\d+)\s*(\d+:\d+)/m);
     const date = new Date(`${new Date().getFullYear()}-${month}-${day} ${time} UTC`);
     const d = await getDocument(url);
+    const title = li.querySelector(".font-bold.text-primary").innerText;
     return Object.assign({}, meta[id], {
       cinemaId,
       cinemaUrl,
@@ -214,7 +219,8 @@ async function getKinoTicketsOnlineCinema(cinemaId, cinemaName, cinemaShortName,
       url,
       img: `https://kinotickets-online.com/${cinemaId}/assets/poster?movieId=${movieId}`,
       trailer: trailerUrl,
-	  title: li.querySelector(".font-bold.text-primary").innerText,
+	  title,
+      normalizedTitle: normalizeTitle(title),
       date: formatDate(date),
       timestamp: date.getTime(),
       time,
@@ -231,5 +237,9 @@ async function getDocument(url) {
 }
 
 function formatDate(date) {
-  return date.toLocaleTimeString("de-DE",  { weekday: "short", month: "numeric", day: "numeric", }).slice(0,10);
+  return date.toLocaleTimeString("de-DE",  { weekday: "short", month: "2-digit", day: "2-digit", }).slice(0,10);
+}
+
+function normalizeTitle(title) {
+  return title.toUpperCase().replace(/\(.*\)|-.*?film preview|open air:/ig, "").trim();
 }
