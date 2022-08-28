@@ -98,7 +98,7 @@
     "reserved": 0,
     "bookable": true
   },
-  "fhain-876": {
+  "fhain-887": {
     "trailer": "https://www.youtube.com/watch?v=TCuhswRzQxs",
     "description": "Mit Leichtigkeit, Stilsicherheit, Emotion und einer großen Portion Humor führt Regisseurin Karoline Herfurth die Geschichten von fünf Frauen zusammen, die auf unterschiedlichste Weise mit längst überholt geglaubten Rollenmustern genauso zu kämpfen haben, wie mit den Anforderungen des permanenten Selbst-Optimierungswahns. Die so leicht eingeforderte Body-Positivity ist nur ein Teil davon. Getragen von einem fantastischen Ensemble um  Martina Gedeck, Nora Tschirner, Emilia Schüle, Friedrich Mücke, Maximilian Brückner und Joachim Król. \n",
     "rawVersion": "dt. Fassung",
@@ -106,8 +106,8 @@
     "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
     "cinemaName": "Freiluftkino Friedrichshain",
     "cinemaShortName": "fhain",
-    "id": "fhain-876",
-    "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/876",
+    "id": "fhain-887",
+    "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/887",
     "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=865",
     "title": "Wunderschön",
     "normalizedTitle": "WUNDERSCHÖN",
@@ -116,9 +116,9 @@
       "original": false,
       "english": false
     },
-    "date": "Sa., 27.08",
-    "timestamp": 1661632200000,
-    "time": "20:30",
+    "date": "Fr., 09.09",
+    "timestamp": 1662753600000,
+    "time": "20:00",
     "available": 0,
     "reserved": 0,
     "bookable": true
@@ -443,30 +443,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "xberg-806": {
-    "description": "Ausgangspunkt für die vier so schön verwobenen Episoden des neuen Wes Anderson Films ist die Redaktion des ,French Dispatch’ irgendwo in der französischen Provinz. Die Energie, der Humor, die Phantasie, die ausgeklügelte Ästhetik und die geniale Starpower jeder einzelnen Episode bringen das Beste an Wes Andersons Schaffen zum Strahlen. Und unsere Kinoherzen zum Leuchten.",
-    "rawVersion": "(engl.m.dt.Ut.)",
-    "cinemaId": "kb_freiluftkino",
-    "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
-    "cinemaName": "Freiluftkino Kreuzberg",
-    "cinemaShortName": "xberg",
-    "id": "xberg-806",
-    "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/806",
-    "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=793",
-    "title": "The French Dispatch",
-    "normalizedTitle": "THE FRENCH DISPATCH",
-    "version": {
-      "raw": "(engl.m.dt.Ut.)",
-      "original": false,
-      "english": true
-    },
-    "date": "Sa., 27.08",
-    "timestamp": 1661630400000,
-    "time": "20:00",
-    "available": 0,
-    "reserved": 0,
-    "bookable": true
-  },
   "xberg-811": {
     "trailer": "https://www.youtube.com/watch?v=55M5ZgAqbWo",
     "description": "In den meisten Dingen ist Julie unentschlossen. Sei es das Studium oder die Liebe - sie kann und will sich nicht festlegen. Zu viele Wege sind offen. Zu viele Möglichkeiten bieten sich an. Das zeigt sich einmal mehr, als zwei sehr unterschiedliche Männer in ihr Leben treten. Julie navigiert durch Liebesaffären und existenzielle Unsicherheiten, während sie beginnt zu entscheiden, wer sie werden will. Joachim Triers herrlicher Film über die Liebe und die vermaledeite Suche nach diesem Ding namens Glück, ist einer unserer Lieblingsfilme der Saison.  \"Einer der zärtlichsten und klügsten Filme der letzten Monate\" artechock\n",
@@ -617,27 +593,27 @@
     "reserved": 0,
     "bookable": true
   },
-  "rehberge-813": {
+  "rehberge-824": {
     "trailer": "https://www.youtube.com/watch?v=ZKrYSfBz_G8",
     "description": "Monsieur Claude, der Meister der formvollendeten Zerknirschung, ist zurück! Keiner beherrscht die Kunst der gerümpften Nase so unterhaltsam wie er: Christian Clavier brilliert in seinem langerwarteten neuen Leinwandabenteuer in der Königsklasse der familiären Diplomatie: Einem Fest aus Anlass seines 40. Hochzeitstags.",
-    "rawVersion": "dt. Fassung",
+    "rawVersion": "",
     "cinemaId": "rb_freiluftkino",
     "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
     "cinemaName": "Freiluftkino Rehberge",
     "cinemaShortName": "rehberge",
-    "id": "rehberge-813",
-    "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/813",
+    "id": "rehberge-824",
+    "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/824",
     "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=789",
     "title": "Monsieur Claude und sein großes Fest",
     "normalizedTitle": "MONSIEUR CLAUDE UND SEIN GROSSES FEST",
     "version": {
-      "raw": "dt. Fassung",
+      "raw": "",
       "original": false,
       "english": false
     },
-    "date": "Sa., 27.08",
-    "timestamp": 1661632200000,
-    "time": "20:30",
+    "date": "Do., 08.09",
+    "timestamp": 1662667200000,
+    "time": "20:00",
     "available": 0,
     "reserved": 0,
     "bookable": true
@@ -887,75 +863,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "hasenheide-722988": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-722988",
-    "title": "Mein Vater, die Wurst ",
-    "normalizedTitle": "MEIN VATER, DIE WURST",
-    "version": {
-      "raw": "",
-      "original": false,
-      "english": false
-    },
-    "date": "Sa., 27.08",
-    "timestamp": 1661558400000,
-    "time": "16:00",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/722988?layout=shows",
-    "img": "https://media.kinoheld.de/aEWjsApzZxeqetp9OBijkL5b6Jw=/400x560/images%2Ffilm%2Fmein-vater-die-wurst-21747.v17.jpg",
-    "description": "Zoë  kann es nicht fassen, als ihr Vater verkündet, dass er seinen Job in einer Bank hingeworfen hat, um Schauspieler zu werden. Während ihre Geschwister und ihre Mutter glauben, er sei verrückt geworden, nimmt nur Zoë den Traum ihres Vaters ernst und unterstützt ihn. Doch als Zoës Mutter herausfindet, dass der Vater eine riesige Wurst in einem Werbeclip spielen soll und Zoë die Schule geschwänzt hat, um ihrem Vater bei seinem irrwitzigen Unterfangen zu unterstützen, gerät das Familiengleichgewicht in Schieflage.",
-    "trailer": "https://www.youtube.com/watch?v=r2_fXDhy1cM",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
-  "hasenheide-723554": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-723554",
-    "title": "Kleinod vor dem Umbruch ",
-    "normalizedTitle": "KLEINOD VOR DEM UMBRUCH",
-    "version": {
-      "raw": "",
-      "original": false,
-      "english": false
-    },
-    "date": "Sa., 27.08",
-    "timestamp": 1661558400000,
-    "time": "18:00",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/723554?layout=shows",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
-  "hasenheide-723490": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-723490",
-    "title": "Elvis (subtitled OV)",
-    "normalizedTitle": "ELVIS",
-    "version": {
-      "raw": "subtitled OV",
-      "original": true,
-      "english": false
-    },
-    "date": "Sa., 27.08",
-    "timestamp": 1661558400000,
-    "time": "20:30",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/723490?layout=shows",
-    "img": "https://media.kinoheld.de/q3_Nu294SWsh_oMLw7qEVsGErrA=/400x560/images%2Ffilm%2Felvis-22265.v25.jpg",
-    "description": "Als der junge Sänger Elvis Presley (Austin Butler) von dem zwielichtigen Colonel Tom Parker (Tom Hanks) entdeckt wird, ist es der Auftakt einer Erfolgsgeschichte. Elvis wird von dem Rummelplatz-Manager zur Attraktion einer durch die USA tingelnden Show gemacht und avanciert bald zum Superstar. Die eigenwilligen Tanzbewegungen des mit Blues und Gospel-Musik aufgewachsenen Elvis versetzen vor allem seine weiblichen Fans in Ekstase, doch erzürnen auch die Sittenwächter. Während Elvis sich in seiner Zeit als US-Soldat in Deutschland in die junge Priscilla (Olivia DeJonge) verliebt und so eine weitere signifikante und prägende Person in sein Leben tritt, bekommt die Beziehung zu seinem Manager im Laufe von 20 Jahren immer mehr Risse. Als die Gewalt gegen Schwarze zunimmt und Martin Luther King ausgerechnet in Elvis' Heimat Memphis ermordet wird, will sich der Superstar klar positionieren. Doch nicht nur dafür muss er sich gegen den Colonel durchsetzen - auch seine eigenen Vorstellungen vom Verlauf seiner Karriere stimmen immer weniger mit denen von Tom Parker überein.",
-    "trailer": "https://www.youtube.com/watch?v=KT3GNpxvI00",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
   "hasenheide-723491": {
     "cinemaId": "580",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
@@ -994,7 +901,7 @@
     "timestamp": 1661731200000,
     "time": "18:00",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/723492?layout=shows",
-    "img": "https://media.kinoheld.de/pf3qc4FosBg8bzEWqCT-E8wiAEA=/400x560/images%2Ffilm%2Fwunderschoen-20593.v2916.png",
+    "img": "https://media.kinoheld.de/3vsz3zP95akC9xhnS9yg6yrnBoY=/400x560/images%2Ffilm%2Fwunderschoen-20593.v2917.png",
     "description": "Egal ob Jung oder Alt, Mann oder Frau – einem bestimmten Schönheitsideal nachzueifern kennt wohl fast jeder von uns. Da geht es der jungen Mutter Sonja nicht anders, nach zwei Schwangerschaften kämpft sie mit ihrem Körpergefühl und um die Beziehung zu ihrem Mann Milan. Auch Frauke, kurz vor ihrem 60. Geburtstag, teilt dieses Schicksal und fühlt sich für ihren Mann nahezu unsichtbar. Tochter Julie feilt derweil an ihrer Modelkarriere, doch immer wieder wird ein Makel an ihrem Körper entdeckt…",
     "trailer": "https://www.youtube.com/watch?v=TCuhswRzQxs",
     "available": -1,
@@ -1020,7 +927,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/723493?layout=shows",
     "img": "https://media.kinoheld.de/uR1byfxaYBwPUIipOtCHm3p7_gc=/400x560/images%2Ffilm%2Fthe-last-duel-20157.v19.jpg",
     "description": "Als die schöne Marguerite de Carrouges, die Ehefrau des Ritters Jean de Carrouges, den Knappen Jacques Le Gris beschuldigt, sie vergewaltigt zu haben, trägt ihr Mann den Vorwurf König Charles dem Sechsten vor. Der König entscheidet, dass ein Duell der einzige Weg ist, um den Streit der Männer zu schlichten. Der Kampf wird das letzte legale Duell in der Geschichte Frankreichs...",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://www.youtube.com/watch?v=dP4efNYXwaA",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -1183,7 +1090,7 @@
     "timestamp": 1661990400000,
     "time": "16:00",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/723539?layout=shows",
-    "img": "https://media.kinoheld.de/BGnEG-7dWpPSuj7q35nUakAinT4=/400x560/images%2Ffilm%2Fdc-league-of-super-pets-23049.v122.jpg",
+    "img": "https://media.kinoheld.de/2_9UMWMBSXx82iq3a-DR70bv0kw=/400x560/images%2Ffilm%2Fdc-league-of-super-pets-23049.v129.jpg",
     "description": "Superhund Krypto und Superman. Die beiden besitzen die gleichen Superkräfte und kämpfen in Metropolis Seite an Seite gegen das Verbrechen. Doch als Superman und der Rest der Justice League entführt werden, muss Krypto alles daransetzen, die Helden zu befreien. In Hund Ace, Hängebauchschwein PB, Schildkröte Merton und Eichhörnchen Chip findet er Verbündete. Doch erst einmal muss Krypto die bunt zusammengewürfelte Heimtier-Bande davon überzeugen, ihre neu entdeckten Kräfte zur Rettung der Superhelden einzusetzen.",
     "trailer": "https://www.youtube.com/watch?v=TyMiyczmNh8",
     "available": -1,
@@ -1281,7 +1188,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/723556?layout=shows",
     "img": "https://media.kinoheld.de/4U8C-7DtGv4GtYT8wn86FPMAR5U=/400x560/images%2Ffilm%2F4%2Fget-out-5542.v13.jpg",
     "description": "Ein Landhaus im Grünen, ein Wochenende bei den neuen Schwiegereltern in spe, der Empfang ist herzlich - vielleicht eine Spur \"zu herzlich\". Schnell muss Chris (Daniel Kaluuya; Sicario) feststellen, dass mit der Familie seiner Freundin Rose (Allison Williams; Girls) etwas nicht stimmt. Bizarre Zwischenfälle verwandeln den vermeintlich entspannten Antrittsbesuch unversehens in einen ausgewachsenen Alptraum für den Familien-Neuling. (Quelle: Verleih)",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://www.youtube.com/watch?v=1XTD56Iy7Us",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -1374,7 +1281,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/723545?layout=shows",
     "img": "https://media.kinoheld.de/60XwEl-G_pr98bMxjtLda-aD_7g=/400x560/images%2Ffilm%2Feverything-everywhere-all-at-once-22045.v67.jpg",
     "description": "Waschsalonbesitzerin Evelyn Wang geht im Chaos ihres Alltags unter: Der bevorstehende Besuch ihres Vaters überfordert sie, die Wünsche der Kunden bringen sie an ihre Grenzen und die anstehende Steuererklärung wächst ihr komplett über den Kopf. Der Gang zum Finanzamt ist unausweichlich, doch während sie mit ihrer Familie bei der Steuerprüferin vorspricht, wird ihr Universum komplett durcheinandergewirbelt. Raum und Zeit lösen sich auf, und die Menschen um sie herum haben, ebenso wie sie selbst, plötzlich weitere Leben in Parallelwelten. Sie entdeckt, dass das Multiversum real ist und sie auf die Fähigkeiten und das Leben anderer Versionen ihrer selbst zugreifen kann. Das ist auch bitter nötig, denn sie wird mit einer großen, wenn nicht der größtmöglichen Mission betraut: Der Rettung der Welt vor dem unbekannten Bösen.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://www.youtube.com/watch?v=nz-eUNVQpzk",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -1441,7 +1348,7 @@
     "timestamp": 1662249600000,
     "time": "18:00",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/723548?layout=shows",
-    "img": "https://media.kinoheld.de/sgPn-fLGptOcpTjfphdKGhiyZB0=/400x560/images%2Ffilm%2Fcorsage-22361.v31.jpg",
+    "img": "https://media.kinoheld.de/w5NM9Jzk9HeNOlLzIhWUwA7URd8=/400x560/images%2Ffilm%2Fcorsage-22361.v34.jpg",
     "description": "Weihnachten 1877: es ist der 40. Geburtstag von Kaiserin Elisabeth von Österreich. In ihrer Rolle als Repräsentantin an der Seite ihres Mannes Kaiser Franz Josef darf sie keine Meinungen äußern, sondern muss für immer die schöne junge Kaiserin bleiben",
     "available": -1,
     "reserved": 0,
@@ -1488,7 +1395,7 @@
     "timestamp": 1662336000000,
     "time": "16:00",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/723550?layout=shows",
-    "img": "https://media.kinoheld.de/oGfCfL58I6hIHR5319x3AD7toqA=/400x560/images%2Ffilm%2F4%2Fdie-winzlinge-abenteuer-in-der-karibik-12001.v27.jpg",
+    "img": "https://media.kinoheld.de/qbVjBfQ5CsdvkWmO4Mvu_PYk8Ts=/400x560/images%2Ffilm%2F4%2Fdie-winzlinge-abenteuer-in-der-karibik-12001.v28.jpg",
     "description": "Bei einem heimlichen Ausflug in die Kastanienfabrik seines Dorfes landet ein junger unerschrockener Marienkäfer versehentlich in einer Pappschachtel und wird in die Karibik verschifft. Ohne zu zögern, begibt sich sein Papa auf eine abenteuerliche Reise, um den geliebten Nachwuchs zu finden. Kaum wieder vereint, stehen sie vor der nächsten Herausforderung: Die Heimat ihrer neuen karibischen Marienkäferfreunde ist in Gefahr, von einer großen Baufirma zerstört zu werden. Zum Glück kann unser Held auf seine tierischen Freunde zählen, allen voran die schwarze Ameise und die clevere Spinne, die aus der Heimat zu Hilfe eilen! Gemeinsam entwickeln sie einen ausgeklügelten Plan, um das idyllische Paradies zu retten. (Quelle: Verleih)",
     "trailer": "https://www.youtube.com/watch?v=2fYtnWTSZZg",
     "available": -1,
@@ -1658,7 +1565,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/723563?layout=shows",
     "img": "https://media.kinoheld.de/bAxWCOeTmQ5ZzUi809ZK5KqgdKA=/400x560/images%2Ffilm%2Fthe-outfit-verbrechen-nach-mass-22289.v7.jpg",
     "description": "Ein raffinierter und meisterhafter Thriller, in dem ein Maßschneider eine Gruppe von Gangstern überlisten muss, um eine schicksalhafte Nacht zu überleben.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://www.youtube.com/watch?v=t1aA11jwPxM",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -1966,7 +1873,7 @@
     "timestamp": 1662854400000,
     "time": "20:00",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/723634?layout=shows",
-    "img": "https://media.kinoheld.de/ZN6SvUVc0w04QzHL9B724hK8uQI=/400x560/images%2Ffilm%2Fthe-worst-person-in-the-world-21143.v8.jpg",
+    "img": "https://media.kinoheld.de/1s_BG6GIwEtbCLhYI7zSi0_plm4=/400x560/images%2Ffilm%2Fthe-worst-person-in-the-world-21143.v9.jpg",
     "description": "Julie wird 30, und ihr Leben ist ein existenzielles Chaos. Sie hat einige ihrer Talente verkommen lassen, und ihr älterer Freund Aksel - ein erfolgreicher Comiczeichner - drängt sie dazu, mit ihm sesshaft zu werden. Eines Abends schleicht sie sich bei einer Party ein und lernt den jungen und charmanten Eivind kennen. Es dauert nicht lange, bis sie sich von Aksel trennt und in eine weitere neue Beziehung stürzt, von der sie sich eine Perspektive für ihr Leben verspricht. Doch sie wird zu der Erkenntnis kommen, dass sie einige Entscheidungen für ihr Leben bereits getroffen hat.",
     "trailer": "https://www.youtube.com/watch?v=XQRbZLpYr4g",
     "available": -1,
@@ -2088,7 +1995,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/723631?layout=shows",
     "img": "https://media.kinoheld.de/n7B7d5eTMJInOFaveN9HntEOsDo=/400x560/images%2Ffilm%2Fgrand-jete-25923.v3.jpg",
     "description": "Nadjas Körper ist kaputt. Die Zehen bluten, dazu Ekzeme am Hals, die aussehen wie Blutergüsse. Die harte Arbeit als Ballerina macht sich bemerkbar. Nadja unterrichtet als Tanzlehrerin junge Mädchen. Als sie selbst noch jung war, bekam sie einen Sohn. Den gab sie damals bei ihrer Mutter ab. Der Sohn heißt Mario. Mario trainiert seinen Körper jeden Tag im Fitnessstudio. Er hat seine Mutter sehr lange nicht gesehen. Nadja hat keine Ahnung von Muttergefühlen, heißt es einmal. Dann steht sie irgendwann wieder vor der Tür. Interessiert sich für ihren Sohn. Sieht seinen Körper, will ihn anfassen. Fasst ihn an. Immer öfter.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://www.youtube.com/watch?v=cWNq6Psd2u8",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2293,7 +2200,7 @@
     "timestamp": 1663286400000,
     "time": "17:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/723684?layout=shows",
-    "img": "https://media.kinoheld.de/sgPn-fLGptOcpTjfphdKGhiyZB0=/400x560/images%2Ffilm%2Fcorsage-22361.v31.jpg",
+    "img": "https://media.kinoheld.de/w5NM9Jzk9HeNOlLzIhWUwA7URd8=/400x560/images%2Ffilm%2Fcorsage-22361.v34.jpg",
     "description": "Weihnachten 1877: es ist der 40. Geburtstag von Kaiserin Elisabeth von Österreich. In ihrer Rolle als Repräsentantin an der Seite ihres Mannes Kaiser Franz Josef darf sie keine Meinungen äußern, sondern muss für immer die schöne junge Kaiserin bleiben",
     "available": -1,
     "reserved": 0,
@@ -2467,30 +2374,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "cassiopeia-2633293393": {
-    "cinemaId": "581",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-insel-revier-suedost/shows/movies",
-    "cinemaName": "freiluftkino-insel-revier-suedost",
-    "cinemaShortName": "cassiopeia",
-    "id": "cassiopeia-2633293393",
-    "title": "TOP GUN MAVERICK (subtitled OV German / OmU)",
-    "normalizedTitle": "TOP GUN MAVERICK",
-    "version": {
-      "raw": "subtitled OV German OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Sa., 27.08",
-    "timestamp": 1661558400000,
-    "time": "20:15",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-insel-revier-suedost/show/2633293393?layout=shows",
-    "img": "https://media.kinoheld.de/yOpUcN55QM0_Y6wEzsVkK4l1FFU=/400x560/images%2Ffilm%2Ftop-gun-maverick-22051.v190.jpg",
-    "description": "Aufgrund seiner Probleme mit Autoritäten hat es Flieger-Ass Maverick nie geschafft, die ganz große Karriere in der Navy zu machen. Anstatt Orden konnte er so vielmehr disziplinarische Verfahren sammeln. Nachdem er erneut über das Ziel hinausgeschossen ist, wird er kurzerhand zu seiner alten Elite-Flugschule Top Gun versetzt. Dort soll er die jungen Flieger, unter denen sich auch Rooster, der Sohn seines verstorbenen besten Freundes Goose befindet, auf eine Mission vorbereiten, die eigentlich unmöglich zu bewerkstelligen ist: Das schwer geschützte Nuklearprogramm eines fremden Landes muss zerstört werden. Weniger als drei Wochen bleiben zur Vorbereitung. Maverick hat nun alle Hände voll damit zu tun, die besten Absolventen der vergangenen Jahre zu einem Team zu formen, damit der Einsatz nicht zum Selbstmordkommando verkommt.",
-    "trailer": "https://www.youtube.com/watch?v=3hO--XhlsfU",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
   "cassiopeia-2633293409": {
     "cinemaId": "581",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-insel-revier-suedost/shows/movies",
@@ -2578,7 +2461,7 @@
     "timestamp": 1662163200000,
     "time": "20:00",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-insel-revier-suedost/show/2644539022?layout=shows",
-    "img": "https://media.kinoheld.de/pf3qc4FosBg8bzEWqCT-E8wiAEA=/400x560/images%2Ffilm%2Fwunderschoen-20593.v2916.png",
+    "img": "https://media.kinoheld.de/3vsz3zP95akC9xhnS9yg6yrnBoY=/400x560/images%2Ffilm%2Fwunderschoen-20593.v2917.png",
     "description": "Egal ob Jung oder Alt, Mann oder Frau – einem bestimmten Schönheitsideal nachzueifern kennt wohl fast jeder von uns. Da geht es der jungen Mutter Sonja nicht anders, nach zwei Schwangerschaften kämpft sie mit ihrem Körpergefühl und um die Beziehung zu ihrem Mann Milan. Auch Frauke, kurz vor ihrem 60. Geburtstag, teilt dieses Schicksal und fühlt sich für ihren Mann nahezu unsichtbar. Tochter Julie feilt derweil an ihrer Modelkarriere, doch immer wieder wird ein Makel an ihrem Körper entdeckt…",
     "trailer": "https://www.youtube.com/watch?v=TCuhswRzQxs",
     "available": -1,
@@ -2604,7 +2487,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-insel-revier-suedost/show/2644539059?layout=shows",
     "img": "https://media.kinoheld.de/z5aQ5P65BCIMjnPlUOo7DHAF0WI=/400x560/images%2Ffilm%2F4%2Fb-movie-lust-sound-in-west-berlin-1979-1989-1581.v16.jpg",
     "description": "Eine Dokumentation über Musik, Kunst & Chaos im wilden West-Berlin der 80er Jahre. Bevor der eiserne Vorhang fiel, war die eingemauerte Stadt ein kreativer Schmelztiegel für Sub- und Popkultur. Von Punk bis zur Love Parade - erzählt mit authentischen Zeitdokumenten aus unzähligen Archiven.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://www.youtube.com/watch?v=eBhcC8UU1Z8",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2652,7 +2535,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/nomadenkino-berlin/show/2644105095?layout=shows",
     "img": "https://media.kinoheld.de/60XwEl-G_pr98bMxjtLda-aD_7g=/400x560/images%2Ffilm%2Feverything-everywhere-all-at-once-22045.v67.jpg",
     "description": "Waschsalonbesitzerin Evelyn Wang geht im Chaos ihres Alltags unter: Der bevorstehende Besuch ihres Vaters überfordert sie, die Wünsche der Kunden bringen sie an ihre Grenzen und die anstehende Steuererklärung wächst ihr komplett über den Kopf. Der Gang zum Finanzamt ist unausweichlich, doch während sie mit ihrer Familie bei der Steuerprüferin vorspricht, wird ihr Universum komplett durcheinandergewirbelt. Raum und Zeit lösen sich auf, und die Menschen um sie herum haben, ebenso wie sie selbst, plötzlich weitere Leben in Parallelwelten. Sie entdeckt, dass das Multiversum real ist und sie auf die Fähigkeiten und das Leben anderer Versionen ihrer selbst zugreifen kann. Das ist auch bitter nötig, denn sie wird mit einer großen, wenn nicht der größtmöglichen Mission betraut: Der Rettung der Welt vor dem unbekannten Bösen.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://www.youtube.com/watch?v=nz-eUNVQpzk",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2700,7 +2583,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2643244742?layout=shows",
     "img": "https://media.kinoheld.de/60XwEl-G_pr98bMxjtLda-aD_7g=/400x560/images%2Ffilm%2Feverything-everywhere-all-at-once-22045.v67.jpg",
     "description": "Waschsalonbesitzerin Evelyn Wang geht im Chaos ihres Alltags unter: Der bevorstehende Besuch ihres Vaters überfordert sie, die Wünsche der Kunden bringen sie an ihre Grenzen und die anstehende Steuererklärung wächst ihr komplett über den Kopf. Der Gang zum Finanzamt ist unausweichlich, doch während sie mit ihrer Familie bei der Steuerprüferin vorspricht, wird ihr Universum komplett durcheinandergewirbelt. Raum und Zeit lösen sich auf, und die Menschen um sie herum haben, ebenso wie sie selbst, plötzlich weitere Leben in Parallelwelten. Sie entdeckt, dass das Multiversum real ist und sie auf die Fähigkeiten und das Leben anderer Versionen ihrer selbst zugreifen kann. Das ist auch bitter nötig, denn sie wird mit einer großen, wenn nicht der größtmöglichen Mission betraut: Der Rettung der Welt vor dem unbekannten Bösen.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://www.youtube.com/watch?v=nz-eUNVQpzk",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2915,7 +2798,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2643264420?layout=shows",
     "img": "https://media.kinoheld.de/60XwEl-G_pr98bMxjtLda-aD_7g=/400x560/images%2Ffilm%2Feverything-everywhere-all-at-once-22045.v67.jpg",
     "description": "Waschsalonbesitzerin Evelyn Wang geht im Chaos ihres Alltags unter: Der bevorstehende Besuch ihres Vaters überfordert sie, die Wünsche der Kunden bringen sie an ihre Grenzen und die anstehende Steuererklärung wächst ihr komplett über den Kopf. Der Gang zum Finanzamt ist unausweichlich, doch während sie mit ihrer Familie bei der Steuerprüferin vorspricht, wird ihr Universum komplett durcheinandergewirbelt. Raum und Zeit lösen sich auf, und die Menschen um sie herum haben, ebenso wie sie selbst, plötzlich weitere Leben in Parallelwelten. Sie entdeckt, dass das Multiversum real ist und sie auf die Fähigkeiten und das Leben anderer Versionen ihrer selbst zugreifen kann. Das ist auch bitter nötig, denn sie wird mit einer großen, wenn nicht der größtmöglichen Mission betraut: Der Rettung der Welt vor dem unbekannten Bösen.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://www.youtube.com/watch?v=nz-eUNVQpzk",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2937,7 +2820,7 @@
     "timestamp": 1662768000000,
     "time": "20:30",
     "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2643264429?layout=shows",
-    "img": "https://media.kinoheld.de/ZN6SvUVc0w04QzHL9B724hK8uQI=/400x560/images%2Ffilm%2Fthe-worst-person-in-the-world-21143.v8.jpg",
+    "img": "https://media.kinoheld.de/1s_BG6GIwEtbCLhYI7zSi0_plm4=/400x560/images%2Ffilm%2Fthe-worst-person-in-the-world-21143.v9.jpg",
     "description": "Julie wird 30, und ihr Leben ist ein existenzielles Chaos. Sie hat einige ihrer Talente verkommen lassen, und ihr älterer Freund Aksel - ein erfolgreicher Comiczeichner - drängt sie dazu, mit ihm sesshaft zu werden. Eines Abends schleicht sie sich bei einer Party ein und lernt den jungen und charmanten Eivind kennen. Es dauert nicht lange, bis sie sich von Aksel trennt und in eine weitere neue Beziehung stürzt, von der sie sich eine Perspektive für ihr Leben verspricht. Doch sie wird zu der Erkenntnis kommen, dass sie einige Entscheidungen für ihr Leben bereits getroffen hat.",
     "trailer": "https://www.youtube.com/watch?v=XQRbZLpYr4g",
     "available": -1,
@@ -2961,7 +2844,7 @@
     "timestamp": 1662940800000,
     "time": "20:30",
     "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2643264438?layout=shows",
-    "img": "https://media.kinoheld.de/pf3qc4FosBg8bzEWqCT-E8wiAEA=/400x560/images%2Ffilm%2Fwunderschoen-20593.v2916.png",
+    "img": "https://media.kinoheld.de/3vsz3zP95akC9xhnS9yg6yrnBoY=/400x560/images%2Ffilm%2Fwunderschoen-20593.v2917.png",
     "description": "Egal ob Jung oder Alt, Mann oder Frau – einem bestimmten Schönheitsideal nachzueifern kennt wohl fast jeder von uns. Da geht es der jungen Mutter Sonja nicht anders, nach zwei Schwangerschaften kämpft sie mit ihrem Körpergefühl und um die Beziehung zu ihrem Mann Milan. Auch Frauke, kurz vor ihrem 60. Geburtstag, teilt dieses Schicksal und fühlt sich für ihren Mann nahezu unsichtbar. Tochter Julie feilt derweil an ihrer Modelkarriere, doch immer wieder wird ein Makel an ihrem Körper entdeckt…",
     "trailer": "https://www.youtube.com/watch?v=TCuhswRzQxs",
     "available": -1,
@@ -3011,8 +2894,8 @@
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2589127229?layout=shows",
     "img": "https://media.kinoheld.de/LkSzhJQK9rd4M18idM48qe9iTCE=/400x560/images%2Ffilm%2Fmo%2F172-61241.v2.jpg",
     "description": "Punk the Capital ist der erste, der die unglaublichen Herausforderungen untersucht, mit denen diese Subkultur konfrontiert war, als Punkrock Ende der 1970er Jahre in der Hauptstadt der Nation Fuß fasste. Der Dokumentarfilm positioniert DC Punk in den größeren Erzählungen des Rock n' Roll und funktioniert als kraftvolle, vielschichtige Geschichte sowohl für Fans als auch für Nicht-Fans von Punkrock. Mit Musikern wie Bad Brains, Henry Rollins und Ian MacKaye taucht dieser Film tief in die Ideen und Klänge dieser transformativen Musikszene ein, die weiterhin kulturell und politisch auf der ganzen Welt Einfluss nimmt.",
-    "available": 77,
-    "reserved": 8,
+    "available": 75,
+    "reserved": 10,
     "bookable": true
   },
   "central-2587716315": {
@@ -3128,7 +3011,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2587718526?layout=shows",
     "img": "https://media.kinoheld.de/kYStEhPmGfaEZFCEJgfHXxwlOxU=/400x560/images%2Ffilm%2Fleon-der-profi-wa-2019-14361.v11.jpg",
     "description": "Léon verdient sein Geld als Auftragskiller der Italo-Mafia in den Straßen von New York. Er lebt zurückgezogen und pflegt außer zu seinem Boss Tony einzig zu seiner Topfpflanze ein freundschaftliches Verhältnis. Als die Familie seiner Nachbarstochter Mathilda von DEA-Polizisten brutal getötet wird, flüchtet sie zu Léon. Um sich an den Mördern ihres kleinen Bruders zu rächen, lässt sich Mathilda das grausame Handwerk eines Profi-Killers von Léon beibringen. (Quelle: Verleih)",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://www.youtube.com/watch?v=4e50Hpm9L4I",
     "available": 84,
     "reserved": 2,
     "bookable": true
@@ -3249,30 +3132,6 @@
     "reserved": 2,
     "bookable": true
   },
-  "pompeji ostkreuz-2626630691": {
-    "cinemaId": "2153",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-    "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-    "cinemaShortName": "pompeji ostkreuz",
-    "id": "pompeji ostkreuz-2626630691",
-    "title": "ELVIS (subtitled OV German / OmU)",
-    "normalizedTitle": "ELVIS",
-    "version": {
-      "raw": "subtitled OV German OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Sa., 27.08",
-    "timestamp": 1661558400000,
-    "time": "20:30",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2626630691?layout=shows",
-    "img": "https://media.kinoheld.de/q3_Nu294SWsh_oMLw7qEVsGErrA=/400x560/images%2Ffilm%2Felvis-22265.v25.jpg",
-    "description": "Als der junge Sänger Elvis Presley (Austin Butler) von dem zwielichtigen Colonel Tom Parker (Tom Hanks) entdeckt wird, ist es der Auftakt einer Erfolgsgeschichte. Elvis wird von dem Rummelplatz-Manager zur Attraktion einer durch die USA tingelnden Show gemacht und avanciert bald zum Superstar. Die eigenwilligen Tanzbewegungen des mit Blues und Gospel-Musik aufgewachsenen Elvis versetzen vor allem seine weiblichen Fans in Ekstase, doch erzürnen auch die Sittenwächter. Während Elvis sich in seiner Zeit als US-Soldat in Deutschland in die junge Priscilla (Olivia DeJonge) verliebt und so eine weitere signifikante und prägende Person in sein Leben tritt, bekommt die Beziehung zu seinem Manager im Laufe von 20 Jahren immer mehr Risse. Als die Gewalt gegen Schwarze zunimmt und Martin Luther King ausgerechnet in Elvis' Heimat Memphis ermordet wird, will sich der Superstar klar positionieren. Doch nicht nur dafür muss er sich gegen den Colonel durchsetzen - auch seine eigenen Vorstellungen vom Verlauf seiner Karriere stimmen immer weniger mit denen von Tom Parker überein.",
-    "trailer": "https://youtu.be/wBDLRvjHVOY",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
   "pompeji ostkreuz-2626630700": {
     "cinemaId": "2153",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
@@ -3368,28 +3227,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "kulturforum-1661633100000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1661633100000",
-    "title": "Nope",
-    "normalizedTitle": "NOPE",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Sa., 27.08",
-    "timestamp": 1661633100000,
-    "time": "20:45",
-    "url": "https://www.yorck.de/filme/nope",
-    "description": "Emerald (Keke Palmer) und James (Daniel Kaluuya) sind die Eigentümer einer Farm für Hollywood-Filmpferde. Ihre kalifornische Haywood-Ranch, weitab von den ersten Anzeichen menschlicher Zivilisation, ist bereits seit Jahrzehnten in Familienbesitz. Eines Nachts beobachten sie auf ihrem Land schockierende Phänomene, für die es keinerlei Erklärung zu geben scheint.\n",
-    "img": "//images.ctfassets.net/4mws6uyas4ta/attstVOK7TON0HTrc/d0927f6a13cb4d1954ff8ab1bbf4f199/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",
-    "trailer": "https://www.youtube.com/watch?v=In8fuzj3gck",
-    "bookable": true
-  },
   "weissensee-1661976900000": {
     "cinemaId": "2527240812",
     "cinemaUrl": "https://booking.cinetixx.de/frontend/#/program/2527240812",
@@ -3434,8 +3271,8 @@
     "img": "https://images.cinetixx.com/posters/2585088981/thumbnails/2585088981_211_300.jpg",
     "description": "Jill (Keke Palmer) und James (Daniel Kaluuya) sind die Eigentümer einer Farm für Hollywood-Filmpferde. Ihre kalifornische Haywood-Ranch, weitab von den ersten Anzeichen menschlicher Zivilisation, ist bereits seit Jahrzehnten in Familienbesitz. Eines Nachts beobachten sie auf ihrem Land schockierende Phänomene, für die es keinerlei Erklärung zu geben scheint. Dabei ahnen sie nicht, dass es sich nur um die Vorboten eines grauenerregenden Geheimnisses handelt ...",
     "trailer": "https://www.youtube.com/watch?v=GfpgZxtwTOc",
-    "available": 198,
-    "reserved": 2,
+    "available": 196,
+    "reserved": 4,
     "bookable": true
   }
 }
