@@ -1,76 +1,4 @@
 {
-  "hasenheide-723628": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-723628",
-    "title": "Shaun das Schaf - Der Film: UFO-Alarm ",
-    "normalizedTitle": "SHAUN DAS SCHAF - DER FILM: UFO-ALARM",
-    "version": {
-      "raw": "",
-      "original": false,
-      "english": false
-    },
-    "date": "Mo., 12.09",
-    "timestamp": 1662940800000,
-    "time": "15:30",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/723628?layout=shows",
-    "img": "https://media.kinoheld.de/YHvVVuH2Go7urJybzZFQzRhafdE=/400x560/images%2Ffilm%2Fshaun-das-schaf-der-film-ufo-alarm-14019.v2.png",
-    "description": "Seltsame Lichter über dem verschlafenen Städtchen Mossingham kündigen die Ankunft eines geheimnisvollen Besuchers aus einer fernen Galaxie an... Aber auf der nahe gelegenen Mossy Bottom Farm hat Shaun ganz andere Dinge im Kopf, denn ständig werden seine verrückten Streiche von einem entnervten Bitzer vereitelt. Doch als plötzlich ein ebenso lustiges wie bezauberndes Außerirdischen-Mädchen mit erstaunlichen Kräften in der Nähe der Farm bruchlandet, erkennt Shaun sofort die einmalige Chance: mit Hilfe der Außerirdischen kann er jede Menge neue Späße und Abenteuer anstellen! Gleichzeitig ist es aber auch der Beginn einer Mission, die Außerirdische wieder sicher nach Hause zu bringen... (Quelle: Verleih)",
-    "trailer": "https://www.youtube.com/watch?v=MetnXT732cc",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
-  "hasenheide-723629": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-723629",
-    "title": "Evolution (subtitled OV / OmU)",
-    "normalizedTitle": "EVOLUTION",
-    "version": {
-      "raw": "subtitled OV OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Mo., 12.09",
-    "timestamp": 1662940800000,
-    "time": "17:30",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/723629?layout=shows",
-    "img": "https://media.kinoheld.de/RmPoUdv2qlpz4K_JpUZq9rOt8Hw=/400x560/images%2Ffilm%2Fevolution-23741.v4.jpg",
-    "description": "Über drei Generationen folgt EVOLUTION dem Schicksal einer jüdischen Familie von 1945 bis heute. Der Film ist in drei Teile unterteilt und doch eng miteinander verwoben: In einer verlassenen Gaskammer wird ein kleines Mädchen gefunden, das auf wundersame Weise überlebt hat. Jahrzehnte später in Budapest wird Éva, schon etwas dement, von ihrer Tochter Léna nach Geburtsurkunden und Ausweispapieren gefragt – doch alle offiziellen Dokumente, die sie besitzt, sind gefälscht, um ihre jüdische Herkunft zu verbergen. Und dann ist da noch Évas Enkel Jonás. Er ist gerade mit seiner Mutter nach Berlin gezogen und weiß gar nicht mehr, wer oder was er ist – nur das weiß er: dass er sich als Jude in der Schule ausgeschlossen fühlte. Éva, Léna, Jonas: Großmutter, Mutter und Sohn, gleichzeitig Vergangenheit, Gegenwart und Zukunft.",
-    "trailer": "https://www.youtube.com/watch?v=Cjz1r34hg8o",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
-  "hasenheide-723635": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-723635",
-    "title": "Die Magnetischen (subtitled OV / OmU)",
-    "normalizedTitle": "DIE MAGNETISCHEN",
-    "version": {
-      "raw": "subtitled OV OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Mo., 12.09",
-    "timestamp": 1662940800000,
-    "time": "20:00",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/723635?layout=shows",
-    "img": "https://media.kinoheld.de/aur5Cw85wrJtP7HgAPOjrymjobA=/400x560/images%2Ffilm%2Ff-g-die-magnetischen-22661.v6.jpg",
-    "description": "Bretagne, Frankreich, 1980er Jahre. Eine Gruppe von Freunden, die das langweilige Landleben satt haben und nach Aufregung streben, gründen einen Radiosender.",
-    "trailer": "https://www.youtube.com/watch?v=ynf2KTTReKU",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
   "hasenheide-723630": {
     "cinemaId": "580",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
@@ -114,7 +42,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/723631?layout=shows",
     "img": "https://media.kinoheld.de/n7B7d5eTMJInOFaveN9HntEOsDo=/400x560/images%2Ffilm%2Fgrand-jete-25923.v3.jpg",
     "description": "Nadjas Körper ist kaputt. Die Zehen bluten, dazu Ekzeme am Hals, die aussehen wie Blutergüsse. Die harte Arbeit als Ballerina macht sich bemerkbar. Nadja unterrichtet als Tanzlehrerin junge Mädchen. Als sie selbst noch jung war, bekam sie einen Sohn. Den gab sie damals bei ihrer Mutter ab. Der Sohn heißt Mario. Mario trainiert seinen Körper jeden Tag im Fitnessstudio. Er hat seine Mutter sehr lange nicht gesehen. Nadja hat keine Ahnung von Muttergefühlen, heißt es einmal. Dann steht sie irgendwann wieder vor der Tür. Interessiert sich für ihren Sohn. Sieht seinen Körper, will ihn anfassen. Fasst ihn an. Immer öfter.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://www.youtube.com/watch?v=cWNq6Psd2u8",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -496,30 +424,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "fmp-2643264438": {
-    "cinemaId": "1657",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
-    "cinemaName": "b-ware-openair-fmp",
-    "cinemaShortName": "fmp",
-    "id": "fmp-2643264438",
-    "title": "WUNDERSCHÖN (DmeU)",
-    "normalizedTitle": "WUNDERSCHÖN",
-    "version": {
-      "raw": "DmeU",
-      "original": false,
-      "english": true
-    },
-    "date": "Mo., 12.09",
-    "timestamp": 1662940800000,
-    "time": "20:30",
-    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2643264438?layout=shows",
-    "img": "https://media.kinoheld.de/CzH0R641NHOed3VYXSazGZGytGU=/400x560/images%2Ffilm%2Fwunderschoen-20593.v2928.png",
-    "description": "Egal ob Jung oder Alt, Mann oder Frau – einem bestimmten Schönheitsideal nachzueifern kennt wohl fast jeder von uns. Da geht es der jungen Mutter Sonja nicht anders, nach zwei Schwangerschaften kämpft sie mit ihrem Körpergefühl und um die Beziehung zu ihrem Mann Milan. Auch Frauke, kurz vor ihrem 60. Geburtstag, teilt dieses Schicksal und fühlt sich für ihren Mann nahezu unsichtbar. Tochter Julie feilt derweil an ihrer Modelkarriere, doch immer wieder wird ein Makel an ihrem Körper entdeckt…",
-    "trailer": "https://www.youtube.com/watch?v=TCuhswRzQxs",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
   "fmp-2643264447": {
     "cinemaId": "1657",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
@@ -544,29 +448,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "central-2604920113": {
-    "cinemaId": "1839",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
-    "cinemaName": "central-kino-open-air",
-    "cinemaShortName": "central",
-    "id": "central-2604920113",
-    "title": "open air: Seret in Kooperation mit den Jüdischen Kulturtagen Berlin: On this Happy Note (subtitled OV English / OMeU)",
-    "normalizedTitle": "SERET IN KOOPERATION MIT DEN JÜDISCHEN KULTURTAGEN BERLIN: ON THIS HAPPY NOTE",
-    "version": {
-      "raw": "subtitled OV English OMeU",
-      "original": true,
-      "english": true
-    },
-    "date": "Mo., 12.09",
-    "timestamp": 1662940800000,
-    "time": "20:00",
-    "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2604920113?layout=shows",
-    "img": "https://media.kinoheld.de/aKYxTfUpd5x0zgmOgAvL3Dw5rB8=/400x560/images%2Ffilm%2Fmo%2F172-59997.v2.jpg",
-    "description": "Anat Gov, one of the most influential playwrights in the Israeli theatre, is preparing for her death. She asks Arik Kneller, an artists’ agent, to be the executor of her will. Arik struggles to accept the humor and serenity with which she faces her upcoming end. Anat wants to leave a spiritual legacy: a happy ending. Almost a decade after her death, her loved ones try to fill the void left by her words with their own.",
-    "available": 43,
-    "reserved": 25,
-    "bookable": true
-  },
   "central-2618848628": {
     "cinemaId": "1839",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
@@ -585,8 +466,8 @@
     "time": "20:00",
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2618848628?layout=shows",
     "description": "The festival promotes Israeli filmmaking and celebrates the development of a new generation of Israeli filmmakers. Thus, the festival will hold a screening of the four winners of the festival’s short film competition. This competition was open to the leading Israeli film schools and presents the future of Israeli cinema.",
-    "available": 82,
-    "reserved": 4,
+    "available": 78,
+    "reserved": 8,
     "bookable": true
   },
   "central-2587719189": {
@@ -611,30 +492,6 @@
     "trailer": "https://www.youtube.com/watch?v=vbjXqyWpT74",
     "available": 82,
     "reserved": 4,
-    "bookable": true
-  },
-  "pompeji ostkreuz-2646164756": {
-    "cinemaId": "2153",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-    "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-    "cinemaShortName": "pompeji ostkreuz",
-    "id": "pompeji ostkreuz-2646164756",
-    "title": "CINEMATIC CONCERT: DEAD MAN (subtitled OV German / Konzert / OmU)",
-    "normalizedTitle": "CINEMATIC CONCERT: DEAD MAN",
-    "version": {
-      "raw": "subtitled OV German Konzert OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Mo., 12.09",
-    "timestamp": 1662940800000,
-    "time": "20:15",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2646164756?layout=shows",
-    "img": "https://media.kinoheld.de/JM-hi_AKxL-q5TouIYjU8USj_JA=/400x560/images%2Ffilm%2Fmo%2F2413-38281.v2.png",
-    "description": "CINEMATIC CONCERT: \"DEAD MAN\" von Jim Jarmusch mit John Schröder, guitar // Die Zukunft am Ostkreuz mit Ihrer Freilichtbühne Pompeji setzt postpandemisch, so die Hoffnung, ihre Reihe cinematischer Konzerte auf neue Weise fort. Und dies mit einem fulminanten Auftakt: John Schröder, einst im hessischen Frankfurt als \"Gitarren-Wunderkind\" bezeichnet und heute mit seinem nichtabreißenden Strom an energetischen, musikalischen Ideen zu den umtriebigsten Jazzmusikern des Landes zählend, improvisiert auf seiner Stratocaster zu den Bildern von Jim Jarmusch und dem Soundtreck von Neil Young. Dazu braucht es ein wenig Traute, doch die hat man, wenn man kann. Jarmusch`s \"DEAD MAN\" von 1985, mit einer Endlosliste an Stars, literarischen, philosophischen und musikalischen Referenzen, wird von Vielen für sein Masterpiece gehalten. Ein postmoderner Western, ein \"Psychodelischer Western\", der tief schürft und auf ganz eigene Weise an Andrej Tarkowski`s \"Stalker\" erinnert. So liegt es nahe, hier eine neue, aktuelle Interpretationsschicht aufzulegen. welche die Glut wach hält.",
-    "trailer": "https://youtu.be/nn2nQMfLqwg",
-    "available": -1,
-    "reserved": 0,
     "bookable": true
   },
   "pompeji ostkreuz-2646164763": {
@@ -772,7 +629,7 @@
     "timestamp": 1663977600000,
     "time": "20:15",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2646168355?layout=shows",
-    "img": "https://media.kinoheld.de/BjYC5YmPw1PYCMZpE4CCFlXuTdM=/400x560/images%2Ffilm%2Flicorice-pizza-21773.v397.jpg",
+    "img": "https://media.kinoheld.de/ffJt51BYfNb1qfd0BzEOkz9avWY=/400x560/images%2Ffilm%2Flicorice-pizza-21773.v398.jpg",
     "description": "Vier Jahre nach seinem Oscar-prämierten Meisterwerk DER SEIDENE FADEN kehrt Ausnahmeregisseur Paul Thomas Anderson (THE MASTER, MAGNOLIA) endlich auf die große Leinwand zurück. Mit der turbulenten, ungewöhnlichen Coming-of-Age-Romanze LICORICE PIZZA widmet er sich diesmal dem Erwachsenwerden und der großen Liebe. Im kalifornischen San Fernando Valley des Jahres 1973 entwickelt sich zwischen Mittzwanzigerin Alana Kane (Alana Haim) und Teenager Gary Valentine (Cooper Hoffman) eine ungewöhnliche Freundschaft. Doch inmitten des alltäglichen Trubels aus Gelegenheitsjobs und Schauspielkarriere, Freunden und Politik, Vinyl und Super 8 entstehen mit der Zeit auch intensivere Gefühle. In LICORICE PIZZA erzählt Paul Thomas Anderson nicht nur von einer außergewöhnlichen Liebe und der so aufwühlenden wie verwirrenden Zeit des Erwachsenwerdens, sondern nimmt das Publikum auch mit auf eine stimmungsvolle Reise zurück in die Siebziger – und in ein Leben zwischen Schlaghosen und Ölpreiskrise, New Hollywood und Motown. Vor der Kamera begeistern in den Hauptrollen zwei Shootingstars in ihrem grandiosen Schauspieldebüt: Cooper Hoffman, Sohn der verstorbenen Schauspiellegende Philip Seymour Hoffman, und die Grammy-nominierte Musikerin Alana Haim aus der Schwesternband Haim, die Anderson bereits in mehreren Kurzdokus begleitet hat und die in LICORICE PIZZA auch vor der Kamera als Familie zu sehen ist.",
     "trailer": "https://youtu.be/ofnXPwUPENo",
     "available": -1,
