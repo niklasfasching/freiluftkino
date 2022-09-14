@@ -44,9 +44,9 @@
       "timestamp": 1663113600000,
       "time": "17:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/723633?layout=shows",
-      "available": -1,
+      "available": 0,
       "reserved": 0,
-      "bookable": true
+      "bookable": false
     },
     {
       "cinemaId": "580",
@@ -628,8 +628,8 @@
       "img": "https://images.cinetixx.com/posters/2585088981/thumbnails/2585088981_211_300.jpg",
       "description": "Jill (Keke Palmer) und James (Daniel Kaluuya) sind die Eigentümer einer Farm für Hollywood-Filmpferde. Ihre kalifornische Haywood-Ranch, weitab von den ersten Anzeichen menschlicher Zivilisation, ist bereits seit Jahrzehnten in Familienbesitz. Eines Nachts beobachten sie auf ihrem Land schockierende Phänomene, für die es keinerlei Erklärung zu geben scheint. Dabei ahnen sie nicht, dass es sich nur um die Vorboten eines grauenerregenden Geheimnisses handelt ...",
       "trailer": "https://www.youtube.com/watch?v=GfpgZxtwTOc",
-      "available": 196,
-      "reserved": 4,
+      "available": 194,
+      "reserved": 6,
       "bookable": true
     }
   ]
