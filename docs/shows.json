@@ -1,76 +1,4 @@
 {
-  "hasenheide-726306": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-726306",
-    "title": "Mein Lotta-Leben - Alles Tschaka mit Alpaka ",
-    "normalizedTitle": "MEIN LOTTA-LEBEN - ALLES TSCHAKA MIT ALPAKA",
-    "version": {
-      "raw": "",
-      "original": false,
-      "english": false
-    },
-    "date": "Mi., 21.09",
-    "timestamp": 1663718400000,
-    "time": "15:30",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/726306?layout=shows",
-    "img": "https://media.kinoheld.de/MUx9YDjY8Yqa6AvtpYrcJASPaBs=/400x560/images%2Ffilm%2Fmein-lotta-leben-2-alles-tschaka-mit-alpaka-23043.v14.png",
-    "description": "Mein Lotta-Leben - Alles Tschaka mit Alpaka erzählt von Lottas verrückten Abenteuern auf Klassenfahrt in Amrum",
-    "trailer": "https://www.youtube.com/watch?v=p3TrPQyLMkA",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
-  "hasenheide-726230": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-726230",
-    "title": "Massive Talent (subtitled OV)",
-    "normalizedTitle": "MASSIVE TALENT",
-    "version": {
-      "raw": "subtitled OV",
-      "original": true,
-      "english": false
-    },
-    "date": "Mi., 21.09",
-    "timestamp": 1663718400000,
-    "time": "17:30",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/726230?layout=shows",
-    "img": "https://media.kinoheld.de/tJad7g-UsDh18En6Vl75bCLWZ-4=/400x560/images%2Ffilm%2Fmassive-talent-21775.v19.jpg",
-    "description": "Nicolas Cage hat seinen Karrieren-Zenith längst überschritten. Seine Tochter will ihn nicht mehr sehen und er steht vor dem finanziellen Ruin. So lässt er sich überreden, bei einer Geburtstagsparty eines Millardärs aufzutreten. Ein überraschend unterhaltsamer und vielseitiger Job für Cage. Erst recht, als er als Undercover-Agent vom FBI rekrutiert wird, um den Mann, der in Wahrheit ein gefährlicher Verbrecher ist, auszuspionieren.",
-    "trailer": "https://www.youtube.com/watch?v=sm89nsy-5bE",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
-  "hasenheide-726204": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-726204",
-    "title": "Bullet Train (subtitled OV)",
-    "normalizedTitle": "BULLET TRAIN",
-    "version": {
-      "raw": "subtitled OV",
-      "original": true,
-      "english": false
-    },
-    "date": "Mi., 21.09",
-    "timestamp": 1663718400000,
-    "time": "20:00",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/726204?layout=shows",
-    "img": "https://media.kinoheld.de/TuYAw5uuDdqRw8tMDWQODy2kTO0=/400x560/images%2Ffilm%2Fbullet-train-22511.v2.png",
-    "description": "Bullet Train: So wird der Shinkansen-Zug auf der Strecke Tokio – Kyoto auch genannt, da er mit unglaublichen 320 Kilometern pro Stunde und ohne Zwischenstopp zwischen den beiden Städten hin und her rast. Aussteigen unmöglich. An Bord des Shinkansen ist auch Ladybug, ein vom Pech verfolgter Auftragskiller, der im Hochgeschwindigkeitszug sein nächstes Opfer erledigen soll. Nach einigen Rückschlägen für Ladybug muss dieses Mal einfach alles gut gehen. Doch auch dieser Auftrag wird nicht einfach, denn mit Tangerine, Prince, Hornet, Lemon und Kimura sind noch fünf weitere Auftragskiller an Bord. Erstaunlicherweise haben es nicht alle auf die gleiche Zielperson abgesehen – und doch scheinen ihre Aufträge miteinander verbunden. Natürlich kommen sich die eiskalten Auftragsmörder in die Quere und im Hochgeschwindigkeitszug entbrennt ein chaotischer Kampf auf Leben und Tod.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
   "hasenheide-726206": {
     "cinemaId": "580",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
@@ -114,7 +42,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/726205?layout=shows",
     "img": "https://media.kinoheld.de/TuYAw5uuDdqRw8tMDWQODy2kTO0=/400x560/images%2Ffilm%2Fbullet-train-22511.v2.png",
     "description": "Bullet Train: So wird der Shinkansen-Zug auf der Strecke Tokio – Kyoto auch genannt, da er mit unglaublichen 320 Kilometern pro Stunde und ohne Zwischenstopp zwischen den beiden Städten hin und her rast. Aussteigen unmöglich. An Bord des Shinkansen ist auch Ladybug, ein vom Pech verfolgter Auftragskiller, der im Hochgeschwindigkeitszug sein nächstes Opfer erledigen soll. Nach einigen Rückschlägen für Ladybug muss dieses Mal einfach alles gut gehen. Doch auch dieser Auftrag wird nicht einfach, denn mit Tangerine, Prince, Hornet, Lemon und Kimura sind noch fünf weitere Auftragskiller an Bord. Erstaunlicherweise haben es nicht alle auf die gleiche Zielperson abgesehen – und doch scheinen ihre Aufträge miteinander verbunden. Natürlich kommen sich die eiskalten Auftragsmörder in die Quere und im Hochgeschwindigkeitszug entbrennt ein chaotischer Kampf auf Leben und Tod.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://www.youtube.com/watch?v=BSnTJN3FIcI",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -565,7 +493,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/726219?layout=shows",
     "img": "https://media.kinoheld.de/xSnZ3Jqh-CzCcHDM3CtMUmNTa0U=/400x560/images%2Ffilm%2Fleon-der-profi-wa-2022-22411.v3.jpg",
     "description": "Léon verdient sein Geld als Auftragskiller der Italo-Mafia in den Straßen von New York. Er lebt zurückgezogen und pflegt außer zu seinem Boss Tony einzig zu seiner Topfpflanze ein freundschaftliches Verhältnis. Als die Familie seiner Nachbarstochter Mathilda von DEA-Polizisten brutal getötet wird, flüchtet sie zu Léon. Um sich an den Mördern ihres kleinen Bruders zu rächen, lässt sich Mathilda das grausame Handwerk eines Profi-Killers von Léon beibringen. (Quelle: Verleih)",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://www.youtube.com/watch?v=4e50Hpm9L4I",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -853,7 +781,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/726233?layout=shows",
     "img": "https://media.kinoheld.de/KIqbWCT-tldo4wYXgyCBj-pi6s8=/400x560/images%2Ffilm%2Feverything-everywhere-all-at-once-22045.v83.jpg",
     "description": "Eine alternde chinesische Einwanderin wird in ein verrücktes Abenteuer hineingezogen, in dem nur sie das retten kann, was ihr wichtig ist, indem sie sich mit den Leben verbindet, die sie in anderen Universen hätte führen können.",
-    "trailer": "https://youtu.be/MKJ-nXADsVk",
+    "trailer": "https://www.youtube.com/watch?v=nz-eUNVQpzk",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -926,30 +854,6 @@
     "img": "https://media.kinoheld.de/wS4QLB7xMi3nRtvpT6UiYlbm0aI=/400x560/images%2Ffilm%2Fmoonage-daydream-23219.v2.png",
     "description": "In seinem Dokumentarfilm zeigt der Filmemacher Brett Morgen selten gesehene Konzert- und Performance-Aufnahmen von David Bowie, alias Ziggy Stardust.",
     "trailer": "https://www.youtube.com/watch?v=7GV8fpj6Qtk",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
-  "pompeji ostkreuz-2646166866": {
-    "cinemaId": "2153",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-    "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-    "cinemaShortName": "pompeji ostkreuz",
-    "id": "pompeji ostkreuz-2646166866",
-    "title": "NOMADLAND (subtitled OV German / OmU)",
-    "normalizedTitle": "NOMADLAND",
-    "version": {
-      "raw": "subtitled OV German OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Mi., 21.09",
-    "timestamp": 1663718400000,
-    "time": "20:15",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2646166866?layout=shows",
-    "img": "https://media.kinoheld.de/GwZHiD65bCVb3mxAuT7jVcFqH9M=/400x560/images%2Ffilm%2Fnomadland-18288.v2.png",
-    "description": "Nach dem wirtschaftlichen Zusammenbruch einer Stadt im ländlichen Nevada, durch den sie selbst alles verloren hat, packt die 60-jährige Fern ihr Hab und Gut in ihren weißen Van und macht sich auf den Weg, um als moderne Nomadin im Westen der USA ein Leben außerhalb der konventionellen Gesellschaft zu erkunden. PREISE: Goldener Löwe 2020 Bester Film Internationale Filmfestspiele von Venedig ++ Academy Awards 2021 - 3 Oscars: Bester Film - Beste Regie - Beste Hauptdarstellerin ++ Über 200 weitere internationale Film- und Festivalpreise.",
-    "trailer": "https://www.youtube.com/watch?v=iEcIDpnv3qQ",
     "available": -1,
     "reserved": 0,
     "bookable": true
