@@ -1,48 +1,4 @@
 {
-  "hasenheide-726311": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-726311",
-    "title": "Wir Kinder aus Bullerbü ",
-    "normalizedTitle": "WIR KINDER AUS BULLERBÜ",
-    "version": {
-      "raw": "",
-      "original": false,
-      "english": false
-    },
-    "date": "Mi., 28.09",
-    "timestamp": 1664323200000,
-    "time": "15:30",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/726311?layout=shows",
-    "available": 0,
-    "reserved": 0,
-    "bookable": false
-  },
-  "hasenheide-726218": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-726218",
-    "title": "Hive (subtitled OV / OmU)",
-    "normalizedTitle": "HIVE",
-    "version": {
-      "raw": "subtitled OV OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Mi., 28.09",
-    "timestamp": 1664323200000,
-    "time": "17:30",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/726218?layout=shows",
-    "img": "https://media.kinoheld.de/whZ4uZ4N8RyIdj6OvwwSkPGvHvM=/400x560/images%2Ffilm%2Fhive-23015.v2.png",
-    "description": "Seit dem Krieg im Kosovo ist Fahrijes (Yllka Gashi) Ehemann wie vom Erdboden verschwunden. Um sich finanziell über Wasser zu halten und für ihre Kinder zu sorgen, gründet sie ein kleines Unternehmen. Doch die patriarchalische Gesellschaft ist noch nicht bereit für eine Geschäftsfrau und unterstützt Fahrije nicht. Es entwickelt sich ein Kampf gegen Windmühlen und die junge Mutter steht bald vor einer schweren Entscheidung.",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
   "hasenheide-726220": {
     "cinemaId": "580",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
@@ -279,30 +235,6 @@
     "img": "https://media.kinoheld.de/mrJJayzzOycf7s5NT9cVWZdAeJ8=/400x560/images%2Ffilm%2Fbettina-21993.v2.png",
     "description": "1976 halten es viele Widerstandskämpfer nicht mehr in der DDR aus und reisen aus. Doch die Liedermacherin Bettina Wegner will in ihrer Heimat bleiben und denkt nicht an eine Ausreise. Sie wird oft auf ein einziges ihrer zahlreichen Lieder reduziert, oder auf die Zusammenarbeit mit Joan Baez. Lutz Pehnert zeigt die Ausnahmekünstlerin in seiner Dokumentation auch darüber hinaus und beleuchtet Wegners Leben auch abseits dessen, angelehnt an deren Lied „Über Gebote“ von 1980.",
     "trailer": "https://www.youtube.com/watch?v=t3SnP-GyCJI",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
-  "pompeji ostkreuz-2646168419": {
-    "cinemaId": "2153",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-    "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-    "cinemaShortName": "pompeji ostkreuz",
-    "id": "pompeji ostkreuz-2646168419",
-    "title": "HEIKOS WELT (subtitled OV English / OmeU)",
-    "normalizedTitle": "HEIKOS WELT",
-    "version": {
-      "raw": "subtitled OV English OmeU",
-      "original": true,
-      "english": true
-    },
-    "date": "Mi., 28.09",
-    "timestamp": 1664323200000,
-    "time": "20:15",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2646168419?layout=shows",
-    "img": "https://media.kinoheld.de/CatUbLMxALMhmmJeVBvvuZa1aIk=/400x560/images%2Ffilm%2Fheikos-welt-22047.v2.jpg",
-    "description": "Heikos Mutter Belinda leidet an Keratokonus, einer seltenen Veränderung der Hornhaut. Nach und nach verliert sie an Sehkraft und könnte bald ganz erblinden, wenn ihr nicht geholfen wird. Mit der Hornhaut eines verstorbenen Spenders ließe sich Belindas Augenlicht zurückgewinnen – doch so eine Transplantation kostet viel Geld, das die Krankenkasse nicht übernimmt. Für Heiko beginnt damit eine Odyssee durch die Berliner Kneipenwelt: Um das Geld für die Operation seiner Mutter zusammenzubekommen, stellt er sich zunächst widerwillig, dann doch mit wachsendem Ehrgeiz, Euro um Euro, den besten Dartspielern der Stadt. Die jedoch verfolgen ganz andere Pläne und ziehen Heiko damit in eine Spirale des Wahnsinns, die er sich vorher nicht hätte ausmalen können. „Heikos Welt“ ist eine durchgedrehte, liebevolle Ode an – und Odyssee durch – die Berliner Eckkneipen mit ihrer ganz eigenen Fauna aus originellen Charakteren, voller unerwarteter Wendungen und mit einer Hauptfigur, die uns auf ihrer biergeschwängerten Heldenreise ans Herz wächst.",
-    "trailer": "https://youtu.be/EPWCrHaij_k",
     "available": -1,
     "reserved": 0,
     "bookable": true
