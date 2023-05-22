@@ -24,23 +24,7 @@ const cinemas = {
 };
 
 (async () => {
-  const showsByCinema = {};
-  for (let [id, [name, shortName, url]] of Object.entries(cinemas.kinoTicketsOnline)) {
-    console.log(name);
-    showsByCinema[name] = await getKinoTicketsOnlineCinema(id, name, shortName, url);
-  }
-  for (let [id, [name, shortName]] of Object.entries(cinemas.kinoHeld)) {
-    console.log(name);
-    showsByCinema[name] = await getKinoheldCinema(id, name, shortName);
-  }
-  for (let [id, [name, shortName]] of Object.entries(cinemas.yorck)) {
-    console.log(name);
-    showsByCinema[name] = await getYorckCinema(id, name, shortName);
-  }
-  for (let [id, [name, shortName]] of Object.entries(cinemas.cinetixx)) {
-    console.log(name);
-    showsByCinema[name] = await getCinetixxCinema(id, name, shortName);
-  }
+  const showsByCinema = await getCinemas({}, window.args[0])
   await writeFile("docs/showsByCinema.json", JSON.stringify(showsByCinema, null, 2));
   console.log("wrote docs/showsByCinema.json");
   const shows = Object.values(showsByCinema).flat().reduce((xs, x) => Object.assign(xs, {[x.id]: x}), {});
@@ -48,6 +32,23 @@ const cinemas = {
   console.log("wrote docs/shows.json");
   window.close(0);
 })();
+
+async function getCinemas(showsByCinema, idFilter) {
+  const m = {
+    kinoTicketsOnline: getKinoTicketsOnlineCinema,
+    kinoHeld: getKinoheldCinema,
+    yorck: getYorckCinema,
+    cinetixx: getCinetixxCinema,
+  };
+  for (let [type, locations] of Object.entries(cinemas)) {
+    for (let [id, [name, ...rest]] of Object.entries(locations)) {
+      if (idFilter && idFilter !== id) continue;
+      console.log("Scraping", id, name);
+      showsByCinema[name] = await m[type](id, name, ...rest);
+    }
+  }
+  return showsByCinema;
+}
 
 
 async function getCinetixxCinema(cinemaId, cinemaName, cinemaShortName) {
@@ -174,11 +175,11 @@ async function getYorckCinema(cinemaId, cinemaName, cinemaShortName) {
     if (!movies[show.url]) {
       const document = await getDocument(show.url);
       const data = JSON.parse(document.querySelector("#__NEXT_DATA__").innerHTML);
-      if (!data.props.pageProps.filmDecyled) {
-        console.log(`Skipping ${show.url}: Missing movie info`);
+      if (!data.props.pageProps.film) {
+        console.log(`Skipping ${show.url}: Missing movie info (${JSON.stringify(data)})`);
         continue;
       }
-      const filmData = JSON.parse(data.props.pageProps.filmDecyled);
+      const filmData = data.props.pageProps.film;
       const trailerYouTubeId = filmData.fields.trailer1YouTubeId;
       movies[show.url] = {
         description: filmData.fields.synopsis,
@@ -200,7 +201,7 @@ async function getKinoTicketsOnlineCinema(cinemaId, cinemaName, cinemaShortName,
     meta[id] = {
       trailer: el.querySelector("a[data-fancybox]")?.href,
       description: el.querySelector(".teasertext").innerText,
-      rawVersion: el.querySelector(".teasertitel_version").innerText,
+      rawVersion: el.querySelector(".teasertitel, .teasertitel_version").innerText,
     };
   }
   const cinemaUrl = `https://kinotickets-online.com/${cinemaId}`;
@@ -225,7 +226,7 @@ async function getKinoTicketsOnlineCinema(cinemaId, cinemaName, cinemaShortName,
       trailer: trailerUrl,
 	  title,
       normalizedTitle: normalizeTitle(title),
-      version: getVersion(meta[id].rawVersion),
+      version: getVersion(meta[id]?.rawVersion),
       date: formatDate(date),
       timestamp: date.getTime(),
       time,
