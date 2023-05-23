@@ -2956,7 +2956,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/745630?layout=shows",
       "img": "https://media.kinoheld.de/JTYXuFIwTSZdvi5nJGuETvKSbx0=/400x560/images%2Ffilm%2Faftersun-36077.v56.jpg",
       "description": "Die 11-jährige Sophie genießt die seltene gemeinsame Zeit mit ihrem liebevollen und idealistischen Vater Calum in einem verblassenden Ferienort. Zwanzig Jahre später werden Sophies zärtliche Erinnerungen an ihren letzten Urlaub zu einem kraftvollen und herzzerreißenden Porträt ihrer Beziehung.",
-      "trailer": "https://www.youtube.com/watch?v=4A34B1DIGl8",
+      "trailer": "https://www.youtube.com/watch?v=VRgT7IKt6W8",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -3005,9 +3005,9 @@
       "img": "https://media.kinoheld.de/ZJG3PUCjc6NMiIqyhl7SN9zW9e0=/400x560/images%2Ffilm%2Feverything-everywhere-all-at-once-22045.v267.jpg",
       "description": "Evelyn Wang führt einen Waschsalon und kämpft mit Steuerproblemen und Familienkonflikten. Während sie die Geburtstagsparty ihres Vaters organisiert, findet ihr Ehemann Waymond keine Gelegenheit, das Thema Scheidung anzusprechen. Ihre Tochter Joy verärgert sie zusätzlich, indem sie plant, ihre Freundin Becky zur Feier mitzubringen, obwohl Evelyn Schwierigkeiten mit Joys sexueller Orientierung hat. Evelyns Leben verlief nicht wie erhofft. Doch bald bietet sich ihr eine unerwartete Chance, alles zu verändern.",
       "trailer": "https://www.youtube.com/watch?v=nz-eUNVQpzk",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -3216,9 +3216,9 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/745685?layout=shows",
       "img": "https://media.kinoheld.de/ObANqJAl1bE-fIM7GwxR3uauYks=/400x560/images%2Ffilm%2Fsein-oder-nichtsein-23871.v236.jpg",
       "description": "Hier treibt Lubitsch mit Entsetzen Scherz: Eine Gruppe polnischer Schauspieler nutzen die Kostüme für ein Antinazistück für ihre Arbeit im Widerstand. Diese Satire macht die Nazis zu komischen Figuren und die Schauspieler zu Helden.",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -3312,9 +3312,9 @@
       "img": "https://media.kinoheld.de/YHrMoEZDMrsQHFttSrA3d0qDEVk=/400x560/images%2Ffilm%2Fthe-menu-35107.v104.jpg",
       "description": "Das junge Paar Margot und Tyler bereist und erkundet Orte, von denen nur wenige Menschen wissen oder Zugang dazu haben, um so in den Genuss der besten kulinatischen Angebote zu kommen. Ihre Abenteuer sind bei Freunden, Verwandten und Bekannten bekannt, und das Paar gilt inzwischen als Experten auf diesem Gebiet. Dank einer Entdeckung in den sozialen Medien hören sie von einem exklusiven, exzentrischen Restaurant, das alle Voraussetzungen für einen nächsten Besuch mitbringt, und reisen zu dessen Standort auf einer abgelegenen Insel, um das großartige und einzigartige Menü des Küchenchefs Slowik zu probieren. Doch schon bald stellt das Paar fest, dass die Speisekarte einige Überraschungen enthält, mit denen sie nicht gerechnet haben.",
       "trailer": "https://www.youtube.com/watch?v=0AbLLoQDtiQ",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -3336,9 +3336,9 @@
       "img": "https://media.kinoheld.de/ryMhKcjzKtAPJ6Sj6iyCM7-PMFU=/400x560/images%2Ffilm%2Fder-gestiefelte-kater-2-36673.v281.jpg",
       "description": "Auch ein Kater kann ein unangenehmes Erwachen haben. Nach unzähligen riskanten Reisen und achtlosen Abenteuern muss der gestiefelte Kater entsetzt feststellen, dass seine Leidenschaft für Gefahren letztlich ihren Preis hatte – in seiner Abenteuerlust hat er bereits acht seiner neun Leben verbraucht. Um für die dringend nötige neue Vitalität zu sorgen, begibt sich der charmante Schnurrhaargauner auf den langen Weg in den Schwarzen Wald, um dort den mythischen Wunschstern zu finden.",
       "trailer": "https://www.youtube.com/watch?v=hydHoNNInzI",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -3586,8 +3586,8 @@
       "cinemaName": "freiluftkino-hasenheide",
       "cinemaShortName": "hasenheide",
       "id": "hasenheide-745699",
-      "title": "Broker (OmU)",
-      "normalizedTitle": "BROKER",
+      "title": "Broker - Familie gesucht (OmU)",
+      "normalizedTitle": "BROKER - FAMILIE GESUCHT",
       "version": {
         "raw": "OmU",
         "original": true,
@@ -3861,7 +3861,7 @@
       "timestamp": 1686355200000,
       "time": "18:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/745708?layout=shows",
-      "img": "https://media.kinoheld.de/340Mrruq62CMEVGwZr-i2cS27Xs=/400x560/images%2Ffilm%2Fsee-how-they-run-35457.v109.jpg",
+      "img": "https://media.kinoheld.de/5Jq1vFiYDRN7ekV07ddMfaX-XE4=/400x560/images%2Ffilm%2Fsee-how-they-run-354571684801574.v110.jpg",
       "description": "Im Londoner West End der 1950er Jahre werden die Pläne für die Verfilmung eines Erfolgsstücks abrupt gestoppt, nachdem ein wichtiges Mitglied der Crew ermordet wird. Als der weltmüde Inspektor Stoppard und die eifrige Constable Stalker den Fall übernehmen, finden sich die beiden in einem rätselhaften Krimi im glamourösen, schmutzigen Theateruntergrund wieder und untersuchen den mysteriösen Mordfall auf eigene Gefahr.",
       "trailer": "https://www.youtube.com/watch?v=HLV8PslWv48",
       "available": -1,
@@ -3912,9 +3912,9 @@
       "img": "https://media.kinoheld.de/VqQuPBZtMoi77Mh39JupjAX9vcQ=/400x560/images%2Ffilm%2F4%2Fzoomania-2539.v4.jpg",
       "description": "Als in Zoomania, einer großen Stadt, in der die unterschiedlichsten Tierarten friedlich zusammenleben, plötzlich immer wieder einige Bewohner spurlos verschwinden, schlägt für die Polizistin Judy Hopps endlich ihre große Stunde. Bislang durfte die von ihren Kollegen stets herabsetzend belächelte Häsin lediglich Knöllchen für Parksünder verteilen, doch nun betraut sie ihr Boss mit den Ermittlungen zu den mysteriösen Vorkommnissen. Doch alleine kommt Judy nicht weiter; also beschließt sie, den vorlauten Fuchs und Trickbetrüger Nick Wilde miteinzubinden. Zusammen macht sich das ungleiche Duo auf, den Fall zu lösen. (v.f.)",
       "trailer": "https://www.youtube.com/watch?v=GIshH9EXIUA",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -3960,9 +3960,9 @@
       "img": "https://media.kinoheld.de/lW9mavd1BstGbwC4XKzfm61O0O8=/400x560/images%2Ffilm%2Fder-fuchs-42065.v3.jpg",
       "description": "Dieser Film ist die wahre Geschichte von Franz Streitberger, Adrians Goigingers Urgroßvater, einem Motorradkurier des Österreichischen Bundesheeres, der mit dem Anschluss in die Wehrmacht eingegliedert wird. Zu Beginn des Zweiten Weltkriegs findet der introvertierte junge Soldat einen verwundeten Fuchswelpen. Er möchte ihm ein besserer Vater sein, als es seiner je war. Er versorgt ihn wie sein eigenes Kind und nimmt ihn mit in das besetzte Frankreich. Durch diese sonderbare Freundschaft mit dem Tier holt ihn seine eigene Vergangenheit als verstoßener Bauernsohn langsam ein, vor der er stets davongelaufen ist.",
       "trailer": "https://www.youtube.com/watch?v=7enX_GyCziE",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -4053,7 +4053,7 @@
       "timestamp": 1686614400000,
       "time": "16:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/747592?layout=shows",
-      "img": "https://media.kinoheld.de/SdaydGOWmhFPFiFhdXwJiUN5Jwg=/400x560/images%2Ffilm%2Flucy-ist-jetzt-gangster-4054516847644841684765656168476616316847681751684786154.v177.jpg",
+      "img": "https://media.kinoheld.de/yx1Z5R05eM_IDWVsP5EO1CHU9jk=/400x560/images%2Ffilm%2Flucy-ist-jetzt-gangster-40545168476448416847656561684766163168476817516847861541684796379.v178.jpg",
       "description": "Die hinreißend brave und liebenswürdige Lucy (10) hat beschlossen, eine Bank auszurauben. Dabei wäre sie vor ein paar Wochen nicht mal bei Rot über die Straße gegangen! Aber drastische Situation verlangen eben drastische Maßnahmen und so wird aus Lucy Lucyfer ein richtig gefallener Engel",
       "trailer": "https://www.youtube.com/watch?v=_eE1_SVRQX4",
       "available": -1,
@@ -4104,9 +4104,9 @@
       "img": "https://media.kinoheld.de/yD2y91nQ4TAD-T1cYSxoLSGvFME=/400x560/images%2Ffilm%2Fdas-lehrerzimmer-42401.v1.jpg",
       "description": "Carla Nowak (29), eine junge Sport- und Mathematiklehrerin, tritt ihre erste Stelle an einem Gymnasium an. Im neuen Kollegium fällt Carla durch ihren Idealismus auf. Doch eine Serie von unaufgeklärten Diebstählen schlägt auf die Stimmung des Kollegiums.",
       "trailer": "https://www.youtube.com/watch?v=Ggw1wyC5gc0",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -4146,7 +4146,7 @@
       "timestamp": 1686700800000,
       "time": "18:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/747596?layout=shows",
-      "img": "https://media.kinoheld.de/I3c6gbg_kQkGv6cXr6mCWlmALr0=/400x560/images%2Ffilm%2Fmittagsstunde-22835.v352.png",
+      "img": "https://media.kinoheld.de/gsRBZemgP9DGLLP_cc8aRUJ4jyM=/400x560/images%2Ffilm%2Fmittagsstunde-228351684801527.v353.png",
       "description": "Ingwer Feddersen kehrt in sein Heimatdorf Brinkebüll zurück, als er sieht, dass seine Großeltern mit Problemen zu kämpfen haben. Sein Großvater will seine Kneipe nicht aufgeben und seine Großmutter wird immer verwirrter. Ingwer merkt schnell, dass das ganze Dorf nicht mehr so ist wie früher. Er fragt sich, wann genau der Niedergang begonnen hat. War es in den 70ern nach der Flurbereinigung, als Hecken und Vögel verschwanden? Oder liegt es an ihm, weil er für sein Studium nach Kiel ging und seinen Großvater allein ließ?",
       "trailer": "https://www.youtube.com/watch?v=OfLvRZMCPOU",
       "available": -1,
@@ -4219,7 +4219,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/747621?layout=shows",
       "img": "https://media.kinoheld.de/JTYXuFIwTSZdvi5nJGuETvKSbx0=/400x560/images%2Ffilm%2Faftersun-36077.v56.jpg",
       "description": "Die 11-jährige Sophie genießt die seltene gemeinsame Zeit mit ihrem liebevollen und idealistischen Vater Calum in einem verblassenden Ferienort. Zwanzig Jahre später werden Sophies zärtliche Erinnerungen an ihren letzten Urlaub zu einem kraftvollen und herzzerreißenden Porträt ihrer Beziehung.",
-      "trailer": "https://www.youtube.com/watch?v=4A34B1DIGl8",
+      "trailer": "https://www.youtube.com/watch?v=VRgT7IKt6W8",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -4316,9 +4316,9 @@
       "img": "https://media.kinoheld.de/Hk-g_DcYQYYlfIcZFBSQfFwaSF4=/400x560/images%2Ffilm%2Feinfach-mal-was-schoenes-35677.v12.png",
       "description": "Karla ist 39, Radiomoderatorin und mal wieder Single. Sie sehnt sich danach, ein Kind zu bekommen, doch unter Zeitdruck einen passenden Partner zu finden, ist gar nicht so leicht. Also beschließt sie, sich ihren Kinderwunsch selbst zu erfüllen. Und plötzlich haben alle eine Meinung, die Eltern, die Geschwister, die Freunde, und das, obwohl alle in ihren eigenen komplizierten Lebensentwürfen feststecken. Nur ihre beste Freundin Senay steht ihr mit Rat und Tat und den richtigen Fragen zur Seite. Dann mischt sich auch noch das Schicksal ein, als Karla ausgerechnet jetzt auf den viel zu jungen Ole trifft, der so gar nicht in ihre Zukunftspläne passt.",
       "trailer": "https://www.youtube.com/watch?v=PMbZs8aIV4Y",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -4531,9 +4531,9 @@
       "img": "https://media.kinoheld.de/KUiSJjbu1v0UffO7knPlTW9NQfk=/400x560/images%2Ffilm%2Finside-41943.v5.jpg",
       "description": "Ein Kunstdieb wird in einem New Yorker Penthouse gefangen, nachdem sein Überfall schief gegangen ist. Eingesperrt mit nichts als unbezahlbaren Kunstwerken muss er all seine Gerissenheit und Erfindungsgabe einsetzen, um zu überleben.",
       "trailer": "https://www.youtube.com/watch?v=EMR0ucsCR2U",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -4576,7 +4576,7 @@
       "timestamp": 1687219200000,
       "time": "18:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/747636?layout=shows",
-      "img": "https://media.kinoheld.de/KFQtbOFEXEsjXuVQ-NNYkd1_rp8=/400x560/images%2Ffilm%2Fthe-worst-person-in-the-world-21143.v20.jpg",
+      "img": "https://media.kinoheld.de/90CrKw6gao5MuuQTJ-wf0rgtdVA=/400x560/images%2Ffilm%2Fthe-worst-person-in-the-world-211431684801560.v21.jpg",
       "description": "Julie wird 30, und ihr Leben ist ein existenzielles Chaos. Sie hat einige ihrer Talente verkommen lassen, und ihr älterer Freund Aksel - ein erfolgreicher Comiczeichner - drängt sie dazu, mit ihm sesshaft zu werden. Eines Abends schleicht sie sich bei einer Party ein und lernt den jungen und charmanten Eivind kennen. Es dauert nicht lange, bis sie sich von Aksel trennt und in eine weitere neue Beziehung stürzt, von der sie sich eine Perspektive für ihr Leben verspricht. Doch sie wird zu der Erkenntnis kommen, dass sie einige Entscheidungen für ihr Leben bereits getroffen hat.",
       "trailer": "https://www.youtube.com/watch?v=XQRbZLpYr4g",
       "available": -1,
@@ -4699,9 +4699,9 @@
       "img": "https://media.kinoheld.de/_b8zcssENw4F01SU4TNFbqOyZm4=/400x560/images%2Ffilm%2Fraya-und-der-letzte-drache-18813.v37.jpg",
       "description": "\"Raya und der letzte Drache\" von den Walt Disney Animation Studios begibt sich in die Fantasiewelt von Kumandra, in der Menschen und Drachen vor langer Zeit harmonisch zusammenlebten. Doch als eine böse Macht das Land bedrohte, opferten sich die Drachen, um die Menschheit zu retten. Jetzt, 500 Jahre später, ist dieselbe böse Macht zurückgekehrt und es ist an einer einsamen Kriegerin, Raya, den legendären letzten Drachen ausfindig zu machen, um das geteilte Land und sein gespaltenes Volk wieder zu einen. Auf ihrer Reise lernt sie jedoch, dass es auf mehr als einen Drachen ankommt, um die Welt zu retten - Vertrauen und Zusammenhalt sind ebenso wichtig. In \"\"Raya und der letzte Drache\"\" ist die Stimme von Christina Ann Zalamea als Raya zu hören, einer Kriegerin, deren Verstand so scharf ist wie ihr Schwert. An ihrer Seite: Sisu, die magische, mythische, bescheidene Drachendame. Weitere Figuren sind unter anderem der zehnjährige, clevere Entrepreneur Boun, der furchterregende Riese Tong und das klauende Kleinkind Noi mit seiner Ongi-Bande. (Quelle: Verleiher)",
       "trailer": "https://www.youtube.com/watch?v=c3ELtMPcmQw",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -4723,9 +4723,9 @@
       "img": "https://media.kinoheld.de/yD2y91nQ4TAD-T1cYSxoLSGvFME=/400x560/images%2Ffilm%2Fdas-lehrerzimmer-42401.v1.jpg",
       "description": "Carla Nowak (29), eine junge Sport- und Mathematiklehrerin, tritt ihre erste Stelle an einem Gymnasium an. Im neuen Kollegium fällt Carla durch ihren Idealismus auf. Doch eine Serie von unaufgeklärten Diebstählen schlägt auf die Stimmung des Kollegiums.",
       "trailer": "https://www.youtube.com/watch?v=Ggw1wyC5gc0",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -4733,8 +4733,8 @@
       "cinemaName": "freiluftkino-hasenheide",
       "cinemaShortName": "hasenheide",
       "id": "hasenheide-747685",
-      "title": "Broker (OmU)",
-      "normalizedTitle": "BROKER",
+      "title": "Broker - Familie gesucht (OmU)",
+      "normalizedTitle": "BROKER - FAMILIE GESUCHT",
       "version": {
         "raw": "OmU",
         "original": true,
@@ -4768,12 +4768,12 @@
       "timestamp": 1687478400000,
       "time": "16:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/747686?layout=shows",
-      "img": "https://media.kinoheld.de/9YpNE_1dlymFDsWkMMrmlx4pbOg=/400x560/images%2Ffilm%2Fsing-2-20703.v215.png",
+      "img": "https://media.kinoheld.de/zT6bLCPU6NmKtPH7nfdamfBkRds=/400x560/images%2Ffilm%2Fsing-2-207031684801579.v216.png",
       "description": "Buster und seine neue Besetzung haben sich jetzt vorgenommen, eine neue Show im Crystal Tower Theater im glamourösen Redshore City zu debütieren. Aber ohne Verbindungen müssen er und seine Sänger sich in die Büros von Crystal Entertainment schleichen, die vom skrupellosen Wolfsmogul Jimmy Crystal betrieben werden, wo die Gang die lächerliche Idee entwickelt, die Löwenrock-Legende Clay Calloway in ihrer Show zu besetzen.",
       "trailer": "https://www.youtube.com/watch?v=i8duYYM2tVY",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -5218,7 +5218,7 @@
       "timestamp": 1687996800000,
       "time": "18:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/747767?layout=shows",
-      "img": "https://media.kinoheld.de/erpgV4Qy3UqVWLGa6SjjtegTr_M=/400x560/images%2Ffilm%2Fbigger-than-us-36747.v29.jpg",
+      "img": "https://media.kinoheld.de/-tid9TMLtgMeKV0nYfIXI1MXyUc=/400x560/images%2Ffilm%2Fbigger-than-us-367471684801256.v30.jpg",
       "description": "Sie sind jung und sie wollen etwas bewirken. Die 18-jährige Melati kämpft seit sechs Jahren gegen die Plastikverschmutzung ihrer Heimat Indonesien. Sie hatte Erfolg, doch sie ist noch lange nicht fertig. Um neue Kraft zu schöpfen, bereist Melati die Welt: Sie will Gleichgesinnte treffen, von ihnen lernen, sich vernetzen. Sie sucht nach der Energie und dem Momentum des gemeinsamen Kampfes - und wird fündig. Sechs junge Menschen vom Libanon über Afrika bis Rio de Janeiro zeigen Melati ihre ganz eigene Welt der Courage und des Engagements. Sie kämpfen für Menschenrechte, für das Klima, für Meinungsfreiheit, soziale Gerechtigkeit und den Zugang zu Bildung oder Nahrung. Und sie sind in der Lage, alles zu verändern. Getragen von einem überzeugten Humanismus, von Mut und Hoffnung vereinen sie sich um Teil von etwas zu sein, das größer ist als sie selbst. Ihr Kampf steht erst am Anfang, aber ihr unbedingter Wille hat die Kraft, zu inspirieren und uns alle aus der Lethargie der Gewohnheit zu reißen.  Produziert von Oscar[r]-Preisträgerin Marion Cotillard, zeichnet der Dokumentarfilm BIGGER THAN US das Bild einer neuen Generation, die sich nicht mehr mit dem Zustand dieser Welt abfinden will und für ihr Recht auf eine lebenswerte Zukunft kämpft. Der Regisseurin Flore Vasseur (MEETING SNOWDEN) gelingt ein einfühlsames Porträt einer jungen globalen Bewegung, das Kraft gibt und zeigt, dass Veränderung nicht nur unerlässlich sondern auch möglich ist.  Quelle: mm filmpresse",
       "trailer": "https://www.youtube.com/watch?v=hazefm61o0o",
       "available": -1,
@@ -5244,7 +5244,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/747757?layout=shows",
       "img": "https://media.kinoheld.de/JTYXuFIwTSZdvi5nJGuETvKSbx0=/400x560/images%2Ffilm%2Faftersun-36077.v56.jpg",
       "description": "Die 11-jährige Sophie genießt die seltene gemeinsame Zeit mit ihrem liebevollen und idealistischen Vater Calum in einem verblassenden Ferienort. Zwanzig Jahre später werden Sophies zärtliche Erinnerungen an ihren letzten Urlaub zu einem kraftvollen und herzzerreißenden Porträt ihrer Beziehung.",
-      "trailer": "https://www.youtube.com/watch?v=4A34B1DIGl8",
+      "trailer": "https://www.youtube.com/watch?v=VRgT7IKt6W8",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -5864,7 +5864,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2789154115?layout=shows",
       "img": "https://media.kinoheld.de/JTYXuFIwTSZdvi5nJGuETvKSbx0=/400x560/images%2Ffilm%2Faftersun-36077.v56.jpg",
       "description": "Die 11-jährige Sophie genießt die seltene gemeinsame Zeit mit ihrem liebevollen und idealistischen Vater Calum in einem verblassenden Ferienort. Zwanzig Jahre später werden Sophies zärtliche Erinnerungen an ihren letzten Urlaub zu einem kraftvollen und herzzerreißenden Porträt ihrer Beziehung.",
-      "trailer": "https://www.youtube.com/watch?v=4A34B1DIGl8",
+      "trailer": "https://www.youtube.com/watch?v=VRgT7IKt6W8",
       "available": 84,
       "reserved": 4,
       "bookable": true
@@ -6257,7 +6257,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2789224689?layout=shows",
       "img": "https://media.kinoheld.de/JTYXuFIwTSZdvi5nJGuETvKSbx0=/400x560/images%2Ffilm%2Faftersun-36077.v56.jpg",
       "description": "Die 11-jährige Sophie genießt die seltene gemeinsame Zeit mit ihrem liebevollen und idealistischen Vater Calum in einem verblassenden Ferienort. Zwanzig Jahre später werden Sophies zärtliche Erinnerungen an ihren letzten Urlaub zu einem kraftvollen und herzzerreißenden Porträt ihrer Beziehung.",
-      "trailer": "https://www.youtube.com/watch?v=4A34B1DIGl8",
+      "trailer": "https://www.youtube.com/watch?v=VRgT7IKt6W8",
       "available": 88,
       "reserved": 0,
       "bookable": true
@@ -6685,7 +6685,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2798893714?layout=shows",
       "img": "https://media.kinoheld.de/JTYXuFIwTSZdvi5nJGuETvKSbx0=/400x560/images%2Ffilm%2Faftersun-36077.v56.jpg",
       "description": "Die 11-jährige Sophie genießt die seltene gemeinsame Zeit mit ihrem liebevollen und idealistischen Vater Calum in einem verblassenden Ferienort. Zwanzig Jahre später werden Sophies zärtliche Erinnerungen an ihren letzten Urlaub zu einem kraftvollen und herzzerreißenden Porträt ihrer Beziehung.",
-      "trailer": "https://www.youtube.com/watch?v=4A34B1DIGl8",
+      "trailer": "https://www.youtube.com/watch?v=VRgT7IKt6W8",
       "available": 88,
       "reserved": 0,
       "bookable": true
@@ -6970,7 +6970,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2798898675?layout=shows",
       "img": "https://media.kinoheld.de/JTYXuFIwTSZdvi5nJGuETvKSbx0=/400x560/images%2Ffilm%2Faftersun-36077.v56.jpg",
       "description": "Die 11-jährige Sophie genießt die seltene gemeinsame Zeit mit ihrem liebevollen und idealistischen Vater Calum in einem verblassenden Ferienort. Zwanzig Jahre später werden Sophies zärtliche Erinnerungen an ihren letzten Urlaub zu einem kraftvollen und herzzerreißenden Porträt ihrer Beziehung.",
-      "trailer": "https://www.youtube.com/watch?v=4A34B1DIGl8",
+      "trailer": "https://www.youtube.com/watch?v=VRgT7IKt6W8",
       "available": 88,
       "reserved": 0,
       "bookable": true
