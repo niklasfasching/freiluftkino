@@ -75,6 +75,8 @@
       "bookable": true
     },
     {
+      "description": "",
+      "rawVersion": "Avatar: The Way of Water",
       "cinemaId": "fh_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
       "cinemaName": "Freiluftkino Friedrichshain",
@@ -85,7 +87,8 @@
       "title": "Avatar: The Way of Water",
       "normalizedTitle": "AVATAR: THE WAY OF WATER",
       "version": {
-        "original": false,
+        "raw": "Avatar: The Way of Water",
+        "original": true,
         "english": false
       },
       "date": "Fr., 18.08",
@@ -473,31 +476,6 @@
       },
       "date": "So., 23.07",
       "timestamp": 1690146900000,
-      "time": "21:15",
-      "available": 0,
-      "reserved": 0,
-      "bookable": true
-    },
-    {
-      "trailer": "https://www.youtube.com/watch?v=iRNEYG0jM98",
-      "description": "\"I Wanna Dance With Somebody\" ist genau die Art von aufwändigem, leidenschaftlichem Biopic, dem man sich  leidenschaftlich hingibt und  mit großer Emotion belohnt wird  – und noch größerer Musik. \"Jeder, der Whitney Houston und ihre Musik liebt, wird sich durch diesen Film bestätigt fühlen.\" The Hollywood Reporter\n\"Dieser Film ist beste Unterhaltung, aber auch eine ehrliche Abrechnung mit all den Ereignissen, die wir auf dem Höhepunkt ihres Ruhms nicht über Houston wissen wollten.\" Time Magazine",
-      "rawVersion": "Whitney Houston: I Wanna Dance with Somebody",
-      "cinemaId": "fh_freiluftkino",
-      "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
-      "cinemaName": "Freiluftkino Friedrichshain",
-      "cinemaShortName": "fhain",
-      "id": "fhain-958",
-      "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/958",
-      "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=956",
-      "title": "Whitney Houston: I Wanna Dance With Somebody / dt.Fassg./ohne Ut",
-      "normalizedTitle": "WHITNEY HOUSTON: I WANNA DANCE WITH SOMEBODY / DT.FASSG./OHNE UT",
-      "version": {
-        "raw": "Whitney Houston: I Wanna Dance with Somebody",
-        "original": false,
-        "english": false
-      },
-      "date": "Fr., 21.07",
-      "timestamp": 1689974100000,
       "time": "21:15",
       "available": 0,
       "reserved": 0,
@@ -1177,8 +1155,8 @@
       "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
       "cinemaName": "Freiluftkino Kreuzberg",
       "cinemaShortName": "xberg",
-      "id": "xberg-903",
-      "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/903",
+      "id": "xberg-923",
+      "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/923",
       "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=892",
       "title": "Sonne und Beton / dt.m.engl.Ut",
       "normalizedTitle": "SONNE UND BETON / DT.M.ENGL.UT",
@@ -1187,9 +1165,9 @@
         "original": false,
         "english": false
       },
-      "date": "Fr., 21.07",
-      "timestamp": 1689974100000,
-      "time": "21:15",
+      "date": "Mi., 09.08",
+      "timestamp": 1691613900000,
+      "time": "20:45",
       "available": 0,
       "reserved": 0,
       "bookable": true
@@ -2172,8 +2150,8 @@
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
       "cinemaShortName": "rehberge",
-      "id": "rehberge-910",
-      "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/910",
+      "id": "rehberge-941",
+      "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/941",
       "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=887",
       "title": "Triangle of Sadness / dt.Fassg./ohne Ut",
       "normalizedTitle": "TRIANGLE OF SADNESS / DT.FASSG./OHNE UT",
@@ -2182,9 +2160,9 @@
         "original": true,
         "english": false
       },
-      "date": "Fr., 21.07",
-      "timestamp": 1689974100000,
-      "time": "21:15",
+      "date": "Mo., 21.08",
+      "timestamp": 1692649800000,
+      "time": "20:30",
       "available": 0,
       "reserved": 0,
       "bookable": true
@@ -2360,6 +2338,8 @@
       "bookable": true
     },
     {
+      "description": "Ihren redegewandten Online-Dozenten bekommen seine Student*innen nicht zu Gesicht. Zugang zu Charlie und seinem Haus hat eigentlich nur seine beste Freundin Liz. Doch vieles scheint in den Fluss zu geraten: Ausgerechnet ein jugendlicher Prediger lockt ihn aus der Reserve, wenn auch nicht ins christliche Lager und die möglicher Versöhnung mit seiner Tochter gibt ihm neuen Auftrieb. \"Die emotionale Achterbahn zwischen Verzweiflung, Hass und Hoffnung, zwischen Schroffheit und Sensibilität präsentiert Fraser mit enormer Glaubwürdigkeit:\" programmkino.de",
+      "rawVersion": "The Whale engl.m.dt.Ut",
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
@@ -2370,8 +2350,9 @@
       "title": "The Whale / engl.m.dt.Ut",
       "normalizedTitle": "THE WHALE / ENGL.M.DT.UT",
       "version": {
+        "raw": "The Whale engl.m.dt.Ut",
         "original": false,
-        "english": false
+        "english": true
       },
       "date": "Di., 22.08",
       "timestamp": 1692736200000,
@@ -2427,6 +2408,9 @@
       "bookable": true
     },
     {
+      "trailer": "https://www.youtube.com/watch?v=3ExfrDw8XZ4",
+      "description": "Einmal mehr entwirft Wes Anderson ein seltsam vertrautes und doch staunend machendes Panoptikum wundersamer Seltsamkeiten: eine amerikanische Wüstenoase in den 1950ern Jahren, eine Konferenz der Nachwuchs-Sternenkucker und Raumkadetten, ein Alien und wie immer auch: ein bis in die kleinste Szene starbesetzter Cast vom Feinsten.\n\"Wes Andersons Wahnsinn hatte schon immer Methode, aber \"Asteroid City\" erinnert einen daran, dass auch seine Methode wahnsinnig ist. Und das ist es, was ihn letztlich zu einem großen Künstler macht.\" Vulture\n\"Wes Andersons kosmische Trauerkomödie ist einer seiner bisher besten Filme\" Indiewire\n\n",
+      "rawVersion": "Wes Andersons Asteroid City dt. Fassung",
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
@@ -2434,10 +2418,10 @@
       "id": "rehberge-934",
       "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/934",
       "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=910",
-      "trailer": "https://www.youtube.com/watch?v=3ExfrDw8XZ4",
       "title": "Asteroid City / dt.Fassg./ ohne Ut",
       "normalizedTitle": "ASTEROID CITY / DT.FASSG./ OHNE UT",
       "version": {
+        "raw": "Wes Andersons Asteroid City dt. Fassung",
         "original": false,
         "english": false
       },
@@ -2522,6 +2506,8 @@
       "bookable": true
     },
     {
+      "description": "",
+      "rawVersion": "Avatar: The Way of Water dt. Fassg",
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
@@ -2532,7 +2518,8 @@
       "title": "Avatar: The Way of Water / dt.Fassg./ ohne Ut",
       "normalizedTitle": "AVATAR: THE WAY OF WATER / DT.FASSG./ OHNE UT",
       "version": {
-        "original": false,
+        "raw": "Avatar: The Way of Water dt. Fassg",
+        "original": true,
         "english": false
       },
       "date": "Mi., 16.08",
@@ -2543,6 +2530,8 @@
       "bookable": true
     },
     {
+      "description": "",
+      "rawVersion": "Babylon – Rausch der Ekstase dt.Fassg./ohne Ut",
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
@@ -2553,6 +2542,7 @@
       "title": "Babylon - Rausch der Ekstase / dt.Fassg/ohne Ut",
       "normalizedTitle": "BABYLON - RAUSCH DER EKSTASE / DT.FASSG/OHNE UT",
       "version": {
+        "raw": "Babylon – Rausch der Ekstase dt.Fassg./ohne Ut",
         "original": false,
         "english": false
       },
@@ -2564,6 +2554,8 @@
       "bookable": true
     },
     {
+      "description": "",
+      "rawVersion": "Indiana Jones und das Rad des Schicksals dt.Fassg./ohne Ut",
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
@@ -2574,6 +2566,7 @@
       "title": "Indiana Jones und das Rad des Schicksals / dt.Fassg./ohne Ut",
       "normalizedTitle": "INDIANA JONES UND DAS RAD DES SCHICKSALS / DT.FASSG./OHNE UT",
       "version": {
+        "raw": "Indiana Jones und das Rad des Schicksals dt.Fassg./ohne Ut",
         "original": false,
         "english": false
       },
@@ -2585,6 +2578,9 @@
       "bookable": true
     },
     {
+      "trailer": "https://www.youtube.com/watch?v=Pm3aoRGhK4U",
+      "description": "Scharfzüngige Dialoge, emanzipierter Frauen und glamouröse Outfits: François Ozon ist zurück mit einer seiner besten Komödien seit \"8 Frauen\". Die wenig erfolgreiche Schauspielerin Madeleine gerät im Paris der 1930er Jahre schuldlos unter Verdacht, einen Filmproduzenten ermordet zu haben. Auf Anraten ihrer besten Freundin, der Anwältin Pauline, gesteht sie das Verbrechen. In einem Aufsehen erregenden Prozess plädiert Pauline auf Notwehr und Madeleine wird freigesprochen. Plötzlich ist sie ein Star und wird mit lukrativen Rollenangeboten überschüttet – bis zu dem Tag, an dem die wahre Mörderin auftaucht und ihr Stück vom Kuchen einfordert.\n\"Witzig, glamourös und brandaktuell.\" Filmstarts\n\"Mit leichter Hand inszeniert, ist François Ozons neuer Film nicht nur eine Augenweide, sondern auch sehr unterhaltsam und elegant inszeniert\" Filmstarts",
+      "rawVersion": "François Ozons Mein fabelhaftes Verbrechen - Mon Crime dt. Fassg",
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
@@ -2592,10 +2588,10 @@
       "id": "rehberge-935",
       "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/935",
       "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=911",
-      "trailer": "https://www.youtube.com/watch?v=Pm3aoRGhK4U",
       "title": "Mein fabelhaftes Verbrechen / dt.Fassg./ ohne Ut",
       "normalizedTitle": "MEIN FABELHAFTES VERBRECHEN / DT.FASSG./ OHNE UT",
       "version": {
+        "raw": "François Ozons Mein fabelhaftes Verbrechen - Mon Crime dt. Fassg",
         "original": false,
         "english": false
       },
@@ -2607,6 +2603,9 @@
       "bookable": true
     },
     {
+      "trailer": "https://www.youtube.com/watch?v=2lKGl4WeFgo",
+      "description": "",
+      "rawVersion": "Mission: Impossible Dead Reckoning dt.Fassg./ohne Ut",
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
@@ -2614,10 +2613,10 @@
       "id": "rehberge-933",
       "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/933",
       "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=909",
-      "trailer": "https://www.youtube.com/watch?v=2lKGl4WeFgo",
       "title": "Mission: Impossible Dead Reckoning Teil Eins /dt.Fassg./ ohne Ut",
       "normalizedTitle": "MISSION: IMPOSSIBLE DEAD RECKONING TEIL EINS /DT.FASSG./ OHNE UT",
       "version": {
+        "raw": "Mission: Impossible Dead Reckoning dt.Fassg./ohne Ut",
         "original": false,
         "english": false
       },
@@ -2629,6 +2628,8 @@
       "bookable": true
     },
     {
+      "description": "Die Engel Damiel (Bruno Ganz) und Cassiel (Otto Sander) wandern durch das geteilte Berlin, beobachten die Menschen und lauschen ihren Gedanken. Als Damiel sich in die Trapezkünstlerin Marion verliebt, erwächst in ihm das Verlangen, selbst Mensch zu werden. Er gibt seine Unsterblichkeit auf, um das zu erleben, was Engeln vorenthalten bleibt: die irdische Existenz und die sinnliche Erfahrung des Menschseins…",
+      "rawVersion": "Der Himmel über Berlin dt.m.engl.Ut",
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
@@ -2639,8 +2640,9 @@
       "title": "Der Himmel über Berlin / dt.m.engl.Ut",
       "normalizedTitle": "DER HIMMEL ÜBER BERLIN / DT.M.ENGL.UT",
       "version": {
+        "raw": "Der Himmel über Berlin dt.m.engl.Ut",
         "original": false,
-        "english": false
+        "english": true
       },
       "date": "So., 20.08",
       "timestamp": 1692563400000,
@@ -2650,6 +2652,8 @@
       "bookable": true
     },
     {
+      "description": "Karla (Karoline Herfurth) ist 39, Radiomoderatorin einer nächtlichen Musiksendung und beschließt, sich ihren Kinderwunsch selbst zu erfüllen und das soll schnell gehen. Dazu haben überraschend ungefähr alle eine Meinung: Die geschiedenen Eltern (Ulrike Kriener und Herbert Knaup), die Geschwister (Nora Tschirner und Milena Tscharntke), die Freunde, sogar die Nachbarn, und das, obwohl sie alle ihr eigenes Familienpäckchen zu tragen haben. In dem ganzen Chaos von umkämpften Familien- und Rollenbildern einen kühlen Kopf zu bewahren ist nicht leicht: Karla muss lernen sich von Konventionen und Erwartungen zu lösen und ihre eigenen Träume zu wagen.",
+      "rawVersion": "Podimo Presenting Night: Einfach mal was Schönes ",
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
@@ -2660,6 +2664,7 @@
       "title": "Podimo Presenting Night: Einfach mal was Schönes",
       "normalizedTitle": "PODIMO PRESENTING NIGHT: EINFACH MAL WAS SCHÖNES",
       "version": {
+        "raw": "Podimo Presenting Night: Einfach mal was Schönes ",
         "original": false,
         "english": false
       },
@@ -2671,6 +2676,9 @@
       "bookable": true
     },
     {
+      "trailer": "https://www.youtube.com/watch?v=kKpFmwxcl7U",
+      "description": "",
+      "rawVersion": "Oppenheimer\n dt.Fassg./ohne Ut",
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
@@ -2678,10 +2686,10 @@
       "id": "rehberge-938",
       "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/938",
       "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=914",
-      "trailer": "https://www.youtube.com/watch?v=kKpFmwxcl7U",
       "title": "Oppenheimer / dt.Fassg./ ohne Ut",
       "normalizedTitle": "OPPENHEIMER / DT.FASSG./ OHNE UT",
       "version": {
+        "raw": "Oppenheimer\n dt.Fassg./ohne Ut",
         "original": false,
         "english": false
       },
@@ -2693,6 +2701,9 @@
       "bookable": true
     },
     {
+      "trailer": "https://www.youtube.com/watch?v=kKpFmwxcl7U",
+      "description": "",
+      "rawVersion": "Oppenheimer\n dt. Fassg",
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
@@ -2700,10 +2711,10 @@
       "id": "rehberge-944",
       "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/944",
       "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=920",
-      "trailer": "https://www.youtube.com/watch?v=kKpFmwxcl7U",
       "title": "Oppenheimer",
       "normalizedTitle": "OPPENHEIMER",
       "version": {
+        "raw": "Oppenheimer\n dt. Fassg",
         "original": false,
         "english": false
       },
@@ -2715,6 +2726,9 @@
       "bookable": true
     },
     {
+      "trailer": "https://www.youtube.com/watch?v=cHLLOf-rCHs",
+      "description": "Solltet ihr Zweifel hegen, ob Kunst, Wut und persönliches Engagement einen nachhaltigen Wandel bewirken können, so ist Nan Goldin, Fotografin und Aktivistin, ein beeindruckender Beweis dafür. Ihr Kampf gegen die Oxycodon-Hersteller-Familie Sackler, die für die Opioidkrise in den Vereinigten Staaten mitverantwortlich und der Nan Golding fast selbst erlegen wäre, ist wirkungsmächtiges Kino \"at best\". \"Ein überragender und umwerfender Film von schockierender Intelligenz und noch größerer emotionaler Kraft\" Indiewire \"Angst gehört nicht zu Goldins Vokabular, weder kreativ noch persönlich.\" Observer\nDer neue Dokumentarfilm von Laura Poitras wurde mit dem Goldenen Löwen der Filmfestspiele Venedig 2022 ausgezeichnet.\n",
+      "rawVersion": "All the Beauty and the Bloodshed engl.m.dt.Ut",
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
@@ -2722,12 +2736,12 @@
       "id": "rehberge-948",
       "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/948",
       "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=924",
-      "trailer": "https://www.youtube.com/watch?v=cHLLOf-rCHs",
       "title": "All the Beauty and the Bloodshed / engl.m.dt.Ut",
       "normalizedTitle": "ALL THE BEAUTY AND THE BLOODSHED / ENGL.M.DT.UT",
       "version": {
+        "raw": "All the Beauty and the Bloodshed engl.m.dt.Ut",
         "original": false,
-        "english": false
+        "english": true
       },
       "date": "Di., 29.08",
       "timestamp": 1693340100000,
@@ -2737,6 +2751,9 @@
       "bookable": true
     },
     {
+      "trailer": "https://www.youtube.com/watch?v=NELUoe-zxwM",
+      "description": "",
+      "rawVersion": "Barbie dt. Fassg",
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
@@ -2744,10 +2761,10 @@
       "id": "rehberge-945",
       "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/945",
       "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=921",
-      "trailer": "https://www.youtube.com/watch?v=NELUoe-zxwM",
       "title": "Barbie / dt.Fassg./ ohne Ut",
       "normalizedTitle": "BARBIE / DT.FASSG./ OHNE UT",
       "version": {
+        "raw": "Barbie dt. Fassg",
         "original": false,
         "english": false
       },
@@ -2781,6 +2798,8 @@
       "bookable": true
     },
     {
+      "description": "Mit den Filmen:  MENARCA; THE WORDS I DO HAVE TO GET; HEAVEN REACHES DOWN TO EARTH: SCUM MUTATION und RED ANINSRI - OR TIPTOEING N STILL TREMBLING BERLIN WALL.",
+      "rawVersion": "Xposed Sunset: Queer Short Films engl. Originalfassung",
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
@@ -2791,8 +2810,9 @@
       "title": "Xposed Sunset: Queer Short Films / engl. Originalfassung",
       "normalizedTitle": "XPOSED SUNSET: QUEER SHORT FILMS / ENGL. ORIGINALFASSUNG",
       "version": {
-        "original": false,
-        "english": false
+        "raw": "Xposed Sunset: Queer Short Films engl. Originalfassung",
+        "original": true,
+        "english": true
       },
       "date": "Mo., 28.08",
       "timestamp": 1693253700000,
@@ -2802,6 +2822,8 @@
       "bookable": true
     },
     {
+      "description": "\"Hommage an einen Musiker, ein Sexidol, eine Ikone \"Elvis\" ist ein mitreißender Blick auf eine Ära der Pop- aber auch der Sozialgeschichte Amerikas. Egal ob legendärer Hüftschwung, die pomadierte Tolle oder ein Blick der sich irgendwo zwischen verführerisch und gefährlich bewegt: Austin Butler überzeugt in jedem Moment und kommt dem unbeschreiblichen Mysterium Elvis Presleys so nah wie möglich.\" Besser als programmkino.de hätten wir das auch nicht sagen können.",
+      "rawVersion": "Elvis engl.m.dt.Ut",
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
@@ -2812,8 +2834,9 @@
       "title": "Elvis / engl.m.dt.Ut",
       "normalizedTitle": "ELVIS / ENGL.M.DT.UT",
       "version": {
+        "raw": "Elvis engl.m.dt.Ut",
         "original": false,
-        "english": false
+        "english": true
       },
       "date": "Do., 31.08",
       "timestamp": 1693512000000,
@@ -2824,78 +2847,6 @@
     }
   ],
   "freiluftkino-hasenheide": [
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "hasenheide-751706",
-      "title": "Die Gangster Gang ",
-      "normalizedTitle": "DIE GANGSTER GANG",
-      "version": {
-        "raw": "",
-        "original": false,
-        "english": false
-      },
-      "date": "Fr., 21.07",
-      "timestamp": 1689897600000,
-      "time": "16:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/751706?layout=shows",
-      "img": "https://media.kinoheld.de/H8If2FbY1c8F3U5a5tuuHkirbX0=/400x560/images%2Ffilm%2Fdie-gangster-gang-34589.v1.jpg",
-      "description": "Mastermind Mr. Wolf, Safeknacker Mr. Snake, Mr. Shark, der Meister der Verwandlung, Mr. Piranha, der Mann fürs Grobe, und die geniale Hackerin Ms. Tarantula sind die „Gangster Gang“, die meistgesuchten Verbrecher von allen. Als die fünf Bösewichte nach einem spektakulären Raub gefasst werden, geloben sie inständig Besserung, um dem Gefängnis zu entgehen, und merken bald, dass Gutes tun gar nicht so schlecht ist. Doch dann bedroht ein neuer Schurke die Stadt…",
-      "trailer": "https://www.youtube.com/watch?v=a8X6oe4wLfs",
-      "available": -1,
-      "reserved": 0,
-      "bookable": true
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "hasenheide-751707",
-      "title": "All the Beauty and the Bloodshed (OmU)",
-      "normalizedTitle": "ALL THE BEAUTY AND THE BLOODSHED",
-      "version": {
-        "raw": "OmU",
-        "original": true,
-        "english": false
-      },
-      "date": "Fr., 21.07",
-      "timestamp": 1689897600000,
-      "time": "18:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/751707?layout=shows",
-      "img": "https://media.kinoheld.de/zNbKHsYGSRsR5mwFrN2nBSa2vb4=/400x560/images%2Ffilm%2Fall-the-beauty-and-the-bloodshed-41993.v1.jpg",
-      "description": "Im Oktober 2020 wurde einer der führenden Pharma-Hersteller in den USA mit Milliardenstrafen belegt. Die Sackler-Familie, eine langjährige Pharmadynastie mit einer Geschichte von fast 70 Jahren, erlebte mit der Auflösung ihrer Firma Purdue Pharma ein überraschendes Ende. Die Regisseurin Laura Poitras hat diese Geschichte in einer dokumentarischen Form aufgearbeitet und konzentriert sich insbesondere auf den Fall der Künstlerin Nan Goldin, die jahrelang gegen die Sackler-Familie und die Opioidkrise in den Vereinigten Staaten protestierte.",
-      "trailer": "https://www.youtube.com/watch?v=cHLLOf-rCHs",
-      "available": -1,
-      "reserved": 0,
-      "bookable": true
-    },
-    {
-      "cinemaId": "580",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-      "cinemaName": "freiluftkino-hasenheide",
-      "cinemaShortName": "hasenheide",
-      "id": "hasenheide-751708",
-      "title": "Triangle of Sadness (OmU)",
-      "normalizedTitle": "TRIANGLE OF SADNESS",
-      "version": {
-        "raw": "OmU",
-        "original": true,
-        "english": false
-      },
-      "date": "Fr., 21.07",
-      "timestamp": 1689897600000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/751708?layout=shows",
-      "img": "https://media.kinoheld.de/vI4B2Yzt26T6URR-GwaJdxDAd8U=/400x560/images%2Ffilm%2Ftriangle-of-sadness-34373.v11.jpg",
-      "description": "Das junge Männer-Model Carl (Harris Dickinson) und die erfolgreiche Influencerin Yaya (Charlbi Dean Kriek), in deren Beziehung es ein wenig kriselt, sind es gewohnt, ihr Luxus-Leben auf Instagram zu vermarkten. Als sie auf eine Kreuzfahrt für Superreiche eingeladen werden, können sie Erholung und Arbeit perfekt miteinander verbinden – sich mit einem Champagner-Glas auf dem Sonnendeck zu räkeln, ist schließlich absolut social-media-tauglich. Hinter den Kulissen geht es jedoch weit weniger paradiesisch zu. Während sich der dauerbetrunkene, marxistische Kapitän (Woody Harrelson) in seiner Kabine einschließt, versucht die Crew unter Leitung ihrer perfektionistischen Chefin Paula (Vicki Berlin), den verwöhnten Gästen jeden noch so absurden Wunsch zu erfüllen. Als das obligatorische Kapitänsdinner, zu dem sich der Captain dann doch noch breitschlagen lässt, ausgerechnet während eines Sturms stattfindet, laufen die Dinge jedoch völlig aus dem Ruder.",
-      "trailer": "https://www.youtube.com/watch?v=SEd70H2p2RI",
-      "available": -1,
-      "reserved": 0,
-      "bookable": true
-    },
     {
       "cinemaId": "580",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
@@ -3178,7 +3129,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/751720?layout=shows",
       "img": "https://media.kinoheld.de/ZJG3PUCjc6NMiIqyhl7SN9zW9e0=/400x560/images%2Ffilm%2Feverything-everywhere-all-at-once-22045.v267.jpg",
       "description": "Evelyn Wang führt einen Waschsalon und kämpft mit Steuerproblemen und Familienkonflikten. Während sie die Geburtstagsparty ihres Vaters organisiert, findet ihr Ehemann Waymond keine Gelegenheit, das Thema Scheidung anzusprechen. Ihre Tochter Joy verärgert sie zusätzlich, indem sie plant, ihre Freundin Becky zur Feier mitzubringen, obwohl Evelyn Schwierigkeiten mit Joys sexueller Orientierung hat. Evelyns Leben verlief nicht wie erhofft. Doch bald bietet sich ihr eine unerwartete Chance, alles zu verändern.",
-      "trailer": "https://youtu.be/aFXjl4AA1hA",
+      "trailer": "https://www.youtube.com/watch?v=nz-eUNVQpzk",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -3248,7 +3199,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/751723?layout=shows",
       "img": "https://media.kinoheld.de/z5aQ5P65BCIMjnPlUOo7DHAF0WI=/400x560/images%2Ffilm%2F4%2Fb-movie-lust-sound-in-west-berlin-1979-1989-1581.v16.jpg",
       "description": "Eine Dokumentation über Musik, Kunst & Chaos im wilden West-Berlin der 80er Jahre. Bevor der eiserne Vorhang fiel, war die eingemauerte Stadt ein kreativer Schmelztiegel für Sub- und Popkultur. Von Punk bis zur Love Parade - erzählt mit authentischen Zeitdokumenten aus unzähligen Archiven.",
-      "trailer": "https://youtu.be/aFXjl4AA1hA",
+      "trailer": "https://www.youtube.com/watch?v=eBhcC8UU1Z8",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -3392,7 +3343,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/751771?layout=shows",
       "img": "https://media.kinoheld.de/Z2-WdoMvB67jr-ACZfFK6Y-MRaA=/400x560/images%2Ffilm%2Fbabylon-rausch-der-ekstase-39429.v2.png",
       "description": "Kühn, sexy, glamourös und einzigartig: Nach seinen Welterfolgen „La La Land“ und „Whiplash“ erzählt Damien Chazelle in \"Babylon - Rausch der Ekstase\" von der Seele Hollywoods der 20er Jahre und vom Aufstieg und Fall all derjenigen, die sich dem Leben im Scheinwerferlicht verschrieben haben. Es ist die Geschichte von überbordendem Ehrgeiz, ausgelassener Dekadenz und ausschweifender Verderbtheit.",
-      "trailer": "https://youtu.be/aFXjl4AA1hA",
+      "trailer": "https://www.youtube.com/watch?v=oLV7ahw_3R4",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -3749,7 +3700,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/753166?layout=shows",
       "img": "https://media.kinoheld.de/umxL0OVvVlL4qOogw2G36x35sQ0=/400x560/images%2Ffilm%2Fholy-spider-37333.v15.jpg",
       "description": "Eine Journalistin taucht in die dunkle Schattenseite der iranischen heiligen Stadt Mashhad hinab, während sie die Serienmorde an Sexarbeiterinnen durch den sogenannten \"Spider Killer\" untersucht, der glaubt, die Straßen von Sündern zu säubern.",
-      "trailer": "https://youtu.be/aFXjl4AA1hA",
+      "trailer": "https://www.youtube.com/watch?v=JSVnYLax9o8",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -3818,7 +3769,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/753169?layout=shows",
       "img": "https://media.kinoheld.de/rJ4yY3G-Q_g_EJpIiFqYD1OCmVU=/400x560/images%2Ffilm%2Frenfield-43581.v2.jpg",
       "description": "Renfield ist schon jahrhundertelang der gequälte Gehilfe des narzisstischen Dracula. Anders als beim dunklen Graf wird Renfield eines Tages seinem Leben überdrüssig. Zu lange schon beschafft er die Beute seines Meisters und befolgt dessen Befehle, egal wie unwürdig diese auch ausfallen mögen. Er begibt sich daraufhin in eine Selbsthilfegruppe und versucht sein Leben in die Hand zu nehmen, um nicht länger im Schatten von Dracula verweilen zu müssen. Nachdem er feststellt, dass er auf ewig an den Fürsten der Finsternis gebunden ist, gilt es erst einmal herauszufinden, wie er diese Co-Abhängigkeit brechen kann. Unterstützung erhält er dabei von Rebecca Quincy, die er aus der Selbsthilfegruppe kennt. Es folgt ein Kampf gegen die Zeit, um sich aus den Fängen seines Herrschers zu befreien.",
-      "trailer": "https://youtu.be/aFXjl4AA1hA",
+      "trailer": "https://www.youtube.com/watch?v=mUboFq-50J0",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -3840,7 +3791,7 @@
       "timestamp": 1691107200000,
       "time": "16:30",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/753170?layout=shows",
-      "img": "https://media.kinoheld.de/3Au_pW_5_9hc_pEupjINEiKeOE4=/400x560/images%2Ffilm%2F168974781116898124421689812483168982625016898342221689855022168988378616898986731689902040168991260416899205541689941415.v232.lyle-mein-freund-das-krokodil-3432316865287291686542767168701751616870251351687423660168743497416876522511687666",
+      "img": "https://media.kinoheld.de/eiXBjAlZicjY7-w60aottOW4uq0=/400x560/images%2Ffilm%2F16897478111689812442168981248316898262501689834222168985502216898837861689898673168990204016899126041689920554168994141516899701511689984999.v234.lyle-mein-freund-das-krokodil-34323168652872916865427671687017516168702513516874236601687434",
       "description": "Nach dem Umzug der Familie Primm nach New York findet ihr junger Sohn Josh es schwierig, sich an die neue Schule zu gewöhnen und neue Freunde zu finden. All das ändert sich, als er Lyle entdeckt – ein singendes Krokodil, das gerne badet, Kaviar liebt und gute Musik. Und das oben auf dem Dachboden seines neuen Hauses lebt. Die beiden werden schnell beste Freunde.",
       "trailer": "https://www.youtube.com/watch?v=-JPl1_JHDH8",
       "available": -1,
@@ -4099,7 +4050,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/753180?layout=shows",
       "img": "https://media.kinoheld.de/hRcSVBM_ERPHJrUjSlh_3bguw1g=/400x560/images%2Ffilm%2Fbones-and-all-36777.v2.png",
       "description": "Die junge Maren, die von ihrer Mutter verlassen wurde, begibt sich auf eine 1.000 Meilen lange Odyssee durch die Straßen Amerikas, wo sie Lee trifft, einen entrechteten Herumtreiber. Doch trotz ihrer Bemühungen führen alle Wege zurück in ihre schreckliche Vergangenheit und zu einem letzten Kampf, der entscheiden wird, ob ihre Liebe ihr Anderssein überleben kann.",
-      "trailer": "https://youtu.be/aFXjl4AA1hA",
+      "trailer": "https://www.youtube.com/watch?v=av8bPV4jg2I",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -4171,7 +4122,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/753183?layout=shows",
       "img": "https://media.kinoheld.de/ZJG3PUCjc6NMiIqyhl7SN9zW9e0=/400x560/images%2Ffilm%2Feverything-everywhere-all-at-once-22045.v267.jpg",
       "description": "Evelyn Wang führt einen Waschsalon und kämpft mit Steuerproblemen und Familienkonflikten. Während sie die Geburtstagsparty ihres Vaters organisiert, findet ihr Ehemann Waymond keine Gelegenheit, das Thema Scheidung anzusprechen. Ihre Tochter Joy verärgert sie zusätzlich, indem sie plant, ihre Freundin Becky zur Feier mitzubringen, obwohl Evelyn Schwierigkeiten mit Joys sexueller Orientierung hat. Evelyns Leben verlief nicht wie erhofft. Doch bald bietet sich ihr eine unerwartete Chance, alles zu verändern.",
-      "trailer": "https://youtu.be/aFXjl4AA1hA",
+      "trailer": "https://www.youtube.com/watch?v=nz-eUNVQpzk",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -4313,7 +4264,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/753241?layout=shows",
       "img": "https://media.kinoheld.de/9Cfbiy5mDHvjGyKo5BGEIZFnPlA=/400x560/images%2Ffilm%2Fthe-menu-3510716865300211686531076.v106.jpg",
       "description": "Das junge Paar Margot und Tyler bereist und erkundet Orte, von denen nur wenige Menschen wissen oder Zugang dazu haben, um so in den Genuss der besten kulinatischen Angebote zu kommen. Ihre Abenteuer sind bei Freunden, Verwandten und Bekannten bekannt, und das Paar gilt inzwischen als Experten auf diesem Gebiet. Dank einer Entdeckung in den sozialen Medien hören sie von einem exklusiven, exzentrischen Restaurant, das alle Voraussetzungen für einen nächsten Besuch mitbringt, und reisen zu dessen Standort auf einer abgelegenen Insel, um das großartige und einzigartige Menü des Küchenchefs Slowik zu probieren. Doch schon bald stellt das Paar fest, dass die Speisekarte einige Überraschungen enthält, mit denen sie nicht gerechnet haben.",
-      "trailer": "https://youtu.be/aFXjl4AA1hA",
+      "trailer": "https://www.youtube.com/watch?v=0AbLLoQDtiQ",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -4816,7 +4767,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/753311?layout=shows",
       "img": "https://media.kinoheld.de/Z2-WdoMvB67jr-ACZfFK6Y-MRaA=/400x560/images%2Ffilm%2Fbabylon-rausch-der-ekstase-39429.v2.png",
       "description": "Kühn, sexy, glamourös und einzigartig: Nach seinen Welterfolgen „La La Land“ und „Whiplash“ erzählt Damien Chazelle in \"Babylon - Rausch der Ekstase\" von der Seele Hollywoods der 20er Jahre und vom Aufstieg und Fall all derjenigen, die sich dem Leben im Scheinwerferlicht verschrieben haben. Es ist die Geschichte von überbordendem Ehrgeiz, ausgelassener Dekadenz und ausschweifender Verderbtheit.",
-      "trailer": "https://youtu.be/aFXjl4AA1hA",
+      "trailer": "https://www.youtube.com/watch?v=oLV7ahw_3R4",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -4933,7 +4884,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/753316?layout=shows",
       "img": "https://media.kinoheld.de/m0gK6GBjfXT5PsxAdP7ghQRqSTM=/400x560/images%2Ffilm%2Frodeo-3756916856810561685681057.v1.jpg",
       "description": "Die temperamentvolle und unabhängige Julia (Julie Ledru) ist ein Technikfreak, der in feindlichen Umgebungen aufblüht und jede Situation zu seinem Vorteil nutzt. Sie hat ein Talent dafür, herablassende Männer zu betrügen, die es niedlich finden, dass sie sich für ihre gebrauchten Motorräder interessiert – und die es nicht fassen können, dass sie mit fröhlicher Hingabe davonfährt. Ihre Besessenheit von der rasanten Welt der urbanen \"Rodeos\" – illegale Treffen, bei denen Motorradfahrer ihre Bikes und waghalsigen Stunts vorführen – führt zu einem zufälligen Treffen mit einer unberechenbaren Clique. Julia versucht, sich bei der ultra-maskulinen Gang zu beweisen, indem sie für deren inhaftierten Anführer Dom (Sébastien Schroeder) Betrügereien und Botengänge erledigt. Als der ultimative Coup ansteht, kann sich Julia jedoch nicht sicher sein, wem sie vertrauen kann...",
-      "trailer": "https://youtu.be/aFXjl4AA1hA",
+      "trailer": "https://www.youtube.com/watch?v=vJNAmerE3oU",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -5026,7 +4977,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/753319?layout=shows",
       "img": "https://media.kinoheld.de/WAXbQR3yBQU_h22C9SOTe4as96g=/400x560/images%2Ffilm%2Fpulp-fiction-16667.v43.jpg",
       "description": "Quentin Tarantinos zweiter Film, genannt nach den auf billigem Papier gedruckten amerikanischen \"Hard-boiled\"-Kriminalromanen, gewann 1994 in Cannes die Goldene Palme und 1995 den Oscar für das Beste Originaldrehbuch und ging als Meisterwerk der Postmoderne in die Filmgeschichte ein. PULP FICTION weist Tarantino als Kenner der US-Trivial-Kulturgeschichte aus und als jemanden, der die Tradition der Mord-und-Totschlag-Geschichten der 30er bis 50er Jahre mit den Mitteln der 90er fortzusetzten versteht, ohne sich als billiger Jakob des Zitats gebärden zu müssen. Der Film versammelt Stars wie Harvey Keitel, Tim Roth, Uma Thurman, Bruce Willis und - in einem sensationellen Comeback - John Travolta in einer bleihaltigen und schwarzhumorigen Story aus der Unterwelt, die bevölkert wird von minderbemittelten Profikillern, diebischen Amateuren und bestechlichen Preisboxern.",
-      "trailer": "https://youtu.be/aFXjl4AA1hA",
+      "trailer": "https://www.youtube.com/watch?v=wleLXt7E3v0",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -5693,7 +5644,7 @@
       "timestamp": 1693353600000,
       "time": "16:00",
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/753386?layout=shows",
-      "img": "https://media.kinoheld.de/9apE76DAdXn0UenQEmkkBAd7kvk=/400x560/images%2Ffilm%2Fraya-und-der-letzte-drache-18813168923932716892515231689294010168930922116893803981689380405168939538616894667451689481622168955306716895679071689640182168965486416897263741689741701168989870516898987061689914111.v55.jpg",
+      "img": "https://media.kinoheld.de/RfvwqBGSi1ryEq1y6yXFUALkZbA=/400x560/images%2Ffilm%2Fraya-und-der-letzte-drache-1881316892393271689251523168929401016893092211689380398168938040516893953861689466745168948162216895530671689567907168964018216896548641689726374168974170116898987051689898706168991411116899850061689985022.v57.j",
       "description": "\"Raya und der letzte Drache\" von den Walt Disney Animation Studios begibt sich in die Fantasiewelt von Kumandra, in der Menschen und Drachen vor langer Zeit harmonisch zusammenlebten. Doch als eine böse Macht das Land bedrohte, opferten sich die Drachen, um die Menschheit zu retten. Jetzt, 500 Jahre später, ist dieselbe böse Macht zurückgekehrt und es ist an einer einsamen Kriegerin, Raya, den legendären letzten Drachen ausfindig zu machen, um das geteilte Land und sein gespaltenes Volk wieder zu einen. Auf ihrer Reise lernt sie jedoch, dass es auf mehr als einen Drachen ankommt, um die Welt zu retten - Vertrauen und Zusammenhalt sind ebenso wichtig. In \"\"Raya und der letzte Drache\"\" ist die Stimme von Christina Ann Zalamea als Raya zu hören, einer Kriegerin, deren Verstand so scharf ist wie ihr Schwert. An ihrer Seite: Sisu, die magische, mythische, bescheidene Drachendame. Weitere Figuren sind unter anderem der zehnjährige, clevere Entrepreneur Boun, der furchterregende Riese Tong und das klauende Kleinkind Noi mit seiner Ongi-Bande. (Quelle: Verleiher)",
       "trailer": "https://www.youtube.com/watch?v=c3ELtMPcmQw",
       "available": -1,
@@ -5912,33 +5863,33 @@
       "available": -1,
       "reserved": 0,
       "bookable": true
-    }
-  ],
-  "b-ware-openair-fmp": [
+    },
     {
-      "cinemaId": "1657",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
-      "cinemaName": "b-ware-openair-fmp",
-      "cinemaShortName": "fmp",
-      "id": "fmp-2825293595",
-      "title": "THE MENU (OmU / en)",
-      "normalizedTitle": "THE MENU",
+      "cinemaId": "1621",
+      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/nomadenkino-berlin/shows/movies",
+      "cinemaName": "nomadenkino-berlin",
+      "cinemaShortName": "nomadenkino",
+      "id": "nomadenkino-2833485510",
+      "title": "ROTER HIMMEL ",
+      "normalizedTitle": "ROTER HIMMEL",
       "version": {
-        "raw": "OmU en",
-        "original": true,
-        "english": true
+        "raw": "",
+        "original": false,
+        "english": false
       },
-      "date": "Fr., 21.07",
-      "timestamp": 1689897600000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2825293595?layout=shows",
-      "img": "https://media.kinoheld.de/9Cfbiy5mDHvjGyKo5BGEIZFnPlA=/400x560/images%2Ffilm%2Fthe-menu-3510716865300211686531076.v106.jpg",
-      "description": "Das junge Paar Margot und Tyler bereist und erkundet Orte, von denen nur wenige Menschen wissen oder Zugang dazu haben, um so in den Genuss der besten kulinatischen Angebote zu kommen. Ihre Abenteuer sind bei Freunden, Verwandten und Bekannten bekannt, und das Paar gilt inzwischen als Experten auf diesem Gebiet. Dank einer Entdeckung in den sozialen Medien hören sie von einem exklusiven, exzentrischen Restaurant, das alle Voraussetzungen für einen nächsten Besuch mitbringt, und reisen zu dessen Standort auf einer abgelegenen Insel, um das großartige und einzigartige Menü des Küchenchefs Slowik zu probieren. Doch schon bald stellt das Paar fest, dass die Speisekarte einige Überraschungen enthält, mit denen sie nicht gerechnet haben.",
-      "trailer": "https://youtu.be/aFXjl4AA1hA",
+      "date": "Mo., 31.07",
+      "timestamp": 1690761600000,
+      "time": "21:15",
+      "url": "https://www.kinoheld.de/cinema-berlin/nomadenkino-berlin/show/2833485510?layout=shows",
+      "img": "https://media.kinoheld.de/4tX0v0XQk7b1tF7k40cFq2PWPfU=/400x560/images%2Ffilm%2Froter-himmel-41897.v28.jpg",
+      "description": "Während eines heißen Sommers kommen vier junge Freunde (Paula Beer, Enno Trebs, Thomas Schubert und Langston Uibel) in einem abgelegenen idyllischen Ferienhaus an der Ostsee zusammen. Nachdem sie sich eingerichtet haben und einen unvergesslichen Urlaub planen, kommt plötzlich alles anders. Die schöne gemeinsame Zeit ist nicht auf Dauer, da wütende Waldbrände um sie herum eintreten, die schnell außer Kontrolle geraten. Nach und nach werden sie von den Flammen eingekesselt, was eine Flucht unmöglich macht. Doch die Hoffnung stirbt zuletzt. Innerhalb des Hauses kommen sich die Menschen ebenfalls näher. Ihre Leidenschaft und Liebe zueinander können die Angst und Zweifel eine lange Zeit aufhalten, zumindest bis zu einem gewissen Punkt. So gehen die scheinbar letzten Stunden ihres Lebens ins Land, bis die unaufhaltsamen Flammenwände das Feriendomizil erreichen und der Tod vor der Tür steht.",
+      "trailer": "https://www.youtube.com/watch?v=R2Nsza3tyBQ",
       "available": -1,
       "reserved": 0,
       "bookable": true
-    },
+    }
+  ],
+  "b-ware-openair-fmp": [
     {
       "cinemaId": "1657",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
@@ -6102,7 +6053,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2825301330?layout=shows",
       "img": "https://media.kinoheld.de/Z2-WdoMvB67jr-ACZfFK6Y-MRaA=/400x560/images%2Ffilm%2Fbabylon-rausch-der-ekstase-39429.v2.png",
       "description": "Kühn, sexy, glamourös und einzigartig: Nach seinen Welterfolgen „La La Land“ und „Whiplash“ erzählt Damien Chazelle in \"Babylon - Rausch der Ekstase\" von der Seele Hollywoods der 20er Jahre und vom Aufstieg und Fall all derjenigen, die sich dem Leben im Scheinwerferlicht verschrieben haben. Es ist die Geschichte von überbordendem Ehrgeiz, ausgelassener Dekadenz und ausschweifender Verderbtheit.",
-      "trailer": "https://youtu.be/aFXjl4AA1hA",
+      "trailer": "https://www.youtube.com/watch?v=oLV7ahw_3R4",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -6150,7 +6101,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/2825301348?layout=shows",
       "img": "https://media.kinoheld.de/hRcSVBM_ERPHJrUjSlh_3bguw1g=/400x560/images%2Ffilm%2Fbones-and-all-36777.v2.png",
       "description": "Die junge Maren, die von ihrer Mutter verlassen wurde, begibt sich auf eine 1.000 Meilen lange Odyssee durch die Straßen Amerikas, wo sie Lee trifft, einen entrechteten Herumtreiber. Doch trotz ihrer Bemühungen führen alle Wege zurück in ihre schreckliche Vergangenheit und zu einem letzten Kampf, der entscheiden wird, ob ihre Liebe ihr Anderssein überleben kann.",
-      "trailer": "https://youtu.be/aFXjl4AA1hA",
+      "trailer": "https://www.youtube.com/watch?v=av8bPV4jg2I",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -6201,8 +6152,8 @@
       "img": "https://media.kinoheld.de/aSpJiTabDRC16J_8ksz8jxeHRtA=/400x560/images%2Ffilm%2Fcome-on-come-on-21505.v2.png",
       "description": "Ein Radiojournalist auf Interviewreise muss sich um seinen kleinen Neffen kümmern und wächst an dieser Aufgabe. Das in ausdrucksstarke Schwarz-Weiß-Bilder getauchte, famos gespielte Roadmovie spürt auf kluge, meditative Weise den Befindlichkeiten von Kindern und Erwachsenen nach.",
       "trailer": "https://www.youtube.com/watch?v=evQCPabMru4",
-      "available": 68,
-      "reserved": 20,
+      "available": 66,
+      "reserved": 22,
       "bookable": true
     },
     {
@@ -6295,7 +6246,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2793252234?layout=shows",
       "img": "https://media.kinoheld.de/Z7e_CfPVA2B7jrk6v9iRAUEdvv8=/400x560/images%2Ffilm%2F4%2Fdie-taschendiebin-the-handmaiden-3826.v1.jpg",
       "description": "Korea in den 1930er Jahren. Die schöne, aber unnahbare Lady Hideko lebt mit ihrem dominanten Onkel Kouzuki und ihrem ererbten Vermögen in einem abgelegenen Anwesen, dessen Herzstück eine hingebungsvoll gepflegte und bewachte Bibliothek ist. Kouzuki sammelt und verkauft Bücher voll schonungsloser Erotik, die Hideko zahlungskräftigen Herren vorlesen muss, um so den Preis der Bücher in die Höhe zu treiben. Eines Tages kommt ein neues Dienstmädchen, die junge und naive Sookee, ins Haus von Lady Hideko. Doch das Mädchen hat ein Geheimnis: Sookee ist eine Taschendiebin und Betrügerin, engagiert, um Hideko dem gerissenen Grafen Fujiwara in die Hände zu spielen, der sie nach der Hochzeit um ihr Vermögen bringen will. Doch zwischen den beiden jungen Frauen entwickelt sich etwas Unerwartetes: ein ganz eigenes Begehren, eine ungeahnte Zuneigung, die die Karten der Macht neu verteilt. (Quelle: Verleih)",
-      "trailer": "https://youtu.be/aFXjl4AA1hA",
+      "trailer": "https://www.youtube.com/watch?v=2mOwA1RXUz0",
       "available": 80,
       "reserved": 8,
       "bookable": true
@@ -6343,7 +6294,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2793258360?layout=shows",
       "img": "https://media.kinoheld.de/ZJG3PUCjc6NMiIqyhl7SN9zW9e0=/400x560/images%2Ffilm%2Feverything-everywhere-all-at-once-22045.v267.jpg",
       "description": "Evelyn Wang führt einen Waschsalon und kämpft mit Steuerproblemen und Familienkonflikten. Während sie die Geburtstagsparty ihres Vaters organisiert, findet ihr Ehemann Waymond keine Gelegenheit, das Thema Scheidung anzusprechen. Ihre Tochter Joy verärgert sie zusätzlich, indem sie plant, ihre Freundin Becky zur Feier mitzubringen, obwohl Evelyn Schwierigkeiten mit Joys sexueller Orientierung hat. Evelyns Leben verlief nicht wie erhofft. Doch bald bietet sich ihr eine unerwartete Chance, alles zu verändern.",
-      "trailer": "https://youtu.be/aFXjl4AA1hA",
+      "trailer": "https://www.youtube.com/watch?v=nz-eUNVQpzk",
       "available": 77,
       "reserved": 11,
       "bookable": true
@@ -6390,7 +6341,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2793258428?layout=shows",
       "img": "https://media.kinoheld.de/yGK64I7GGQmboVjXKAOnZcqsar8=/400x560/images%2Ffilm%2Fdecision-to-leave-37945.v10.jpg",
       "description": "Ein passionierter Bergsteiger wird am Fuße eines hohen Felsen in der Nähe von Seoul tot aufgefunden. War es ein Unfall, Selbstmord oder gar Mord? Inspektor Hae-joon (Park Hae-il) wird mit dem Fall beauftragt. Alles deutet auf einen tragischen Unfall hin, doch Hae-joon kommt ins zweifeln. Sein Verdacht fällt auf die schöne, junge Witwe Seo-rae (Tang Wei) des Verstorbenen. Doch sie hat ein Alibi. Hae-joon wird besessen und fasziniert von Seo-rae und vernachlässig nach und nach die Fernbeziehung zu seiner Frau. Er beobachtet in seinen schlaflosen Nächten das Anwesen der Tatverdächtigen – und verfällt ihr immer mehr. Seo-rae geht auf sein Spiel ein. Doch sein Verdacht bleibt.",
-      "trailer": "https://youtu.be/aFXjl4AA1hA",
+      "trailer": "https://www.youtube.com/watch?v=0WH5LdCnvx8",
       "available": 82,
       "reserved": 6,
       "bookable": true
@@ -6438,8 +6389,8 @@
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2798893654?layout=shows",
       "img": "https://media.kinoheld.de/aZ7b_uwQ2YcyYaWWQpA7sh4NwOg=/400x560/images%2Ffilm%2Fmo%2F172-58487.v2.jpg",
       "description": "Das Berliner Elektronik-Musik-Duo Tronthaim begleitet live Walter Ruttmanns Berlin – Die Sinfonie der Großstadt – eine großartige filmische Reise durch das Leben der Großstadt, von ihrem Erwachen am Morgen über die Hektik des Arbeitsalltags bis hin zur Ekstase der nächtlichen Vergnügungen.\r\nSeit seiner Entstehung im Jahr 1927 ist Ruttmanns experimenteller Dokumentarfilm eine der eindrucksvollsten und revolutionärsten Großstadtsinfonien, die je gedreht wurden. Nach musikalischen Prinzipien montierend, verdichtet Ruttmann seine Aufnahmen zu einer Dynamik, die das pulsierende Leben dieser Metropole regelrecht fühlbar macht. Die clipartige Montagetechnik wie die historische Faszination des Films haben Tronthaim zu einer völlig neuen Komposition animiert, die den Rausch der Bilder aus dem Jahre 1927 in das wiedererwachte Berlin im 21. Jahrhundert transportiert. Tronthaim sind der Theatermusiker Daniel Dorsch (produzierte für Häuser wie Volksbühne, Gorki Theater, Hebbel am Ufer, Staatstheater Stuttgart) und der Bild- und Sounddesigner Sascha Moser (arbeitete für Emigrate, Rammstein, Seeed, Bela B., Peter Fox, Steve Binetti u. a.).",
-      "available": 45,
-      "reserved": 43,
+      "available": 43,
+      "reserved": 45,
       "bookable": true
     },
     {
@@ -6485,8 +6436,8 @@
       "img": "https://media.kinoheld.de/bgHz9Ej0IXyV7ashlpX5AioQDOs=/400x560/images%2Ffilm%2F3%2Fcall-me-by-your-name-8826.v7.jpg",
       "description": "Mit seinem neuen Film CALL ME BY YOUR NAME bringt Luca Guadagnino eine sinnlich-transzendentale Geschichte über die erste Liebe auf die große Leinwand, basierend auf André Acimans gefeiertem Roman. Der altkluge 17-Jährige Elio Perlman (Timothée Chalamet) genießt den norditalienischen Sommer des Jahres 1983 auf der im 17. Jahrhundert errichteten Villa der Familie. Seine Zeit verbringt der italoamerikanische Junge damit, klassische Musik zu spielen und zu transkribieren, zu lesen und mit seiner Freundin Marzia (Esther Garrel) zu flirten. Mit seinen Eltern ist Elio eng verbunden. Sein Vater (Michael Stuhlbarg), ein angesehener Professor, hat sich auf die griechisch-römische Kultur spezialisiert. Elios Mutter Annella (Amira Casar) arbeitet als Übersetzerin. Gemeinsam bringen sie ihrem Sohn die Errungenschaften der Hochkultur nahe und bereiten ihm ein sorgenfreies Leben mit allen Vorzügen. Dank seiner Weltklugheit und seiner intellektuellen Begabungen wirkt der Junge nach außen bereits wie ein Erwachsener, doch dem Anschein entgegen ist Elio in mancherlei Hinsicht durchaus noch sehr unerfahren - besonders in Herzensangelegenheiten. Eines Tages trifft der charmante amerikanische Doktorand Oliver (Armie Hammer) als neuer Sommer-Praktikant von Elios Vater auf der Villa ein. Inmitten jener prächtigen, sonnengetränkten Szenerie entdecken Elio und Oliver die berauschende Schönheit aufblühenden Verlangens im Verlauf eines Sommers, der ihre Leben für immer verändern wird. (Quelle: Verleih)",
       "trailer": "https://www.youtube.com/watch?v=sBVbtKqn61w",
-      "available": 64,
-      "reserved": 24,
+      "available": 62,
+      "reserved": 26,
       "bookable": true
     },
     {
@@ -6578,7 +6529,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2798896720?layout=shows",
       "img": "https://media.kinoheld.de/JXHcNSbNAHd6JG8CIjHlA82_Mak=/400x560/images%2Ffilm%2Fpiaffe-37349.v2.jpg",
       "description": "Nach dem Nervenzusammenbruch ihrer Schwester Zara muss die introvertierte Eva deren Job als Geräuschmacherin übernehmen. Für einen Werbespot vertont sie das Verhalten eines Pferds – und vertieft sich so leidenschaftlich in die Arbeit, dass ihr ein Schweif aus dem Steißbein wächst. Mit dem Schwanz wird auch Evas sexuelles Begehren immer größer. Sie beginnt eine SM-Affäre mit einem Botaniker, der Farne erforscht, und erlebt ihren Körper auf eine noch nie empfundene Weise.",
-      "trailer": "https://youtu.be/aFXjl4AA1hA",
+      "trailer": "https://www.youtube.com/watch?v=x0MXcj-wmII",
       "available": 88,
       "reserved": 0,
       "bookable": true
@@ -6649,7 +6600,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2798897168?layout=shows",
       "img": "https://media.kinoheld.de/Z7e_CfPVA2B7jrk6v9iRAUEdvv8=/400x560/images%2Ffilm%2F4%2Fdie-taschendiebin-the-handmaiden-3826.v1.jpg",
       "description": "Korea in den 1930er Jahren. Die schöne, aber unnahbare Lady Hideko lebt mit ihrem dominanten Onkel Kouzuki und ihrem ererbten Vermögen in einem abgelegenen Anwesen, dessen Herzstück eine hingebungsvoll gepflegte und bewachte Bibliothek ist. Kouzuki sammelt und verkauft Bücher voll schonungsloser Erotik, die Hideko zahlungskräftigen Herren vorlesen muss, um so den Preis der Bücher in die Höhe zu treiben. Eines Tages kommt ein neues Dienstmädchen, die junge und naive Sookee, ins Haus von Lady Hideko. Doch das Mädchen hat ein Geheimnis: Sookee ist eine Taschendiebin und Betrügerin, engagiert, um Hideko dem gerissenen Grafen Fujiwara in die Hände zu spielen, der sie nach der Hochzeit um ihr Vermögen bringen will. Doch zwischen den beiden jungen Frauen entwickelt sich etwas Unerwartetes: ein ganz eigenes Begehren, eine ungeahnte Zuneigung, die die Karten der Macht neu verteilt. (Quelle: Verleih)",
-      "trailer": "https://youtu.be/aFXjl4AA1hA",
+      "trailer": "https://www.youtube.com/watch?v=2mOwA1RXUz0",
       "available": 86,
       "reserved": 2,
       "bookable": true
@@ -6721,7 +6672,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2798897839?layout=shows",
       "img": "https://media.kinoheld.de/yGK64I7GGQmboVjXKAOnZcqsar8=/400x560/images%2Ffilm%2Fdecision-to-leave-37945.v10.jpg",
       "description": "Ein passionierter Bergsteiger wird am Fuße eines hohen Felsen in der Nähe von Seoul tot aufgefunden. War es ein Unfall, Selbstmord oder gar Mord? Inspektor Hae-joon (Park Hae-il) wird mit dem Fall beauftragt. Alles deutet auf einen tragischen Unfall hin, doch Hae-joon kommt ins zweifeln. Sein Verdacht fällt auf die schöne, junge Witwe Seo-rae (Tang Wei) des Verstorbenen. Doch sie hat ein Alibi. Hae-joon wird besessen und fasziniert von Seo-rae und vernachlässig nach und nach die Fernbeziehung zu seiner Frau. Er beobachtet in seinen schlaflosen Nächten das Anwesen der Tatverdächtigen – und verfällt ihr immer mehr. Seo-rae geht auf sein Spiel ein. Doch sein Verdacht bleibt.",
-      "trailer": "https://youtu.be/aFXjl4AA1hA",
+      "trailer": "https://www.youtube.com/watch?v=0WH5LdCnvx8",
       "available": 88,
       "reserved": 0,
       "bookable": true
@@ -6745,7 +6696,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2798897865?layout=shows",
       "img": "https://media.kinoheld.de/ZJG3PUCjc6NMiIqyhl7SN9zW9e0=/400x560/images%2Ffilm%2Feverything-everywhere-all-at-once-22045.v267.jpg",
       "description": "Evelyn Wang führt einen Waschsalon und kämpft mit Steuerproblemen und Familienkonflikten. Während sie die Geburtstagsparty ihres Vaters organisiert, findet ihr Ehemann Waymond keine Gelegenheit, das Thema Scheidung anzusprechen. Ihre Tochter Joy verärgert sie zusätzlich, indem sie plant, ihre Freundin Becky zur Feier mitzubringen, obwohl Evelyn Schwierigkeiten mit Joys sexueller Orientierung hat. Evelyns Leben verlief nicht wie erhofft. Doch bald bietet sich ihr eine unerwartete Chance, alles zu verändern.",
-      "trailer": "https://youtu.be/aFXjl4AA1hA",
+      "trailer": "https://www.youtube.com/watch?v=nz-eUNVQpzk",
       "available": 88,
       "reserved": 0,
       "bookable": true
@@ -6821,54 +6772,6 @@
     }
   ],
   "freiluftkino-pompeji-open-air-am-ostkreuz-berlin": [
-    {
-      "cinemaId": "2153",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-      "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-      "cinemaShortName": "pompeji ostkreuz",
-      "id": "pompeji ostkreuz-2819746395",
-      "title": "ASTEROID CITY (OmdU)",
-      "normalizedTitle": "ASTEROID CITY",
-      "version": {
-        "raw": "OmdU",
-        "original": false,
-        "english": false
-      },
-      "date": "Fr., 21.07",
-      "timestamp": 1689897600000,
-      "time": "21:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2819746395?layout=shows",
-      "img": "https://media.kinoheld.de/tmBnHjhCL24iMyMR6bYtOOGmxP4=/400x560/images%2Ffilm%2Fmo%2F2413-83347168779635116877963521687796354.v2.jpg",
-      "description": "Asteroid City, irgendwo im Nirgendwo der USA in den Fünfzigerjahren. Das Programm der Junior Stargazer bekommt ein kurzfristiges Update, als ein weiterer Besucher von außerhalb in die Stadt kommt. Von sehr weit außerhalb. Bringt das Alien eine Botschaft des Universums oder hat es gar Antworten auf existenzielle Fragen? Vielleicht. Sicher ist, dass Asteroid City vorsichtshalber vom Militär zur Sperrzone erklärt wird, und so stecken Witwer Mitch Campbell (Jason Schwartzman) und seine vier Kinder in dem abgelegenen Nest fest. Während sich sein Schwiegervater (Tom Hanks) um die Enkel kümmert, Amerikas Wissen über den Weltraum ins Wanken gerät und im Hintergrund Atombomben getestet werden, freundet sich Mitch mit einer Schauspielerin an (Scarlett Johansson). Wenn da nur nicht dieses Gefühl wäre, dass das Alien kein Überbringer guter Nachrichten ist.",
-      "trailer": "https://youtu.be/9FXCSXuGTF4",
-      "available": -1,
-      "reserved": 0,
-      "bookable": true
-    },
-    {
-      "cinemaId": "2153",
-      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-      "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-      "cinemaShortName": "pompeji ostkreuz",
-      "id": "pompeji ostkreuz-2819746404",
-      "title": "ASTEROID CITY (OmdU)",
-      "normalizedTitle": "ASTEROID CITY",
-      "version": {
-        "raw": "OmdU",
-        "original": false,
-        "english": false
-      },
-      "date": "Fr., 21.07",
-      "timestamp": 1689897600000,
-      "time": "23:30",
-      "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2819746404?layout=shows",
-      "img": "https://media.kinoheld.de/tmBnHjhCL24iMyMR6bYtOOGmxP4=/400x560/images%2Ffilm%2Fmo%2F2413-83347168779635116877963521687796354.v2.jpg",
-      "description": "Asteroid City, irgendwo im Nirgendwo der USA in den Fünfzigerjahren. Das Programm der Junior Stargazer bekommt ein kurzfristiges Update, als ein weiterer Besucher von außerhalb in die Stadt kommt. Von sehr weit außerhalb. Bringt das Alien eine Botschaft des Universums oder hat es gar Antworten auf existenzielle Fragen? Vielleicht. Sicher ist, dass Asteroid City vorsichtshalber vom Militär zur Sperrzone erklärt wird, und so stecken Witwer Mitch Campbell (Jason Schwartzman) und seine vier Kinder in dem abgelegenen Nest fest. Während sich sein Schwiegervater (Tom Hanks) um die Enkel kümmert, Amerikas Wissen über den Weltraum ins Wanken gerät und im Hintergrund Atombomben getestet werden, freundet sich Mitch mit einer Schauspielerin an (Scarlett Johansson). Wenn da nur nicht dieses Gefühl wäre, dass das Alien kein Überbringer guter Nachrichten ist.",
-      "trailer": "https://youtu.be/9FXCSXuGTF4",
-      "available": -1,
-      "reserved": 0,
-      "bookable": true
-    },
     {
       "cinemaId": "2153",
       "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
@@ -8145,6 +8048,27 @@
       "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
       "cinemaName": "sommerkino-kulturforum",
       "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1691701200000",
+      "title": "Der Himmel über Berlin",
+      "normalizedTitle": "DER HIMMEL ÜBER BERLIN",
+      "version": {
+        "raw": "DF",
+        "original": false,
+        "english": false
+      },
+      "date": "Do., 10.08",
+      "timestamp": 1691701200000,
+      "time": "21:0",
+      "url": "https://www.yorck.de/filme/der-himmel-uber-berlin",
+      "description": "<p>Die Engel Damiel und Cassiel treten als Beobachter der Welt auf, insbesondere in Berlin. Sie können nicht in das Leben der Menschen eingreifen und sich ihnen nicht zu erkennen geben. Sie können ihnen jedoch neuen Lebensmut einflößen. Der Wunsch, am Leben der Sterblichen teilzuhaben, wird bei Damiel so groß, dass er dafür bereit ist, auf seine Unsterblichkeit zu verzichten. Mit einer antiken Ritterrüstung als Startkapital wird er in die Welt hineingeworfen. In einer Trapezkünstlerin, die sich scheinbar von der Erdschwere löst, findet er seinen Gegenpart.</p>\n",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attbTi8wwMTKkFo6K/7309b3225bacfcbd51dc983b54488b18/Der_Himmel__ber_Berlin.jpg",
+      "bookable": true
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
       "id": "kulturforum-1691442000000",
       "title": "Nope",
       "normalizedTitle": "NOPE",
@@ -8160,27 +8084,6 @@
       "description": "<p>Emerald (Keke Palmer) und James (Daniel Kaluuya) sind die Eigentümer einer Farm für Hollywood-Filmpferde. Ihre kalifornische Haywood-Ranch, weitab von den ersten Anzeichen menschlicher Zivilisation, ist bereits seit Jahrzehnten in Familienbesitz. Eines Nachts beobachten sie auf ihrem Land schockierende Phänomene, für die es keinerlei Erklärung zu geben scheint.</p>\n",
       "img": "//images.ctfassets.net/4mws6uyas4ta/attstVOK7TON0HTrc/d0927f6a13cb4d1954ff8ab1bbf4f199/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",
       "trailer": "https://www.youtube.com/watch?v=In8fuzj3gck",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1691701200000",
-      "title": "Der Himmel über Berlin",
-      "normalizedTitle": "DER HIMMEL ÜBER BERLIN",
-      "version": {
-        "raw": "DF",
-        "original": false,
-        "english": false
-      },
-      "date": "Do., 10.08",
-      "timestamp": 1691701200000,
-      "time": "21:0",
-      "url": "https://www.yorck.de/filme/der-himmel-uber-berlin",
-      "description": "<p>Die Engel Damiel und Cassiel treten als Beobachter der Welt auf, insbesondere in Berlin. Sie können nicht in das Leben der Menschen eingreifen und sich ihnen nicht zu erkennen geben. Sie können ihnen jedoch neuen Lebensmut einflößen. Der Wunsch, am Leben der Sterblichen teilzuhaben, wird bei Damiel so groß, dass er dafür bereit ist, auf seine Unsterblichkeit zu verzichten. Mit einer antiken Ritterrüstung als Startkapital wird er in die Welt hineingeworfen. In einer Trapezkünstlerin, die sich scheinbar von der Erdschwere löst, findet er seinen Gegenpart.</p>\n",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attbTi8wwMTKkFo6K/7309b3225bacfcbd51dc983b54488b18/Der_Himmel__ber_Berlin.jpg",
       "bookable": true
     },
     {
@@ -8466,27 +8369,6 @@
       "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
       "cinemaName": "sommerkino-kulturforum",
       "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1689974100000",
-      "title": "Asteroid City",
-      "normalizedTitle": "ASTEROID CITY",
-      "version": {
-        "raw": "OmU",
-        "original": true,
-        "english": false
-      },
-      "date": "Fr., 21.07",
-      "timestamp": 1689974100000,
-      "time": "21:15",
-      "url": "https://www.yorck.de/filme/asteroid-city",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/att7BpfeDoasnp4rw/9c5551939b9320ee695566a8fe7775a6/Asteroid_City_-_Poster.jpg",
-      "trailer": "https://www.youtube.com/watch?v=3ExfrDw8XZ4",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
       "id": "kulturforum-1691787600000",
       "title": "Indiana Jones und das Rad des Schicksals",
       "normalizedTitle": "INDIANA JONES UND DAS RAD DES SCHICKSALS",
@@ -8550,27 +8432,6 @@
       "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
       "cinemaName": "sommerkino-kulturforum",
       "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1692996300000",
-      "title": "Barbie",
-      "normalizedTitle": "BARBIE",
-      "version": {
-        "raw": "OmU",
-        "original": true,
-        "english": false
-      },
-      "date": "Fr., 25.08",
-      "timestamp": 1692996300000,
-      "time": "20:45",
-      "url": "https://www.yorck.de/filme/barbie",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attGlvh44cmjsROeW/5d9129bd4a60a86b43abb48b3474d55d/zLRdwXPqgxppLkJae1EbUmcHoJT.jpg",
-      "trailer": "https://www.youtube.com/watch?v=8zIf0XvoL9Y",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
       "id": "kulturforum-1692477900000",
       "title": "Oppenheimer",
       "normalizedTitle": "OPPENHEIMER",
@@ -8585,6 +8446,27 @@
       "url": "https://www.yorck.de/filme/oppenheimer",
       "img": "//images.ctfassets.net/4mws6uyas4ta/attGyOdKLtRtGyP8o/ea4c0d34654ce8cde392808e9f586ebe/Oppenheimer.jpg",
       "trailer": "https://www.youtube.com/watch?v=A51kYQUGMc0",
+      "bookable": true
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1692996300000",
+      "title": "Barbie",
+      "normalizedTitle": "BARBIE",
+      "version": {
+        "raw": "OmU",
+        "original": true,
+        "english": false
+      },
+      "date": "Fr., 25.08",
+      "timestamp": 1692996300000,
+      "time": "20:45",
+      "url": "https://www.yorck.de/filme/barbie",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attGlvh44cmjsROeW/5d9129bd4a60a86b43abb48b3474d55d/zLRdwXPqgxppLkJae1EbUmcHoJT.jpg",
+      "trailer": "https://www.youtube.com/watch?v=8zIf0XvoL9Y",
       "bookable": true
     },
     {
@@ -8699,33 +8581,11 @@
       "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
       "cinemaName": "sommerkino-kulturforum",
       "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1692823500000",
-      "title": "Corners of the Earth: Kamchatka",
-      "normalizedTitle": "CORNERS OF THE EARTH: KAMCHATKA",
-      "version": {
-        "raw": "OV",
-        "original": true,
-        "english": false
-      },
-      "date": "Mi., 23.08",
-      "timestamp": 1692823500000,
-      "time": "20:45",
-      "url": "https://www.yorck.de/filme/corners-of-the-earth-kamchatka",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attJmsGKxccTZQ8uF/6a9c0a4951398e079a1c992eaf42e963/KAMCHATKA_POSTER_FINAL1stDec_HighRes.jpg",
-      "trailer": "https://www.youtube.com/watch?v=Q71tckAfIVo",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
       "id": "kulturforum-1691614800000",
       "title": "Corners of the Earth: Kamchatka",
       "normalizedTitle": "CORNERS OF THE EARTH: KAMCHATKA",
       "version": {
-        "raw": "OV",
-        "original": true,
+        "original": false,
         "english": false
       },
       "date": "Mi., 09.08",
@@ -8742,16 +8602,35 @@
       "cinemaName": "sommerkino-kulturforum",
       "cinemaShortName": "kulturforum",
       "id": "kulturforum-1692823500000",
-      "title": "Surffilmfestival: Corners of the Earth - Kamchatka",
-      "normalizedTitle": "SURFFILMFESTIVAL: CORNERS OF THE EARTH - KAMCHATKA",
+      "title": "Corners of the Earth: Kamchatka",
+      "normalizedTitle": "CORNERS OF THE EARTH: KAMCHATKA",
       "version": {
-        "raw": "OV",
-        "original": true,
+        "original": false,
         "english": false
       },
       "date": "Mi., 23.08",
       "timestamp": 1692823500000,
       "time": "20:45",
+      "url": "https://www.yorck.de/filme/corners-of-the-earth-kamchatka",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attJmsGKxccTZQ8uF/6a9c0a4951398e079a1c992eaf42e963/KAMCHATKA_POSTER_FINAL1stDec_HighRes.jpg",
+      "trailer": "https://www.youtube.com/watch?v=Q71tckAfIVo",
+      "bookable": true
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1691614800000",
+      "title": "Surffilmfestival: Corners of the Earth - Kamchatka",
+      "normalizedTitle": "SURFFILMFESTIVAL: CORNERS OF THE EARTH - KAMCHATKA",
+      "version": {
+        "original": false,
+        "english": false
+      },
+      "date": "Mi., 09.08",
+      "timestamp": 1691614800000,
+      "time": "21:0",
       "url": "https://www.yorck.de/filme/surffilmfestival-corners-of-the-earth-kamchatka"
     },
     {
@@ -8759,17 +8638,16 @@
       "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
       "cinemaName": "sommerkino-kulturforum",
       "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1691614800000",
+      "id": "kulturforum-1692823500000",
       "title": "Surffilmfestival: Corners of the Earth - Kamchatka",
       "normalizedTitle": "SURFFILMFESTIVAL: CORNERS OF THE EARTH - KAMCHATKA",
       "version": {
-        "raw": "OV",
-        "original": true,
+        "original": false,
         "english": false
       },
-      "date": "Mi., 09.08",
-      "timestamp": 1691614800000,
-      "time": "21:0",
+      "date": "Mi., 23.08",
+      "timestamp": 1692823500000,
+      "time": "20:45",
       "url": "https://www.yorck.de/filme/surffilmfestival-corners-of-the-earth-kamchatka"
     },
     {
@@ -8923,8 +8801,8 @@
       "img": "https://images.cinetixx.com/posters/2793938854/thumbnails/2793938854_211_300.jpg",
       "description": "Asteroid City, irgendwo im Nirgendwo der USA in den Fünfzigerjahren. Das Programm der Junior Stargazer bekommt ein kurzfristiges Update, als ein weiterer Besucher von außerhalb in die Stadt kommt. Von sehr weit außerhalb … Bringt das Alien eine Botschaft des Universums oder hat es gar Antworten auf existenzielle Fragen? Vielleicht. Sicher ist, dass Asteroid City vorsichtshalber vom Militär zur Sperrzone erklärt wird, und so stecken Witwer Mitch Campbell (Jason Schwartzman) und seine vier Kinder in dem abgelegenen Nest fest. Während sich sein Schwiegervater (Tom Hanks) um die Enkel kümmert, Amerikas Wissen über den Weltraum ins Wanken gerät und im Hintergrund Atombomben getestet werden, freundet sich Mitch mit einer Schauspielerin an (Scarlett Johansson). Wenn da nur nicht dieses Gefühl wäre, dass das Alien kein Überbringer guter Nachrichten ist …",
       "trailer": "https://www.youtube.com/watch?v=3ExfrDw8XZ4",
-      "available": 137,
-      "reserved": 63,
+      "available": 131,
+      "reserved": 69,
       "bookable": true
     },
     {
