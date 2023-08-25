@@ -48,30 +48,30 @@
     "reserved": 0,
     "bookable": true
   },
-  "fhain-996": {
+  "fhain-998": {
     "trailer": "https://www.youtube.com/watch?v=NELUoe-zxwM",
-    "description": "Mehr Barbie gleich an diesem Wochenende: Fr. 25. Aug, 20.15 OmU Freiluftkino Kreuzberg; Sa., 26. Aug. 20.15 Freiluftkino Rehberge; So., 27. Aug., 20.00  OmU Freiluftkino Friedrichshain",
-    "rawVersion": "Ausverkauft:  Barbie",
+    "description": "Wir waren begeistert von Greta Gerwigs Film und können guten Gewissens sagen: Das großartige und lustige Sommer-Kino-Wunder in der entspannten Atmosphäre unseres Kinos zu genießen: Besser geht’s nicht.",
+    "rawVersion": "Barbie",
     "cinemaId": "fh_freiluftkino",
     "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
     "cinemaName": "Freiluftkino Friedrichshain",
     "cinemaShortName": "fhain",
-    "id": "fhain-996",
-    "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/996",
+    "id": "fhain-998",
+    "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/998",
     "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=994",
     "title": "Barbie",
     "normalizedTitle": "BARBIE",
     "version": {
-      "raw": "Ausverkauft:  Barbie",
+      "raw": "Barbie",
       "original": false,
       "english": false
     },
-    "date": "Do., 24.08",
-    "timestamp": 1692908100000,
-    "time": "20:15",
+    "date": "So., 27.08",
+    "timestamp": 1693166400000,
+    "time": "20:00",
     "available": 0,
     "reserved": 0,
-    "bookable": false
+    "bookable": true
   },
   "fhain-10001011": {
     "description": "Zuständig heute und morgen für Euch: Cliff Allister McLane (Kommandant), Mario de Monti (Armierungsoffizier), Atan Shubashi (Astrogator), Hasso Sigbjörnson (Bordingenieur), Helga Legrelle (Leutnant für Raumüberwachung) und Tamara Jagellovsk (Galaktischer Sicherheitsdienst).",
@@ -533,30 +533,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "xberg-938": {
-    "description": "Ihren redegewandten Online-Dozenten bekommen seine Student*innen nicht zu Gesicht. Zugang zu Charlie und seinem Haus hat eigentlich nur seine beste Freundin Liz. Doch vieles scheint in den Fluss zu geraten: Ausgerechnet ein jugendlicher Prediger lockt ihn aus der Reserve, wenn auch nicht ins christliche Lager und die möglicher Versöhnung mit seiner Tochter gibt ihm neuen Auftrieb. \"Die emotionale Achterbahn zwischen Verzweiflung, Hass und Hoffnung, zwischen Schroffheit und Sensibilität präsentiert Fraser mit enormer Glaubwürdigkeit:\" programmkino.de",
-    "rawVersion": "The Whale",
-    "cinemaId": "kb_freiluftkino",
-    "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
-    "cinemaName": "Freiluftkino Kreuzberg",
-    "cinemaShortName": "xberg",
-    "id": "xberg-938",
-    "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/938",
-    "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=926",
-    "title": "The Whale / engl.m.dt.Ut",
-    "normalizedTitle": "THE WHALE / ENGL.M.DT.UT",
-    "version": {
-      "raw": "The Whale",
-      "original": false,
-      "english": false
-    },
-    "date": "Do., 24.08",
-    "timestamp": 1692908100000,
-    "time": "20:15",
-    "available": 0,
-    "reserved": 0,
-    "bookable": true
-  },
   "xberg-941": {
     "trailer": "https://www.youtube.com/watch?v=qIO3MF1Ls1w",
     "description": "Alles ist im Fluss und in Bewegung im Leben von Leó und Remí, deren wunderbare und schöne Freundschaft sie scheinbar mühelos in neue Lebensabschnitte schweben lässt. Mit zärtlicher Präzision, einer ungeheuer schönen filmischen Bildsprache und einem unendlichen Verständnis für die Fragilität von Beziehungen und Freundschaften hat Lukas Dhont mit Close einen wirklich singulären Film geschaffen.",
@@ -700,31 +676,6 @@
     },
     "date": "Sa., 26.08",
     "timestamp": 1693080900000,
-    "time": "20:15",
-    "available": 0,
-    "reserved": 0,
-    "bookable": true
-  },
-  "rehberge-944": {
-    "trailer": "https://www.youtube.com/watch?v=kKpFmwxcl7U",
-    "description": "Biografie, Mysterium, eine Polemik und dichte Charakterstudie: Cilian Murphy begeistert in  Christopher Nolans Porträt des Vaters der Atombombe. \"Ein Triumph, als würde man Zeuge, wie die Geschichte selbst aufgerissen wird.\" The Telegraph. \"Oppenheimer ist ein Film, der das Wesen der Macht erforscht: wie sie entsteht, wie sie im Gleichgewicht gehalten wird und wie sie Menschen in düstere Dilemmas führt, die sich einfachen Antworten verweigern.\" Rolling Stone ",
-    "rawVersion": "Oppenheimer\n dt. Fassg",
-    "cinemaId": "rb_freiluftkino",
-    "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
-    "cinemaName": "Freiluftkino Rehberge",
-    "cinemaShortName": "rehberge",
-    "id": "rehberge-944",
-    "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/944",
-    "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=920",
-    "title": "Oppenheimer / dt.Fassg./germ.noSubs.",
-    "normalizedTitle": "OPPENHEIMER / DT.FASSG./GERM.NOSUBS.",
-    "version": {
-      "raw": "Oppenheimer\n dt. Fassg",
-      "original": false,
-      "english": false
-    },
-    "date": "Do., 24.08",
-    "timestamp": 1692908100000,
     "time": "20:15",
     "available": 0,
     "reserved": 0,
@@ -1020,78 +971,6 @@
     "timestamp": 1694288700000,
     "time": "19:45",
     "available": 0,
-    "reserved": 0,
-    "bookable": true
-  },
-  "hasenheide-753368": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-753368",
-    "title": "Lucy ist jetzt Gangster ",
-    "normalizedTitle": "LUCY IST JETZT GANGSTER",
-    "version": {
-      "raw": "",
-      "original": false,
-      "english": false
-    },
-    "date": "Do., 24.08",
-    "timestamp": 1692835200000,
-    "time": "16:00",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/753368?layout=shows",
-    "img": "https://media.kinoheld.de/QdEssMhdqSkvKDlgJt_HLTRthE0=/400x560/images%2Ffilm%2F1686344703.v194.lucy-ist-jetzt-gangster-405451684764484168476565616847661631684768175168478615416847963791684815411168481848216862007811686205138168622603516862332931686254768168626555816862872061686291550168629794316863122891686312368168",
-    "description": "Die hinreißend brave und liebenswürdige Lucy (10) hat beschlossen, eine Bank auszurauben. Dabei wäre sie vor ein paar Wochen nicht mal bei Rot über die Straße gegangen! Aber drastische Situation verlangen eben drastische Maßnahmen und so wird aus Lucy Lucyfer ein richtig gefallener Engel",
-    "trailer": "https://www.youtube.com/watch?v=_eE1_SVRQX4",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
-  "hasenheide-753369": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-753369",
-    "title": "The Whale (OmU)",
-    "normalizedTitle": "THE WHALE",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Do., 24.08",
-    "timestamp": 1692835200000,
-    "time": "18:00",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/753369?layout=shows",
-    "img": "https://media.kinoheld.de/dsfJJIzvWnuHWQDXAjUW6OeRMjU=/400x560/images%2Ffilm%2Fthe-whale-41399.v52.jpg",
-    "description": "Der Tod seines Geliebten, für den Charlie seine Frau und seine Tochter verlassen hat, hat ihn schwer getroffen. In seiner Trauer hat er eine Essstörung entwickelt, die sein Gewicht auf 270 Kilo ansteigen ließ und ihn dazu veranlasste, sich so weit wie möglich von der Gesellschaft zurückzuziehen. Als Lehrer führt er ein einsames, zurückgezogenes Leben in seiner Wohnung und unterrichtet online. Doch trotz seiner Isolation gibt es eine Person, nach der sich Charlie sehnt: seine inzwischen siebzehnjährige Tochter Ellie. Eines Tages beschließt er, den Kontakt zu seiner Teenager-Tochter wiederherzustellen, die er im Alter von acht Jahren verlassen hatte. Während sich die Beziehung zwischen dem entfremdeten Vater und seiner Tochter allmählich entwickelt, fragen sie und ihre Verwandten sich, was der eigentliche Anlass für das Wiedersehen ist.",
-    "trailer": "https://www.youtube.com/watch?v=71c8yHiLloM",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
-  "hasenheide-753370": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-753370",
-    "title": "Triangle of Sadness (OmU)",
-    "normalizedTitle": "TRIANGLE OF SADNESS",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Do., 24.08",
-    "timestamp": 1692835200000,
-    "time": "20:30",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/753370?layout=shows",
-    "img": "https://media.kinoheld.de/vI4B2Yzt26T6URR-GwaJdxDAd8U=/400x560/images%2Ffilm%2Ftriangle-of-sadness-34373.v11.jpg",
-    "description": "Das junge Männer-Model Carl (Harris Dickinson) und die erfolgreiche Influencerin Yaya (Charlbi Dean Kriek), in deren Beziehung es ein wenig kriselt, sind es gewohnt, ihr Luxus-Leben auf Instagram zu vermarkten. Als sie auf eine Kreuzfahrt für Superreiche eingeladen werden, können sie Erholung und Arbeit perfekt miteinander verbinden – sich mit einem Champagner-Glas auf dem Sonnendeck zu räkeln, ist schließlich absolut social-media-tauglich. Hinter den Kulissen geht es jedoch weit weniger paradiesisch zu. Während sich der dauerbetrunkene, marxistische Kapitän (Woody Harrelson) in seiner Kabine einschließt, versucht die Crew unter Leitung ihrer perfektionistischen Chefin Paula (Vicki Berlin), den verwöhnten Gästen jeden noch so absurden Wunsch zu erfüllen. Als das obligatorische Kapitänsdinner, zu dem sich der Captain dann doch noch breitschlagen lässt, ausgerechnet während eines Sturms stattfindet, laufen die Dinge jedoch völlig aus dem Ruder.",
-    "trailer": "https://www.youtube.com/watch?v=SEd70H2p2RI",
-    "available": -1,
     "reserved": 0,
     "bookable": true
   },
@@ -1878,7 +1757,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/755976?layout=shows",
     "img": "https://media.kinoheld.de/ZJG3PUCjc6NMiIqyhl7SN9zW9e0=/400x560/images%2Ffilm%2Feverything-everywhere-all-at-once-22045.v267.jpg",
     "description": "Evelyn Wang führt einen Waschsalon und kämpft mit Steuerproblemen und Familienkonflikten. Während sie die Geburtstagsparty ihres Vaters organisiert, findet ihr Ehemann Waymond keine Gelegenheit, das Thema Scheidung anzusprechen. Ihre Tochter Joy verärgert sie zusätzlich, indem sie plant, ihre Freundin Becky zur Feier mitzubringen, obwohl Evelyn Schwierigkeiten mit Joys sexueller Orientierung hat. Evelyns Leben verlief nicht wie erhofft. Doch bald bietet sich ihr eine unerwartete Chance, alles zu verändern.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=nz-eUNVQpzk",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2237,7 +2116,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/755989?layout=shows",
     "img": "https://media.kinoheld.de/WAXbQR3yBQU_h22C9SOTe4as96g=/400x560/images%2Ffilm%2Fpulp-fiction-16667.v43.jpg",
     "description": "Quentin Tarantinos zweiter Film, genannt nach den auf billigem Papier gedruckten amerikanischen \"Hard-boiled\"-Kriminalromanen, gewann 1994 in Cannes die Goldene Palme und 1995 den Oscar für das Beste Originaldrehbuch und ging als Meisterwerk der Postmoderne in die Filmgeschichte ein. PULP FICTION weist Tarantino als Kenner der US-Trivial-Kulturgeschichte aus und als jemanden, der die Tradition der Mord-und-Totschlag-Geschichten der 30er bis 50er Jahre mit den Mitteln der 90er fortzusetzten versteht, ohne sich als billiger Jakob des Zitats gebärden zu müssen. Der Film versammelt Stars wie Harvey Keitel, Tim Roth, Uma Thurman, Bruce Willis und - in einem sensationellen Comeback - John Travolta in einer bleihaltigen und schwarzhumorigen Story aus der Unterwelt, die bevölkert wird von minderbemittelten Profikillern, diebischen Amateuren und bestechlichen Preisboxern.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=wleLXt7E3v0",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2474,8 +2353,8 @@
     "img": "https://media.kinoheld.de/KTyXy5HXH03XdPIdB5ETqAPoNoM=/400x560/images%2Ffilm%2Fder-gesang-der-flusskrebse-22823.v2.jpg",
     "description": "Kya (Daisy Edgar-Jones) wurde im Alter von sechs Jahren von ihrer Familie verlassen und wird in den rauen Sumpfgebieten von North Carolina erwachsen. Jahrelang hielten sich hartnäckige Gerüchte über das „Marsch-Mädchen“ in Barkley Cove und isolierten die scharfsinnige und widerstandsfähige Kya von ihrer Gemeinde. Doch angezogen von zwei jungen Männern aus der Stadt, öffnet sich Kya schließlich einer neuen und verblüffenden Welt. Doch als Chase Andrews (Harris Dickinson) tot aufgefunden wird, gerät die schüchterne Kya schnell ins Visier der Ermittlungen. Während sich der Fall entwickelt, wird das Urteil darüber, was tatsächlich passiert ist, immer unklarer und droht die vielen Geheimnisse zu enthüllen, die im Sumpf lagen.\r\n\r\nDer Film basiert auf dem gleichnamigen Bestseller-Roman der Autorin Delia Owens, der erstmals 2019 in deutscher Ausgabe veröffentlicht wurde.",
     "trailer": "https://www.youtube.com/watch?v=tQ5HUpemaPk",
-    "available": 82,
-    "reserved": 6,
+    "available": 80,
+    "reserved": 8,
     "bookable": true
   },
   "central-2798897143": {
@@ -2520,7 +2399,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2798897168?layout=shows",
     "img": "https://media.kinoheld.de/Z7e_CfPVA2B7jrk6v9iRAUEdvv8=/400x560/images%2Ffilm%2F4%2Fdie-taschendiebin-the-handmaiden-3826.v1.jpg",
     "description": "Korea in den 1930er Jahren. Die schöne, aber unnahbare Lady Hideko lebt mit ihrem dominanten Onkel Kouzuki und ihrem ererbten Vermögen in einem abgelegenen Anwesen, dessen Herzstück eine hingebungsvoll gepflegte und bewachte Bibliothek ist. Kouzuki sammelt und verkauft Bücher voll schonungsloser Erotik, die Hideko zahlungskräftigen Herren vorlesen muss, um so den Preis der Bücher in die Höhe zu treiben. Eines Tages kommt ein neues Dienstmädchen, die junge und naive Sookee, ins Haus von Lady Hideko. Doch das Mädchen hat ein Geheimnis: Sookee ist eine Taschendiebin und Betrügerin, engagiert, um Hideko dem gerissenen Grafen Fujiwara in die Hände zu spielen, der sie nach der Hochzeit um ihr Vermögen bringen will. Doch zwischen den beiden jungen Frauen entwickelt sich etwas Unerwartetes: ein ganz eigenes Begehren, eine ungeahnte Zuneigung, die die Karten der Macht neu verteilt. (Quelle: Verleih)",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=2mOwA1RXUz0",
     "available": 76,
     "reserved": 12,
     "bookable": true
@@ -2592,7 +2471,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2798897839?layout=shows",
     "img": "https://media.kinoheld.de/yGK64I7GGQmboVjXKAOnZcqsar8=/400x560/images%2Ffilm%2Fdecision-to-leave-37945.v10.jpg",
     "description": "Ein passionierter Bergsteiger wird am Fuße eines hohen Felsen in der Nähe von Seoul tot aufgefunden. War es ein Unfall, Selbstmord oder gar Mord? Inspektor Hae-joon (Park Hae-il) wird mit dem Fall beauftragt. Alles deutet auf einen tragischen Unfall hin, doch Hae-joon kommt ins zweifeln. Sein Verdacht fällt auf die schöne, junge Witwe Seo-rae (Tang Wei) des Verstorbenen. Doch sie hat ein Alibi. Hae-joon wird besessen und fasziniert von Seo-rae und vernachlässig nach und nach die Fernbeziehung zu seiner Frau. Er beobachtet in seinen schlaflosen Nächten das Anwesen der Tatverdächtigen – und verfällt ihr immer mehr. Seo-rae geht auf sein Spiel ein. Doch sein Verdacht bleibt.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=0WH5LdCnvx8",
     "available": 83,
     "reserved": 5,
     "bookable": true
@@ -2616,7 +2495,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2798897865?layout=shows",
     "img": "https://media.kinoheld.de/ZJG3PUCjc6NMiIqyhl7SN9zW9e0=/400x560/images%2Ffilm%2Feverything-everywhere-all-at-once-22045.v267.jpg",
     "description": "Evelyn Wang führt einen Waschsalon und kämpft mit Steuerproblemen und Familienkonflikten. Während sie die Geburtstagsparty ihres Vaters organisiert, findet ihr Ehemann Waymond keine Gelegenheit, das Thema Scheidung anzusprechen. Ihre Tochter Joy verärgert sie zusätzlich, indem sie plant, ihre Freundin Becky zur Feier mitzubringen, obwohl Evelyn Schwierigkeiten mit Joys sexueller Orientierung hat. Evelyns Leben verlief nicht wie erhofft. Doch bald bietet sich ihr eine unerwartete Chance, alles zu verändern.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=nz-eUNVQpzk",
     "available": 78,
     "reserved": 10,
     "bookable": true
@@ -2712,30 +2591,6 @@
     "trailer": "https://www.youtube.com/watch?v=VRgT7IKt6W8",
     "available": 87,
     "reserved": 1,
-    "bookable": true
-  },
-  "pompeji ostkreuz-2829268461": {
-    "cinemaId": "2153",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-    "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-    "cinemaShortName": "pompeji ostkreuz",
-    "id": "pompeji ostkreuz-2829268461",
-    "title": "AFTERSUN (OmdU)",
-    "normalizedTitle": "AFTERSUN",
-    "version": {
-      "raw": "OmdU",
-      "original": false,
-      "english": false
-    },
-    "date": "Do., 24.08",
-    "timestamp": 1692835200000,
-    "time": "20:45",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2829268461?layout=shows",
-    "img": "https://media.kinoheld.de/eFSdxTLn46QIYD9rwAx0Vqn8Mh8=/400x560/images%2Ffilm%2Faftersun-360771685622270168564985016870899721687101420168729158616872944041688041588168806013216883911721688400297.v66.jpg",
-    "description": "Die 11-jährige Sophie genießt die seltene gemeinsame Zeit mit ihrem liebevollen und idealistischen Vater Calum in einem verblassenden Ferienort. Zwanzig Jahre später werden Sophies zärtliche Erinnerungen an ihren letzten Urlaub zu einem kraftvollen und herzzerreißenden Porträt ihrer Beziehung.",
-    "trailer": "https://youtu.be/vXKcWRu8K_U",
-    "available": -1,
-    "reserved": 0,
     "bookable": true
   },
   "pompeji ostkreuz-2829268420": {
@@ -3862,24 +3717,6 @@
     "trailer": "https://www.youtube.com/watch?v=8zIf0XvoL9Y",
     "bookable": true
   },
-  "kulturforum-1692909900000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1692909900000",
-    "title": "Past Lives im Sommerkino",
-    "normalizedTitle": "PAST LIVES IM SOMMERKINO",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Do., 24.08",
-    "timestamp": 1692909900000,
-    "time": "20:45",
-    "url": "https://www.yorck.de/filme/past-lives-im-sommerkino"
-  },
   "kulturforum-1693082700000": {
     "cinemaId": "sommerkino-kulturforum",
     "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
@@ -3918,8 +3755,8 @@
     "img": "https://images.cinetixx.com/posters/2845852584/thumbnails/2845852584_211_300.jpg",
     "description": "In Barbieland ist alles an seinem Platz, die Frisur sitzt, die Kleidung und jedes Accessoire passen zueinander, kurz: es ist eine perfekte Welt, zumindest äußerlich. Wer hier leben will, muss sich an die aufgestellten Normen halten. Hausherrin ist die blonde Barbie (Margot Robbie), an ihrer Seite der blonde Ken (Ryan Gosling). Als eine der anderen Barbies sich für den Geschmack der Gemeinde zu exzentrisch verhält, wird sie verbannt. Sie landet in der realen Welt und entdeckt, was es dort für Abenteuer zu erleben gibt. Sie erkennt dadurch aber auch, was echte Perfektion bedeutet, und dass diese nicht am Aussehen festgemacht werden kann. Sie kehrt nach Barbieland zurück und möchte ihre Freunde dort an ihren neu gewonnen Erkenntnissen teilhaben lassen.",
     "trailer": "https://www.youtube.com/watch?v=eBvCo1ImAH4&ab_channel=WarnerBros.DE",
-    "available": 117,
-    "reserved": 83,
+    "available": 118,
+    "reserved": 82,
     "bookable": true
   },
   "weissensee-1693598400000": {
@@ -3944,30 +3781,6 @@
     "trailer": "https://www.youtube.com/watch?v=5PjTRyoToho&ab_channel=MarvelDeutschland",
     "available": 196,
     "reserved": 4,
-    "bookable": true
-  },
-  "weissensee-1692909000000": {
-    "cinemaId": "2527240812",
-    "cinemaUrl": "https://booking.cinetixx.de/frontend/#/program/2527240812",
-    "cinemaName": "Freiluftbühne Weißensee",
-    "cinemaShortName": "weissensee",
-    "id": "weissensee-1692909000000",
-    "url": "https://booking.cinetixx.de/frontend/index.html?cinemaId=2527240812&showId=2814697491&bgswitch=false&resize=false",
-    "date": "Do., 24.08",
-    "timestamp": 1692909000000,
-    "time": "20:30",
-    "title": "MONTANA SACRA - DER HEILIGE BERG",
-    "version": {
-      "raw": "OmU, Originalversion",
-      "original": true,
-      "english": false
-    },
-    "normalizedTitle": "MONTANA SACRA - DER HEILIGE BERG",
-    "img": "https://images.cinetixx.com/posters/718498543/thumbnails/718498543_211_300.jpg",
-    "description": "",
-    "trailer": "https://www.youtube.com/watch?v=l8X7AlYsHg8",
-    "available": 192,
-    "reserved": 8,
     "bookable": true
   },
   "weissensee-1693684800000": {
