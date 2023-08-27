@@ -24,30 +24,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "fhain-899": {
-    "description": "Mit einem bunten Jubiläumsprogramm und sommerlichen Spielaktionen, Live-Musik, Beatbox, Breakdance, Stunt- und Feuershow, Filmgästen und einem spannenden Ferienfilm nach Sonnenuntergang.\nZum Film: Endlich Sommerferien – eigentlich die schönste Zeit des Jahres für die dreizehnjährige Sofija. Doch anstatt mit ihren Freundinnen in Belgrad abzuhängen, muss sie mit ihrer Oma auf die kroatische Insel Hvar zu Omas Schwester Lucija fahren. Für Sofija ein absoluter Teenager-Albtraum: Um sie herum nur alte Leute, kein Internet und Mücken ohne Ende. Wie soll sie es hier bloß zwei Wochen aushalten? Doch alles verändert sich, als Sofija neue Freunde findet, sich zum ersten Mal richtig verliebt und ein lang gehütetes Familiengeheimnis aufdeckt…",
-    "rawVersion": "30. MondLichtFest für Kids & Co. ab 9 Jahre mit der Preview: Der Sommer, als ich fliegen lernte",
-    "cinemaId": "fh_freiluftkino",
-    "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
-    "cinemaName": "Freiluftkino Friedrichshain",
-    "cinemaShortName": "fhain",
-    "id": "fhain-899",
-    "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/899",
-    "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=888",
-    "title": "30. MondLichtFest für Kids & Co. ab 9 Jahre mit der Preview: Der Sommer, als ich fliegen lernte",
-    "normalizedTitle": "30. MONDLICHTFEST FÜR KIDS & CO. AB 9 JAHRE MIT DER PREVIEW: DER SOMMER, ALS ICH FLIEGEN LERNTE",
-    "version": {
-      "raw": "30. MondLichtFest für Kids & Co. ab 9 Jahre mit der Preview: Der Sommer, als ich fliegen lernte",
-      "original": false,
-      "english": false
-    },
-    "date": "Sa., 26.08",
-    "timestamp": 1693072800000,
-    "time": "18:00",
-    "available": 0,
-    "reserved": 0,
-    "bookable": true
-  },
   "fhain-998": {
     "trailer": "https://www.youtube.com/watch?v=NELUoe-zxwM",
     "description": "Wir waren begeistert von Greta Gerwigs Film und können guten Gewissens sagen: Das großartige und lustige Sommer-Kino-Wunder in der entspannten Atmosphäre unseres Kinos zu genießen: Besser geht’s nicht.",
@@ -581,31 +557,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "xberg-940": {
-    "trailer": "https://www.youtube.com/watch?v=qiepdcWFu9Y",
-    "description": "Das Berlinale Urteil der FR zum Film: \"Dürfte sich recht schnell zum Kultfilm mausern\". Und yes hier sind wir mit David Wnendts großartigem Film: Lukas (Levy Rico Arcos) hat eigentlich das richtige Gespür um Trouble aus dem Weg zu gehen. Praktisch haut das für ihn und seine Kumpels an diesen Rekordsommer-Tag des Jahres  2003 aber gar nicht hin. Der Film erzählt \"in einem mitreißenden Mix der Genres und visuellen Stile unverstellt vom Erwachsenwerden unter schwierigen Umständen, von erster Liebe und tiefer Freundschaft, von der Widerstandskraft junger Menschen. Ein energetischer Film unter Starkstrom.\"radioeins",
-    "rawVersion": "Sonne und Beton",
-    "cinemaId": "kb_freiluftkino",
-    "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
-    "cinemaName": "Freiluftkino Kreuzberg",
-    "cinemaShortName": "xberg",
-    "id": "xberg-940",
-    "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/940",
-    "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=928",
-    "title": "Sonne und Beton / dt.m.engl.Ut",
-    "normalizedTitle": "SONNE UND BETON / DT.M.ENGL.UT",
-    "version": {
-      "raw": "Sonne und Beton",
-      "original": false,
-      "english": false
-    },
-    "date": "Sa., 26.08",
-    "timestamp": 1693080900000,
-    "time": "20:15",
-    "available": 0,
-    "reserved": 0,
-    "bookable": true
-  },
   "rehberge-948": {
     "trailer": "https://www.youtube.com/watch?v=cHLLOf-rCHs",
     "description": "Solltet ihr Zweifel hegen, ob Kunst, Wut und persönliches Engagement einen nachhaltigen Wandel bewirken können, so ist Nan Goldin, Fotografin und Aktivistin, ein beeindruckender Beweis dafür. Ihr Kampf gegen die Oxycodon-Hersteller-Familie Sackler, die für die Opioidkrise in den Vereinigten Staaten mitverantwortlich und der Nan Golding fast selbst erlegen wäre, ist wirkungsmächtiges Kino \"at best\". \"Ein überragender und umwerfender Film von schockierender Intelligenz und noch größerer emotionaler Kraft\" Indiewire \"Angst gehört nicht zu Goldins Vokabular, weder kreativ noch persönlich.\" Observer\nDer neue Dokumentarfilm von Laura Poitras wurde mit dem Goldenen Löwen der Filmfestspiele Venedig 2022 ausgezeichnet.\n",
@@ -631,7 +582,7 @@
     "reserved": 0,
     "bookable": true
   },
-  "rehberge-945": {
+  "rehberge-957": {
     "trailer": "https://www.youtube.com/watch?v=NELUoe-zxwM",
     "description": "Wir waren begeistert von Greta Gerwigs Film und können guten Gewissens sagen: Das großartige und lustige Sommer-Kino-Wunder in der entspannten Atmosphäre unseres Kinos zu genießen: Besser geht’s nicht.",
     "rawVersion": "Barbie dt. Fassg",
@@ -639,8 +590,8 @@
     "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
     "cinemaName": "Freiluftkino Rehberge",
     "cinemaShortName": "rehberge",
-    "id": "rehberge-945",
-    "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/945",
+    "id": "rehberge-957",
+    "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/957",
     "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=921",
     "title": "Barbie / dt.Fassg./ ohne Ut",
     "normalizedTitle": "BARBIE / DT.FASSG./ OHNE UT",
@@ -649,9 +600,9 @@
       "original": false,
       "english": false
     },
-    "date": "Sa., 26.08",
-    "timestamp": 1693080900000,
-    "time": "20:15",
+    "date": "Fr., 08.09",
+    "timestamp": 1694202300000,
+    "time": "19:45",
     "available": 0,
     "reserved": 0,
     "bookable": true
@@ -922,78 +873,6 @@
     "timestamp": 1694288700000,
     "time": "19:45",
     "available": 0,
-    "reserved": 0,
-    "bookable": true
-  },
-  "hasenheide-753374": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-753374",
-    "title": "Ruby taucht ab ",
-    "normalizedTitle": "RUBY TAUCHT AB",
-    "version": {
-      "raw": "",
-      "original": false,
-      "english": false
-    },
-    "date": "Sa., 26.08",
-    "timestamp": 1693008000000,
-    "time": "16:00",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/753374?layout=shows",
-    "img": "https://media.kinoheld.de/1YQ3PE5l8aryMHPgUnSIBk0dwfU=/400x560/images%2Ffilm%2Fruby-taucht-ab-46297168475516116847551621684755165.v2.jpg",
-    "description": "Ruby (Lana Condor) ist eine schüchterne Teenagerin aus einer Familie von Seemonstern. Sie wächst in einer Küstenstadt in Florida auf und hat Angst, dass ihr Geheimnis ans Licht kommt. Sie kämpft damit, sich an ihrer Highschool einzufinden, da ihre überbesorgte Mutter ihr den Kontakt zum Wasser verbietet. Doch , dass sie aus einer sagenumwobenen königlichen Familie legendärer Seekraken stammt und dass ihr Schicksal in den Tiefen des Wassers liegt, das größer ist, als sie sich jemals hätte vorstellen können, damit rechnet Ruby nicht.",
-    "trailer": "https://www.youtube.com/watch?v=9ZPaYurTWWY",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
-  "hasenheide-753375": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-753375",
-    "title": "Mamma Mia! (OmU)",
-    "normalizedTitle": "MAMMA MIA!",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Sa., 26.08",
-    "timestamp": 1693008000000,
-    "time": "18:00",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/753375?layout=shows",
-    "img": "https://media.kinoheld.de/VcEK5MYMhlmp6268_bEAAmpWDb8=/400x560/images%2Ffilm%2Fmamma-mia-14295.v68.jpg",
-    "description": "Sophie hat endlich den Mann ihrer Träume gefunden und möchte mit ihm den Bund fürs Leben eingehen. Doch für die perfekte Hochzeit fehlt ihr vor allem eines: ein Vater. Denn leider hat sie den nie kennen gelernt und so auch niemanden, der sie am schönsten Tag im Leben einer Frau zum Traualter führen könnte. Im Tagebuch ihrer Mutter findet sie jedoch gleich drei Männernamen, die als ihr Erzeuger in Frage kommen würden. Und so lädt sie kurzerhand einfach alle ein. (j.b.)",
-    "trailer": "https://www.youtube.com/watch?v=pSF1JqY6yPQ",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
-  "hasenheide-753376": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-753376",
-    "title": "Barbie (OmU)",
-    "normalizedTitle": "BARBIE",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Sa., 26.08",
-    "timestamp": 1693008000000,
-    "time": "20:30",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/753376?layout=shows",
-    "img": "https://media.kinoheld.de/COX5p-Irdj5hsg0VVw93UglhF5w=/400x560/images%2Ffilm%2Fbarbie-4682716859954471685995449.v1.jpg",
-    "description": "Im glitzernden Barbieland wird Barbie aufgrund ihrer vermeintlichen Unvollkommenheiten ausgestoßen und beschließt daraufhin, in die Menschenwelt auszuwandern. Dort entdeckt sie, dass Perfektion nur im Inneren zu finden ist. Hinter der glänzenden Fassade von Barbieland existieren strenge Regeln, nach denen nur die Schönsten und Perfektesten akzeptiert werden. Nachdem Barbie ausgestoßen wird, verwandelt sie sich magischerweise in einen echten Menschen. In der realen Welt lernt sie, sich selbst und ihre eigenen Stärken zu akzeptieren. Durch ihre Abenteuer erkennt sie die Bedeutung von Selbstakzeptanz und entdeckt, dass wahre Schönheit von innen kommt.",
-    "trailer": "https://www.youtube.com/watch?v=0BxBCVmo8YQ",
-    "available": -1,
     "reserved": 0,
     "bookable": true
   },
@@ -1636,7 +1515,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/755976?layout=shows",
     "img": "https://media.kinoheld.de/ZJG3PUCjc6NMiIqyhl7SN9zW9e0=/400x560/images%2Ffilm%2Feverything-everywhere-all-at-once-22045.v267.jpg",
     "description": "Evelyn Wang führt einen Waschsalon und kämpft mit Steuerproblemen und Familienkonflikten. Während sie die Geburtstagsparty ihres Vaters organisiert, findet ihr Ehemann Waymond keine Gelegenheit, das Thema Scheidung anzusprechen. Ihre Tochter Joy verärgert sie zusätzlich, indem sie plant, ihre Freundin Becky zur Feier mitzubringen, obwohl Evelyn Schwierigkeiten mit Joys sexueller Orientierung hat. Evelyns Leben verlief nicht wie erhofft. Doch bald bietet sich ihr eine unerwartete Chance, alles zu verändern.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=nz-eUNVQpzk",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -1995,7 +1874,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/755989?layout=shows",
     "img": "https://media.kinoheld.de/WAXbQR3yBQU_h22C9SOTe4as96g=/400x560/images%2Ffilm%2Fpulp-fiction-16667.v43.jpg",
     "description": "Quentin Tarantinos zweiter Film, genannt nach den auf billigem Papier gedruckten amerikanischen \"Hard-boiled\"-Kriminalromanen, gewann 1994 in Cannes die Goldene Palme und 1995 den Oscar für das Beste Originaldrehbuch und ging als Meisterwerk der Postmoderne in die Filmgeschichte ein. PULP FICTION weist Tarantino als Kenner der US-Trivial-Kulturgeschichte aus und als jemanden, der die Tradition der Mord-und-Totschlag-Geschichten der 30er bis 50er Jahre mit den Mitteln der 90er fortzusetzten versteht, ohne sich als billiger Jakob des Zitats gebärden zu müssen. Der Film versammelt Stars wie Harvey Keitel, Tim Roth, Uma Thurman, Bruce Willis und - in einem sensationellen Comeback - John Travolta in einer bleihaltigen und schwarzhumorigen Story aus der Unterwelt, die bevölkert wird von minderbemittelten Profikillern, diebischen Amateuren und bestechlichen Preisboxern.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=wleLXt7E3v0",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2231,8 +2110,8 @@
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2798897143?layout=shows",
     "img": "https://media.kinoheld.de/HBgWLB-4I1riFj4-St5AVmdD4ng=/400x560/images%2Ffilm%2Fmo%2F172-58485.v2.jpg",
     "description": "Professionals, amateurs, hobbyists and beginners are invited to show their view on the city or on the way of living in Berlin.",
-    "available": 62,
-    "reserved": 5,
+    "available": 58,
+    "reserved": 10,
     "bookable": true
   },
   "central-2798897168": {
@@ -2254,7 +2133,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2798897168?layout=shows",
     "img": "https://media.kinoheld.de/Z7e_CfPVA2B7jrk6v9iRAUEdvv8=/400x560/images%2Ffilm%2F4%2Fdie-taschendiebin-the-handmaiden-3826.v1.jpg",
     "description": "Korea in den 1930er Jahren. Die schöne, aber unnahbare Lady Hideko lebt mit ihrem dominanten Onkel Kouzuki und ihrem ererbten Vermögen in einem abgelegenen Anwesen, dessen Herzstück eine hingebungsvoll gepflegte und bewachte Bibliothek ist. Kouzuki sammelt und verkauft Bücher voll schonungsloser Erotik, die Hideko zahlungskräftigen Herren vorlesen muss, um so den Preis der Bücher in die Höhe zu treiben. Eines Tages kommt ein neues Dienstmädchen, die junge und naive Sookee, ins Haus von Lady Hideko. Doch das Mädchen hat ein Geheimnis: Sookee ist eine Taschendiebin und Betrügerin, engagiert, um Hideko dem gerissenen Grafen Fujiwara in die Hände zu spielen, der sie nach der Hochzeit um ihr Vermögen bringen will. Doch zwischen den beiden jungen Frauen entwickelt sich etwas Unerwartetes: ein ganz eigenes Begehren, eine ungeahnte Zuneigung, die die Karten der Macht neu verteilt. (Quelle: Verleih)",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=2mOwA1RXUz0",
     "available": 76,
     "reserved": 12,
     "bookable": true
@@ -2326,7 +2205,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2798897839?layout=shows",
     "img": "https://media.kinoheld.de/yGK64I7GGQmboVjXKAOnZcqsar8=/400x560/images%2Ffilm%2Fdecision-to-leave-37945.v10.jpg",
     "description": "Ein passionierter Bergsteiger wird am Fuße eines hohen Felsen in der Nähe von Seoul tot aufgefunden. War es ein Unfall, Selbstmord oder gar Mord? Inspektor Hae-joon (Park Hae-il) wird mit dem Fall beauftragt. Alles deutet auf einen tragischen Unfall hin, doch Hae-joon kommt ins zweifeln. Sein Verdacht fällt auf die schöne, junge Witwe Seo-rae (Tang Wei) des Verstorbenen. Doch sie hat ein Alibi. Hae-joon wird besessen und fasziniert von Seo-rae und vernachlässig nach und nach die Fernbeziehung zu seiner Frau. Er beobachtet in seinen schlaflosen Nächten das Anwesen der Tatverdächtigen – und verfällt ihr immer mehr. Seo-rae geht auf sein Spiel ein. Doch sein Verdacht bleibt.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=0WH5LdCnvx8",
     "available": 83,
     "reserved": 5,
     "bookable": true
@@ -2350,7 +2229,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2798897865?layout=shows",
     "img": "https://media.kinoheld.de/ZJG3PUCjc6NMiIqyhl7SN9zW9e0=/400x560/images%2Ffilm%2Feverything-everywhere-all-at-once-22045.v267.jpg",
     "description": "Evelyn Wang führt einen Waschsalon und kämpft mit Steuerproblemen und Familienkonflikten. Während sie die Geburtstagsparty ihres Vaters organisiert, findet ihr Ehemann Waymond keine Gelegenheit, das Thema Scheidung anzusprechen. Ihre Tochter Joy verärgert sie zusätzlich, indem sie plant, ihre Freundin Becky zur Feier mitzubringen, obwohl Evelyn Schwierigkeiten mit Joys sexueller Orientierung hat. Evelyns Leben verlief nicht wie erhofft. Doch bald bietet sich ihr eine unerwartete Chance, alles zu verändern.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=nz-eUNVQpzk",
     "available": 76,
     "reserved": 12,
     "bookable": true
@@ -3501,48 +3380,6 @@
     "trailer": "https://www.youtube.com/watch?v=Ws6QT5q3YeM",
     "available": -1,
     "reserved": 0,
-    "bookable": true
-  },
-  "kulturforum-1693082700000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1693082700000",
-    "title": "The Rocky Horror Picture Show im Sommerkino",
-    "normalizedTitle": "THE ROCKY HORROR PICTURE SHOW IM SOMMERKINO",
-    "version": {
-      "raw": "OV",
-      "original": true,
-      "english": false
-    },
-    "date": "Sa., 26.08",
-    "timestamp": 1693082700000,
-    "time": "20:45",
-    "url": "https://www.yorck.de/filme/the-rocky-horror-picture-show-im-sommerkino"
-  },
-  "weissensee-1693081800000": {
-    "cinemaId": "2527240812",
-    "cinemaUrl": "https://booking.cinetixx.de/frontend/#/program/2527240812",
-    "cinemaName": "Freiluftbühne Weißensee",
-    "cinemaShortName": "weissensee",
-    "id": "weissensee-1693081800000",
-    "url": "https://booking.cinetixx.de/frontend/index.html?cinemaId=2527240812&showId=2814697550&bgswitch=false&resize=false",
-    "date": "Sa., 26.08",
-    "timestamp": 1693081800000,
-    "time": "20:30",
-    "title": "BARBIE",
-    "version": {
-      "raw": "OmU, Originalversion",
-      "original": true,
-      "english": false
-    },
-    "normalizedTitle": "BARBIE",
-    "img": "https://images.cinetixx.com/posters/2845852584/thumbnails/2845852584_211_300.jpg",
-    "description": "In Barbieland ist alles an seinem Platz, die Frisur sitzt, die Kleidung und jedes Accessoire passen zueinander, kurz: es ist eine perfekte Welt, zumindest äußerlich. Wer hier leben will, muss sich an die aufgestellten Normen halten. Hausherrin ist die blonde Barbie (Margot Robbie), an ihrer Seite der blonde Ken (Ryan Gosling). Als eine der anderen Barbies sich für den Geschmack der Gemeinde zu exzentrisch verhält, wird sie verbannt. Sie landet in der realen Welt und entdeckt, was es dort für Abenteuer zu erleben gibt. Sie erkennt dadurch aber auch, was echte Perfektion bedeutet, und dass diese nicht am Aussehen festgemacht werden kann. Sie kehrt nach Barbieland zurück und möchte ihre Freunde dort an ihren neu gewonnen Erkenntnissen teilhaben lassen.",
-    "trailer": "https://www.youtube.com/watch?v=eBvCo1ImAH4&ab_channel=WarnerBros.DE",
-    "available": 27,
-    "reserved": 173,
     "bookable": true
   },
   "weissensee-1693598400000": {
