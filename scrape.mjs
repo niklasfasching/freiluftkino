@@ -147,7 +147,7 @@ async function getYorckCinema(cinemaId, cinemaName, cinemaShortName) {
   const document = await getDocument(cinemaUrl);
   const data = JSON.parse(document.querySelector("#__NEXT_DATA__").innerHTML);
 
-  const shows = data.props.pageProps.filmsSpecials.flatMap(fs => {
+  const shows = data.props.pageProps.filmsSpecials?.flatMap(fs => {
     if (fs.fields.title === "Sommerkino 2022") {
       return [];
     }
@@ -168,7 +168,7 @@ async function getYorckCinema(cinemaId, cinemaName, cinemaShortName) {
         url: "https://www.yorck.de/filme/" + fs.fields.slug,
       };
     });
-  });
+  }) || [];
 
   const movies = {};
   for (const show of shows) {
