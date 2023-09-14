@@ -1,52 +1,4 @@
 {
-  "hasenheide-758317": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-758317",
-    "title": "Elemental ",
-    "normalizedTitle": "ELEMENTAL",
-    "version": {
-      "raw": "",
-      "original": false,
-      "english": false
-    },
-    "date": "Mi., 13.09",
-    "timestamp": 1694563200000,
-    "time": "16:30",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/758317?layout=shows",
-    "img": "https://media.kinoheld.de/ex8d5Mo8wlLT6loJKzgzmSRE-JA=/400x560/images%2Ffilm%2Felemental-41851168569322616859515191685951526168595153816859574741685957587.v10.jpeg",
-    "description": "Im neuesten Animationsfilm von Disney und Pixar, \"Elemental\", wird die faszinierende Welt von Element City zum Leben erweckt. Hier teilen Feuer-, Wasser-, Erd- und Luftbewohner:innen gemeinsam ihren Lebensraum. Die Hauptfigur Ember ist eine mutige und temperamentvolle junge Frau des Feuers, die durch ihre Freundschaft mit dem liebenswerten Tollpatsch Wade (Wasser) beginnt, ihre Überzeugungen über die Welt, in der sie leben, zu hinterfragen. \"Elemental\" verspricht ein originelles und unterhaltsames Abenteuer für die ganze Familie zu sein.",
-    "trailer": "https://www.youtube.com/watch?v=1u4MSQ7YByg",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
-  "hasenheide-757714": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-757714",
-    "title": "She Said (OmU)",
-    "normalizedTitle": "SHE SAID",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Mi., 13.09",
-    "timestamp": 1694563200000,
-    "time": "19:00",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/757714?layout=shows",
-    "img": "https://media.kinoheld.de/IWqhLj5X9jFn9W0-h0JRGkUmz0o=/400x560/images%2Ffilm%2Fshe-said-39657.v2.png",
-    "description": "Die Journalistinnen Jodi Kantor und Megan Twohey arbeiten bei der New York Times und gehen den Vorwürfen sexuellen Fehlverhaltens von Harvey Weinstein auf den Grund. Sie decken ein Netz von Lügen und sexuellen Missbräuchen auf. Mit ihrer Arbeit haben sie dazu beigetragen, die #MeToo-Bewegung ins Leben zu rufen und das jahrzehntelange Schweigen über das Thema sexuelle Übergriffe in Hollywood zu brechen.",
-    "trailer": "https://www.youtube.com/watch?v=7S9qqZ69alI",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
   "hasenheide-757715": {
     "cinemaId": "580",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
@@ -184,9 +136,9 @@
     "timestamp": 1694822400000,
     "time": "18:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/748292?layout=shows",
-    "available": -1,
+    "available": 0,
     "reserved": 0,
-    "bookable": true
+    "bookable": false
   },
   "hasenheide-757720": {
     "cinemaId": "580",
@@ -563,7 +515,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/757778?layout=shows",
     "img": "https://media.kinoheld.de/ZJG3PUCjc6NMiIqyhl7SN9zW9e0=/400x560/images%2Ffilm%2Feverything-everywhere-all-at-once-22045.v267.jpg",
     "description": "Evelyn Wang führt einen Waschsalon und kämpft mit Steuerproblemen und Familienkonflikten. Während sie die Geburtstagsparty ihres Vaters organisiert, findet ihr Ehemann Waymond keine Gelegenheit, das Thema Scheidung anzusprechen. Ihre Tochter Joy verärgert sie zusätzlich, indem sie plant, ihre Freundin Becky zur Feier mitzubringen, obwohl Evelyn Schwierigkeiten mit Joys sexueller Orientierung hat. Evelyns Leben verlief nicht wie erhofft. Doch bald bietet sich ihr eine unerwartete Chance, alles zu verändern.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=nz-eUNVQpzk",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -611,7 +563,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/757780?layout=shows",
     "img": "https://media.kinoheld.de/hRcSVBM_ERPHJrUjSlh_3bguw1g=/400x560/images%2Ffilm%2Fbones-and-all-36777.v2.png",
     "description": "Die junge Maren, die von ihrer Mutter verlassen wurde, begibt sich auf eine 1.000 Meilen lange Odyssee durch die Straßen Amerikas, wo sie Lee trifft, einen entrechteten Herumtreiber. Doch trotz ihrer Bemühungen führen alle Wege zurück in ihre schreckliche Vergangenheit und zu einem letzten Kampf, der entscheiden wird, ob ihre Liebe ihr Anderssein überleben kann.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=av8bPV4jg2I",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -755,7 +707,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/757786?layout=shows",
     "img": "https://media.kinoheld.de/zswKypjuibzjjunrklQ_wq1xIRk=/400x560/images%2Ffilm%2Fthe-menu-351071686530021168653107616905043991690507829169201587916920158891692015927.v111.jpg",
     "description": "Das junge Paar Margot und Tyler bereist und erkundet Orte, von denen nur wenige Menschen wissen oder Zugang dazu haben, um so in den Genuss der besten kulinatischen Angebote zu kommen. Ihre Abenteuer sind bei Freunden, Verwandten und Bekannten bekannt, und das Paar gilt inzwischen als Experten auf diesem Gebiet. Dank einer Entdeckung in den sozialen Medien hören sie von einem exklusiven, exzentrischen Restaurant, das alle Voraussetzungen für einen nächsten Besuch mitbringt, und reisen zu dessen Standort auf einer abgelegenen Insel, um das großartige und einzigartige Menü des Küchenchefs Slowik zu probieren. Doch schon bald stellt das Paar fest, dass die Speisekarte einige Überraschungen enthält, mit denen sie nicht gerechnet haben.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=0AbLLoQDtiQ",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -921,7 +873,7 @@
     "timestamp": 1696118400000,
     "time": "16:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/757820?layout=shows",
-    "img": "https://media.kinoheld.de/od1uzKeHA7Jmt_qEXiVyQdYoy70=/400x560/images%2Ffilm%2Fdie-schule-der-magischen-tiere-2-252771684888113168488862716865299241686530069168671180316882581271688258839168972689016897286521690409205169044890416904559361690459975169188670316919715671693096414161694562286.v340.jpg",
+    "img": "https://media.kinoheld.de/3lRGGn-LkRusLYnzutHOcy_CAME=/400x560/images%2Ffilm%2Fdie-schule-der-magischen-tiere-2-252771684888113168488862716865299241686530069168671180316882581271688258839168972689016897286521690409205169044890416904559361690459975169188670316919715671693096414161694647509.v341.jpg",
     "description": "Die Wintersteinschule ist eine außergewöhnliche Schule, da jeder Schüler die Möglichkeit hat, ein sprechendes Tier als Begleiter zu finden. Ida und ihr Freund Fuchs Rabbat haben bereits zusammen Abenteuer erlebt. Nun steht das 250. Schuljubiläum an und die Klasse muss zusammenarbeiten, um die Schulaufführung zu retten. Ida und Benni merken schnell, dass sie nur mit ihren magischen Tieren als Team arbeiten können, um das Problem zu lösen. Doch dann tauchen mysteriöse Löcher auf dem Schulgelände auf. Wird es den Schülern und ihren Tieren gelingen, das Rätsel zu lösen?",
     "trailer": "https://www.youtube.com/watch?v=_0O1EB592Ww",
     "available": -1,
@@ -1048,50 +1000,26 @@
     "reserved": 0,
     "bookable": true
   },
-  "central-2798898675": {
-    "cinemaId": "1839",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
-    "cinemaName": "central-kino-open-air",
-    "cinemaShortName": "central",
-    "id": "central-2798898675",
-    "title": "open air: Aftersun (OmU)",
-    "normalizedTitle": "AFTERSUN",
+  "nomadenkino-2868359698": {
+    "cinemaId": "1621",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/nomadenkino-berlin/shows/movies",
+    "cinemaName": "nomadenkino-berlin",
+    "cinemaShortName": "nomadenkino",
+    "id": "nomadenkino-2868359698",
+    "title": "FEMINISM WTF ",
+    "normalizedTitle": "FEMINISM WTF",
     "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Mi., 13.09",
-    "timestamp": 1694563200000,
-    "time": "20:00",
-    "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/2798898675?layout=shows",
-    "img": "https://media.kinoheld.de/eFSdxTLn46QIYD9rwAx0Vqn8Mh8=/400x560/images%2Ffilm%2Faftersun-360771685622270168564985016870899721687101420168729158616872944041688041588168806013216883911721688400297.v66.jpg",
-    "description": "Die 11-jährige Sophie genießt die seltene gemeinsame Zeit mit ihrem liebevollen und idealistischen Vater Calum in einem verblassenden Ferienort. Zwanzig Jahre später werden Sophies zärtliche Erinnerungen an ihren letzten Urlaub zu einem kraftvollen und herzzerreißenden Porträt ihrer Beziehung.",
-    "trailer": "https://www.youtube.com/watch?v=VRgT7IKt6W8",
-    "available": 48,
-    "reserved": 40,
-    "bookable": true
-  },
-  "pompeji ostkreuz-2853120220": {
-    "cinemaId": "2153",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-    "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-    "cinemaShortName": "pompeji ostkreuz",
-    "id": "pompeji ostkreuz-2853120220",
-    "title": "DUNKIRK (OmdU)",
-    "normalizedTitle": "DUNKIRK",
-    "version": {
-      "raw": "OmdU",
+      "raw": "",
       "original": false,
       "english": false
     },
-    "date": "Mi., 13.09",
-    "timestamp": 1694563200000,
-    "time": "20:15",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2853120220?layout=shows",
-    "img": "https://media.kinoheld.de/914vw_ouQyqDCe7LA5hshIBWEzY=/400x560/images%2Ffilm%2F4%2Fdunkirk-68181688750465.v7.jpg",
-    "description": "Vom renommierten Filmregisseur Christopher Nolan (Interstellar, Inception, The Dark Knight Trilogy). Zu Beginn von \"Dunkirk\" sind Hunderttausende britischer und alliierter Truppen vom Feind eingeschlossen. Am Strand von Dünkirchen haben sie sich bis ans Meer zurückgezogen - und befinden sich in einer ausweglosen Situation. Doch in Großbritannien ersinnt man eine kühne Rettungsmission, von der zuerst nur die wenigsten glauben, dass sie Aussicht auf Erfolg haben kann. Doch einige verwegene und mutige Männer machen sich daran, ihre Kameraden zu retten. Denn schließlich warten auf den Stränden vor Dünkirchen fast 400.000 Mann auf ihre Hilfe. (Quelle: Verleih)",
-    "trailer": "https://youtu.be/F-eMt3SrfFU",
+    "date": "Di., 19.09",
+    "timestamp": 1695081600000,
+    "time": "19:30",
+    "url": "https://www.kinoheld.de/cinema-berlin/nomadenkino-berlin/show/2868359698?layout=shows",
+    "img": "https://media.kinoheld.de/Z5cS2Gpknt_zlUGYeqBkLgUKy98=/400x560/images%2Ffilm%2F1691985755.v22.feminism-wtf-466891685594726168559472716915760061691611369169162532616916253351691625348169164014516916567621691668976169171174016917117501691726582169174960916917553701691798150169179815316918129551691884509169188451916918",
+    "description": "Der Feminismus gilt als die erfolgreichste soziale Bewegung des 20. Jahrhunderts, und dennoch wird deren Berechtigung ständig infrage gestellt. Warum regt die Diskussion über Geschlechterverhältnisse eigentlich so schrecklich auf?",
+    "trailer": "https://www.youtube.com/watch?v=oSSa5P-KCXM",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -1187,7 +1115,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2853122308?layout=shows",
     "img": "https://media.kinoheld.de/OGnG0mwybqYDnF5BCD4Pbvfg1Yk=/400x560/images%2Ffilm%2Fthe-dark-knight-49157169146967516914696751691539816169155705316918866651691886759169188901916918891571691889275169188935716927533691692765297.v11.jpg",
     "description": "Das Böse schläft nie. Schon gar nicht in Gotham City. Denn hier treibt das organisierte Verbrechen sein Unwesen und versetzt die Bewohner der Stadt in Angst und Schrecken. Gut nur, dass die in Batman ihren ganz persönlichen Rächer für das Gute haben. Denn der setzt alles daran, den Kriminellen endgültig das Handwerk zu legen und die Menschen vom Terror zu befreien. Doch gerade als Batmans Kampf gegen die dunklen Mächte erfolgreich zu sein scheint, taucht ein neuer Gegner in Gotham auf. Und der ist genialer und mächtiger als jeder seiner Feinde zuvor. (j.b.) Oscar 2009 Bester Nebendarsteller für Heath Ledger Bester Tonschnitt für Richard King Golden Globe Awards 2009 Bester Nebendarsteller für Heath Ledger",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=XL1og9BTZqY",
     "available": -1,
     "reserved": 0,
     "bookable": true
