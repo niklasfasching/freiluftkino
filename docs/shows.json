@@ -1,52 +1,4 @@
 {
-  "hasenheide-757783": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-757783",
-    "title": "Minions - Auf der Suche nach dem Mini-Boss ",
-    "normalizedTitle": "MINIONS - AUF DER SUCHE NACH DEM MINI-BOSS",
-    "version": {
-      "raw": "",
-      "original": false,
-      "english": false
-    },
-    "date": "Di., 26.09",
-    "timestamp": 1695686400000,
-    "time": "16:30",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/757783?layout=shows",
-    "img": "https://media.kinoheld.de/lkHIJ6v_hwZftzZPxxz2wXkomEY=/400x560/images%2Ffilm%2Frasenmaeher-minions-22205.v8.jpg",
-    "description": "Mit 12 Jahren ist Gru (Stimme im Original: Steve Carell, deutsche Stimme: Oliver Rohrbeck) noch weit davon entfernt, der Superschurke zu sein, als den ihn die Welt später kennen wird. In einem beschaulichen Vorort der 70er Jahre träumt er davon, seine Mitmenschen in Angst und Schrecken zu versetzen und vor allem seine großen Vorbilder zu beeindrucken: die Vicious 6, eine von allen gefürchtete Gruppe von Superbösewichten. Tatsächlich schafft es Gru, ein Vorstellungsgespräch bei seinen Idolen zu ergattern, um neues Mitglied der Truppe zu werden – doch die Vicious 6 lachen den schüchternen Knirps nur aus. Um ihnen zu beweisen, was wirklich in ihm steckt, stiehlt er ihnen ein mächtiges Artefakt – und steht fortan ganz oben auf der Abschussliste der Vicious 6. Zum Glück hat Gru seine kleinen, gelben Minions, die ihm dabei helfen, vor seinen neuen Gegnern zu fliehen und gleichzeitig seinen Status als aufsteigender Stern am Superschurken-Himmel auszubauen. Aber sehr zu Grus Verdruss stiften die Minions rund um Kevin, Stuart, Bob und Otto meistens nur neues Chaos, statt wirklich hilfreich zu sein.",
-    "trailer": "https://www.youtube.com/watch?v=MqmcwkIyW58",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
-  "hasenheide-757784": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-757784",
-    "title": "Amsterdam (OmU)",
-    "normalizedTitle": "AMSTERDAM",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Di., 26.09",
-    "timestamp": 1695686400000,
-    "time": "19:00",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/757784?layout=shows",
-    "img": "https://media.kinoheld.de/QAt0XtWPCCAEQVOgm21eXKQdQ2w=/400x560/images%2Ffilm%2Famsterdam-36601.v4.jpg",
-    "description": "In the 1930s, three friends—a doctor, a nurse, and an attorney—witness a murder, become suspects themselves and uncover one of the most outrageous plots in North American history.",
-    "trailer": "https://www.youtube.com/watch?v=vEKI7dxnvlk",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
   "hasenheide-757785": {
     "cinemaId": "580",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
@@ -90,7 +42,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/757786?layout=shows",
     "img": "https://media.kinoheld.de/zswKypjuibzjjunrklQ_wq1xIRk=/400x560/images%2Ffilm%2Fthe-menu-351071686530021168653107616905043991690507829169201587916920158891692015927.v111.jpg",
     "description": "Das junge Paar Margot und Tyler bereist und erkundet Orte, von denen nur wenige Menschen wissen oder Zugang dazu haben, um so in den Genuss der besten kulinatischen Angebote zu kommen. Ihre Abenteuer sind bei Freunden, Verwandten und Bekannten bekannt, und das Paar gilt inzwischen als Experten auf diesem Gebiet. Dank einer Entdeckung in den sozialen Medien hören sie von einem exklusiven, exzentrischen Restaurant, das alle Voraussetzungen für einen nächsten Besuch mitbringt, und reisen zu dessen Standort auf einer abgelegenen Insel, um das großartige und einzigartige Menü des Küchenchefs Slowik zu probieren. Doch schon bald stellt das Paar fest, dass die Speisekarte einige Überraschungen enthält, mit denen sie nicht gerechnet haben.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=0AbLLoQDtiQ",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -379,30 +331,6 @@
     "img": "https://media.kinoheld.de/SnSD6PT18Zh3eT9CkiYri-T7aBI=/400x560/images%2Ffilm%2Ffallende-blaetter-47221169321963316932196351693219640.v2.jpg",
     "description": "FALLENDE BLÄTTER erzählt von zwei einsamen Menschen (Alma Pöysti und Jussi Vatanen), die zufällig im nächtlichen Helsinki aufeinander treffen. Beide sind auf der Suche nach der ersten, einzigen und endgültigen Liebe ihres Lebens. Der Weg zu diesem ehrenwerten Ziel wird erschwert durch die Alkoholsucht des Mannes, verlorene Telefonnummern, die Unkenntnis des Namens und der Adresse des jeweils anderen – und nicht zuletzt durch die allgemeine Tendenz des Lebens, denjenigen, die ihr Glück suchen, Steine in den Weg zu legen.",
     "trailer": "https://www.youtube.com/watch?v=IYLMri_IybM",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
-  "pompeji ostkreuz-2853125452": {
-    "cinemaId": "2153",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-    "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-    "cinemaShortName": "pompeji ostkreuz",
-    "id": "pompeji ostkreuz-2853125452",
-    "title": "BLADE RUNNER - THE FINAL CUT (OmdU)",
-    "normalizedTitle": "BLADE RUNNER - THE FINAL CUT",
-    "version": {
-      "raw": "OmdU",
-      "original": false,
-      "english": false
-    },
-    "date": "Di., 26.09",
-    "timestamp": 1695686400000,
-    "time": "20:00",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2853125452?layout=shows",
-    "img": "https://media.kinoheld.de/Rlvgoo47ypko9w7LLmQ6JB2nXPQ=/400x560/images%2Ffilm%2Fblade-runner-1982-22987.v2.png",
-    "description": "Es ist das Jahr 2019. Der ehemalige Polizist Rick Deckard wird von reichen Industriellen beauftragt, die sogenannten `Replikanten' aufzuspüren und auszuschalten. Bei diesen handelt es sich um eine Gruppe Arbeitssklaven, die sich selbstständig gemacht hat und nun in der Unterwelt von Los Angelos nach ihrem Schöpfer sucht. Als sich Deckard unverhofft in eine Replikantin verliebt, die er töten soll, beginnt er allmählich, seinen Auftrag zu hinterfragen.",
-    "trailer": "https://youtu.be/qoEyZoOTtss",
     "available": -1,
     "reserved": 0,
     "bookable": true
