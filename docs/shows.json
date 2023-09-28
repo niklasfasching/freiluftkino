@@ -1,52 +1,4 @@
 {
-  "hasenheide-757785": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-757785",
-    "title": "Gestiefelte Kater, Der: Der letzte Wunsch ",
-    "normalizedTitle": "GESTIEFELTE KATER, DER: DER LETZTE WUNSCH",
-    "version": {
-      "raw": "",
-      "original": false,
-      "english": false
-    },
-    "date": "Mi., 27.09",
-    "timestamp": 1695772800000,
-    "time": "16:30",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/757785?layout=shows",
-    "img": "https://media.kinoheld.de/ryMhKcjzKtAPJ6Sj6iyCM7-PMFU=/400x560/images%2Ffilm%2Fder-gestiefelte-kater-2-36673.v281.jpg",
-    "description": "Auch ein Kater kann ein unangenehmes Erwachen haben. Nach unzähligen riskanten Reisen und achtlosen Abenteuern muss der gestiefelte Kater entsetzt feststellen, dass seine Leidenschaft für Gefahren letztlich ihren Preis hatte – in seiner Abenteuerlust hat er bereits acht seiner neun Leben verbraucht. Um für die dringend nötige neue Vitalität zu sorgen, begibt sich der charmante Schnurrhaargauner auf den langen Weg in den Schwarzen Wald, um dort den mythischen Wunschstern zu finden.",
-    "trailer": "https://www.youtube.com/watch?v=hydHoNNInzI",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
-  "hasenheide-757786": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-757786",
-    "title": "Menu, The (OmU)",
-    "normalizedTitle": "MENU, THE",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Mi., 27.09",
-    "timestamp": 1695772800000,
-    "time": "19:00",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/757786?layout=shows",
-    "img": "https://media.kinoheld.de/zswKypjuibzjjunrklQ_wq1xIRk=/400x560/images%2Ffilm%2Fthe-menu-351071686530021168653107616905043991690507829169201587916920158891692015927.v111.jpg",
-    "description": "Das junge Paar Margot und Tyler bereist und erkundet Orte, von denen nur wenige Menschen wissen oder Zugang dazu haben, um so in den Genuss der besten kulinatischen Angebote zu kommen. Ihre Abenteuer sind bei Freunden, Verwandten und Bekannten bekannt, und das Paar gilt inzwischen als Experten auf diesem Gebiet. Dank einer Entdeckung in den sozialen Medien hören sie von einem exklusiven, exzentrischen Restaurant, das alle Voraussetzungen für einen nächsten Besuch mitbringt, und reisen zu dessen Standort auf einer abgelegenen Insel, um das großartige und einzigartige Menü des Küchenchefs Slowik zu probieren. Doch schon bald stellt das Paar fest, dass die Speisekarte einige Überraschungen enthält, mit denen sie nicht gerechnet haben.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
   "hasenheide-757815": {
     "cinemaId": "580",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
@@ -331,30 +283,6 @@
     "img": "https://media.kinoheld.de/SnSD6PT18Zh3eT9CkiYri-T7aBI=/400x560/images%2Ffilm%2Ffallende-blaetter-47221169321963316932196351693219640.v2.jpg",
     "description": "FALLENDE BLÄTTER erzählt von zwei einsamen Menschen (Alma Pöysti und Jussi Vatanen), die zufällig im nächtlichen Helsinki aufeinander treffen. Beide sind auf der Suche nach der ersten, einzigen und endgültigen Liebe ihres Lebens. Der Weg zu diesem ehrenwerten Ziel wird erschwert durch die Alkoholsucht des Mannes, verlorene Telefonnummern, die Unkenntnis des Namens und der Adresse des jeweils anderen – und nicht zuletzt durch die allgemeine Tendenz des Lebens, denjenigen, die ihr Glück suchen, Steine in den Weg zu legen.",
     "trailer": "https://www.youtube.com/watch?v=IYLMri_IybM",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
-  "pompeji ostkreuz-2853125461": {
-    "cinemaId": "2153",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/shows/movies",
-    "cinemaName": "freiluftkino-pompeji-open-air-am-ostkreuz-berlin",
-    "cinemaShortName": "pompeji ostkreuz",
-    "id": "pompeji ostkreuz-2853125461",
-    "title": "2001: A SPACE ODYSSEY (OmdU)",
-    "normalizedTitle": "2001: A SPACE ODYSSEY",
-    "version": {
-      "raw": "OmdU",
-      "original": false,
-      "english": false
-    },
-    "date": "Mi., 27.09",
-    "timestamp": 1695772800000,
-    "time": "20:00",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-pompeji-open-air-am-ostkreuz-berlin/show/2853125461?layout=shows",
-    "img": "https://media.kinoheld.de/v9IPanpxcv6rKMelf0dWnYrFiAs=/400x560/images%2Ffilm%2Fmo%2F2413-2153-274675.v1.png",
-    "description": "\"2001 - Odyssee im Weltraum\" ist der Countdown in die Zukunft, der Ausblick über das Schicksal der Menschheit, die Suche nach der Unendlichkeit. Mit seinen atemberaubenden visuellen Effekten, dem unentrinnbaren Konflikt zwischen Mensch und Maschine, der überwältigenden Verschmelzung von Musik und Bewegung wurde der Film so einflussreich, dass Steven Spielberg ihn als den alles bestimmenden \"Urknall\" seiner Filmemacher-Generation definierte. Vielleicht ist \"2001\" das Meisterwerk von Stanley Kubrick (der das Drehbuch gemeinsam mit Arthur C. Clarke verfasste) - in jedem Fall wird es noch viele Generationen erschüttern, begeistern und inspirieren.",
-    "trailer": "https://youtu.be/oR_e9y-bka0",
     "available": -1,
     "reserved": 0,
     "bookable": true
