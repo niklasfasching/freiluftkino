@@ -7,7 +7,6 @@ const cinemas = {
   kinoHeld: {
     581: ["freiluftkino-insel-revier-suedost", "cassiopeia"],
     580: ["freiluftkino-hasenheide", "hasenheide"],
-    2153: ["freiluftkino-pompeji-open-air-am-ostkreuz-berlin", "pompeji ostkreuz"],
     1839: ["central-kino-open-air", "central"],
     1657: ["b-ware-openair-fmp", "fmp"],
     2339: ["b-ware-openairprinzessinnengarten-kollektiv-neukoell", "prinzessinengärten"],
@@ -206,7 +205,7 @@ async function getKinoTicketsOnlineCinema(cinemaId, cinemaName, cinemaShortName,
   }
   const cinemaUrl = `https://kinotickets-online.com/${cinemaId}`;
   const d = await getDocument(cinemaUrl);
-  return Promise.all([...d.querySelectorAll("main > div > ul > li")].map(async (li) => {
+  return Promise.all([...d.querySelectorAll("main ul > li:has(a):has(img)")].map(async (li) => {
     const id = li.querySelector(`a[href*="/booking/"]`).href.match(/\/(\d+$)/)[1];
     const trailerUrl = li.querySelector(`a[href*="youtube"]`)?.href;
     const url = `https://kinotickets-online.com/${cinemaId}/sale/seats/${id}`;
