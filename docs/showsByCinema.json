@@ -1193,7 +1193,32 @@
   "freiluftkino-insel-revier-suedost": [],
   "nomadenkino-berlin": [],
   "b-ware-openair-fmp": [],
-  "central-kino-open-air": [],
+  "central-kino-open-air": [
+    {
+      "cinemaId": "1839",
+      "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
+      "cinemaName": "central-kino-open-air",
+      "cinemaShortName": "central",
+      "id": "central-3000745112",
+      "title": "open air: Aftersun (OmU)",
+      "normalizedTitle": "AFTERSUN",
+      "version": {
+        "raw": "OmU",
+        "original": true,
+        "english": false
+      },
+      "date": "So., 19.05",
+      "timestamp": 1716076800000,
+      "time": "20:45",
+      "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/3000745112?layout=shows",
+      "img": "https://media.kinoheld.de/eFSdxTLn46QIYD9rwAx0Vqn8Mh8=/400x560/images%2Ffilm%2Faftersun-360771685622270168564985016870899721687101420168729158616872944041688041588168806013216883911721688400297.v66.jpg",
+      "description": "Die 11-jährige Sophie genießt die seltene gemeinsame Zeit mit ihrem liebevollen und idealistischen Vater Calum in einem verblassenden Ferienort. Zwanzig Jahre später werden Sophies zärtliche Erinnerungen an ihren letzten Urlaub zu einem kraftvollen und herzzerreißenden Porträt ihrer Beziehung.",
+      "trailer": "https://www.youtube.com/watch?v=VRgT7IKt6W8",
+      "available": 89,
+      "reserved": 0,
+      "bookable": true
+    }
+  ],
   "b-ware-openairprinzessinnengarten-kollektiv-neukoell": [],
   "mobile-kino-berlin": [],
   "sommerkino-kulturforum": [],
