@@ -210,7 +210,7 @@ async function getKinoTicketsOnlineCinema(cinemaId, cinemaName, cinemaShortName,
     const trailerUrl = li.querySelector(`a[href*="youtube"]`)?.href;
     const url = `https://kinotickets-online.com/${cinemaId}/sale/seats/${id}`;
     const movieId = li.querySelector("img").src.match(/movieId=(\d+)/)[1];
-    const [_, day, month, time] = li.querySelector("ul li").innerText.match(/(\d+)\.(\d+)\s*(\d+:\d+)/m);
+    const [_, day, month, time] = li.querySelector("ul li").innerText.match(/(\d+)\.(\d+)\.\s+(\d+:\d+)/m);
     const date = new Date(`${new Date().getFullYear()}-${month}-${day} ${time} UTC`);
     const d = await getDocument(url);
     const title = li.querySelector(".font-bold.text-primary").innerText;
