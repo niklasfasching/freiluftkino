@@ -1,25 +1,4 @@
 {
-  "fhain-1071": {
-    "cinemaId": "fh_freiluftkino",
-    "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
-    "cinemaName": "Freiluftkino Friedrichshain",
-    "cinemaShortName": "fhain",
-    "id": "fhain-1071",
-    "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/1071",
-    "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=1069",
-    "title": "Robot Dreams",
-    "normalizedTitle": "ROBOT DREAMS",
-    "version": {
-      "original": false,
-      "english": false
-    },
-    "date": "So., 30.06",
-    "timestamp": 1719783000000,
-    "time": "21:30",
-    "available": 0,
-    "reserved": 0,
-    "bookable": true
-  },
   "fhain-1074": {
     "cinemaId": "fh_freiluftkino",
     "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
@@ -1042,31 +1021,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "xberg-1006": {
-    "trailer": "https://www.youtube.com/watch?v=17VU2IlaSjs",
-    "description": "Elene Naverianis zärtlich-skurrile Dramödie \"Amsel im Bromberstrauch\" feierte seine Uraufführung bei der Quinzaine des cinéastes, Cannes 2023 und gewann den Hauptpreis beim diesjährigen Sarajevo Film Festival. Ausgezeichnet wurde dort auch die große Offenbarung des Films, Hauptdarstellerin Eka Chavleishvili, für ihre Rolle der bodenständigen Etero, die den Zauber der romantischen Liebe und ihre eigene sinnliche Selbstbestimmung entdeckt.",
-    "rawVersion": "Amsel im Brombeerstrauch ",
-    "cinemaId": "kb_freiluftkino",
-    "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
-    "cinemaName": "Freiluftkino Kreuzberg",
-    "cinemaShortName": "xberg",
-    "id": "xberg-1006",
-    "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/1006",
-    "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=995",
-    "title": "Amsel im Brombeerstrauch / georg.m.engl.Ut",
-    "normalizedTitle": "AMSEL IM BROMBEERSTRAUCH / GEORG.M.ENGL.UT",
-    "version": {
-      "raw": "Amsel im Brombeerstrauch ",
-      "original": false,
-      "english": false
-    },
-    "date": "So., 30.06",
-    "timestamp": 1719783900000,
-    "time": "21:45",
-    "available": 0,
-    "reserved": 0,
-    "bookable": true
-  },
   "xberg-1009": {
     "description": "West-Berlin 1979. Jürgen Baldiga, Sohn eines Essener Bergmanns, ist gerade in die Stadt gezogen und beschließt, Künstler zu werden. Er arbeitet als Stricher und Koch, schreibt Gedichte und Tagebuch. Mit seiner HIV-Infektion entdeckt er 1984 die Fotografie. Seine Bilder sollen die Zeit anhalten und die Wirklichkeit einfangen: Sie zeigen seine Freunde und Lover, wilden Sex und das Leben auf der Straße und immer wieder die lustvollen Tunten des Schwulenclubs SchwuZ, die zu seiner Wahlfamilie werden. Zwischen Verzweiflung und Begehren, Auflehnung und unbändigem Überlebenswillen wird Baldiga im Angesicht des nahen eigenen Todes zum Chronisten der West-Berliner Subkultur. Als er 1993 im Alter von 34 Jahren stirbt, hinterlässt er tausende Fotografien und 40 Tagebücher – ein einzigartiges künstlerisches Vermächtnis.",
     "rawVersion": "Exklusive Preview: Baldiga - Entsichertes Herz in Anwesenheit des Regisseurs Markus Stein",
@@ -1826,30 +1780,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "rehberge-1018": {
-    "description": "Johnny bewirtschaftet die Farm seines mürrischen Vaters im englischen Yorkshire. Die Kommunikation ist ländlich, knapp und rau. Wie der gelegentliche Sex, den sich Johnny im lokalen Pub sucht. Als Gheorghe aus Rumänien als Aushilfe für die Saison anheuert, begegnet Johnny dem Fremden zunächst mit Misstrauen. Zunächst ...  Eine der großen, wunderbaren, zarten und besonderen Filmentdeckungen der Berlinale.",
-    "rawVersion": "God’s own Country",
-    "cinemaId": "rb_freiluftkino",
-    "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
-    "cinemaName": "Freiluftkino Rehberge",
-    "cinemaShortName": "rehberge",
-    "id": "rehberge-1018",
-    "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/1018",
-    "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=994",
-    "title": "God s Own Country / engl.m.dt.Ut",
-    "normalizedTitle": "GOD S OWN COUNTRY / ENGL.M.DT.UT",
-    "version": {
-      "raw": "God’s own Country",
-      "original": false,
-      "english": false
-    },
-    "date": "So., 30.06",
-    "timestamp": 1719783900000,
-    "time": "21:45",
-    "available": 0,
-    "reserved": 0,
-    "bookable": true
-  },
   "rehberge-1019": {
     "description": "JOAN BAEZ I Am A Noise ist weder konventionelles Biopic noch traditioneller Konzertfilm. Mehrere Jahre folgten die Regisseurinnen Karen O’Connor, Miri Navasky und Maeve O’Boyle der ikonischen Künstlerin.  Im Laufe des Films zieht Baez schonungslos Bilanz und enthüllt auf bemerkenswert intime Weise ihr Leben auf und abseits der Bühne. So entstand eine immersive Dokumentation, die fließend durch die Zeit gleitet, die legendäre Musikerin auf ihrer letzten Tour begleitet und auf bis heute nie gesehene Archivaufnahmen zurückgreift.",
     "rawVersion": "Joan Baez - I am a noise",
@@ -2539,78 +2469,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "hasenheide-779823": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-779823",
-    "title": "Yakari - Der Kinofilm ",
-    "normalizedTitle": "YAKARI - DER KINOFILM",
-    "version": {
-      "raw": "",
-      "original": false,
-      "english": false
-    },
-    "date": "So., 30.06",
-    "timestamp": 1719705600000,
-    "time": "16:30",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/779823?layout=shows",
-    "img": "https://media.kinoheld.de/dpLlfc-HewRbDmYtkuniAfDenQs=/400x560/images%2Ffilm%2Fyakari-der-kinofilm-174331692143854169214675616921590551692230294169225928716922593081692405137169243128416924312921693007743169300783016930099851693094139.v17185812527586.jpg",
-    "description": "Yakari hat einen Traum: Er möchte eines Tages auf Kleiner Donner reiten, dem Wildpferd, das noch von keinem Sioux gezähmt werden konnte. Als die Jäger seines Stammes eine Herde Mustangs einfangen, kann Kleiner Donner mit einem mächtigen Sprung wieder entkommen. Yakari folgt dem jungen Pferd und befreit es, als es seinen Huf unter einem Felsen eingeklemmt hat. Für diese mutige Tat verleiht ihm Großer Adler, Yakaris Totemtier, die Gabe, mit Tieren zu sprechen. Auf der Suche nach Kleiner Donner gerät Yakari in einen reißenden Fluss. Er klammert sich an einen Baumstamm, stürzt aber dennoch einen Wasserfall herab und treibt den Fluss hinunter, weit weg von seiner Heimat. Nun ist es Yakari, der die Hilfe von Kleiner Donner braucht: Gemeinsam machen sie sich auf den weiten und abenteuerlichen Rückweg durchs Gebirge. Dabei treffen die beiden nicht nur viele verschiedene Tiere, es machen ihnen auch Kälte und Hunger zu schaffen. Dazu sind ihnen Jäger eines feindlichen Stammes auf der Spur und ein Sturm droht, Yakaris Eltern, die auf der Suche nach ihrem Sohn sind, in Gefahr zu bringen... (Quelle: Verleih)",
-    "trailer": "https://www.youtube.com/watch?v=MaMB79Rhrfo",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
-  "hasenheide-779824": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-779824",
-    "title": "Mamma Mia! (OmU)",
-    "normalizedTitle": "MAMMA MIA!",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "So., 30.06",
-    "timestamp": 1719705600000,
-    "time": "18:30",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/779824?layout=shows",
-    "img": "https://media.kinoheld.de/VcEK5MYMhlmp6268_bEAAmpWDb8=/400x560/images%2Ffilm%2Fmamma-mia-14295.v68.jpg",
-    "description": "Sophie hat endlich den Mann ihrer Träume gefunden und möchte mit ihm den Bund fürs Leben eingehen. Doch für die perfekte Hochzeit fehlt ihr vor allem eines: ein Vater. Denn leider hat sie den nie kennen gelernt und so auch niemanden, der sie am schönsten Tag im Leben einer Frau zum Traualter führen könnte. Im Tagebuch ihrer Mutter findet sie jedoch gleich drei Männernamen, die als ihr Erzeuger in Frage kommen würden. Und so lädt sie kurzerhand einfach alle ein. (j.b.)",
-    "trailer": "https://www.youtube.com/watch?v=pSF1JqY6yPQ",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
-  "hasenheide-779825": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-779825",
-    "title": "Chantal im Märchenland ",
-    "normalizedTitle": "CHANTAL IM MÄRCHENLAND",
-    "version": {
-      "raw": "",
-      "original": false,
-      "english": false
-    },
-    "date": "So., 30.06",
-    "timestamp": 1719705600000,
-    "time": "21:45",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/779825?layout=shows",
-    "img": "https://media.kinoheld.de/ihzTy440pdt3JtVDgjnQCxt0iHA=/400x560/images%2Ffilm%2Fchantal-im-maerchenland-56053.v17095510199810.png",
-    "description": "Chantal, die ewige Influencerin ohne Follower, und ihre beste Freundin Zeynep finden sich plötzlich durch einen antiken Zauberspiegel, den sie für ein Social Media Gimmick halten, in der Märchenwelt wieder. Doch statt glamuröser Fotoshootings werden sie mit heiratswütigen Prinzen und einer Prinzessin konfrontiert, die alle Erwartungen sprengt. Mit ihren unkonventionellen Ghetto-Skills nimmt Chantal nicht nur die reaktionären Märchenklischees aufs Korn, sondern stellt sich auch Flüchen und tyrannischen Königen entgegen – alles, während sie um ihre Freundschaft zu Zeynep kämpft.",
-    "trailer": "https://www.youtube.com/watch?v=jKDYgvqA3oE",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
   "hasenheide-782357": {
     "cinemaId": "580",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
@@ -2678,7 +2536,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/779828?layout=shows",
     "img": "https://media.kinoheld.de/PN0p3-v3Q8DNZQgK39kOWfXYKpA=/400x560/images%2Ffilm%2Fcivil-war-56443.v17125930007492.jpg",
     "description": "Eine Momentaufnahme einer einst undenkbaren Entwicklung: In Amerika herrscht Bürgerkrieg. Das Land ist bis aufs Mark zerrüttet. Die Kriegsjournalisten Lee (Kirsten Dunst) und Joel (Wagner Moura) werden Zeugen von unvorstellbaren Entwicklungen – denn ein brutaler Konflikt droht ein gänzlich unvorbereitetes Land in Schutt und Asche zu legen. Intensive und nicht loslassende Bilder nehmen die Zuschauer*innen mit auf eine Reise durch eine düstere Zukunftsvision, mit undenkbaren Folgen…",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=ESjt2Mvh55g",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -3178,7 +3036,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/779893?layout=shows",
     "img": "https://media.kinoheld.de/MuDhZkHR7zJrUPQ_HQEhs1_HXsA=/400x560/images%2Ffilm%2Fthe-royal-hotel-5353317000284071700028408.v17043610087228.jpg",
     "description": "Die Amerikaner Hanna und Liv sind beste Freundinnen, die in Australien backpacken. Nachdem ihnen das Geld ausgegangen ist, überredet Liv, auf der Suche nach Abenteuer, Hanna zu einem vorübergehenden Job als Bedienung hinter der Bar in einem Pub namens 'The Royal Hotel' in einer abgelegenen Bergbaustadt im Outback. Der Barbesitzer Billy und eine Reihe von Einheimischen geben den Mädchen eine ausgelassene Einführung in die Trinkkultur Down Unders, aber bald finden sich Hanna und Liv in einer beunruhigenden Situation gefangen, die rasch außer Kontrolle gerät.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=mkYP0ggVxfI",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -3394,7 +3252,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/779950?layout=shows",
     "img": "https://media.kinoheld.de/7HSjCElxJ4Jlk9f5k6T1q4zCQlk=/400x560/images%2Ffilm%2F4%2Fmad-max-fury-road-15431692135052.v17169909158786.jpg",
     "description": "Nach den mörderischen Schlachten der Vergangenheit will Mad Max sich alleine in die Wüste zurückziehen. Doch sein Vorsatz, sich aus den Konflikten von anderen herauszuhalten, wird von der Herrscherin Furiosa zunichte gemacht, die seinen Weg kreuzt. Diese wird von einer Todesschwadron gejagt, nachdem sie fünf junge Frauen aus der Zitadelle des Tyrannen Immortan Joe befreit hat. Nunmehr will Furiosa diese Frauen in einem gepanzerten Sattelschlepper in Sicherheit bringen. (v.f.)",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=_nz16uwocnM",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -3535,7 +3393,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/779956?layout=shows",
     "img": "https://media.kinoheld.de/FE_J2Alv9tiBHJ4RtASoI91SAA8=/400x560/images%2Ffilm%2Ffuriosa-a-mad-max-saga-57691.v17104800190497.jpg",
     "description": "Als die Welt zusammenbricht, wird die junge Furiosa aus dem Grünen Ort der Vielen Mütter in die Hände einer großen Biker-Horde gerissen, angeführt vom Kriegsherrn Dementus. Sie durchstreifen das Ödland und stoßen auf die Zitadelle, über der Immortan Joe herrscht. Die beiden Tyrannen führen Krieg um die Vorherrschaft, und Furiosa muss viele Prüfungen überstehen, während sie die Mittel zusammenstellt, um ihren Weg nach Hause zu finden.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=iBvn4raq-kU",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -3676,7 +3534,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/779962?layout=shows",
     "img": "https://media.kinoheld.de/w2bG6CMDqtysc8lgs5BaLRw9nQs=/400x560/images%2Ffilm%2F4%2Ftrainspotting-4978.v4.jpg",
     "description": "Vom Lachen und Weinen der \"lost generation\" in den 90er Jahren: In dieser Verfilmung von Irvine Welshs Kultroman wird das Innenleben einer Junkie-Gang in Edinburgh ausgerollt. Der Film war der erfolgreichste Film des Jahres 1996 in Großbritannien.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=AICajPaEm2g",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -3865,7 +3723,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/781723?layout=shows",
     "img": "https://media.kinoheld.de/MuDhZkHR7zJrUPQ_HQEhs1_HXsA=/400x560/images%2Ffilm%2Fthe-royal-hotel-5353317000284071700028408.v17043610087228.jpg",
     "description": "Die Amerikaner Hanna und Liv sind beste Freundinnen, die in Australien backpacken. Nachdem ihnen das Geld ausgegangen ist, überredet Liv, auf der Suche nach Abenteuer, Hanna zu einem vorübergehenden Job als Bedienung hinter der Bar in einem Pub namens 'The Royal Hotel' in einer abgelegenen Bergbaustadt im Outback. Der Barbesitzer Billy und eine Reihe von Einheimischen geben den Mädchen eine ausgelassene Einführung in die Trinkkultur Down Unders, aber bald finden sich Hanna und Liv in einer beunruhigenden Situation gefangen, die rasch außer Kontrolle gerät.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=mkYP0ggVxfI",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -5054,7 +4912,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/3034095572?layout=shows",
     "img": "https://media.kinoheld.de/v6dy4MZc9I38SLBdL8WSZWwl1R4=/400x560/images%2Ffilm%2Fthe-woddafucka-thing-der-schoene-mittwoch-55233.v17059248283026.png",
     "description": "ls die Afro-Berlinerin Djane Sweety (Dela Dabulamanzi) von einem mächtigen Boss den Auftrag erhält, einen lukrativen Deal abzuwickeln, scheint ihre kleinkriminelle Karriere endlich in Fahrt zu kommen. Doch noch am selben Abend, als sie der ganzen Beute beraubt wird, verwandeln sich Sweetys Zukunftsvisionen eines bequemen Lebens in einen einzigen Alptraum: Boss gibt ihr eine Woche Zeit, um ihre Schulden zurück zu zahlen.\r\n\r\nIhre letzte Hoffnung sind der Italiener Gino (Carlo Loiudice) und sein deutscher Halbbruder Ninja (Marc Philipps). Die zwei erfolglosen Karate-Lehrer bieten Sweety die Möglichkeit, einen großen Coup zusammen zu drehen. Das könnte Sweetys Leben retten und gleichzeitig Gino und Ninja helfen, die steigende Miete der heruntergekommenen Karate-Bude zahlen zu können. Oder diese sogar zu kaufen und endlich dem Druck der fiesesten Immobilienhaie der Stadt zu entkommen. Die unkonventionellen Vorbereitungen des großen Raubüberfalls kommen ins Rollen. Ab jetzt fängt für Sweety, Gino und Ninja das größte und gefährlichste Abenteuer ihres Lebens an.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=M2aah7XoPyI",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -5102,7 +4960,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/3034101258?layout=shows",
     "img": "https://media.kinoheld.de/PN0p3-v3Q8DNZQgK39kOWfXYKpA=/400x560/images%2Ffilm%2Fcivil-war-56443.v17125930007492.jpg",
     "description": "Eine Momentaufnahme einer einst undenkbaren Entwicklung: In Amerika herrscht Bürgerkrieg. Das Land ist bis aufs Mark zerrüttet. Die Kriegsjournalisten Lee (Kirsten Dunst) und Joel (Wagner Moura) werden Zeugen von unvorstellbaren Entwicklungen – denn ein brutaler Konflikt droht ein gänzlich unvorbereitetes Land in Schutt und Asche zu legen. Intensive und nicht loslassende Bilder nehmen die Zuschauer*innen mit auf eine Reise durch eine düstere Zukunftsvision, mit undenkbaren Folgen…",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=ESjt2Mvh55g",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -5299,27 +5157,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "central-3030766858": {
-    "cinemaId": "1839",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
-    "cinemaName": "central-kino-open-air",
-    "cinemaShortName": "central",
-    "id": "central-3030766858",
-    "title": "open air: Kinky Cinema: SICK: THE LIFE & DEATH OF BOB FLANAGAN, SUPERMASOCHIST (OV)",
-    "normalizedTitle": "KINKY CINEMA: SICK: THE LIFE & DEATH OF BOB FLANAGAN, SUPERMASOCHIST",
-    "version": {
-      "raw": "OV",
-      "original": true,
-      "english": false
-    },
-    "date": "So., 30.06",
-    "timestamp": 1719705600000,
-    "time": "21:15",
-    "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/3030766858?layout=shows",
-    "available": 70,
-    "reserved": 19,
-    "bookable": true
-  },
   "central-3009048316": {
     "cinemaId": "1839",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
@@ -5340,8 +5177,8 @@
     "img": "https://media.kinoheld.de/N5Bui35gtbJXSKhhY4WiUjPueWg=/400x560/images%2Ffilm%2Fthe-quiet-girl-41411169877806016987780611698778062170061323017007383121700738633170078586717007859681700786348170078890517007889651700792410170079254817007925661700792797170079279917007928081700792811.v17196186018129.png",
     "description": "Als erneut Nachwuchs kommt, wird ein von der Familie vernachlässigtes irisches Mädchen über die Sommerferien zu Verwandten geschickt. Dort erfährt es eine Wärme und Zuneigung, die es aus ihrer schmerzhaften Erstarrung befreien. Und doch gibt es auch in der Idylle der irischen Provinz Schmerz und Verlust.",
     "trailer": "https://www.youtube.com/watch?v=Nsn7QWmPhWI",
-    "available": 83,
-    "reserved": 4,
+    "available": 81,
+    "reserved": 6,
     "bookable": true
   },
   "central-3009048355": {
@@ -5556,8 +5393,8 @@
     "img": "https://media.kinoheld.de/He17xBj8aupaTM8tT2BUa3MOgs8=/400x560/images%2Ffilm%2Fmein-nachbar-totoro-24457.v4.jpg",
     "description": "Der Mutter von Satsuki und ihrer kleinen Schwester Mei geht es nicht besonders gut, weshalb man in diesem Jahr den Sommer auf dem Land verbringt, ganz in der Nähe jener Klinik, wo die Mutter liegt. Dort hat der Vater ein kleines Haus mit großem Garten gemietet, wo er schreiben kann und die Kinder Platz haben zum Toben. Was keiner ahnt: Direkt hinter dem Haus führt ein geheimer Pfad geradewegs hinab ins märchenhafte Reich der Staubhäschen. Oder Monsterhäschen ‒ je nach dem, wem man begegnet.",
     "trailer": "https://www.youtube.com/watch?v=72UfTSYXZT8",
-    "available": 81,
-    "reserved": 8,
+    "available": 79,
+    "reserved": 10,
     "bookable": true
   },
   "central-3009714260": {
@@ -5862,8 +5699,8 @@
     "img": "https://media.kinoheld.de/TxIFx63baW5FA9zhqBXy5wLERno=/400x560/images%2Ffilm%2Fbarbie-468271685995447168599544917006144351700699149170069975117007005551700786015170078672817012192331701219394170173526217017355261701735645170173565617017357231701735744.v17196266265985.jpg",
     "description": "Im glitzernden Barbieland wird Barbie aufgrund ihrer vermeintlichen Unvollkommenheiten ausgestoßen und beschließt daraufhin, in die Menschenwelt auszuwandern. Dort entdeckt sie, dass Perfektion nur im Inneren zu finden ist. Hinter der glänzenden Fassade von Barbieland existieren strenge Regeln, nach denen nur die Schönsten und Perfektesten akzeptiert werden. Nachdem Barbie ausgestoßen wird, verwandelt sie sich magischerweise in einen echten Menschen. In der realen Welt lernt sie, sich selbst und ihre eigenen Stärken zu akzeptieren. Durch ihre Abenteuer erkennt sie die Bedeutung von Selbstakzeptanz und entdeckt, dass wahre Schönheit von innen kommt.",
     "trailer": "https://www.youtube.com/watch?v=0BxBCVmo8YQ",
-    "available": 89,
-    "reserved": 0,
+    "available": 84,
+    "reserved": 5,
     "bookable": true
   },
   "central-3009720232": {
@@ -5929,7 +5766,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/3009720312?layout=shows",
     "img": "https://media.kinoheld.de/NrjUKQWdV14Xm8jhLWE8lJe5ipA=/400x560/images%2Ffilm%2Fmidsommar-142831687776027.v17146732530380.jpg",
     "description": "Obwohl ihre Beziehung kriselt, schließt sich Dani ihrem Freund Christian auf einen Sommertrip in einen kleinen Ort in Schweden an. Gemeinsam mit Christians Clique sind sie zu einem einmaligen Mittsommerfestival eingeladen. Doch der anfänglich idyllische Eindruck der abgelegenen Gemeinschaft trügt, die freundlichen Dorfbewohner verhalten sich nach und nach merkwürdiger: Sie bereiten sich auf ein besonderes Mittsommer-Ritual vor, das nur alle 90 Jahre zelebriert wird. Was als puritanisches Fest der Liebe und Glückseligkeit beginnt, nimmt bald eine unheimliche Wendung, die das sonnengeflutete Paradies bis in die Eingeweide erschüttert. Nach dem Überraschungshit \"Hereditary\" legt Ausnahme-Regisseur Ari Aster den nächsten kultverdächtigen Horrorfilm vor, der sich zu einem albtraumhaften filmischen Märchen entfaltet. \"Midsommar\" spielt geschickt mit der Brutalität nordischer Mythen und entfesselt in atemraubenden Bildern die Kraft obskurer Riten in Nächten, die keine Dunkelheit kennen. (Quelle: Verleih)",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=k9nVWv0EW5E",
     "available": 89,
     "reserved": 0,
     "bookable": true
@@ -6094,7 +5931,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/3009722914?layout=shows",
     "img": "https://media.kinoheld.de/kYStEhPmGfaEZFCEJgfHXxwlOxU=/400x560/images%2Ffilm%2Fleon-der-profi-wa-2019-14361.v11.jpg",
     "description": "Léon verdient sein Geld als Auftragskiller der Italo-Mafia in den Straßen von New York. Er lebt zurückgezogen und pflegt außer zu seinem Boss Tony einzig zu seiner Topfpflanze ein freundschaftliches Verhältnis. Als die Familie seiner Nachbarstochter Mathilda von DEA-Polizisten brutal getötet wird, flüchtet sie zu Léon. Um sich an den Mördern ihres kleinen Bruders zu rächen, lässt sich Mathilda das grausame Handwerk eines Profi-Killers von Léon beibringen. (Quelle: Verleih)",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=4e50Hpm9L4I",
     "available": 89,
     "reserved": 0,
     "bookable": true
@@ -6357,10 +6194,28 @@
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/3009728309?layout=shows",
     "img": "https://media.kinoheld.de/fOsnnKAUVMaQ7DLzmrXaFpVgOAI=/400x560/images%2Ffilm%2Feverything-everywhere-all-at-once-22045.v17142624576923.jpg",
     "description": "Evelyn Wang führt einen Waschsalon und kämpft mit Steuerproblemen und Familienkonflikten. Während sie die Geburtstagsparty ihres Vaters organisiert, findet ihr Ehemann Waymond keine Gelegenheit, das Thema Scheidung anzusprechen. Ihre Tochter Joy verärgert sie zusätzlich, indem sie plant, ihre Freundin Becky zur Feier mitzubringen, obwohl Evelyn Schwierigkeiten mit Joys sexueller Orientierung hat. Evelyns Leben verlief nicht wie erhofft. Doch bald bietet sich ihr eine unerwartete Chance, alles zu verändern.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=nz-eUNVQpzk",
     "available": 89,
     "reserved": 0,
     "bookable": true
+  },
+  "kulturforum-1721682900000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1721682900000",
+    "title": "Surf Film Nacht: African Territory 2",
+    "normalizedTitle": "SURF FILM NACHT: AFRICAN TERRITORY 2",
+    "version": {
+      "raw": "OmeU",
+      "original": true,
+      "english": true
+    },
+    "date": "Mo., 22.07",
+    "timestamp": 1721682900000,
+    "time": "21:15",
+    "url": "https://www.yorck.de/filme/surf-film-nacht-african-territory-2"
   },
   "kulturforum-1721424600000": {
     "cinemaId": "sommerkino-kulturforum",
@@ -6404,116 +6259,26 @@
     "trailer": "https://www.youtube.com/watch?v=0ZDbKhkLxTs",
     "bookable": true
   },
-  "kulturforum-1721338200000": {
+  "kulturforum-1720302300000": {
     "cinemaId": "sommerkino-kulturforum",
     "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
     "cinemaName": "sommerkino-kulturforum",
     "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1721338200000",
-    "title": "The Zone of Interest",
-    "normalizedTitle": "THE ZONE OF INTEREST",
+    "id": "kulturforum-1720302300000",
+    "title": "Anatomie eines Falls",
+    "normalizedTitle": "ANATOMIE EINES FALLS",
     "version": {
-      "raw": "OmeU",
+      "raw": "OmU",
       "original": true,
-      "english": true
+      "english": false
     },
-    "date": "Do., 18.07",
-    "timestamp": 1721338200000,
-    "time": "21:30",
-    "url": "https://www.yorck.de/filme/the-zone-of-interest",
-    "img": "//images.ctfassets.net/4mws6uyas4ta/att47rZGHHR1npCNW/6b6eb998440272edce439a28aadcb686/The_Zone_of_Interest_-_Poster.jpg",
-    "trailer": "https://www.youtube.com/watch?v=65ryUIV0h2s",
+    "date": "Sa., 06.07",
+    "timestamp": 1720302300000,
+    "time": "21:45",
+    "url": "https://www.yorck.de/filme/anatomie-eines-falls",
+    "img": "//images.ctfassets.net/4mws6uyas4ta/attUB94KB3ZKBjDVb/e96dd2a2e5c1e06c9e0380d9943c01dc/Anatomy_of_a_Fall_-_Poster.jpg",
+    "trailer": "https://www.youtube.com/watch?v=FUXawkH-ONM",
     "bookable": true
-  },
-  "kulturforum-1721165400000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1721165400000",
-    "title": "Fetch",
-    "normalizedTitle": "FETCH",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Di., 16.07",
-    "timestamp": 1721165400000,
-    "time": "21:30",
-    "url": "https://www.yorck.de/filme/fetch"
-  },
-  "kulturforum-1720906200000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1720906200000",
-    "title": "Summer of Kristen ",
-    "normalizedTitle": "SUMMER OF KRISTEN",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Sa., 13.07",
-    "timestamp": 1720906200000,
-    "time": "21:30",
-    "url": "https://www.yorck.de/filme/summer-of-kristen"
-  },
-  "kulturforum-1721682900000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1721682900000",
-    "title": "Surf Film Nacht: African Territory 2",
-    "normalizedTitle": "SURF FILM NACHT: AFRICAN TERRITORY 2",
-    "version": {
-      "raw": "OmeU",
-      "original": true,
-      "english": true
-    },
-    "date": "Mo., 22.07",
-    "timestamp": 1721682900000,
-    "time": "21:15",
-    "url": "https://www.yorck.de/filme/surf-film-nacht-african-territory-2"
-  },
-  "kulturforum-1721079000000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1721079000000",
-    "title": "Creepy Crypt ",
-    "normalizedTitle": "CREEPY CRYPT",
-    "version": {
-      "raw": "OmU Creepy C",
-      "original": true,
-      "english": false
-    },
-    "date": "Mo., 15.07",
-    "timestamp": 1721079000000,
-    "time": "21:30",
-    "url": "https://www.yorck.de/filme/creepy-crypt"
-  },
-  "kulturforum-1720560600000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1720560600000",
-    "title": "Pride",
-    "normalizedTitle": "PRIDE",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Di., 09.07",
-    "timestamp": 1720560600000,
-    "time": "21:30",
-    "url": "https://www.yorck.de/filme/pride"
   },
   "kulturforum-1720819800000": {
     "cinemaId": "sommerkino-kulturforum",
@@ -6536,44 +6301,41 @@
     "trailer": "https://www.youtube.com/watch?v=kZJhF-eT0MI",
     "bookable": true
   },
-  "kulturforum-1720387800000": {
+  "kulturforum-1720906200000": {
     "cinemaId": "sommerkino-kulturforum",
     "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
     "cinemaName": "sommerkino-kulturforum",
     "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1720387800000",
-    "title": "Filmreihe zur Ausstellung \"Faszination Rom\" ",
-    "normalizedTitle": "FILMREIHE ZUR AUSSTELLUNG \"FASZINATION ROM\"",
+    "id": "kulturforum-1720906200000",
+    "title": "Summer of Kristen ",
+    "normalizedTitle": "SUMMER OF KRISTEN",
     "version": {
       "raw": "OmU",
       "original": true,
       "english": false
     },
-    "date": "So., 07.07",
-    "timestamp": 1720387800000,
+    "date": "Sa., 13.07",
+    "timestamp": 1720906200000,
     "time": "21:30",
-    "url": "https://www.yorck.de/filme/filmreihe-zur-ausstellung-faszination-rom"
+    "url": "https://www.yorck.de/filme/summer-of-kristen"
   },
-  "kulturforum-1720302300000": {
+  "kulturforum-1721079000000": {
     "cinemaId": "sommerkino-kulturforum",
     "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
     "cinemaName": "sommerkino-kulturforum",
     "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1720302300000",
-    "title": "Anatomie eines Falls",
-    "normalizedTitle": "ANATOMIE EINES FALLS",
+    "id": "kulturforum-1721079000000",
+    "title": "Creepy Crypt ",
+    "normalizedTitle": "CREEPY CRYPT",
     "version": {
-      "raw": "OmU",
+      "raw": "OmU Creepy C",
       "original": true,
       "english": false
     },
-    "date": "Sa., 06.07",
-    "timestamp": 1720302300000,
-    "time": "21:45",
-    "url": "https://www.yorck.de/filme/anatomie-eines-falls",
-    "img": "//images.ctfassets.net/4mws6uyas4ta/attUB94KB3ZKBjDVb/e96dd2a2e5c1e06c9e0380d9943c01dc/Anatomy_of_a_Fall_-_Poster.jpg",
-    "trailer": "https://www.youtube.com/watch?v=FUXawkH-ONM",
-    "bookable": true
+    "date": "Mo., 15.07",
+    "timestamp": 1721079000000,
+    "time": "21:30",
+    "url": "https://www.yorck.de/filme/creepy-crypt"
   },
   "kulturforum-1719956700000": {
     "cinemaId": "sommerkino-kulturforum",
@@ -6592,6 +6354,63 @@
     "timestamp": 1719956700000,
     "time": "21:45",
     "url": "https://www.yorck.de/filme/filmreihe-zur-ausstellung-faszination-rom"
+  },
+  "kulturforum-1720215900000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1720215900000",
+    "title": "Pride",
+    "normalizedTitle": "PRIDE",
+    "version": {
+      "raw": "OmU",
+      "original": true,
+      "english": false
+    },
+    "date": "Fr., 05.07",
+    "timestamp": 1720215900000,
+    "time": "21:45",
+    "url": "https://www.yorck.de/filme/pride"
+  },
+  "kulturforum-1720474200000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1720474200000",
+    "title": "ARTE Filmpremiere: Frans Hals - Maler des Lachens",
+    "normalizedTitle": "ARTE FILMPREMIERE: FRANS HALS - MALER DES LACHENS",
+    "version": {
+      "raw": "OmU",
+      "original": true,
+      "english": false
+    },
+    "date": "Mo., 08.07",
+    "timestamp": 1720474200000,
+    "time": "21:30",
+    "url": "https://www.yorck.de/filme/arte-filmpremiere-frans-hals-maler-des-lachens"
+  },
+  "kulturforum-1721338200000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1721338200000",
+    "title": "The Zone of Interest",
+    "normalizedTitle": "THE ZONE OF INTEREST",
+    "version": {
+      "raw": "OmeU",
+      "original": true,
+      "english": true
+    },
+    "date": "Do., 18.07",
+    "timestamp": 1721338200000,
+    "time": "21:30",
+    "url": "https://www.yorck.de/filme/the-zone-of-interest",
+    "img": "//images.ctfassets.net/4mws6uyas4ta/att47rZGHHR1npCNW/6b6eb998440272edce439a28aadcb686/The_Zone_of_Interest_-_Poster.jpg",
+    "trailer": "https://www.youtube.com/watch?v=65ryUIV0h2s",
+    "bookable": true
   },
   "kulturforum-1720043100000": {
     "cinemaId": "sommerkino-kulturforum",
@@ -6632,30 +6451,48 @@
     "trailer": "https://www.youtube.com/watch?v=8zIf0XvoL9Y",
     "bookable": true
   },
-  "kulturforum-1720474200000": {
+  "kulturforum-1721165400000": {
     "cinemaId": "sommerkino-kulturforum",
     "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
     "cinemaName": "sommerkino-kulturforum",
     "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1720474200000",
-    "title": "ARTE Filmpremiere: Frans Hals - Maler des Lachens",
-    "normalizedTitle": "ARTE FILMPREMIERE: FRANS HALS - MALER DES LACHENS",
+    "id": "kulturforum-1721165400000",
+    "title": "Fetch",
+    "normalizedTitle": "FETCH",
     "version": {
       "raw": "OmU",
       "original": true,
       "english": false
     },
-    "date": "Mo., 08.07",
-    "timestamp": 1720474200000,
+    "date": "Di., 16.07",
+    "timestamp": 1721165400000,
     "time": "21:30",
-    "url": "https://www.yorck.de/filme/arte-filmpremiere-frans-hals-maler-des-lachens"
+    "url": "https://www.yorck.de/filme/fetch"
   },
-  "kulturforum-1720215900000": {
+  "kulturforum-1720387800000": {
     "cinemaId": "sommerkino-kulturforum",
     "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
     "cinemaName": "sommerkino-kulturforum",
     "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1720215900000",
+    "id": "kulturforum-1720387800000",
+    "title": "Filmreihe zur Ausstellung \"Faszination Rom\" ",
+    "normalizedTitle": "FILMREIHE ZUR AUSSTELLUNG \"FASZINATION ROM\"",
+    "version": {
+      "raw": "OmU",
+      "original": true,
+      "english": false
+    },
+    "date": "So., 07.07",
+    "timestamp": 1720387800000,
+    "time": "21:30",
+    "url": "https://www.yorck.de/filme/filmreihe-zur-ausstellung-faszination-rom"
+  },
+  "kulturforum-1720560600000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1720560600000",
     "title": "Pride",
     "normalizedTitle": "PRIDE",
     "version": {
@@ -6663,9 +6500,9 @@
       "original": true,
       "english": false
     },
-    "date": "Fr., 05.07",
-    "timestamp": 1720215900000,
-    "time": "21:45",
+    "date": "Di., 09.07",
+    "timestamp": 1720560600000,
+    "time": "21:30",
     "url": "https://www.yorck.de/filme/pride"
   },
   "kulturforum-1720992600000": {
