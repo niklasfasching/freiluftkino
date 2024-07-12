@@ -107,13 +107,13 @@
     "reserved": 0,
     "bookable": true
   },
-  "fhain-1082": {
+  "fhain-1105": {
     "cinemaId": "fh_freiluftkino",
     "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
     "cinemaName": "Freiluftkino Friedrichshain",
     "cinemaShortName": "fhain",
-    "id": "fhain-1082",
-    "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/1082",
+    "id": "fhain-1105",
+    "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/1105",
     "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=1080",
     "trailer": "https://www.youtube.com/watch?v=RthpX-j4juU",
     "title": "The Zone of Interest / dt.m.engl.Ut",
@@ -122,9 +122,9 @@
       "original": false,
       "english": false
     },
-    "date": "Do., 11.07",
-    "timestamp": 1720733400000,
-    "time": "21:30",
+    "date": "So., 04.08",
+    "timestamp": 1722804300000,
+    "time": "20:45",
     "available": 0,
     "reserved": 0,
     "bookable": true
@@ -697,31 +697,6 @@
     },
     "date": "Fr., 12.07",
     "timestamp": 1720819800000,
-    "time": "21:30",
-    "available": 0,
-    "reserved": 0,
-    "bookable": true
-  },
-  "xberg-1037": {
-    "trailer": "https://www.youtube.com/watch?v=SkMXu1yt99U",
-    "description": "Mit großartigen Darsteller*innen (Oscar 2024 für Da’Vine Joy Randolph!) und der richtigen Mischung aus Humor, Pathos und menschenzugewandter Genauigkeit ist Alexander Paynes Film um drei über Weihnachten in einem Internat Verweilende einer der unterhaltsamsten Filme dieser Saison.",
-    "rawVersion": "The Holdovers",
-    "cinemaId": "kb_freiluftkino",
-    "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
-    "cinemaName": "Freiluftkino Kreuzberg",
-    "cinemaShortName": "xberg",
-    "id": "xberg-1037",
-    "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/1037",
-    "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=1026",
-    "title": "The Holdovers / engl.m.dt.Ut",
-    "normalizedTitle": "THE HOLDOVERS / ENGL.M.DT.UT",
-    "version": {
-      "raw": "The Holdovers",
-      "original": false,
-      "english": false
-    },
-    "date": "Do., 11.07",
-    "timestamp": 1720733400000,
     "time": "21:30",
     "available": 0,
     "reserved": 0,
@@ -1412,31 +1387,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "rehberge-1028": {
-    "trailer": "https://www.youtube.com/watch?v=TnmLr2yAP4I",
-    "description": "Natürlich geht es bei Biopics immer auch darum, wie es den Darsteller*innen gelingt, mit ihrer schauspielerischen Interpretation den Portraitierten nahe zu kommen. Einhellige Hymnen gab es für Kingsley Ben-Adir als Bob und Lashana Lynch als Rita Marley. In Reinaldo Marcus Greens Biopic erleben wir die Flucht der beiden aus Jamaica, begleiten die Entstehung des Exodus Albums und Marleys Rückkehr nach Jamaica für das legendäre One Love Peace Concert.",
-    "rawVersion": "Bob Marley: One Love",
-    "cinemaId": "rb_freiluftkino",
-    "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
-    "cinemaName": "Freiluftkino Rehberge",
-    "cinemaShortName": "rehberge",
-    "id": "rehberge-1028",
-    "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/1028",
-    "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=1004",
-    "title": "Bob Marley: One Love / dt.Fassung",
-    "normalizedTitle": "BOB MARLEY: ONE LOVE / DT.FASSUNG",
-    "version": {
-      "raw": "Bob Marley: One Love",
-      "original": false,
-      "english": false
-    },
-    "date": "Do., 11.07",
-    "timestamp": 1720733400000,
-    "time": "21:30",
-    "available": 0,
-    "reserved": 0,
-    "bookable": true
-  },
   "rehberge-1030": {
     "trailer": "https://www.youtube.com/watch?v=QaY301T7izo&amp;pp=ygUPY29uc3RhbnRpbiBmaWxt",
     "description": "Chantal (Jella Haase), ewige Möchtegern Influencerin ohne Follower, und ihre beste Freundin Zeynep (Gizem Emre) geraten durch einen antiken Zauberspiegel, den sie für ein Social Media Gimmick halten, ausgerechnet in die Märchenwelt von Dornröschen und Co. Und diese werden die beiden, ihr ahnt es, gehörig umkrempeln.",
@@ -1879,78 +1829,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "hasenheide-779948": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-779948",
-    "title": "Minions - Auf der Suche nach dem Mini-Boss ",
-    "normalizedTitle": "MINIONS - AUF DER SUCHE NACH DEM MINI-BOSS",
-    "version": {
-      "raw": "",
-      "original": false,
-      "english": false
-    },
-    "date": "Do., 11.07",
-    "timestamp": 1720656000000,
-    "time": "16:30",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/779948?layout=shows",
-    "img": "https://media.kinoheld.de/6Bbkowf5x34O2ELJ12n7WUmZv2c=/400x560/images%2Ffilm%2Frasenmaeher-minions-22205.v17184976932994.jpg",
-    "description": "Mit 12 Jahren ist Gru (Stimme im Original: Steve Carell, deutsche Stimme: Oliver Rohrbeck) noch weit davon entfernt, der Superschurke zu sein, als den ihn die Welt später kennen wird. In einem beschaulichen Vorort der 70er Jahre träumt er davon, seine Mitmenschen in Angst und Schrecken zu versetzen und vor allem seine großen Vorbilder zu beeindrucken: die Vicious 6, eine von allen gefürchtete Gruppe von Superbösewichten. Tatsächlich schafft es Gru, ein Vorstellungsgespräch bei seinen Idolen zu ergattern, um neues Mitglied der Truppe zu werden – doch die Vicious 6 lachen den schüchternen Knirps nur aus. Um ihnen zu beweisen, was wirklich in ihm steckt, stiehlt er ihnen ein mächtiges Artefakt – und steht fortan ganz oben auf der Abschussliste der Vicious 6. Zum Glück hat Gru seine kleinen, gelben Minions, die ihm dabei helfen, vor seinen neuen Gegnern zu fliehen und gleichzeitig seinen Status als aufsteigender Stern am Superschurken-Himmel auszubauen. Aber sehr zu Grus Verdruss stiften die Minions rund um Kevin, Stuart, Bob und Otto meistens nur neues Chaos, statt wirklich hilfreich zu sein.",
-    "trailer": "https://www.youtube.com/watch?v=MqmcwkIyW58",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
-  "hasenheide-779949": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-779949",
-    "title": "Fall Guy, The (OmU)",
-    "normalizedTitle": "FALL GUY, THE",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Do., 11.07",
-    "timestamp": 1720656000000,
-    "time": "18:30",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/779949?layout=shows",
-    "img": "https://media.kinoheld.de/qXWtkA5ZaeShB9LLhoBcDcwrdx4=/400x560/images%2Ffilm%2Fthe-fall-guy-55543.v17137801886082.png",
-    "description": "Colt Seavers arbeitet als Stuntman in Hollywood. Als der in die Jahre gekommene Mann während eines Filmdrehs beinahe sein Leben verliert, beschließt er, sich aus der Filmbranche zurückzuziehen. Zur gleichen Zeit erhält seine ehemalige Geliebte und Kamerafrau Jody Moreno die Chance, bei einem opulenten Film die Regie zu übernehmen. Doch ihr Hauptdarsteller Tom Ryder scheint auf mysteriöse Weise verschwunden zu sein. Nun liegt es an ihm, seinem früheren Stuntdouble, Seavers, den Schauspieler zu finden.",
-    "trailer": "https://www.youtube.com/watch?v=v7e4_3lWsZw",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
-  "hasenheide-779950": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-779950",
-    "title": "Mad Max: Fury Road (OV)",
-    "normalizedTitle": "MAD MAX: FURY ROAD",
-    "version": {
-      "raw": "OV",
-      "original": true,
-      "english": false
-    },
-    "date": "Do., 11.07",
-    "timestamp": 1720656000000,
-    "time": "21:45",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/779950?layout=shows",
-    "img": "https://media.kinoheld.de/7HSjCElxJ4Jlk9f5k6T1q4zCQlk=/400x560/images%2Ffilm%2F4%2Fmad-max-fury-road-15431692135052.v17169909158786.jpg",
-    "description": "Nach den mörderischen Schlachten der Vergangenheit will Mad Max sich alleine in die Wüste zurückziehen. Doch sein Vorsatz, sich aus den Konflikten von anderen herauszuhalten, wird von der Herrscherin Furiosa zunichte gemacht, die seinen Weg kreuzt. Diese wird von einer Todesschwadron gejagt, nachdem sie fünf junge Frauen aus der Zitadelle des Tyrannen Immortan Joe befreit hat. Nunmehr will Furiosa diese Frauen in einem gepanzerten Sattelschlepper in Sicherheit bringen. (v.f.)",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
   "hasenheide-779951": {
     "cinemaId": "580",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
@@ -2087,7 +1965,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/779956?layout=shows",
     "img": "https://media.kinoheld.de/FE_J2Alv9tiBHJ4RtASoI91SAA8=/400x560/images%2Ffilm%2Ffuriosa-a-mad-max-saga-57691.v17104800190497.jpg",
     "description": "Als die Welt zusammenbricht, wird die junge Furiosa aus dem Grünen Ort der Vielen Mütter in die Hände einer großen Biker-Horde gerissen, angeführt vom Kriegsherrn Dementus. Sie durchstreifen das Ödland und stoßen auf die Zitadelle, über der Immortan Joe herrscht. Die beiden Tyrannen führen Krieg um die Vorherrschaft, und Furiosa muss viele Prüfungen überstehen, während sie die Mittel zusammenstellt, um ihren Weg nach Hause zu finden.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=iBvn4raq-kU",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2228,7 +2106,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/779962?layout=shows",
     "img": "https://media.kinoheld.de/w2bG6CMDqtysc8lgs5BaLRw9nQs=/400x560/images%2Ffilm%2F4%2Ftrainspotting-4978.v4.jpg",
     "description": "Vom Lachen und Weinen der \"lost generation\" in den 90er Jahren: In dieser Verfilmung von Irvine Welshs Kultroman wird das Innenleben einer Junkie-Gang in Edinburgh ausgerollt. Der Film war der erfolgreichste Film des Jahres 1996 in Großbritannien.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=AICajPaEm2g",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2417,7 +2295,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/781723?layout=shows",
     "img": "https://media.kinoheld.de/MuDhZkHR7zJrUPQ_HQEhs1_HXsA=/400x560/images%2Ffilm%2Fthe-royal-hotel-5353317000284071700028408.v17043610087228.jpg",
     "description": "Die Amerikaner Hanna und Liv sind beste Freundinnen, die in Australien backpacken. Nachdem ihnen das Geld ausgegangen ist, überredet Liv, auf der Suche nach Abenteuer, Hanna zu einem vorübergehenden Job als Bedienung hinter der Bar in einem Pub namens 'The Royal Hotel' in einer abgelegenen Bergbaustadt im Outback. Der Barbesitzer Billy und eine Reihe von Einheimischen geben den Mädchen eine ausgelassene Einführung in die Trinkkultur Down Unders, aber bald finden sich Hanna und Liv in einer beunruhigenden Situation gefangen, die rasch außer Kontrolle gerät.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=mkYP0ggVxfI",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2916,7 +2794,7 @@
     "timestamp": 1721865600000,
     "time": "18:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/781786?layout=shows",
-    "img": "https://media.kinoheld.de/VCPMcJzpr7Ar57elthgTlB-LRBo=/400x560/images%2Ffilm%2F3%2Fcall-me-by-your-name-8826.v17203966180815.jpg",
+    "img": "https://media.kinoheld.de/Hy-RWEWkaNR8T3iBjU7h3Uhop_o=/400x560/images%2Ffilm%2F3%2Fcall-me-by-your-name-8826.v17207427913571.jpg",
     "description": "Mit seinem neuen Film CALL ME BY YOUR NAME bringt Luca Guadagnino eine sinnlich-transzendentale Geschichte über die erste Liebe auf die große Leinwand, basierend auf André Acimans gefeiertem Roman. Der altkluge 17-Jährige Elio Perlman (Timothée Chalamet) genießt den norditalienischen Sommer des Jahres 1983 auf der im 17. Jahrhundert errichteten Villa der Familie. Seine Zeit verbringt der italoamerikanische Junge damit, klassische Musik zu spielen und zu transkribieren, zu lesen und mit seiner Freundin Marzia (Esther Garrel) zu flirten. Mit seinen Eltern ist Elio eng verbunden. Sein Vater (Michael Stuhlbarg), ein angesehener Professor, hat sich auf die griechisch-römische Kultur spezialisiert. Elios Mutter Annella (Amira Casar) arbeitet als Übersetzerin. Gemeinsam bringen sie ihrem Sohn die Errungenschaften der Hochkultur nahe und bereiten ihm ein sorgenfreies Leben mit allen Vorzügen. Dank seiner Weltklugheit und seiner intellektuellen Begabungen wirkt der Junge nach außen bereits wie ein Erwachsener, doch dem Anschein entgegen ist Elio in mancherlei Hinsicht durchaus noch sehr unerfahren - besonders in Herzensangelegenheiten. Eines Tages trifft der charmante amerikanische Doktorand Oliver (Armie Hammer) als neuer Sommer-Praktikant von Elios Vater auf der Villa ein. Inmitten jener prächtigen, sonnengetränkten Szenerie entdecken Elio und Oliver die berauschende Schönheit aufblühenden Verlangens im Verlauf eines Sommers, der ihre Leben für immer verändern wird. (Quelle: Verleih)",
     "trailer": "https://www.youtube.com/watch?v=sBVbtKqn61w",
     "available": -1,
@@ -3466,40 +3344,16 @@
     "reserved": 0,
     "bookable": true
   },
-  "fmp-3034101176": {
-    "cinemaId": "1657",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
-    "cinemaName": "b-ware-openair-fmp",
-    "cinemaShortName": "fmp",
-    "id": "fmp-3034101176",
-    "title": "MBF KOOP: Katrin Rothe: JOHNNY & ME – EINE ZEITREISE MIT JOHN HEARTFIELD ",
-    "normalizedTitle": "MBF KOOP: KATRIN ROTHE: JOHNNY & ME – EINE ZEITREISE MIT JOHN HEARTFIELD",
-    "version": {
-      "raw": "",
-      "original": false,
-      "english": false
-    },
-    "date": "Do., 11.07",
-    "timestamp": 1720656000000,
-    "time": "21:45",
-    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/3034101176?layout=shows",
-    "img": "https://media.kinoheld.de/y6vzEzA9Df-hB7Te9VeGMQ9fRoc=/400x560/images%2Ffilm%2Fjohnny-me-eine-zeitreise-mit-john-heartfield-54469.v17031590187823.jpg",
-    "description": "Mit einer Kombination aus dokumentarischen Animationen und fesselnden Spielszenen wird der revolutionäre Künstler John Heartfield als lebendige Trickfigur in Katrin Rothes neuem Dokumentarfilm zum Leben erweckt. Die Grafikerin Stephanie, gespielt von Stephanie Stremler, befindet sich gerade in einer Schaffenskrise und entdeckt Heartfields Werk in einer Ausstellung. Durch einen Zeittunnel landet sie in einem Atelier, wo der zur Trickfigur gewordene Künstler sie auf eine Reise durch sein turbulentes Leben mitnimmt. Der Pionier der Fotomontage, der sich selbst aus Protest gegen die deutsche Kriegstreiberei einen englischen Namen gab, wurde von den Nazis schnell zu einem der gefährlichsten Staatsfeinde. Jahrelang war er in Europa auf der Flucht, fand später auch in der sozialistischen DDR keine heile Heimat. Durch Tagebucheinträge und Fotografien taucht Stephanie in Heartfields Biografie ein, die in Form von Cut-Out-Animation mittels Stop-Motion in schön gestalteten Flashback-Passagen lebendig wird. Während dieser surrealen Begegnung entwickeln die beiden Kollegen eine liebevolle Freundschaft - und Stephanie nimmt wieder Schere und Papier in die Hand. Kein typisches Biopic, sondern eine poetische Collage, die die Seele und das künstlerische Erbe eines mutigen politischen Künstler des 20. Jahrhunderts einfängt.",
-    "trailer": "https://www.youtube.com/watch?v=x_VXSl4Mq84",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
   "fmp-3034101258": {
     "cinemaId": "1657",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
     "cinemaName": "b-ware-openair-fmp",
     "cinemaShortName": "fmp",
     "id": "fmp-3034101258",
-    "title": "CIVIL WAR (OmdU / en)",
+    "title": "CIVIL WAR (en / OmdU)",
     "normalizedTitle": "CIVIL WAR",
     "version": {
-      "raw": "OmdU en",
+      "raw": "en OmdU",
       "original": false,
       "english": true
     },
@@ -3509,7 +3363,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/3034101258?layout=shows",
     "img": "https://media.kinoheld.de/PN0p3-v3Q8DNZQgK39kOWfXYKpA=/400x560/images%2Ffilm%2Fcivil-war-56443.v17125930007492.jpg",
     "description": "Eine Momentaufnahme einer einst undenkbaren Entwicklung: In Amerika herrscht Bürgerkrieg. Das Land ist bis aufs Mark zerrüttet. Die Kriegsjournalisten Lee (Kirsten Dunst) und Joel (Wagner Moura) werden Zeugen von unvorstellbaren Entwicklungen – denn ein brutaler Konflikt droht ein gänzlich unvorbereitetes Land in Schutt und Asche zu legen. Intensive und nicht loslassende Bilder nehmen die Zuschauer*innen mit auf eine Reise durch eine düstere Zukunftsvision, mit undenkbaren Folgen…",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=ESjt2Mvh55g",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -3592,10 +3446,10 @@
     "cinemaName": "b-ware-openair-fmp",
     "cinemaShortName": "fmp",
     "id": "fmp-3034106011",
-    "title": "NAPOLEON (OmU / en)",
+    "title": "NAPOLEON (en / OmU)",
     "normalizedTitle": "NAPOLEON",
     "version": {
-      "raw": "OmU en",
+      "raw": "en OmU",
       "original": true,
       "english": true
     },
@@ -3726,8 +3580,8 @@
     "img": "https://media.kinoheld.de/lnzNGJR3ul0-Vz59IUo5-SD_kR0=/400x560/images%2Ffilm%2Fprinzessin-mononoke-56415.v17080232389932.jpg",
     "description": "Japan im frühen Mittelalter. Der junge Krieger Ashitaka tötet in Notwehr einen dämonischen Eber und wird darauf mit einem Fluch belegt. Auf der Suche nach Heilung durchstreift Ashitaka das Land und stößt schließlich nahe einer befestigten Hüttensiedlung, die sich tief in das einst idyllische Land um einen Heiligen Berg frisst, auf die von Wölfen großgezogene Kriegerin San, genannt Mononoke. Obwohl San einen Krieg für die Natur wider ihre Zerstörer führt, verliebt sie sich in Ashitaka.",
     "trailer": "https://www.youtube.com/watch?v=YAkojWy_h6o",
-    "available": 51,
-    "reserved": 34,
+    "available": 49,
+    "reserved": 36,
     "bookable": true
   },
   "central-3009711003": {
@@ -3750,8 +3604,8 @@
     "img": "https://media.kinoheld.de/1I5f9BUSL8xH8c4lZHnrDSIBNp0=/400x560/images%2Ffilm%2Fdas-wandelnde-schloss-57545.v17101676524113.jpg",
     "description": "Sophie verliebt sich in den Zauberer Hauro und wird deswegen von einer Hexe in eine alte Frau verwandelt. Sie macht sich auf die Suche nach Hauro, um den Fluch rückgängig zu machen. Als sie das Heim Hauros, das wandelnde Schloss, findet, arbeitet sie dort als Putzfrau. Ein Feuer-Teufel, der das Haus bewacht, und Hauros Assistent Markl werden bald ihre Freunde. Aber Hauro beachtet sie nicht und lebt unbekümmert und selbstverliebt in den Tag hinein. (aga)",
     "trailer": "https://www.youtube.com/watch?v=j9JPu_XUa10",
-    "available": 45,
-    "reserved": 44,
+    "available": 36,
+    "reserved": 53,
     "bookable": true
   },
   "central-3009711033": {
@@ -3798,8 +3652,8 @@
     "img": "https://media.kinoheld.de/He17xBj8aupaTM8tT2BUa3MOgs8=/400x560/images%2Ffilm%2Fmein-nachbar-totoro-24457.v4.jpg",
     "description": "Der Mutter von Satsuki und ihrer kleinen Schwester Mei geht es nicht besonders gut, weshalb man in diesem Jahr den Sommer auf dem Land verbringt, ganz in der Nähe jener Klinik, wo die Mutter liegt. Dort hat der Vater ein kleines Haus mit großem Garten gemietet, wo er schreiben kann und die Kinder Platz haben zum Toben. Was keiner ahnt: Direkt hinter dem Haus führt ein geheimer Pfad geradewegs hinab ins märchenhafte Reich der Staubhäschen. Oder Monsterhäschen ‒ je nach dem, wem man begegnet.",
     "trailer": "https://www.youtube.com/watch?v=72UfTSYXZT8",
-    "available": 62,
-    "reserved": 27,
+    "available": 58,
+    "reserved": 31,
     "bookable": true
   },
   "central-3042152270": {
@@ -3864,8 +3718,8 @@
     "img": "https://media.kinoheld.de/kHEC_TVVJmhF34NkGYvyGjtf_QY=/400x560/images%2Ffilm%2Fdas-schloss-im-himmel-56437.v17081306974921.jpg",
     "description": "Unvorstellbarer Reichtum und eine geheimnisvolle Technologie, mit der sich die Welt beherrschen lässt. All dies soll man finden können auf Laputa, dem sagenumwobenen Schloss im Himmel. Sheeta, ein Mädchen, besitzt einen magischen Kristall, der ihr den Weg nach Laputa weist. Kein Wunder, dass ihr schon bald andere auf den Fersen sind: eine Bande von Himmelspiraten, die Armee sowie der Regierungsagent Musca. Glücklicherweise trifft Sheeta in dem Jungen Pazu nicht nur einen Begleiter, sondern findet durch das gemeinsame Abenteuer auch einen Freund. \"Das Schloss im Himmel\" ist der Erstlingsfilm des japanischen Animationsvirtuosen Hayao Miyazaki von 1986, das nach den Erfolgsfilm \"Chihiros Reise ins Zauberland\" nunmehr in die deutschen Kinos kommt. (mp)",
     "trailer": "https://www.youtube.com/watch?v=JiBc58hwCQs",
-    "available": 89,
-    "reserved": 0,
+    "available": 85,
+    "reserved": 4,
     "bookable": true
   },
   "central-3009714344": {
@@ -3888,8 +3742,8 @@
     "img": "https://media.kinoheld.de/-slmmnO3Vwqda4DzdBvOAQZnuyU=/400x560/images%2Ffilm%2Fmo%2F172-105525.v17193629552781.jpg",
     "description": "Im Alter von 13 Jahren verlässt die kleine Hexe Kiki (Fûka Koshiba) ihre Freunde und ihre Familie, um einer alten Tradition folgend ihre Hexenfähigkeiten fernab von ihrem Heimatdorf zu trainieren. Begleitet von ihrem sprechenden schwarzen Kater Jiji (Stimme: Minako Kotobuki) reist sie auf ihrem Besen in eine entfernte Stadt am Meer. Dort kommt Kiki auf die Idee, ihre magischen Talente und Flugfertigkeiten dazu zu nutzen, einen Lieferservice aufzubauen. Doch ihr Vorhaben gestaltet sich schwieriger als gedacht, da viele Menschen ihr zunächst misstrauisch gegenüberstehen. Dann macht auch noch zu ihrem Unglück das Gerücht die Runde, Kiki würde Menschen und Tiere verhexen, sodass sich alle Leute von ihr abwenden. Kiki verliert daraufhin ihre Zauberkräfte. Wird sich ihr Schicksal am Ende doch noch zum Guten wenden?  Real-Verfilmung des Kinderbuchs von Eiko Kadono, das Hayao Miyazaki bereits als Anime adaptiert hat...",
     "trailer": "https://www.youtube.com/watch?v=NUKOmo0OabA",
-    "available": 78,
-    "reserved": 11,
+    "available": 76,
+    "reserved": 13,
     "bookable": true
   },
   "central-3009716593": {
@@ -3912,8 +3766,8 @@
     "img": "https://media.kinoheld.de/vF5X54_WV4gcUp4zTv0z6vV-HoA=/400x560/images%2Ffilm%2Fporco-rosso-60175.v17163376410118.jpg",
     "description": "Porco Rosso, ein Mensch mit Schweinegesicht, ist ein Fliegerass. Statt für die italienische Luftwaffe zu fliegen, verdient der coole, einsame Macho sein Geld lieber als Kopfgeldjäger und jagt Luftpiraten ihre Beute ab, denn \"Ich bin lieber ein Schwein als ein Faschist\". Für ein Duell mit einem amerikanischen Flieger muss er sein rotes Flugzeug generalüberholen lassen - ausgerechnet unter der Leitung einer vorwitzigen 17-Jährigen, die natürlich auch noch mitfliegen will. Die Luftpiraten richten das große Duell aus.",
     "trailer": "https://www.youtube.com/watch?v=eiB9EKp4HGc",
-    "available": 89,
-    "reserved": 0,
+    "available": 84,
+    "reserved": 5,
     "bookable": true
   },
   "central-3009716620": {
@@ -4192,7 +4046,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/3009720312?layout=shows",
     "img": "https://media.kinoheld.de/NrjUKQWdV14Xm8jhLWE8lJe5ipA=/400x560/images%2Ffilm%2Fmidsommar-142831687776027.v17146732530380.jpg",
     "description": "Obwohl ihre Beziehung kriselt, schließt sich Dani ihrem Freund Christian auf einen Sommertrip in einen kleinen Ort in Schweden an. Gemeinsam mit Christians Clique sind sie zu einem einmaligen Mittsommerfestival eingeladen. Doch der anfänglich idyllische Eindruck der abgelegenen Gemeinschaft trügt, die freundlichen Dorfbewohner verhalten sich nach und nach merkwürdiger: Sie bereiten sich auf ein besonderes Mittsommer-Ritual vor, das nur alle 90 Jahre zelebriert wird. Was als puritanisches Fest der Liebe und Glückseligkeit beginnt, nimmt bald eine unheimliche Wendung, die das sonnengeflutete Paradies bis in die Eingeweide erschüttert. Nach dem Überraschungshit \"Hereditary\" legt Ausnahme-Regisseur Ari Aster den nächsten kultverdächtigen Horrorfilm vor, der sich zu einem albtraumhaften filmischen Märchen entfaltet. \"Midsommar\" spielt geschickt mit der Brutalität nordischer Mythen und entfesselt in atemraubenden Bildern die Kraft obskurer Riten in Nächten, die keine Dunkelheit kennen. (Quelle: Verleih)",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=k9nVWv0EW5E",
     "available": 87,
     "reserved": 2,
     "bookable": true
@@ -4380,9 +4234,9 @@
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/3009722914?layout=shows",
     "img": "https://media.kinoheld.de/kYStEhPmGfaEZFCEJgfHXxwlOxU=/400x560/images%2Ffilm%2Fleon-der-profi-wa-2019-14361.v11.jpg",
     "description": "Léon verdient sein Geld als Auftragskiller der Italo-Mafia in den Straßen von New York. Er lebt zurückgezogen und pflegt außer zu seinem Boss Tony einzig zu seiner Topfpflanze ein freundschaftliches Verhältnis. Als die Familie seiner Nachbarstochter Mathilda von DEA-Polizisten brutal getötet wird, flüchtet sie zu Léon. Um sich an den Mördern ihres kleinen Bruders zu rächen, lässt sich Mathilda das grausame Handwerk eines Profi-Killers von Léon beibringen. (Quelle: Verleih)",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
-    "available": 89,
-    "reserved": 0,
+    "trailer": "https://www.youtube.com/watch?v=4e50Hpm9L4I",
+    "available": 87,
+    "reserved": 2,
     "bookable": true
   },
   "central-3009725387": {
@@ -4569,7 +4423,7 @@
     "timestamp": 1726012800000,
     "time": "20:00",
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/3009726994?layout=shows",
-    "img": "https://media.kinoheld.de/VCPMcJzpr7Ar57elthgTlB-LRBo=/400x560/images%2Ffilm%2F3%2Fcall-me-by-your-name-8826.v17203966180815.jpg",
+    "img": "https://media.kinoheld.de/Hy-RWEWkaNR8T3iBjU7h3Uhop_o=/400x560/images%2Ffilm%2F3%2Fcall-me-by-your-name-8826.v17207427913571.jpg",
     "description": "Mit seinem neuen Film CALL ME BY YOUR NAME bringt Luca Guadagnino eine sinnlich-transzendentale Geschichte über die erste Liebe auf die große Leinwand, basierend auf André Acimans gefeiertem Roman. Der altkluge 17-Jährige Elio Perlman (Timothée Chalamet) genießt den norditalienischen Sommer des Jahres 1983 auf der im 17. Jahrhundert errichteten Villa der Familie. Seine Zeit verbringt der italoamerikanische Junge damit, klassische Musik zu spielen und zu transkribieren, zu lesen und mit seiner Freundin Marzia (Esther Garrel) zu flirten. Mit seinen Eltern ist Elio eng verbunden. Sein Vater (Michael Stuhlbarg), ein angesehener Professor, hat sich auf die griechisch-römische Kultur spezialisiert. Elios Mutter Annella (Amira Casar) arbeitet als Übersetzerin. Gemeinsam bringen sie ihrem Sohn die Errungenschaften der Hochkultur nahe und bereiten ihm ein sorgenfreies Leben mit allen Vorzügen. Dank seiner Weltklugheit und seiner intellektuellen Begabungen wirkt der Junge nach außen bereits wie ein Erwachsener, doch dem Anschein entgegen ist Elio in mancherlei Hinsicht durchaus noch sehr unerfahren - besonders in Herzensangelegenheiten. Eines Tages trifft der charmante amerikanische Doktorand Oliver (Armie Hammer) als neuer Sommer-Praktikant von Elios Vater auf der Villa ein. Inmitten jener prächtigen, sonnengetränkten Szenerie entdecken Elio und Oliver die berauschende Schönheit aufblühenden Verlangens im Verlauf eines Sommers, der ihre Leben für immer verändern wird. (Quelle: Verleih)",
     "trailer": "https://www.youtube.com/watch?v=sBVbtKqn61w",
     "available": 89,
@@ -4643,7 +4497,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/3009728309?layout=shows",
     "img": "https://media.kinoheld.de/fOsnnKAUVMaQ7DLzmrXaFpVgOAI=/400x560/images%2Ffilm%2Feverything-everywhere-all-at-once-22045.v17142624576923.jpg",
     "description": "Evelyn Wang führt einen Waschsalon und kämpft mit Steuerproblemen und Familienkonflikten. Während sie die Geburtstagsparty ihres Vaters organisiert, findet ihr Ehemann Waymond keine Gelegenheit, das Thema Scheidung anzusprechen. Ihre Tochter Joy verärgert sie zusätzlich, indem sie plant, ihre Freundin Becky zur Feier mitzubringen, obwohl Evelyn Schwierigkeiten mit Joys sexueller Orientierung hat. Evelyns Leben verlief nicht wie erhofft. Doch bald bietet sich ihr eine unerwartete Chance, alles zu verändern.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=nz-eUNVQpzk",
     "available": 89,
     "reserved": 0,
     "bookable": true
@@ -4753,48 +4607,6 @@
     "trailer": "https://www.youtube.com/watch?v=BYsKP1NsDLA",
     "bookable": true
   },
-  "kulturforum-1724186700000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1724186700000",
-    "title": "African Territory 2",
-    "normalizedTitle": "AFRICAN TERRITORY 2",
-    "version": {
-      "raw": "OmeU",
-      "original": true,
-      "english": true
-    },
-    "date": "Di., 20.08",
-    "timestamp": 1724186700000,
-    "time": "20:45",
-    "url": "https://www.yorck.de/filme/african-territory-2",
-    "img": "//images.ctfassets.net/4mws6uyas4ta/attmNVZqEN8aihUTZ/183856c55f8aba2e5ef7b64748489ef0/0658107.jpg",
-    "trailer": "https://www.youtube.com/watch?v=vVvqkEnn4to",
-    "bookable": true
-  },
-  "kulturforum-1721682900000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1721682900000",
-    "title": "African Territory 2",
-    "normalizedTitle": "AFRICAN TERRITORY 2",
-    "version": {
-      "raw": "OmeU",
-      "original": true,
-      "english": true
-    },
-    "date": "Mo., 22.07",
-    "timestamp": 1721682900000,
-    "time": "21:15",
-    "url": "https://www.yorck.de/filme/african-territory-2",
-    "img": "//images.ctfassets.net/4mws6uyas4ta/attmNVZqEN8aihUTZ/183856c55f8aba2e5ef7b64748489ef0/0658107.jpg",
-    "trailer": "https://www.youtube.com/watch?v=vVvqkEnn4to",
-    "bookable": true
-  },
   "kulturforum-1724964300000": {
     "cinemaId": "sommerkino-kulturforum",
     "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
@@ -4864,8 +4676,8 @@
     "cinemaName": "sommerkino-kulturforum",
     "cinemaShortName": "kulturforum",
     "id": "kulturforum-1720906200000",
-    "title": "Love Lies Bleeding",
-    "normalizedTitle": "LOVE LIES BLEEDING",
+    "title": "Summer of Kristen ",
+    "normalizedTitle": "SUMMER OF KRISTEN",
     "version": {
       "raw": "OmU",
       "original": true,
@@ -4874,30 +4686,98 @@
     "date": "Sa., 13.07",
     "timestamp": 1720906200000,
     "time": "21:30",
-    "url": "https://www.yorck.de/filme/love-lies-bleeding",
-    "img": "//images.ctfassets.net/4mws6uyas4ta/attAah5He2hBAKrmC/4fc7b5715641bee03e5ac8b8055c22bb/Love_Lies_Bleeding_-_Poster.jpg",
-    "trailer": "https://www.youtube.com/watch?v=RcZ6FoBLqZA",
-    "bookable": true
+    "url": "https://www.yorck.de/filme/summer-of-kristen"
   },
-  "kulturforum-1723410000000": {
+  "kulturforum-1724186700000": {
     "cinemaId": "sommerkino-kulturforum",
     "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
     "cinemaName": "sommerkino-kulturforum",
     "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1723410000000",
-    "title": "Der Himmel über Berlin",
-    "normalizedTitle": "DER HIMMEL ÜBER BERLIN",
+    "id": "kulturforum-1724186700000",
+    "title": "Surf Film Nacht: African Territory 2",
+    "normalizedTitle": "SURF FILM NACHT: AFRICAN TERRITORY 2",
     "version": {
-      "raw": "DF",
-      "original": false,
+      "raw": "OmeU",
+      "original": true,
+      "english": true
+    },
+    "date": "Di., 20.08",
+    "timestamp": 1724186700000,
+    "time": "20:45",
+    "url": "https://www.yorck.de/filme/surf-film-nacht-african-territory-2"
+  },
+  "kulturforum-1721682900000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1721682900000",
+    "title": "Surf Film Nacht: African Territory 2",
+    "normalizedTitle": "SURF FILM NACHT: AFRICAN TERRITORY 2",
+    "version": {
+      "raw": "OmeU",
+      "original": true,
+      "english": true
+    },
+    "date": "Mo., 22.07",
+    "timestamp": 1721682900000,
+    "time": "21:15",
+    "url": "https://www.yorck.de/filme/surf-film-nacht-african-territory-2"
+  },
+  "kulturforum-1725137100000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1725137100000",
+    "title": "Mamma Mia!",
+    "normalizedTitle": "MAMMA MIA!",
+    "version": {
+      "raw": "OmU",
+      "original": true,
       "english": false
     },
-    "date": "So., 11.08",
-    "timestamp": 1723410000000,
-    "time": "21:0",
-    "url": "https://www.yorck.de/filme/der-himmel-uber-berlin",
-    "description": "<p>Die Engel Damiel und Cassiel treten als Beobachter der Welt auf, insbesondere in Berlin. Sie können nicht in das Leben der Menschen eingreifen und sich ihnen nicht zu erkennen geben. Sie können ihnen jedoch neuen Lebensmut einflößen. Der Wunsch, am Leben der Sterblichen teilzuhaben, wird bei Damiel so groß, dass er dafür bereit ist, auf seine Unsterblichkeit zu verzichten. Mit einer antiken Ritterrüstung als Startkapital wird er in die Welt hineingeworfen. In einer Trapezkünstlerin, die sich scheinbar von der Erdschwere löst, findet er seinen Gegenpart.</p>\n",
-    "img": "//images.ctfassets.net/4mws6uyas4ta/attbTi8wwMTKkFo6K/7309b3225bacfcbd51dc983b54488b18/Der_Himmel__ber_Berlin.jpg",
+    "date": "Sa., 31.08",
+    "timestamp": 1725137100000,
+    "time": "20:45",
+    "url": "https://www.yorck.de/filme/mamma-mia"
+  },
+  "kulturforum-1724100300000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1724100300000",
+    "title": "in the mood",
+    "normalizedTitle": "IN THE MOOD",
+    "version": {
+      "raw": "OmU InTheMood",
+      "original": true,
+      "english": false
+    },
+    "date": "Mo., 19.08",
+    "timestamp": 1724100300000,
+    "time": "20:45",
+    "url": "https://www.yorck.de/filme/in-the-mood"
+  },
+  "kulturforum-1724877900000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1724877900000",
+    "title": "Das Fenster zum Hof",
+    "normalizedTitle": "DAS FENSTER ZUM HOF",
+    "version": {
+      "raw": "OmU",
+      "original": true,
+      "english": false
+    },
+    "date": "Mi., 28.08",
+    "timestamp": 1724877900000,
+    "time": "20:45",
+    "url": "https://www.yorck.de/filme/das-fenster-zum-hof",
+    "img": "//images.ctfassets.net/4mws6uyas4ta/atty6Zfz9uJBKenm6/9055d689e5283f89aeed48ea14134e6f/Rear_Window_-_Poster.jpg",
     "bookable": true
   },
   "kulturforum-1724445900000": {
@@ -4942,233 +4822,6 @@
     "trailer": "https://www.youtube.com/watch?v=w8BxHWBXdWo",
     "bookable": true
   },
-  "kulturforum-1723755600000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1723755600000",
-    "title": "Gefährliche Brandung",
-    "normalizedTitle": "GEFÄHRLICHE BRANDUNG",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Do., 15.08",
-    "timestamp": 1723755600000,
-    "time": "21:0",
-    "url": "https://www.yorck.de/filme/gefahrliche-brandung",
-    "img": "//images.ctfassets.net/4mws6uyas4ta/attiNhozZsTpbHk8D/9183a965f2fdddef63eee9694a386bb9/Point_Break_-_Poster.jpg",
-    "trailer": "https://www.youtube.com/watch?v=pjsNtDT87KI",
-    "bookable": true
-  },
-  "kulturforum-1724100300000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1724100300000",
-    "title": "Mein Nachbar Totoro",
-    "normalizedTitle": "MEIN NACHBAR TOTORO",
-    "version": {
-      "raw": "OmU InTheMood",
-      "original": true,
-      "english": false
-    },
-    "date": "Mo., 19.08",
-    "timestamp": 1724100300000,
-    "time": "20:45",
-    "url": "https://www.yorck.de/filme/mein-nachbar-totoro",
-    "img": "//images.ctfassets.net/4mws6uyas4ta/attRj91RNc3yrqVBO/b3c5cdd1cc275a3e08196942ada5bc3a/My_Neighbor_Totoro_-_Poster.jpg",
-    "trailer": "https://www.youtube.com/watch?v=72UfTSYXZT8",
-    "bookable": true
-  },
-  "kulturforum-1724877900000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1724877900000",
-    "title": "Das Fenster zum Hof",
-    "normalizedTitle": "DAS FENSTER ZUM HOF",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Mi., 28.08",
-    "timestamp": 1724877900000,
-    "time": "20:45",
-    "url": "https://www.yorck.de/filme/das-fenster-zum-hof",
-    "img": "//images.ctfassets.net/4mws6uyas4ta/atty6Zfz9uJBKenm6/9055d689e5283f89aeed48ea14134e6f/Rear_Window_-_Poster.jpg",
-    "bookable": true
-  },
-  "kulturforum-1723669200000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1723669200000",
-    "title": "Verbrannte Erde",
-    "normalizedTitle": "VERBRANNTE ERDE",
-    "version": {
-      "raw": "OmeU",
-      "original": true,
-      "english": true
-    },
-    "date": "Mi., 14.08",
-    "timestamp": 1723669200000,
-    "time": "21:0",
-    "url": "https://www.yorck.de/filme/verbrannte-erde",
-    "img": "//images.ctfassets.net/4mws6uyas4ta/attdTdObS43ddlgHK/fad200782dc22a2a0b34198da41cd8b7/VE_Plakat_RZ_A4__1_.jpg",
-    "trailer": "https://www.youtube.com/watch?v=D7y7_TuvVTU",
-    "bookable": true
-  },
-  "kulturforum-1725137100000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1725137100000",
-    "title": "Mamma Mia!",
-    "normalizedTitle": "MAMMA MIA!",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Sa., 31.08",
-    "timestamp": 1725137100000,
-    "time": "20:45",
-    "url": "https://www.yorck.de/filme/mamma-mia"
-  },
-  "kulturforum-1723323600000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1723323600000",
-    "title": "DÌDI (弟弟)",
-    "normalizedTitle": "DÌDI",
-    "version": {
-      "raw": "OmU OmeU InTheMood",
-      "original": true,
-      "english": true
-    },
-    "date": "Sa., 10.08",
-    "timestamp": 1723323600000,
-    "time": "21:0",
-    "url": "https://www.yorck.de/filme/didi",
-    "img": "//images.ctfassets.net/4mws6uyas4ta/attFae1iNilFV2Uv1/ff4bb7096937e0b52f698b54fda0253e/Didi_Poster.jpg",
-    "trailer": "https://www.youtube.com/watch?v=KYaj0yLUMRQ",
-    "bookable": true
-  },
-  "kulturforum-1721596500000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1721596500000",
-    "title": "Pride",
-    "normalizedTitle": "PRIDE",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "So., 21.07",
-    "timestamp": 1721596500000,
-    "time": "21:15",
-    "url": "https://www.yorck.de/filme/pride",
-    "img": "//images.ctfassets.net/4mws6uyas4ta/attibanCCfdMzoj00/e75ee960a5e518b4c813fe0d4b2a4501/Pride_-_Poster.jpg",
-    "trailer": "https://www.youtube.com/watch?v=W0JeD0P-KJE",
-    "bookable": true
-  },
-  "kulturforum-1722374100000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1722374100000",
-    "title": "All of Us Strangers",
-    "normalizedTitle": "ALL OF US STRANGERS",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Di., 30.07",
-    "timestamp": 1722374100000,
-    "time": "21:15",
-    "url": "https://www.yorck.de/filme/all-of-us-strangers",
-    "img": "//images.ctfassets.net/4mws6uyas4ta/attfd27p5HOxH9FfR/d3e6cdda983ee8bdabbbd4fdc25bf48a/All_of_Us_Strangers_-_Poster.jpg",
-    "trailer": "https://www.youtube.com/watch?v=Bk27CxEgMh4",
-    "bookable": true
-  },
-  "kulturforum-1721510100000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1721510100000",
-    "title": "The Fall Guy",
-    "normalizedTitle": "THE FALL GUY",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Sa., 20.07",
-    "timestamp": 1721510100000,
-    "time": "21:15",
-    "url": "https://www.yorck.de/filme/the-fall-guy",
-    "img": "//images.ctfassets.net/4mws6uyas4ta/attpofVoTzlgebiE9/a596798272db58d95d8d51ad3db08a7a/The_Fall_Guy_-_Poster.jpg",
-    "trailer": "https://www.youtube.com/watch?v=vCFCpCmCiH0",
-    "bookable": true
-  },
-  "kulturforum-1723237200000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1723237200000",
-    "title": "Crossing - Auf der Suche nach Tekla",
-    "normalizedTitle": "CROSSING - AUF DER SUCHE NACH TEKLA",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Fr., 09.08",
-    "timestamp": 1723237200000,
-    "time": "21:0",
-    "url": "https://www.yorck.de/filme/crossing-auf-der-suche-nach-tekla",
-    "img": "//images.ctfassets.net/4mws6uyas4ta/attLbTzgFcfzsbTpV/84a7a63943ed0f512bb5136220a0fb77/Crossing_-_Poster.jpg",
-    "trailer": "https://www.youtube.com/watch?v=TkfUgC_rfMA",
-    "bookable": true
-  },
-  "kulturforum-1722287700000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1722287700000",
-    "title": "Poor Things",
-    "normalizedTitle": "POOR THINGS",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Mo., 29.07",
-    "timestamp": 1722287700000,
-    "time": "21:15",
-    "url": "https://www.yorck.de/filme/poor-things",
-    "img": "//images.ctfassets.net/4mws6uyas4ta/attWDfa5anVc4kKWz/6f55e6a2d496b10ded4e7d70f05dd609/PoorThingsPoster.jpg",
-    "trailer": "https://www.youtube.com/watch?v=QD_7kVk8t2w",
-    "bookable": true
-  },
   "kulturforum-1723064400000": {
     "cinemaId": "sommerkino-kulturforum",
     "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
@@ -5188,153 +4841,6 @@
     "url": "https://www.yorck.de/filme/la-chimera",
     "img": "//images.ctfassets.net/4mws6uyas4ta/attcCcQQpbFPfggIJ/a446799fbccdd14e3237dd18bcabf089/La_Chimera_-_Poster.jpg",
     "trailer": "https://www.youtube.com/watch?v=pY-XAY-oXGI",
-    "bookable": true
-  },
-  "kulturforum-1722891600000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1722891600000",
-    "title": "The Big Lebowski",
-    "normalizedTitle": "THE BIG LEBOWSKI",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Mo., 05.08",
-    "timestamp": 1722891600000,
-    "time": "21:0",
-    "url": "https://www.yorck.de/filme/the-big-lebowski",
-    "description": "<p>Eines Tages wird der Dude zu Hause von zwei schlecht gelaunten Geldeintreibern erwartet. Sie haben ihn mit dem echten Big Lebowski, der ein reicher Geschäftsmann ist, verwechselt und fordern jetzt von ihm das Geld, das seine angebliche Frau Bunny ihnen schuldet. Nachdem sie auf seinen Lieblingsteppich uriniert haben, begibt sich der beleidigte Dude auf die Suche nach dem richtigen Big Lebowski, um seinen Schaden ersetzt zu bekommen. Doch damit fangen seine Probleme erst richtig an.</p>\n",
-    "img": "//images.ctfassets.net/4mws6uyas4ta/attBC7yV2WpzQBcag/566c1f472c5068bffd19b52fccadd3ba/wlpjRBQdRSVdu2a8icYZaIp2xmt.jpg",
-    "trailer": "https://www.youtube.com/watch?v=knxhiwUspsA",
-    "bookable": true
-  },
-  "kulturforum-1722460500000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1722460500000",
-    "title": "Sommer vorm Balkon",
-    "normalizedTitle": "SOMMER VORM BALKON",
-    "version": {
-      "raw": "DF",
-      "original": false,
-      "english": false
-    },
-    "date": "Mi., 31.07",
-    "timestamp": 1722460500000,
-    "time": "21:15",
-    "url": "https://www.yorck.de/filme/sommer-vorm-balkon",
-    "img": "//images.ctfassets.net/4mws6uyas4ta/attdNcqyAcnWtPRIe/6e78274e3a3d8e0632c6e1757ec87905/Summer_in_Berlin_-_Poster.jpg",
-    "trailer": "https://www.youtube.com/watch?v=QWBup_wvyuk",
-    "bookable": true
-  },
-  "kulturforum-1722201300000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1722201300000",
-    "title": "Der Junge und der Reiher",
-    "normalizedTitle": "DER JUNGE UND DER REIHER",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "So., 28.07",
-    "timestamp": 1722201300000,
-    "time": "21:15",
-    "url": "https://www.yorck.de/filme/der-junge-und-der-reiher",
-    "description": "<p>Während eines Luftangriffs auf Tokio kommt die Mutter des zwölfjährigen Mahito Maki ums Leben. Als sein Vater daraufhin die jüngere Schwester seiner verstorbenen Frau heiratet und mir seiner Familie aus der Stadt aufs Land zieht, beginnt für Mahito eine schwere Zeit. Schon bald stößt er auf einen mysteriösen Turm und einen sprechenden Reiher, der im verkündet, dass seine Mutter noch am Leben ist und in diesem eigenartigen Bauwerk gefangen gehalten wird. Im geheimnisvollen Turm entdeckt er eine magische Welt voller fantastischer Kreaturen, aber auch Gefahren. </p>\n",
-    "img": "//images.ctfassets.net/4mws6uyas4ta/attBuRiAzfYAyahs3/ed2bc55d6fe8ed6aabdc963282c49cc7/The_Boy_and_the_Heron_-_Poster.jpg",
-    "trailer": "https://www.youtube.com/watch?v=t5khm-VjEu4",
-    "bookable": true
-  },
-  "kulturforum-1722719700000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1722719700000",
-    "title": "Anatomie eines Falls",
-    "normalizedTitle": "ANATOMIE EINES FALLS",
-    "version": {
-      "raw": "OmeU",
-      "original": true,
-      "english": true
-    },
-    "date": "Sa., 03.08",
-    "timestamp": 1722719700000,
-    "time": "21:15",
-    "url": "https://www.yorck.de/filme/anatomie-eines-falls",
-    "img": "//images.ctfassets.net/4mws6uyas4ta/attUB94KB3ZKBjDVb/e96dd2a2e5c1e06c9e0380d9943c01dc/Anatomy_of_a_Fall_-_Poster.jpg",
-    "trailer": "https://www.youtube.com/watch?v=FUXawkH-ONM",
-    "bookable": true
-  },
-  "kulturforum-1722546900000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1722546900000",
-    "title": "Der talentierte Mr. Ripley",
-    "normalizedTitle": "DER TALENTIERTE MR. RIPLEY",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Do., 01.08",
-    "timestamp": 1722546900000,
-    "time": "21:15",
-    "url": "https://www.yorck.de/filme/der-talentierte-mr-ripley",
-    "img": "//images.ctfassets.net/4mws6uyas4ta/att56fX68z9hv9KwE/c487319af78f72698360ba6b3dad2243/The_Talented_Mr._Ripley.jpg",
-    "bookable": true
-  },
-  "kulturforum-1723150800000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1723150800000",
-    "title": "Manche mögen’s heiß",
-    "normalizedTitle": "MANCHE MÖGEN’S HEISS",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Do., 08.08",
-    "timestamp": 1723150800000,
-    "time": "21:0",
-    "url": "https://www.yorck.de/filme/manche-mogens-heiss",
-    "img": "//images.ctfassets.net/4mws6uyas4ta/attETKraQZS78S7Ok/3cce51e0c0fe7939bb7f05d17ca1d0ba/Some_Like_It_Hot_-_Poster.jpg",
-    "bookable": true
-  },
-  "kulturforum-1721942100000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1721942100000",
-    "title": "City of God",
-    "normalizedTitle": "CITY OF GOD",
-    "version": {
-      "raw": "OmeU",
-      "original": true,
-      "english": true
-    },
-    "date": "Do., 25.07",
-    "timestamp": 1721942100000,
-    "time": "21:15",
-    "url": "https://www.yorck.de/filme/city-of-god",
-    "img": "//images.ctfassets.net/4mws6uyas4ta/atteOHISyXe0y5TQ0/211bcd6a581374484a07fbe434e58cb5/3120889.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg",
-    "trailer": "https://www.youtube.com/watch?v=RoK9HWdrv-k",
     "bookable": true
   },
   "kulturforum-1722805200000": {
@@ -5358,67 +4864,241 @@
     "trailer": "https://www.youtube.com/watch?v=ITDZSeN5Dok",
     "bookable": true
   },
-  "kulturforum-1722114900000": {
+  "kulturforum-1722374100000": {
     "cinemaId": "sommerkino-kulturforum",
     "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
     "cinemaName": "sommerkino-kulturforum",
     "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1722114900000",
-    "title": "The Bikeriders",
-    "normalizedTitle": "THE BIKERIDERS",
+    "id": "kulturforum-1722374100000",
+    "title": "All of Us Strangers",
+    "normalizedTitle": "ALL OF US STRANGERS",
     "version": {
       "raw": "OmU",
       "original": true,
       "english": false
     },
-    "date": "Sa., 27.07",
-    "timestamp": 1722114900000,
+    "date": "Di., 30.07",
+    "timestamp": 1722374100000,
     "time": "21:15",
-    "url": "https://www.yorck.de/filme/the-bikeriders",
-    "img": "//images.ctfassets.net/4mws6uyas4ta/attfeuFB40RVeB5Q1/79cf643e5501aeca378f22cac59ac7b4/The_Bikeriders_-_Poster.jpg",
-    "trailer": "https://www.youtube.com/watch?v=2hZIcLBplYg",
+    "url": "https://www.yorck.de/filme/all-of-us-strangers",
+    "img": "//images.ctfassets.net/4mws6uyas4ta/attfd27p5HOxH9FfR/d3e6cdda983ee8bdabbbd4fdc25bf48a/All_of_Us_Strangers_-_Poster.jpg",
+    "trailer": "https://www.youtube.com/watch?v=Bk27CxEgMh4",
     "bookable": true
   },
-  "kulturforum-1721424600000": {
+  "kulturforum-1723669200000": {
     "cinemaId": "sommerkino-kulturforum",
     "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
     "cinemaName": "sommerkino-kulturforum",
     "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1721424600000",
-    "title": "Dune: Part Two",
-    "normalizedTitle": "DUNE: PART TWO",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Fr., 19.07",
-    "timestamp": 1721424600000,
-    "time": "21:30",
-    "url": "https://www.yorck.de/filme/dune-part-two",
-    "img": "//images.ctfassets.net/4mws6uyas4ta/attwjw26Ng96FCLCo/0440a2874830cbcb17de0242b3fcac52/Dune__Part_Two_-_Poster.jpg",
-    "trailer": "https://www.youtube.com/watch?v=edMU8RHsmE0",
-    "bookable": true
-  },
-  "kulturforum-1721338200000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1721338200000",
-    "title": "The Zone of Interest",
-    "normalizedTitle": "THE ZONE OF INTEREST",
+    "id": "kulturforum-1723669200000",
+    "title": "Verbrannte Erde",
+    "normalizedTitle": "VERBRANNTE ERDE",
     "version": {
       "raw": "OmeU",
       "original": true,
       "english": true
     },
-    "date": "Do., 18.07",
-    "timestamp": 1721338200000,
-    "time": "21:30",
-    "url": "https://www.yorck.de/filme/the-zone-of-interest",
-    "img": "//images.ctfassets.net/4mws6uyas4ta/att47rZGHHR1npCNW/6b6eb998440272edce439a28aadcb686/The_Zone_of_Interest_-_Poster.jpg",
-    "trailer": "https://www.youtube.com/watch?v=65ryUIV0h2s",
+    "date": "Mi., 14.08",
+    "timestamp": 1723669200000,
+    "time": "21:0",
+    "url": "https://www.yorck.de/filme/verbrannte-erde",
+    "img": "//images.ctfassets.net/4mws6uyas4ta/attdTdObS43ddlgHK/fad200782dc22a2a0b34198da41cd8b7/VE_Plakat_RZ_A4__1_.jpg",
+    "trailer": "https://www.youtube.com/watch?v=D7y7_TuvVTU",
+    "bookable": true
+  },
+  "kulturforum-1723410000000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1723410000000",
+    "title": "Der Himmel über Berlin",
+    "normalizedTitle": "DER HIMMEL ÜBER BERLIN",
+    "version": {
+      "raw": "DF",
+      "original": false,
+      "english": false
+    },
+    "date": "So., 11.08",
+    "timestamp": 1723410000000,
+    "time": "21:0",
+    "url": "https://www.yorck.de/filme/der-himmel-uber-berlin",
+    "description": "<p>Die Engel Damiel und Cassiel treten als Beobachter der Welt auf, insbesondere in Berlin. Sie können nicht in das Leben der Menschen eingreifen und sich ihnen nicht zu erkennen geben. Sie können ihnen jedoch neuen Lebensmut einflößen. Der Wunsch, am Leben der Sterblichen teilzuhaben, wird bei Damiel so groß, dass er dafür bereit ist, auf seine Unsterblichkeit zu verzichten. Mit einer antiken Ritterrüstung als Startkapital wird er in die Welt hineingeworfen. In einer Trapezkünstlerin, die sich scheinbar von der Erdschwere löst, findet er seinen Gegenpart.</p>\n",
+    "img": "//images.ctfassets.net/4mws6uyas4ta/attbTi8wwMTKkFo6K/7309b3225bacfcbd51dc983b54488b18/Der_Himmel__ber_Berlin.jpg",
+    "bookable": true
+  },
+  "kulturforum-1722891600000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1722891600000",
+    "title": "The Big Lebowski",
+    "normalizedTitle": "THE BIG LEBOWSKI",
+    "version": {
+      "raw": "OmU",
+      "original": true,
+      "english": false
+    },
+    "date": "Mo., 05.08",
+    "timestamp": 1722891600000,
+    "time": "21:0",
+    "url": "https://www.yorck.de/filme/the-big-lebowski"
+  },
+  "kulturforum-1722546900000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1722546900000",
+    "title": "Der talentierte Mr. Ripley",
+    "normalizedTitle": "DER TALENTIERTE MR. RIPLEY",
+    "version": {
+      "raw": "OmU",
+      "original": true,
+      "english": false
+    },
+    "date": "Do., 01.08",
+    "timestamp": 1722546900000,
+    "time": "21:15",
+    "url": "https://www.yorck.de/filme/der-talentierte-mr-ripley"
+  },
+  "kulturforum-1722287700000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1722287700000",
+    "title": "Poor Things",
+    "normalizedTitle": "POOR THINGS",
+    "version": {
+      "raw": "OmU",
+      "original": true,
+      "english": false
+    },
+    "date": "Mo., 29.07",
+    "timestamp": 1722287700000,
+    "time": "21:15",
+    "url": "https://www.yorck.de/filme/poor-things",
+    "img": "//images.ctfassets.net/4mws6uyas4ta/attWDfa5anVc4kKWz/6f55e6a2d496b10ded4e7d70f05dd609/PoorThingsPoster.jpg",
+    "trailer": "https://www.youtube.com/watch?v=QD_7kVk8t2w",
+    "bookable": true
+  },
+  "kulturforum-1723237200000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1723237200000",
+    "title": "Crossing - Auf der Suche nach Tekla",
+    "normalizedTitle": "CROSSING - AUF DER SUCHE NACH TEKLA",
+    "version": {
+      "raw": "OmU",
+      "original": true,
+      "english": false
+    },
+    "date": "Fr., 09.08",
+    "timestamp": 1723237200000,
+    "time": "21:0",
+    "url": "https://www.yorck.de/filme/crossing-auf-der-suche-nach-tekla",
+    "img": "//images.ctfassets.net/4mws6uyas4ta/attLbTzgFcfzsbTpV/84a7a63943ed0f512bb5136220a0fb77/Crossing_-_Poster.jpg",
+    "trailer": "https://www.youtube.com/watch?v=TkfUgC_rfMA",
+    "bookable": true
+  },
+  "kulturforum-1723323600000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1723323600000",
+    "title": "in the mood",
+    "normalizedTitle": "IN THE MOOD",
+    "version": {
+      "raw": "OmU InTheMood",
+      "original": true,
+      "english": false
+    },
+    "date": "Sa., 10.08",
+    "timestamp": 1723323600000,
+    "time": "21:0",
+    "url": "https://www.yorck.de/filme/in-the-mood"
+  },
+  "kulturforum-1723150800000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1723150800000",
+    "title": "Manche mögen’s heiß",
+    "normalizedTitle": "MANCHE MÖGEN’S HEISS",
+    "version": {
+      "raw": "OmU",
+      "original": true,
+      "english": false
+    },
+    "date": "Do., 08.08",
+    "timestamp": 1723150800000,
+    "time": "21:0",
+    "url": "https://www.yorck.de/filme/manche-mogens-heiss"
+  },
+  "kulturforum-1723755600000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1723755600000",
+    "title": "Gefährliche Brandung",
+    "normalizedTitle": "GEFÄHRLICHE BRANDUNG",
+    "version": {
+      "raw": "OmU",
+      "original": true,
+      "english": false
+    },
+    "date": "Do., 15.08",
+    "timestamp": 1723755600000,
+    "time": "21:0",
+    "url": "https://www.yorck.de/filme/gefahrliche-brandung",
+    "img": "//images.ctfassets.net/4mws6uyas4ta/attiNhozZsTpbHk8D/9183a965f2fdddef63eee9694a386bb9/Point_Break_-_Poster.jpg",
+    "trailer": "https://www.youtube.com/watch?v=pjsNtDT87KI",
+    "bookable": true
+  },
+  "kulturforum-1722719700000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1722719700000",
+    "title": "Anatomie eines Falls",
+    "normalizedTitle": "ANATOMIE EINES FALLS",
+    "version": {
+      "raw": "OmeU",
+      "original": true,
+      "english": true
+    },
+    "date": "Sa., 03.08",
+    "timestamp": 1722719700000,
+    "time": "21:15",
+    "url": "https://www.yorck.de/filme/anatomie-eines-falls"
+  },
+  "kulturforum-1722460500000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1722460500000",
+    "title": "Sommer vorm Balkon",
+    "normalizedTitle": "SOMMER VORM BALKON",
+    "version": {
+      "raw": "DF",
+      "original": false,
+      "english": false
+    },
+    "date": "Mi., 31.07",
+    "timestamp": 1722460500000,
+    "time": "21:15",
+    "url": "https://www.yorck.de/filme/sommer-vorm-balkon",
+    "img": "//images.ctfassets.net/4mws6uyas4ta/attdNcqyAcnWtPRIe/6e78274e3a3d8e0632c6e1757ec87905/Summer_in_Berlin_-_Poster.jpg",
+    "trailer": "https://www.youtube.com/watch?v=QWBup_wvyuk",
     "bookable": true
   },
   "kulturforum-1721251800000": {
@@ -5442,14 +5122,92 @@
     "trailer": "https://www.youtube.com/watch?v=0ZDbKhkLxTs",
     "bookable": true
   },
+  "kulturforum-1721942100000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1721942100000",
+    "title": "City of God",
+    "normalizedTitle": "CITY OF GOD",
+    "version": {
+      "raw": "OmeU",
+      "original": true,
+      "english": true
+    },
+    "date": "Do., 25.07",
+    "timestamp": 1721942100000,
+    "time": "21:15",
+    "url": "https://www.yorck.de/filme/city-of-god",
+    "img": "//images.ctfassets.net/4mws6uyas4ta/atteOHISyXe0y5TQ0/211bcd6a581374484a07fbe434e58cb5/3120889.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg",
+    "trailer": "https://www.youtube.com/watch?v=RoK9HWdrv-k",
+    "bookable": true
+  },
+  "kulturforum-1721424600000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1721424600000",
+    "title": "Dune: Part Two",
+    "normalizedTitle": "DUNE: PART TWO",
+    "version": {
+      "raw": "OmU",
+      "original": true,
+      "english": false
+    },
+    "date": "Fr., 19.07",
+    "timestamp": 1721424600000,
+    "time": "21:30",
+    "url": "https://www.yorck.de/filme/dune-part-two"
+  },
+  "kulturforum-1722201300000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1722201300000",
+    "title": "Der Junge und der Reiher",
+    "normalizedTitle": "DER JUNGE UND DER REIHER",
+    "version": {
+      "raw": "OmU",
+      "original": true,
+      "english": false
+    },
+    "date": "So., 28.07",
+    "timestamp": 1722201300000,
+    "time": "21:15",
+    "url": "https://www.yorck.de/filme/der-junge-und-der-reiher"
+  },
+  "kulturforum-1721338200000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1721338200000",
+    "title": "The Zone of Interest",
+    "normalizedTitle": "THE ZONE OF INTEREST",
+    "version": {
+      "raw": "OmeU",
+      "original": true,
+      "english": true
+    },
+    "date": "Do., 18.07",
+    "timestamp": 1721338200000,
+    "time": "21:30",
+    "url": "https://www.yorck.de/filme/the-zone-of-interest",
+    "img": "//images.ctfassets.net/4mws6uyas4ta/att47rZGHHR1npCNW/6b6eb998440272edce439a28aadcb686/The_Zone_of_Interest_-_Poster.jpg",
+    "trailer": "https://www.youtube.com/watch?v=65ryUIV0h2s",
+    "bookable": true
+  },
   "kulturforum-1721165400000": {
     "cinemaId": "sommerkino-kulturforum",
     "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
     "cinemaName": "sommerkino-kulturforum",
     "cinemaShortName": "kulturforum",
     "id": "kulturforum-1721165400000",
-    "title": "Der Teufel trägt Prada",
-    "normalizedTitle": "DER TEUFEL TRÄGT PRADA",
+    "title": "Fetch",
+    "normalizedTitle": "FETCH",
     "version": {
       "raw": "OmU",
       "original": true,
@@ -5458,10 +5216,67 @@
     "date": "Di., 16.07",
     "timestamp": 1721165400000,
     "time": "21:30",
-    "url": "https://www.yorck.de/filme/der-teufel-tragt-prada",
-    "img": "//images.ctfassets.net/4mws6uyas4ta/attjPoQqWuwmXz0K6/18d9f212512099cd66ea6324f2a9816e/The_Devil_Wears_Prada_-_Poster.jpg",
-    "trailer": "https://www.youtube.com/watch?v=6ZOZwUQKu3E",
+    "url": "https://www.yorck.de/filme/fetch"
+  },
+  "kulturforum-1721596500000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1721596500000",
+    "title": "Pride",
+    "normalizedTitle": "PRIDE",
+    "version": {
+      "raw": "OmU",
+      "original": true,
+      "english": false
+    },
+    "date": "So., 21.07",
+    "timestamp": 1721596500000,
+    "time": "21:15",
+    "url": "https://www.yorck.de/filme/pride",
+    "img": "//images.ctfassets.net/4mws6uyas4ta/attibanCCfdMzoj00/e75ee960a5e518b4c813fe0d4b2a4501/Pride_-_Poster.jpg",
+    "trailer": "https://www.youtube.com/watch?v=W0JeD0P-KJE",
     "bookable": true
+  },
+  "kulturforum-1721510100000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1721510100000",
+    "title": "The Fall Guy",
+    "normalizedTitle": "THE FALL GUY",
+    "version": {
+      "raw": "OmU",
+      "original": true,
+      "english": false
+    },
+    "date": "Sa., 20.07",
+    "timestamp": 1721510100000,
+    "time": "21:15",
+    "url": "https://www.yorck.de/filme/the-fall-guy",
+    "img": "//images.ctfassets.net/4mws6uyas4ta/attpofVoTzlgebiE9/a596798272db58d95d8d51ad3db08a7a/The_Fall_Guy_-_Poster.jpg",
+    "trailer": "https://www.youtube.com/watch?v=vCFCpCmCiH0",
+    "bookable": true
+  },
+  "kulturforum-1721079000000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1721079000000",
+    "title": "Creepy Crypt ",
+    "normalizedTitle": "CREEPY CRYPT",
+    "version": {
+      "raw": "OmU Creepy C",
+      "original": true,
+      "english": false
+    },
+    "date": "Mo., 15.07",
+    "timestamp": 1721079000000,
+    "time": "21:30",
+    "url": "https://www.yorck.de/filme/creepy-crypt"
   },
   "kulturforum-1720819800000": {
     "cinemaId": "sommerkino-kulturforum",
@@ -5484,26 +5299,44 @@
     "trailer": "https://www.youtube.com/watch?v=kZJhF-eT0MI",
     "bookable": true
   },
-  "kulturforum-1721079000000": {
+  "kulturforum-1722114900000": {
     "cinemaId": "sommerkino-kulturforum",
     "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
     "cinemaName": "sommerkino-kulturforum",
     "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1721079000000",
-    "title": "Carrie - Des Satans jüngste Tochter",
-    "normalizedTitle": "CARRIE - DES SATANS JÜNGSTE TOCHTER",
+    "id": "kulturforum-1722114900000",
+    "title": "The Bikeriders",
+    "normalizedTitle": "THE BIKERIDERS",
     "version": {
-      "raw": "OmU Creepy C",
+      "raw": "OmU",
       "original": true,
       "english": false
     },
-    "date": "Mo., 15.07",
-    "timestamp": 1721079000000,
-    "time": "21:30",
-    "url": "https://www.yorck.de/filme/carrie-des-satans-jungste-tochter",
-    "img": "//images.ctfassets.net/4mws6uyas4ta/atte9EOEhUyZNvywA/115dfee9b6be2a14445286b8508795dc/Carrie_-_Poster.jpg",
-    "trailer": "https://www.youtube.com/watch?v=j9Mg-GRS46Y",
+    "date": "Sa., 27.07",
+    "timestamp": 1722114900000,
+    "time": "21:15",
+    "url": "https://www.yorck.de/filme/the-bikeriders",
+    "img": "//images.ctfassets.net/4mws6uyas4ta/attfeuFB40RVeB5Q1/79cf643e5501aeca378f22cac59ac7b4/The_Bikeriders_-_Poster.jpg",
+    "trailer": "https://www.youtube.com/watch?v=2hZIcLBplYg",
     "bookable": true
+  },
+  "kulturforum-1720992600000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1720992600000",
+    "title": "Filmreihe zur Ausstellung \"Faszination Rom\" ",
+    "normalizedTitle": "FILMREIHE ZUR AUSSTELLUNG \"FASZINATION ROM\"",
+    "version": {
+      "raw": "OmU",
+      "original": true,
+      "english": false
+    },
+    "date": "So., 14.07",
+    "timestamp": 1720992600000,
+    "time": "21:30",
+    "url": "https://www.yorck.de/filme/filmreihe-zur-ausstellung-faszination-rom"
   },
   "weissensee-1721425500000": {
     "cinemaId": "2527240812",
@@ -5547,6 +5380,29 @@
     },
     "normalizedTitle": "DIE LEGENDE VON PAUL UND PAULA",
     "img": "https://images.cinetixx.com/posters/845977364/thumbnails/845977364_211_300.jpg",
+    "description": "",
+    "available": 200,
+    "reserved": 0,
+    "bookable": true
+  },
+  "weissensee-1721943000000": {
+    "cinemaId": "2527240812",
+    "cinemaUrl": "https://booking.cinetixx.de/frontend/#/program/2527240812",
+    "cinemaName": "Freiluftbühne Weißensee",
+    "cinemaShortName": "weissensee",
+    "id": "weissensee-1721943000000",
+    "url": "https://booking.cinetixx.de/frontend/index.html?cinemaId=2527240812&showId=3037469793&bgswitch=false&resize=false",
+    "date": "Do., 25.07",
+    "timestamp": 1721943000000,
+    "time": "21:30",
+    "title": "FAHRSCHULE",
+    "version": {
+      "raw": "D, Deutsch",
+      "original": false,
+      "english": false
+    },
+    "normalizedTitle": "FAHRSCHULE",
+    "img": "https://images.cinetixx.com/posters/309588352/thumbnails/309588352_211_300.jpg",
     "description": "",
     "available": 200,
     "reserved": 0,
@@ -5624,29 +5480,6 @@
     "reserved": 12,
     "bookable": true
   },
-  "weissensee-1720734300000": {
-    "cinemaId": "2527240812",
-    "cinemaUrl": "https://booking.cinetixx.de/frontend/#/program/2527240812",
-    "cinemaName": "Freiluftbühne Weißensee",
-    "cinemaShortName": "weissensee",
-    "id": "weissensee-1720734300000",
-    "url": "https://booking.cinetixx.de/frontend/index.html?cinemaId=2527240812&showId=3002034944&bgswitch=false&resize=false",
-    "date": "Do., 11.07",
-    "timestamp": 1720734300000,
-    "time": "21:45",
-    "title": "SCHWEIN GEHABT",
-    "version": {
-      "raw": "D, Deutsch",
-      "original": false,
-      "english": false
-    },
-    "normalizedTitle": "SCHWEIN GEHABT",
-    "img": "https://images.cinetixx.com/posters/309588352/thumbnails/309588352_211_300.jpg",
-    "description": "Winter 1945/46. Neulehrer Hadubrant wird von Olly, der 14-jährigen Tochter seiner Wirtin, zum Diebstahl eines Wildschweins verleitet. Es ist in Ollys Falle gegangen, da Wild aber Eigentum der Sowjetarmee ist, will Hadubrant es einem guten Zweck zuführen: der Schulspeisung. Im Dorf aber sind noch andere an dem Schwein interessiert. Der Bürgermeister will es, um seinen Fleischplan zu erfüllen, der Pfarrer will es gegen Kohlen tauschen, um seine Kirche zu heizen, der Polizist möchte es dem rechtmäßigen Besitzer abliefern, und einige wollen es ganz einfach essen. Das Schwein verschwindet immer wieder auf mysteriöse Weise. Hadubrants Einsatz für seine gemeinnützige Sache bringt ihm schließlich eine Delegierung in die Kreisstadt zu \"höheren Aufgaben\" ein. (Das zweite Leben der Filmstadt Babelsberg. DEFA-Spielfilme 1946-1992)",
-    "available": 197,
-    "reserved": 3,
-    "bookable": true
-  },
   "weissensee-1723754700000": {
     "cinemaId": "2527240812",
     "cinemaUrl": "https://booking.cinetixx.de/frontend/#/program/2527240812",
@@ -5667,29 +5500,6 @@
     "img": "https://images.cinetixx.com/posters/3013459063/thumbnails/3013459063_211_300.jpg",
     "description": "Mahin lebt seit dem Tod ihres Mannes und der Ausreise ihrer Tochter nach Europaallein in Teheran. Ein geselliger Nachmittagstee mit Freundinnen gibt den Anstoßdazu, ihren einsamen und monotonen Alltag hinter sich zu lassen. In Mahinreift der Wunsch ihr Liebesleben wieder zu aktivieren. Auf der Suche nach einemneuen Partner, öffnet sie spontan ihr Herz für den gleichaltrigen Taxifahrer Faramarz.Aus der zufälligen Begegnung wird eine ebenso überraschende wie unvergesslicheNacht.„Ein kleines Stück vom Kuchen“ ist bereits die dritte gemeinsame Arbeit des erfolgreicheniranischen Regie-Duos Maryam Moghaddam und Behtash Sanaeeha.Der Film, der seine umjubelte Welturaufführung auf der diesjährigen Berlinale2024 im Wettbewerb feierte, erzählt mit zartem Humor eine ebenso spielerischewie gefühlvolle Geschichte von Hoffnung und Liebe. Dabei zeichnet die Tragikomödieein authentisches Bild des alltäglichen Lebens von Frauen im Iran undderen Möglichkeiten einer subtilen Emanzipation gegen die patriarchalen Autoritäten.Was als romantische Begegnung zweier einsamer Fremder beginnt,entwickelt sich so zu einer berührenden Ode an das Leben, die Frauen und dieFreiheit.",
     "trailer": "https://youtu.be/xuyyeSmeu6Y",
-    "available": 200,
-    "reserved": 0,
-    "bookable": true
-  },
-  "weissensee-1721943000000": {
-    "cinemaId": "2527240812",
-    "cinemaUrl": "https://booking.cinetixx.de/frontend/#/program/2527240812",
-    "cinemaName": "Freiluftbühne Weißensee",
-    "cinemaShortName": "weissensee",
-    "id": "weissensee-1721943000000",
-    "url": "https://booking.cinetixx.de/frontend/index.html?cinemaId=2527240812&showId=3037469793&bgswitch=false&resize=false",
-    "date": "Do., 25.07",
-    "timestamp": 1721943000000,
-    "time": "21:30",
-    "title": "FAHRSCHULE",
-    "version": {
-      "raw": "D, Deutsch",
-      "original": false,
-      "english": false
-    },
-    "normalizedTitle": "FAHRSCHULE",
-    "img": "https://images.cinetixx.com/posters/309588352/thumbnails/309588352_211_300.jpg",
-    "description": "",
     "available": 200,
     "reserved": 0,
     "bookable": true
