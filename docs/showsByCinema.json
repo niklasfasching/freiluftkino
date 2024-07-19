@@ -5376,7 +5376,7 @@
       "timestamp": 1721520000000,
       "time": "21:00",
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/3042152270?layout=shows",
-      "available": 76,
+      "available": 74,
       "reserved": 13,
       "bookable": true
     },
@@ -5445,8 +5445,8 @@
       "img": "https://media.kinoheld.de/-slmmnO3Vwqda4DzdBvOAQZnuyU=/400x560/images%2Ffilm%2Fmo%2F172-105525.v17193629552781.jpg",
       "description": "Im Alter von 13 Jahren verlässt die kleine Hexe Kiki (Fûka Koshiba) ihre Freunde und ihre Familie, um einer alten Tradition folgend ihre Hexenfähigkeiten fernab von ihrem Heimatdorf zu trainieren. Begleitet von ihrem sprechenden schwarzen Kater Jiji (Stimme: Minako Kotobuki) reist sie auf ihrem Besen in eine entfernte Stadt am Meer. Dort kommt Kiki auf die Idee, ihre magischen Talente und Flugfertigkeiten dazu zu nutzen, einen Lieferservice aufzubauen. Doch ihr Vorhaben gestaltet sich schwieriger als gedacht, da viele Menschen ihr zunächst misstrauisch gegenüberstehen. Dann macht auch noch zu ihrem Unglück das Gerücht die Runde, Kiki würde Menschen und Tiere verhexen, sodass sich alle Leute von ihr abwenden. Kiki verliert daraufhin ihre Zauberkräfte. Wird sich ihr Schicksal am Ende doch noch zum Guten wenden?  Real-Verfilmung des Kinderbuchs von Eiko Kadono, das Hayao Miyazaki bereits als Anime adaptiert hat...",
       "trailer": "https://www.youtube.com/watch?v=NUKOmo0OabA",
-      "available": 59,
-      "reserved": 30,
+      "available": 51,
+      "reserved": 38,
       "bookable": true
     },
     {
@@ -5635,8 +5635,8 @@
       "img": "https://media.kinoheld.de/6jUYalICGIEjtja4lwl7f5zTRp8=/400x560/images%2Ffilm%2Fperfect-days-51275170169437917016943791701694380170169690817016982601701698997.v5.jpg",
       "description": "Hirayama arbeitet als Reinigungskraft für öffentliche Toiletten in Tokio. Er führt ein einfaches und zurückgezogenes Leben, das ihn scheinbar vollkommen zufriedenstellt. Abseits seines äußerst strukturierten Alltags widmet er sich leidenschaftlich seiner Musik, die er von Audiokassetten genießt, und seiner Liebe zur Literatur, die er abends in gebrauchten Taschenbüchern vertieft. Doch durch unerwartete Begegnungen kommen nach und nach Details seiner Vergangenheit ans Licht, die er längst zu vergessen geglaubt hatte.",
       "trailer": "https://www.youtube.com/watch?v=z-E2Z2l_BEA",
-      "available": 51,
-      "reserved": 38,
+      "available": 49,
+      "reserved": 40,
       "bookable": true
     },
     {
@@ -6361,48 +6361,6 @@
       "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
       "cinemaName": "sommerkino-kulturforum",
       "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1724186700000",
-      "title": "African Territory 2",
-      "normalizedTitle": "AFRICAN TERRITORY 2",
-      "version": {
-        "raw": "OmeU",
-        "original": true,
-        "english": true
-      },
-      "date": "Di., 20.08",
-      "timestamp": 1724186700000,
-      "time": "20:45",
-      "url": "https://www.yorck.de/filme/african-territory-2",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attmNVZqEN8aihUTZ/183856c55f8aba2e5ef7b64748489ef0/0658107.jpg",
-      "trailer": "https://www.youtube.com/watch?v=vVvqkEnn4to",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1721682900000",
-      "title": "African Territory 2",
-      "normalizedTitle": "AFRICAN TERRITORY 2",
-      "version": {
-        "raw": "OmeU",
-        "original": true,
-        "english": true
-      },
-      "date": "Mo., 22.07",
-      "timestamp": 1721682900000,
-      "time": "21:15",
-      "url": "https://www.yorck.de/filme/african-territory-2",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attmNVZqEN8aihUTZ/183856c55f8aba2e5ef7b64748489ef0/0658107.jpg",
-      "trailer": "https://www.youtube.com/watch?v=vVvqkEnn4to",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
       "id": "kulturforum-1724964300000",
       "title": "Challengers",
       "normalizedTitle": "CHALLENGERS",
@@ -6445,20 +6403,41 @@
       "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
       "cinemaName": "sommerkino-kulturforum",
       "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1724100300000",
-      "title": "Mein Nachbar Totoro",
-      "normalizedTitle": "MEIN NACHBAR TOTORO",
+      "id": "kulturforum-1724186700000",
+      "title": "African Territory 2",
+      "normalizedTitle": "AFRICAN TERRITORY 2",
       "version": {
-        "raw": "OmU InTheMood",
+        "raw": "OmeU",
         "original": true,
-        "english": false
+        "english": true
       },
-      "date": "Mo., 19.08",
-      "timestamp": 1724100300000,
+      "date": "Di., 20.08",
+      "timestamp": 1724186700000,
       "time": "20:45",
-      "url": "https://www.yorck.de/filme/mein-nachbar-totoro",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attRj91RNc3yrqVBO/b3c5cdd1cc275a3e08196942ada5bc3a/My_Neighbor_Totoro_-_Poster.jpg",
-      "trailer": "https://www.youtube.com/watch?v=72UfTSYXZT8",
+      "url": "https://www.yorck.de/filme/african-territory-2",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attmNVZqEN8aihUTZ/183856c55f8aba2e5ef7b64748489ef0/0658107.jpg",
+      "trailer": "https://www.youtube.com/watch?v=vVvqkEnn4to",
+      "bookable": true
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1721682900000",
+      "title": "African Territory 2",
+      "normalizedTitle": "AFRICAN TERRITORY 2",
+      "version": {
+        "raw": "OmeU",
+        "original": true,
+        "english": true
+      },
+      "date": "Mo., 22.07",
+      "timestamp": 1721682900000,
+      "time": "21:15",
+      "url": "https://www.yorck.de/filme/african-territory-2",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attmNVZqEN8aihUTZ/183856c55f8aba2e5ef7b64748489ef0/0658107.jpg",
+      "trailer": "https://www.youtube.com/watch?v=vVvqkEnn4to",
       "bookable": true
     },
     {
@@ -6487,6 +6466,90 @@
       "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
       "cinemaName": "sommerkino-kulturforum",
       "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1724100300000",
+      "title": "Mein Nachbar Totoro",
+      "normalizedTitle": "MEIN NACHBAR TOTORO",
+      "version": {
+        "raw": "OmU InTheMood",
+        "original": true,
+        "english": false
+      },
+      "date": "Mo., 19.08",
+      "timestamp": 1724100300000,
+      "time": "20:45",
+      "url": "https://www.yorck.de/filme/mein-nachbar-totoro",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attRj91RNc3yrqVBO/b3c5cdd1cc275a3e08196942ada5bc3a/My_Neighbor_Totoro_-_Poster.jpg",
+      "trailer": "https://www.youtube.com/watch?v=72UfTSYXZT8",
+      "bookable": true
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1723755600000",
+      "title": "Gefährliche Brandung",
+      "normalizedTitle": "GEFÄHRLICHE BRANDUNG",
+      "version": {
+        "raw": "OmU",
+        "original": true,
+        "english": false
+      },
+      "date": "Do., 15.08",
+      "timestamp": 1723755600000,
+      "time": "21:0",
+      "url": "https://www.yorck.de/filme/gefahrliche-brandung",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attiNhozZsTpbHk8D/9183a965f2fdddef63eee9694a386bb9/Point_Break_-_Poster.jpg",
+      "trailer": "https://www.youtube.com/watch?v=pjsNtDT87KI",
+      "bookable": true
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1723669200000",
+      "title": "Verbrannte Erde",
+      "normalizedTitle": "VERBRANNTE ERDE",
+      "version": {
+        "raw": "OmeU",
+        "original": true,
+        "english": true
+      },
+      "date": "Mi., 14.08",
+      "timestamp": 1723669200000,
+      "time": "21:0",
+      "url": "https://www.yorck.de/filme/verbrannte-erde",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attdTdObS43ddlgHK/fad200782dc22a2a0b34198da41cd8b7/VE_Plakat_RZ_A4__1_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=D7y7_TuvVTU",
+      "bookable": true
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1723410000000",
+      "title": "Der Himmel über Berlin",
+      "normalizedTitle": "DER HIMMEL ÜBER BERLIN",
+      "version": {
+        "raw": "DF",
+        "original": false,
+        "english": false
+      },
+      "date": "So., 11.08",
+      "timestamp": 1723410000000,
+      "time": "21:0",
+      "url": "https://www.yorck.de/filme/der-himmel-uber-berlin",
+      "description": "<p>Die Engel Damiel und Cassiel treten als Beobachter der Welt auf, insbesondere in Berlin. Sie können nicht in das Leben der Menschen eingreifen und sich ihnen nicht zu erkennen geben. Sie können ihnen jedoch neuen Lebensmut einflößen. Der Wunsch, am Leben der Sterblichen teilzuhaben, wird bei Damiel so groß, dass er dafür bereit ist, auf seine Unsterblichkeit zu verzichten. Mit einer antiken Ritterrüstung als Startkapital wird er in die Welt hineingeworfen. In einer Trapezkünstlerin, die sich scheinbar von der Erdschwere löst, findet er seinen Gegenpart.</p>\n",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attbTi8wwMTKkFo6K/7309b3225bacfcbd51dc983b54488b18/Der_Himmel__ber_Berlin.jpg",
+      "bookable": true
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
       "id": "kulturforum-1724877900000",
       "title": "Das Fenster zum Hof",
       "normalizedTitle": "DAS FENSTER ZUM HOF",
@@ -6507,20 +6570,20 @@
       "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
       "cinemaName": "sommerkino-kulturforum",
       "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1724445900000",
-      "title": "Sterben",
-      "normalizedTitle": "STERBEN",
+      "id": "kulturforum-1723928400000",
+      "title": "Perfect Days",
+      "normalizedTitle": "PERFECT DAYS",
       "version": {
-        "raw": "DF",
-        "original": false,
-        "english": false
+        "raw": "OmeU",
+        "original": true,
+        "english": true
       },
-      "date": "Fr., 23.08",
-      "timestamp": 1724445900000,
-      "time": "20:45",
-      "url": "https://www.yorck.de/filme/sterben",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attQYrvVlAq9Z2DQr/fe91be7c47391701a2e8aad1214a9dc6/Sterben.jpg",
-      "trailer": "https://www.youtube.com/watch?v=9WX8WcLoV_4",
+      "date": "Sa., 17.08",
+      "timestamp": 1723928400000,
+      "time": "21:0",
+      "url": "https://www.yorck.de/filme/perfect-days",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attldW2u1ndn8Mmjz/7dadca08ef6175d60780e5dd9538c8be/1Perfect_Days_BL.jpg",
+      "trailer": "https://www.youtube.com/watch?v=w8BxHWBXdWo",
       "bookable": true
     },
     {
@@ -6528,20 +6591,20 @@
       "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
       "cinemaName": "sommerkino-kulturforum",
       "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1724013900000",
-      "title": "A Killer Romance",
-      "normalizedTitle": "A KILLER ROMANCE",
+      "id": "kulturforum-1723323600000",
+      "title": "Dìdi (弟弟)",
+      "normalizedTitle": "DÌDI",
       "version": {
-        "raw": "OmU",
+        "raw": "OmU OmeU InTheMood",
         "original": true,
-        "english": false
+        "english": true
       },
-      "date": "So., 18.08",
-      "timestamp": 1724013900000,
-      "time": "20:45",
-      "url": "https://www.yorck.de/filme/a-killer-romance",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attR6hnWO9gfiZ30i/e76bc351b29f5e83fabdc0eec8952724/A_Killer_Romance_Poster.jpg",
-      "trailer": "https://www.youtube.com/watch?v=BYsKP1NsDLA",
+      "date": "Sa., 10.08",
+      "timestamp": 1723323600000,
+      "time": "21:0",
+      "url": "https://www.yorck.de/filme/didi",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/att7mDMK8knmClHzr/0b5c871def324198b164bb1880026ad9/D_di_____.jpg",
+      "trailer": "https://www.youtube.com/watch?v=KYaj0yLUMRQ",
       "bookable": true
     },
     {
@@ -6571,20 +6634,207 @@
       "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
       "cinemaName": "sommerkino-kulturforum",
       "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1722287700000",
-      "title": "Poor Things",
-      "normalizedTitle": "POOR THINGS",
+      "id": "kulturforum-1724013900000",
+      "title": "A Killer Romance",
+      "normalizedTitle": "A KILLER ROMANCE",
       "version": {
         "raw": "OmU",
         "original": true,
         "english": false
       },
-      "date": "Mo., 29.07",
-      "timestamp": 1722287700000,
+      "date": "So., 18.08",
+      "timestamp": 1724013900000,
+      "time": "20:45",
+      "url": "https://www.yorck.de/filme/a-killer-romance",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attR6hnWO9gfiZ30i/e76bc351b29f5e83fabdc0eec8952724/A_Killer_Romance_Poster.jpg",
+      "trailer": "https://www.youtube.com/watch?v=BYsKP1NsDLA",
+      "bookable": true
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1724445900000",
+      "title": "Sterben",
+      "normalizedTitle": "STERBEN",
+      "version": {
+        "raw": "DF",
+        "original": false,
+        "english": false
+      },
+      "date": "Fr., 23.08",
+      "timestamp": 1724445900000,
+      "time": "20:45",
+      "url": "https://www.yorck.de/filme/sterben",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attQYrvVlAq9Z2DQr/fe91be7c47391701a2e8aad1214a9dc6/Sterben.jpg",
+      "trailer": "https://www.youtube.com/watch?v=9WX8WcLoV_4",
+      "bookable": true
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1721769300000",
+      "title": "Dream Scenario",
+      "normalizedTitle": "DREAM SCENARIO",
+      "version": {
+        "raw": "OmU",
+        "original": true,
+        "english": false
+      },
+      "date": "Di., 23.07",
+      "timestamp": 1721769300000,
       "time": "21:15",
-      "url": "https://www.yorck.de/filme/poor-things",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attWDfa5anVc4kKWz/6f55e6a2d496b10ded4e7d70f05dd609/PoorThingsPoster.jpg",
-      "trailer": "https://www.youtube.com/watch?v=QD_7kVk8t2w",
+      "url": "https://www.yorck.de/filme/dream-scenario",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attwmcc4kBY3a9ad0/92116bb0e29e0904b96b255757085517/Dream_Scenario_-_Poster.jpg",
+      "trailer": "https://www.youtube.com/watch?v=OS7uykPT5Ls",
+      "bookable": true
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1723150800000",
+      "title": "Manche mögen’s heiß",
+      "normalizedTitle": "MANCHE MÖGEN’S HEISS",
+      "version": {
+        "raw": "OmU",
+        "original": true,
+        "english": false
+      },
+      "date": "Do., 08.08",
+      "timestamp": 1723150800000,
+      "time": "21:0",
+      "url": "https://www.yorck.de/filme/manche-mogens-heiss",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attETKraQZS78S7Ok/3cce51e0c0fe7939bb7f05d17ca1d0ba/Some_Like_It_Hot_-_Poster.jpg",
+      "bookable": true
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1722546900000",
+      "title": "Der talentierte Mr. Ripley",
+      "normalizedTitle": "DER TALENTIERTE MR. RIPLEY",
+      "version": {
+        "raw": "OmU",
+        "original": true,
+        "english": false
+      },
+      "date": "Do., 01.08",
+      "timestamp": 1722546900000,
+      "time": "21:15",
+      "url": "https://www.yorck.de/filme/der-talentierte-mr-ripley",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/att56fX68z9hv9KwE/c487319af78f72698360ba6b3dad2243/The_Talented_Mr._Ripley.jpg",
+      "bookable": true
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1723064400000",
+      "title": "La Chimera",
+      "normalizedTitle": "LA CHIMERA",
+      "version": {
+        "raw": "OmeU",
+        "original": true,
+        "english": true
+      },
+      "date": "Mi., 07.08",
+      "timestamp": 1723064400000,
+      "time": "21:0",
+      "url": "https://www.yorck.de/filme/la-chimera",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attcCcQQpbFPfggIJ/a446799fbccdd14e3237dd18bcabf089/La_Chimera_-_Poster.jpg",
+      "trailer": "https://www.youtube.com/watch?v=pY-XAY-oXGI",
+      "bookable": true
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1721596500000",
+      "title": "Pride",
+      "normalizedTitle": "PRIDE",
+      "version": {
+        "raw": "OmU",
+        "original": true,
+        "english": false
+      },
+      "date": "So., 21.07",
+      "timestamp": 1721596500000,
+      "time": "21:15",
+      "url": "https://www.yorck.de/filme/pride",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attibanCCfdMzoj00/e75ee960a5e518b4c813fe0d4b2a4501/Pride_-_Poster.jpg",
+      "trailer": "https://www.youtube.com/watch?v=W0JeD0P-KJE",
+      "bookable": true
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1722805200000",
+      "title": "The Holdovers",
+      "normalizedTitle": "THE HOLDOVERS",
+      "version": {
+        "raw": "OmU",
+        "original": true,
+        "english": false
+      },
+      "date": "So., 04.08",
+      "timestamp": 1722805200000,
+      "time": "21:0",
+      "url": "https://www.yorck.de/filme/the-holdovers",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attblqR9SW36Y8I4L/420820fe634583b885276dc95d6d561e/w4xVDkQYn603vfBtdTK0ZZwoaRc.jpg",
+      "trailer": "https://www.youtube.com/watch?v=ITDZSeN5Dok",
+      "bookable": true
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1721855700000",
+      "title": "Robot Dreams",
+      "normalizedTitle": "ROBOT DREAMS",
+      "version": {
+        "raw": "OV",
+        "original": true,
+        "english": false
+      },
+      "date": "Mi., 24.07",
+      "timestamp": 1721855700000,
+      "time": "21:15",
+      "url": "https://www.yorck.de/filme/robot-dreams",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/att0APybsMy5xqn2N/8ca1b4119bf8e1137156c2af81527d48/Robot_Dreams_-_Poster.jpg",
+      "trailer": "https://www.youtube.com/watch?v=a22XcmJf-34",
+      "bookable": true
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1722114900000",
+      "title": "The Bikeriders",
+      "normalizedTitle": "THE BIKERIDERS",
+      "version": {
+        "raw": "OmU",
+        "original": true,
+        "english": false
+      },
+      "date": "Sa., 27.07",
+      "timestamp": 1722114900000,
+      "time": "21:15",
+      "url": "https://www.yorck.de/filme/the-bikeriders",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attfeuFB40RVeB5Q1/79cf643e5501aeca378f22cac59ac7b4/The_Bikeriders_-_Poster.jpg",
+      "trailer": "https://www.youtube.com/watch?v=2hZIcLBplYg",
       "bookable": true
     },
     {
@@ -6614,228 +6864,20 @@
       "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
       "cinemaName": "sommerkino-kulturforum",
       "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1723755600000",
-      "title": "Gefährliche Brandung",
-      "normalizedTitle": "GEFÄHRLICHE BRANDUNG",
-      "version": {
-        "raw": "OmU",
-        "original": true,
-        "english": false
-      },
-      "date": "Do., 15.08",
-      "timestamp": 1723755600000,
-      "time": "21:0",
-      "url": "https://www.yorck.de/filme/gefahrliche-brandung",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attiNhozZsTpbHk8D/9183a965f2fdddef63eee9694a386bb9/Point_Break_-_Poster.jpg",
-      "trailer": "https://www.youtube.com/watch?v=pjsNtDT87KI",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1722805200000",
-      "title": "The Holdovers",
-      "normalizedTitle": "THE HOLDOVERS",
-      "version": {
-        "raw": "OmU",
-        "original": true,
-        "english": false
-      },
-      "date": "So., 04.08",
-      "timestamp": 1722805200000,
-      "time": "21:0",
-      "url": "https://www.yorck.de/filme/the-holdovers",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attblqR9SW36Y8I4L/420820fe634583b885276dc95d6d561e/w4xVDkQYn603vfBtdTK0ZZwoaRc.jpg",
-      "trailer": "https://www.youtube.com/watch?v=ITDZSeN5Dok",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1723150800000",
-      "title": "Manche mögen’s heiß",
-      "normalizedTitle": "MANCHE MÖGEN’S HEISS",
-      "version": {
-        "raw": "OmU",
-        "original": true,
-        "english": false
-      },
-      "date": "Do., 08.08",
-      "timestamp": 1723150800000,
-      "time": "21:0",
-      "url": "https://www.yorck.de/filme/manche-mogens-heiss",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attETKraQZS78S7Ok/3cce51e0c0fe7939bb7f05d17ca1d0ba/Some_Like_It_Hot_-_Poster.jpg",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1723064400000",
-      "title": "La Chimera",
-      "normalizedTitle": "LA CHIMERA",
+      "id": "kulturforum-1721942100000",
+      "title": "City of God",
+      "normalizedTitle": "CITY OF GOD",
       "version": {
         "raw": "OmeU",
         "original": true,
         "english": true
       },
-      "date": "Mi., 07.08",
-      "timestamp": 1723064400000,
-      "time": "21:0",
-      "url": "https://www.yorck.de/filme/la-chimera",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attcCcQQpbFPfggIJ/a446799fbccdd14e3237dd18bcabf089/La_Chimera_-_Poster.jpg",
-      "trailer": "https://www.youtube.com/watch?v=pY-XAY-oXGI",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1723928400000",
-      "title": "Perfect Days",
-      "normalizedTitle": "PERFECT DAYS",
-      "version": {
-        "raw": "OmeU",
-        "original": true,
-        "english": true
-      },
-      "date": "Sa., 17.08",
-      "timestamp": 1723928400000,
-      "time": "21:0",
-      "url": "https://www.yorck.de/filme/perfect-days",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attldW2u1ndn8Mmjz/7dadca08ef6175d60780e5dd9538c8be/1Perfect_Days_BL.jpg",
-      "trailer": "https://www.youtube.com/watch?v=w8BxHWBXdWo",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1723410000000",
-      "title": "Der Himmel über Berlin",
-      "normalizedTitle": "DER HIMMEL ÜBER BERLIN",
-      "version": {
-        "raw": "DF",
-        "original": false,
-        "english": false
-      },
-      "date": "So., 11.08",
-      "timestamp": 1723410000000,
-      "time": "21:0",
-      "url": "https://www.yorck.de/filme/der-himmel-uber-berlin",
-      "description": "<p>Die Engel Damiel und Cassiel treten als Beobachter der Welt auf, insbesondere in Berlin. Sie können nicht in das Leben der Menschen eingreifen und sich ihnen nicht zu erkennen geben. Sie können ihnen jedoch neuen Lebensmut einflößen. Der Wunsch, am Leben der Sterblichen teilzuhaben, wird bei Damiel so groß, dass er dafür bereit ist, auf seine Unsterblichkeit zu verzichten. Mit einer antiken Ritterrüstung als Startkapital wird er in die Welt hineingeworfen. In einer Trapezkünstlerin, die sich scheinbar von der Erdschwere löst, findet er seinen Gegenpart.</p>\n",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attbTi8wwMTKkFo6K/7309b3225bacfcbd51dc983b54488b18/Der_Himmel__ber_Berlin.jpg",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1722374100000",
-      "title": "All of Us Strangers",
-      "normalizedTitle": "ALL OF US STRANGERS",
-      "version": {
-        "raw": "OmU",
-        "original": true,
-        "english": false
-      },
-      "date": "Di., 30.07",
-      "timestamp": 1722374100000,
+      "date": "Do., 25.07",
+      "timestamp": 1721942100000,
       "time": "21:15",
-      "url": "https://www.yorck.de/filme/all-of-us-strangers",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attfd27p5HOxH9FfR/d3e6cdda983ee8bdabbbd4fdc25bf48a/All_of_Us_Strangers_-_Poster.jpg",
-      "trailer": "https://www.youtube.com/watch?v=Bk27CxEgMh4",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1723669200000",
-      "title": "Verbrannte Erde",
-      "normalizedTitle": "VERBRANNTE ERDE",
-      "version": {
-        "raw": "OmeU",
-        "original": true,
-        "english": true
-      },
-      "date": "Mi., 14.08",
-      "timestamp": 1723669200000,
-      "time": "21:0",
-      "url": "https://www.yorck.de/filme/verbrannte-erde",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attdTdObS43ddlgHK/fad200782dc22a2a0b34198da41cd8b7/VE_Plakat_RZ_A4__1_.jpg",
-      "trailer": "https://www.youtube.com/watch?v=D7y7_TuvVTU",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1722546900000",
-      "title": "Der talentierte Mr. Ripley",
-      "normalizedTitle": "DER TALENTIERTE MR. RIPLEY",
-      "version": {
-        "raw": "OmU",
-        "original": true,
-        "english": false
-      },
-      "date": "Do., 01.08",
-      "timestamp": 1722546900000,
-      "time": "21:15",
-      "url": "https://www.yorck.de/filme/der-talentierte-mr-ripley",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/att56fX68z9hv9KwE/c487319af78f72698360ba6b3dad2243/The_Talented_Mr._Ripley.jpg",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1722719700000",
-      "title": "Anatomie eines Falls",
-      "normalizedTitle": "ANATOMIE EINES FALLS",
-      "version": {
-        "raw": "OmeU",
-        "original": true,
-        "english": true
-      },
-      "date": "Sa., 03.08",
-      "timestamp": 1722719700000,
-      "time": "21:15",
-      "url": "https://www.yorck.de/filme/anatomie-eines-falls",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attUB94KB3ZKBjDVb/e96dd2a2e5c1e06c9e0380d9943c01dc/Anatomy_of_a_Fall_-_Poster.jpg",
-      "trailer": "https://www.youtube.com/watch?v=FUXawkH-ONM",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1723323600000",
-      "title": "Dìdi (弟弟)",
-      "normalizedTitle": "DÌDI",
-      "version": {
-        "raw": "OmU OmeU InTheMood",
-        "original": true,
-        "english": true
-      },
-      "date": "Sa., 10.08",
-      "timestamp": 1723323600000,
-      "time": "21:0",
-      "url": "https://www.yorck.de/filme/didi",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/att7mDMK8knmClHzr/0b5c871def324198b164bb1880026ad9/D_di_____.jpg",
-      "trailer": "https://www.youtube.com/watch?v=KYaj0yLUMRQ",
+      "url": "https://www.yorck.de/filme/city-of-god",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/atteOHISyXe0y5TQ0/211bcd6a581374484a07fbe434e58cb5/3120889.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg",
+      "trailer": "https://www.youtube.com/watch?v=RoK9HWdrv-k",
       "bookable": true
     },
     {
@@ -6864,6 +6906,69 @@
       "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
       "cinemaName": "sommerkino-kulturforum",
       "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1722287700000",
+      "title": "Poor Things",
+      "normalizedTitle": "POOR THINGS",
+      "version": {
+        "raw": "OmU",
+        "original": true,
+        "english": false
+      },
+      "date": "Mo., 29.07",
+      "timestamp": 1722287700000,
+      "time": "21:15",
+      "url": "https://www.yorck.de/filme/poor-things",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attWDfa5anVc4kKWz/6f55e6a2d496b10ded4e7d70f05dd609/PoorThingsPoster.jpg",
+      "trailer": "https://www.youtube.com/watch?v=QD_7kVk8t2w",
+      "bookable": true
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1722719700000",
+      "title": "Anatomie eines Falls",
+      "normalizedTitle": "ANATOMIE EINES FALLS",
+      "version": {
+        "raw": "OmeU",
+        "original": true,
+        "english": true
+      },
+      "date": "Sa., 03.08",
+      "timestamp": 1722719700000,
+      "time": "21:15",
+      "url": "https://www.yorck.de/filme/anatomie-eines-falls",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attUB94KB3ZKBjDVb/e96dd2a2e5c1e06c9e0380d9943c01dc/Anatomy_of_a_Fall_-_Poster.jpg",
+      "trailer": "https://www.youtube.com/watch?v=FUXawkH-ONM",
+      "bookable": true
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1722374100000",
+      "title": "All of Us Strangers",
+      "normalizedTitle": "ALL OF US STRANGERS",
+      "version": {
+        "raw": "OmU",
+        "original": true,
+        "english": false
+      },
+      "date": "Di., 30.07",
+      "timestamp": 1722374100000,
+      "time": "21:15",
+      "url": "https://www.yorck.de/filme/all-of-us-strangers",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attfd27p5HOxH9FfR/d3e6cdda983ee8bdabbbd4fdc25bf48a/All_of_Us_Strangers_-_Poster.jpg",
+      "trailer": "https://www.youtube.com/watch?v=Bk27CxEgMh4",
+      "bookable": true
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
       "id": "kulturforum-1722891600000",
       "title": "The Big Lebowski",
       "normalizedTitle": "THE BIG LEBOWSKI",
@@ -6879,90 +6984,6 @@
       "description": "<p>Eines Tages wird der Dude zu Hause von zwei schlecht gelaunten Geldeintreibern erwartet. Sie haben ihn mit dem echten Big Lebowski, der ein reicher Geschäftsmann ist, verwechselt und fordern jetzt von ihm das Geld, das seine angebliche Frau Bunny ihnen schuldet. Nachdem sie auf seinen Lieblingsteppich uriniert haben, begibt sich der beleidigte Dude auf die Suche nach dem richtigen Big Lebowski, um seinen Schaden ersetzt zu bekommen. Doch damit fangen seine Probleme erst richtig an.</p>\n",
       "img": "//images.ctfassets.net/4mws6uyas4ta/attBC7yV2WpzQBcag/566c1f472c5068bffd19b52fccadd3ba/wlpjRBQdRSVdu2a8icYZaIp2xmt.jpg",
       "trailer": "https://www.youtube.com/watch?v=knxhiwUspsA",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1721338200000",
-      "title": "The Zone of Interest",
-      "normalizedTitle": "THE ZONE OF INTEREST",
-      "version": {
-        "raw": "OmeU",
-        "original": true,
-        "english": true
-      },
-      "date": "Do., 18.07",
-      "timestamp": 1721338200000,
-      "time": "21:30",
-      "url": "https://www.yorck.de/filme/the-zone-of-interest",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/att47rZGHHR1npCNW/6b6eb998440272edce439a28aadcb686/The_Zone_of_Interest_-_Poster.jpg",
-      "trailer": "https://www.youtube.com/watch?v=65ryUIV0h2s",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1721855700000",
-      "title": "Robot Dreams",
-      "normalizedTitle": "ROBOT DREAMS",
-      "version": {
-        "raw": "OV",
-        "original": true,
-        "english": false
-      },
-      "date": "Mi., 24.07",
-      "timestamp": 1721855700000,
-      "time": "21:15",
-      "url": "https://www.yorck.de/filme/robot-dreams",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/att0APybsMy5xqn2N/8ca1b4119bf8e1137156c2af81527d48/Robot_Dreams_-_Poster.jpg",
-      "trailer": "https://www.youtube.com/watch?v=a22XcmJf-34",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1721769300000",
-      "title": "Dream Scenario",
-      "normalizedTitle": "DREAM SCENARIO",
-      "version": {
-        "raw": "OmU",
-        "original": true,
-        "english": false
-      },
-      "date": "Di., 23.07",
-      "timestamp": 1721769300000,
-      "time": "21:15",
-      "url": "https://www.yorck.de/filme/dream-scenario",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attwmcc4kBY3a9ad0/92116bb0e29e0904b96b255757085517/Dream_Scenario_-_Poster.jpg",
-      "trailer": "https://www.youtube.com/watch?v=OS7uykPT5Ls",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1721942100000",
-      "title": "City of God",
-      "normalizedTitle": "CITY OF GOD",
-      "version": {
-        "raw": "OmeU",
-        "original": true,
-        "english": true
-      },
-      "date": "Do., 25.07",
-      "timestamp": 1721942100000,
-      "time": "21:15",
-      "url": "https://www.yorck.de/filme/city-of-god",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/atteOHISyXe0y5TQ0/211bcd6a581374484a07fbe434e58cb5/3120889.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg",
-      "trailer": "https://www.youtube.com/watch?v=RoK9HWdrv-k",
       "bookable": true
     },
     {
@@ -7012,48 +7033,6 @@
       "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
       "cinemaName": "sommerkino-kulturforum",
       "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1722114900000",
-      "title": "The Bikeriders",
-      "normalizedTitle": "THE BIKERIDERS",
-      "version": {
-        "raw": "OmU",
-        "original": true,
-        "english": false
-      },
-      "date": "Sa., 27.07",
-      "timestamp": 1722114900000,
-      "time": "21:15",
-      "url": "https://www.yorck.de/filme/the-bikeriders",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attfeuFB40RVeB5Q1/79cf643e5501aeca378f22cac59ac7b4/The_Bikeriders_-_Poster.jpg",
-      "trailer": "https://www.youtube.com/watch?v=2hZIcLBplYg",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1721596500000",
-      "title": "Pride",
-      "normalizedTitle": "PRIDE",
-      "version": {
-        "raw": "OmU",
-        "original": true,
-        "english": false
-      },
-      "date": "So., 21.07",
-      "timestamp": 1721596500000,
-      "time": "21:15",
-      "url": "https://www.yorck.de/filme/pride",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attibanCCfdMzoj00/e75ee960a5e518b4c813fe0d4b2a4501/Pride_-_Poster.jpg",
-      "trailer": "https://www.youtube.com/watch?v=W0JeD0P-KJE",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
       "id": "kulturforum-1725137100000",
       "title": "Klassiker im Sommerkino",
       "normalizedTitle": "KLASSIKER IM SOMMERKINO",
@@ -7065,6 +7044,42 @@
       "date": "Sa., 31.08",
       "timestamp": 1725137100000,
       "time": "20:45",
+      "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1723755600000",
+      "title": "Klassiker im Sommerkino",
+      "normalizedTitle": "KLASSIKER IM SOMMERKINO",
+      "version": {
+        "raw": "OmU",
+        "original": true,
+        "english": false
+      },
+      "date": "Do., 15.08",
+      "timestamp": 1723755600000,
+      "time": "21:0",
+      "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1723410000000",
+      "title": "Klassiker im Sommerkino",
+      "normalizedTitle": "KLASSIKER IM SOMMERKINO",
+      "version": {
+        "raw": "OmU",
+        "original": true,
+        "english": false
+      },
+      "date": "So., 11.08",
+      "timestamp": 1723410000000,
+      "time": "21:0",
       "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
     },
     {
@@ -7108,24 +7123,6 @@
       "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
       "cinemaName": "sommerkino-kulturforum",
       "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1723755600000",
-      "title": "Klassiker im Sommerkino",
-      "normalizedTitle": "KLASSIKER IM SOMMERKINO",
-      "version": {
-        "raw": "OmU",
-        "original": true,
-        "english": false
-      },
-      "date": "Do., 15.08",
-      "timestamp": 1723755600000,
-      "time": "21:0",
-      "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
       "id": "kulturforum-1723150800000",
       "title": "Klassiker im Sommerkino",
       "normalizedTitle": "KLASSIKER IM SOMMERKINO",
@@ -7144,24 +7141,6 @@
       "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
       "cinemaName": "sommerkino-kulturforum",
       "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1723410000000",
-      "title": "Klassiker im Sommerkino",
-      "normalizedTitle": "KLASSIKER IM SOMMERKINO",
-      "version": {
-        "raw": "OmU",
-        "original": true,
-        "english": false
-      },
-      "date": "So., 11.08",
-      "timestamp": 1723410000000,
-      "time": "21:0",
-      "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
       "id": "kulturforum-1722546900000",
       "title": "Klassiker im Sommerkino",
       "normalizedTitle": "KLASSIKER IM SOMMERKINO",
@@ -7172,6 +7151,24 @@
       },
       "date": "Do., 01.08",
       "timestamp": 1722546900000,
+      "time": "21:15",
+      "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1721942100000",
+      "title": "Klassiker im Sommerkino",
+      "normalizedTitle": "KLASSIKER IM SOMMERKINO",
+      "version": {
+        "raw": "OmU",
+        "original": true,
+        "english": false
+      },
+      "date": "Do., 25.07",
+      "timestamp": 1721942100000,
       "time": "21:15",
       "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
     },
@@ -7216,18 +7213,36 @@
       "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
       "cinemaName": "sommerkino-kulturforum",
       "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1721942100000",
-      "title": "Klassiker im Sommerkino",
-      "normalizedTitle": "KLASSIKER IM SOMMERKINO",
+      "id": "kulturforum-1724100300000",
+      "title": "in the mood",
+      "normalizedTitle": "IN THE MOOD",
       "version": {
-        "raw": "OmU",
+        "raw": "OmU InTheMood",
         "original": true,
         "english": false
       },
-      "date": "Do., 25.07",
-      "timestamp": 1721942100000,
-      "time": "21:15",
-      "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
+      "date": "Mo., 19.08",
+      "timestamp": 1724100300000,
+      "time": "20:45",
+      "url": "https://www.yorck.de/filme/in-the-mood"
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1723323600000",
+      "title": "in the mood",
+      "normalizedTitle": "IN THE MOOD",
+      "version": {
+        "raw": "OmU InTheMood",
+        "original": true,
+        "english": false
+      },
+      "date": "Sa., 10.08",
+      "timestamp": 1723323600000,
+      "time": "21:0",
+      "url": "https://www.yorck.de/filme/in-the-mood"
     },
     {
       "cinemaId": "sommerkino-kulturforum",
@@ -7264,42 +7279,6 @@
       "timestamp": 1721682900000,
       "time": "21:15",
       "url": "https://www.yorck.de/filme/surf-film-nacht-african-territory-2"
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1724100300000",
-      "title": "in the mood",
-      "normalizedTitle": "IN THE MOOD",
-      "version": {
-        "raw": "OmU InTheMood",
-        "original": true,
-        "english": false
-      },
-      "date": "Mo., 19.08",
-      "timestamp": 1724100300000,
-      "time": "20:45",
-      "url": "https://www.yorck.de/filme/in-the-mood"
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1723323600000",
-      "title": "in the mood",
-      "normalizedTitle": "IN THE MOOD",
-      "version": {
-        "raw": "OmU InTheMood",
-        "original": true,
-        "english": false
-      },
-      "date": "Sa., 10.08",
-      "timestamp": 1723323600000,
-      "time": "21:0",
-      "url": "https://www.yorck.de/filme/in-the-mood"
     }
   ],
   "sommerkino-schloss-charlottenburg": [],
@@ -7324,8 +7303,8 @@
       "img": "https://images.cinetixx.com/posters/2954376461/thumbnails/2954376461_211_300.jpg",
       "description": "In „Challengers – Rivalen“, dem neuen Werk des visionären Filmemachers Luca Guadagnino, spielt Zendaya in der Hauptrolle das ehemalige Tennis-Wunderkind Tashi Duncan. Die zielstrebige Powerfrau arbeitet inzwischen erfolgreich als Trainerin und hat ihren Ehemann (Mike Faist, „West Side Story“) zum Champion aufgebaut. Weil sich dieser jedoch in einem Formtief befindet, bringt Tashi ihn dazu, an einem unterklassigen Turnier teilzunehmen, um zu alter Stärke zurückzufinden. Der Comeback-Plan nimmt allerdings eine überraschende Wendung, als Tashis Mann gegen den gescheiterten Patrick (Josh O’Connor, „The Crown“) antreten muss – seinen ehemaligen besten Freund und Tashis früheren Lebensgefährten. Während Vergangenheit und Gegenwart aufeinanderprallen und die Spannungen hochkochen, muss sich Tashi eine entscheidende Frage stellen: Wie weit gehe ich, um zu gewinnen?",
       "trailer": "https://youtu.be/cip1rKB5_sc?si=jkSTHrpeE91MKSoi",
-      "available": 173,
-      "reserved": 27,
+      "available": 169,
+      "reserved": 31,
       "bookable": true
     },
     {
