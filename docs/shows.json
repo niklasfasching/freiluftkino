@@ -85,28 +85,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "fhain-1088": {
-    "cinemaId": "fh_freiluftkino",
-    "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
-    "cinemaName": "Freiluftkino Friedrichshain",
-    "cinemaShortName": "fhain",
-    "id": "fhain-1088",
-    "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/1088",
-    "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=1085",
-    "trailer": "https://www.youtube.com/watch?v=7QR3Reqezgw",
-    "title": "Poor Things / engl.m.dt.Ut",
-    "normalizedTitle": "POOR THINGS / ENGL.M.DT.UT",
-    "version": {
-      "original": false,
-      "english": false
-    },
-    "date": "So., 28.07",
-    "timestamp": 1722201300000,
-    "time": "21:15",
-    "available": 0,
-    "reserved": 0,
-    "bookable": true
-  },
   "fhain-1105": {
     "cinemaId": "fh_freiluftkino",
     "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
@@ -890,7 +868,7 @@
     "reserved": 0,
     "bookable": true
   },
-  "xberg-1033": {
+  "xberg-1057": {
     "trailer": "https://www.youtube.com/watch?v=Bk27CxEgMh4&amp;ab_channel=20thCenturyStudiosDE",
     "description": "Mit seinem flüchtig betrunkenen Besuch an der Wohnungstür durchbricht Harry den routinierten Alltag von Adam. Eine Begegnung ist möglich in diesem merkwürdigen Hochhaus irgendwo, Liebe möglicherweise gar. Die beiden beginnen, sich von Ihren Leben zu erzählen.\nZu schwärmen wäre über das subtil meisterhafte Spiel der Darsteller; über die erstaunliche Art und Weise des Films, Adams Vergangenheit zu erzählen; über den Schnitt des Films, der die Zeitebenen makellos fließen lässt; über den Soundtrack; über Regisseur Andrew Haigh (Weekend, 45 Jahr, ...) und über so vieles mehr .... \"Ein bewegender Film und ein Beweis für die Kraft der Liebe.\"\nThe New York Times",
     "rawVersion": "All of Us Strangers",
@@ -898,8 +876,8 @@
     "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
     "cinemaName": "Freiluftkino Kreuzberg",
     "cinemaShortName": "xberg",
-    "id": "xberg-1033",
-    "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/1033",
+    "id": "xberg-1057",
+    "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/1057",
     "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=1022",
     "title": "All of Us Strangers / engl.m.dt.Ut",
     "normalizedTitle": "ALL OF US STRANGERS / ENGL.M.DT.UT",
@@ -908,9 +886,9 @@
       "original": true,
       "english": false
     },
-    "date": "So., 28.07",
-    "timestamp": 1722201300000,
-    "time": "21:15",
+    "date": "Mo., 19.08",
+    "timestamp": 1724099400000,
+    "time": "20:30",
     "available": 0,
     "reserved": 0,
     "bookable": true
@@ -1795,31 +1773,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "rehberge-1044": {
-    "trailer": "https://www.youtube.com/watch?v=RthpX-j4juU",
-    "description": "Das Haus der Lagerkommandanten Rudolf Höß und seiner Frau Hedwig grenzt direkt an das Konzentrationslager Auschwitz: Ein gepflegter Staudengarten, Familienbesuch, Tagesausflüge zum nahegelegenen Fluss. Regie, Kamera und Schauspiel halten dabei die denkbar größte Distanz zu den Personen, die hier agieren und ihren Alltag organisieren. Es ist diese Art der Inszenierung, die The Zone of Interest zu einem so wichtigen und besonderen Film dieser Saison macht. \"Ein filmischer Meilenstein, ein neuer Schritt der Auseinandersetzung mit den Verbrechen der Nazis, die niemals enden darf. Er schiebt das Geschehen nicht in die sichere Entfernung eines historischen Raumes. Er vergegenwärtigt, dass Herr und Frau Jedermann am Werk waren.\"radioeins",
-    "rawVersion": "The Zone of Interest",
-    "cinemaId": "rb_freiluftkino",
-    "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
-    "cinemaName": "Freiluftkino Rehberge",
-    "cinemaShortName": "rehberge",
-    "id": "rehberge-1044",
-    "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/1044",
-    "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=1019",
-    "title": "The Zone of Interest / dt.m.engl.Ut",
-    "normalizedTitle": "THE ZONE OF INTEREST / DT.M.ENGL.UT",
-    "version": {
-      "raw": "The Zone of Interest",
-      "original": true,
-      "english": false
-    },
-    "date": "So., 28.07",
-    "timestamp": 1722201300000,
-    "time": "21:15",
-    "available": 0,
-    "reserved": 0,
-    "bookable": true
-  },
   "rehberge-1055": {
     "trailer": "https://www.youtube.com/watch?v=sixPA4zb8k0",
     "description": "Knut Elstermann von radioeins fasst diesen Film für uns zusammen: \"Gedreht in Schwarz-weiß orientiert sich diese Geschichte einer stillen Emanzipation an den Klassikern des italienischen Neorealismus, entwickelt aber eine ganz eigene, fast musikalische Handschrift und einen unwiderstehlichen Sog. Regisseurin Paola Cortellesi, die auch die Hauptrolle mit anrührender Empathie und innerer Würde spielt, vermag es in ihrem großartigen Regiedebüt, die Tragik dieser Lebenssituation mit Situationskomik zu erfüllen. Dieser Film war in Italien eine Sensation und schlug an der Kinokasse selbst Blockbuster wie Barbie.\"",
@@ -2580,78 +2533,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "hasenheide-781794": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-781794",
-    "title": "Wonka ",
-    "normalizedTitle": "WONKA",
-    "version": {
-      "raw": "",
-      "original": false,
-      "english": false
-    },
-    "date": "So., 28.07",
-    "timestamp": 1722124800000,
-    "time": "16:30",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/781794?layout=shows",
-    "img": "https://media.kinoheld.de/JCfxLHi1jgh_ltdY4sjWjjSK_FA=/400x560/images%2Ffilm%2Fwonka-496491699963035169996303516999630361700613898170061392517006144991700614566170061457317006145771700614724170061473617006150121700615077170061590717006161211700617006170061710217006183531700618371701699749.v79.png",
-    "description": "Wie wurde aus Willy Wonka der größte Erfinder, Zauberkünstler und Schokoladenfabrikant der Welt, den wir heute alle kennen und lieben? \r\nDie Antwort auf diese Frage liefert „Wonka“: Der Film erzählt die fantastische Geschichte des Mannes, der im Mittelpunkt von Roald Dahls Buch „Charlie und die Schokoladenfabrik“ steht, seinem bekanntesten Werk und einem der meistverkauften Kinderbücher aller Zeiten. „Wonka“ ist eine berauschende Mischung aus Magie und Musik, Chaos und Emotionen, erzählt mit viel Herz und Humor.",
-    "trailer": "https://www.youtube.com/watch?v=cLqQWmUnh24",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
-  "hasenheide-781795": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-781795",
-    "title": "Morgen ist auch noch ein Tag (OmU)",
-    "normalizedTitle": "MORGEN IST AUCH NOCH EIN TAG",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "So., 28.07",
-    "timestamp": 1722124800000,
-    "time": "18:45",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/781795?layout=shows",
-    "img": "https://media.kinoheld.de/__MWYc4XsTMdJMebCvIC66SSUiM=/400x560/images%2Ffilm%2Fmorgen-ist-auch-noch-ein-tag-55003.v17074797330146.jpg",
-    "description": "Rom, 1946 nach der Befreiung vom Faschismus. Delia (Paola Cortellesi) ist die Frau von Ivano (Valerio Mastandrea) und Mutter dreier Kinder. Zwei Rollen, in die sie sich voller Hingabe fügt. Obendrein bessert sie die Haushaltskasse mit vielen kleinen Hilfsarbeiten auf, um die Familie über Wasser zu halten. Ivano hingegen fühlt sich berechtigt, alle daran zu erinnern, wer der Ernährer ist. Nicht nur mit Worten. Körperliche und psychische Gewalt gehören für Delia zum Alltag. Bis ein mysteriöser Brief eintrifft, der ihr den Mut gibt, alles über den Haufen zu werfen und sich ein besseres Leben zu wünschen, nicht nur für sich selbst ...",
-    "trailer": "https://www.youtube.com/watch?v=LSd2UHixIL8",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
-  "hasenheide-781849": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-781849",
-    "title": "Back to Black (OmU)",
-    "normalizedTitle": "BACK TO BLACK",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "So., 28.07",
-    "timestamp": 1722124800000,
-    "time": "21:30",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/781849?layout=shows",
-    "img": "https://media.kinoheld.de/kQbyYhmYG7c-YrgJiRxr6XSSV24=/400x560/images%2Ffilm%2Fback-to-black-55729.v17096395097391.jpg",
-    "description": "Der biografische Film über das kurze, tragische Leben der englischen Sängerin und Komponistin Amy Winehouse (1983-2011) beleuchtet die bekannten Aspekte einer hochbegabten Musikerin, die von den Herausforderungen ihres Lebens, ob groß oder klein, überwältigt wurde. Ihr Leben endete tragisch im Alter von 27 Jahren aufgrund einer tragischen Kombination aus Magersucht sowie Alkohol- und Drogenmissbrauch.",
-    "trailer": "https://www.youtube.com/watch?v=r8LV6hrX1WE",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
   "hasenheide-781798": {
     "cinemaId": "580",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
@@ -2911,7 +2792,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/783828?layout=shows",
     "img": "https://media.kinoheld.de/VqBw9L5TUnVG2bklujoLdv2YLHI=/400x560/images%2Ffilm%2Fsleep-with-your-eyes-open-59303.v17145390995189.jpg",
     "description": "Eine Küstenmetropole in Brasilien. Kai landet mit gebrochenem Herzen aus Taiwan, um Ferien zu machen. Eine kaputte Klimaanlage führt sie in das Regenschirmgeschäft von Fu Ang. Er könnte ein Freund werden, doch die Regenzeit bleibt aus und sein Geschäft verschwindet. Auf der Suche nach Fu Ang entdeckt Kai die Geschichte von Xiaoxin und einer Gruppe chinesischer Arbeiter in einem noblen Wolkenkratzer. Importprodukte made in China treffen auf Probleme mit den reichen, weißen Nachbarn. In Xiaoxins Erzählung findet Kai sich merkwürdig gespiegelt.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=dEMik2WEzmY",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2935,7 +2816,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/783829?layout=shows",
     "img": "https://media.kinoheld.de/1gfy4l9eFLBHCtI3Cw0j9IkBp6Q=/400x560/images%2Ffilm%2Fmaxxxine-58615.v17198227103754.jpg",
     "description": "Ein langer, blutiger Weg zum Ruhm. Mitte der Achtzigerjahre bekommt Pornostar Maxine Minx (Mia Goth) endlich ihre große Chance in Hollywood. Doch ein geheimnisvoller Privatdetektiv und die grausamen Morde eines Serienkillers in ihrem Umfeld sorgen dafür, dass ausgerechnet jetzt ihre unheilvolle Vergangenheit ans Licht kommen könnte.\r\n\r\nDas mörderische Grauen hinter den Schlagzeilen des sogenannten „Texas Pornhouse Massacre“, das Maxine (Mia Goth) in X nur knapp überlebt hat, ist für sie nur noch eine düstere Erinnerung im Rückspiegel. Mittlerweile ist sie eine gefragte Porno-Darstellerin und bekommt 1985 sogar die Gelegenheit, den Sprung nach Hollywood zu schaffen und mit einer Hauptrolle im neuen Horrorfilm von Elizabeth Binder (Elizabeth Debicki) endlich ein „echter“ Star zu werden. Es ist eine Chance, die sie sich nicht nehmen lassen will – weder vom berüchtigten Serienmörder Night-Stalker, der die Stadt in Angst und Schrecken versetzt, noch von den Ermittlungen eines geheimnisvollen Privatdetektivs (Kevin Bacon) zu ihrer düsteren Vergangenheit.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=E_GWOffaO_8",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2981,7 +2862,7 @@
     "timestamp": 1722556800000,
     "time": "18:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/783831?layout=shows",
-    "img": "https://media.kinoheld.de/LSb4n0nWfZpw_W2hxnzOFWZYrOU=/400x560/images%2Ffilm%2Fsonne-und-beton-4102117006135401700618209170064475217007860091700788366.v17220380694262.jpg",
+    "img": "https://media.kinoheld.de/VoCL9DvSzwPXzm1jscTmUCUqY4A=/400x560/images%2Ffilm%2Fsonne-und-beton-4102117006135401700618209170064475217007860091700788366.v17221749437332.jpg",
     "description": "Berlin-Gropiusstadt im Rekordsommer 2003. In den Parks stinkt es nach Hundescheiße, überall Scherben, in den Ecken stehen Dealer. Wer hier lebt, ist Gangster oder Opfer. Lukas (Levy Rico Arcos), Gino (Rafael Luis Klein-Heßling) und Julius (Vincent Wiemer) sind solche Opfer. Kein Geld fürs Schwimmbad, kein Glück in der Liebe und nur Stress zu Hause. Als sie im Park Gras kaufen wollen, geraten sie zwischen rivalisierende Dealer. Die verprügeln Lukas und wollen 500 Euro Schutzgeld. Wie soll Lukas das Geld auftreiben? Sein neuer Klassenkamerad Sanchez (Aaron Maldonado-Morales) hat eine Idee: Einfach in die Schule einbrechen, die neuen Computer aus dem Lager schleppen und verkaufen. Dann sind sie alle Geldsorgen los. Der Plan gelingt. Fast.",
     "trailer": "https://www.youtube.com/watch?v=qiepdcWFu9Y",
     "available": -1,
@@ -3220,7 +3101,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/783840?layout=shows",
     "img": "https://media.kinoheld.de/fOsnnKAUVMaQ7DLzmrXaFpVgOAI=/400x560/images%2Ffilm%2Feverything-everywhere-all-at-once-22045.v17142624576923.jpg",
     "description": "Evelyn Wang führt einen Waschsalon und kämpft mit Steuerproblemen und Familienkonflikten. Während sie die Geburtstagsparty ihres Vaters organisiert, findet ihr Ehemann Waymond keine Gelegenheit, das Thema Scheidung anzusprechen. Ihre Tochter Joy verärgert sie zusätzlich, indem sie plant, ihre Freundin Becky zur Feier mitzubringen, obwohl Evelyn Schwierigkeiten mit Joys sexueller Orientierung hat. Evelyns Leben verlief nicht wie erhofft. Doch bald bietet sich ihr eine unerwartete Chance, alles zu verändern.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=nz-eUNVQpzk",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -3577,7 +3458,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/783895?layout=shows",
     "img": "https://media.kinoheld.de/1gfy4l9eFLBHCtI3Cw0j9IkBp6Q=/400x560/images%2Ffilm%2Fmaxxxine-58615.v17198227103754.jpg",
     "description": "Ein langer, blutiger Weg zum Ruhm. Mitte der Achtzigerjahre bekommt Pornostar Maxine Minx (Mia Goth) endlich ihre große Chance in Hollywood. Doch ein geheimnisvoller Privatdetektiv und die grausamen Morde eines Serienkillers in ihrem Umfeld sorgen dafür, dass ausgerechnet jetzt ihre unheilvolle Vergangenheit ans Licht kommen könnte.\r\n\r\nDas mörderische Grauen hinter den Schlagzeilen des sogenannten „Texas Pornhouse Massacre“, das Maxine (Mia Goth) in X nur knapp überlebt hat, ist für sie nur noch eine düstere Erinnerung im Rückspiegel. Mittlerweile ist sie eine gefragte Porno-Darstellerin und bekommt 1985 sogar die Gelegenheit, den Sprung nach Hollywood zu schaffen und mit einer Hauptrolle im neuen Horrorfilm von Elizabeth Binder (Elizabeth Debicki) endlich ein „echter“ Star zu werden. Es ist eine Chance, die sie sich nicht nehmen lassen will – weder vom berüchtigten Serienmörder Night-Stalker, der die Stadt in Angst und Schrecken versetzt, noch von den Ermittlungen eines geheimnisvollen Privatdetektivs (Kevin Bacon) zu ihrer düsteren Vergangenheit.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=E_GWOffaO_8",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -3839,7 +3720,7 @@
     "timestamp": 1723593600000,
     "time": "18:00",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/783906?layout=shows",
-    "img": "https://media.kinoheld.de/QW5vo6KgyW2OH2MUNsftXlziT40=/400x560/images%2Ffilm%2Fcrossing-the-bridge-the-sound-of-istanbul-60971.v17218654929399.jpg",
+    "img": "https://media.kinoheld.de/SfwoPkpEyI3iaP1DoX6RUWP1pLI=/400x560/images%2Ffilm%2Fcrossing-the-bridge-the-sound-of-istanbul-60971.v17222089246162.jpg",
     "description": "Ein Portrait von Istanbuls Musikszene. Alexander Hacke, Bassist der Einstürzenden Neubauten, führt durch den Film. Man erhält u.a. einen Einblick in die Istanbuler Rock-, Rap- und Arabeske-Szene.",
     "available": -1,
     "reserved": 0,
@@ -3936,7 +3817,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/783957?layout=shows",
     "img": "https://media.kinoheld.de/r_x8Lgkh3podDc1e-RphgOv_LjY=/400x560/images%2Ffilm%2Fkinds-of-kindness-58821.v17198236394536.jpg",
     "description": "KINDS OF KINDNESS erzählt drei unterschiedliche Geschichten auf einzigartige Weise: Von einem getriebenen Mann, der versucht, die Kontrolle über sein Leben zu erlangen; von einem beunruhigten Polizisten, dessen auf See vermisste Frau nach ihrer Rückkehr ein anderer Mensch zu sein scheint; und von einer entschlossenen Frau, die jemanden finden muss, der dazu bestimmt ist, ein großer spiritueller Führer zu werden.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=7mSXOwQV_no",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -4030,7 +3911,7 @@
     "timestamp": 1723852800000,
     "time": "16:00",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/783961?layout=shows",
-    "img": "https://media.kinoheld.de/L7JvgH4IKOBmHpEKMqOUDJd6U1I=/400x560/images%2Ffilm%2Fyakari-der-kinofilm-174331692143854169214675616921590551692230294169225928716922593081692405137169243128416924312921693007743169300783016930099851693094139.v17220381055623.jpg",
+    "img": "https://media.kinoheld.de/TS6ZpfoWlbm6VIo0A6Z0s19K3l4=/400x560/images%2Ffilm%2Fyakari-der-kinofilm-174331692143854169214675616921590551692230294169225928716922593081692405137169243128416924312921693007743169300783016930099851693094139.v17222088911978.jpg",
     "description": "Yakari hat einen Traum: Er möchte eines Tages auf Kleiner Donner reiten, dem Wildpferd, das noch von keinem Sioux gezähmt werden konnte. Als die Jäger seines Stammes eine Herde Mustangs einfangen, kann Kleiner Donner mit einem mächtigen Sprung wieder entkommen. Yakari folgt dem jungen Pferd und befreit es, als es seinen Huf unter einem Felsen eingeklemmt hat. Für diese mutige Tat verleiht ihm Großer Adler, Yakaris Totemtier, die Gabe, mit Tieren zu sprechen. Auf der Suche nach Kleiner Donner gerät Yakari in einen reißenden Fluss. Er klammert sich an einen Baumstamm, stürzt aber dennoch einen Wasserfall herab und treibt den Fluss hinunter, weit weg von seiner Heimat. Nun ist es Yakari, der die Hilfe von Kleiner Donner braucht: Gemeinsam machen sie sich auf den weiten und abenteuerlichen Rückweg durchs Gebirge. Dabei treffen die beiden nicht nur viele verschiedene Tiere, es machen ihnen auch Kälte und Hunger zu schaffen. Dazu sind ihnen Jäger eines feindlichen Stammes auf der Spur und ein Sturm droht, Yakaris Eltern, die auf der Suche nach ihrem Sohn sind, in Gefahr zu bringen... (Quelle: Verleih)",
     "trailer": "https://www.youtube.com/watch?v=MaMB79Rhrfo",
     "available": -1,
@@ -4152,7 +4033,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/783966?layout=shows",
     "img": "https://media.kinoheld.de/r_x8Lgkh3podDc1e-RphgOv_LjY=/400x560/images%2Ffilm%2Fkinds-of-kindness-58821.v17198236394536.jpg",
     "description": "KINDS OF KINDNESS erzählt drei unterschiedliche Geschichten auf einzigartige Weise: Von einem getriebenen Mann, der versucht, die Kontrolle über sein Leben zu erlangen; von einem beunruhigten Polizisten, dessen auf See vermisste Frau nach ihrer Rückkehr ein anderer Mensch zu sein scheint; und von einer entschlossenen Frau, die jemanden finden muss, der dazu bestimmt ist, ein großer spiritueller Führer zu werden.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=7mSXOwQV_no",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -4368,7 +4249,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/783974?layout=shows",
     "img": "https://media.kinoheld.de/r_x8Lgkh3podDc1e-RphgOv_LjY=/400x560/images%2Ffilm%2Fkinds-of-kindness-58821.v17198236394536.jpg",
     "description": "KINDS OF KINDNESS erzählt drei unterschiedliche Geschichten auf einzigartige Weise: Von einem getriebenen Mann, der versucht, die Kontrolle über sein Leben zu erlangen; von einem beunruhigten Polizisten, dessen auf See vermisste Frau nach ihrer Rückkehr ein anderer Mensch zu sein scheint; und von einer entschlossenen Frau, die jemanden finden muss, der dazu bestimmt ist, ein großer spiritueller Führer zu werden.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=7mSXOwQV_no",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -4584,7 +4465,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/784028?layout=shows",
     "img": "https://media.kinoheld.de/FE_J2Alv9tiBHJ4RtASoI91SAA8=/400x560/images%2Ffilm%2Ffuriosa-a-mad-max-saga-57691.v17104800190497.jpg",
     "description": "Als die Welt zusammenbricht, wird die junge Furiosa aus dem Grünen Ort der Vielen Mütter in die Hände einer großen Biker-Horde gerissen, angeführt vom Kriegsherrn Dementus. Sie durchstreifen das Ödland und stoßen auf die Zitadelle, über der Immortan Joe herrscht. Die beiden Tyrannen führen Krieg um die Vorherrschaft, und Furiosa muss viele Prüfungen überstehen, während sie die Mittel zusammenstellt, um ihren Weg nach Hause zu finden.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=iBvn4raq-kU",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -4698,7 +4579,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/784032?layout=shows",
     "img": "https://media.kinoheld.de/r_x8Lgkh3podDc1e-RphgOv_LjY=/400x560/images%2Ffilm%2Fkinds-of-kindness-58821.v17198236394536.jpg",
     "description": "KINDS OF KINDNESS erzählt drei unterschiedliche Geschichten auf einzigartige Weise: Von einem getriebenen Mann, der versucht, die Kontrolle über sein Leben zu erlangen; von einem beunruhigten Polizisten, dessen auf See vermisste Frau nach ihrer Rückkehr ein anderer Mensch zu sein scheint; und von einer entschlossenen Frau, die jemanden finden muss, der dazu bestimmt ist, ein großer spiritueller Führer zu werden.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=7mSXOwQV_no",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -4744,7 +4625,7 @@
     "timestamp": 1724716800000,
     "time": "18:00",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/784034?layout=shows",
-    "img": "https://media.kinoheld.de/QW5vo6KgyW2OH2MUNsftXlziT40=/400x560/images%2Ffilm%2Fcrossing-the-bridge-the-sound-of-istanbul-60971.v17218654929399.jpg",
+    "img": "https://media.kinoheld.de/SfwoPkpEyI3iaP1DoX6RUWP1pLI=/400x560/images%2Ffilm%2Fcrossing-the-bridge-the-sound-of-istanbul-60971.v17222089246162.jpg",
     "description": "Ein Portrait von Istanbuls Musikszene. Alexander Hacke, Bassist der Einstürzenden Neubauten, führt durch den Film. Man erhält u.a. einen Einblick in die Istanbuler Rock-, Rap- und Arabeske-Szene.",
     "available": -1,
     "reserved": 0,
@@ -4863,7 +4744,7 @@
     "timestamp": 1724889600000,
     "time": "16:00",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/784083?layout=shows",
-    "img": "https://media.kinoheld.de/1Z7tm-2u1JX9BFSMYcd2FzX8bF4=/400x560/images%2Ffilm%2Frasenmaeher-minions-22205.v17220709595523.jpg",
+    "img": "https://media.kinoheld.de/Q0ATT5cb5xry2bwtiTaDeedYa90=/400x560/images%2Ffilm%2Frasenmaeher-minions-22205.v17222088651785.jpg",
     "description": "Mit 12 Jahren ist Gru (Stimme im Original: Steve Carell, deutsche Stimme: Oliver Rohrbeck) noch weit davon entfernt, der Superschurke zu sein, als den ihn die Welt später kennen wird. In einem beschaulichen Vorort der 70er Jahre träumt er davon, seine Mitmenschen in Angst und Schrecken zu versetzen und vor allem seine großen Vorbilder zu beeindrucken: die Vicious 6, eine von allen gefürchtete Gruppe von Superbösewichten. Tatsächlich schafft es Gru, ein Vorstellungsgespräch bei seinen Idolen zu ergattern, um neues Mitglied der Truppe zu werden – doch die Vicious 6 lachen den schüchternen Knirps nur aus. Um ihnen zu beweisen, was wirklich in ihm steckt, stiehlt er ihnen ein mächtiges Artefakt – und steht fortan ganz oben auf der Abschussliste der Vicious 6. Zum Glück hat Gru seine kleinen, gelben Minions, die ihm dabei helfen, vor seinen neuen Gegnern zu fliehen und gleichzeitig seinen Status als aufsteigender Stern am Superschurken-Himmel auszubauen. Aber sehr zu Grus Verdruss stiften die Minions rund um Kevin, Stuart, Bob und Otto meistens nur neues Chaos, statt wirklich hilfreich zu sein.",
     "trailer": "https://www.youtube.com/watch?v=MqmcwkIyW58",
     "available": -1,
@@ -5054,7 +4935,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/784092?layout=shows",
     "img": "https://media.kinoheld.de/r_x8Lgkh3podDc1e-RphgOv_LjY=/400x560/images%2Ffilm%2Fkinds-of-kindness-58821.v17198236394536.jpg",
     "description": "KINDS OF KINDNESS erzählt drei unterschiedliche Geschichten auf einzigartige Weise: Von einem getriebenen Mann, der versucht, die Kontrolle über sein Leben zu erlangen; von einem beunruhigten Polizisten, dessen auf See vermisste Frau nach ihrer Rückkehr ein anderer Mensch zu sein scheint; und von einer entschlossenen Frau, die jemanden finden muss, der dazu bestimmt ist, ein großer spiritueller Führer zu werden.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=7mSXOwQV_no",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -5175,28 +5056,532 @@
     "reserved": 0,
     "bookable": true
   },
-  "central-3009716593": {
-    "cinemaId": "1839",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
-    "cinemaName": "central-kino-open-air",
-    "cinemaShortName": "central",
-    "id": "central-3009716593",
-    "title": "open air: Hayao Miyazaki: Porco Rosso (OmeU)",
-    "normalizedTitle": "HAYAO MIYAZAKI: PORCO ROSSO",
+  "fmp-3055938937": {
+    "cinemaId": "1657",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
+    "cinemaName": "b-ware-openair-fmp",
+    "cinemaShortName": "fmp",
+    "id": "fmp-3055938937",
+    "title": "DIE GLEICHUNG IHRES LEBENS ",
+    "normalizedTitle": "DIE GLEICHUNG IHRES LEBENS",
+    "version": {
+      "raw": "",
+      "original": false,
+      "english": false
+    },
+    "date": "Mo., 29.07",
+    "timestamp": 1722211200000,
+    "time": "21:30",
+    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/3055938937?layout=shows",
+    "img": "https://media.kinoheld.de/ltPRgxsYI_bg8zWiOjbEnmgNaLo=/400x560/images%2Ffilm%2Fdie-gleichung-ihres-lebens-58729.v17165421902651.jpg",
+    "description": "Primzahlen sind Marguerites große Leidenschaft. Die brillante Mathematikstudentin ist die einzige Frau im Promotionsprogramm unter dem renommierten Professor Werner an der École Normale Supérieure in Paris. Doch als sie bei der Präsentation vor einem Forschergremium mit einem gravierenden Fehler in ihrer Arbeit konfrontiert wird und die Fassung verliert, lässt ihr Doktorvater sie fallen und widmet sich ganz dem talentierten Promovenden Lucas. Tief erschüttert und voller Selbstzweifel wirft Marguerite alles hin und sucht sich einen Aushilfsjob. Schnell muss sie erkennen, dass auch das Leben außerhalb der Universität überraschende Erkenntnisse bereithält und sich weder die Mathematik noch Lucas so einfach aus ihrem Leben verbannen lassen.",
+    "trailer": "https://www.youtube.com/watch?v=iGrRFnLZCuw",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
+  "fmp-3055940100": {
+    "cinemaId": "1657",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
+    "cinemaName": "b-ware-openair-fmp",
+    "cinemaShortName": "fmp",
+    "id": "fmp-3055940100",
+    "title": "BACK TO BLACK (OmdU / en)",
+    "normalizedTitle": "BACK TO BLACK",
+    "version": {
+      "raw": "OmdU en",
+      "original": false,
+      "english": true
+    },
+    "date": "Do., 01.08",
+    "timestamp": 1722470400000,
+    "time": "21:15",
+    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/3055940100?layout=shows",
+    "img": "https://media.kinoheld.de/kQbyYhmYG7c-YrgJiRxr6XSSV24=/400x560/images%2Ffilm%2Fback-to-black-55729.v17096395097391.jpg",
+    "description": "Der biografische Film über das kurze, tragische Leben der englischen Sängerin und Komponistin Amy Winehouse (1983-2011) beleuchtet die bekannten Aspekte einer hochbegabten Musikerin, die von den Herausforderungen ihres Lebens, ob groß oder klein, überwältigt wurde. Ihr Leben endete tragisch im Alter von 27 Jahren aufgrund einer tragischen Kombination aus Magersucht sowie Alkohol- und Drogenmissbrauch.",
+    "trailer": "https://www.youtube.com/watch?v=r8LV6hrX1WE",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
+  "fmp-3055940110": {
+    "cinemaId": "1657",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
+    "cinemaName": "b-ware-openair-fmp",
+    "cinemaShortName": "fmp",
+    "id": "fmp-3055940110",
+    "title": "POOR THINGS (OmU / en)",
+    "normalizedTitle": "POOR THINGS",
+    "version": {
+      "raw": "OmU en",
+      "original": true,
+      "english": true
+    },
+    "date": "Fr., 02.08",
+    "timestamp": 1722556800000,
+    "time": "21:15",
+    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/3055940110?layout=shows",
+    "img": "https://media.kinoheld.de/RSmgEUBEDMg6H0ROaSC2wGwokcQ=/400x560/images%2Ffilm%2Fpoor-things-48815168993613316899361331690165145169016519116901928151690288231169029086616907671541690767161169102948716910294951694049018169966440816997511511700182886170035588317004423911700478256170.v17024988494005.jpg",
+    "description": "In einem fiktionalisierten viktorianischen England hat der unkonventionelle Wissenschaftler Dr. Godwin Baxter (Willem Dafoe) eine junge Frau namens Bella Baxter (Emma Stone) erschaffen, indem er ihren toten Körper mit dem Gehirn ihres ungeborenen Babys kombinierte. Die geistige Entwicklung dieser Kreatur wird in der Isolation seines Anwesens von ihm und einem eifrigen Studenten beobachtet. Mit zunehmendem Lernen weigert sich die Kreatur, sich mit der Rolle als Studienobjekt zufriedenzugeben. Nach der Entdeckung ihrer Sexualität drängt der Hunger nach Leben und Wissen sie hinaus in die Welt. Verführt von einem zwielichtigen Verführer begibt sie sich auf eine Reise, die zu einem großen Abenteuer der Selbst- und Weltentdeckung wird. Bella entdeckt Stück für Stück ihre Leidenschaft für soziale Gerechtigkeit und Befreiung und kann sich so auch ihrer eigenen Zwänge entledigen, Vorurteile hinter sich lassen und sich immer und immer mehr ausleben.",
+    "trailer": "https://www.youtube.com/watch?v=7QR3Reqezgw",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
+  "fmp-3055940120": {
+    "cinemaId": "1657",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
+    "cinemaName": "b-ware-openair-fmp",
+    "cinemaShortName": "fmp",
+    "id": "fmp-3055940120",
+    "title": "LOVE LIES BLEEDING (OmdU / en)",
+    "normalizedTitle": "LOVE LIES BLEEDING",
+    "version": {
+      "raw": "OmdU en",
+      "original": false,
+      "english": true
+    },
+    "date": "Sa., 03.08",
+    "timestamp": 1722643200000,
+    "time": "21:15",
+    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/3055940120?layout=shows",
+    "img": "https://media.kinoheld.de/lL8KyR8XhWfVPb1dpAh2rsctq0I=/400x560/images%2Ffilm%2Flove-lies-bleeding-58533.v17123765875362.jpg",
+    "description": "New Mexico, 1989: Ein Neuankömmling bringt die fragilen Machtverhältnisse einer Kleinstadt in New Mexico ins Wanken. In diesem Fall ist es Jackie (Katy O’Brian), eine junge Bodybuilderin, die auf dem Weg zu einem Muskel-Contest in Las Vegas ist, die in dem kleinen Kaff für Leidenschaft und Kräfteverschiebungen sorgt. Lou (Kristen Stewart), die ihre Zeit normalerweise im Gym totschlägt, ist sofort in ihren Bann gezogen. Während Jackie und Lou sich ineinander verlieben, geraten die beiden in eine sich immer schneller drehende Spirale der Gewalt…Regisseurin Rose Glass (SAINT MAUD) skizziert in ihrem neuen Film einen Mikrokosmos aus Kriminalität, Gewalt, unguten Familienverstrickungen und die Sehnsucht der Akteurinnen, dieses ganze Elend endlich hinter sich zu lassen. Die Chemie zwischen den beiden Hauptdarstellerinnen ist dabei unverkennbar. Trashige Bodybuilder*innen-Ästhetik, treibende Elektro-Musik und Vokuhilas in allen Formen und Farben - LOVE LIES BLEEDING erscheint wie ein noch knalligeres und expliziteres THELMA UND LOUISE. Ein flirrender, mörderischer. erotischer Rausch.",
+    "trailer": "https://www.youtube.com/watch?v=quEcK_Voqx8",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
+  "fmp-3055940142": {
+    "cinemaId": "1657",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
+    "cinemaName": "b-ware-openair-fmp",
+    "cinemaShortName": "fmp",
+    "id": "fmp-3055940142",
+    "title": "ND-KOOP: BERLIN UTOPIEKADAVER ",
+    "normalizedTitle": "ND-KOOP: BERLIN UTOPIEKADAVER",
+    "version": {
+      "raw": "",
+      "original": false,
+      "english": false
+    },
+    "date": "Mo., 05.08",
+    "timestamp": 1722816000000,
+    "time": "21:15",
+    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/3055940142?layout=shows",
+    "img": "https://media.kinoheld.de/sXyKq8uwwfp3FfCuygZOfm8YoTk=/400x560/images%2Ffilm%2Fberlin-utopiekadaver-57721.v17137739859250.jpg",
+    "description": "Das gentrifizierte Berlin verliert zunehmend das, was die Stadt über Jahrzehnte ausmachte: Die Nischen, in denen sich Menschen mit alternativen Lebenskonzepten ausprobieren konnten, mit wenig Geld und großer Freiheit. Die Generation, die sich in freien Räumen der linksalternativen Subkultur ausleben konnte, wird jetzt aus diesen Räumlichkeiten verdrängt und droht ihren Zusammenhalt zu verlieren. Der Punk schwindet, die linksautonomen Orte haben keinen Platz in der Gentrifizierung. Die Hausprojekte, die einst zuhauf vorhanden waren und den Puls der Stadt mitbestimmten, sind so gut wie ausgestorben. Ein historischer Endpunkt?",
+    "trailer": "https://www.youtube.com/watch?v=ybqzfW87M7w",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
+  "fmp-3055940160": {
+    "cinemaId": "1657",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
+    "cinemaName": "b-ware-openair-fmp",
+    "cinemaShortName": "fmp",
+    "id": "fmp-3055940160",
+    "title": "THE DEAD DON'T HURT (en / OmdU)",
+    "normalizedTitle": "THE DEAD DON'T HURT",
+    "version": {
+      "raw": "en OmdU",
+      "original": false,
+      "english": true
+    },
+    "date": "Di., 06.08",
+    "timestamp": 1722902400000,
+    "time": "21:15",
+    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/3055940160?layout=shows",
+    "img": "https://media.kinoheld.de/JpHTDCEmGhJWfJuiQt_n4we0DWU=/400x560/images%2Ffilm%2Fthe-dead-don-t-hurt-60147.v17216429112546.jpg",
+    "description": "Amerika, 1860: Kurz vor Beginn des Bürgerkriegs verlieben sich die emanzipierte Frankokanadierin Vivienne Le Coudy (Vicky Krieps) und der dänische Einwanderer Holger Olsen (Viggo Mortensen) ineinander. In einer kleinen Stadt in Nevada wollen sie sich ein gemeinsames Leben aufbauen. Doch als der Krieg ausbricht, beschließt Holger sich freiwillig zu melden. Vivienne ist fortan in dem korrupten Ort auf sich allein gestellt. Neben den Machtspielen des Bürgermeisters Rudolph Schiller (Danny Huston) muss sie sich vor allem gegen die aufdringlichen Avancen des Ranchers Weston Jeffries (Solly McLeod) zur Wehr setzen. Als Holger von der Front zurückkehrt, sind er und Vivienne nicht mehr dieselben. Sie müssen sich neu kennenlernen, um wieder zueinander zu finden.",
+    "trailer": "https://www.youtube.com/watch?v=9TEyWnkbla8",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
+  "fmp-3055940215": {
+    "cinemaId": "1657",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
+    "cinemaName": "b-ware-openair-fmp",
+    "cinemaShortName": "fmp",
+    "id": "fmp-3055940215",
+    "title": "CROSSING: AUF DER SUCHE NACH TEKLA (OmdU)",
+    "normalizedTitle": "CROSSING: AUF DER SUCHE NACH TEKLA",
+    "version": {
+      "raw": "OmdU",
+      "original": false,
+      "english": false
+    },
+    "date": "Mi., 07.08",
+    "timestamp": 1722988800000,
+    "time": "21:15",
+    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/3055940215?layout=shows",
+    "img": "https://media.kinoheld.de/kNcIX59J0HYNoaS4CtjxKY6RxmU=/400x560/images%2Ffilm%2Fcrossing-auf-der-suche-nach-tekla-60997.v17185813232487.jpg",
+    "description": "Lia, eine pensionierte Lehrerin aus Georgia, erfährt von ihrem jungen Nachbarn Achi, dass ihre lang vermisste Nichte Tekla, eine Transgender-Frau, die Grenze in die Türkei überquert hat. In der Hoffnung, Tekla nach einer Zeit der Entfremdung nach Hause zu bringen, reist Lia mit dem unberechenbaren Achi nach Istanbul, um sie zu finden. Während sie die verborgenen Ecken der Stadt erkunden, begegnen sie der Transgender-Anwältin Evrim, die ihnen bei ihrer Suche hilft.",
+    "trailer": "https://www.youtube.com/watch?v=aR1295MwfAI",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
+  "fmp-3055946575": {
+    "cinemaId": "1657",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
+    "cinemaName": "b-ware-openair-fmp",
+    "cinemaShortName": "fmp",
+    "id": "fmp-3055946575",
+    "title": "ICH - EINFACH UNVERBESSERLICH 4 (Kinder) (OmdU / en)",
+    "normalizedTitle": "ICH - EINFACH UNVERBESSERLICH 4",
+    "version": {
+      "raw": "OmdU en",
+      "original": false,
+      "english": true
+    },
+    "date": "Do., 08.08",
+    "timestamp": 1723075200000,
+    "time": "21:15",
+    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/3055946575?layout=shows",
+    "img": "https://media.kinoheld.de/U1Yij5rIYLsOTT_RaoqUk64MPyo=/400x560/images%2Ffilm%2Fich-einfach-unverbesserlich-4-58807.v17129812577199.jpg",
+    "description": "Vom Superschurken zum Vorstadt-Familienvater? Kann passieren, wenn man Gru (Oliver Rohrbeck) heißt, auf dem Klassentreffen seinen Erzfeind trifft, die Dinge eskalieren und man untertauchen muss. Als aber Baby Gru Junior entführt wird, war es das mit Ruhe und Frieden. Gru und seine Familie machen sich auf zu einer irrwitzigen Rettungsaktion. Mit dabei die Minions, diesmal noch chaotischer, denn ein Superserum hat fünf von ihnen zu Mega Minions mit besonderen Fähigkeiten gemacht!",
+    "trailer": "https://www.youtube.com/watch?v=xBxFg0N0kJU",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
+  "fmp-3055946593": {
+    "cinemaId": "1657",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
+    "cinemaName": "b-ware-openair-fmp",
+    "cinemaShortName": "fmp",
+    "id": "fmp-3055946593",
+    "title": "THE FALL GUY (OmdU / en)",
+    "normalizedTitle": "THE FALL GUY",
+    "version": {
+      "raw": "OmdU en",
+      "original": false,
+      "english": true
+    },
+    "date": "Fr., 09.08",
+    "timestamp": 1723161600000,
+    "time": "21:15",
+    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/3055946593?layout=shows",
+    "img": "https://media.kinoheld.de/qXWtkA5ZaeShB9LLhoBcDcwrdx4=/400x560/images%2Ffilm%2Fthe-fall-guy-55543.v17137801886082.png",
+    "description": "Colt Seavers arbeitet als Stuntman in Hollywood. Als der in die Jahre gekommene Mann während eines Filmdrehs beinahe sein Leben verliert, beschließt er, sich aus der Filmbranche zurückzuziehen. Zur gleichen Zeit erhält seine ehemalige Geliebte und Kamerafrau Jody Moreno die Chance, bei einem opulenten Film die Regie zu übernehmen. Doch ihr Hauptdarsteller Tom Ryder scheint auf mysteriöse Weise verschwunden zu sein. Nun liegt es an ihm, seinem früheren Stuntdouble, Seavers, den Schauspieler zu finden.",
+    "trailer": "https://www.youtube.com/watch?v=v7e4_3lWsZw",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
+  "fmp-3055946983": {
+    "cinemaId": "1657",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
+    "cinemaName": "b-ware-openair-fmp",
+    "cinemaShortName": "fmp",
+    "id": "fmp-3055946983",
+    "title": "ANATOMIE EINES FALLS ",
+    "normalizedTitle": "ANATOMIE EINES FALLS",
+    "version": {
+      "raw": "",
+      "original": false,
+      "english": false
+    },
+    "date": "Sa., 10.08",
+    "timestamp": 1723248000000,
+    "time": "21:15",
+    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/3055946983?layout=shows",
+    "img": "https://media.kinoheld.de/1kip1O9gUfqVn4yHpU3gp7cDUK8=/400x560/images%2Ffilm%2Fanatomie-eines-falls-497811698395586169839558716983955881700613941170070509617007052801700705866170070622817007888881700789126170131204517013317881701915459170191591217021755581702206135.v17066643198895.jpg",
+    "description": "In einer abgeschiedenen Bergregion wird eine Frau des Mordes an ihrem Ehemann beschuldigt. Ihr elfjähriger blinder Sohn ist der einzige Zeuge des Ereignisses. Er steht vor einem moralischen Dilemma, als ein Jahr nach dem Vorfall der Gerichtsprozess stattfindet, bei dem die Beziehung seiner Eltern seziert wird. Der Prozess wird zu einer emotionalen Achterbahnfahrt, die nicht nur die Vergangenheit, sondern auch die Zukunft des Jungen beeinflusst.",
+    "trailer": "https://www.youtube.com/watch?v=h05E9deINIA",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
+  "fmp-3055950196": {
+    "cinemaId": "1657",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
+    "cinemaName": "b-ware-openair-fmp",
+    "cinemaShortName": "fmp",
+    "id": "fmp-3055950196",
+    "title": "BOB MARLEY: ONE LOVE (OmU)",
+    "normalizedTitle": "BOB MARLEY: ONE LOVE",
+    "version": {
+      "raw": "OmU",
+      "original": true,
+      "english": false
+    },
+    "date": "Di., 13.08",
+    "timestamp": 1723507200000,
+    "time": "21:15",
+    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/3055950196?layout=shows",
+    "img": "https://media.kinoheld.de/jwXGMGIo-4gh2ZiPibSpyku6xFI=/400x560/images%2Ffilm%2Fbob-marley-one-love-54233.v17085969342279.jpg",
+    "description": "BOB MARLEY: ONE LOVE feiert das Leben und die Musik eines Ikons, der Generationen durch seine Botschaft von Liebe und Einheit inspirierte. Zum ersten Mal auf der großen Leinwand kannst du Bob Marleys kraftvolle Geschichte über das Überwinden von Widrigkeiten und die Reise hinter seiner revolutionären Musik entdecken.",
+    "trailer": "https://www.youtube.com/watch?v=TnmLr2yAP4I",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
+  "fmp-3055950242": {
+    "cinemaId": "1657",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
+    "cinemaName": "b-ware-openair-fmp",
+    "cinemaShortName": "fmp",
+    "id": "fmp-3055950242",
+    "title": "CHALLENGERS - RIVALEN (OmdU / en)",
+    "normalizedTitle": "CHALLENGERS - RIVALEN",
+    "version": {
+      "raw": "OmdU en",
+      "original": false,
+      "english": true
+    },
+    "date": "Mi., 14.08",
+    "timestamp": 1723593600000,
+    "time": "21:15",
+    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/3055950242?layout=shows",
+    "img": "https://media.kinoheld.de/q98aVeOhpT3LLDEITdjk_qo81Xo=/400x560/images%2Ffilm%2Fchallengers-rivalen-48955.v17131965178347.webp",
+    "description": "Die ehrgeizige Tennisspielerin Tashi Duncan begegnet während eines Turniers zwei 18-jährigen Freunden, die sich beide in sie verlieben und dadurch zu Rivalen um ihre Zuneigung werden. Nach 13 Jahren hat sie Art, einen der beiden geheiratet und seine Karriere als Profispieler gefördert, doch sein beruflicher Fortschritt bleibt aus.Tashi überredet ihn dazu, an einem unterklassigen Turnier teilzunehmen, um seine frühere Stärke zurückzugewinnen. Der Comeback-Plan nimmt jedoch eine unerwartete Wendung, als Art gegen den gescheiterten Patrick antreten muss - seinen ehemaligen besten Freund und Tashis früheren Lebensgefährten.",
+    "trailer": "https://www.youtube.com/watch?v=cip1rKB5_sc",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
+  "fmp-3055952362": {
+    "cinemaId": "1657",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
+    "cinemaName": "b-ware-openair-fmp",
+    "cinemaShortName": "fmp",
+    "id": "fmp-3055952362",
+    "title": "ZWEI ZU EINS ",
+    "normalizedTitle": "ZWEI ZU EINS",
+    "version": {
+      "raw": "",
+      "original": false,
+      "english": false
+    },
+    "date": "Do., 15.08",
+    "timestamp": 1723680000000,
+    "time": "21:00",
+    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/3055952362?layout=shows",
+    "img": "https://media.kinoheld.de/mY8PeZtGaLBXkDacEVkWSUWQRJQ=/400x560/images%2Ffilm%2Fzwei-zu-eins-58057.v17194709486987.jpg",
+    "description": "Halberstadt im Sommer 1990. Maren, Robert und Volker kennen und lieben sich seit ihrer Kindheit. Eher zufällig finden sie in einem alten Schacht die Millionen der DDR, die dort eingelagert wurden, um zu verrotten. Die Drei schmuggeln Rucksäcke voll Geld heraus. Gemeinsam mit ihren Freunden und Nachbarn entwickeln sie ein ausgeklügeltes System, um das inzwischen wertlose Geld in Waren zu tauschen und den anrauschenden Westlern und ihrem Kapitalismus ein Schnippchen zu schlagen. Denn wenn man jetzt ein bisschen schlau ist, kann dieser Sommer nicht nur ein großes Abenteuer, sondern auch der endgültige Wendepunkt in ihrem Leben sein.",
+    "trailer": "https://www.youtube.com/watch?v=DCY0Z0-IseU",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
+  "fmp-3055952372": {
+    "cinemaId": "1657",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
+    "cinemaName": "b-ware-openair-fmp",
+    "cinemaShortName": "fmp",
+    "id": "fmp-3055952372",
+    "title": "KILLERS OF THE FLOWER MOON (OmU / en)",
+    "normalizedTitle": "KILLERS OF THE FLOWER MOON",
+    "version": {
+      "raw": "OmU en",
+      "original": true,
+      "english": true
+    },
+    "date": "Fr., 16.08",
+    "timestamp": 1723766400000,
+    "time": "21:00",
+    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/3055952372?layout=shows",
+    "img": "https://media.kinoheld.de/2M-Xvs1e5lwkuTIzTInCjxJXRTM=/400x560/images%2Ffilm%2Fkillers-of-the-flower-moon-49563169215007716921500781694049560169430583916943916481694998672169502935216950539441695402919169569021716957086841696813828169682416516971697391697289386169743373516974337.v17163352423257.jpg",
+    "description": "Zu Beginn des 20. Jahrhunderts erlebte die Osage Nation aufgrund ihrer reichen Erdölreserven einen enormen Wohlstand, der sie über Nacht zu einer der wohlhabendsten Gemeinschaften weltweit machte. Dieser plötzliche Reichtum zog rasch weiße Siedler an, die die Osage durch Manipulation und Erpressung ausnutzten, um sich so viel Geld wie möglich anzueignen. Schließlich schreckten sie selbst vor Mord nicht zurück.",
+    "trailer": "https://www.youtube.com/watch?v=suOAO57pGSQ",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
+  "fmp-3055952386": {
+    "cinemaId": "1657",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
+    "cinemaName": "b-ware-openair-fmp",
+    "cinemaShortName": "fmp",
+    "id": "fmp-3055952386",
+    "title": "KINDS OF KINDNESS (OmdU / en)",
+    "normalizedTitle": "KINDS OF KINDNESS",
+    "version": {
+      "raw": "OmdU en",
+      "original": false,
+      "english": true
+    },
+    "date": "Sa., 17.08",
+    "timestamp": 1723852800000,
+    "time": "21:00",
+    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/3055952386?layout=shows",
+    "img": "https://media.kinoheld.de/r_x8Lgkh3podDc1e-RphgOv_LjY=/400x560/images%2Ffilm%2Fkinds-of-kindness-58821.v17198236394536.jpg",
+    "description": "KINDS OF KINDNESS erzählt drei unterschiedliche Geschichten auf einzigartige Weise: Von einem getriebenen Mann, der versucht, die Kontrolle über sein Leben zu erlangen; von einem beunruhigten Polizisten, dessen auf See vermisste Frau nach ihrer Rückkehr ein anderer Mensch zu sein scheint; und von einer entschlossenen Frau, die jemanden finden muss, der dazu bestimmt ist, ein großer spiritueller Führer zu werden.",
+    "trailer": "https://www.youtube.com/watch?v=7mSXOwQV_no",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
+  "fmp-3055952397": {
+    "cinemaId": "1657",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
+    "cinemaName": "b-ware-openair-fmp",
+    "cinemaShortName": "fmp",
+    "id": "fmp-3055952397",
+    "title": "ND-KOOP: EIN KLEINES STÜCK VOM KUCHEN ",
+    "normalizedTitle": "ND-KOOP: EIN KLEINES STÜCK VOM KUCHEN",
+    "version": {
+      "raw": "",
+      "original": false,
+      "english": false
+    },
+    "date": "Mo., 19.08",
+    "timestamp": 1724025600000,
+    "time": "21:00",
+    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/3055952397?layout=shows",
+    "img": "https://media.kinoheld.de/dDtcFCfMCINs406SGst2PzFwa8Q=/400x560/images%2Ffilm%2Fmy-favourite-cake-58617.v17192718239265.jpg",
+    "description": "Die 70-jährige Mahin (Lily Farhadpour) lebt seit dem Tod ihres Mannes und der Ausreise ihrer Tochter nach Europa allein in Teheran. Ein geselliger Nachmittagstee mit Freundinnen gibt den Anstoß dazu, ihren einsamen und monotonen Alltag hinter sich zu lassen. In Mahin reift der Wunsch ihr Liebesleben wieder zu aktivieren. Auf der Suche nach einem neuen Partner, öffnet sie spontan ihr Herz für den gleichaltrigen Taxifahrer Faramarz (Esmail Mehrabi). Aus der zufälligen Begegnung wird eine ebenso überraschende wie unvergessliche Nacht.",
+    "trailer": "https://www.youtube.com/watch?v=xuyyeSmeu6Y",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
+  "fmp-3055952452": {
+    "cinemaId": "1657",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
+    "cinemaName": "b-ware-openair-fmp",
+    "cinemaShortName": "fmp",
+    "id": "fmp-3055952452",
+    "title": "KLEINE SCHMUTZIGE BRIEFE (OmU / en)",
+    "normalizedTitle": "KLEINE SCHMUTZIGE BRIEFE",
+    "version": {
+      "raw": "OmU en",
+      "original": true,
+      "english": true
+    },
+    "date": "Di., 20.08",
+    "timestamp": 1724112000000,
+    "time": "21:00",
+    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/3055952452?layout=shows",
+    "img": "https://media.kinoheld.de/1WgDTmf6PdMPMIPm9Ok37MZ1Tf4=/400x560/images%2Ffilm%2Fkleine-schmutzige-briefe-54361.v17066340062227.jpg",
+    "description": "Die lebhafte Rose Gooding (Jessie Buckley) hat wenig mit der frommen Edith Swan (Olivia Colman) gemeinsam, außer dass sie Nachbarinnen in der englischen Küstenstadt Littlehampton in den 1920er Jahren sind. Doch eines Tages erhalten Edith und andere in der Stadt anstößige Briefe, gespickt mit gemeinen Beschuldigungen in unflätiger Sprache, und der Verdacht fällt sofort auf Rose. Scotland Yard ermittelt und Rose droht sogar, das Sorgerecht für ihre Tochter zu verlieren. Während die skandalösen Briefe weiterhin die Stadt heimsuchen, ahnt nur die Polizistin Gladys Moss (Anjana Vasan), dass etwas nicht stimmt und Rose möglicherweise doch nicht die Schuldige ist…",
+    "trailer": "https://www.youtube.com/watch?v=Sbyww5sBm94",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
+  "fmp-3055957772": {
+    "cinemaId": "1657",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
+    "cinemaName": "b-ware-openair-fmp",
+    "cinemaShortName": "fmp",
+    "id": "fmp-3055957772",
+    "title": "THE ZONE OF INTEREST (OmeU)",
+    "normalizedTitle": "THE ZONE OF INTEREST",
     "version": {
       "raw": "OmeU",
       "original": true,
       "english": true
     },
-    "date": "So., 28.07",
-    "timestamp": 1722124800000,
+    "date": "Di., 27.08",
+    "timestamp": 1724716800000,
     "time": "20:45",
-    "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/3009716593?layout=shows",
-    "img": "https://media.kinoheld.de/vF5X54_WV4gcUp4zTv0z6vV-HoA=/400x560/images%2Ffilm%2Fporco-rosso-60175.v17163376410118.jpg",
-    "description": "Porco Rosso, ein Mensch mit Schweinegesicht, ist ein Fliegerass. Statt für die italienische Luftwaffe zu fliegen, verdient der coole, einsame Macho sein Geld lieber als Kopfgeldjäger und jagt Luftpiraten ihre Beute ab, denn \"Ich bin lieber ein Schwein als ein Faschist\". Für ein Duell mit einem amerikanischen Flieger muss er sein rotes Flugzeug generalüberholen lassen - ausgerechnet unter der Leitung einer vorwitzigen 17-Jährigen, die natürlich auch noch mitfliegen will. Die Luftpiraten richten das große Duell aus.",
-    "trailer": "https://www.youtube.com/watch?v=eiB9EKp4HGc",
-    "available": 54,
-    "reserved": 35,
+    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/3055957772?layout=shows",
+    "img": "https://media.kinoheld.de/z2fw6l_9sDmolKODlhmN9D_grgE=/400x560/images%2Ffilm%2Fthe-zone-of-interest-54127.v17056757439516.jpg",
+    "description": "In den 1940er-Jahren lebt die Familie des KZ-Kommandanten Rudolf Höß in einem Haus mit Garten in der Nähe des Lagers in Auschwitz. Als Höß versetzt werden soll, steht das Familienidyll vor dem Zerbrechen. Seine Frau weigert sich, ihr \"Traumhaus\" zu verlassen.",
+    "trailer": "https://www.youtube.com/watch?v=RthpX-j4juU",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
+  "fmp-3055958845": {
+    "cinemaId": "1657",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
+    "cinemaName": "b-ware-openair-fmp",
+    "cinemaShortName": "fmp",
+    "id": "fmp-3055958845",
+    "title": "PRISCILLA (OmU / en)",
+    "normalizedTitle": "PRISCILLA",
+    "version": {
+      "raw": "OmU en",
+      "original": true,
+      "english": true
+    },
+    "date": "Fr., 30.08",
+    "timestamp": 1724976000000,
+    "time": "20:30",
+    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/3055958845?layout=shows",
+    "img": "https://media.kinoheld.de/kOJPhg0qXbSOCgyMLNwGJ-p7Ndw=/400x560/images%2Ffilm%2Fpriscilla-5300516993186121699318614170035616517003567721700442824170044381017006201031700668002170096083817009633911701222913170126178317014232841701511716170159740817016989541701698975.v17039845782361.jpg",
+    "description": "Als die Teenagerin Priscilla Beaulieu auf einer Party Elvis Presley kennenlernt, wird aus dem Mann, der bereits ein kometenhafter Rock-'n' Roll-Superstar ist, in privaten Momenten jemand völlig Unerwartetes: ein Verbündeter in der Einsamkeit, ein sanfter bester Freund und ihre erste große Liebe. Eine Geschichte von Liebe und Ruhm, die die unsichtbare Seite eines großen amerikanischen Mythos hinter Elvis und Priscillas turbulenter Ehe offenbart.",
+    "trailer": "https://www.youtube.com/watch?v=MmS1kfH3Zzo",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
+  "fmp-3055958859": {
+    "cinemaId": "1657",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
+    "cinemaName": "b-ware-openair-fmp",
+    "cinemaShortName": "fmp",
+    "id": "fmp-3055958859",
+    "title": "THE FALL GUY (OmdU / en)",
+    "normalizedTitle": "THE FALL GUY",
+    "version": {
+      "raw": "OmdU en",
+      "original": false,
+      "english": true
+    },
+    "date": "Sa., 31.08",
+    "timestamp": 1725062400000,
+    "time": "20:30",
+    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/3055958859?layout=shows",
+    "img": "https://media.kinoheld.de/qXWtkA5ZaeShB9LLhoBcDcwrdx4=/400x560/images%2Ffilm%2Fthe-fall-guy-55543.v17137801886082.png",
+    "description": "Colt Seavers arbeitet als Stuntman in Hollywood. Als der in die Jahre gekommene Mann während eines Filmdrehs beinahe sein Leben verliert, beschließt er, sich aus der Filmbranche zurückzuziehen. Zur gleichen Zeit erhält seine ehemalige Geliebte und Kamerafrau Jody Moreno die Chance, bei einem opulenten Film die Regie zu übernehmen. Doch ihr Hauptdarsteller Tom Ryder scheint auf mysteriöse Weise verschwunden zu sein. Nun liegt es an ihm, seinem früheren Stuntdouble, Seavers, den Schauspieler zu finden.",
+    "trailer": "https://www.youtube.com/watch?v=v7e4_3lWsZw",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
+  "fmp-3055958869": {
+    "cinemaId": "1657",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
+    "cinemaName": "b-ware-openair-fmp",
+    "cinemaShortName": "fmp",
+    "id": "fmp-3055958869",
+    "title": "BACK TO BLACK (OmdU / en)",
+    "normalizedTitle": "BACK TO BLACK",
+    "version": {
+      "raw": "OmdU en",
+      "original": false,
+      "english": true
+    },
+    "date": "Di., 03.09",
+    "timestamp": 1725321600000,
+    "time": "20:30",
+    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/3055958869?layout=shows",
+    "img": "https://media.kinoheld.de/kQbyYhmYG7c-YrgJiRxr6XSSV24=/400x560/images%2Ffilm%2Fback-to-black-55729.v17096395097391.jpg",
+    "description": "Der biografische Film über das kurze, tragische Leben der englischen Sängerin und Komponistin Amy Winehouse (1983-2011) beleuchtet die bekannten Aspekte einer hochbegabten Musikerin, die von den Herausforderungen ihres Lebens, ob groß oder klein, überwältigt wurde. Ihr Leben endete tragisch im Alter von 27 Jahren aufgrund einer tragischen Kombination aus Magersucht sowie Alkohol- und Drogenmissbrauch.",
+    "trailer": "https://www.youtube.com/watch?v=r8LV6hrX1WE",
+    "available": -1,
+    "reserved": 0,
+    "bookable": true
+  },
+  "fmp-3055963211": {
+    "cinemaId": "1657",
+    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
+    "cinemaName": "b-ware-openair-fmp",
+    "cinemaShortName": "fmp",
+    "id": "fmp-3055963211",
+    "title": "THE BIKERIDERS (OmdU / en)",
+    "normalizedTitle": "THE BIKERIDERS",
+    "version": {
+      "raw": "OmdU en",
+      "original": false,
+      "english": true
+    },
+    "date": "Fr., 06.09",
+    "timestamp": 1725580800000,
+    "time": "20:30",
+    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/3055963211?layout=shows",
+    "img": "https://media.kinoheld.de/Bg1UfSmeiI6iwF8MiqcQu0hucAU=/400x560/images%2Ffilm%2Fthe-bikeriders-58609.v17159388626073.png",
+    "description": "Der kultige Fotografieband von Danny Lyon, der das Leben der Mitglieder eines  Motorradclubs in den 1960er Jahren dokumentierte, galt Jeff Nichols als Inspiration für sei neues Crime-Drama über die fiktive Motorradgang Chicago Vandals. Als kleiner lokaler Club gestartet, macht sich mit der zunehmenden Größe auch eine Brutalisierung der Szene und ein Abdriften einiger Mitglieder des Clubs in das kriminelle Milieu bemerkbar. Kathy ist Mitglied und Frau des furchtlosen Bennys, die beständig versucht, mit der ungezähmten Natur ihres Mannes und seiner blinden Treue zu Johnny, dem Anführer der Gang, zurechtzukommen. Als die Stimmung im Club zu kippen droht, sind Kathy, Benny und Johnny gezwungen, Entscheidungen hinsichtlich ihrer Loyalität zu den Vandals und auch zueinander zu treffen. Mit filmischen Anspielungen an DER WILDE und EASY RIDER gespickt und dank des hervorragenden Schauspiel-Trios aus Jodie Comer (KILLING EVE), Austin Butler (ELVIS, DUNE 2) und Tom Hardy (MAD MAX: FURY ROAD) in den Hauptrollen erweckt Jeff Nichols die sagenumwobene Subkultur der amerikanischen Motorradclubs zu neuem Leben. Die vergilbte Patina der 60er Jahre scheint an jedem Bild zu haften. Ein vor Coolness triefender Film!",
+    "trailer": "https://www.youtube.com/watch?v=aaxw9H4VOBA",
+    "available": -1,
+    "reserved": 0,
     "bookable": true
   },
   "central-3009716620": {
@@ -5219,8 +5604,8 @@
     "img": "https://media.kinoheld.de/v_3iIgjJTUI29vnriHQFliK2DvU=/400x560/images%2Ffilm%2F4%2Fwie-der-wind-sich-hebt-5671691419600.v2.jpg",
     "description": "Schon als kleiner Junge beschließt Jiro Horikoshi eines Tages Flugzeuge bauen zu wollen, nachdem er im Traum dem italienischen Flugzeugingenieur Caproni begegnet ist. Nie hat er dessen Worte vergessen, dass das Bauen eines Flugzeuges schöner sei als das Fliegen selber. Als junger Mann beginnt er daher ein Studium der Ingenieurswissenschaften an der Universität von Tokio. In dieser Zeit begegnet er seiner großen Liebe, aber bevor aus ihm und Naoko ein Paar wird, vergehen noch viele Jahre. Ihr gemeinsames Glück ist indes von Anfang an überschattet, denn während Jiro als Chefentwickler für Kriegsflugzeuge Karriere macht, erkrankt Naoko. (v.f.)",
     "trailer": "https://www.youtube.com/watch?v=_SfJO28mH4c",
-    "available": 67,
-    "reserved": 22,
+    "available": 59,
+    "reserved": 30,
     "bookable": true
   },
   "central-3030393497": {
@@ -5266,8 +5651,8 @@
     "img": "https://media.kinoheld.de/Qkhgc-ejBrqAIZxhxaQYNL3XRnc=/400x560/images%2Ffilm%2Fnausicaae-aus-dem-tal-der-winde-4888716902600801690260080.v17050622649950.jpg",
     "description": "Ein verheerender Krieg hat die Erde in ein wüstes Ödland verwandelt, auf dem sich ein Pilzwald ausbreitet, dessen Sporen für den Menschen hochgiftig sind. Eine der wenigen noch existierenden Zivilisationen lebt im Tal der Winde, dessen natürliche Aufwinde verhindern, dass giftige Pilzsporen dorthin gelangen. Nausicaä ist die Prinzessin dieses Volkes und sie besitzt die seltene Gabe, die Gefühle und Gedanken der Tiere zu verstehen sowie mit der fremdartigen Flora und Fauna zu kommunizieren. Als ein anderes Volk das Tal erobern will, ist Nausicaä die letzte Hoffnung: Im Bestreben, eine friedliche Koexistenz zu erreichen, kämpft Nausicaä verzweifelt mit allen ihr zur Verfügung stehenden Mitteln und wird so zur Botschafterin einer uralten Prophezeiung.",
     "trailer": "https://www.youtube.com/watch?v=6zhLBe319KE",
-    "available": 61,
-    "reserved": 28,
+    "available": 58,
+    "reserved": 31,
     "bookable": true
   },
   "central-3009718260": {
@@ -5290,8 +5675,8 @@
     "img": "https://media.kinoheld.de/BHaPETkbYaH2yLOP0s0WvfAjnYQ=/400x560/images%2Ffilm%2Fdie-jaeger-des-cagliostro-57239.v17092705472420.jpg",
     "description": "Meisterdieb Lupin und sein Kumpel Jigen haben gerade mal wieder ein Ding gedreht und sind mal wieder den bösen Jungs entkommen, da verschlägt es die zwei nach Europa, um den nächsten Schatz zu suchen. Als sie gerade gemütlich eine Straße entlangfahren, wird eine junge Frau von ein paar bösen Männern in einem Auto gejagt. Lupin rettet sie und verliebt sich in sie. Ihr Name ist »Clarisse« und wird auch kurz darauf erneut entführt. Sie wird von dem »Grafen von Cagliostro« auf seinem Schloss festgehalten, da er sie heiraten will. Der Graf ist aber ein Geldfälscher, der seine Blüten in der ganzen Welt verteilt, und will Clarisse nur heiraten, um an den Schatz der Cagliostros heranzukommen. Lupin macht sich auf, um Clarisse zu retten, und begibt sich auf das Schloss, wo es zum großes Showdown kommt ...",
     "trailer": "https://www.youtube.com/watch?v=XQz-AeYEJFY",
-    "available": 77,
-    "reserved": 12,
+    "available": 70,
+    "reserved": 19,
     "bookable": true
   },
   "central-3009718381": {
@@ -5337,8 +5722,8 @@
     "img": "https://media.kinoheld.de/U7vuQgrwbEeqa-KbolcV4NlTtr8=/400x560/images%2Ffilm%2Fpast-lives-in-einem-anderen-leben-4690116950295421695029543169502954417006152841700699163170070005917007858441700786462170095913217009593171700959398170095946617009595021700959535170182582717018264931.v17184961977780.png",
     "description": "Vor 24 Jahren zog Nora (Greta Lee) im Alter von zwölf Jahren gemeinsam mit ihren Eltern aus Korea weg und ließ dabei auch ihren Jugendfreund Hae Sung (Teo Yoo) hinter sich. Zwölf Jahre später fanden sich die beiden über das Internet wieder. Doch zu mehr als täglichen Nachrichten und stundenlangen Video-Calls kam es nie. Sie wollte ihre neue Heimat in New York, wo sie gerade als Dramatikerin erste Schritte wagte, nicht verlassen. Ihn zog es durch sein Maschinenbaustudium für ein Auslandssemester nach China und nicht in die USA. Doch nun kommt Hae Sung für eine Woche nach New York, wo Nora allerdings bereits seit sieben Jahren glücklich mit Arthur (John Magaro) verheiratet ist...",
     "trailer": "https://www.youtube.com/watch?v=mLXCXQ9dVwY",
-    "available": 81,
-    "reserved": 8,
+    "available": 79,
+    "reserved": 10,
     "bookable": true
   },
   "central-3009718318": {
@@ -5475,7 +5860,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/3009720312?layout=shows",
     "img": "https://media.kinoheld.de/NrjUKQWdV14Xm8jhLWE8lJe5ipA=/400x560/images%2Ffilm%2Fmidsommar-142831687776027.v17146732530380.jpg",
     "description": "Obwohl ihre Beziehung kriselt, schließt sich Dani ihrem Freund Christian auf einen Sommertrip in einen kleinen Ort in Schweden an. Gemeinsam mit Christians Clique sind sie zu einem einmaligen Mittsommerfestival eingeladen. Doch der anfänglich idyllische Eindruck der abgelegenen Gemeinschaft trügt, die freundlichen Dorfbewohner verhalten sich nach und nach merkwürdiger: Sie bereiten sich auf ein besonderes Mittsommer-Ritual vor, das nur alle 90 Jahre zelebriert wird. Was als puritanisches Fest der Liebe und Glückseligkeit beginnt, nimmt bald eine unheimliche Wendung, die das sonnengeflutete Paradies bis in die Eingeweide erschüttert. Nach dem Überraschungshit \"Hereditary\" legt Ausnahme-Regisseur Ari Aster den nächsten kultverdächtigen Horrorfilm vor, der sich zu einem albtraumhaften filmischen Märchen entfaltet. \"Midsommar\" spielt geschickt mit der Brutalität nordischer Mythen und entfesselt in atemraubenden Bildern die Kraft obskurer Riten in Nächten, die keine Dunkelheit kennen. (Quelle: Verleih)",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=k9nVWv0EW5E",
     "available": 85,
     "reserved": 4,
     "bookable": true
@@ -5663,7 +6048,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/3009722914?layout=shows",
     "img": "https://media.kinoheld.de/kYStEhPmGfaEZFCEJgfHXxwlOxU=/400x560/images%2Ffilm%2Fleon-der-profi-wa-2019-14361.v11.jpg",
     "description": "Léon verdient sein Geld als Auftragskiller der Italo-Mafia in den Straßen von New York. Er lebt zurückgezogen und pflegt außer zu seinem Boss Tony einzig zu seiner Topfpflanze ein freundschaftliches Verhältnis. Als die Familie seiner Nachbarstochter Mathilda von DEA-Polizisten brutal getötet wird, flüchtet sie zu Léon. Um sich an den Mördern ihres kleinen Bruders zu rächen, lässt sich Mathilda das grausame Handwerk eines Profi-Killers von Léon beibringen. (Quelle: Verleih)",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=4e50Hpm9L4I",
     "available": 87,
     "reserved": 2,
     "bookable": true
@@ -5711,8 +6096,8 @@
     "img": "https://media.kinoheld.de/lnzNGJR3ul0-Vz59IUo5-SD_kR0=/400x560/images%2Ffilm%2Fprinzessin-mononoke-56415.v17080232389932.jpg",
     "description": "Japan im frühen Mittelalter. Der junge Krieger Ashitaka tötet in Notwehr einen dämonischen Eber und wird darauf mit einem Fluch belegt. Auf der Suche nach Heilung durchstreift Ashitaka das Land und stößt schließlich nahe einer befestigten Hüttensiedlung, die sich tief in das einst idyllische Land um einen Heiligen Berg frisst, auf die von Wölfen großgezogene Kriegerin San, genannt Mononoke. Obwohl San einen Krieg für die Natur wider ihre Zerstörer führt, verliebt sie sich in Ashitaka.",
     "trailer": "https://www.youtube.com/watch?v=YAkojWy_h6o",
-    "available": 87,
-    "reserved": 2,
+    "available": 85,
+    "reserved": 4,
     "bookable": true
   },
   "central-3009725427": {
@@ -5780,7 +6165,7 @@
     "timestamp": 1725753600000,
     "time": "20:00",
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/3009726910?layout=shows",
-    "img": "https://media.kinoheld.de/WfYqUk_z5-Yg1BxzlEhH6-A-s8Q=/400x560/images%2Ffilm%2Fthe-quiet-girl-41411169877806016987780611698778062170061323017007383121700738633170078586717007859681700786348170078890517007889651700792410170079254817007925661700792797170079279917007928081700792811.v17219509916560.png",
+    "img": "https://media.kinoheld.de/aBSlaux6tQK7Q8ZeySsG8fDJwKk=/400x560/images%2Ffilm%2Fthe-quiet-girl-41411169877806016987780611698778062170061323017007383121700738633170078586717007859681700786348170078890517007889651700792410170079254817007925661700792797170079279917007928081700792811.v17222109760436.png",
     "description": "Als erneut Nachwuchs kommt, wird ein von der Familie vernachlässigtes irisches Mädchen über die Sommerferien zu Verwandten geschickt. Dort erfährt es eine Wärme und Zuneigung, die es aus ihrer schmerzhaften Erstarrung befreien. Und doch gibt es auch in der Idylle der irischen Provinz Schmerz und Verlust.",
     "trailer": "https://www.youtube.com/watch?v=Nsn7QWmPhWI",
     "available": 89,
@@ -5876,7 +6261,7 @@
     "timestamp": 1726358400000,
     "time": "20:00",
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/3009728255?layout=shows",
-    "img": "https://media.kinoheld.de/e-aExRDjgm9rnvkQKYQ20LPfNSw=/400x560/images%2Ffilm%2Faftersun-360771685622270168564985016870899721687101420168729158616872944041688041588168806013216883911721688400297.v17221246821812.jpg",
+    "img": "https://media.kinoheld.de/IcbMlo83gtajkmZbuExXSFTaj1Q=/400x560/images%2Ffilm%2Faftersun-360771685622270168564985016870899721687101420168729158616872944041688041588168806013216883911721688400297.v17222108634450.jpg",
     "description": "Die 11-jährige Sophie genießt die seltene gemeinsame Zeit mit ihrem liebevollen und idealistischen Vater Calum in einem verblassenden Ferienort. Zwanzig Jahre später werden Sophies zärtliche Erinnerungen an ihren letzten Urlaub zu einem kraftvollen und herzzerreißenden Porträt ihrer Beziehung.",
     "trailer": "https://www.youtube.com/watch?v=VRgT7IKt6W8",
     "available": 86,
@@ -5926,7 +6311,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/3009728309?layout=shows",
     "img": "https://media.kinoheld.de/fOsnnKAUVMaQ7DLzmrXaFpVgOAI=/400x560/images%2Ffilm%2Feverything-everywhere-all-at-once-22045.v17142624576923.jpg",
     "description": "Evelyn Wang führt einen Waschsalon und kämpft mit Steuerproblemen und Familienkonflikten. Während sie die Geburtstagsparty ihres Vaters organisiert, findet ihr Ehemann Waymond keine Gelegenheit, das Thema Scheidung anzusprechen. Ihre Tochter Joy verärgert sie zusätzlich, indem sie plant, ihre Freundin Becky zur Feier mitzubringen, obwohl Evelyn Schwierigkeiten mit Joys sexueller Orientierung hat. Evelyns Leben verlief nicht wie erhofft. Doch bald bietet sich ihr eine unerwartete Chance, alles zu verändern.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=nz-eUNVQpzk",
     "available": 87,
     "reserved": 2,
     "bookable": true
@@ -6078,6 +6463,24 @@
     "trailer": "https://www.youtube.com/watch?v=8fYtuE_ZJ4E",
     "bookable": true
   },
+  "kulturforum-1725137100000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1725137100000",
+    "title": "Klassiker im Sommerkino",
+    "normalizedTitle": "KLASSIKER IM SOMMERKINO",
+    "version": {
+      "raw": "OmU",
+      "original": true,
+      "english": false
+    },
+    "date": "Sa., 31.08",
+    "timestamp": 1725137100000,
+    "time": "20:45",
+    "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
+  },
   "kulturforum-1724964300000": {
     "cinemaId": "sommerkino-kulturforum",
     "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
@@ -6117,24 +6520,6 @@
     "time": "20:45",
     "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
   },
-  "kulturforum-1725137100000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1725137100000",
-    "title": "Klassiker im Sommerkino",
-    "normalizedTitle": "KLASSIKER IM SOMMERKINO",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Sa., 31.08",
-    "timestamp": 1725137100000,
-    "time": "20:45",
-    "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
-  },
   "kulturforum-1724445900000": {
     "cinemaId": "sommerkino-kulturforum",
     "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
@@ -6155,6 +6540,24 @@
     "img": "//images.ctfassets.net/4mws6uyas4ta/attQYrvVlAq9Z2DQr/fe91be7c47391701a2e8aad1214a9dc6/Sterben.jpg",
     "trailer": "https://www.youtube.com/watch?v=9WX8WcLoV_4",
     "bookable": true
+  },
+  "kulturforum-1724186700000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1724186700000",
+    "title": "Surf Film Nacht: African Territory 2",
+    "normalizedTitle": "SURF FILM NACHT: AFRICAN TERRITORY 2",
+    "version": {
+      "raw": "OmeU",
+      "original": true,
+      "english": true
+    },
+    "date": "Di., 20.08",
+    "timestamp": 1724186700000,
+    "time": "20:45",
+    "url": "https://www.yorck.de/filme/surf-film-nacht-african-territory-2"
   },
   "kulturforum-1723669200000": {
     "cinemaId": "sommerkino-kulturforum",
@@ -6177,216 +6580,6 @@
     "trailer": "https://www.youtube.com/watch?v=D7y7_TuvVTU",
     "bookable": true
   },
-  "kulturforum-1723755600000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1723755600000",
-    "title": "Klassiker im Sommerkino",
-    "normalizedTitle": "KLASSIKER IM SOMMERKINO",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Do., 15.08",
-    "timestamp": 1723755600000,
-    "time": "21:0",
-    "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
-  },
-  "kulturforum-1722719700000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1722719700000",
-    "title": "Anatomie eines Falls",
-    "normalizedTitle": "ANATOMIE EINES FALLS",
-    "version": {
-      "raw": "OmeU",
-      "original": true,
-      "english": true
-    },
-    "date": "Sa., 03.08",
-    "timestamp": 1722719700000,
-    "time": "21:15",
-    "url": "https://www.yorck.de/filme/anatomie-eines-falls",
-    "img": "//images.ctfassets.net/4mws6uyas4ta/attUB94KB3ZKBjDVb/e96dd2a2e5c1e06c9e0380d9943c01dc/Anatomy_of_a_Fall_-_Poster.jpg",
-    "trailer": "https://www.youtube.com/watch?v=FUXawkH-ONM",
-    "bookable": true
-  },
-  "kulturforum-1724186700000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1724186700000",
-    "title": "Surf Film Nacht: African Territory 2",
-    "normalizedTitle": "SURF FILM NACHT: AFRICAN TERRITORY 2",
-    "version": {
-      "raw": "OmeU",
-      "original": true,
-      "english": true
-    },
-    "date": "Di., 20.08",
-    "timestamp": 1724186700000,
-    "time": "20:45",
-    "url": "https://www.yorck.de/filme/surf-film-nacht-african-territory-2"
-  },
-  "kulturforum-1723064400000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1723064400000",
-    "title": "La Chimera",
-    "normalizedTitle": "LA CHIMERA",
-    "version": {
-      "raw": "OmeU",
-      "original": true,
-      "english": true
-    },
-    "date": "Mi., 07.08",
-    "timestamp": 1723064400000,
-    "time": "21:0",
-    "url": "https://www.yorck.de/filme/la-chimera",
-    "img": "//images.ctfassets.net/4mws6uyas4ta/attcCcQQpbFPfggIJ/a446799fbccdd14e3237dd18bcabf089/La_Chimera_-_Poster.jpg",
-    "trailer": "https://www.youtube.com/watch?v=pY-XAY-oXGI",
-    "bookable": true
-  },
-  "kulturforum-1723237200000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1723237200000",
-    "title": "Crossing - Auf der Suche nach Tekla",
-    "normalizedTitle": "CROSSING - AUF DER SUCHE NACH TEKLA",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Fr., 09.08",
-    "timestamp": 1723237200000,
-    "time": "21:0",
-    "url": "https://www.yorck.de/filme/crossing-auf-der-suche-nach-tekla",
-    "img": "//images.ctfassets.net/4mws6uyas4ta/attLbTzgFcfzsbTpV/84a7a63943ed0f512bb5136220a0fb77/Crossing_-_Poster.jpg",
-    "trailer": "https://www.youtube.com/watch?v=TkfUgC_rfMA",
-    "bookable": true
-  },
-  "kulturforum-1722546900000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1722546900000",
-    "title": "Klassiker im Sommerkino",
-    "normalizedTitle": "KLASSIKER IM SOMMERKINO",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Do., 01.08",
-    "timestamp": 1722546900000,
-    "time": "21:15",
-    "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
-  },
-  "kulturforum-1723150800000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1723150800000",
-    "title": "Klassiker im Sommerkino",
-    "normalizedTitle": "KLASSIKER IM SOMMERKINO",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Do., 08.08",
-    "timestamp": 1723150800000,
-    "time": "21:0",
-    "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
-  },
-  "kulturforum-1723496400000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1723496400000",
-    "title": "Klassiker im Sommerkino",
-    "normalizedTitle": "KLASSIKER IM SOMMERKINO",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Mo., 12.08",
-    "timestamp": 1723496400000,
-    "time": "21:0",
-    "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
-  },
-  "kulturforum-1724100300000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1724100300000",
-    "title": "in the mood",
-    "normalizedTitle": "IN THE MOOD",
-    "version": {
-      "raw": "OmU InTheMood",
-      "original": true,
-      "english": false
-    },
-    "date": "Mo., 19.08",
-    "timestamp": 1724100300000,
-    "time": "20:45",
-    "url": "https://www.yorck.de/filme/in-the-mood"
-  },
-  "kulturforum-1722805200000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1722805200000",
-    "title": "The Holdovers",
-    "normalizedTitle": "THE HOLDOVERS",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "So., 04.08",
-    "timestamp": 1722805200000,
-    "time": "21:0",
-    "url": "https://www.yorck.de/filme/the-holdovers",
-    "img": "//images.ctfassets.net/4mws6uyas4ta/attblqR9SW36Y8I4L/420820fe634583b885276dc95d6d561e/w4xVDkQYn603vfBtdTK0ZZwoaRc.jpg",
-    "trailer": "https://www.youtube.com/watch?v=ITDZSeN5Dok",
-    "bookable": true
-  },
-  "kulturforum-1723323600000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1723323600000",
-    "title": "in the mood",
-    "normalizedTitle": "IN THE MOOD",
-    "version": {
-      "raw": "OmU InTheMood",
-      "original": true,
-      "english": false
-    },
-    "date": "Sa., 10.08",
-    "timestamp": 1723323600000,
-    "time": "21:0",
-    "url": "https://www.yorck.de/filme/in-the-mood"
-  },
   "kulturforum-1724013900000": {
     "cinemaId": "sommerkino-kulturforum",
     "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
@@ -6407,24 +6600,6 @@
     "img": "//images.ctfassets.net/4mws6uyas4ta/attR6hnWO9gfiZ30i/e76bc351b29f5e83fabdc0eec8952724/A_Killer_Romance_Poster.jpg",
     "trailer": "https://www.youtube.com/watch?v=BYsKP1NsDLA",
     "bookable": true
-  },
-  "kulturforum-1722891600000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1722891600000",
-    "title": "Klassiker im Sommerkino",
-    "normalizedTitle": "KLASSIKER IM SOMMERKINO",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Mo., 05.08",
-    "timestamp": 1722891600000,
-    "time": "21:0",
-    "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
   },
   "kulturforum-1723928400000": {
     "cinemaId": "sommerkino-kulturforum",
@@ -6465,6 +6640,216 @@
     "time": "21:0",
     "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
   },
+  "kulturforum-1723323600000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1723323600000",
+    "title": "in the mood",
+    "normalizedTitle": "IN THE MOOD",
+    "version": {
+      "raw": "OmU OmeU InTheMood",
+      "original": true,
+      "english": true
+    },
+    "date": "Sa., 10.08",
+    "timestamp": 1723323600000,
+    "time": "21:0",
+    "url": "https://www.yorck.de/filme/in-the-mood"
+  },
+  "kulturforum-1722891600000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1722891600000",
+    "title": "Klassiker im Sommerkino",
+    "normalizedTitle": "KLASSIKER IM SOMMERKINO",
+    "version": {
+      "raw": "OmU",
+      "original": true,
+      "english": false
+    },
+    "date": "Mo., 05.08",
+    "timestamp": 1722891600000,
+    "time": "21:0",
+    "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
+  },
+  "kulturforum-1724100300000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1724100300000",
+    "title": "in the mood",
+    "normalizedTitle": "IN THE MOOD",
+    "version": {
+      "raw": "OmU OmeU InTheMood",
+      "original": true,
+      "english": true
+    },
+    "date": "Mo., 19.08",
+    "timestamp": 1724100300000,
+    "time": "20:45",
+    "url": "https://www.yorck.de/filme/in-the-mood"
+  },
+  "kulturforum-1723237200000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1723237200000",
+    "title": "Crossing - Auf der Suche nach Tekla",
+    "normalizedTitle": "CROSSING - AUF DER SUCHE NACH TEKLA",
+    "version": {
+      "raw": "OmU",
+      "original": true,
+      "english": false
+    },
+    "date": "Fr., 09.08",
+    "timestamp": 1723237200000,
+    "time": "21:0",
+    "url": "https://www.yorck.de/filme/crossing-auf-der-suche-nach-tekla",
+    "img": "//images.ctfassets.net/4mws6uyas4ta/attLbTzgFcfzsbTpV/84a7a63943ed0f512bb5136220a0fb77/Crossing_-_Poster.jpg",
+    "trailer": "https://www.youtube.com/watch?v=TkfUgC_rfMA",
+    "bookable": true
+  },
+  "kulturforum-1723496400000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1723496400000",
+    "title": "Klassiker im Sommerkino",
+    "normalizedTitle": "KLASSIKER IM SOMMERKINO",
+    "version": {
+      "raw": "OmU",
+      "original": true,
+      "english": false
+    },
+    "date": "Mo., 12.08",
+    "timestamp": 1723496400000,
+    "time": "21:0",
+    "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
+  },
+  "kulturforum-1722719700000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1722719700000",
+    "title": "Anatomie eines Falls",
+    "normalizedTitle": "ANATOMIE EINES FALLS",
+    "version": {
+      "raw": "OmeU",
+      "original": true,
+      "english": true
+    },
+    "date": "Sa., 03.08",
+    "timestamp": 1722719700000,
+    "time": "21:15",
+    "url": "https://www.yorck.de/filme/anatomie-eines-falls",
+    "img": "//images.ctfassets.net/4mws6uyas4ta/attUB94KB3ZKBjDVb/e96dd2a2e5c1e06c9e0380d9943c01dc/Anatomy_of_a_Fall_-_Poster.jpg",
+    "trailer": "https://www.youtube.com/watch?v=FUXawkH-ONM",
+    "bookable": true
+  },
+  "kulturforum-1723064400000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1723064400000",
+    "title": "La Chimera",
+    "normalizedTitle": "LA CHIMERA",
+    "version": {
+      "raw": "OmeU",
+      "original": true,
+      "english": true
+    },
+    "date": "Mi., 07.08",
+    "timestamp": 1723064400000,
+    "time": "21:0",
+    "url": "https://www.yorck.de/filme/la-chimera",
+    "img": "//images.ctfassets.net/4mws6uyas4ta/attcCcQQpbFPfggIJ/a446799fbccdd14e3237dd18bcabf089/La_Chimera_-_Poster.jpg",
+    "trailer": "https://www.youtube.com/watch?v=pY-XAY-oXGI",
+    "bookable": true
+  },
+  "kulturforum-1723150800000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1723150800000",
+    "title": "Klassiker im Sommerkino",
+    "normalizedTitle": "KLASSIKER IM SOMMERKINO",
+    "version": {
+      "raw": "OmU",
+      "original": true,
+      "english": false
+    },
+    "date": "Do., 08.08",
+    "timestamp": 1723150800000,
+    "time": "21:0",
+    "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
+  },
+  "kulturforum-1722805200000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1722805200000",
+    "title": "The Holdovers",
+    "normalizedTitle": "THE HOLDOVERS",
+    "version": {
+      "raw": "OmU",
+      "original": true,
+      "english": false
+    },
+    "date": "So., 04.08",
+    "timestamp": 1722805200000,
+    "time": "21:0",
+    "url": "https://www.yorck.de/filme/the-holdovers",
+    "img": "//images.ctfassets.net/4mws6uyas4ta/attblqR9SW36Y8I4L/420820fe634583b885276dc95d6d561e/w4xVDkQYn603vfBtdTK0ZZwoaRc.jpg",
+    "trailer": "https://www.youtube.com/watch?v=ITDZSeN5Dok",
+    "bookable": true
+  },
+  "kulturforum-1722546900000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1722546900000",
+    "title": "Klassiker im Sommerkino",
+    "normalizedTitle": "KLASSIKER IM SOMMERKINO",
+    "version": {
+      "raw": "OmU",
+      "original": true,
+      "english": false
+    },
+    "date": "Do., 01.08",
+    "timestamp": 1722546900000,
+    "time": "21:15",
+    "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
+  },
+  "kulturforum-1723755600000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1723755600000",
+    "title": "Klassiker im Sommerkino",
+    "normalizedTitle": "KLASSIKER IM SOMMERKINO",
+    "version": {
+      "raw": "OmU",
+      "original": true,
+      "english": false
+    },
+    "date": "Do., 15.08",
+    "timestamp": 1723755600000,
+    "time": "21:0",
+    "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
+  },
   "kulturforum-1722374100000": {
     "cinemaId": "sommerkino-kulturforum",
     "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
@@ -6485,24 +6870,6 @@
     "img": "//images.ctfassets.net/4mws6uyas4ta/attfd27p5HOxH9FfR/d3e6cdda983ee8bdabbbd4fdc25bf48a/All_of_Us_Strangers_-_Poster.jpg",
     "trailer": "https://www.youtube.com/watch?v=Bk27CxEgMh4",
     "bookable": true
-  },
-  "kulturforum-1722460500000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1722460500000",
-    "title": "Klassiker im Sommerkino",
-    "normalizedTitle": "KLASSIKER IM SOMMERKINO",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Mi., 31.07",
-    "timestamp": 1722460500000,
-    "time": "21:15",
-    "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
   },
   "kulturforum-1722287700000": {
     "cinemaId": "sommerkino-kulturforum",
@@ -6525,27 +6892,23 @@
     "trailer": "https://www.youtube.com/watch?v=QD_7kVk8t2w",
     "bookable": true
   },
-  "kulturforum-1722201300000": {
+  "kulturforum-1722460500000": {
     "cinemaId": "sommerkino-kulturforum",
     "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
     "cinemaName": "sommerkino-kulturforum",
     "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1722201300000",
-    "title": "Der Junge und der Reiher",
-    "normalizedTitle": "DER JUNGE UND DER REIHER",
+    "id": "kulturforum-1722460500000",
+    "title": "Klassiker im Sommerkino",
+    "normalizedTitle": "KLASSIKER IM SOMMERKINO",
     "version": {
       "raw": "OmU",
       "original": true,
       "english": false
     },
-    "date": "So., 28.07",
-    "timestamp": 1722201300000,
+    "date": "Mi., 31.07",
+    "timestamp": 1722460500000,
     "time": "21:15",
-    "url": "https://www.yorck.de/filme/der-junge-und-der-reiher",
-    "description": "<p>Während eines Luftangriffs auf Tokio kommt die Mutter des zwölfjährigen Mahito Maki ums Leben. Als sein Vater daraufhin die jüngere Schwester seiner verstorbenen Frau heiratet und mir seiner Familie aus der Stadt aufs Land zieht, beginnt für Mahito eine schwere Zeit. Schon bald stößt er auf einen mysteriösen Turm und einen sprechenden Reiher, der im verkündet, dass seine Mutter noch am Leben ist und in diesem eigenartigen Bauwerk gefangen gehalten wird. Im geheimnisvollen Turm entdeckt er eine magische Welt voller fantastischer Kreaturen, aber auch Gefahren. </p>\n",
-    "img": "//images.ctfassets.net/4mws6uyas4ta/attBuRiAzfYAyahs3/ed2bc55d6fe8ed6aabdc963282c49cc7/The_Boy_and_the_Heron_-_Poster.jpg",
-    "trailer": "https://www.youtube.com/watch?v=t5khm-VjEu4",
-    "bookable": true
+    "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
   },
   "weissensee-1722460500000": {
     "cinemaId": "2527240812",
@@ -6567,8 +6930,8 @@
     "img": "https://images.cinetixx.com/posters/2898609535/thumbnails/2898609535_211_300.jpg",
     "description": "Sonne, Party und Sex: Mehr interessiert die Teenager Tara, Em und Skye während ihres erstenMädelstrips nicht. Mit wilden Clubnächten, jeder Menge Drinks und heißen Partyspielen soll ihrgemeinsamer Sommerurlaub auf Kreta der beste ihres Lebens werden. Vor allem die 16-jährigeTara hat sich vorgenommen, die Zeit in vollen Zügen zu genießen. Sie ist als einzige der dreiFreundinnen noch Jungfrau – und das möchte sie unbedingt noch in diesem Sommer ändern…",
     "trailer": "https://youtu.be/UvcbKQy61Ow?si=rx8-lqxNJmMIfk-M",
-    "available": 194,
-    "reserved": 6,
+    "available": 191,
+    "reserved": 9,
     "bookable": true
   },
   "weissensee-1722546900000": {
