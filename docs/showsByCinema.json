@@ -765,8 +765,8 @@
       "id": "xberg-952",
       "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/952",
       "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=939",
-      "title": "Dirty Dancing / Original Version",
-      "normalizedTitle": "DIRTY DANCING / ORIGINAL VERSION",
+      "title": "Dirty Dancing / engl.m.dt.Ut",
+      "normalizedTitle": "DIRTY DANCING / ENGL.M.DT.UT",
       "version": {
         "raw": "Dirty Dancing",
         "original": false,
@@ -789,7 +789,7 @@
       "cinemaShortName": "xberg",
       "id": "xberg-1057",
       "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/1057",
-      "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=1022",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=1047",
       "title": "All of Us Strangers / engl.m.dt.Ut",
       "normalizedTitle": "ALL OF US STRANGERS / ENGL.M.DT.UT",
       "version": {
@@ -914,7 +914,7 @@
       "cinemaShortName": "xberg",
       "id": "xberg-1062",
       "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/1062",
-      "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=1021",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=1052",
       "title": "Morgen ist auch noch ein Tag / ital.m.dt.Ut",
       "normalizedTitle": "MORGEN IST AUCH NOCH EIN TAG / ITAL.M.DT.UT",
       "version": {
@@ -930,7 +930,6 @@
       "bookable": true
     },
     {
-      "trailer": "https://www.youtube.com/watch?v=Bh6F_SKqYLc",
       "description": "Der Legende nach wurde Wim Wenders gebeten einen Dokumentarfilm über 17 von Stararchitekten entworfenen Toiletten in Tokio zu drehen. Stattdessen hat er die Geschichte des zufriedenen Außenseiters Hirayama entwickelt, der diese Toiletten reinigt, eine umfassende Musikkassettensammlung pflegt und eigentlich so gar kein emotionales Durcheinander in seinem Leben haben möchte. Entstanden ist einer der Publikumserfolge der Saison.\nEs könnte auch sein, dass Wim Wenders mit Hirayamas Musikkassettensammlung nur einen Weg gesucht hat, alle seine Lieblingslieder in einem Film unterzubringen. Das wäre auch Okay, der Soundtrack macht glücklich.",
       "rawVersion": "Wim Wenders: Perfect Days",
       "cinemaId": "kb_freiluftkino",
@@ -939,7 +938,7 @@
       "cinemaShortName": "xberg",
       "id": "xberg-1064",
       "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/1064",
-      "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=1020",
+      "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=1054",
       "title": "Perfect Days / jap.m.dt.Ut",
       "normalizedTitle": "PERFECT DAYS / JAP.M.DT.UT",
       "version": {
@@ -981,7 +980,7 @@
     {
       "trailer": "https://www.youtube.com/watch?v=iPnSdtLUlo0",
       "description": "Lia, eine Lehrerin im Ruhestand, hat es sich zur Aufgabe gemacht, herauszufinden, was aus ihrer Nichte Tekla geworden ist. Von Achi, einem Nachbarn, erfährt sie, dass Tekla ihre Heimat Georgien verlassen hat und in der Türkei lebt. Gemeinsam machen sich die beiden auf die Suche nach ihr. Die Suche nach jemandem, der nicht gefunden werden will, ist schwerer als gedacht. Irgendwann begegnen sie Evrim, einer Anwältin, die für Trans-Rechte kämpft. Als die beiden sich mit ihrer Hilfe ihren Weg durch Instanbuls Gassen und Hinterhöfe bahnen, fühlt sich Tekla plötzlich so nah an wie nie zuvor. Levan Akin besticht durch emotionale Unmittelbarkeit: Zwei Fremde überwinden auf ihrer Mission nicht nur ideologische, sondern auch innere Grenzen und machen gemeinsame Sache. Die Topografie der Stadt spielt in dieser Ode an die Menschlichkeit eine ebenso große Rolle wie der Reigen an Figuren, der sie bevölkert.",
-      "rawVersion": "Crossing",
+      "rawVersion": "Crossing - Auf der Suche nach Tekla",
       "cinemaId": "kb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
       "cinemaName": "Freiluftkino Kreuzberg",
@@ -992,7 +991,7 @@
       "title": "Crossing: Auf der Suche nach Tekla / div.m.dt.Ut",
       "normalizedTitle": "CROSSING: AUF DER SUCHE NACH TEKLA / DIV.M.DT.UT",
       "version": {
-        "raw": "Crossing",
+        "raw": "Crossing - Auf der Suche nach Tekla",
         "original": false,
         "english": false
       },
@@ -1176,7 +1175,7 @@
     {
       "trailer": "https://www.youtube.com/watch?v=iPnSdtLUlo0",
       "description": "Lia, eine Lehrerin im Ruhestand, hat es sich zur Aufgabe gemacht, herauszufinden, was aus ihrer Nichte Tekla geworden ist. Von Achi, einem Nachbarn, erfährt sie, dass Tekla ihre Heimat Georgien verlassen hat und in der Türkei lebt. Gemeinsam machen sich die beiden auf die Suche nach ihr. Die Suche nach jemandem, der nicht gefunden werden will, ist schwerer als gedacht. Irgendwann begegnen sie Evrim, einer Anwältin, die für Trans-Rechte kämpft. Als die beiden sich mit ihrer Hilfe ihren Weg durch Instanbuls Gassen und Hinterhöfe bahnen, fühlt sich Tekla plötzlich so nah an wie nie zuvor. Levan Akin besticht durch emotionale Unmittelbarkeit: Zwei Fremde überwinden auf ihrer Mission nicht nur ideologische, sondern auch innere Grenzen und machen gemeinsame Sache. Die Topografie der Stadt spielt in dieser Ode an die Menschlichkeit eine ebenso große Rolle wie der Reigen an Figuren, der sie bevölkert.",
-      "rawVersion": "Crossing",
+      "rawVersion": "Crossing - Auf der Suche nach Tekla",
       "cinemaId": "kb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
       "cinemaName": "Freiluftkino Kreuzberg",
@@ -1187,7 +1186,7 @@
       "title": "Crossing: Auf der Suche nach Tekla / div.m.engl.Ut",
       "normalizedTitle": "CROSSING: AUF DER SUCHE NACH TEKLA / DIV.M.ENGL.UT",
       "version": {
-        "raw": "Crossing",
+        "raw": "Crossing - Auf der Suche nach Tekla",
         "original": false,
         "english": false
       },
@@ -1766,7 +1765,7 @@
     {
       "trailer": "https://www.youtube.com/watch?v=iPnSdtLUlo0",
       "description": "Lia, eine Lehrerin im Ruhestand, hat es sich zur Aufgabe gemacht, herauszufinden, was aus ihrer Nichte Tekla geworden ist. Von Achi, einem Nachbarn, erfährt sie, dass Tekla ihre Heimat Georgien verlassen hat und in der Türkei lebt. Gemeinsam machen sich die beiden auf die Suche nach ihr. Die Suche nach jemandem, der nicht gefunden werden will, ist schwerer als gedacht. Irgendwann begegnen sie Evrim, einer Anwältin, die für Trans-Rechte kämpft. Als die beiden sich mit ihrer Hilfe ihren Weg durch Instanbuls Gassen und Hinterhöfe bahnen, fühlt sich Tekla plötzlich so nah an wie nie zuvor. Levan Akin besticht durch emotionale Unmittelbarkeit: Zwei Fremde überwinden auf ihrer Mission nicht nur ideologische, sondern auch innere Grenzen und machen gemeinsame Sache. Die Topografie der Stadt spielt in dieser Ode an die Menschlichkeit eine ebenso große Rolle wie der Reigen an Figuren, der sie bevölkert.",
-      "rawVersion": "Crossing",
+      "rawVersion": "Crossing - Auf der Suche nach Tekla",
       "cinemaId": "rb_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
       "cinemaName": "Freiluftkino Rehberge",
@@ -1777,7 +1776,7 @@
       "title": "Crossing: Auf der Suche nach Tekla / div.m.dt.Ut",
       "normalizedTitle": "CROSSING: AUF DER SUCHE NACH TEKLA / DIV.M.DT.UT",
       "version": {
-        "raw": "Crossing",
+        "raw": "Crossing - Auf der Suche nach Tekla",
         "original": false,
         "english": false
       },
@@ -2418,7 +2417,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/783828?layout=shows",
       "img": "https://media.kinoheld.de/VqBw9L5TUnVG2bklujoLdv2YLHI=/400x560/images%2Ffilm%2Fsleep-with-your-eyes-open-59303.v17145390995189.jpg",
       "description": "Eine Küstenmetropole in Brasilien. Kai landet mit gebrochenem Herzen aus Taiwan, um Ferien zu machen. Eine kaputte Klimaanlage führt sie in das Regenschirmgeschäft von Fu Ang. Er könnte ein Freund werden, doch die Regenzeit bleibt aus und sein Geschäft verschwindet. Auf der Suche nach Fu Ang entdeckt Kai die Geschichte von Xiaoxin und einer Gruppe chinesischer Arbeiter in einem noblen Wolkenkratzer. Importprodukte made in China treffen auf Probleme mit den reichen, weißen Nachbarn. In Xiaoxins Erzählung findet Kai sich merkwürdig gespiegelt.",
-      "trailer": "https://www.youtube.com/watch?v=dEMik2WEzmY",
+      "trailer": "https://youtu.be/aFXjl4AA1hA",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -2442,7 +2441,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/783829?layout=shows",
       "img": "https://media.kinoheld.de/1gfy4l9eFLBHCtI3Cw0j9IkBp6Q=/400x560/images%2Ffilm%2Fmaxxxine-58615.v17198227103754.jpg",
       "description": "Ein langer, blutiger Weg zum Ruhm. Mitte der Achtzigerjahre bekommt Pornostar Maxine Minx (Mia Goth) endlich ihre große Chance in Hollywood. Doch ein geheimnisvoller Privatdetektiv und die grausamen Morde eines Serienkillers in ihrem Umfeld sorgen dafür, dass ausgerechnet jetzt ihre unheilvolle Vergangenheit ans Licht kommen könnte.\r\n\r\nDas mörderische Grauen hinter den Schlagzeilen des sogenannten „Texas Pornhouse Massacre“, das Maxine (Mia Goth) in X nur knapp überlebt hat, ist für sie nur noch eine düstere Erinnerung im Rückspiegel. Mittlerweile ist sie eine gefragte Porno-Darstellerin und bekommt 1985 sogar die Gelegenheit, den Sprung nach Hollywood zu schaffen und mit einer Hauptrolle im neuen Horrorfilm von Elizabeth Binder (Elizabeth Debicki) endlich ein „echter“ Star zu werden. Es ist eine Chance, die sie sich nicht nehmen lassen will – weder vom berüchtigten Serienmörder Night-Stalker, der die Stadt in Angst und Schrecken versetzt, noch von den Ermittlungen eines geheimnisvollen Privatdetektivs (Kevin Bacon) zu ihrer düsteren Vergangenheit.",
-      "trailer": "https://www.youtube.com/watch?v=E_GWOffaO_8",
+      "trailer": "https://youtu.be/aFXjl4AA1hA",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -2632,9 +2631,9 @@
       "img": "https://media.kinoheld.de/z2fw6l_9sDmolKODlhmN9D_grgE=/400x560/images%2Ffilm%2Fthe-zone-of-interest-54127.v17056757439516.jpg",
       "description": "In den 1940er-Jahren lebt die Familie des KZ-Kommandanten Rudolf Höß in einem Haus mit Garten in der Nähe des Lagers in Auschwitz. Als Höß versetzt werden soll, steht das Familienidyll vor dem Zerbrechen. Seine Frau weigert sich, ihr \"Traumhaus\" zu verlassen.",
       "trailer": "https://www.youtube.com/watch?v=RthpX-j4juU",
-      "available": 0,
+      "available": -1,
       "reserved": 0,
-      "bookable": false
+      "bookable": true
     },
     {
       "cinemaId": "580",
@@ -2727,7 +2726,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/783840?layout=shows",
       "img": "https://media.kinoheld.de/fOsnnKAUVMaQ7DLzmrXaFpVgOAI=/400x560/images%2Ffilm%2Feverything-everywhere-all-at-once-22045.v17142624576923.jpg",
       "description": "Evelyn Wang führt einen Waschsalon und kämpft mit Steuerproblemen und Familienkonflikten. Während sie die Geburtstagsparty ihres Vaters organisiert, findet ihr Ehemann Waymond keine Gelegenheit, das Thema Scheidung anzusprechen. Ihre Tochter Joy verärgert sie zusätzlich, indem sie plant, ihre Freundin Becky zur Feier mitzubringen, obwohl Evelyn Schwierigkeiten mit Joys sexueller Orientierung hat. Evelyns Leben verlief nicht wie erhofft. Doch bald bietet sich ihr eine unerwartete Chance, alles zu verändern.",
-      "trailer": "https://www.youtube.com/watch?v=nz-eUNVQpzk",
+      "trailer": "https://youtu.be/aFXjl4AA1hA",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -3084,7 +3083,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/783895?layout=shows",
       "img": "https://media.kinoheld.de/1gfy4l9eFLBHCtI3Cw0j9IkBp6Q=/400x560/images%2Ffilm%2Fmaxxxine-58615.v17198227103754.jpg",
       "description": "Ein langer, blutiger Weg zum Ruhm. Mitte der Achtzigerjahre bekommt Pornostar Maxine Minx (Mia Goth) endlich ihre große Chance in Hollywood. Doch ein geheimnisvoller Privatdetektiv und die grausamen Morde eines Serienkillers in ihrem Umfeld sorgen dafür, dass ausgerechnet jetzt ihre unheilvolle Vergangenheit ans Licht kommen könnte.\r\n\r\nDas mörderische Grauen hinter den Schlagzeilen des sogenannten „Texas Pornhouse Massacre“, das Maxine (Mia Goth) in X nur knapp überlebt hat, ist für sie nur noch eine düstere Erinnerung im Rückspiegel. Mittlerweile ist sie eine gefragte Porno-Darstellerin und bekommt 1985 sogar die Gelegenheit, den Sprung nach Hollywood zu schaffen und mit einer Hauptrolle im neuen Horrorfilm von Elizabeth Binder (Elizabeth Debicki) endlich ein „echter“ Star zu werden. Es ist eine Chance, die sie sich nicht nehmen lassen will – weder vom berüchtigten Serienmörder Night-Stalker, der die Stadt in Angst und Schrecken versetzt, noch von den Ermittlungen eines geheimnisvollen Privatdetektivs (Kevin Bacon) zu ihrer düsteren Vergangenheit.",
-      "trailer": "https://www.youtube.com/watch?v=E_GWOffaO_8",
+      "trailer": "https://youtu.be/aFXjl4AA1hA",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -3443,7 +3442,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/783957?layout=shows",
       "img": "https://media.kinoheld.de/r_x8Lgkh3podDc1e-RphgOv_LjY=/400x560/images%2Ffilm%2Fkinds-of-kindness-58821.v17198236394536.jpg",
       "description": "KINDS OF KINDNESS erzählt drei unterschiedliche Geschichten auf einzigartige Weise: Von einem getriebenen Mann, der versucht, die Kontrolle über sein Leben zu erlangen; von einem beunruhigten Polizisten, dessen auf See vermisste Frau nach ihrer Rückkehr ein anderer Mensch zu sein scheint; und von einer entschlossenen Frau, die jemanden finden muss, der dazu bestimmt ist, ein großer spiritueller Führer zu werden.",
-      "trailer": "https://www.youtube.com/watch?v=7mSXOwQV_no",
+      "trailer": "https://youtu.be/aFXjl4AA1hA",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -3659,7 +3658,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/783966?layout=shows",
       "img": "https://media.kinoheld.de/r_x8Lgkh3podDc1e-RphgOv_LjY=/400x560/images%2Ffilm%2Fkinds-of-kindness-58821.v17198236394536.jpg",
       "description": "KINDS OF KINDNESS erzählt drei unterschiedliche Geschichten auf einzigartige Weise: Von einem getriebenen Mann, der versucht, die Kontrolle über sein Leben zu erlangen; von einem beunruhigten Polizisten, dessen auf See vermisste Frau nach ihrer Rückkehr ein anderer Mensch zu sein scheint; und von einer entschlossenen Frau, die jemanden finden muss, der dazu bestimmt ist, ein großer spiritueller Führer zu werden.",
-      "trailer": "https://www.youtube.com/watch?v=7mSXOwQV_no",
+      "trailer": "https://youtu.be/aFXjl4AA1hA",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -3875,7 +3874,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/783974?layout=shows",
       "img": "https://media.kinoheld.de/r_x8Lgkh3podDc1e-RphgOv_LjY=/400x560/images%2Ffilm%2Fkinds-of-kindness-58821.v17198236394536.jpg",
       "description": "KINDS OF KINDNESS erzählt drei unterschiedliche Geschichten auf einzigartige Weise: Von einem getriebenen Mann, der versucht, die Kontrolle über sein Leben zu erlangen; von einem beunruhigten Polizisten, dessen auf See vermisste Frau nach ihrer Rückkehr ein anderer Mensch zu sein scheint; und von einer entschlossenen Frau, die jemanden finden muss, der dazu bestimmt ist, ein großer spiritueller Führer zu werden.",
-      "trailer": "https://www.youtube.com/watch?v=7mSXOwQV_no",
+      "trailer": "https://youtu.be/aFXjl4AA1hA",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -4091,7 +4090,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/784028?layout=shows",
       "img": "https://media.kinoheld.de/FE_J2Alv9tiBHJ4RtASoI91SAA8=/400x560/images%2Ffilm%2Ffuriosa-a-mad-max-saga-57691.v17104800190497.jpg",
       "description": "Als die Welt zusammenbricht, wird die junge Furiosa aus dem Grünen Ort der Vielen Mütter in die Hände einer großen Biker-Horde gerissen, angeführt vom Kriegsherrn Dementus. Sie durchstreifen das Ödland und stoßen auf die Zitadelle, über der Immortan Joe herrscht. Die beiden Tyrannen führen Krieg um die Vorherrschaft, und Furiosa muss viele Prüfungen überstehen, während sie die Mittel zusammenstellt, um ihren Weg nach Hause zu finden.",
-      "trailer": "https://www.youtube.com/watch?v=iBvn4raq-kU",
+      "trailer": "https://youtu.be/aFXjl4AA1hA",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -4205,7 +4204,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/784032?layout=shows",
       "img": "https://media.kinoheld.de/r_x8Lgkh3podDc1e-RphgOv_LjY=/400x560/images%2Ffilm%2Fkinds-of-kindness-58821.v17198236394536.jpg",
       "description": "KINDS OF KINDNESS erzählt drei unterschiedliche Geschichten auf einzigartige Weise: Von einem getriebenen Mann, der versucht, die Kontrolle über sein Leben zu erlangen; von einem beunruhigten Polizisten, dessen auf See vermisste Frau nach ihrer Rückkehr ein anderer Mensch zu sein scheint; und von einer entschlossenen Frau, die jemanden finden muss, der dazu bestimmt ist, ein großer spiritueller Führer zu werden.",
-      "trailer": "https://www.youtube.com/watch?v=7mSXOwQV_no",
+      "trailer": "https://youtu.be/aFXjl4AA1hA",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -4562,7 +4561,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/784092?layout=shows",
       "img": "https://media.kinoheld.de/r_x8Lgkh3podDc1e-RphgOv_LjY=/400x560/images%2Ffilm%2Fkinds-of-kindness-58821.v17198236394536.jpg",
       "description": "KINDS OF KINDNESS erzählt drei unterschiedliche Geschichten auf einzigartige Weise: Von einem getriebenen Mann, der versucht, die Kontrolle über sein Leben zu erlangen; von einem beunruhigten Polizisten, dessen auf See vermisste Frau nach ihrer Rückkehr ein anderer Mensch zu sein scheint; und von einer entschlossenen Frau, die jemanden finden muss, der dazu bestimmt ist, ein großer spiritueller Führer zu werden.",
-      "trailer": "https://www.youtube.com/watch?v=7mSXOwQV_no",
+      "trailer": "https://youtu.be/aFXjl4AA1hA",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -5018,7 +5017,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/3055952386?layout=shows",
       "img": "https://media.kinoheld.de/r_x8Lgkh3podDc1e-RphgOv_LjY=/400x560/images%2Ffilm%2Fkinds-of-kindness-58821.v17198236394536.jpg",
       "description": "KINDS OF KINDNESS erzählt drei unterschiedliche Geschichten auf einzigartige Weise: Von einem getriebenen Mann, der versucht, die Kontrolle über sein Leben zu erlangen; von einem beunruhigten Polizisten, dessen auf See vermisste Frau nach ihrer Rückkehr ein anderer Mensch zu sein scheint; und von einer entschlossenen Frau, die jemanden finden muss, der dazu bestimmt ist, ein großer spiritueller Führer zu werden.",
-      "trailer": "https://www.youtube.com/watch?v=7mSXOwQV_no",
+      "trailer": "https://youtu.be/aFXjl4AA1hA",
       "available": -1,
       "reserved": 0,
       "bookable": true
@@ -5117,8 +5116,8 @@
       "img": "https://media.kinoheld.de/BHaPETkbYaH2yLOP0s0WvfAjnYQ=/400x560/images%2Ffilm%2Fdie-jaeger-des-cagliostro-57239.v17092705472420.jpg",
       "description": "Meisterdieb Lupin und sein Kumpel Jigen haben gerade mal wieder ein Ding gedreht und sind mal wieder den bösen Jungs entkommen, da verschlägt es die zwei nach Europa, um den nächsten Schatz zu suchen. Als sie gerade gemütlich eine Straße entlangfahren, wird eine junge Frau von ein paar bösen Männern in einem Auto gejagt. Lupin rettet sie und verliebt sich in sie. Ihr Name ist »Clarisse« und wird auch kurz darauf erneut entführt. Sie wird von dem »Grafen von Cagliostro« auf seinem Schloss festgehalten, da er sie heiraten will. Der Graf ist aber ein Geldfälscher, der seine Blüten in der ganzen Welt verteilt, und will Clarisse nur heiraten, um an den Schatz der Cagliostros heranzukommen. Lupin macht sich auf, um Clarisse zu retten, und begibt sich auf das Schloss, wo es zum großes Showdown kommt ...",
       "trailer": "https://www.youtube.com/watch?v=XQz-AeYEJFY",
-      "available": 65,
-      "reserved": 24,
+      "available": 62,
+      "reserved": 27,
       "bookable": true
     },
     {
@@ -5164,8 +5163,8 @@
       "img": "https://media.kinoheld.de/U7vuQgrwbEeqa-KbolcV4NlTtr8=/400x560/images%2Ffilm%2Fpast-lives-in-einem-anderen-leben-4690116950295421695029543169502954417006152841700699163170070005917007858441700786462170095913217009593171700959398170095946617009595021700959535170182582717018264931.v17184961977780.png",
       "description": "Vor 24 Jahren zog Nora (Greta Lee) im Alter von zwölf Jahren gemeinsam mit ihren Eltern aus Korea weg und ließ dabei auch ihren Jugendfreund Hae Sung (Teo Yoo) hinter sich. Zwölf Jahre später fanden sich die beiden über das Internet wieder. Doch zu mehr als täglichen Nachrichten und stundenlangen Video-Calls kam es nie. Sie wollte ihre neue Heimat in New York, wo sie gerade als Dramatikerin erste Schritte wagte, nicht verlassen. Ihn zog es durch sein Maschinenbaustudium für ein Auslandssemester nach China und nicht in die USA. Doch nun kommt Hae Sung für eine Woche nach New York, wo Nora allerdings bereits seit sieben Jahren glücklich mit Arthur (John Magaro) verheiratet ist...",
       "trailer": "https://www.youtube.com/watch?v=mLXCXQ9dVwY",
-      "available": 72,
-      "reserved": 17,
+      "available": 63,
+      "reserved": 26,
       "bookable": true
     },
     {
@@ -5188,8 +5187,8 @@
       "img": "https://media.kinoheld.de/6jUYalICGIEjtja4lwl7f5zTRp8=/400x560/images%2Ffilm%2Fperfect-days-51275170169437917016943791701694380170169690817016982601701698997.v5.jpg",
       "description": "Hirayama arbeitet als Reinigungskraft für öffentliche Toiletten in Tokio. Er führt ein einfaches und zurückgezogenes Leben, das ihn scheinbar vollkommen zufriedenstellt. Abseits seines äußerst strukturierten Alltags widmet er sich leidenschaftlich seiner Musik, die er von Audiokassetten genießt, und seiner Liebe zur Literatur, die er abends in gebrauchten Taschenbüchern vertieft. Doch durch unerwartete Begegnungen kommen nach und nach Details seiner Vergangenheit ans Licht, die er längst zu vergessen geglaubt hatte.",
       "trailer": "https://www.youtube.com/watch?v=z-E2Z2l_BEA",
-      "available": 22,
-      "reserved": 67,
+      "available": 16,
+      "reserved": 73,
       "bookable": true
     },
     {
@@ -5302,7 +5301,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/3009720312?layout=shows",
       "img": "https://media.kinoheld.de/NrjUKQWdV14Xm8jhLWE8lJe5ipA=/400x560/images%2Ffilm%2Fmidsommar-142831687776027.v17146732530380.jpg",
       "description": "Obwohl ihre Beziehung kriselt, schließt sich Dani ihrem Freund Christian auf einen Sommertrip in einen kleinen Ort in Schweden an. Gemeinsam mit Christians Clique sind sie zu einem einmaligen Mittsommerfestival eingeladen. Doch der anfänglich idyllische Eindruck der abgelegenen Gemeinschaft trügt, die freundlichen Dorfbewohner verhalten sich nach und nach merkwürdiger: Sie bereiten sich auf ein besonderes Mittsommer-Ritual vor, das nur alle 90 Jahre zelebriert wird. Was als puritanisches Fest der Liebe und Glückseligkeit beginnt, nimmt bald eine unheimliche Wendung, die das sonnengeflutete Paradies bis in die Eingeweide erschüttert. Nach dem Überraschungshit \"Hereditary\" legt Ausnahme-Regisseur Ari Aster den nächsten kultverdächtigen Horrorfilm vor, der sich zu einem albtraumhaften filmischen Märchen entfaltet. \"Midsommar\" spielt geschickt mit der Brutalität nordischer Mythen und entfesselt in atemraubenden Bildern die Kraft obskurer Riten in Nächten, die keine Dunkelheit kennen. (Quelle: Verleih)",
-      "trailer": "https://www.youtube.com/watch?v=k9nVWv0EW5E",
+      "trailer": "https://youtu.be/aFXjl4AA1hA",
       "available": 85,
       "reserved": 4,
       "bookable": true
@@ -5491,7 +5490,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/3009722914?layout=shows",
       "img": "https://media.kinoheld.de/kYStEhPmGfaEZFCEJgfHXxwlOxU=/400x560/images%2Ffilm%2Fleon-der-profi-wa-2019-14361.v11.jpg",
       "description": "Léon verdient sein Geld als Auftragskiller der Italo-Mafia in den Straßen von New York. Er lebt zurückgezogen und pflegt außer zu seinem Boss Tony einzig zu seiner Topfpflanze ein freundschaftliches Verhältnis. Als die Familie seiner Nachbarstochter Mathilda von DEA-Polizisten brutal getötet wird, flüchtet sie zu Léon. Um sich an den Mördern ihres kleinen Bruders zu rächen, lässt sich Mathilda das grausame Handwerk eines Profi-Killers von Léon beibringen. (Quelle: Verleih)",
-      "trailer": "https://www.youtube.com/watch?v=4e50Hpm9L4I",
+      "trailer": "https://youtu.be/aFXjl4AA1hA",
       "available": 83,
       "reserved": 6,
       "bookable": true
@@ -5754,7 +5753,7 @@
       "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/3009728309?layout=shows",
       "img": "https://media.kinoheld.de/fOsnnKAUVMaQ7DLzmrXaFpVgOAI=/400x560/images%2Ffilm%2Feverything-everywhere-all-at-once-22045.v17142624576923.jpg",
       "description": "Evelyn Wang führt einen Waschsalon und kämpft mit Steuerproblemen und Familienkonflikten. Während sie die Geburtstagsparty ihres Vaters organisiert, findet ihr Ehemann Waymond keine Gelegenheit, das Thema Scheidung anzusprechen. Ihre Tochter Joy verärgert sie zusätzlich, indem sie plant, ihre Freundin Becky zur Feier mitzubringen, obwohl Evelyn Schwierigkeiten mit Joys sexueller Orientierung hat. Evelyns Leben verlief nicht wie erhofft. Doch bald bietet sich ihr eine unerwartete Chance, alles zu verändern.",
-      "trailer": "https://www.youtube.com/watch?v=nz-eUNVQpzk",
+      "trailer": "https://youtu.be/aFXjl4AA1hA",
       "available": 87,
       "reserved": 2,
       "bookable": true
@@ -5894,6 +5893,27 @@
       "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
       "cinemaName": "sommerkino-kulturforum",
       "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1724445900000",
+      "title": "Sterben",
+      "normalizedTitle": "STERBEN",
+      "version": {
+        "raw": "DF",
+        "original": false,
+        "english": false
+      },
+      "date": "Fr., 23.08",
+      "timestamp": 1724445900000,
+      "time": "20:45",
+      "url": "https://www.yorck.de/filme/sterben",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attQYrvVlAq9Z2DQr/fe91be7c47391701a2e8aad1214a9dc6/Sterben.jpg",
+      "trailer": "https://www.youtube.com/watch?v=9WX8WcLoV_4",
+      "bookable": true
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
       "id": "kulturforum-1724100300000",
       "title": "Mein Nachbar Totoro",
       "normalizedTitle": "MEIN NACHBAR TOTORO",
@@ -5915,20 +5935,20 @@
       "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
       "cinemaName": "sommerkino-kulturforum",
       "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1724445900000",
-      "title": "Sterben",
-      "normalizedTitle": "STERBEN",
+      "id": "kulturforum-1724186700000",
+      "title": "African Territory 2",
+      "normalizedTitle": "AFRICAN TERRITORY 2",
       "version": {
-        "raw": "DF",
-        "original": false,
-        "english": false
+        "raw": "OmeU",
+        "original": true,
+        "english": true
       },
-      "date": "Fr., 23.08",
-      "timestamp": 1724445900000,
+      "date": "Di., 20.08",
+      "timestamp": 1724186700000,
       "time": "20:45",
-      "url": "https://www.yorck.de/filme/sterben",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attQYrvVlAq9Z2DQr/fe91be7c47391701a2e8aad1214a9dc6/Sterben.jpg",
-      "trailer": "https://www.youtube.com/watch?v=9WX8WcLoV_4",
+      "url": "https://www.yorck.de/filme/african-territory-2",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attmNVZqEN8aihUTZ/183856c55f8aba2e5ef7b64748489ef0/0658107.jpg",
+      "trailer": "https://www.youtube.com/watch?v=vVvqkEnn4to",
       "bookable": true
     },
     {
@@ -5998,41 +6018,20 @@
       "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
       "cinemaName": "sommerkino-kulturforum",
       "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1724186700000",
-      "title": "African Territory 2",
-      "normalizedTitle": "AFRICAN TERRITORY 2",
+      "id": "kulturforum-1722805200000",
+      "title": "The Holdovers",
+      "normalizedTitle": "THE HOLDOVERS",
       "version": {
-        "raw": "OmeU",
+        "raw": "OmU",
         "original": true,
-        "english": true
-      },
-      "date": "Di., 20.08",
-      "timestamp": 1724186700000,
-      "time": "20:45",
-      "url": "https://www.yorck.de/filme/african-territory-2",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attmNVZqEN8aihUTZ/183856c55f8aba2e5ef7b64748489ef0/0658107.jpg",
-      "trailer": "https://www.youtube.com/watch?v=vVvqkEnn4to",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1723410000000",
-      "title": "Der Himmel über Berlin",
-      "normalizedTitle": "DER HIMMEL ÜBER BERLIN",
-      "version": {
-        "raw": "DF",
-        "original": false,
         "english": false
       },
-      "date": "So., 11.08",
-      "timestamp": 1723410000000,
+      "date": "So., 04.08",
+      "timestamp": 1722805200000,
       "time": "21:0",
-      "url": "https://www.yorck.de/filme/der-himmel-uber-berlin",
-      "description": "<p>Die Engel Damiel und Cassiel treten als Beobachter der Welt auf, insbesondere in Berlin. Sie können nicht in das Leben der Menschen eingreifen und sich ihnen nicht zu erkennen geben. Sie können ihnen jedoch neuen Lebensmut einflößen. Der Wunsch, am Leben der Sterblichen teilzuhaben, wird bei Damiel so groß, dass er dafür bereit ist, auf seine Unsterblichkeit zu verzichten. Mit einer antiken Ritterrüstung als Startkapital wird er in die Welt hineingeworfen. In einer Trapezkünstlerin, die sich scheinbar von der Erdschwere löst, findet er seinen Gegenpart.</p>\n",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attbTi8wwMTKkFo6K/7309b3225bacfcbd51dc983b54488b18/Der_Himmel__ber_Berlin.jpg",
+      "url": "https://www.yorck.de/filme/the-holdovers",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attblqR9SW36Y8I4L/420820fe634583b885276dc95d6d561e/w4xVDkQYn603vfBtdTK0ZZwoaRc.jpg",
+      "trailer": "https://www.youtube.com/watch?v=ITDZSeN5Dok",
       "bookable": true
     },
     {
@@ -6061,69 +6060,6 @@
       "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
       "cinemaName": "sommerkino-kulturforum",
       "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1722805200000",
-      "title": "The Holdovers",
-      "normalizedTitle": "THE HOLDOVERS",
-      "version": {
-        "raw": "OmU",
-        "original": true,
-        "english": false
-      },
-      "date": "So., 04.08",
-      "timestamp": 1722805200000,
-      "time": "21:0",
-      "url": "https://www.yorck.de/filme/the-holdovers",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attblqR9SW36Y8I4L/420820fe634583b885276dc95d6d561e/w4xVDkQYn603vfBtdTK0ZZwoaRc.jpg",
-      "trailer": "https://www.youtube.com/watch?v=ITDZSeN5Dok",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1723928400000",
-      "title": "Perfect Days",
-      "normalizedTitle": "PERFECT DAYS",
-      "version": {
-        "raw": "OmeU",
-        "original": true,
-        "english": true
-      },
-      "date": "Sa., 17.08",
-      "timestamp": 1723928400000,
-      "time": "21:0",
-      "url": "https://www.yorck.de/filme/perfect-days",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attldW2u1ndn8Mmjz/7dadca08ef6175d60780e5dd9538c8be/1Perfect_Days_BL.jpg",
-      "trailer": "https://www.youtube.com/watch?v=w8BxHWBXdWo",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1724013900000",
-      "title": "A Killer Romance",
-      "normalizedTitle": "A KILLER ROMANCE",
-      "version": {
-        "raw": "OmU",
-        "original": true,
-        "english": false
-      },
-      "date": "So., 18.08",
-      "timestamp": 1724013900000,
-      "time": "20:45",
-      "url": "https://www.yorck.de/filme/a-killer-romance",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attR6hnWO9gfiZ30i/e76bc351b29f5e83fabdc0eec8952724/A_Killer_Romance_Poster.jpg",
-      "trailer": "https://www.youtube.com/watch?v=BYsKP1NsDLA",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
       "id": "kulturforum-1723755600000",
       "title": "Gefährliche Brandung",
       "normalizedTitle": "GEFÄHRLICHE BRANDUNG",
@@ -6138,47 +6074,6 @@
       "url": "https://www.yorck.de/filme/gefahrliche-brandung",
       "img": "//images.ctfassets.net/4mws6uyas4ta/attiNhozZsTpbHk8D/9183a965f2fdddef63eee9694a386bb9/Point_Break_-_Poster.jpg",
       "trailer": "https://www.youtube.com/watch?v=pjsNtDT87KI",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1723669200000",
-      "title": "Verbrannte Erde",
-      "normalizedTitle": "VERBRANNTE ERDE",
-      "version": {
-        "raw": "OmeU",
-        "original": true,
-        "english": true
-      },
-      "date": "Mi., 14.08",
-      "timestamp": 1723669200000,
-      "time": "21:0",
-      "url": "https://www.yorck.de/filme/verbrannte-erde",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attdTdObS43ddlgHK/fad200782dc22a2a0b34198da41cd8b7/VE_Plakat_RZ_A4__1_.jpg",
-      "trailer": "https://www.youtube.com/watch?v=D7y7_TuvVTU",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1722546900000",
-      "title": "Der talentierte Mr. Ripley",
-      "normalizedTitle": "DER TALENTIERTE MR. RIPLEY",
-      "version": {
-        "raw": "OmU",
-        "original": true,
-        "english": false
-      },
-      "date": "Do., 01.08",
-      "timestamp": 1722546900000,
-      "time": "21:15",
-      "url": "https://www.yorck.de/filme/der-talentierte-mr-ripley",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/att56fX68z9hv9KwE/c487319af78f72698360ba6b3dad2243/The_Talented_Mr._Ripley.jpg",
       "bookable": true
     },
     {
@@ -6208,48 +6103,6 @@
       "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
       "cinemaName": "sommerkino-kulturforum",
       "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1723064400000",
-      "title": "La Chimera",
-      "normalizedTitle": "LA CHIMERA",
-      "version": {
-        "raw": "OmeU",
-        "original": true,
-        "english": true
-      },
-      "date": "Mi., 07.08",
-      "timestamp": 1723064400000,
-      "time": "21:0",
-      "url": "https://www.yorck.de/filme/la-chimera",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attcCcQQpbFPfggIJ/a446799fbccdd14e3237dd18bcabf089/La_Chimera_-_Poster.jpg",
-      "trailer": "https://www.youtube.com/watch?v=pY-XAY-oXGI",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1723237200000",
-      "title": "Crossing - Auf der Suche nach Tekla",
-      "normalizedTitle": "CROSSING - AUF DER SUCHE NACH TEKLA",
-      "version": {
-        "raw": "OmU",
-        "original": true,
-        "english": false
-      },
-      "date": "Fr., 09.08",
-      "timestamp": 1723237200000,
-      "time": "21:0",
-      "url": "https://www.yorck.de/filme/crossing-auf-der-suche-nach-tekla",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attLbTzgFcfzsbTpV/84a7a63943ed0f512bb5136220a0fb77/Crossing_-_Poster.jpg",
-      "trailer": "https://www.youtube.com/watch?v=TkfUgC_rfMA",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
       "id": "kulturforum-1722978000000",
       "title": "Ein kleines Stück vom Kuchen",
       "normalizedTitle": "EIN KLEINES STÜCK VOM KUCHEN",
@@ -6271,19 +6124,21 @@
       "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
       "cinemaName": "sommerkino-kulturforum",
       "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1723150800000",
-      "title": "Manche mögen’s heiß",
-      "normalizedTitle": "MANCHE MÖGEN’S HEISS",
+      "id": "kulturforum-1722891600000",
+      "title": "The Big Lebowski",
+      "normalizedTitle": "THE BIG LEBOWSKI",
       "version": {
         "raw": "OmU",
         "original": true,
         "english": false
       },
-      "date": "Do., 08.08",
-      "timestamp": 1723150800000,
+      "date": "Mo., 05.08",
+      "timestamp": 1722891600000,
       "time": "21:0",
-      "url": "https://www.yorck.de/filme/manche-mogens-heiss",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attETKraQZS78S7Ok/3cce51e0c0fe7939bb7f05d17ca1d0ba/Some_Like_It_Hot_-_Poster.jpg",
+      "url": "https://www.yorck.de/filme/the-big-lebowski",
+      "description": "<p>Eines Tages wird der Dude zu Hause von zwei schlecht gelaunten Geldeintreibern erwartet. Sie haben ihn mit dem echten Big Lebowski, der ein reicher Geschäftsmann ist, verwechselt und fordern jetzt von ihm das Geld, das seine angebliche Frau Bunny ihnen schuldet. Nachdem sie auf seinen Lieblingsteppich uriniert haben, begibt sich der beleidigte Dude auf die Suche nach dem richtigen Big Lebowski, um seinen Schaden ersetzt zu bekommen. Doch damit fangen seine Probleme erst richtig an.</p>\n",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attBC7yV2WpzQBcag/566c1f472c5068bffd19b52fccadd3ba/wlpjRBQdRSVdu2a8icYZaIp2xmt.jpg",
+      "trailer": "https://www.youtube.com/watch?v=knxhiwUspsA",
       "bookable": true
     },
     {
@@ -6312,21 +6167,165 @@
       "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
       "cinemaName": "sommerkino-kulturforum",
       "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1722891600000",
-      "title": "The Big Lebowski",
-      "normalizedTitle": "THE BIG LEBOWSKI",
+      "id": "kulturforum-1723669200000",
+      "title": "Verbrannte Erde",
+      "normalizedTitle": "VERBRANNTE ERDE",
+      "version": {
+        "raw": "OmeU",
+        "original": true,
+        "english": true
+      },
+      "date": "Mi., 14.08",
+      "timestamp": 1723669200000,
+      "time": "21:0",
+      "url": "https://www.yorck.de/filme/verbrannte-erde",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attdTdObS43ddlgHK/fad200782dc22a2a0b34198da41cd8b7/VE_Plakat_RZ_A4__1_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=D7y7_TuvVTU",
+      "bookable": true
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1723410000000",
+      "title": "Der Himmel über Berlin",
+      "normalizedTitle": "DER HIMMEL ÜBER BERLIN",
+      "version": {
+        "raw": "DF",
+        "original": false,
+        "english": false
+      },
+      "date": "So., 11.08",
+      "timestamp": 1723410000000,
+      "time": "21:0",
+      "url": "https://www.yorck.de/filme/der-himmel-uber-berlin",
+      "description": "<p>Die Engel Damiel und Cassiel treten als Beobachter der Welt auf, insbesondere in Berlin. Sie können nicht in das Leben der Menschen eingreifen und sich ihnen nicht zu erkennen geben. Sie können ihnen jedoch neuen Lebensmut einflößen. Der Wunsch, am Leben der Sterblichen teilzuhaben, wird bei Damiel so groß, dass er dafür bereit ist, auf seine Unsterblichkeit zu verzichten. Mit einer antiken Ritterrüstung als Startkapital wird er in die Welt hineingeworfen. In einer Trapezkünstlerin, die sich scheinbar von der Erdschwere löst, findet er seinen Gegenpart.</p>\n",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attbTi8wwMTKkFo6K/7309b3225bacfcbd51dc983b54488b18/Der_Himmel__ber_Berlin.jpg",
+      "bookable": true
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1723237200000",
+      "title": "Crossing - Auf der Suche nach Tekla",
+      "normalizedTitle": "CROSSING - AUF DER SUCHE NACH TEKLA",
       "version": {
         "raw": "OmU",
         "original": true,
         "english": false
       },
-      "date": "Mo., 05.08",
-      "timestamp": 1722891600000,
+      "date": "Fr., 09.08",
+      "timestamp": 1723237200000,
       "time": "21:0",
-      "url": "https://www.yorck.de/filme/the-big-lebowski",
-      "description": "<p>Eines Tages wird der Dude zu Hause von zwei schlecht gelaunten Geldeintreibern erwartet. Sie haben ihn mit dem echten Big Lebowski, der ein reicher Geschäftsmann ist, verwechselt und fordern jetzt von ihm das Geld, das seine angebliche Frau Bunny ihnen schuldet. Nachdem sie auf seinen Lieblingsteppich uriniert haben, begibt sich der beleidigte Dude auf die Suche nach dem richtigen Big Lebowski, um seinen Schaden ersetzt zu bekommen. Doch damit fangen seine Probleme erst richtig an.</p>\n",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attBC7yV2WpzQBcag/566c1f472c5068bffd19b52fccadd3ba/wlpjRBQdRSVdu2a8icYZaIp2xmt.jpg",
-      "trailer": "https://www.youtube.com/watch?v=knxhiwUspsA",
+      "url": "https://www.yorck.de/filme/crossing-auf-der-suche-nach-tekla",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attLbTzgFcfzsbTpV/84a7a63943ed0f512bb5136220a0fb77/Crossing_-_Poster.jpg",
+      "trailer": "https://www.youtube.com/watch?v=TkfUgC_rfMA",
+      "bookable": true
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1722546900000",
+      "title": "Der talentierte Mr. Ripley",
+      "normalizedTitle": "DER TALENTIERTE MR. RIPLEY",
+      "version": {
+        "raw": "OmU",
+        "original": true,
+        "english": false
+      },
+      "date": "Do., 01.08",
+      "timestamp": 1722546900000,
+      "time": "21:15",
+      "url": "https://www.yorck.de/filme/der-talentierte-mr-ripley",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/att56fX68z9hv9KwE/c487319af78f72698360ba6b3dad2243/The_Talented_Mr._Ripley.jpg",
+      "bookable": true
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1723150800000",
+      "title": "Manche mögen’s heiß",
+      "normalizedTitle": "MANCHE MÖGEN’S HEISS",
+      "version": {
+        "raw": "OmU",
+        "original": true,
+        "english": false
+      },
+      "date": "Do., 08.08",
+      "timestamp": 1723150800000,
+      "time": "21:0",
+      "url": "https://www.yorck.de/filme/manche-mogens-heiss",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attETKraQZS78S7Ok/3cce51e0c0fe7939bb7f05d17ca1d0ba/Some_Like_It_Hot_-_Poster.jpg",
+      "bookable": true
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1723064400000",
+      "title": "La Chimera",
+      "normalizedTitle": "LA CHIMERA",
+      "version": {
+        "raw": "OmeU",
+        "original": true,
+        "english": true
+      },
+      "date": "Mi., 07.08",
+      "timestamp": 1723064400000,
+      "time": "21:0",
+      "url": "https://www.yorck.de/filme/la-chimera",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attcCcQQpbFPfggIJ/a446799fbccdd14e3237dd18bcabf089/La_Chimera_-_Poster.jpg",
+      "trailer": "https://www.youtube.com/watch?v=pY-XAY-oXGI",
+      "bookable": true
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1724013900000",
+      "title": "A Killer Romance",
+      "normalizedTitle": "A KILLER ROMANCE",
+      "version": {
+        "raw": "OmU",
+        "original": true,
+        "english": false
+      },
+      "date": "So., 18.08",
+      "timestamp": 1724013900000,
+      "time": "20:45",
+      "url": "https://www.yorck.de/filme/a-killer-romance",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attR6hnWO9gfiZ30i/e76bc351b29f5e83fabdc0eec8952724/A_Killer_Romance_Poster.jpg",
+      "trailer": "https://www.youtube.com/watch?v=BYsKP1NsDLA",
+      "bookable": true
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1723928400000",
+      "title": "Perfect Days",
+      "normalizedTitle": "PERFECT DAYS",
+      "version": {
+        "raw": "OmeU",
+        "original": true,
+        "english": true
+      },
+      "date": "Sa., 17.08",
+      "timestamp": 1723928400000,
+      "time": "21:0",
+      "url": "https://www.yorck.de/filme/perfect-days",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attldW2u1ndn8Mmjz/7dadca08ef6175d60780e5dd9538c8be/1Perfect_Days_BL.jpg",
+      "trailer": "https://www.youtube.com/watch?v=w8BxHWBXdWo",
       "bookable": true
     },
     {
@@ -6370,24 +6369,6 @@
       "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
       "cinemaName": "sommerkino-kulturforum",
       "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1723410000000",
-      "title": "Klassiker im Sommerkino",
-      "normalizedTitle": "KLASSIKER IM SOMMERKINO",
-      "version": {
-        "raw": "OmU",
-        "original": true,
-        "english": false
-      },
-      "date": "So., 11.08",
-      "timestamp": 1723410000000,
-      "time": "21:0",
-      "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
       "id": "kulturforum-1723755600000",
       "title": "Klassiker im Sommerkino",
       "normalizedTitle": "KLASSIKER IM SOMMERKINO",
@@ -6398,6 +6379,60 @@
       },
       "date": "Do., 15.08",
       "timestamp": 1723755600000,
+      "time": "21:0",
+      "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1723496400000",
+      "title": "Klassiker im Sommerkino",
+      "normalizedTitle": "KLASSIKER IM SOMMERKINO",
+      "version": {
+        "raw": "OmU",
+        "original": true,
+        "english": false
+      },
+      "date": "Mo., 12.08",
+      "timestamp": 1723496400000,
+      "time": "21:0",
+      "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1722891600000",
+      "title": "Klassiker im Sommerkino",
+      "normalizedTitle": "KLASSIKER IM SOMMERKINO",
+      "version": {
+        "raw": "OmU",
+        "original": true,
+        "english": false
+      },
+      "date": "Mo., 05.08",
+      "timestamp": 1722891600000,
+      "time": "21:0",
+      "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1723410000000",
+      "title": "Klassiker im Sommerkino",
+      "normalizedTitle": "KLASSIKER IM SOMMERKINO",
+      "version": {
+        "raw": "OmU",
+        "original": true,
+        "english": false
+      },
+      "date": "So., 11.08",
+      "timestamp": 1723410000000,
       "time": "21:0",
       "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
     },
@@ -6424,24 +6459,6 @@
       "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
       "cinemaName": "sommerkino-kulturforum",
       "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1723496400000",
-      "title": "Klassiker im Sommerkino",
-      "normalizedTitle": "KLASSIKER IM SOMMERKINO",
-      "version": {
-        "raw": "OmU",
-        "original": true,
-        "english": false
-      },
-      "date": "Mo., 12.08",
-      "timestamp": 1723496400000,
-      "time": "21:0",
-      "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
       "id": "kulturforum-1723150800000",
       "title": "Klassiker im Sommerkino",
       "normalizedTitle": "KLASSIKER IM SOMMERKINO",
@@ -6452,24 +6469,6 @@
       },
       "date": "Do., 08.08",
       "timestamp": 1723150800000,
-      "time": "21:0",
-      "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1722891600000",
-      "title": "Klassiker im Sommerkino",
-      "normalizedTitle": "KLASSIKER IM SOMMERKINO",
-      "version": {
-        "raw": "OmU",
-        "original": true,
-        "english": false
-      },
-      "date": "Mo., 05.08",
-      "timestamp": 1722891600000,
       "time": "21:0",
       "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
     },
@@ -6549,8 +6548,8 @@
       "normalizedTitle": "JADUP UND BOREL",
       "img": "https://images.cinetixx.com/posters/529482143/thumbnails/529482143_211_300.jpg",
       "description": "Eine kleine Stadt in der Altmark sieht ihrer 800-Jahr-Feier entgegen. Mit der Erinnerung an Vergangenes taucht auch plötzlich wieder der Name eines jungen Mädchens auf, das es als Umsiedlerin mit ihrer Mutter 1945 in das Städtchen verschlagen hatte. Boel hieß das Mädchen. Ein merkwürdiger Name, ähnlich fremd wie der des jetzigen Bürgermeisters - Jadup - und auch den hatte es 1945 in diesen Winkel der Altmark geführt. Damals, als Jadup die weiße Fahne durch sein rotes Turnhemd ersetzte, begegneten sie einander zum ersten Mal: Jadup und Boel. Er lehrte sie, die ihn von nun an aufmerksam beobachtete, lesen und schreiben und sprach ihr voller Hoffnung von der neuen Zeit (wofür das rote Hemd ein optisches Signal gewesen war, das ihm allerdings den Hass vieler Alteingesessener eingetragen hatte). Etwas war auffällig an Boels Händen: Sie waren übersät mit Warzen. Jadup konnte da nicht helfen, und ein anderer nutzte Boels Hilflosigkeit gemein aus. Tratsch und Klatsch im Dorf mehrten sich und gewannen schließlich politische Dimensionen. Boel aber schwieg, auch gegenüber Jadup. Was der nicht verstand, denn er hatte in seiner Naivität nicht bemerkt, dass Boel ihn liebte. Enttäuscht in ihrem Vertrauen, verschwand das Mädchen schließlich für immer. Jadup vergaß Boel, bis er durch seinen Sohn Max unverhofft an sie erinnert wurde. Max muss als Vorsitzender des Klubs Junger Historiker zum Verhalten eines Mädchens Stellung nehmen, das auf ein vom Bürgermeister Jadup gestelltes Aufsatzthema anders reagierte, als die Lehrer das erwarteten. Das Mädchen bedeutet Max, was Jadup Boel bedeutet hatte. Und jetzt, in Erinnerung an das eigene unbewältigte Jugenderlebnis, wird bei Jadup Verständnis und Erkenntnis ausgelöst. Wo er damals versagte, kann er in vergleichbarer Situation seinem Sohn helfen, sie zu meistern.",
-      "available": 198,
-      "reserved": 2,
+      "available": 194,
+      "reserved": 6,
       "bookable": true
     },
     {
