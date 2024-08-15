@@ -192,27 +192,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "fhain-1106": {
-    "cinemaId": "fh_freiluftkino",
-    "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
-    "cinemaName": "Freiluftkino Friedrichshain",
-    "cinemaShortName": "fhain",
-    "id": "fhain-1106",
-    "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/1106",
-    "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=1104",
-    "title": "European Outdoor Film Tour  E.O.F.T. 23/24",
-    "normalizedTitle": "EUROPEAN OUTDOOR FILM TOUR  E.O.F.T. 23/24",
-    "version": {
-      "original": false,
-      "english": false
-    },
-    "date": "Mi., 14.08",
-    "timestamp": 1723667400000,
-    "time": "20:30",
-    "available": 0,
-    "reserved": 0,
-    "bookable": true
-  },
   "fhain-1130": {
     "cinemaId": "fh_freiluftkino",
     "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
@@ -758,15 +737,15 @@
     "reserved": 0,
     "bookable": true
   },
-  "xberg-1052": {
+  "xberg-1061": {
     "description": "Also: Kristen Stewart ist (natürlich!) die coolste Trainerin in einem komplett abgerocktem Fitness Studio irgendwo in New Mexico. Katy M. O’Brian ist eine durchreisende Bodybuilderin mit Ziel Las Vegas. Die beiden verknallen sich und dann greift dieser Hammer Film von Rose Glass in die Vollen. Kompromisslos, energiegeladenen, wild, voll schwarzen Humors, sexy und berauschend.",
     "rawVersion": "Love lies bleeding",
     "cinemaId": "kb_freiluftkino",
     "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
     "cinemaName": "Freiluftkino Kreuzberg",
     "cinemaShortName": "xberg",
-    "id": "xberg-1052",
-    "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/1052",
+    "id": "xberg-1061",
+    "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/1061",
     "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=1042",
     "title": "Love Lies Bleeding / engl.m.dt.Ut",
     "normalizedTitle": "LOVE LIES BLEEDING / ENGL.M.DT.UT",
@@ -775,9 +754,9 @@
       "original": false,
       "english": false
     },
-    "date": "Mi., 14.08",
-    "timestamp": 1723668300000,
-    "time": "20:45",
+    "date": "Do., 22.08",
+    "timestamp": 1724358600000,
+    "time": "20:30",
     "available": 0,
     "reserved": 0,
     "bookable": true
@@ -1247,7 +1226,7 @@
     "reserved": 0,
     "bookable": true
   },
-  "rehberge-1060": {
+  "rehberge-1081": {
     "trailer": "https://www.youtube.com/watch?v=ymVAnV8ZBJE",
     "description": "Schön, dass einen die französischen dann eben doch wieder so mitreißen können: Der pensionierte Offizier François dreht am Rad, als er 40 Jahre alte Liebesbriefe an seine Frau Annie findet, die nicht von Ihm sind. Er fordert Revanche, und reist, allein schafft er die Reise eh nicht, zusammen mit seiner Frau ins sonnige Nizza um den Nebenbuhler zu stellen: Annie allerdings genießt den Ausflug in die Vergangenheit und das nächtliche Nacktbaden mit ihrem neuen alten Kavalier ... LIEBESBRIEFE AUS NIZZA ist eine umwerfende Sommerkomödie über eine so wilde wie wahnwitzige Vendetta an der Côte d'Azur. Eine zugleich sehr romantische Screwball-Komödie über den dritten und den vierten Frühling im Leben. Eine Revanche à trois, denn kein Alter schützt vor später Rache und vor Allem vor frischer Verliebtheit.",
     "rawVersion": "Liebesbriefe aus Nizza",
@@ -1255,8 +1234,8 @@
     "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
     "cinemaName": "Freiluftkino Rehberge",
     "cinemaShortName": "rehberge",
-    "id": "rehberge-1060",
-    "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/1060",
+    "id": "rehberge-1081",
+    "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/1081",
     "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=1035",
     "title": "Liebesbriefe aus Nizza / dt.Fassung",
     "normalizedTitle": "LIEBESBRIEFE AUS NIZZA / DT.FASSUNG",
@@ -1265,9 +1244,9 @@
       "original": false,
       "english": false
     },
-    "date": "Mi., 14.08",
-    "timestamp": 1723668300000,
-    "time": "20:45",
+    "date": "Do., 05.09",
+    "timestamp": 1725565500000,
+    "time": "19:45",
     "available": 0,
     "reserved": 0,
     "bookable": true
@@ -1639,77 +1618,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "hasenheide-783905": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-783905",
-    "title": "Alles steht Kopf 2 ",
-    "normalizedTitle": "ALLES STEHT KOPF 2",
-    "version": {
-      "raw": "",
-      "original": false,
-      "english": false
-    },
-    "date": "Mi., 14.08",
-    "timestamp": 1723593600000,
-    "time": "16:00",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/783905?layout=shows",
-    "img": "https://media.kinoheld.de/y46lNEkC_1qRI_7pw-pHCmV5OIU=/400x560/images%2Ffilm%2Falles-steht-kopf-2-57311.v17099069704458.jpg",
-    "description": "Im Kopf des nun frischgebackenen Teenagers Riley wird plötzlich das Hauptquartier abgerissen, um Platz für etwas völlig Unerwartetes zu schaffen: neue Emotionen! Freude, Trauer, Wut, Angst und Ekel, die seit langem erfolgreich Rileys Kopf managen, sind sich nicht sicher, was sie fühlen sollen, als Zweifel auftaucht. Und es sieht so aus, als ob sie nicht die einzige Neue ist!",
-    "trailer": "https://www.youtube.com/watch?v=_VciXMZxKr0",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
-  "hasenheide-783906": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-783906",
-    "title": "Crossing the Bridge: The Sound of Istanbul (WA: 20 (OmU)",
-    "normalizedTitle": "CROSSING THE BRIDGE: THE SOUND OF ISTANBUL",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Mi., 14.08",
-    "timestamp": 1723593600000,
-    "time": "18:00",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/783906?layout=shows",
-    "img": "https://media.kinoheld.de/-tfkLxBsI7BWZI7X9Svz6FWaGh8=/400x560/images%2Ffilm%2Fcrossing-the-bridge-the-sound-of-istanbul-60971.v17236182019630.jpg",
-    "description": "Ein Portrait von Istanbuls Musikszene. Alexander Hacke, Bassist der Einstürzenden Neubauten, führt durch den Film. Man erhält u.a. einen Einblick in die Istanbuler Rock-, Rap- und Arabeske-Szene.",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
-  "hasenheide-783907": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-783907",
-    "title": "Crossing: Auf der Suche nach Tekla (OmU)",
-    "normalizedTitle": "CROSSING: AUF DER SUCHE NACH TEKLA",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Mi., 14.08",
-    "timestamp": 1723593600000,
-    "time": "21:00",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/783907?layout=shows",
-    "img": "https://media.kinoheld.de/kNcIX59J0HYNoaS4CtjxKY6RxmU=/400x560/images%2Ffilm%2Fcrossing-auf-der-suche-nach-tekla-60997.v17185813232487.jpg",
-    "description": "Lia, eine pensionierte Lehrerin aus Georgia, erfährt von ihrem jungen Nachbarn Achi, dass ihre lang vermisste Nichte Tekla, eine Transgender-Frau, die Grenze in die Türkei überquert hat. In der Hoffnung, Tekla nach einer Zeit der Entfremdung nach Hause zu bringen, reist Lia mit dem unberechenbaren Achi nach Istanbul, um sie zu finden. Während sie die verborgenen Ecken der Stadt erkunden, begegnen sie der Transgender-Anwältin Evrim, die ihnen bei ihrer Suche hilft.",
-    "trailer": "https://www.youtube.com/watch?v=aR1295MwfAI",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
   "hasenheide-783955": {
     "cinemaId": "580",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
@@ -1830,14 +1738,14 @@
     "reserved": 0,
     "bookable": true
   },
-  "hasenheide-786858": {
+  "hasenheide-786863": {
     "cinemaId": "580",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
     "cinemaName": "freiluftkino-hasenheide",
     "cinemaShortName": "hasenheide",
-    "id": "hasenheide-786858",
-    "title": "Love Lies Bleeding (OmU)",
-    "normalizedTitle": "LOVE LIES BLEEDING",
+    "id": "hasenheide-786863",
+    "title": "Alles steht Kopf 2 (OmU)",
+    "normalizedTitle": "ALLES STEHT KOPF 2",
     "version": {
       "raw": "OmU",
       "original": true,
@@ -1846,10 +1754,10 @@
     "date": "Fr., 16.08",
     "timestamp": 1723766400000,
     "time": "21:00",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/786858?layout=shows",
-    "img": "https://media.kinoheld.de/lL8KyR8XhWfVPb1dpAh2rsctq0I=/400x560/images%2Ffilm%2Flove-lies-bleeding-58533.v17123765875362.jpg",
-    "description": "Jackie strebt eine erfolgreiche Karriere als Bodybuilderin an und ist auf dem Weg nach Las Vegas, um dort an einem Wettbewerb teilzunehmen. Auf der Durchreise landet sie in einer Kleinstadt in New Mexico, wo sie die zurückhaltende Managerin des Fitnessstudios, Lou, kennenlernt. Lous Vater ist ein Waffenhändler und hat im kriminellen Milieu großen Einfluss. Jackie und Lou verlieben sich ineinander, doch ihre Beziehung ruft Gewalt hervor, und sie geraten immer tiefer in die Machenschaften von Lous Familie.",
-    "trailer": "https://www.youtube.com/watch?v=quEcK_Voqx8",
+    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/786863?layout=shows",
+    "img": "https://media.kinoheld.de/y46lNEkC_1qRI_7pw-pHCmV5OIU=/400x560/images%2Ffilm%2Falles-steht-kopf-2-57311.v17099069704458.jpg",
+    "description": "Im Kopf des nun frischgebackenen Teenagers Riley wird plötzlich das Hauptquartier abgerissen, um Platz für etwas völlig Unerwartetes zu schaffen: neue Emotionen! Freude, Trauer, Wut, Angst und Ekel, die seit langem erfolgreich Rileys Kopf managen, sind sich nicht sicher, was sie fühlen sollen, als Zweifel auftaucht. Und es sieht so aus, als ob sie nicht die einzige Neue ist!",
+    "trailer": "https://www.youtube.com/watch?v=_VciXMZxKr0",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2425,7 +2333,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/784028?layout=shows",
     "img": "https://media.kinoheld.de/FE_J2Alv9tiBHJ4RtASoI91SAA8=/400x560/images%2Ffilm%2Ffuriosa-a-mad-max-saga-57691.v17104800190497.jpg",
     "description": "Als die Welt zusammenbricht, wird die junge Furiosa aus dem Grünen Ort der Vielen Mütter in die Hände einer großen Biker-Horde gerissen, angeführt vom Kriegsherrn Dementus. Sie durchstreifen das Ödland und stoßen auf die Zitadelle, über der Immortan Joe herrscht. Die beiden Tyrannen führen Krieg um die Vorherrschaft, und Furiosa muss viele Prüfungen überstehen, während sie die Mittel zusammenstellt, um ihren Weg nach Hause zu finden.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=iBvn4raq-kU",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -3013,32 +2921,8 @@
     "timestamp": 1726099200000,
     "time": "20:15",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/784122?layout=shows",
-    "img": "https://media.kinoheld.de/1zMzOJTnZ2ZDU7m1H1qdPmJTVpM=/400x560/images%2Ffilm%2Frock-n-roll-ringo-61259.v17236182304811.jpg",
+    "img": "https://media.kinoheld.de/zKAW4DNm15QfrMfAcmfLHjRd3jw=/400x560/images%2Ffilm%2Frock-n-roll-ringo-61259.v17236788625510.jpg",
     "description": "Ein Gerüstbauer verliert seinen Job und schlägt sich als Aushilfskraft bei der Kirmes durch. Dort lässt er sich von einem Schausteller dazu verführen, Karriere als Kirmesboxer zu machen - und hofft seiner gehörlosen Tochter einen langersehnten Traum erfüllen zu können.",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
-  "fmp-3055950242": {
-    "cinemaId": "1657",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
-    "cinemaName": "b-ware-openair-fmp",
-    "cinemaShortName": "fmp",
-    "id": "fmp-3055950242",
-    "title": "CHALLENGERS - RIVALEN (OmdU / en)",
-    "normalizedTitle": "CHALLENGERS - RIVALEN",
-    "version": {
-      "raw": "OmdU en",
-      "original": false,
-      "english": true
-    },
-    "date": "Mi., 14.08",
-    "timestamp": 1723593600000,
-    "time": "21:15",
-    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/3055950242?layout=shows",
-    "img": "https://media.kinoheld.de/q98aVeOhpT3LLDEITdjk_qo81Xo=/400x560/images%2Ffilm%2Fchallengers-rivalen-48955.v17131965178347.webp",
-    "description": "Luca Guadagninos (CALL ME BY YOUR NAME, BONES AND ALL) neuer Hochglanzfilm über de Tücken der Liebe und des Sports. Die ehrgeizige Tennisspielerin Tashi Duncan begegnet während eines Turniers zwei 18-jährigen Freunden, die sich beide in sie verlieben und dadurch zu Rivalen um ihre Zuneigung werden. Nach 13 Jahren hat sie einen der beiden, Art, geheiratet und seine Karriere als Profispieler gefördert, doch sein beruflicher Fortschritt bleibt aus. Tashi überredet ihn dazu, an einem unterklassigen Turnier teilzunehmen, um seine frühere Stärke zurückzugewinnen. Der Comeback-Plan nimmt jedoch eine unerwartete Wendung, als Art gegen den gescheiterten Patrick antreten muss - seinen ehemaligen besten Freund und Tashis früheren Lebensgefährten. Ein heißes Match der Liebe beginnt.",
-    "trailer": "https://www.youtube.com/watch?v=cip1rKB5_sc",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -3182,7 +3066,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/3058906569?layout=shows",
     "img": "https://media.kinoheld.de/3Eja4aVSz-lQkOR65AW4E1GzbR0=/400x560/images%2Ffilm%2Fmo%2F3013-107723.v17232951233088.jpg",
     "description": "Eine außergewöhnlich starke antifaschistische Bewegung entsteht in den 90er und 00er Jahren, auch als Konsequenz aus den rassistischen Pogromen, die das wiedervereinte Deutschland nach `89 überrollen. Kaum eine politische Bewegung der Neuzeit arbeitete derart professionell auf so vielen Feldern, wie die Antifa – von militanten Aktionen über Aufklärungskampagnen bis hin zu investigativen Recherchen. Fünf Aktivist*innen sprechen zum ersten Mal öffentlich über Ihre Aktivitäten und verschmelzen mit zahlreichen Schätzen aus dem Archiv zu einem intensiven Kinodokumentarfilm.\r\nStatt eines einfachen historischen Rückblicks legt der Film die Schichten frei, die den Mythos Antifa überlagern. Er gibt uns tiefe Einblicke in eine Form der politischen Arbeit, die zu heftigen Überreaktionen bei Staat und Bürgertum führte und doch immer notwendig war.\r\n<p><p/><p>Im Anschluss Q&A mit den Filmemacher*innen!</p>",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=SQLBS5VeAic&t=3s",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -3211,30 +3095,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "central-3009720312": {
-    "cinemaId": "1839",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
-    "cinemaName": "central-kino-open-air",
-    "cinemaShortName": "central",
-    "id": "central-3009720312",
-    "title": "open air: Midsommar (OmU)",
-    "normalizedTitle": "MIDSOMMAR",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Mi., 14.08",
-    "timestamp": 1723593600000,
-    "time": "20:30",
-    "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/3009720312?layout=shows",
-    "img": "https://media.kinoheld.de/NrjUKQWdV14Xm8jhLWE8lJe5ipA=/400x560/images%2Ffilm%2Fmidsommar-142831687776027.v17146732530380.jpg",
-    "description": "Obwohl ihre Beziehung kriselt, schließt sich Dani ihrem Freund Christian auf einen Sommertrip in einen kleinen Ort in Schweden an. Gemeinsam mit Christians Clique sind sie zu einem einmaligen Mittsommerfestival eingeladen. Doch der anfänglich idyllische Eindruck der abgelegenen Gemeinschaft trügt, die freundlichen Dorfbewohner verhalten sich nach und nach merkwürdiger: Sie bereiten sich auf ein besonderes Mittsommer-Ritual vor, das nur alle 90 Jahre zelebriert wird. Was als puritanisches Fest der Liebe und Glückseligkeit beginnt, nimmt bald eine unheimliche Wendung, die das sonnengeflutete Paradies bis in die Eingeweide erschüttert. Nach dem Überraschungshit \"Hereditary\" legt Ausnahme-Regisseur Ari Aster den nächsten kultverdächtigen Horrorfilm vor, der sich zu einem albtraumhaften filmischen Märchen entfaltet. \"Midsommar\" spielt geschickt mit der Brutalität nordischer Mythen und entfesselt in atemraubenden Bildern die Kraft obskurer Riten in Nächten, die keine Dunkelheit kennen. (Quelle: Verleih)",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
-    "available": 31,
-    "reserved": 54,
-    "bookable": true
-  },
   "central-3009721617": {
     "cinemaId": "1839",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
@@ -3255,8 +3115,8 @@
     "img": "https://media.kinoheld.de/He17xBj8aupaTM8tT2BUa3MOgs8=/400x560/images%2Ffilm%2Fmein-nachbar-totoro-24457.v4.jpg",
     "description": "Der Mutter von Satsuki und ihrer kleinen Schwester Mei geht es nicht besonders gut, weshalb man in diesem Jahr den Sommer auf dem Land verbringt, ganz in der Nähe jener Klinik, wo die Mutter liegt. Dort hat der Vater ein kleines Haus mit großem Garten gemietet, wo er schreiben kann und die Kinder Platz haben zum Toben. Was keiner ahnt: Direkt hinter dem Haus führt ein geheimer Pfad geradewegs hinab ins märchenhafte Reich der Staubhäschen. Oder Monsterhäschen ‒ je nach dem, wem man begegnet.",
     "trailer": "https://www.youtube.com/watch?v=72UfTSYXZT8",
-    "available": 34,
-    "reserved": 52,
+    "available": 32,
+    "reserved": 54,
     "bookable": true
   },
   "central-3009721645": {
@@ -3326,7 +3186,7 @@
     "img": "https://media.kinoheld.de/kOJPhg0qXbSOCgyMLNwGJ-p7Ndw=/400x560/images%2Ffilm%2Fpriscilla-5300516993186121699318614170035616517003567721700442824170044381017006201031700668002170096083817009633911701222913170126178317014232841701511716170159740817016989541701698975.v17039845782361.jpg",
     "description": "Als die Teenagerin Priscilla Beaulieu auf einer Party Elvis Presley kennenlernt, wird aus dem Mann, der bereits ein kometenhafter Rock-'n' Roll-Superstar ist, in privaten Momenten jemand völlig Unerwartetes: ein Verbündeter in der Einsamkeit, ein sanfter bester Freund und ihre erste große Liebe. Eine Geschichte von Liebe und Ruhm, die die unsichtbare Seite eines großen amerikanischen Mythos hinter Elvis und Priscillas turbulenter Ehe offenbart.",
     "trailer": "https://www.youtube.com/watch?v=MmS1kfH3Zzo",
-    "available": 79,
+    "available": 81,
     "reserved": 8,
     "bookable": true
   },
@@ -3419,7 +3279,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/3009722914?layout=shows",
     "img": "https://media.kinoheld.de/kYStEhPmGfaEZFCEJgfHXxwlOxU=/400x560/images%2Ffilm%2Fleon-der-profi-wa-2019-14361.v11.jpg",
     "description": "Léon verdient sein Geld als Auftragskiller der Italo-Mafia in den Straßen von New York. Er lebt zurückgezogen und pflegt außer zu seinem Boss Tony einzig zu seiner Topfpflanze ein freundschaftliches Verhältnis. Als die Familie seiner Nachbarstochter Mathilda von DEA-Polizisten brutal getötet wird, flüchtet sie zu Léon. Um sich an den Mördern ihres kleinen Bruders zu rächen, lässt sich Mathilda das grausame Handwerk eines Profi-Killers von Léon beibringen. (Quelle: Verleih)",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=4e50Hpm9L4I",
     "available": 80,
     "reserved": 9,
     "bookable": true
@@ -3512,7 +3372,7 @@
     "timestamp": 1725408000000,
     "time": "20:00",
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/3009725462?layout=shows",
-    "img": "https://media.kinoheld.de/5pWhvAdzsKIbztHmwrzxBlzWk7A=/400x560/images%2Ffilm%2Fchihiros-reise-ins-zauberland-24455.v17235959297675.jpg",
+    "img": "https://media.kinoheld.de/prlFrZ-1Agie8Fs8uhQ8lzPECiU=/400x560/images%2Ffilm%2Fchihiros-reise-ins-zauberland-24455.v17236823318139.jpg",
     "description": "Das Mädchen Chihiro ist völlig auf sich alleine gestellt, nachdem sich ihre Eltern auf der Fahrt in einen Vergnügungspark in Schweine verwandelt haben. In einem Erholungsbad für Götter trifft sie auf allerlei merkwürdige Gottheiten: einen Stinkgott, einen Jungen, der sich in einen Fluss verwandeln kann, den gesichtslosen Gott Noface und allerlei anderen seltsamen, wandelbaren Gestalten. (sir)",
     "trailer": "https://www.youtube.com/watch?v=ffnNmR6lBKY",
     "available": 74,
@@ -3536,7 +3396,7 @@
     "timestamp": 1725753600000,
     "time": "20:00",
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/3009726910?layout=shows",
-    "img": "https://media.kinoheld.de/MPBNIurPpSLPlB7CDbb6gWEFlb8=/400x560/images%2Ffilm%2Fthe-quiet-girl-41411169877806016987780611698778062170061323017007383121700738633170078586717007859681700786348170078890517007889651700792410170079254817007925661700792797170079279917007928081700792811.v17235938847869.png",
+    "img": "https://media.kinoheld.de/h6FgTvX77vpYwelN6iA4eLkDCnU=/400x560/images%2Ffilm%2Fthe-quiet-girl-41411169877806016987780611698778062170061323017007383121700738633170078586717007859681700786348170078890517007889651700792410170079254817007925661700792797170079279917007928081700792811.v17236772912261.png",
     "description": "Als erneut Nachwuchs kommt, wird ein von der Familie vernachlässigtes irisches Mädchen über die Sommerferien zu Verwandten geschickt. Dort erfährt es eine Wärme und Zuneigung, die es aus ihrer schmerzhaften Erstarrung befreien. Und doch gibt es auch in der Idylle der irischen Provinz Schmerz und Verlust.",
     "trailer": "https://www.youtube.com/watch?v=Nsn7QWmPhWI",
     "available": 89,
@@ -3659,8 +3519,8 @@
     "img": "https://media.kinoheld.de/iEH66me-olhM6V2IX7V6Zmrjrew=/400x560/images%2Ffilm%2F4%2Fder-himmel-ueber-berlin-9307.v22.jpg",
     "description": "Damiel ist ein Engel. Und gemeinsam mit seinem himmlischen Kollegen Cassiel wandert er durch das geteilte Berlin und wacht über die Menschen. Doch als Engel bleibt Damiel der menschlichen Welt verborgen. Er kann sie nur beobachten und ihren Gedanken lauschen, mitfühlen und miterleben kann er ihre Empfindungen nicht. Als er sich eines Tages in die zauberhafte Trapezkünstlerin Marion verliebt, beschließt er, selbst ein Mensch zu werden. Doch dafür muss er ein großes Opfer bringen: seine Unsterblichkeit. (j.b.)",
     "trailer": "https://www.youtube.com/watch?v=_Zih4o6NLCc",
-    "available": 80,
-    "reserved": 9,
+    "available": 78,
+    "reserved": 11,
     "bookable": true
   },
   "central-3009728309": {
@@ -3682,7 +3542,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/3009728309?layout=shows",
     "img": "https://media.kinoheld.de/fOsnnKAUVMaQ7DLzmrXaFpVgOAI=/400x560/images%2Ffilm%2Feverything-everywhere-all-at-once-22045.v17142624576923.jpg",
     "description": "Evelyn Wang führt einen Waschsalon und kämpft mit Steuerproblemen und Familienkonflikten. Während sie die Geburtstagsparty ihres Vaters organisiert, findet ihr Ehemann Waymond keine Gelegenheit, das Thema Scheidung anzusprechen. Ihre Tochter Joy verärgert sie zusätzlich, indem sie plant, ihre Freundin Becky zur Feier mitzubringen, obwohl Evelyn Schwierigkeiten mit Joys sexueller Orientierung hat. Evelyns Leben verlief nicht wie erhofft. Doch bald bietet sich ihr eine unerwartete Chance, alles zu verändern.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=nz-eUNVQpzk",
     "available": 86,
     "reserved": 3,
     "bookable": true
@@ -3750,12 +3610,12 @@
     "trailer": "https://www.youtube.com/watch?v=8fYtuE_ZJ4E",
     "bookable": true
   },
-  "kulturforum-1725137100000": {
+  "kulturforum-1724877900000": {
     "cinemaId": "sommerkino-kulturforum",
     "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
     "cinemaName": "sommerkino-kulturforum",
     "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1725137100000",
+    "id": "kulturforum-1724877900000",
     "title": "Klassiker im Sommerkino",
     "normalizedTitle": "KLASSIKER IM SOMMERKINO",
     "version": {
@@ -3763,31 +3623,10 @@
       "original": true,
       "english": false
     },
-    "date": "Sa., 31.08",
-    "timestamp": 1725137100000,
+    "date": "Mi., 28.08",
+    "timestamp": 1724877900000,
     "time": "20:45",
     "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
-  },
-  "kulturforum-1724359500000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1724359500000",
-    "title": "Love Lies Bleeding",
-    "normalizedTitle": "LOVE LIES BLEEDING",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Do., 22.08",
-    "timestamp": 1724359500000,
-    "time": "20:45",
-    "url": "https://www.yorck.de/filme/love-lies-bleeding",
-    "img": "//images.ctfassets.net/4mws6uyas4ta/attAah5He2hBAKrmC/4fc7b5715641bee03e5ac8b8055c22bb/Love_Lies_Bleeding_-_Poster.jpg",
-    "trailer": "https://www.youtube.com/watch?v=RcZ6FoBLqZA",
-    "bookable": true
   },
   "kulturforum-1724964300000": {
     "cinemaId": "sommerkino-kulturforum",
@@ -3810,12 +3649,12 @@
     "trailer": "https://www.youtube.com/watch?v=iJOPZYaNVgQ",
     "bookable": true
   },
-  "kulturforum-1724877900000": {
+  "kulturforum-1725137100000": {
     "cinemaId": "sommerkino-kulturforum",
     "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
     "cinemaName": "sommerkino-kulturforum",
     "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1724877900000",
+    "id": "kulturforum-1725137100000",
     "title": "Klassiker im Sommerkino",
     "normalizedTitle": "KLASSIKER IM SOMMERKINO",
     "version": {
@@ -3823,8 +3662,8 @@
       "original": true,
       "english": false
     },
-    "date": "Mi., 28.08",
-    "timestamp": 1724877900000,
+    "date": "Sa., 31.08",
+    "timestamp": 1725137100000,
     "time": "20:45",
     "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
   },
@@ -3909,23 +3748,26 @@
     "trailer": "https://www.youtube.com/watch?v=BYsKP1NsDLA",
     "bookable": true
   },
-  "kulturforum-1724186700000": {
+  "kulturforum-1724359500000": {
     "cinemaId": "sommerkino-kulturforum",
     "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
     "cinemaName": "sommerkino-kulturforum",
     "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1724186700000",
-    "title": "Surf Film Nacht: African Territory 2",
-    "normalizedTitle": "SURF FILM NACHT: AFRICAN TERRITORY 2",
+    "id": "kulturforum-1724359500000",
+    "title": "Love Lies Bleeding",
+    "normalizedTitle": "LOVE LIES BLEEDING",
     "version": {
-      "raw": "OmeU",
+      "raw": "OmU",
       "original": true,
-      "english": true
+      "english": false
     },
-    "date": "Di., 20.08",
-    "timestamp": 1724186700000,
+    "date": "Do., 22.08",
+    "timestamp": 1724359500000,
     "time": "20:45",
-    "url": "https://www.yorck.de/filme/surf-film-nacht-african-territory-2"
+    "url": "https://www.yorck.de/filme/love-lies-bleeding",
+    "img": "//images.ctfassets.net/4mws6uyas4ta/attAah5He2hBAKrmC/4fc7b5715641bee03e5ac8b8055c22bb/Love_Lies_Bleeding_-_Poster.jpg",
+    "trailer": "https://www.youtube.com/watch?v=RcZ6FoBLqZA",
+    "bookable": true
   },
   "kulturforum-1723755600000": {
     "cinemaId": "sommerkino-kulturforum",
@@ -3966,26 +3808,23 @@
     "trailer": "https://www.youtube.com/watch?v=w8BxHWBXdWo",
     "bookable": true
   },
-  "kulturforum-1723669200000": {
+  "kulturforum-1724186700000": {
     "cinemaId": "sommerkino-kulturforum",
     "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
     "cinemaName": "sommerkino-kulturforum",
     "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1723669200000",
-    "title": "Verbrannte Erde",
-    "normalizedTitle": "VERBRANNTE ERDE",
+    "id": "kulturforum-1724186700000",
+    "title": "Surf Film Nacht: African Territory 2",
+    "normalizedTitle": "SURF FILM NACHT: AFRICAN TERRITORY 2",
     "version": {
       "raw": "OmeU",
       "original": true,
       "english": true
     },
-    "date": "Mi., 14.08",
-    "timestamp": 1723669200000,
-    "time": "21:0",
-    "url": "https://www.yorck.de/filme/verbrannte-erde",
-    "img": "//images.ctfassets.net/4mws6uyas4ta/attdTdObS43ddlgHK/fad200782dc22a2a0b34198da41cd8b7/VE_Plakat_RZ_A4__1_.jpg",
-    "trailer": "https://www.youtube.com/watch?v=D7y7_TuvVTU",
-    "bookable": true
+    "date": "Di., 20.08",
+    "timestamp": 1724186700000,
+    "time": "20:45",
+    "url": "https://www.yorck.de/filme/surf-film-nacht-african-territory-2"
   },
   "weissensee-1723754700000": {
     "cinemaId": "2527240812",
@@ -4007,8 +3846,8 @@
     "img": "https://images.cinetixx.com/posters/3013459063/thumbnails/3013459063_211_300.jpg",
     "description": "Mahin lebt seit dem Tod ihres Mannes und der Ausreise ihrer Tochter nach Europaallein in Teheran. Ein geselliger Nachmittagstee mit Freundinnen gibt den Anstoßdazu, ihren einsamen und monotonen Alltag hinter sich zu lassen. In Mahinreift der Wunsch ihr Liebesleben wieder zu aktivieren. Auf der Suche nach einemneuen Partner, öffnet sie spontan ihr Herz für den gleichaltrigen Taxifahrer Faramarz.Aus der zufälligen Begegnung wird eine ebenso überraschende wie unvergesslicheNacht.„Ein kleines Stück vom Kuchen“ ist bereits die dritte gemeinsame Arbeit des erfolgreicheniranischen Regie-Duos Maryam Moghaddam und Behtash Sanaeeha.Der Film, der seine umjubelte Welturaufführung auf der diesjährigen Berlinale2024 im Wettbewerb feierte, erzählt mit zartem Humor eine ebenso spielerischewie gefühlvolle Geschichte von Hoffnung und Liebe. Dabei zeichnet die Tragikomödieein authentisches Bild des alltäglichen Lebens von Frauen im Iran undderen Möglichkeiten einer subtilen Emanzipation gegen die patriarchalen Autoritäten.Was als romantische Begegnung zweier einsamer Fremder beginnt,entwickelt sich so zu einer berührenden Ode an das Leben, die Frauen und dieFreiheit.",
     "trailer": "https://youtu.be/xuyyeSmeu6Y",
-    "available": 175,
-    "reserved": 25,
+    "available": 161,
+    "reserved": 39,
     "bookable": true
   },
   "weissensee-1723841100000": {
@@ -4031,8 +3870,8 @@
     "img": "https://images.cinetixx.com/posters/3027487555/thumbnails/3027487555_211_300.jpg",
     "description": "Nach dem Erfolg des vierfachen Oscar®-Gewinners POOR THINGS bringt Yorgos Lanthimos nun sein neuestes exzentrisches Meisterwerk auf die große Leinwand: KINDS OF KINDNESS. Die zweifache Oscar®-Preisträgerin Emma Stone spielt die Hauptrolle an der Seite des Oscar®-nominierten Jesse Plemons, des Oscar®-nominierten Willem Dafoe, Margaret Qualley, der Oscar®-nominierten Hong Chau sowie Joe Alwyn, Mamoudou Athie und Hunter Schafer. KINDS OF KINDNESS erzählt drei unterschiedliche Geschichten auf einzigartige Weise: Von einem getriebenen Mann, der versucht, die Kontrolle über sein Leben zu erlangen; von einem beunruhigten Polizisten, dessen auf See vermisste Frau nach ihrer Rückkehr ein anderer Mensch zu sein scheint; und von einer entschlossenen Frau, die jemanden finden muss, der dazu bestimmt ist, ein großer spiritueller Führer zu werden. „Ein Geniestreich“ Süddeutsche Zeitung. “Ein krasses Stück Kino” 3sat Kulturzeit „Alle Schauspieler sind exzellent, die Regie erstklassig, die Ideenwelten verstörend-faszinierend.\" DIE WELT „gnadenlos absurd“ Frankfurter Rundschau „Eine perfekte Komposition“ BR kinokino",
     "trailer": "https://www.youtube.com/watch?v=7mSXOwQV_no",
-    "available": 159,
-    "reserved": 41,
+    "available": 151,
+    "reserved": 49,
     "bookable": true
   },
   "weissensee-1724359500000": {
@@ -4055,8 +3894,8 @@
     "img": "https://images.cinetixx.com/posters/3042466232/thumbnails/3042466232_211_300.jpg",
     "description": "Power, Pulp und Bodybuilder: Regisseurin Rose Glass wandelt auf den Spuren Tarantinos und inszeniert Kristen Stewart und Katy O’Brian so lustvoll wie kompromisslos auf einem energiegeladenen Trip voll tiefschwarzem Humor, zügelloser Gewalt und pulsierendem 80-ies Soundtrack. Der NATURAL BORN KILLERS für eine neue Generation: Wild, sexy und berauschend. Lou (Kristen Stewart) fristet ein eintöniges Dasein in einer Kleinstadt in New Mexiko. Bis die aufstrebende Bodybuilderin Jackie (Katy O'Brian) auftaucht – selbstsicher, ambitioniert und verdammt sexy. Hals über Kopf verlieben sich die beiden ineinander und träumen vom gemeinsamen Ausbruch. Doch sie haben die Rechnung ohne Lous zwielichtigen Vater (Ed Harris) gemacht, der über Leichen geht, um seinen Willen zu bekommen.",
     "trailer": "https://www.youtube.com/watch?v=MAwTiqIF04U",
-    "available": 181,
-    "reserved": 19,
+    "available": 179,
+    "reserved": 21,
     "bookable": true
   },
   "weissensee-1724445900000": {
@@ -4083,30 +3922,6 @@
     "reserved": 2,
     "bookable": true
   },
-  "weissensee-1725048000000": {
-    "cinemaId": "2527240812",
-    "cinemaUrl": "https://booking.cinetixx.de/frontend/#/program/2527240812",
-    "cinemaName": "Freiluftbühne Weißensee",
-    "cinemaShortName": "weissensee",
-    "id": "weissensee-1725048000000",
-    "url": "https://booking.cinetixx.de/frontend/index.html?cinemaId=2527240812&showId=3035504577&bgswitch=false&resize=false",
-    "date": "Fr., 30.08",
-    "timestamp": 1725048000000,
-    "time": "20:0",
-    "title": "LA CHIMERA",
-    "version": {
-      "raw": "OmU, Originalversion",
-      "original": true,
-      "english": false
-    },
-    "normalizedTitle": "LA CHIMERA",
-    "img": "https://images.cinetixx.com/posters/2992733103/thumbnails/2992733103_211_300.jpg",
-    "description": "Italien in den 80er Jahren. Das Plündern alter etruskischer Gräber ist so lukrativ wie verboten. Der seltsame Brite Arthur ist als Wünschelrutengänger der große Trumpf der wilden Truppe von „Tombaroli“, die die etrurische Erde auf der Suche nach antiken Schätzen umgraben: Grabbeigaben von unermesslichem Wert, gemacht für die Seelen der Verstorbenen, nicht für die Augen der Menschen.Doch Arthur jagt nicht der Chimäre vom schnellen Geld nach. Seine Chimäre sieht aus wie die Frau, die er verloren hat, Beniamina. Um sie zu finden, fordert er die Grenzen zwischen Traum und Wirklichkeit, zwischen Sichtbarem und Unsichtbarem heraus, auf der abenteuerlichen Suche nach jenem Tor zum Jenseits, von dem die Mythen sprechen. Eines Nachts stößt Arthur unerwartet auf eine etruskische Schatzkammer. Angesichts der unermesslichen Fülle und atemberaubenden Schönheit scheinen sich die Grenzen zwischen Vergangenheit und Gegenwart, Heiligem und Handfestem, Leben und Tod neu zu ordnen. Ist Arthurs Suche an ihr Ende gelangt?„La Chimera“, nach „Glücklich wie Lazzaro“ der neue Film von Alice Rohrwacher, ist ein Wunder in der besten Tradition des italienischen Kinos: Magisch, tief, burlesk, bodenständig und fantastisch, philosophisch, komödiantisch und dramatisch, bewegende Liebesgeschichte und ungestümes Abenteuer. Wunderbar gefilmt von Hélène Louvart und meisterhaft montiert von Nelly Quettier, brilliert Josh O’Connor („The Crown“) als melancholischer Grabräuber in einem umwerfenden Ensemble mit Carol Duarte, Vincenzo Nemolato, Alba Rohrwacher und der großen Isabella Rosselini.",
-    "trailer": "https://youtu.be/dQIhL-Ii-CU",
-    "available": 200,
-    "reserved": 0,
-    "bookable": true
-  },
   "weissensee-1724875200000": {
     "cinemaId": "2527240812",
     "cinemaUrl": "https://booking.cinetixx.de/frontend/#/program/2527240812",
@@ -4129,6 +3944,30 @@
     "trailer": "https://www.youtube.com/watch?v=TBgSzmmXS4U",
     "available": 199,
     "reserved": 1,
+    "bookable": true
+  },
+  "weissensee-1725048000000": {
+    "cinemaId": "2527240812",
+    "cinemaUrl": "https://booking.cinetixx.de/frontend/#/program/2527240812",
+    "cinemaName": "Freiluftbühne Weißensee",
+    "cinemaShortName": "weissensee",
+    "id": "weissensee-1725048000000",
+    "url": "https://booking.cinetixx.de/frontend/index.html?cinemaId=2527240812&showId=3035504577&bgswitch=false&resize=false",
+    "date": "Fr., 30.08",
+    "timestamp": 1725048000000,
+    "time": "20:0",
+    "title": "LA CHIMERA",
+    "version": {
+      "raw": "OmU, Originalversion",
+      "original": true,
+      "english": false
+    },
+    "normalizedTitle": "LA CHIMERA",
+    "img": "https://images.cinetixx.com/posters/2992733103/thumbnails/2992733103_211_300.jpg",
+    "description": "Italien in den 80er Jahren. Das Plündern alter etruskischer Gräber ist so lukrativ wie verboten. Der seltsame Brite Arthur ist als Wünschelrutengänger der große Trumpf der wilden Truppe von „Tombaroli“, die die etrurische Erde auf der Suche nach antiken Schätzen umgraben: Grabbeigaben von unermesslichem Wert, gemacht für die Seelen der Verstorbenen, nicht für die Augen der Menschen.Doch Arthur jagt nicht der Chimäre vom schnellen Geld nach. Seine Chimäre sieht aus wie die Frau, die er verloren hat, Beniamina. Um sie zu finden, fordert er die Grenzen zwischen Traum und Wirklichkeit, zwischen Sichtbarem und Unsichtbarem heraus, auf der abenteuerlichen Suche nach jenem Tor zum Jenseits, von dem die Mythen sprechen. Eines Nachts stößt Arthur unerwartet auf eine etruskische Schatzkammer. Angesichts der unermesslichen Fülle und atemberaubenden Schönheit scheinen sich die Grenzen zwischen Vergangenheit und Gegenwart, Heiligem und Handfestem, Leben und Tod neu zu ordnen. Ist Arthurs Suche an ihr Ende gelangt?„La Chimera“, nach „Glücklich wie Lazzaro“ der neue Film von Alice Rohrwacher, ist ein Wunder in der besten Tradition des italienischen Kinos: Magisch, tief, burlesk, bodenständig und fantastisch, philosophisch, komödiantisch und dramatisch, bewegende Liebesgeschichte und ungestümes Abenteuer. Wunderbar gefilmt von Hélène Louvart und meisterhaft montiert von Nelly Quettier, brilliert Josh O’Connor („The Crown“) als melancholischer Grabräuber in einem umwerfenden Ensemble mit Carol Duarte, Vincenzo Nemolato, Alba Rohrwacher und der großen Isabella Rosselini.",
+    "trailer": "https://youtu.be/dQIhL-Ii-CU",
+    "available": 200,
+    "reserved": 0,
     "bookable": true
   }
 }
