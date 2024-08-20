@@ -85,27 +85,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "fhain-1120": {
-    "cinemaId": "fh_freiluftkino",
-    "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
-    "cinemaName": "Freiluftkino Friedrichshain",
-    "cinemaShortName": "fhain",
-    "id": "fhain-1120",
-    "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/1120",
-    "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=1118",
-    "title": "Paris, Texas / engl.m.dt.Ut",
-    "normalizedTitle": "PARIS, TEXAS / ENGL.M.DT.UT",
-    "version": {
-      "original": false,
-      "english": false
-    },
-    "date": "Mo., 19.08",
-    "timestamp": 1724098500000,
-    "time": "20:15",
-    "available": 0,
-    "reserved": 0,
-    "bookable": true
-  },
   "fhain-1128": {
     "cinemaId": "fh_freiluftkino",
     "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
@@ -452,7 +431,7 @@
     "reserved": 0,
     "bookable": true
   },
-  "xberg-1057": {
+  "xberg-1072": {
     "trailer": "https://www.youtube.com/watch?v=Bk27CxEgMh4&amp;ab_channel=20thCenturyStudiosDE",
     "description": "Mit seinem flüchtig betrunkenen Besuch an der Wohnungstür durchbricht Harry den routinierten Alltag von Adam. Eine Begegnung ist möglich in diesem merkwürdigen Hochhaus irgendwo, Liebe möglicherweise gar. Die beiden beginnen, sich von Ihren Leben zu erzählen.\nZu schwärmen wäre über das subtil meisterhafte Spiel der Darsteller; über die erstaunliche Art und Weise des Films, Adams Vergangenheit zu erzählen; über den Schnitt des Films, der die Zeitebenen makellos fließen lässt; über den Soundtrack; über Regisseur Andrew Haigh (Weekend, 45 Jahr, ...) und über so vieles mehr .... \"Ein bewegender Film und ein Beweis für die Kraft der Liebe.\"\nThe New York Times",
     "rawVersion": "All of Us Strangers",
@@ -460,8 +439,8 @@
     "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
     "cinemaName": "Freiluftkino Kreuzberg",
     "cinemaShortName": "xberg",
-    "id": "xberg-1057",
-    "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/1057",
+    "id": "xberg-1072",
+    "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/1072",
     "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=1047",
     "title": "All of Us Strangers / engl.m.dt.Ut",
     "normalizedTitle": "ALL OF US STRANGERS / ENGL.M.DT.UT",
@@ -470,9 +449,9 @@
       "original": true,
       "english": false
     },
-    "date": "Mo., 19.08",
-    "timestamp": 1724099400000,
-    "time": "20:30",
+    "date": "Mo., 02.09",
+    "timestamp": 1725311700000,
+    "time": "21:15",
     "available": 0,
     "reserved": 0,
     "bookable": true
@@ -894,201 +873,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "rehberge-963": {
-    "description": "Draußen ist es warm. Sommerwarm. Es gibt sehr wenig Gründe, den 30.8. drinnen zu verbringen, und wenige Gründe sich übermäßig zu bewegen; und deshalb triffst du eine sehr kluge Entscheidung: Kultur zum Zuschauen, aber bitte an der frischen Luft. Am besten im Park oder Wald, weil es da kühler ist. Praktischerweise gibt es genau dort im Weddinger Rehberge-Park das Freiluftkino. Und am 30.8. findet da auch noch Live-Kultur statt! Ein Poetry Slam genaugenommen, von den Kiezpoeten. Könnte das nicht eine richtig gute Idee sein, fragst du dich. Mit einem kühlen Bier in der Hand unter schattigen Bäumen fläzen und dabei großartig unterhalten werden? Und du hast Recht, genau das wird passieren. Du wirst lachen, du wirst träumen, du wirst in Wortwasserfällen baden und dich von Slam-Champions begeistern lassen, die auf einem solchen Best Of Slam gefälligst anzutreffen sein werden. \n\"Das ist ein richtig guter Sommer\", wirst du dir denken, wenn du mit deinen Freund:innen im Schlepptau den Sonnenuntergang hinter der Bühne des Rehberge Freiluftkinos genießt, und du wirst absolut Recht haben. \"Aber wer tritt denn da eigentlich auf?\", fragst du dich, als du dein vergünstigtes Early Bird Ticket kaufst. Die charmantesten, authentischsten und unterhaltsamsten Slammer:innen die die Szene zu bieten hat. Gute Entscheidung also, dass du hier dabei sein willst. \nWir sehen uns dann am 30.8. zum Rehberge Freiluft Slam, super, wir freuen uns. Deine Kiezpoeten.\nLimitierte Tickets ab 11,90€.\n",
-    "rawVersion": "Rehberge Freiluft Slam 2024 - Einlass ab 18:30 Uhr ",
-    "cinemaId": "rb_freiluftkino",
-    "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
-    "cinemaName": "Freiluftkino Rehberge",
-    "cinemaShortName": "rehberge",
-    "id": "rehberge-963",
-    "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/963",
-    "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=939",
-    "title": "Rehberge Freiluft Slam 2024 - Einlass 18:30 Uhr",
-    "normalizedTitle": "REHBERGE FREILUFT SLAM 2024 - EINLASS 18:30 UHR",
-    "version": {
-      "raw": "Rehberge Freiluft Slam 2024 - Einlass ab 18:30 Uhr ",
-      "original": false,
-      "english": false
-    },
-    "date": "Fr., 30.08",
-    "timestamp": 1725046200000,
-    "time": "19:30",
-    "available": 0,
-    "reserved": 0,
-    "bookable": true
-  },
-  "rehberge-962": {
-    "description": "For English press Brittain-Flag Button!\n\nMit dem einzigartigen Live-Cast-Team von Max Mayhem. Ein unvergessliches Event. Die Schauspieler*innen kommen ins Publikum. Sie sind wirklich dabei, wenn Janet und Brad im Schloss von Dr. Frank-N-Furter ankommen. Im Freiluftkino Rehberge findet einmal im Jahr die weltweit größte Veranstaltung dieser Art statt, zu der inzwischen aus ganz Deutschland die Fans anreisen.  Freuen Sie sich auf einen tollen Abend! \n\nBeachten Sie die Einlasszeit, die auf Ihrem Ticket hinter dem Filmtitel abgedruckt ist.\n\nBitte die Altersfreigabe \"12\" beachten. Kinder ab sechs Jahren können in Begleitung von Erziehungsberechtigten an dieser Veranstaltung teilnehmen. \n\nSie handeln durch den Kauf der Eintrittskarten selbstverantwortlich und sind für die Beachtung der Altersfreigaben und Einlassbedingungen verantwortlich. \n\nDas Mitbringen von Wurfutensilien ist in haushaltsüblichen Mengen gestattet:\n100 g pro Person und Sorte. Konfetti  bis 50 g nur als Öko-Variante, biologisch abbaubar, zum Beispiel Blütenkonfetti. Auf keinen Fall mit Kunststoff oder Glitteranteilen.\nIm Ermessen des/der Einlasser*in können diese zugelassen werden. \nJede Person darf nur die Menge für eine Person bei sich tragen. Mengen für mehrere Personen müssen am Eingang aufgeteilt bzw. Großpakete (1kg) in kleine Tüten umgefüllt werden.\n Wir machen Sie darauf aufmerksam, dass bei dieser Veranstaltung mit Mehl, Wasser und Reis geworfen werden könnte und Ihre Kleidung dadurch beschmutzt werden könnte. Dies ist Teil des Charakters der Veranstaltung, daher sind die Besucher*innen aufgefordert selbst ihre Kleidung etc. vor Verschmutzen zu schützen.\n  Wir bieten an der Gastronomie Regencapes für 1.- € an.\n  Bitte nehmen Sie auf andere Rücksicht!\n \n  Ihr Freiluftkino Rehberge Team",
-    "rawVersion": "The Rocky Horror Picture Show 2024 - Einlass 18:30 bis 19:15 Uhr",
-    "cinemaId": "rb_freiluftkino",
-    "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
-    "cinemaName": "Freiluftkino Rehberge",
-    "cinemaShortName": "rehberge",
-    "id": "rehberge-962",
-    "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/962",
-    "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=938",
-    "title": "The Rocky Horror Picture Show mit Live Cast / Enlish Originalversion",
-    "normalizedTitle": "THE ROCKY HORROR PICTURE SHOW MIT LIVE CAST / ENLISH ORIGINALVERSION",
-    "version": {
-      "raw": "The Rocky Horror Picture Show 2024 - Einlass 18:30 bis 19:15 Uhr",
-      "original": false,
-      "english": false
-    },
-    "date": "Sa., 24.08",
-    "timestamp": 1724529600000,
-    "time": "20:00",
-    "available": 0,
-    "reserved": 0,
-    "bookable": true
-  },
-  "rehberge-970": {
-    "description": "Die besten Natur-Filme des Jahres – kuratiert von Dirk Steffens.\nSieben Filme, die die Natur und Tierarten in ihren schönsten Facetten zeigt, aber auch ernste Themen wie die Plastikverschmutzung anspricht, die durch uns Menschen zu einem immer größeren Problem wird.",
-    "rawVersion": "Green Screen Tour 23/24",
-    "cinemaId": "rb_freiluftkino",
-    "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
-    "cinemaName": "Freiluftkino Rehberge",
-    "cinemaShortName": "rehberge",
-    "id": "rehberge-970",
-    "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/970",
-    "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=946",
-    "title": "Green Screen Tour / div.m.dt.Ut",
-    "normalizedTitle": "GREEN SCREEN TOUR / DIV.M.DT.UT",
-    "version": {
-      "raw": "Green Screen Tour 23/24",
-      "original": false,
-      "english": false
-    },
-    "date": "Sa., 07.09",
-    "timestamp": 1725738300000,
-    "time": "19:45",
-    "available": 0,
-    "reserved": 0,
-    "bookable": true
-  },
-  "rehberge-1067": {
-    "trailer": "https://www.youtube.com/watch?v=sixPA4zb8k0",
-    "description": "Knut Elstermann von radioeins fasst diesen Film für uns zusammen: \"Gedreht in Schwarz-weiß orientiert sich diese Geschichte einer stillen Emanzipation an den Klassikern des italienischen Neorealismus, entwickelt aber eine ganz eigene, fast musikalische Handschrift und einen unwiderstehlichen Sog. Regisseurin Paola Cortellesi, die auch die Hauptrolle mit anrührender Empathie und innerer Würde spielt, vermag es in ihrem großartigen Regiedebüt, die Tragik dieser Lebenssituation mit Situationskomik zu erfüllen. Dieser Film war in Italien eine Sensation und schlug an der Kinokasse selbst Blockbuster wie Barbie.\"",
-    "rawVersion": "Morgen ist auch noch ein Tag",
-    "cinemaId": "rb_freiluftkino",
-    "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
-    "cinemaName": "Freiluftkino Rehberge",
-    "cinemaShortName": "rehberge",
-    "id": "rehberge-1067",
-    "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/1067",
-    "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=1030",
-    "title": "Morgen ist auch noch ein Tag / dt.Fassung",
-    "normalizedTitle": "MORGEN IST AUCH NOCH EIN TAG / DT.FASSUNG",
-    "version": {
-      "raw": "Morgen ist auch noch ein Tag",
-      "original": false,
-      "english": false
-    },
-    "date": "Mi., 21.08",
-    "timestamp": 1724272200000,
-    "time": "20:30",
-    "available": 0,
-    "reserved": 0,
-    "bookable": true
-  },
-  "rehberge-1070": {
-    "description": "Seit zwei Jahren leben Sandra, eine deutsche Schriftstellerin, ihr französischer Ehemann Samuel und ihr elfjähriger Sohn zurückgezogen in einem kleinen Ort in den französischen Alpen. An einem strahlenden Tag wird Samuel am Fuße ihres Chalets tot im Schnee gefunden. War es Mord? Selbstmord? Oder doch nur ein tragischer Unfall? Der Polizei erscheint der plötzliche Todesfall suspekt, und Sandra wird zur Hauptverdächtigen. Für Justine Triets Film, den sie Sandra Hüller auf den Leib geschrieben hat, gab’s die Goldene Palme und den europäischen Filmpreis. Anatomie eines Falls ist dabei so unendlich mehr als nur ein Gerichtsdrama. Must see.",
-    "rawVersion": "Anatomie eines Falls",
-    "cinemaId": "rb_freiluftkino",
-    "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
-    "cinemaName": "Freiluftkino Rehberge",
-    "cinemaShortName": "rehberge",
-    "id": "rehberge-1070",
-    "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/1070",
-    "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=1045",
-    "title": "Anatomie eines Falls / dt.Fassung",
-    "normalizedTitle": "ANATOMIE EINES FALLS / DT.FASSUNG",
-    "version": {
-      "raw": "Anatomie eines Falls",
-      "original": false,
-      "english": false
-    },
-    "date": "So., 25.08",
-    "timestamp": 1724616900000,
-    "time": "20:15",
-    "available": 0,
-    "reserved": 0,
-    "bookable": true
-  },
-  "rehberge-1072": {
-    "trailer": "https://www.youtube.com/watch?v=S8c1uQGVUgQ",
-    "description": "Gleich vorweg: Ihr müsst keine einzige Tennis-Regel kennen, um an diesem munteren Film Spaß zu haben. Die rasant inszenierten und cool gefilmten Tennis-Szenen sind der Aufhänger für eine tolle Dreiecksgeschichte, bei der wir als Zuschauende immer wieder die Seite wechseln. Ihr werdet im Lauf der Abends wechselnd Team Zendaya, Team Mike Feist oder Team Josh O’Connor sein, denn: \"Bei der visuellen Exposition der Mitglieder dieser sinnesfrohen Ménage-à-trois lässt Luca Gua­dagnino generelle Gleichberechtigung ­walten. Leidenschaft ist das Einzige, was am Ende dieses mindestens so gutgelaunten wie gutaussehenden Films zählt.\" taz",
-    "rawVersion": "Challengers - Rivalen",
-    "cinemaId": "rb_freiluftkino",
-    "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
-    "cinemaName": "Freiluftkino Rehberge",
-    "cinemaShortName": "rehberge",
-    "id": "rehberge-1072",
-    "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/1072",
-    "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=1046",
-    "title": "Challengers - Rivalen / engl.m.dt.Ut",
-    "normalizedTitle": "CHALLENGERS - RIVALEN / ENGL.M.DT.UT",
-    "version": {
-      "raw": "Challengers - Rivalen",
-      "original": false,
-      "english": false
-    },
-    "date": "Mo., 26.08",
-    "timestamp": 1724703300000,
-    "time": "20:15",
-    "available": 0,
-    "reserved": 0,
-    "bookable": true
-  },
-  "rehberge-1080": {
-    "description": "Das Berlinale Urteil der FR zum Film: \"Dürfte sich recht schnell zum Kultfilm mausern\". Und yes hier sind wir mit David Wnendts großartigem Film: Lukas (Levy Rico Arcos) hat eigentlich das richtige Gespür um Trouble aus dem Weg zu gehen. Praktisch haut das für ihn und seine Kumpels an diesen Rekordsommer-Tag des Jahres  2003 aber gar nicht hin. Der Film erzählt \"in einem mitreißenden Mix der Genres und visuellen Stile unverstellt vom Erwachsenwerden unter schwierigen Umständen, von erster Liebe und tiefer Freundschaft, von der Widerstandskraft junger Menschen. Ein energetischer Film unter Starkstrom.\"radioeins",
-    "rawVersion": "Sonne und Beton",
-    "cinemaId": "rb_freiluftkino",
-    "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
-    "cinemaName": "Freiluftkino Rehberge",
-    "cinemaShortName": "rehberge",
-    "id": "rehberge-1080",
-    "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/1080",
-    "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=1055",
-    "title": "Sonne und Beton / dt.m.engl.Ut",
-    "normalizedTitle": "SONNE UND BETON / DT.M.ENGL.UT",
-    "version": {
-      "raw": "Sonne und Beton",
-      "original": false,
-      "english": false
-    },
-    "date": "Mi., 04.09",
-    "timestamp": 1725479100000,
-    "time": "19:45",
-    "available": 0,
-    "reserved": 0,
-    "bookable": true
-  },
-  "rehberge-1081": {
-    "trailer": "https://www.youtube.com/watch?v=ymVAnV8ZBJE",
-    "description": "Schön, dass einen die französischen dann eben doch wieder so mitreißen können: Der pensionierte Offizier François dreht am Rad, als er 40 Jahre alte Liebesbriefe an seine Frau Annie findet, die nicht von Ihm sind. Er fordert Revanche, und reist, allein schafft er die Reise eh nicht, zusammen mit seiner Frau ins sonnige Nizza um den Nebenbuhler zu stellen: Annie allerdings genießt den Ausflug in die Vergangenheit und das nächtliche Nacktbaden mit ihrem neuen alten Kavalier ... LIEBESBRIEFE AUS NIZZA ist eine umwerfende Sommerkomödie über eine so wilde wie wahnwitzige Vendetta an der Côte d'Azur. Eine zugleich sehr romantische Screwball-Komödie über den dritten und den vierten Frühling im Leben. Eine Revanche à trois, denn kein Alter schützt vor später Rache und vor Allem vor frischer Verliebtheit.",
-    "rawVersion": "Liebesbriefe aus Nizza",
-    "cinemaId": "rb_freiluftkino",
-    "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
-    "cinemaName": "Freiluftkino Rehberge",
-    "cinemaShortName": "rehberge",
-    "id": "rehberge-1081",
-    "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/1081",
-    "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=1035",
-    "title": "Liebesbriefe aus Nizza / dt.Fassung",
-    "normalizedTitle": "LIEBESBRIEFE AUS NIZZA / DT.FASSUNG",
-    "version": {
-      "raw": "Liebesbriefe aus Nizza",
-      "original": false,
-      "english": false
-    },
-    "date": "Do., 05.09",
-    "timestamp": 1725565500000,
-    "time": "19:45",
-    "available": 0,
-    "reserved": 0,
-    "bookable": true
-  },
   "rehberge-1066": {
     "description": "Sinnliches Gefühlskino, basierend auf dem feinsinnigen Drehbuch von Altmeister James Ivory (Maurice, Wiedersehen in Howards End, Zimmer mit Aussicht) Norditalien, 1983: Familie Perlman verbringt den Sommer in ihrer mondänen Villa. In einer Mischung aus erfreulicher Zielstrebigkeit, jungendlicher Selbstüberschätzung und überspielter Schüchternheit nähert sich der 17 Jahre alte Elio dem auf römische Kulturgeschichte spezialisierten Archäologie-Doktoranden Oliver, den der Vater für die Saison angestellt hat. ",
     "rawVersion": "Call me by your Name",
@@ -1113,26 +897,26 @@
     "reserved": 0,
     "bookable": true
   },
-  "rehberge-1065": {
-    "trailer": "https://www.youtube.com/watch?v=S8c1uQGVUgQ",
-    "description": "Gleich vorweg: Ihr müsst keine einzige Tennis-Regel kennen, um an diesem munteren Film Spaß zu haben. Die rasant inszenierten und cool gefilmten Tennis-Szenen sind der Aufhänger für eine tolle Dreiecksgeschichte, bei der wir als Zuschauende immer wieder die Seite wechseln. Ihr werdet im Lauf der Abends wechselnd Team Zendaya, Team Mike Feist oder Team Josh O’Connor sein, denn: \"Bei der visuellen Exposition der Mitglieder dieser sinnesfrohen Ménage-à-trois lässt Luca Gua­dagnino generelle Gleichberechtigung ­walten. Leidenschaft ist das Einzige, was am Ende dieses mindestens so gutgelaunten wie gutaussehenden Films zählt.\" taz",
-    "rawVersion": "Challengers - Rivalen",
+  "rehberge-1067": {
+    "trailer": "https://www.youtube.com/watch?v=sixPA4zb8k0",
+    "description": "Knut Elstermann von radioeins fasst diesen Film für uns zusammen: \"Gedreht in Schwarz-weiß orientiert sich diese Geschichte einer stillen Emanzipation an den Klassikern des italienischen Neorealismus, entwickelt aber eine ganz eigene, fast musikalische Handschrift und einen unwiderstehlichen Sog. Regisseurin Paola Cortellesi, die auch die Hauptrolle mit anrührender Empathie und innerer Würde spielt, vermag es in ihrem großartigen Regiedebüt, die Tragik dieser Lebenssituation mit Situationskomik zu erfüllen. Dieser Film war in Italien eine Sensation und schlug an der Kinokasse selbst Blockbuster wie Barbie.\"",
+    "rawVersion": "Morgen ist auch noch ein Tag",
     "cinemaId": "rb_freiluftkino",
     "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
     "cinemaName": "Freiluftkino Rehberge",
     "cinemaShortName": "rehberge",
-    "id": "rehberge-1065",
-    "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/1065",
-    "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=1040",
-    "title": "Challengers - Rivalen / dt.Fassung",
-    "normalizedTitle": "CHALLENGERS - RIVALEN / DT.FASSUNG",
+    "id": "rehberge-1067",
+    "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/1067",
+    "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=1042",
+    "title": "Morgen ist auch noch ein Tag / dt.Fassung",
+    "normalizedTitle": "MORGEN IST AUCH NOCH EIN TAG / DT.FASSUNG",
     "version": {
-      "raw": "Challengers - Rivalen",
+      "raw": "Morgen ist auch noch ein Tag",
       "original": false,
       "english": false
     },
-    "date": "Mo., 19.08",
-    "timestamp": 1724099400000,
+    "date": "Mi., 21.08",
+    "timestamp": 1724272200000,
     "time": "20:30",
     "available": 0,
     "reserved": 0,
@@ -1163,6 +947,30 @@
     "reserved": 0,
     "bookable": true
   },
+  "rehberge-1070": {
+    "description": "Seit zwei Jahren leben Sandra, eine deutsche Schriftstellerin, ihr französischer Ehemann Samuel und ihr elfjähriger Sohn zurückgezogen in einem kleinen Ort in den französischen Alpen. An einem strahlenden Tag wird Samuel am Fuße ihres Chalets tot im Schnee gefunden. War es Mord? Selbstmord? Oder doch nur ein tragischer Unfall? Der Polizei erscheint der plötzliche Todesfall suspekt, und Sandra wird zur Hauptverdächtigen. Für Justine Triets Film, den sie Sandra Hüller auf den Leib geschrieben hat, gab’s die Goldene Palme und den europäischen Filmpreis. Anatomie eines Falls ist dabei so unendlich mehr als nur ein Gerichtsdrama. Must see.",
+    "rawVersion": "Anatomie eines Falls",
+    "cinemaId": "rb_freiluftkino",
+    "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+    "cinemaName": "Freiluftkino Rehberge",
+    "cinemaShortName": "rehberge",
+    "id": "rehberge-1070",
+    "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/1070",
+    "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=1045",
+    "title": "Anatomie eines Falls / dt.Fassung",
+    "normalizedTitle": "ANATOMIE EINES FALLS / DT.FASSUNG",
+    "version": {
+      "raw": "Anatomie eines Falls",
+      "original": false,
+      "english": false
+    },
+    "date": "So., 25.08",
+    "timestamp": 1724616900000,
+    "time": "20:15",
+    "available": 0,
+    "reserved": 0,
+    "bookable": true
+  },
   "rehberge-1074": {
     "trailer": "https://www.youtube.com/watch?v=zfQl1cAD_Bc",
     "description": "London zu Beginn der 2000er Jahre: Die talentierte Sängerin und Musikerin Amy Winehouse findet in den Clubs von Camden ihre Bühne. Mit ihren Songs, ihrer außergewöhnlichen Stimme und ihrem einzigartigen Charisma begeistert sie das Publikum. Schnell werden Musikfans und Talent Scouts auf sie aufmerksam und ihr kometenhafter Aufstieg in den Pophimmel beginnt ...",
@@ -1183,6 +991,31 @@
     },
     "date": "Mi., 28.08",
     "timestamp": 1724876100000,
+    "time": "20:15",
+    "available": 0,
+    "reserved": 0,
+    "bookable": true
+  },
+  "rehberge-1072": {
+    "trailer": "https://www.youtube.com/watch?v=S8c1uQGVUgQ",
+    "description": "Gleich vorweg: Ihr müsst keine einzige Tennis-Regel kennen, um an diesem munteren Film Spaß zu haben. Die rasant inszenierten und cool gefilmten Tennis-Szenen sind der Aufhänger für eine tolle Dreiecksgeschichte, bei der wir als Zuschauende immer wieder die Seite wechseln. Ihr werdet im Lauf der Abends wechselnd Team Zendaya, Team Mike Feist oder Team Josh O’Connor sein, denn: \"Bei der visuellen Exposition der Mitglieder dieser sinnesfrohen Ménage-à-trois lässt Luca Gua­dagnino generelle Gleichberechtigung ­walten. Leidenschaft ist das Einzige, was am Ende dieses mindestens so gutgelaunten wie gutaussehenden Films zählt.\" taz",
+    "rawVersion": "Challengers - Rivalen",
+    "cinemaId": "rb_freiluftkino",
+    "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+    "cinemaName": "Freiluftkino Rehberge",
+    "cinemaShortName": "rehberge",
+    "id": "rehberge-1072",
+    "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/1072",
+    "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=1046",
+    "title": "Challengers - Rivalen / engl.m.dt.Ut",
+    "normalizedTitle": "CHALLENGERS - RIVALEN / ENGL.M.DT.UT",
+    "version": {
+      "raw": "Challengers - Rivalen",
+      "original": false,
+      "english": false
+    },
+    "date": "Mo., 26.08",
+    "timestamp": 1724703300000,
     "time": "20:15",
     "available": 0,
     "reserved": 0,
@@ -1239,7 +1072,7 @@
   "rehberge-1068": {
     "trailer": "https://www.youtube.com/watch?v=v7e4_3lWsZw",
     "description": "Stuntman Colt Seavers (Ryan Gosling) hat sich nach einer Rückenverletzung aus dem Business zurückgezogen und im Zuge dessen auch seine Freundin Jody (Emily Blunt) geghostet. Die dreht inzwischen ihren Debütfilm und ist gar nicht begeistert als der Ex wieder aus der Versenkung auftaucht. Die Produktionsfirma hat ihn geschickt, um Jodys vermissten Hauptdarsteller Tom Ryder aufzuspüren.",
-    "rawVersion": "The Fall Guy",
+    "rawVersion": "Hofbräu München Filmnacht: The Fall Guy",
     "cinemaId": "rb_freiluftkino",
     "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
     "cinemaName": "Freiluftkino Rehberge",
@@ -1247,16 +1080,40 @@
     "id": "rehberge-1068",
     "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/1068",
     "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=1043",
-    "title": "The Fall Guy / dt.Fassung",
-    "normalizedTitle": "THE FALL GUY / DT.FASSUNG",
+    "title": "Hofbräu München Filmnacht: The Fall Guy / dt.Fassung",
+    "normalizedTitle": "HOFBRÄU MÜNCHEN FILMNACHT: THE FALL GUY / DT.FASSUNG",
     "version": {
-      "raw": "The Fall Guy",
+      "raw": "Hofbräu München Filmnacht: The Fall Guy",
       "original": false,
       "english": false
     },
     "date": "Do., 22.08",
     "timestamp": 1724358600000,
     "time": "20:30",
+    "available": 0,
+    "reserved": 0,
+    "bookable": true
+  },
+  "rehberge-962": {
+    "description": "For English press Brittain-Flag Button!\n\nMit dem einzigartigen Live-Cast-Team von Max Mayhem. Ein unvergessliches Event. Die Schauspieler*innen kommen ins Publikum. Sie sind wirklich dabei, wenn Janet und Brad im Schloss von Dr. Frank-N-Furter ankommen. Im Freiluftkino Rehberge findet einmal im Jahr die weltweit größte Veranstaltung dieser Art statt, zu der inzwischen aus ganz Deutschland die Fans anreisen.  Freuen Sie sich auf einen tollen Abend! \n\nBeachten Sie die Einlasszeit, die auf Ihrem Ticket hinter dem Filmtitel abgedruckt ist.\n\nBitte die Altersfreigabe \"12\" beachten. Kinder ab sechs Jahren können in Begleitung von Erziehungsberechtigten an dieser Veranstaltung teilnehmen. \n\nSie handeln durch den Kauf der Eintrittskarten selbstverantwortlich und sind für die Beachtung der Altersfreigaben und Einlassbedingungen verantwortlich. \n\nDas Mitbringen von Wurfutensilien ist in haushaltsüblichen Mengen gestattet:\n100 g pro Person und Sorte. Konfetti  bis 50 g nur als Öko-Variante, biologisch abbaubar, zum Beispiel Blütenkonfetti. Auf keinen Fall mit Kunststoff oder Glitteranteilen.\nIm Ermessen des/der Einlasser*in können diese zugelassen werden. \nJede Person darf nur die Menge für eine Person bei sich tragen. Mengen für mehrere Personen müssen am Eingang aufgeteilt bzw. Großpakete (1kg) in kleine Tüten umgefüllt werden.\n Wir machen Sie darauf aufmerksam, dass bei dieser Veranstaltung mit Mehl, Wasser und Reis geworfen werden könnte und Ihre Kleidung dadurch beschmutzt werden könnte. Dies ist Teil des Charakters der Veranstaltung, daher sind die Besucher*innen aufgefordert selbst ihre Kleidung etc. vor Verschmutzen zu schützen.\n  Wir bieten an der Gastronomie Regencapes für 1.- € an.\n  Bitte nehmen Sie auf andere Rücksicht!\n \n  Ihr Freiluftkino Rehberge Team",
+    "rawVersion": "The Rocky Horror Picture Show 2024 - Einlass 18:30 bis 19:15 Uhr",
+    "cinemaId": "rb_freiluftkino",
+    "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+    "cinemaName": "Freiluftkino Rehberge",
+    "cinemaShortName": "rehberge",
+    "id": "rehberge-962",
+    "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/962",
+    "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=938",
+    "title": "The Rocky Horror Picture Show mit Live Cast / Enlish Originalversion",
+    "normalizedTitle": "THE ROCKY HORROR PICTURE SHOW MIT LIVE CAST / ENLISH ORIGINALVERSION",
+    "version": {
+      "raw": "The Rocky Horror Picture Show 2024 - Einlass 18:30 bis 19:15 Uhr",
+      "original": false,
+      "english": false
+    },
+    "date": "Sa., 24.08",
+    "timestamp": 1724529600000,
+    "time": "20:00",
     "available": 0,
     "reserved": 0,
     "bookable": true
@@ -1306,6 +1163,54 @@
     "date": "So., 01.09",
     "timestamp": 1725220800000,
     "time": "20:00",
+    "available": 0,
+    "reserved": 0,
+    "bookable": true
+  },
+  "rehberge-963": {
+    "description": "Draußen ist es warm. Sommerwarm. Es gibt sehr wenig Gründe, den 30.8. drinnen zu verbringen, und wenige Gründe sich übermäßig zu bewegen; und deshalb triffst du eine sehr kluge Entscheidung: Kultur zum Zuschauen, aber bitte an der frischen Luft. Am besten im Park oder Wald, weil es da kühler ist. Praktischerweise gibt es genau dort im Weddinger Rehberge-Park das Freiluftkino. Und am 30.8. findet da auch noch Live-Kultur statt! Ein Poetry Slam genaugenommen, von den Kiezpoeten. Könnte das nicht eine richtig gute Idee sein, fragst du dich. Mit einem kühlen Bier in der Hand unter schattigen Bäumen fläzen und dabei großartig unterhalten werden? Und du hast Recht, genau das wird passieren. Du wirst lachen, du wirst träumen, du wirst in Wortwasserfällen baden und dich von Slam-Champions begeistern lassen, die auf einem solchen Best Of Slam gefälligst anzutreffen sein werden. \n\"Das ist ein richtig guter Sommer\", wirst du dir denken, wenn du mit deinen Freund:innen im Schlepptau den Sonnenuntergang hinter der Bühne des Rehberge Freiluftkinos genießt, und du wirst absolut Recht haben. \"Aber wer tritt denn da eigentlich auf?\", fragst du dich, als du dein vergünstigtes Early Bird Ticket kaufst. Die charmantesten, authentischsten und unterhaltsamsten Slammer:innen die die Szene zu bieten hat. Gute Entscheidung also, dass du hier dabei sein willst. \nWir sehen uns dann am 30.8. zum Rehberge Freiluft Slam, super, wir freuen uns. Deine Kiezpoeten.\nLimitierte Tickets ab 11,90€.\n",
+    "rawVersion": "Rehberge Freiluft Slam 2024 - Einlass ab 18:30 Uhr ",
+    "cinemaId": "rb_freiluftkino",
+    "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+    "cinemaName": "Freiluftkino Rehberge",
+    "cinemaShortName": "rehberge",
+    "id": "rehberge-963",
+    "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/963",
+    "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=939",
+    "title": "Rehberge Freiluft Slam 2024 - Einlass 18:30 Uhr",
+    "normalizedTitle": "REHBERGE FREILUFT SLAM 2024 - EINLASS 18:30 UHR",
+    "version": {
+      "raw": "Rehberge Freiluft Slam 2024 - Einlass ab 18:30 Uhr ",
+      "original": false,
+      "english": false
+    },
+    "date": "Fr., 30.08",
+    "timestamp": 1725046200000,
+    "time": "19:30",
+    "available": 0,
+    "reserved": 0,
+    "bookable": true
+  },
+  "rehberge-1080": {
+    "description": "Das Berlinale Urteil der FR zum Film: \"Dürfte sich recht schnell zum Kultfilm mausern\". Und yes hier sind wir mit David Wnendts großartigem Film: Lukas (Levy Rico Arcos) hat eigentlich das richtige Gespür um Trouble aus dem Weg zu gehen. Praktisch haut das für ihn und seine Kumpels an diesen Rekordsommer-Tag des Jahres  2003 aber gar nicht hin. Der Film erzählt \"in einem mitreißenden Mix der Genres und visuellen Stile unverstellt vom Erwachsenwerden unter schwierigen Umständen, von erster Liebe und tiefer Freundschaft, von der Widerstandskraft junger Menschen. Ein energetischer Film unter Starkstrom.\"radioeins",
+    "rawVersion": "Sonne und Beton",
+    "cinemaId": "rb_freiluftkino",
+    "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+    "cinemaName": "Freiluftkino Rehberge",
+    "cinemaShortName": "rehberge",
+    "id": "rehberge-1080",
+    "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/1080",
+    "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=1055",
+    "title": "Sonne und Beton / dt.m.engl.Ut",
+    "normalizedTitle": "SONNE UND BETON / DT.M.ENGL.UT",
+    "version": {
+      "raw": "Sonne und Beton",
+      "original": false,
+      "english": false
+    },
+    "date": "Mi., 04.09",
+    "timestamp": 1725479100000,
+    "time": "19:45",
     "available": 0,
     "reserved": 0,
     "bookable": true
@@ -1382,75 +1287,52 @@
     "reserved": 0,
     "bookable": true
   },
-  "hasenheide-783967": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-783967",
-    "title": "Alles steht Kopf 2 ",
-    "normalizedTitle": "ALLES STEHT KOPF 2",
+  "rehberge-970": {
+    "description": "Die besten Natur-Filme des Jahres – kuratiert von Dirk Steffens.\nSieben Filme, die die Natur und Tierarten in ihren schönsten Facetten zeigt, aber auch ernste Themen wie die Plastikverschmutzung anspricht, die durch uns Menschen zu einem immer größeren Problem wird.",
+    "rawVersion": "Green Screen Tour 23/24",
+    "cinemaId": "rb_freiluftkino",
+    "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+    "cinemaName": "Freiluftkino Rehberge",
+    "cinemaShortName": "rehberge",
+    "id": "rehberge-970",
+    "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/970",
+    "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=946",
+    "title": "Green Screen Tour / div.m.dt.Ut",
+    "normalizedTitle": "GREEN SCREEN TOUR / DIV.M.DT.UT",
     "version": {
-      "raw": "",
+      "raw": "Green Screen Tour 23/24",
       "original": false,
       "english": false
     },
-    "date": "Mo., 19.08",
-    "timestamp": 1724025600000,
-    "time": "16:00",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/783967?layout=shows",
-    "img": "https://media.kinoheld.de/y46lNEkC_1qRI_7pw-pHCmV5OIU=/400x560/images%2Ffilm%2Falles-steht-kopf-2-57311.v17099069704458.jpg",
-    "description": "Im Kopf des nun frischgebackenen Teenagers Riley wird plötzlich das Hauptquartier abgerissen, um Platz für etwas völlig Unerwartetes zu schaffen: neue Emotionen! Freude, Trauer, Wut, Angst und Ekel, die seit langem erfolgreich Rileys Kopf managen, sind sich nicht sicher, was sie fühlen sollen, als Zweifel auftaucht. Und es sieht so aus, als ob sie nicht die einzige Neue ist!",
-    "trailer": "https://www.youtube.com/watch?v=_VciXMZxKr0",
-    "available": -1,
+    "date": "Sa., 07.09",
+    "timestamp": 1725738300000,
+    "time": "19:45",
+    "available": 0,
     "reserved": 0,
     "bookable": true
   },
-  "hasenheide-783968": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-783968",
-    "title": "Problemista (OmU)",
-    "normalizedTitle": "PROBLEMISTA",
+  "rehberge-1081": {
+    "trailer": "https://www.youtube.com/watch?v=ymVAnV8ZBJE",
+    "description": "Schön, dass einen die französischen dann eben doch wieder so mitreißen können: Der pensionierte Offizier François dreht am Rad, als er 40 Jahre alte Liebesbriefe an seine Frau Annie findet, die nicht von Ihm sind. Er fordert Revanche, und reist, allein schafft er die Reise eh nicht, zusammen mit seiner Frau ins sonnige Nizza um den Nebenbuhler zu stellen: Annie allerdings genießt den Ausflug in die Vergangenheit und das nächtliche Nacktbaden mit ihrem neuen alten Kavalier ... LIEBESBRIEFE AUS NIZZA ist eine umwerfende Sommerkomödie über eine so wilde wie wahnwitzige Vendetta an der Côte d'Azur. Eine zugleich sehr romantische Screwball-Komödie über den dritten und den vierten Frühling im Leben. Eine Revanche à trois, denn kein Alter schützt vor später Rache und vor Allem vor frischer Verliebtheit.",
+    "rawVersion": "Liebesbriefe aus Nizza",
+    "cinemaId": "rb_freiluftkino",
+    "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
+    "cinemaName": "Freiluftkino Rehberge",
+    "cinemaShortName": "rehberge",
+    "id": "rehberge-1081",
+    "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/1081",
+    "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=1056",
+    "title": "Liebesbriefe aus Nizza / dt.Fassung",
+    "normalizedTitle": "LIEBESBRIEFE AUS NIZZA / DT.FASSUNG",
     "version": {
-      "raw": "OmU",
-      "original": true,
+      "raw": "Liebesbriefe aus Nizza",
+      "original": false,
       "english": false
     },
-    "date": "Mo., 19.08",
-    "timestamp": 1724025600000,
-    "time": "18:00",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/783968?layout=shows",
-    "img": "https://media.kinoheld.de/80VXxl5xSoEUyR3YB4O4z7b0FD0=/400x560/images%2Ffilm%2Fproblemista-59125.v17159380373079.jpg",
-    "description": "Der gutgläubige Twen Alejandro (Julio Torres) ist ein aufstrebender Spielzeugdesigner und hoffnungsloser Träumer. Aufgewachsen in El Salvador, wurde er von seiner künstlerisch begabten Mutter in einer verspielten Fantasiewelt der unbegrenzten Möglichkeiten großgezogen – und ringt nun im vollgemüllten Moloch New York damit, seine außergewöhnlichen Ideen zum Leben zu erwecken. Als er plötzlich seinen Job verliert und damit sein Visum abzulaufen droht, begegnet Alejandro der exzentrischen Kunstkritikerin Elizabeth (Tilda Swinton), die ihm einen Assistenzposten und im Gegenzug dafür ihre Fürsprache bei der Einwanderungsbehörde anbietet. Und während Alejandro sich fest an diese letzte Chance klammert, seine Träume doch noch wahrzumachen, zerrt Elizabeth ihn immer tiefer herab in den skurrilen Kaninchenbau der US-Metropole und ihrer zahlreichen Tücken.",
-    "trailer": "https://www.youtube.com/watch?v=F1drpUFb_w0",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
-  "hasenheide-783969": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-783969",
-    "title": "Fall Guy, The (OmU)",
-    "normalizedTitle": "FALL GUY, THE",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Mo., 19.08",
-    "timestamp": 1724025600000,
-    "time": "20:45",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/783969?layout=shows",
-    "img": "https://media.kinoheld.de/qXWtkA5ZaeShB9LLhoBcDcwrdx4=/400x560/images%2Ffilm%2Fthe-fall-guy-55543.v17137801886082.png",
-    "description": "Colt Seavers arbeitet als Stuntman in Hollywood. Als der in die Jahre gekommene Mann während eines Filmdrehs beinahe sein Leben verliert, beschließt er, sich aus der Filmbranche zurückzuziehen. Zur gleichen Zeit erhält seine ehemalige Geliebte und Kamerafrau Jody Moreno die Chance, bei einem opulenten Film die Regie zu übernehmen. Doch ihr Hauptdarsteller Tom Ryder scheint auf mysteriöse Weise verschwunden zu sein. Nun liegt es an ihm, seinem früheren Stuntdouble, Seavers, den Schauspieler zu finden.",
-    "trailer": "https://www.youtube.com/watch?v=v7e4_3lWsZw",
-    "available": -1,
+    "date": "Do., 05.09",
+    "timestamp": 1725565500000,
+    "time": "19:45",
+    "available": 0,
     "reserved": 0,
     "bookable": true
   },
@@ -1809,7 +1691,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/784028?layout=shows",
     "img": "https://media.kinoheld.de/FE_J2Alv9tiBHJ4RtASoI91SAA8=/400x560/images%2Ffilm%2Ffuriosa-a-mad-max-saga-57691.v17104800190497.jpg",
     "description": "Als die Welt zusammenbricht, wird die junge Furiosa aus dem Grünen Ort der Vielen Mütter in die Hände einer großen Biker-Horde gerissen, angeführt vom Kriegsherrn Dementus. Sie durchstreifen das Ödland und stoßen auf die Zitadelle, über der Immortan Joe herrscht. Die beiden Tyrannen führen Krieg um die Vorherrschaft, und Furiosa muss viele Prüfungen überstehen, während sie die Mittel zusammenstellt, um ihren Weg nach Hause zu finden.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=iBvn4raq-kU",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -1969,7 +1851,7 @@
     "timestamp": 1724716800000,
     "time": "18:00",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/784034?layout=shows",
-    "img": "https://media.kinoheld.de/aJhJxI3IdthDyZ1va8bUcuXIz60=/400x560/images%2Ffilm%2Fcrossing-the-bridge-the-sound-of-istanbul-60971.v17240420980694.jpg",
+    "img": "https://media.kinoheld.de/he1pK2w0VzU5HxA9x3pEIVqy2DI=/400x560/images%2Ffilm%2Fcrossing-the-bridge-the-sound-of-istanbul-60971.v17241116620600.jpg",
     "description": "Ein Portrait von Istanbuls Musikszene. Alexander Hacke, Bassist der Einstürzenden Neubauten, führt durch den Film. Man erhält u.a. einen Einblick in die Istanbuler Rock-, Rap- und Arabeske-Szene.",
     "available": -1,
     "reserved": 0,
@@ -2642,7 +2524,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/786891?layout=shows",
     "img": "https://media.kinoheld.de/XKUDcQIydsr2INF0TeR03vIEqDs=/400x560/images%2Ffilm%2Flonglegs-60603.v17182738814587.jpg",
     "description": "FBI-Agentin Lee Harker (Maika Monroe) wird mit einem ungelösten Fall eines Serienmörders (Nicolas Cage) betraut, der eine unerwartete Wendung nimmt und Beweise für einen okkulten Hintergrund offenbart. Harker entdeckt eine persönliche Verbindung zu dem Mörder und muss ihn aufhalten, bevor er wieder zuschlägt.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=_fAK5DdrcpI",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2829,7 +2711,7 @@
     "timestamp": 1725753600000,
     "time": "18:00",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/786898?layout=shows",
-    "img": "https://media.kinoheld.de/zZOlxhUZmDkUW1e9EcSsdwiqZL4=/400x560/images%2Ffilm%2Fbarbie-468271685995447168599544917006144351700699149170069975117007005551700786015170078672817012192331701219394170173526217017355261701735645170173565617017357231701735744.v17240283905571.jpg",
+    "img": "https://media.kinoheld.de/Lmq_ernDgn2LqrrAebfX3k1FGbA=/400x560/images%2Ffilm%2Fbarbie-468271685995447168599544917006144351700699149170069975117007005551700786015170078672817012192331701219394170173526217017355261701735645170173565617017357231701735744.v17240783476423.jpg",
     "description": "Im glitzernden Barbieland wird Barbie aufgrund ihrer vermeintlichen Unvollkommenheiten ausgestoßen und beschließt daraufhin, in die Menschenwelt auszuwandern. Dort entdeckt sie, dass Perfektion nur im Inneren zu finden ist. Hinter der glänzenden Fassade von Barbieland existieren strenge Regeln, nach denen nur die Schönsten und Perfektesten akzeptiert werden. Nachdem Barbie ausgestoßen wird, verwandelt sie sich magischerweise in einen echten Menschen. In der realen Welt lernt sie, sich selbst und ihre eigenen Stärken zu akzeptieren. Durch ihre Abenteuer erkennt sie die Bedeutung von Selbstakzeptanz und entdeckt, dass wahre Schönheit von innen kommt.",
     "trailer": "https://www.youtube.com/watch?v=0BxBCVmo8YQ",
     "available": -1,
@@ -2999,7 +2881,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/786905?layout=shows",
     "img": "https://media.kinoheld.de/XKUDcQIydsr2INF0TeR03vIEqDs=/400x560/images%2Ffilm%2Flonglegs-60603.v17182738814587.jpg",
     "description": "FBI-Agentin Lee Harker (Maika Monroe) wird mit einem ungelösten Fall eines Serienmörders (Nicolas Cage) betraut, der eine unerwartete Wendung nimmt und Beweise für einen okkulten Hintergrund offenbart. Harker entdeckt eine persönliche Verbindung zu dem Mörder und muss ihn aufhalten, bevor er wieder zuschlägt.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=_fAK5DdrcpI",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -3141,7 +3023,7 @@
     "timestamp": 1726099200000,
     "time": "20:15",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/784122?layout=shows",
-    "img": "https://media.kinoheld.de/0Z7G4yIMZEHlSrvKQax8tb9cWVY=/400x560/images%2Ffilm%2Frock-n-roll-ringo-61259.v17237812570947.jpg",
+    "img": "https://media.kinoheld.de/MseooGzDmGXO5jDhMD5IYPQqbXY=/400x560/images%2Ffilm%2Frock-n-roll-ringo-61259.v17241153085340.jpg",
     "description": "Ein Gerüstbauer verliert seinen Job und schlägt sich als Aushilfskraft bei der Kirmes durch. Dort lässt er sich von einem Schausteller dazu verführen, Karriere als Kirmesboxer zu machen - und hofft seiner gehörlosen Tochter einen langersehnten Traum erfüllen zu können.",
     "available": -1,
     "reserved": 0,
@@ -3213,7 +3095,7 @@
     "time": "20:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/786914?layout=shows",
     "img": "https://media.kinoheld.de/CkAMAYt3SWMt57_P4d0IIa3zdm4=/400x560/images%2Ffilm%2Finsel-36-58097.v17240612052258.jpg",
-    "description": "Hazal ist 17 und lebt in Berlin. Ihr größter Wunsch: eine Chance. An ihrem 18. Geburtstag will sie den trostlosen Alltag vergessen und mit ihren Freundinnen feiern. Doch ein tödlicher Zwischenfall ändert alles. Hazal muss fliehen.",
+    "description": "Eine junge Türkin aus Berlin sehnt sich danach, ihrem eingeschränkten Leben in einer strengen Familie und den begrenzten Möglichkeiten des deutschen Arbeitsmarktes zu entkommen. An ihrem 18. Geburtstag ereignet sich jedoch eine Katastrophe, die sie zur Flucht nach Istanbul zwingt.",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -3362,30 +3244,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "fmp-3056048351": {
-    "cinemaId": "1657",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
-    "cinemaName": "b-ware-openair-fmp",
-    "cinemaShortName": "fmp",
-    "id": "fmp-3056048351",
-    "title": "ND-KOOP: EIN KLEINES STÜCK VOM KUCHEN ",
-    "normalizedTitle": "ND-KOOP: EIN KLEINES STÜCK VOM KUCHEN",
-    "version": {
-      "raw": "",
-      "original": false,
-      "english": false
-    },
-    "date": "Mo., 19.08",
-    "timestamp": 1724025600000,
-    "time": "20:30",
-    "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/3056048351?layout=shows",
-    "img": "https://media.kinoheld.de/dDtcFCfMCINs406SGst2PzFwa8Q=/400x560/images%2Ffilm%2Fmy-favourite-cake-58617.v17192718239265.jpg",
-    "description": "Mahin ist 70 Jahre alt und wohnt alleine in Teheran. Ihr Mann ist bereits verstorben und ihre Tochter nach Europa ausgewandert. Bei einem Nachmittagstee mit Freunden entwickelt sie den Gedanken, es mit der Liebe noch einmal versuchen zu wollen. Kurze Zeit später trifft sie auf den zurückhaltenden Faramarz… EIN KLEINES STÜCK VOM KUCHEN ist bereits die dritte gemeinsame Arbeit des erfolgreichen iranischen Regie-Duos Maryam Moghaddam und Behtash Sanaeeha (BALLADE VON DER WEISSEN KUH). Die iranische Regierung ließ die beiden nicht zur Weltpremiere ihres Films auf der Berliner Berlinale ausreisen. So schreiben sich die im Film kritisierten Repressalien der iranischen Regierung auch außerhalb des Drehbuchs weiter. Das Publikum feierte die subtile Emanzipationsgeschichte um zwei Senior*innen währenddessen mit Standing Ovations. Eine romantische Komödie mit Tiefgang, die nachhaltig berührt.",
-    "trailer": "https://www.youtube.com/watch?v=xuyyeSmeu6Y",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
   "fmp-3055952452": {
     "cinemaId": "1657",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/b-ware-openair-fmp/shows/movies",
@@ -3429,7 +3287,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/3058906569?layout=shows",
     "img": "https://media.kinoheld.de/3Eja4aVSz-lQkOR65AW4E1GzbR0=/400x560/images%2Ffilm%2Fmo%2F3013-107723.v17232951233088.jpg",
     "description": "Eine außergewöhnlich starke antifaschistische Bewegung entsteht in den 90er und 00er Jahren, auch als Konsequenz aus den rassistischen Pogromen, die das wiedervereinte Deutschland nach `89 überrollen. Kaum eine politische Bewegung der Neuzeit arbeitete derart professionell auf so vielen Feldern, wie die Antifa – von militanten Aktionen über Aufklärungskampagnen bis hin zu investigativen Recherchen. Fünf Aktivist*innen sprechen zum ersten Mal öffentlich über Ihre Aktivitäten und verschmelzen mit zahlreichen Schätzen aus dem Archiv zu einem intensiven Kinodokumentarfilm.\r\nStatt eines einfachen historischen Rückblicks legt der Film die Schichten frei, die den Mythos Antifa überlagern. Er gibt uns tiefe Einblicke in eine Form der politischen Arbeit, die zu heftigen Überreaktionen bei Staat und Bürgertum führte und doch immer notwendig war.\r\n<p><p/><p>Im Anschluss Q&A mit den Filmemacher*innen!</p>",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=SQLBS5VeAic&t=3s",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -3458,29 +3316,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "central-3009721645": {
-    "cinemaId": "1839",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
-    "cinemaName": "central-kino-open-air",
-    "cinemaShortName": "central",
-    "id": "central-3009721645",
-    "title": "open air: The Short Nights of Berlin (OmeU)",
-    "normalizedTitle": "THE SHORT NIGHTS OF BERLIN",
-    "version": {
-      "raw": "OmeU",
-      "original": true,
-      "english": true
-    },
-    "date": "Mo., 19.08",
-    "timestamp": 1724025600000,
-    "time": "20:15",
-    "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/3009721645?layout=shows",
-    "img": "https://media.kinoheld.de/HBgWLB-4I1riFj4-St5AVmdD4ng=/400x560/images%2Ffilm%2Fmo%2F172-58485.v2.jpg",
-    "description": "Professionals, amateurs, hobbyists and beginners are invited to show their view on the city or on the way of living in Berlin.",
-    "available": 0,
-    "reserved": 47,
-    "bookable": false
-  },
   "central-3058434496": {
     "cinemaId": "1839",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
@@ -3501,8 +3336,8 @@
     "img": "https://media.kinoheld.de/6jUYalICGIEjtja4lwl7f5zTRp8=/400x560/images%2Ffilm%2Fperfect-days-51275170169437917016943791701694380170169690817016982601701698997.v5.jpg",
     "description": "Hirayama arbeitet als Reinigungskraft für öffentliche Toiletten in Tokio. Er führt ein einfaches und zurückgezogenes Leben, das ihn scheinbar vollkommen zufriedenstellt. Abseits seines äußerst strukturierten Alltags widmet er sich leidenschaftlich seiner Musik, die er von Audiokassetten genießt, und seiner Liebe zur Literatur, die er abends in gebrauchten Taschenbüchern vertieft. Doch durch unerwartete Begegnungen kommen nach und nach Details seiner Vergangenheit ans Licht, die er längst zu vergessen geglaubt hatte.",
     "trailer": "https://www.youtube.com/watch?v=z-E2Z2l_BEA",
-    "available": 33,
-    "reserved": 56,
+    "available": 20,
+    "reserved": 69,
     "bookable": true
   },
   "central-3009721672": {
@@ -3525,8 +3360,8 @@
     "img": "https://media.kinoheld.de/kOJPhg0qXbSOCgyMLNwGJ-p7Ndw=/400x560/images%2Ffilm%2Fpriscilla-5300516993186121699318614170035616517003567721700442824170044381017006201031700668002170096083817009633911701222913170126178317014232841701511716170159740817016989541701698975.v17039845782361.jpg",
     "description": "Als die Teenagerin Priscilla Beaulieu auf einer Party Elvis Presley kennenlernt, wird aus dem Mann, der bereits ein kometenhafter Rock-'n' Roll-Superstar ist, in privaten Momenten jemand völlig Unerwartetes: ein Verbündeter in der Einsamkeit, ein sanfter bester Freund und ihre erste große Liebe. Eine Geschichte von Liebe und Ruhm, die die unsichtbare Seite eines großen amerikanischen Mythos hinter Elvis und Priscillas turbulenter Ehe offenbart.",
     "trailer": "https://www.youtube.com/watch?v=MmS1kfH3Zzo",
-    "available": 72,
-    "reserved": 17,
+    "available": 70,
+    "reserved": 19,
     "bookable": true
   },
   "central-3030395356": {
@@ -3571,8 +3406,8 @@
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/3009722855?layout=shows",
     "img": "https://media.kinoheld.de/HBgWLB-4I1riFj4-St5AVmdD4ng=/400x560/images%2Ffilm%2Fmo%2F172-58485.v2.jpg",
     "description": "Professionals, amateurs, hobbyists and beginners are invited to show their view on the city or on the way of living in Berlin.",
-    "available": 60,
-    "reserved": 6,
+    "available": 58,
+    "reserved": 8,
     "bookable": true
   },
   "central-3009722883": {
@@ -3618,7 +3453,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/3009722914?layout=shows",
     "img": "https://media.kinoheld.de/kYStEhPmGfaEZFCEJgfHXxwlOxU=/400x560/images%2Ffilm%2Fleon-der-profi-wa-2019-14361.v11.jpg",
     "description": "Léon verdient sein Geld als Auftragskiller der Italo-Mafia in den Straßen von New York. Er lebt zurückgezogen und pflegt außer zu seinem Boss Tony einzig zu seiner Topfpflanze ein freundschaftliches Verhältnis. Als die Familie seiner Nachbarstochter Mathilda von DEA-Polizisten brutal getötet wird, flüchtet sie zu Léon. Um sich an den Mördern ihres kleinen Bruders zu rächen, lässt sich Mathilda das grausame Handwerk eines Profi-Killers von Léon beibringen. (Quelle: Verleih)",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=4e50Hpm9L4I",
     "available": 78,
     "reserved": 11,
     "bookable": true
@@ -3642,8 +3477,8 @@
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/3009725387?layout=shows",
     "img": "https://media.kinoheld.de/aZ7b_uwQ2YcyYaWWQpA7sh4NwOg=/400x560/images%2Ffilm%2Fmo%2F172-58487.v2.jpg",
     "description": "Das Berliner Elektronik-Musik-Duo Tronthaim begleitet live Walter Ruttmanns Berlin – Die Sinfonie der Großstadt – eine großartige filmische Reise durch das Leben der Großstadt, von ihrem Erwachen am Morgen über die Hektik des Arbeitsalltags bis hin zur Ekstase der nächtlichen Vergnügungen.\r\nSeit seiner Entstehung im Jahr 1927 ist Ruttmanns experimenteller Dokumentarfilm eine der eindrucksvollsten und revolutionärsten Großstadtsinfonien, die je gedreht wurden. Nach musikalischen Prinzipien montierend, verdichtet Ruttmann seine Aufnahmen zu einer Dynamik, die das pulsierende Leben dieser Metropole regelrecht fühlbar macht. Die clipartige Montagetechnik wie die historische Faszination des Films haben Tronthaim zu einer völlig neuen Komposition animiert, die den Rausch der Bilder aus dem Jahre 1927 in das wiedererwachte Berlin im 21. Jahrhundert transportiert. Tronthaim sind der Theatermusiker Daniel Dorsch (produzierte für Häuser wie Volksbühne, Gorki Theater, Hebbel am Ufer, Staatstheater Stuttgart) und der Bild- und Sounddesigner Sascha Moser (arbeitete für Emigrate, Rammstein, Seeed, Bela B., Peter Fox, Steve Binetti u. a.).",
-    "available": 77,
-    "reserved": 9,
+    "available": 79,
+    "reserved": 7,
     "bookable": true
   },
   "central-3009725399": {
@@ -3881,7 +3716,7 @@
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/3009728309?layout=shows",
     "img": "https://media.kinoheld.de/fOsnnKAUVMaQ7DLzmrXaFpVgOAI=/400x560/images%2Ffilm%2Feverything-everywhere-all-at-once-22045.v17142624576923.jpg",
     "description": "Evelyn Wang führt einen Waschsalon und kämpft mit Steuerproblemen und Familienkonflikten. Während sie die Geburtstagsparty ihres Vaters organisiert, findet ihr Ehemann Waymond keine Gelegenheit, das Thema Scheidung anzusprechen. Ihre Tochter Joy verärgert sie zusätzlich, indem sie plant, ihre Freundin Becky zur Feier mitzubringen, obwohl Evelyn Schwierigkeiten mit Joys sexueller Orientierung hat. Evelyns Leben verlief nicht wie erhofft. Doch bald bietet sich ihr eine unerwartete Chance, alles zu verändern.",
-    "trailer": "https://youtu.be/aFXjl4AA1hA",
+    "trailer": "https://www.youtube.com/watch?v=nz-eUNVQpzk",
     "available": 86,
     "reserved": 3,
     "bookable": true
@@ -3903,9 +3738,48 @@
     "timestamp": 1726617600000,
     "time": "20:00",
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/3046601327?layout=shows",
-    "available": 85,
+    "available": 87,
     "reserved": 2,
     "bookable": true
+  },
+  "kulturforum-1724618700000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1724618700000",
+    "title": "Alles steht Kopf 2",
+    "normalizedTitle": "ALLES STEHT KOPF 2",
+    "version": {
+      "raw": "OmU",
+      "original": true,
+      "english": false
+    },
+    "date": "So., 25.08",
+    "timestamp": 1724618700000,
+    "time": "20:45",
+    "url": "https://www.yorck.de/filme/alles-steht-kopf-2",
+    "img": "//images.ctfassets.net/4mws6uyas4ta/attk9OELmVDvaGAWI/02dbd31b4853d78501e8a920ff94fd19/Alles_steht_Kopf_2.jpg",
+    "trailer": "https://www.youtube.com/watch?v=iEHjmWGFPa8",
+    "bookable": true
+  },
+  "kulturforum-1724705100000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1724705100000",
+    "title": "Klassiker im Sommerkino",
+    "normalizedTitle": "KLASSIKER IM SOMMERKINO",
+    "version": {
+      "raw": "OmU",
+      "original": true,
+      "english": false
+    },
+    "date": "Mo., 26.08",
+    "timestamp": 1724705100000,
+    "time": "20:45",
+    "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
   },
   "kulturforum-1725137100000": {
     "cinemaId": "sommerkino-kulturforum",
@@ -3946,6 +3820,63 @@
     "trailer": "https://www.youtube.com/watch?v=8fYtuE_ZJ4E",
     "bookable": true
   },
+  "kulturforum-1724877900000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1724877900000",
+    "title": "Klassiker im Sommerkino",
+    "normalizedTitle": "KLASSIKER IM SOMMERKINO",
+    "version": {
+      "raw": "OmU",
+      "original": true,
+      "english": false
+    },
+    "date": "Mi., 28.08",
+    "timestamp": 1724877900000,
+    "time": "20:45",
+    "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
+  },
+  "kulturforum-1724964300000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1724964300000",
+    "title": "Challengers",
+    "normalizedTitle": "CHALLENGERS",
+    "version": {
+      "raw": "OmU",
+      "original": true,
+      "english": false
+    },
+    "date": "Do., 29.08",
+    "timestamp": 1724964300000,
+    "time": "20:45",
+    "url": "https://www.yorck.de/filme/challengers",
+    "img": "//images.ctfassets.net/4mws6uyas4ta/att1qZL1ijhHchUSf/e302ca15ca742fe3df27f95de8b0f871/poster.jpg",
+    "trailer": "https://www.youtube.com/watch?v=iJOPZYaNVgQ",
+    "bookable": true
+  },
+  "kulturforum-1724791500000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1724791500000",
+    "title": "Klassiker im Sommerkino",
+    "normalizedTitle": "KLASSIKER IM SOMMERKINO",
+    "version": {
+      "raw": "OmU",
+      "original": true,
+      "english": false
+    },
+    "date": "Di., 27.08",
+    "timestamp": 1724791500000,
+    "time": "20:45",
+    "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
+  },
   "kulturforum-1724273100000": {
     "cinemaId": "sommerkino-kulturforum",
     "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
@@ -3967,23 +3898,23 @@
     "trailer": "https://www.youtube.com/watch?v=L6t621ec9y4",
     "bookable": true
   },
-  "kulturforum-1724877900000": {
+  "kulturforum-1724186700000": {
     "cinemaId": "sommerkino-kulturforum",
     "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
     "cinemaName": "sommerkino-kulturforum",
     "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1724877900000",
-    "title": "Klassiker im Sommerkino",
-    "normalizedTitle": "KLASSIKER IM SOMMERKINO",
+    "id": "kulturforum-1724186700000",
+    "title": "Surf Film Nacht: African Territory 2",
+    "normalizedTitle": "SURF FILM NACHT: AFRICAN TERRITORY 2",
     "version": {
-      "raw": "OmU",
+      "raw": "OmeU",
       "original": true,
-      "english": false
+      "english": true
     },
-    "date": "Mi., 28.08",
-    "timestamp": 1724877900000,
+    "date": "Di., 20.08",
+    "timestamp": 1724186700000,
     "time": "20:45",
-    "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
+    "url": "https://www.yorck.de/filme/surf-film-nacht-african-territory-2"
   },
   "kulturforum-1724359500000": {
     "cinemaId": "sommerkino-kulturforum",
@@ -4026,63 +3957,6 @@
     "img": "//images.ctfassets.net/4mws6uyas4ta/attQYrvVlAq9Z2DQr/fe91be7c47391701a2e8aad1214a9dc6/Sterben.jpg",
     "trailer": "https://www.youtube.com/watch?v=9WX8WcLoV_4",
     "bookable": true
-  },
-  "kulturforum-1724964300000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1724964300000",
-    "title": "Challengers",
-    "normalizedTitle": "CHALLENGERS",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Do., 29.08",
-    "timestamp": 1724964300000,
-    "time": "20:45",
-    "url": "https://www.yorck.de/filme/challengers",
-    "img": "//images.ctfassets.net/4mws6uyas4ta/att1qZL1ijhHchUSf/e302ca15ca742fe3df27f95de8b0f871/poster.jpg",
-    "trailer": "https://www.youtube.com/watch?v=iJOPZYaNVgQ",
-    "bookable": true
-  },
-  "kulturforum-1724186700000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1724186700000",
-    "title": "Surf Film Nacht: African Territory 2",
-    "normalizedTitle": "SURF FILM NACHT: AFRICAN TERRITORY 2",
-    "version": {
-      "raw": "OmeU",
-      "original": true,
-      "english": true
-    },
-    "date": "Di., 20.08",
-    "timestamp": 1724186700000,
-    "time": "20:45",
-    "url": "https://www.yorck.de/filme/surf-film-nacht-african-territory-2"
-  },
-  "kulturforum-1724100300000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1724100300000",
-    "title": "in the mood",
-    "normalizedTitle": "IN THE MOOD",
-    "version": {
-      "raw": "OmU InTheMood",
-      "original": true,
-      "english": false
-    },
-    "date": "Mo., 19.08",
-    "timestamp": 1724100300000,
-    "time": "20:45",
-    "url": "https://www.yorck.de/filme/in-the-mood"
   },
   "weissensee-1725048000000": {
     "cinemaId": "2527240812",
