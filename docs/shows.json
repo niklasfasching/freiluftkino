@@ -172,27 +172,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "fhain-1127": {
-    "cinemaId": "fh_freiluftkino",
-    "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
-    "cinemaName": "Freiluftkino Friedrichshain",
-    "cinemaShortName": "fhain",
-    "id": "fhain-1127",
-    "url": "https://kinotickets-online.com/fh_freiluftkino/sale/seats/1127",
-    "img": "https://kinotickets-online.com/fh_freiluftkino/assets/poster?movieId=1125",
-    "title": "Love Lies Bleeding / dt.Fassung",
-    "normalizedTitle": "LOVE LIES BLEEDING / DT.FASSUNG",
-    "version": {
-      "original": false,
-      "english": false
-    },
-    "date": "Mi., 28.08",
-    "timestamp": 1724875200000,
-    "time": "20:00",
-    "available": 0,
-    "reserved": 0,
-    "bookable": true
-  },
   "fhain-1131": {
     "cinemaId": "fh_freiluftkino",
     "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
@@ -407,30 +386,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "xberg-1066": {
-    "description": "Brasilien in den 60ern: Das \"Tender Trio\" raubt Motels und Tankwagen aus. Die Jüngeren beobachten und lernen. Etwa zehn Jahre später hat sich der junge Li'l Zé behauptet, ihm gehört jetzt die ganze Stadt. Rivalisierende Banden werden ohne Gnade niedergemetzelt. Nur sein bester Freund Bene kann ihn zur Vernunft bringen. Buscapé will weder zu Li'l Zé noch zu einer der anderen herrschenden Banden gehören. Er will sich nur seiner Fotografie widmen. Doch in den 80ern eskaliert die Situation zwischen den letzten beiden Gangs ...",
-    "rawVersion": "City of God",
-    "cinemaId": "kb_freiluftkino",
-    "cinemaUrl": "https://kinotickets-online.com/kb_freiluftkino",
-    "cinemaName": "Freiluftkino Kreuzberg",
-    "cinemaShortName": "xberg",
-    "id": "xberg-1066",
-    "url": "https://kinotickets-online.com/kb_freiluftkino/sale/seats/1066",
-    "img": "https://kinotickets-online.com/kb_freiluftkino/assets/poster?movieId=1057",
-    "title": "City of God / port.m.engl.Ut",
-    "normalizedTitle": "CITY OF GOD / PORT.M.ENGL.UT",
-    "version": {
-      "raw": "City of God",
-      "original": true,
-      "english": false
-    },
-    "date": "Mi., 28.08",
-    "timestamp": 1724876100000,
-    "time": "20:15",
-    "available": 0,
-    "reserved": 0,
-    "bookable": true
-  },
   "xberg-1069": {
     "description": "Seit zwei Jahren leben Sandra, eine deutsche Schriftstellerin, ihr französischer Ehemann Samuel und ihr elfjähriger Sohn zurückgezogen in einem kleinen Ort in den französischen Alpen. An einem strahlenden Tag wird Samuel am Fuße ihres Chalets tot im Schnee gefunden. War es Mord? Selbstmord? Oder doch nur ein tragischer Unfall? Der Polizei erscheint der plötzliche Todesfall suspekt, und Sandra wird zur Hauptverdächtigen. Für Justine Triets Film, den sie Sandra Hüller auf den Leib geschrieben hat, gab’s die Goldene Palme und den europäischen Filmpreis. Anatomie eines Falls ist dabei so unendlich mehr als nur ein Gerichtsdrama. Must see.",
     "rawVersion": "Anatomie eines Falls",
@@ -573,31 +528,6 @@
     },
     "date": "Do., 29.08",
     "timestamp": 1724962500000,
-    "time": "20:15",
-    "available": 0,
-    "reserved": 0,
-    "bookable": true
-  },
-  "rehberge-1074": {
-    "trailer": "https://www.youtube.com/watch?v=zfQl1cAD_Bc",
-    "description": "London zu Beginn der 2000er Jahre: Die talentierte Sängerin und Musikerin Amy Winehouse findet in den Clubs von Camden ihre Bühne. Mit ihren Songs, ihrer außergewöhnlichen Stimme und ihrem einzigartigen Charisma begeistert sie das Publikum. Schnell werden Musikfans und Talent Scouts auf sie aufmerksam und ihr kometenhafter Aufstieg in den Pophimmel beginnt ...",
-    "rawVersion": "Back to Black",
-    "cinemaId": "rb_freiluftkino",
-    "cinemaUrl": "https://kinotickets-online.com/rb_freiluftkino",
-    "cinemaName": "Freiluftkino Rehberge",
-    "cinemaShortName": "rehberge",
-    "id": "rehberge-1074",
-    "url": "https://kinotickets-online.com/rb_freiluftkino/sale/seats/1074",
-    "img": "https://kinotickets-online.com/rb_freiluftkino/assets/poster?movieId=1048",
-    "title": "Back to Black / dt.Fassung",
-    "normalizedTitle": "BACK TO BLACK / DT.FASSUNG",
-    "version": {
-      "raw": "Back to Black",
-      "original": false,
-      "english": false
-    },
-    "date": "Mi., 28.08",
-    "timestamp": 1724876100000,
     "time": "20:15",
     "available": 0,
     "reserved": 0,
@@ -821,78 +751,6 @@
     "reserved": 0,
     "bookable": true
   },
-  "hasenheide-784036": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-784036",
-    "title": "Dancing Queen ",
-    "normalizedTitle": "DANCING QUEEN",
-    "version": {
-      "raw": "",
-      "original": false,
-      "english": false
-    },
-    "date": "Mi., 28.08",
-    "timestamp": 1724803200000,
-    "time": "16:00",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/784036?layout=shows",
-    "img": "https://media.kinoheld.de/3VX3_VpaSsPu5iDZ-c_r91RpmvE=/400x560/images%2Ffilm%2Fdancing-queen-52379.v17210287487423.jpg",
-    "description": "Für die schüchterne Teenagerin Mina (Liv Elvira Kippersund Larsson) beginnt ein neues Schuljahr, und sie möchte unbedingt dazugehören – vor allem möchte sie E. D. Win (Viljar Knutsen Bjaadal) beeindrucken, den gleichaltrigen Hip-Hop-Tänzer, dessen Instagram-Fanclub weitaus größer ist als sein Einfühlungsvermögen. Trotz ihrer Befangenheit und der Tatsache, dass sie nicht tanzen kann, ringt Mina sich zur Teilnahme an einem Tanzwettbewerb durch. Vom unangenehmen ersten Vortanzen bis zum großen Auftritt verabschiedet sie sich von Selbstzweifeln und problematischen Körperbildern.",
-    "trailer": "https://www.youtube.com/watch?v=zVSViByHNsM",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
-  "hasenheide-784037": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-784037",
-    "title": "Pretty Woman (OmU)",
-    "normalizedTitle": "PRETTY WOMAN",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Mi., 28.08",
-    "timestamp": 1724803200000,
-    "time": "18:00",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/784037?layout=shows",
-    "img": "https://media.kinoheld.de/z8larIslGyvUX8WGxnmVyHbvHt4=/400x560/images%2Ffilm%2Fpretty-woman-17891.v17235327529773.jpg",
-    "description": "Der Romantikklassiker schlechthin: Das leichte Mädchen Vivian (Julia Roberts) trifft ihren Traumprinzen (Richard Gere) und aus der geschäftlichen Beziehung wird tatsächlich Liebe!",
-    "trailer": "https://www.youtube.com/watch?v=rXNnYW-Rgs0",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
-  "hasenheide-784038": {
-    "cinemaId": "580",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
-    "cinemaName": "freiluftkino-hasenheide",
-    "cinemaShortName": "hasenheide",
-    "id": "hasenheide-784038",
-    "title": "To the Moon (OmU)",
-    "normalizedTitle": "TO THE MOON",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Mi., 28.08",
-    "timestamp": 1724803200000,
-    "time": "20:30",
-    "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/784038?layout=shows",
-    "img": "https://media.kinoheld.de/yzPLfqlgY7wW7iYBtuDqQPmy4LM=/400x560/images%2Ffilm%2Fto-the-moon-59367.v17172858721482.jpg",
-    "description": "Cole Davis (Channing Tatum) arbeitet bei der US-amerikanischen Raumfahrtbehörde NASA und verfolgt ein klares Ziel: den ersten Menschen auf den Mond bringen – und zwar so schnell wie nur irgend möglich, da die Sowjetunion ebenfalls fieberhaft daran arbeitet, den ersten Fuß auf den Erdtrabanten zu setzen. Doch die Apollo-Mission wird von Pleiten, Pech und Pannen verfolgt, und die Raumfahrtbehörde sinkt im Ansehen der Bevölkerung. Das soll Marketing-Expertin Kelly Jones (Scarlett Johansson) ändern. Kurzerhand wird sie Cole Davis vor die Nase gesetzt, um dessen Arbeit und die seines Teams medienwirksam zu präsentieren – zur Not auch mit Tricksereien. Der Gipfel ist für Cole Davis jedoch erreicht, als sogar die gesamte Mondlandung einfach inszeniert werden soll, womit seine ganze harte Arbeit zunichte gemacht würde. Dabei ist ihm die selbstbewusste Kelly Jones eigentlich längst ans Herz gewachsen…",
-    "trailer": "https://www.youtube.com/watch?v=zzkkH5JSnfE",
-    "available": -1,
-    "reserved": 0,
-    "bookable": true
-  },
   "hasenheide-784083": {
     "cinemaId": "580",
     "cinemaUrl": "https://www.kinoheld.de/kino-berlin/freiluftkino-hasenheide/shows/movies",
@@ -923,10 +781,10 @@
     "cinemaName": "freiluftkino-hasenheide",
     "cinemaShortName": "hasenheide",
     "id": "hasenheide-784084",
-    "title": "Morgen ist auch noch ein Tag (OmU)",
+    "title": "Morgen ist auch noch ein Tag (OmU / subtitled OV)",
     "normalizedTitle": "MORGEN IST AUCH NOCH EIN TAG",
     "version": {
-      "raw": "OmU",
+      "raw": "OmU subtitled OV",
       "original": true,
       "english": false
     },
@@ -947,10 +805,10 @@
     "cinemaName": "freiluftkino-hasenheide",
     "cinemaShortName": "hasenheide",
     "id": "hasenheide-784085",
-    "title": "Challengers - Rivalen (OmU)",
+    "title": "Challengers - Rivalen (subtitled OV)",
     "normalizedTitle": "CHALLENGERS - RIVALEN",
     "version": {
-      "raw": "OmU",
+      "raw": "subtitled OV",
       "original": true,
       "english": false
     },
@@ -1019,10 +877,10 @@
     "cinemaName": "freiluftkino-hasenheide",
     "cinemaShortName": "hasenheide",
     "id": "hasenheide-784088",
-    "title": "Alles steht Kopf 2 (OmU)",
+    "title": "Alles steht Kopf 2 (subtitled OV)",
     "normalizedTitle": "ALLES STEHT KOPF 2",
     "version": {
-      "raw": "OmU",
+      "raw": "subtitled OV",
       "original": true,
       "english": false
     },
@@ -1067,10 +925,10 @@
     "cinemaName": "freiluftkino-hasenheide",
     "cinemaShortName": "hasenheide",
     "id": "hasenheide-784090",
-    "title": "Alles steht Kopf 2 (OmU)",
+    "title": "Alles steht Kopf 2 (subtitled OV)",
     "normalizedTitle": "ALLES STEHT KOPF 2",
     "version": {
-      "raw": "OmU",
+      "raw": "subtitled OV",
       "original": true,
       "english": false
     },
@@ -1091,10 +949,10 @@
     "cinemaName": "freiluftkino-hasenheide",
     "cinemaShortName": "hasenheide",
     "id": "hasenheide-784092",
-    "title": "Kinds of Kindness (OmU)",
+    "title": "Kinds of Kindness (subtitled OV)",
     "normalizedTitle": "KINDS OF KINDNESS",
     "version": {
-      "raw": "OmU",
+      "raw": "subtitled OV",
       "original": true,
       "english": false
     },
@@ -1139,10 +997,10 @@
     "cinemaName": "freiluftkino-hasenheide",
     "cinemaShortName": "hasenheide",
     "id": "hasenheide-784094",
-    "title": "Ich - Einfach unverbesserlich 4 (OmU)",
+    "title": "Ich - Einfach unverbesserlich 4 (subtitled OV)",
     "normalizedTitle": "ICH - EINFACH UNVERBESSERLICH 4",
     "version": {
-      "raw": "OmU",
+      "raw": "subtitled OV",
       "original": true,
       "english": false
     },
@@ -1163,10 +1021,10 @@
     "cinemaName": "freiluftkino-hasenheide",
     "cinemaShortName": "hasenheide",
     "id": "hasenheide-784093",
-    "title": "All of Us Strangers (OmU)",
+    "title": "All of Us Strangers (subtitled OV)",
     "normalizedTitle": "ALL OF US STRANGERS",
     "version": {
-      "raw": "OmU",
+      "raw": "subtitled OV",
       "original": true,
       "english": false
     },
@@ -1211,10 +1069,10 @@
     "cinemaName": "freiluftkino-hasenheide",
     "cinemaShortName": "hasenheide",
     "id": "hasenheide-786881",
-    "title": "Ein Kleines Stück vom Kuchen (OmU)",
+    "title": "Ein Kleines Stück vom Kuchen (OmU / subtitled OV)",
     "normalizedTitle": "EIN KLEINES STÜCK VOM KUCHEN",
     "version": {
-      "raw": "OmU",
+      "raw": "OmU subtitled OV",
       "original": true,
       "english": false
     },
@@ -1235,10 +1093,10 @@
     "cinemaName": "freiluftkino-hasenheide",
     "cinemaShortName": "hasenheide",
     "id": "hasenheide-786882",
-    "title": "Perfect Days (OmU)",
+    "title": "Perfect Days (subtitled OV / OmU)",
     "normalizedTitle": "PERFECT DAYS",
     "version": {
-      "raw": "OmU",
+      "raw": "subtitled OV OmU",
       "original": true,
       "english": false
     },
@@ -1283,10 +1141,10 @@
     "cinemaName": "freiluftkino-hasenheide",
     "cinemaShortName": "hasenheide",
     "id": "hasenheide-786884",
-    "title": "May December (OmU)",
+    "title": "May December (subtitled OV)",
     "normalizedTitle": "MAY DECEMBER",
     "version": {
-      "raw": "OmU",
+      "raw": "subtitled OV",
       "original": true,
       "english": false
     },
@@ -1307,10 +1165,10 @@
     "cinemaName": "freiluftkino-hasenheide",
     "cinemaShortName": "hasenheide",
     "id": "hasenheide-786885",
-    "title": "Poor Things (OmU)",
+    "title": "Poor Things (subtitled OV)",
     "normalizedTitle": "POOR THINGS",
     "version": {
-      "raw": "OmU",
+      "raw": "subtitled OV",
       "original": true,
       "english": false
     },
@@ -1355,10 +1213,10 @@
     "cinemaName": "freiluftkino-hasenheide",
     "cinemaShortName": "hasenheide",
     "id": "hasenheide-786887",
-    "title": "Fall Guy, The (OmU)",
+    "title": "Fall Guy, The (subtitled OV)",
     "normalizedTitle": "FALL GUY, THE",
     "version": {
-      "raw": "OmU",
+      "raw": "subtitled OV",
       "original": true,
       "english": false
     },
@@ -1379,10 +1237,10 @@
     "cinemaName": "freiluftkino-hasenheide",
     "cinemaShortName": "hasenheide",
     "id": "hasenheide-786888",
-    "title": "Love Lies Bleeding (OmU)",
+    "title": "Love Lies Bleeding (subtitled OV)",
     "normalizedTitle": "LOVE LIES BLEEDING",
     "version": {
-      "raw": "OmU",
+      "raw": "subtitled OV",
       "original": true,
       "english": false
     },
@@ -1427,10 +1285,10 @@
     "cinemaName": "freiluftkino-hasenheide",
     "cinemaShortName": "hasenheide",
     "id": "hasenheide-786890",
-    "title": "To the Moon (OmU)",
+    "title": "To the Moon (subtitled OV)",
     "normalizedTitle": "TO THE MOON",
     "version": {
-      "raw": "OmU",
+      "raw": "subtitled OV",
       "original": true,
       "english": false
     },
@@ -1451,10 +1309,10 @@
     "cinemaName": "freiluftkino-hasenheide",
     "cinemaShortName": "hasenheide",
     "id": "hasenheide-786891",
-    "title": "Longlegs (OmU)",
+    "title": "Longlegs (subtitled OV)",
     "normalizedTitle": "LONGLEGS",
     "version": {
-      "raw": "OmU",
+      "raw": "subtitled OV",
       "original": true,
       "english": false
     },
@@ -1499,10 +1357,10 @@
     "cinemaName": "freiluftkino-hasenheide",
     "cinemaShortName": "hasenheide",
     "id": "hasenheide-786893",
-    "title": "Alles steht Kopf 2 (OmU)",
+    "title": "Alles steht Kopf 2 (subtitled OV)",
     "normalizedTitle": "ALLES STEHT KOPF 2",
     "version": {
-      "raw": "OmU",
+      "raw": "subtitled OV",
       "original": true,
       "english": false
     },
@@ -1523,10 +1381,10 @@
     "cinemaName": "freiluftkino-hasenheide",
     "cinemaShortName": "hasenheide",
     "id": "hasenheide-786894",
-    "title": "Love Lies Bleeding (OmU)",
+    "title": "Love Lies Bleeding (subtitled OV)",
     "normalizedTitle": "LOVE LIES BLEEDING",
     "version": {
-      "raw": "OmU",
+      "raw": "subtitled OV",
       "original": true,
       "english": false
     },
@@ -1592,10 +1450,10 @@
     "cinemaName": "freiluftkino-hasenheide",
     "cinemaShortName": "hasenheide",
     "id": "hasenheide-787078",
-    "title": "Challengers - Rivalen (OmU)",
+    "title": "Challengers - Rivalen (subtitled OV)",
     "normalizedTitle": "CHALLENGERS - RIVALEN",
     "version": {
-      "raw": "OmU",
+      "raw": "subtitled OV",
       "original": true,
       "english": false
     },
@@ -1640,10 +1498,10 @@
     "cinemaName": "freiluftkino-hasenheide",
     "cinemaShortName": "hasenheide",
     "id": "hasenheide-786898",
-    "title": "Barbie (OmU)",
+    "title": "Barbie (subtitled OV)",
     "normalizedTitle": "BARBIE",
     "version": {
-      "raw": "OmU",
+      "raw": "subtitled OV",
       "original": true,
       "english": false
     },
@@ -1651,7 +1509,7 @@
     "timestamp": 1725753600000,
     "time": "18:00",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/786898?layout=shows",
-    "img": "https://media.kinoheld.de/uXGJAPiKM8Toi9ctCZzeCE00HH0=/400x560/images%2Ffilm%2Fbarbie-468271685995447168599544917006144351700699149170069975117007005551700786015170078672817012192331701219394170173526217017355261701735645170173565617017357231701735744.v17248011537695.jpg",
+    "img": "https://media.kinoheld.de/_f_NZbxXQv3IV5NN-Z0yheNvWmc=/400x560/images%2Ffilm%2Fbarbie-468271685995447168599544917006144351700699149170069975117007005551700786015170078672817012192331701219394170173526217017355261701735645170173565617017357231701735744.v17248888901663.jpg",
     "description": "Im glitzernden Barbieland wird Barbie aufgrund ihrer vermeintlichen Unvollkommenheiten ausgestoßen und beschließt daraufhin, in die Menschenwelt auszuwandern. Dort entdeckt sie, dass Perfektion nur im Inneren zu finden ist. Hinter der glänzenden Fassade von Barbieland existieren strenge Regeln, nach denen nur die Schönsten und Perfektesten akzeptiert werden. Nachdem Barbie ausgestoßen wird, verwandelt sie sich magischerweise in einen echten Menschen. In der realen Welt lernt sie, sich selbst und ihre eigenen Stärken zu akzeptieren. Durch ihre Abenteuer erkennt sie die Bedeutung von Selbstakzeptanz und entdeckt, dass wahre Schönheit von innen kommt.",
     "trailer": "https://www.youtube.com/watch?v=0BxBCVmo8YQ",
     "available": -1,
@@ -1664,10 +1522,10 @@
     "cinemaName": "freiluftkino-hasenheide",
     "cinemaShortName": "hasenheide",
     "id": "hasenheide-786899",
-    "title": "Mamma Mia! (OmU)",
+    "title": "Mamma Mia! (subtitled OV / OmU)",
     "normalizedTitle": "MAMMA MIA!",
     "version": {
-      "raw": "OmU",
+      "raw": "subtitled OV OmU",
       "original": true,
       "english": false
     },
@@ -1712,10 +1570,10 @@
     "cinemaName": "freiluftkino-hasenheide",
     "cinemaShortName": "hasenheide",
     "id": "hasenheide-786901",
-    "title": "All of Us Strangers (OmU)",
+    "title": "All of Us Strangers (subtitled OV)",
     "normalizedTitle": "ALL OF US STRANGERS",
     "version": {
-      "raw": "OmU",
+      "raw": "subtitled OV",
       "original": true,
       "english": false
     },
@@ -1736,10 +1594,10 @@
     "cinemaName": "freiluftkino-hasenheide",
     "cinemaShortName": "hasenheide",
     "id": "hasenheide-786902",
-    "title": "Alles steht Kopf 2 (OmU)",
+    "title": "Alles steht Kopf 2 (subtitled OV)",
     "normalizedTitle": "ALLES STEHT KOPF 2",
     "version": {
-      "raw": "OmU",
+      "raw": "subtitled OV",
       "original": true,
       "english": false
     },
@@ -1808,10 +1666,10 @@
     "cinemaName": "freiluftkino-hasenheide",
     "cinemaShortName": "hasenheide",
     "id": "hasenheide-786905",
-    "title": "Longlegs (OmU)",
+    "title": "Longlegs (subtitled OV)",
     "normalizedTitle": "LONGLEGS",
     "version": {
-      "raw": "OmU",
+      "raw": "subtitled OV",
       "original": true,
       "english": false
     },
@@ -1856,10 +1714,10 @@
     "cinemaName": "freiluftkino-hasenheide",
     "cinemaShortName": "hasenheide",
     "id": "hasenheide-786907",
-    "title": "The Zone Of Interest (OmeU)",
+    "title": "The Zone Of Interest (subtitled OV English / OmeU)",
     "normalizedTitle": "THE ZONE OF INTEREST",
     "version": {
-      "raw": "OmeU",
+      "raw": "subtitled OV English OmeU",
       "original": true,
       "english": true
     },
@@ -1880,10 +1738,10 @@
     "cinemaName": "freiluftkino-hasenheide",
     "cinemaShortName": "hasenheide",
     "id": "hasenheide-786908",
-    "title": "Back to Black (OmU)",
+    "title": "Back to Black (subtitled OV)",
     "normalizedTitle": "BACK TO BLACK",
     "version": {
-      "raw": "OmU",
+      "raw": "subtitled OV",
       "original": true,
       "english": false
     },
@@ -1928,10 +1786,10 @@
     "cinemaName": "freiluftkino-hasenheide",
     "cinemaShortName": "hasenheide",
     "id": "hasenheide-786910",
-    "title": "Dìdi (??) (OmU)",
+    "title": "Dìdi (??) (subtitled OV)",
     "normalizedTitle": "DÌDI",
     "version": {
-      "raw": "OmU",
+      "raw": "subtitled OV",
       "original": true,
       "english": false
     },
@@ -1963,7 +1821,7 @@
     "timestamp": 1726099200000,
     "time": "20:15",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/784122?layout=shows",
-    "img": "https://media.kinoheld.de/Y8qP44fa4RwpLac8WgaU5Y6BY_s=/400x560/images%2Ffilm%2Frock-n-roll-ringo-61259.v17247318946715.jpg",
+    "img": "https://media.kinoheld.de/-iWwoqyxbUzLpeBtWTlbq9A3Nw0=/400x560/images%2Ffilm%2Frock-n-roll-ringo-61259.v17248909550456.jpg",
     "description": "Ein Gerüstbauer verliert seinen Job und schlägt sich als Aushilfskraft bei der Kirmes durch. Dort lässt er sich von einem Schausteller dazu verführen, Karriere als Kirmesboxer zu machen - und hofft seiner gehörlosen Tochter einen langersehnten Traum erfüllen zu können.",
     "available": -1,
     "reserved": 0,
@@ -1999,10 +1857,10 @@
     "cinemaName": "freiluftkino-hasenheide",
     "cinemaShortName": "hasenheide",
     "id": "hasenheide-786913",
-    "title": "Crossing: Auf der Suche nach Tekla (OmU)",
+    "title": "Crossing: Auf der Suche nach Tekla (subtitled OV)",
     "normalizedTitle": "CROSSING: AUF DER SUCHE NACH TEKLA",
     "version": {
-      "raw": "OmU",
+      "raw": "subtitled OV",
       "original": true,
       "english": false
     },
@@ -2023,10 +1881,10 @@
     "cinemaName": "freiluftkino-hasenheide",
     "cinemaShortName": "hasenheide",
     "id": "hasenheide-786914",
-    "title": "Ellbogen (OmeU)",
+    "title": "Ellbogen (OmeU / subtitled OV English)",
     "normalizedTitle": "ELLBOGEN",
     "version": {
-      "raw": "OmeU",
+      "raw": "OmeU subtitled OV English",
       "original": true,
       "english": true
     },
@@ -2034,7 +1892,7 @@
     "timestamp": 1726185600000,
     "time": "20:30",
     "url": "https://www.kinoheld.de/cinema-berlin/freiluftkino-hasenheide/show/786914?layout=shows",
-    "img": "https://media.kinoheld.de/hr8AS2JpwhmkQKevXMXRvS6AbU8=/400x560/images%2Ffilm%2Finsel-36-58097.v17248005551725.jpg",
+    "img": "https://media.kinoheld.de/BLDRe1iq6dvNZH-dd3b9AgAHo4Q=/400x560/images%2Ffilm%2Finsel-36-58097.v17248891228098.jpg",
     "description": "Eine junge Türkin aus Berlin sehnt sich danach, ihrem eingeschränkten Leben in einer strengen Familie und den begrenzten Möglichkeiten des deutschen Arbeitsmarktes zu entkommen. An ihrem 18. Geburtstag ereignet sich jedoch eine Katastrophe, die sie zur Flucht nach Istanbul zwingt.",
     "trailer": "https://www.youtube.com/watch?v=bMZzIwBddAU",
     "available": -1,
@@ -2071,10 +1929,10 @@
     "cinemaName": "freiluftkino-hasenheide",
     "cinemaShortName": "hasenheide",
     "id": "hasenheide-786916",
-    "title": "Asteroid City (OmU)",
+    "title": "Asteroid City (subtitled OV)",
     "normalizedTitle": "ASTEROID CITY",
     "version": {
-      "raw": "OmU",
+      "raw": "subtitled OV",
       "original": true,
       "english": false
     },
@@ -2095,10 +1953,10 @@
     "cinemaName": "freiluftkino-hasenheide",
     "cinemaShortName": "hasenheide",
     "id": "hasenheide-786917",
-    "title": "Love Lies Bleeding (OmU)",
+    "title": "Love Lies Bleeding (subtitled OV)",
     "normalizedTitle": "LOVE LIES BLEEDING",
     "version": {
-      "raw": "OmU",
+      "raw": "subtitled OV",
       "original": true,
       "english": false
     },
@@ -2143,10 +2001,10 @@
     "cinemaName": "freiluftkino-hasenheide",
     "cinemaShortName": "hasenheide",
     "id": "hasenheide-786919",
-    "title": "Ich - Einfach unverbesserlich 4 (OmU)",
+    "title": "Ich - Einfach unverbesserlich 4 (subtitled OV)",
     "normalizedTitle": "ICH - EINFACH UNVERBESSERLICH 4",
     "version": {
-      "raw": "OmU",
+      "raw": "subtitled OV",
       "original": true,
       "english": false
     },
@@ -2167,10 +2025,10 @@
     "cinemaName": "freiluftkino-hasenheide",
     "cinemaShortName": "hasenheide",
     "id": "hasenheide-786918",
-    "title": "Inside Out 2 (OmU)",
+    "title": "Inside Out 2 (subtitled OV)",
     "normalizedTitle": "INSIDE OUT 2",
     "version": {
-      "raw": "OmU",
+      "raw": "subtitled OV",
       "original": true,
       "english": false
     },
@@ -2191,10 +2049,10 @@
     "cinemaName": "b-ware-openair-fmp",
     "cinemaShortName": "fmp",
     "id": "fmp-3071848217",
-    "title": "PREVIEW: ELLBOGEN (Preview / OmeU)",
+    "title": "PREVIEW: ELLBOGEN (Preview / OmeU / subtitled OV English)",
     "normalizedTitle": "PREVIEW: ELLBOGEN",
     "version": {
-      "raw": "Preview OmeU",
+      "raw": "Preview OmeU subtitled OV English",
       "original": true,
       "english": true
     },
@@ -2202,7 +2060,7 @@
     "timestamp": 1724976000000,
     "time": "20:30",
     "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/3071848217?layout=shows",
-    "img": "https://media.kinoheld.de/hr8AS2JpwhmkQKevXMXRvS6AbU8=/400x560/images%2Ffilm%2Finsel-36-58097.v17248005551725.jpg",
+    "img": "https://media.kinoheld.de/BLDRe1iq6dvNZH-dd3b9AgAHo4Q=/400x560/images%2Ffilm%2Finsel-36-58097.v17248891228098.jpg",
     "description": "Eine junge Türkin aus Berlin sehnt sich danach, ihrem eingeschränkten Leben in einer strengen Familie und den begrenzten Möglichkeiten des deutschen Arbeitsmarktes zu entkommen. An ihrem 18. Geburtstag ereignet sich jedoch eine Katastrophe, die sie zur Flucht nach Istanbul zwingt.",
     "trailer": "https://www.youtube.com/watch?v=bMZzIwBddAU",
     "available": -1,
@@ -2226,9 +2084,9 @@
     "timestamp": 1725062400000,
     "time": "20:30",
     "url": "https://www.kinoheld.de/cinema-berlin/b-ware-openair-fmp/show/3071785484?layout=shows",
-    "img": "https://media.kinoheld.de/BcGCQvBstcykc0osmo7XJA02q0E=/400x560/images%2Ffilm%2Fueben-ueben-ueben-55293.v17243857227536.jpg",
+    "img": "https://media.kinoheld.de/Zdc_EEtpehpKy0aa7HY8ha97n7o=/400x560/images%2Ffilm%2Fueben-ueben-ueben-55293.v17248463012561.jpg",
     "description": "Trine weigert sich zu fliegen. Als die 18-jährige Klimaaktivistin und talentierte Trompetenspielerin zu einem Vorspiel an das berühmte Opernhaus in Oslo eingeladen wird, bleiben ihr nur wenige Tage, um die 1500km Entfernung von den einsamen Lofoten-Inseln bis zur Hauptstadt zurückzulegen. Um ihren Prinzipien treu zu bleiben, entscheidet sich Trine zu trampen und auf die Hilfsbereitschaft von Fremdem zu vertrauen. Allerdings stellt der Roadtrip durch Norwegens raue und schöne Landschaften Trines Leidenschaft für Musik und ihren Umweltschutz-Idealismus gehörig auf die Probe.",
-    "trailer": "https://www.youtube.com/watch?v=tIEmX66CbBM",
+    "trailer": "https://www.youtube.com/watch?v=bQHWFg1Dmgw",
     "available": -1,
     "reserved": 0,
     "bookable": true
@@ -2239,10 +2097,10 @@
     "cinemaName": "b-ware-openair-fmp",
     "cinemaShortName": "fmp",
     "id": "fmp-3071785531",
-    "title": "PREVIEW: ARCHITECTON (OmU / Preview)",
+    "title": "PREVIEW: ARCHITECTON (subtitled OV / Preview)",
     "normalizedTitle": "PREVIEW: ARCHITECTON",
     "version": {
-      "raw": "OmU Preview",
+      "raw": "subtitled OV Preview",
       "original": true,
       "english": false
     },
@@ -2261,10 +2119,10 @@
     "cinemaName": "b-ware-openair-fmp",
     "cinemaShortName": "fmp",
     "id": "fmp-3071785664",
-    "title": "PREVIEW: BIS HIERHIN UND WIE WEITER? (OmeU / Preview)",
+    "title": "PREVIEW: BIS HIERHIN UND WIE WEITER? (subtitled OV English / Preview / OmeU)",
     "normalizedTitle": "PREVIEW: BIS HIERHIN UND WIE WEITER?",
     "version": {
-      "raw": "OmeU Preview",
+      "raw": "subtitled OV English Preview OmeU",
       "original": true,
       "english": true
     },
@@ -2357,10 +2215,10 @@
     "cinemaName": "b-ware-openair-fmp",
     "cinemaShortName": "fmp",
     "id": "fmp-3071789220",
-    "title": "PREVIEW: WHEN THE LIGHT BREAKS (OmeU / Preview)",
+    "title": "PREVIEW: WHEN THE LIGHT BREAKS (subtitled OV English / OmeU / Preview)",
     "normalizedTitle": "PREVIEW: WHEN THE LIGHT BREAKS",
     "version": {
-      "raw": "OmeU Preview",
+      "raw": "subtitled OV English OmeU Preview",
       "original": true,
       "english": true
     },
@@ -2379,11 +2237,11 @@
     "cinemaName": "b-ware-openair-fmp",
     "cinemaShortName": "fmp",
     "id": "fmp-3071849417",
-    "title": "PREVIEW: NEUIGKEITEN AUS LAPPLAND (OmdU / Preview)",
+    "title": "PREVIEW: NEUIGKEITEN AUS LAPPLAND (subtitled OV German / Preview / OmU)",
     "normalizedTitle": "PREVIEW: NEUIGKEITEN AUS LAPPLAND",
     "version": {
-      "raw": "OmdU Preview",
-      "original": false,
+      "raw": "subtitled OV German Preview OmU",
+      "original": true,
       "english": false
     },
     "date": "Mi., 11.09",
@@ -2403,11 +2261,11 @@
     "cinemaName": "b-ware-openair-fmp",
     "cinemaShortName": "fmp",
     "id": "fmp-3071793577",
-    "title": "PREVIEW: THE BEAST (OmdU / Preview)",
+    "title": "PREVIEW: THE BEAST (subtitled OV German / Preview / OmU)",
     "normalizedTitle": "PREVIEW: THE BEAST",
     "version": {
-      "raw": "OmdU Preview",
-      "original": false,
+      "raw": "subtitled OV German Preview OmU",
+      "original": true,
       "english": false
     },
     "date": "Do., 12.09",
@@ -2424,11 +2282,11 @@
     "cinemaName": "b-ware-openair-fmp",
     "cinemaShortName": "fmp",
     "id": "fmp-3071794319",
-    "title": "PREVIEW: THE SUBSTANCE (OmdU / Preview / en)",
+    "title": "PREVIEW: THE SUBSTANCE (subtitled OV German / Preview / en / OmU)",
     "normalizedTitle": "PREVIEW: THE SUBSTANCE",
     "version": {
-      "raw": "OmdU Preview en",
-      "original": false,
+      "raw": "subtitled OV German Preview en OmU",
+      "original": true,
       "english": true
     },
     "date": "Fr., 13.09",
@@ -2440,30 +2298,6 @@
     "trailer": "https://www.youtube.com/watch?v=wRoDNJNrdeM",
     "available": -1,
     "reserved": 0,
-    "bookable": true
-  },
-  "central-3009722914": {
-    "cinemaId": "1839",
-    "cinemaUrl": "https://www.kinoheld.de/kino-berlin/central-kino-open-air/shows/movies",
-    "cinemaName": "central-kino-open-air",
-    "cinemaShortName": "central",
-    "id": "central-3009722914",
-    "title": "open air: Léon: der Profi (OmU)",
-    "normalizedTitle": "LÉON: DER PROFI",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Mi., 28.08",
-    "timestamp": 1724803200000,
-    "time": "20:00",
-    "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/3009722914?layout=shows",
-    "img": "https://media.kinoheld.de/kYStEhPmGfaEZFCEJgfHXxwlOxU=/400x560/images%2Ffilm%2Fleon-der-profi-wa-2019-14361.v11.jpg",
-    "description": "Léon verdient sein Geld als Auftragskiller der Italo-Mafia in den Straßen von New York. Er lebt zurückgezogen und pflegt außer zu seinem Boss Tony einzig zu seiner Topfpflanze ein freundschaftliches Verhältnis. Als die Familie seiner Nachbarstochter Mathilda von DEA-Polizisten brutal getötet wird, flüchtet sie zu Léon. Um sich an den Mördern ihres kleinen Bruders zu rächen, lässt sich Mathilda das grausame Handwerk eines Profi-Killers von Léon beibringen. (Quelle: Verleih)",
-    "trailer": "https://www.youtube.com/watch?v=4e50Hpm9L4I",
-    "available": 30,
-    "reserved": 59,
     "bookable": true
   },
   "central-3009725387": {
@@ -2485,8 +2319,8 @@
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/3009725387?layout=shows",
     "img": "https://media.kinoheld.de/aZ7b_uwQ2YcyYaWWQpA7sh4NwOg=/400x560/images%2Ffilm%2Fmo%2F172-58487.v2.jpg",
     "description": "Das Berliner Elektronik-Musik-Duo Tronthaim begleitet live Walter Ruttmanns Berlin – Die Sinfonie der Großstadt – eine großartige filmische Reise durch das Leben der Großstadt, von ihrem Erwachen am Morgen über die Hektik des Arbeitsalltags bis hin zur Ekstase der nächtlichen Vergnügungen.\r\nSeit seiner Entstehung im Jahr 1927 ist Ruttmanns experimenteller Dokumentarfilm eine der eindrucksvollsten und revolutionärsten Großstadtsinfonien, die je gedreht wurden. Nach musikalischen Prinzipien montierend, verdichtet Ruttmann seine Aufnahmen zu einer Dynamik, die das pulsierende Leben dieser Metropole regelrecht fühlbar macht. Die clipartige Montagetechnik wie die historische Faszination des Films haben Tronthaim zu einer völlig neuen Komposition animiert, die den Rausch der Bilder aus dem Jahre 1927 in das wiedererwachte Berlin im 21. Jahrhundert transportiert. Tronthaim sind der Theatermusiker Daniel Dorsch (produzierte für Häuser wie Volksbühne, Gorki Theater, Hebbel am Ufer, Staatstheater Stuttgart) und der Bild- und Sounddesigner Sascha Moser (arbeitete für Emigrate, Rammstein, Seeed, Bela B., Peter Fox, Steve Binetti u. a.).",
-    "available": 58,
-    "reserved": 28,
+    "available": 54,
+    "reserved": 32,
     "bookable": true
   },
   "central-3009725399": {
@@ -2495,10 +2329,10 @@
     "cinemaName": "central-kino-open-air",
     "cinemaShortName": "central",
     "id": "central-3009725399",
-    "title": "open air: Hayao Miyazaki: Princess Mononoke (OmeU)",
+    "title": "open air: Hayao Miyazaki: Princess Mononoke (subtitled OV English / OmeU)",
     "normalizedTitle": "HAYAO MIYAZAKI: PRINCESS MONONOKE",
     "version": {
-      "raw": "OmeU",
+      "raw": "subtitled OV English OmeU",
       "original": true,
       "english": true
     },
@@ -2509,8 +2343,8 @@
     "img": "https://media.kinoheld.de/lnzNGJR3ul0-Vz59IUo5-SD_kR0=/400x560/images%2Ffilm%2Fprinzessin-mononoke-56415.v17080232389932.jpg",
     "description": "Japan im frühen Mittelalter. Der junge Krieger Ashitaka tötet in Notwehr einen dämonischen Eber und wird darauf mit einem Fluch belegt. Auf der Suche nach Heilung durchstreift Ashitaka das Land und stößt schließlich nahe einer befestigten Hüttensiedlung, die sich tief in das einst idyllische Land um einen Heiligen Berg frisst, auf die von Wölfen großgezogene Kriegerin San, genannt Mononoke. Obwohl San einen Krieg für die Natur wider ihre Zerstörer führt, verliebt sie sich in Ashitaka.",
     "trailer": "https://www.youtube.com/watch?v=YAkojWy_h6o",
-    "available": 57,
-    "reserved": 22,
+    "available": 55,
+    "reserved": 24,
     "bookable": true
   },
   "central-3009725427": {
@@ -2519,10 +2353,10 @@
     "cinemaName": "central-kino-open-air",
     "cinemaShortName": "central",
     "id": "central-3009725427",
-    "title": "open air: Hayao Miyazaki: Howl's Moving Castle (OmeU)",
+    "title": "open air: Hayao Miyazaki: Howl's Moving Castle (subtitled OV English / OmeU)",
     "normalizedTitle": "HAYAO MIYAZAKI: HOWL'S MOVING CASTLE",
     "version": {
-      "raw": "OmeU",
+      "raw": "subtitled OV English OmeU",
       "original": true,
       "english": true
     },
@@ -2533,8 +2367,8 @@
     "img": "https://media.kinoheld.de/1I5f9BUSL8xH8c4lZHnrDSIBNp0=/400x560/images%2Ffilm%2Fdas-wandelnde-schloss-57545.v17101676524113.jpg",
     "description": "Sophie verliebt sich in den Zauberer Hauro und wird deswegen von einer Hexe in eine alte Frau verwandelt. Sie macht sich auf die Suche nach Hauro, um den Fluch rückgängig zu machen. Als sie das Heim Hauros, das wandelnde Schloss, findet, arbeitet sie dort als Putzfrau. Ein Feuer-Teufel, der das Haus bewacht, und Hauros Assistent Markl werden bald ihre Freunde. Aber Hauro beachtet sie nicht und lebt unbekümmert und selbstverliebt in den Tag hinein. (aga)",
     "trailer": "https://www.youtube.com/watch?v=8WHUkPO82qc",
-    "available": 51,
-    "reserved": 36,
+    "available": 41,
+    "reserved": 46,
     "bookable": true
   },
   "central-3009725462": {
@@ -2543,10 +2377,10 @@
     "cinemaName": "central-kino-open-air",
     "cinemaShortName": "central",
     "id": "central-3009725462",
-    "title": "open air: Hayao Miyazaki: Spirited Away (OmeU)",
+    "title": "open air: Hayao Miyazaki: Spirited Away (subtitled OV English / OmeU)",
     "normalizedTitle": "HAYAO MIYAZAKI: SPIRITED AWAY",
     "version": {
-      "raw": "OmeU",
+      "raw": "subtitled OV English OmeU",
       "original": true,
       "english": true
     },
@@ -2557,8 +2391,8 @@
     "img": "https://media.kinoheld.de/prlFrZ-1Agie8Fs8uhQ8lzPECiU=/400x560/images%2Ffilm%2Fchihiros-reise-ins-zauberland-24455.v17236823318139.jpg",
     "description": "Das Mädchen Chihiro ist völlig auf sich alleine gestellt, nachdem sich ihre Eltern auf der Fahrt in einen Vergnügungspark in Schweine verwandelt haben. In einem Erholungsbad für Götter trifft sie auf allerlei merkwürdige Gottheiten: einen Stinkgott, einen Jungen, der sich in einen Fluss verwandeln kann, den gesichtslosen Gott Noface und allerlei anderen seltsamen, wandelbaren Gestalten. (sir)",
     "trailer": "https://www.youtube.com/watch?v=ffnNmR6lBKY",
-    "available": 46,
-    "reserved": 37,
+    "available": 43,
+    "reserved": 40,
     "bookable": true
   },
   "central-3009726910": {
@@ -2567,10 +2401,10 @@
     "cinemaName": "central-kino-open-air",
     "cinemaShortName": "central",
     "id": "central-3009726910",
-    "title": "open air: The Quiet Girl - An Cailín Ciúin (OmeU)",
+    "title": "open air: The Quiet Girl - An Cailín Ciúin (subtitled OV English / OmeU)",
     "normalizedTitle": "THE QUIET GIRL - AN CAILÍN CIÚIN",
     "version": {
-      "raw": "OmeU",
+      "raw": "subtitled OV English OmeU",
       "original": true,
       "english": true
     },
@@ -2591,10 +2425,10 @@
     "cinemaName": "central-kino-open-air",
     "cinemaShortName": "central",
     "id": "central-3009726937",
-    "title": "open air: Schleimkeim - Otze und die DDR von unten (OmeU)",
+    "title": "open air: Schleimkeim - Otze und die DDR von unten (subtitled OV English / OmeU)",
     "normalizedTitle": "SCHLEIMKEIM - OTZE UND DIE DDR VON UNTEN",
     "version": {
-      "raw": "OmeU",
+      "raw": "subtitled OV English OmeU",
       "original": true,
       "english": true
     },
@@ -2615,10 +2449,10 @@
     "cinemaName": "central-kino-open-air",
     "cinemaShortName": "central",
     "id": "central-3009726967",
-    "title": "open air: Anatomy of a Fall (OmeU)",
+    "title": "open air: Anatomy of a Fall (subtitled OV English / OmeU)",
     "normalizedTitle": "ANATOMY OF A FALL",
     "version": {
-      "raw": "OmeU",
+      "raw": "subtitled OV English OmeU",
       "original": true,
       "english": true
     },
@@ -2639,10 +2473,10 @@
     "cinemaName": "central-kino-open-air",
     "cinemaShortName": "central",
     "id": "central-3009726994",
-    "title": "open air: Call Me by Your Name (OmeU)",
+    "title": "open air: Call Me by Your Name (subtitled OV English / OmeU)",
     "normalizedTitle": "CALL ME BY YOUR NAME",
     "version": {
-      "raw": "OmeU",
+      "raw": "subtitled OV English OmeU",
       "original": true,
       "english": true
     },
@@ -2653,8 +2487,8 @@
     "img": "https://media.kinoheld.de/rOOT64E5VJ0meo1YXhzUTmE43dY=/400x560/images%2Ffilm%2F3%2Fcall-me-by-your-name-8826.v17219495213878.jpg",
     "description": "Mit seinem neuen Film CALL ME BY YOUR NAME bringt Luca Guadagnino eine sinnlich-transzendentale Geschichte über die erste Liebe auf die große Leinwand, basierend auf André Acimans gefeiertem Roman. Der altkluge 17-Jährige Elio Perlman (Timothée Chalamet) genießt den norditalienischen Sommer des Jahres 1983 auf der im 17. Jahrhundert errichteten Villa der Familie. Seine Zeit verbringt der italoamerikanische Junge damit, klassische Musik zu spielen und zu transkribieren, zu lesen und mit seiner Freundin Marzia (Esther Garrel) zu flirten. Mit seinen Eltern ist Elio eng verbunden. Sein Vater (Michael Stuhlbarg), ein angesehener Professor, hat sich auf die griechisch-römische Kultur spezialisiert. Elios Mutter Annella (Amira Casar) arbeitet als Übersetzerin. Gemeinsam bringen sie ihrem Sohn die Errungenschaften der Hochkultur nahe und bereiten ihm ein sorgenfreies Leben mit allen Vorzügen. Dank seiner Weltklugheit und seiner intellektuellen Begabungen wirkt der Junge nach außen bereits wie ein Erwachsener, doch dem Anschein entgegen ist Elio in mancherlei Hinsicht durchaus noch sehr unerfahren - besonders in Herzensangelegenheiten. Eines Tages trifft der charmante amerikanische Doktorand Oliver (Armie Hammer) als neuer Sommer-Praktikant von Elios Vater auf der Villa ein. Inmitten jener prächtigen, sonnengetränkten Szenerie entdecken Elio und Oliver die berauschende Schönheit aufblühenden Verlangens im Verlauf eines Sommers, der ihre Leben für immer verändern wird. (Quelle: Verleih)",
     "trailer": "https://www.youtube.com/watch?v=sBVbtKqn61w",
-    "available": 83,
-    "reserved": 6,
+    "available": 81,
+    "reserved": 8,
     "bookable": true
   },
   "central-3009728255": {
@@ -2663,10 +2497,10 @@
     "cinemaName": "central-kino-open-air",
     "cinemaShortName": "central",
     "id": "central-3009728255",
-    "title": "open air: Aftersun (OmU)",
+    "title": "open air: Aftersun (subtitled OV / OmU)",
     "normalizedTitle": "AFTERSUN",
     "version": {
-      "raw": "OmU",
+      "raw": "subtitled OV OmU",
       "original": true,
       "english": false
     },
@@ -2677,8 +2511,8 @@
     "img": "https://media.kinoheld.de/lRWnfqs4Iv4lHy9hn6pc5QkIEbc=/400x560/images%2Ffilm%2Faftersun-360771685622270168564985016870899721687101420168729158616872944041688041588168806013216883911721688400297.v17242903904860.jpg",
     "description": "Die 11-jährige Sophie genießt die seltene gemeinsame Zeit mit ihrem liebevollen und idealistischen Vater Calum in einem verblassenden Ferienort. Zwanzig Jahre später werden Sophies zärtliche Erinnerungen an ihren letzten Urlaub zu einem kraftvollen und herzzerreißenden Porträt ihrer Beziehung.",
     "trailer": "https://www.youtube.com/watch?v=VRgT7IKt6W8",
-    "available": 83,
-    "reserved": 6,
+    "available": 81,
+    "reserved": 8,
     "bookable": true
   },
   "central-3009728282": {
@@ -2687,10 +2521,10 @@
     "cinemaName": "central-kino-open-air",
     "cinemaShortName": "central",
     "id": "central-3009728282",
-    "title": "open air: Der Himmel über Berlin - Wings of Desire (OmeU)",
+    "title": "open air: Der Himmel über Berlin - Wings of Desire (subtitled OV English / OmeU)",
     "normalizedTitle": "DER HIMMEL ÜBER BERLIN - WINGS OF DESIRE",
     "version": {
-      "raw": "OmeU",
+      "raw": "subtitled OV English OmeU",
       "original": true,
       "english": true
     },
@@ -2711,10 +2545,10 @@
     "cinemaName": "central-kino-open-air",
     "cinemaShortName": "central",
     "id": "central-3009728309",
-    "title": "open air: Everything Everywhere All at Once (OmeU)",
+    "title": "open air: Everything Everywhere All at Once (subtitled OV English / OmeU)",
     "normalizedTitle": "EVERYTHING EVERYWHERE ALL AT ONCE",
     "version": {
-      "raw": "OmeU",
+      "raw": "subtitled OV English OmeU",
       "original": true,
       "english": true
     },
@@ -2735,10 +2569,10 @@
     "cinemaName": "central-kino-open-air",
     "cinemaShortName": "central",
     "id": "central-3046601327",
-    "title": "open air: SERET Germany: Seven Blessings (OmeU)",
+    "title": "open air: SERET Germany: Seven Blessings (subtitled OV English / OmeU)",
     "normalizedTitle": "SERET GERMANY: SEVEN BLESSINGS",
     "version": {
-      "raw": "OmeU",
+      "raw": "subtitled OV English OmeU",
       "original": true,
       "english": true
     },
@@ -2746,27 +2580,9 @@
     "timestamp": 1726617600000,
     "time": "20:00",
     "url": "https://www.kinoheld.de/cinema-berlin/central-kino-open-air/show/3046601327?layout=shows",
-    "available": 86,
-    "reserved": 3,
+    "available": 82,
+    "reserved": 7,
     "bookable": true
-  },
-  "kulturforum-1724877900000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1724877900000",
-    "title": "Klassiker im Sommerkino",
-    "normalizedTitle": "KLASSIKER IM SOMMERKINO",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Mi., 28.08",
-    "timestamp": 1724877900000,
-    "time": "20:45",
-    "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
   },
   "kulturforum-1725050700000": {
     "cinemaId": "sommerkino-kulturforum",
@@ -2789,6 +2605,24 @@
     "trailer": "https://www.youtube.com/watch?v=8fYtuE_ZJ4E",
     "bookable": true
   },
+  "kulturforum-1725137100000": {
+    "cinemaId": "sommerkino-kulturforum",
+    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+    "cinemaName": "sommerkino-kulturforum",
+    "cinemaShortName": "kulturforum",
+    "id": "kulturforum-1725137100000",
+    "title": "Klassiker im Sommerkino",
+    "normalizedTitle": "KLASSIKER IM SOMMERKINO",
+    "version": {
+      "raw": "OmU",
+      "original": true,
+      "english": false
+    },
+    "date": "Sa., 31.08",
+    "timestamp": 1725137100000,
+    "time": "20:45",
+    "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
+  },
   "kulturforum-1724964300000": {
     "cinemaId": "sommerkino-kulturforum",
     "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
@@ -2810,24 +2644,6 @@
     "trailer": "https://www.youtube.com/watch?v=iJOPZYaNVgQ",
     "bookable": true
   },
-  "kulturforum-1725137100000": {
-    "cinemaId": "sommerkino-kulturforum",
-    "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-    "cinemaName": "sommerkino-kulturforum",
-    "cinemaShortName": "kulturforum",
-    "id": "kulturforum-1725137100000",
-    "title": "Klassiker im Sommerkino",
-    "normalizedTitle": "KLASSIKER IM SOMMERKINO",
-    "version": {
-      "raw": "OmU",
-      "original": true,
-      "english": false
-    },
-    "date": "Sa., 31.08",
-    "timestamp": 1725137100000,
-    "time": "20:45",
-    "url": "https://www.yorck.de/filme/klassiker-im-sommerkino"
-  },
   "weissensee-1725048000000": {
     "cinemaId": "2527240812",
     "cinemaUrl": "https://booking.cinetixx.de/frontend/#/program/2527240812",
@@ -2848,32 +2664,8 @@
     "img": "https://images.cinetixx.com/posters/2992733103/thumbnails/2992733103_211_300.jpg",
     "description": "Italien in den 80er Jahren. Das Plündern alter etruskischer Gräber ist so lukrativ wie verboten. Der seltsame Brite Arthur ist als Wünschelrutengänger der große Trumpf der wilden Truppe von „Tombaroli“, die die etrurische Erde auf der Suche nach antiken Schätzen umgraben: Grabbeigaben von unermesslichem Wert, gemacht für die Seelen der Verstorbenen, nicht für die Augen der Menschen.Doch Arthur jagt nicht der Chimäre vom schnellen Geld nach. Seine Chimäre sieht aus wie die Frau, die er verloren hat, Beniamina. Um sie zu finden, fordert er die Grenzen zwischen Traum und Wirklichkeit, zwischen Sichtbarem und Unsichtbarem heraus, auf der abenteuerlichen Suche nach jenem Tor zum Jenseits, von dem die Mythen sprechen. Eines Nachts stößt Arthur unerwartet auf eine etruskische Schatzkammer. Angesichts der unermesslichen Fülle und atemberaubenden Schönheit scheinen sich die Grenzen zwischen Vergangenheit und Gegenwart, Heiligem und Handfestem, Leben und Tod neu zu ordnen. Ist Arthurs Suche an ihr Ende gelangt?„La Chimera“, nach „Glücklich wie Lazzaro“ der neue Film von Alice Rohrwacher, ist ein Wunder in der besten Tradition des italienischen Kinos: Magisch, tief, burlesk, bodenständig und fantastisch, philosophisch, komödiantisch und dramatisch, bewegende Liebesgeschichte und ungestümes Abenteuer. Wunderbar gefilmt von Hélène Louvart und meisterhaft montiert von Nelly Quettier, brilliert Josh O’Connor („The Crown“) als melancholischer Grabräuber in einem umwerfenden Ensemble mit Carol Duarte, Vincenzo Nemolato, Alba Rohrwacher und der großen Isabella Rosselini.",
     "trailer": "https://youtu.be/dQIhL-Ii-CU",
-    "available": 190,
-    "reserved": 10,
-    "bookable": true
-  },
-  "weissensee-1724875200000": {
-    "cinemaId": "2527240812",
-    "cinemaUrl": "https://booking.cinetixx.de/frontend/#/program/2527240812",
-    "cinemaName": "Freiluftbühne Weißensee",
-    "cinemaShortName": "weissensee",
-    "id": "weissensee-1724875200000",
-    "url": "https://booking.cinetixx.de/frontend/index.html?cinemaId=2527240812&showId=3037082459&bgswitch=false&resize=false",
-    "date": "Mi., 28.08",
-    "timestamp": 1724875200000,
-    "time": "20:0",
-    "title": "QUEER EXILE BERLIN",
-    "version": {
-      "raw": "OmU, Originalversion",
-      "original": true,
-      "english": false
-    },
-    "normalizedTitle": "QUEER EXILE BERLIN",
-    "img": "https://images.cinetixx.com/posters/2997566304/thumbnails/2997566304_211_300.jpg",
-    "description": "Ein Dokumentarfilmprojekt über Berlin als selbstgewähltes Exil für queere Menschen, das auch die Wandlung Berlins in den letzten Jahrzehnten skizziert. Es ist der dritte Teil der queeren Berlin-Dokumentarfilm-Trilogie nach OUT IN EAST-BERLIN (2013) und MY WONDERFUL WEST BERLIN (2017) von Jochen Hick.",
-    "trailer": "https://www.youtube.com/watch?v=TBgSzmmXS4U",
-    "available": 158,
-    "reserved": 42,
+    "available": 186,
+    "reserved": 14,
     "bookable": true
   }
 }
