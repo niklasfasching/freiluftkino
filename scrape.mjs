@@ -1,21 +1,21 @@
 const cinemas = {
   kinoTicketsOnline: {
-    fh_freiluftkino: ["Freiluftkino Friedrichshain", "fhain", "http://www.freiluftkino-berlin.de/eine_woche.php"],
+    fh_freiluftkino: ["Freiluftkino Friedrichshain", "fhain", "https://freiluftkino-friedrichshain.de/index.php"],
     kb_freiluftkino: ["Freiluftkino Kreuzberg", "xberg", "http://www.freiluftkino-kreuzberg.de/index.php"],
     rb_freiluftkino: ["Freiluftkino Rehberge", "rehberge", "http://www.freiluftkino-rehberge.de/index.php"],
   },
   kinoHeld: {
-    581: ["freiluftkino-insel-revier-suedost", "cassiopeia"],
+    3221: ["freiluftkino-inselat-atelier-gardens", "insel"],
     580: ["freiluftkino-hasenheide", "hasenheide"],
     1839: ["central-kino-open-air", "central"],
     1657: ["b-ware-openair-fmp", "fmp"],
-    2339: ["b-ware-openairprinzessinnengarten-kollektiv-neukoell", "prinzessinengärten"],
+    2339: ["b-ware-openairprinzessinnengarten-kollektiv-neukoelln", "prinzessinengärten"],
     1621: ["nomadenkino-berlin", "nomadenkino"],
     3033: ["mobile-kino-berlin", "mobile kino"],
+    3637: ["freiluftkino-neue-zukunft", "neue zukunft"],
   },
   yorck: {
     "sommerkino-kulturforum": ["sommerkino-kulturforum", "kulturforum"],
-    "sommerkino-charlottenburg": ["sommerkino-schloss-charlottenburg", "schloss-charlottenburg"],
   },
   cinetixx: {
     2527240812: ["Freiluftbühne Weißensee", "weissensee"],
@@ -128,7 +128,7 @@ async function getKinoheldCinema(cinemaId, cinemaName, cinemaShortName) {
       normalizedTitle: normalizeTitle(title),
       version: getVersion(show.flags?.map(f => f.name).join(" ")),
       date: formatDate(new Date(show.date)),
-      timestamp: new Date(show.date + " UTC").getTime(),
+      timestamp: new Date(`${show.date} ${show.time} UTC`).getTime(),
       time: show.time,
       url: `https://www.kinoheld.de/cinema-berlin/${cinemaName}/show/${show.id}?layout=shows`,
       img: movie?.largeImage,
@@ -172,13 +172,17 @@ async function getYorckCinema(cinemaId, cinemaName, cinemaShortName) {
   const movies = {};
   for (const show of shows) {
     if (!movies[show.url]) {
-      const document = await getDocument(show.url);
-      const data = JSON.parse(document.querySelector("#__NEXT_DATA__").innerHTML);
-      if (!data.props.pageProps.film) {
-        console.log(`Skipping ${show.url}: Missing movie info (${JSON.stringify(data)})`);
+      // yorck serves an empty shell until the page has been generated - asking again generates it
+      let filmData;
+      for (let i = 0; i < 3 && !filmData; i++) {
+        const document = await getDocument(show.url);
+        filmData = JSON.parse(document.querySelector("#__NEXT_DATA__").innerHTML).props.pageProps.film;
+      }
+      if (!filmData) {
+        console.log(`Skipping ${show.url}: Missing movie info`);
+        movies[show.url] = {};
         continue;
       }
-      const filmData = data.props.pageProps.film;
       const trailerYouTubeId = filmData.fields.trailer1YouTubeId;
       movies[show.url] = {
         description: filmData.fields.synopsis,
@@ -194,13 +198,13 @@ async function getYorckCinema(cinemaId, cinemaName, cinemaShortName) {
 
 async function getKinoTicketsOnlineCinema(cinemaId, cinemaName, cinemaShortName, cinemaIndexUrl) {
   const index = await getDocument(cinemaIndexUrl), meta = {};
-  for (const el of [...index.querySelectorAll(".lazyload")]) {
-    el.innerHTML = el.firstChild.textContent; // <span class=lazyload><!-- $html --></span>
-    const id = el.querySelector("a[href*='kinotickets.express']")?.href?.match(/\/(\d+$)/)[1];
+  for (const el of [...index.querySelectorAll("#programm .film")]) {
+    const id = el.querySelector("a[href*='kinotickets.express']").href.match(/\/(\d+$)/)[1];
+    const videoId = el.querySelector("a.trailer")?.getAttribute("data-video-id");
     meta[id] = {
-      trailer: el.querySelector("a[data-fancybox]")?.href,
-      description: el.querySelector(".teasertext").innerText,
-      rawVersion: el.querySelector(".teasertitel, .teasertitel_version").innerText,
+      trailer: videoId && "https://www.youtube.com/watch?v=" + videoId,
+      description: el.querySelector(".teasertext")?.innerText,
+      rawVersion: el.querySelector(".filmmeta .version")?.innerText,
     };
   }
   const cinemaUrl = `https://kinotickets-online.com/${cinemaId}`;
@@ -213,6 +217,7 @@ async function getKinoTicketsOnlineCinema(cinemaId, cinemaName, cinemaShortName,
     const [_, day, month, time] = li.querySelector("ul li").innerText.match(/(\d+)\.(\d+)\.\s+(\d+:\d+)/m);
     const date = new Date(`${new Date().getFullYear()}-${month}-${day} ${time} UTC`);
     const d = await getDocument(url);
+    const bookable = !!d.querySelector("#__tickets-index_main-form");
     const title = li.querySelector(".font-bold.text-primary").innerText;
     return Object.assign({}, meta[id], {
       cinemaId,
@@ -222,16 +227,16 @@ async function getKinoTicketsOnlineCinema(cinemaId, cinemaName, cinemaShortName,
       id: cinemaShortName + "-" + id,
       url,
       img: `https://kinotickets-online.com/${cinemaId}/assets/poster?movieId=${movieId}`,
-      trailer: trailerUrl,
-	  title,
+      trailer: trailerUrl ?? meta[id]?.trailer,
+      title,
       normalizedTitle: normalizeTitle(title),
       version: getVersion(meta[id]?.rawVersion),
       date: formatDate(date),
       timestamp: date.getTime(),
       time,
-      available: d.querySelectorAll("#__seats-container button").length,
-      reserved: d.querySelectorAll("#__seats-container [class*=bg-seat-res]").length,
-      bookable: !d.body.textContent.includes("Diese Vorstellung ist leider ausverkauft!"),
+      available: bookable ? -1 : 0, // open seating (freie Platzwahl) - no seat map to count
+      reserved: 0,
+      bookable,
     });
   }));
 }

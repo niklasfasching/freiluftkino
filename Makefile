@@ -1,7 +1,10 @@
 .PHONY: install
 install:
 	go install github.com/niklasfasching/headless/cmd/headless@latest
-	pip3 install GitPython
+
+.PHONY: ui
+ui:
+	python3 -m http.server -d docs 8000
 
 .PHONY: run
 run:

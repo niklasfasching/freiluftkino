@@ -1,10 +1,15 @@
-import git # pip install GitPython
 import json
 import pathlib
+import subprocess
+
+def git(*args):
+    return subprocess.run(["git", *args], capture_output=True, check=True).stdout
 
 def file_versions(path, n):
-    for commit in reversed(list(git.Repo().iter_commits(paths=path, max_count=n))):
-        yield (commit.committed_date, commit.tree[path].data_stream.read())
+    log = git("log", "--format=%H %ct", *(["-n", str(n)] if n else []), "--", path)
+    for line in reversed(log.decode().splitlines()):
+        sha, timestamp = line.split()
+        yield (int(timestamp), git("show", f"{sha}:{path}"))
 
 
 def write_history(path):
