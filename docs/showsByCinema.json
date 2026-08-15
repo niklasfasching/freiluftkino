@@ -76,8 +76,6 @@
       "bookable": true
     },
     {
-      "description": "",
-      "rawVersion": "dt. Fassung",
       "cinemaId": "fh_freiluftkino",
       "cinemaUrl": "https://kinotickets-online.com/fh_freiluftkino",
       "cinemaName": "Freiluftkino Friedrichshain",
@@ -88,7 +86,6 @@
       "title": "Die Odyssee",
       "normalizedTitle": "DIE ODYSSEE",
       "version": {
-        "raw": "dt. Fassung",
         "original": false,
         "english": false
       },
@@ -4322,8 +4319,8 @@
       "img": "https://media.kinoheld.de/eJ9K1AenzgE3tib3_NaywaaTyqQ=/400x560/images%2Ffilm%2Fmulholland-drive-strasse-der-finsternis-20232.v17398845774400.jpg",
       "description": "Für manche der Klassiker des 21. Jahrhunderts, für uns der beste Auftakt. Es fängt scheinbar konventionell an: ein Autounfall in Hollywood, attraktive Schauspielerinnen, spektakuläre Sets, die Schattenseiten des Filmgeschäfts. Doch an die Stelle einer konventionellen Geschichte treten unaufhaltsame Spannung, ein \"halluzinatorischer Angriff auf die Sinne\": Licht, Dinge, Farben, Bewegung, Zeit, Sound nehmen ein unheimliches Eigenleben an und ziehen die Zuschauer sogartig in den Film. Auch nach dem Film kann man sich kaum von den Bildern befreien - wie nach einem (Alb-)Traum.",
       "trailer": "https://youtu.be/MKJ-nXADsVk",
-      "available": 37,
-      "reserved": 52,
+      "available": 29,
+      "reserved": 56,
       "bookable": true
     },
     {
@@ -4780,6 +4777,8 @@
   ],
   "b-ware-openairprinzessinnengarten-kollektiv-neukoelln": [],
   "mobile-kino-berlin": [],
+  "sommerkino-schloss-charlottenburg": [],
+  "revier-suedost-new-griessmuehle-location": [],
   "freiluftkino-inselat-atelier-gardens": [
     {
       "cinemaId": "3221",
@@ -5810,91 +5809,6 @@
       "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
       "cinemaName": "sommerkino-kulturforum",
       "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1787172300000",
-      "title": "Guts + Her Wave",
-      "normalizedTitle": "GUTS + HER WAVE",
-      "version": {
-        "raw": "OmeU",
-        "original": true,
-        "english": true
-      },
-      "date": "Mi., 19.08",
-      "timestamp": 1787172300000,
-      "time": "20:45",
-      "url": "https://www.yorck.de/filme/guts-her-wave",
-      "description": "",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attVq1EoYrsC8u8ow/6ca1e1be76c720e8095cc618986cdab8/Guts___Her_Wave_Poster",
-      "trailer": "https://www.youtube.com/watch?v=KdWbTrwfTcg",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1787086800000",
-      "title": "Marty Supreme",
-      "normalizedTitle": "MARTY SUPREME",
-      "version": {
-        "raw": "OmU",
-        "original": true,
-        "english": false
-      },
-      "date": "Di., 18.08",
-      "timestamp": 1787086800000,
-      "time": "21:0",
-      "url": "https://www.yorck.de/filme/marty-supreme",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attDG7XKPDCaeZ7xX/8c63b766f522a66d2cadac21bb40f4d9/Marty_Supreme_-_Poster.jpg",
-      "trailer": "https://www.youtube.com/watch?v=s9gSuKaKcqM",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1787000400000",
-      "title": "To Wong Foo, Thanks for Everything!",
-      "normalizedTitle": "TO WONG FOO, THANKS FOR EVERYTHING!",
-      "version": {
-        "raw": "OmU Mongay",
-        "original": true,
-        "english": false
-      },
-      "date": "Mo., 17.08",
-      "timestamp": 1787000400000,
-      "time": "21:0",
-      "url": "https://www.yorck.de/filme/to-wong-foo-thanks-for-everything",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attEXsdp01kcLpDOr/4b278ace8cf4f0c7bfcd41ea04262b38/To_Wong_Foo__Thanks_for_Everything__Julie_Newmar_-_Poster.jpg",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1786914000000",
-      "title": "Call Me by Your Name",
-      "normalizedTitle": "CALL ME BY YOUR NAME",
-      "version": {
-        "raw": "OmU",
-        "original": true,
-        "english": false
-      },
-      "date": "So., 16.08",
-      "timestamp": 1786914000000,
-      "time": "21:0",
-      "url": "https://www.yorck.de/filme/call-me-by-your-name",
-      "description": "<p>Norditalien, 1983: Familie Perlman verbringt den Sommer in einer mondänen Villa. Während der 17 Jahre alte Sohn Elio Bücher liest, klassische Musik hört und keinen Flirt mit seiner Bekannten Marzia  auslässt, beschäftigt sich sein Vater, ein emeritierter Professor, mit antiken Statuen. Außerdem hat sich der auf griechische und römische Kulturgeschichte spezialisierte Archäologe mit Oliver einen Gast ins Haus geholt, der ihm bei seiner Arbeit zur Seite stehen soll. Der selbstbewusste und attraktive Besucher wirbelt die Gefühle des pubertierenden Elio ganz schön durcheinander. Während sich langsam eine Beziehung zwischen den beiden anbahnt, merkt Elio, dass er trotz seiner Intelligenz und der Bildung, die er dank seinem Vater und seiner Mutter Annella genossen hat, noch einiges über das Leben und die Liebe lernen muss...</p>\n",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attQTupt4konbYjSG/2495f867716b6b3b8609f01db565ec52/poster_342x513_1753169873968.jpg",
-      "trailer": "https://www.youtube.com/watch?v=sBVbtKqn61w",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
       "id": "kulturforum-1787345100000",
       "title": "Der Astronaut",
       "normalizedTitle": "DER ASTRONAUT",
@@ -5909,70 +5823,6 @@
       "url": "https://www.yorck.de/filme/der-astronaut",
       "img": "//images.ctfassets.net/4mws6uyas4ta/attViTyCfBSvDTDrq/f0fc02a95ab8bf5fbf89fd1fdc3af012/Project_Hail_Mary_-_Poster.jpg",
       "trailer": "https://www.youtube.com/watch?v=GBuARQPGUxc",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1787517900000",
-      "title": "The Secret Agent",
-      "normalizedTitle": "THE SECRET AGENT",
-      "version": {
-        "raw": "OmeU",
-        "original": true,
-        "english": true
-      },
-      "date": "So., 23.08",
-      "timestamp": 1787517900000,
-      "time": "20:45",
-      "url": "https://www.yorck.de/filme/the-secret-agent",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attlx9XPtVtfZoeT7/1eb405a24622377c013b05e43067cdf4/The_Secret_Agent_-_Poster",
-      "trailer": "https://www.youtube.com/watch?v=AQZKi03lO4k",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1787777100000",
-      "title": "Chihiros Reise ins Zauberland",
-      "normalizedTitle": "CHIHIROS REISE INS ZAUBERLAND",
-      "version": {
-        "raw": "OmU",
-        "original": true,
-        "english": false
-      },
-      "date": "Mi., 26.08",
-      "timestamp": 1787777100000,
-      "time": "20:45",
-      "url": "https://www.yorck.de/filme/chihiros-reise-ins-zauberland",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attri6tNr9MSA1HbP/acc4a38ca7406ad3fcbcfc04c640b9bb/Spirited_Away_-_Poster.jpg",
-      "trailer": "https://www.youtube.com/watch?v=ffnNmR6lBKY",
-      "bookable": true
-    },
-    {
-      "cinemaId": "sommerkino-kulturforum",
-      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
-      "cinemaName": "sommerkino-kulturforum",
-      "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1787863500000",
-      "title": "Vaterland",
-      "normalizedTitle": "VATERLAND",
-      "version": {
-        "raw": "OmeU",
-        "original": true,
-        "english": true
-      },
-      "date": "Do., 27.08",
-      "timestamp": 1787863500000,
-      "time": "20:45",
-      "url": "https://www.yorck.de/filme/vaterland",
-      "description": "",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attM1mqij1Yad1Ka6/2943f17524aa76075e507bff426db78a/Fatherland_-_Poster",
-      "trailer": "https://www.youtube.com/watch?v=3oWxp_e4vUs",
       "bookable": true
     },
     {
@@ -6001,20 +5851,20 @@
       "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
       "cinemaName": "sommerkino-kulturforum",
       "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1786827600000",
-      "title": "Ach, diese Lücke, diese entsetzliche Lücke",
-      "normalizedTitle": "ACH, DIESE LÜCKE, DIESE ENTSETZLICHE LÜCKE",
+      "id": "kulturforum-1787777100000",
+      "title": "Chihiros Reise ins Zauberland",
+      "normalizedTitle": "CHIHIROS REISE INS ZAUBERLAND",
       "version": {
-        "raw": "OmeU",
+        "raw": "OmU",
         "original": true,
-        "english": true
+        "english": false
       },
-      "date": "Sa., 15.08",
-      "timestamp": 1786827600000,
-      "time": "21:0",
-      "url": "https://www.yorck.de/filme/ach-diese-lucke-diese-entsetzliche-lucke",
-      "img": "//images.ctfassets.net/4mws6uyas4ta/attmr7LqBnNfOutzB/93b5075326ec2b87011e8a3f6812ab30/Ach__diese_Lücke__diese_entsetzliche_Lücke_-_Poster.jpg",
-      "trailer": "https://www.youtube.com/watch?v=lHjdCsrCDnM",
+      "date": "Mi., 26.08",
+      "timestamp": 1787777100000,
+      "time": "20:45",
+      "url": "https://www.yorck.de/filme/chihiros-reise-ins-zauberland",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attri6tNr9MSA1HbP/acc4a38ca7406ad3fcbcfc04c640b9bb/Spirited_Away_-_Poster.jpg",
+      "trailer": "https://www.youtube.com/watch?v=ffnNmR6lBKY",
       "bookable": true
     },
     {
@@ -6065,36 +5915,64 @@
       "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
       "cinemaName": "sommerkino-kulturforum",
       "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1787000400000",
-      "title": "Mongay",
-      "normalizedTitle": "MONGAY",
+      "id": "kulturforum-1787863500000",
+      "title": "Vaterland",
+      "normalizedTitle": "VATERLAND",
       "version": {
-        "raw": "OmU Mongay",
+        "raw": "OmeU",
         "original": true,
-        "english": false
+        "english": true
       },
-      "date": "Mo., 17.08",
-      "timestamp": 1787000400000,
-      "time": "21:0",
-      "url": "https://www.yorck.de/filme/mongay"
+      "date": "Do., 27.08",
+      "timestamp": 1787863500000,
+      "time": "20:45",
+      "url": "https://www.yorck.de/filme/vaterland",
+      "description": "",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attM1mqij1Yad1Ka6/2943f17524aa76075e507bff426db78a/Fatherland_-_Poster",
+      "trailer": "https://www.youtube.com/watch?v=3oWxp_e4vUs",
+      "bookable": true
     },
     {
       "cinemaId": "sommerkino-kulturforum",
       "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
       "cinemaName": "sommerkino-kulturforum",
       "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1787000400000",
-      "title": "Mongay",
-      "normalizedTitle": "MONGAY",
+      "id": "kulturforum-1787517900000",
+      "title": "The Secret Agent",
+      "normalizedTitle": "THE SECRET AGENT",
       "version": {
-        "raw": "OmU Mongay",
+        "raw": "OmeU",
+        "original": true,
+        "english": true
+      },
+      "date": "So., 23.08",
+      "timestamp": 1787517900000,
+      "time": "20:45",
+      "url": "https://www.yorck.de/filme/the-secret-agent",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attlx9XPtVtfZoeT7/1eb405a24622377c013b05e43067cdf4/The_Secret_Agent_-_Poster",
+      "trailer": "https://www.youtube.com/watch?v=AQZKi03lO4k",
+      "bookable": true
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1787086800000",
+      "title": "Marty Supreme",
+      "normalizedTitle": "MARTY SUPREME",
+      "version": {
+        "raw": "OmU",
         "original": true,
         "english": false
       },
-      "date": "Mo., 17.08",
-      "timestamp": 1787000400000,
+      "date": "Di., 18.08",
+      "timestamp": 1787086800000,
       "time": "21:0",
-      "url": "https://www.yorck.de/filme/mongay"
+      "url": "https://www.yorck.de/filme/marty-supreme",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attDG7XKPDCaeZ7xX/8c63b766f522a66d2cadac21bb40f4d9/Marty_Supreme_-_Poster.jpg",
+      "trailer": "https://www.youtube.com/watch?v=s9gSuKaKcqM",
+      "bookable": true
     },
     {
       "cinemaId": "sommerkino-kulturforum",
@@ -6102,8 +5980,8 @@
       "cinemaName": "sommerkino-kulturforum",
       "cinemaShortName": "kulturforum",
       "id": "kulturforum-1787172300000",
-      "title": "Surf Film Nacht: Guts + Her Wave",
-      "normalizedTitle": "SURF FILM NACHT: GUTS + HER WAVE",
+      "title": "Guts + Her Wave",
+      "normalizedTitle": "GUTS + HER WAVE",
       "version": {
         "raw": "OmeU",
         "original": true,
@@ -6112,7 +5990,128 @@
       "date": "Mi., 19.08",
       "timestamp": 1787172300000,
       "time": "20:45",
-      "url": "https://www.yorck.de/filme/surf-film-nacht-guts-her-wave"
+      "url": "https://www.yorck.de/filme/guts-her-wave",
+      "description": "",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attVq1EoYrsC8u8ow/6ca1e1be76c720e8095cc618986cdab8/Guts___Her_Wave_Poster",
+      "trailer": "https://www.youtube.com/watch?v=KdWbTrwfTcg",
+      "bookable": true
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1786827600000",
+      "title": "Ach, diese Lücke, diese entsetzliche Lücke",
+      "normalizedTitle": "ACH, DIESE LÜCKE, DIESE ENTSETZLICHE LÜCKE",
+      "version": {
+        "raw": "OmeU",
+        "original": true,
+        "english": true
+      },
+      "date": "Sa., 15.08",
+      "timestamp": 1786827600000,
+      "time": "21:0",
+      "url": "https://www.yorck.de/filme/ach-diese-lucke-diese-entsetzliche-lucke",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attmr7LqBnNfOutzB/93b5075326ec2b87011e8a3f6812ab30/Ach__diese_Lücke__diese_entsetzliche_Lücke_-_Poster.jpg",
+      "trailer": "https://www.youtube.com/watch?v=lHjdCsrCDnM",
+      "bookable": true
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1786914000000",
+      "title": "Call Me by Your Name",
+      "normalizedTitle": "CALL ME BY YOUR NAME",
+      "version": {
+        "raw": "OmU",
+        "original": true,
+        "english": false
+      },
+      "date": "So., 16.08",
+      "timestamp": 1786914000000,
+      "time": "21:0",
+      "url": "https://www.yorck.de/filme/call-me-by-your-name",
+      "description": "<p>Norditalien, 1983: Familie Perlman verbringt den Sommer in einer mondänen Villa. Während der 17 Jahre alte Sohn Elio Bücher liest, klassische Musik hört und keinen Flirt mit seiner Bekannten Marzia  auslässt, beschäftigt sich sein Vater, ein emeritierter Professor, mit antiken Statuen. Außerdem hat sich der auf griechische und römische Kulturgeschichte spezialisierte Archäologe mit Oliver einen Gast ins Haus geholt, der ihm bei seiner Arbeit zur Seite stehen soll. Der selbstbewusste und attraktive Besucher wirbelt die Gefühle des pubertierenden Elio ganz schön durcheinander. Während sich langsam eine Beziehung zwischen den beiden anbahnt, merkt Elio, dass er trotz seiner Intelligenz und der Bildung, die er dank seinem Vater und seiner Mutter Annella genossen hat, noch einiges über das Leben und die Liebe lernen muss...</p>\n",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attQTupt4konbYjSG/2495f867716b6b3b8609f01db565ec52/poster_342x513_1753169873968.jpg",
+      "trailer": "https://www.youtube.com/watch?v=sBVbtKqn61w",
+      "bookable": true
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1787000400000",
+      "title": "To Wong Foo, Thanks for Everything!",
+      "normalizedTitle": "TO WONG FOO, THANKS FOR EVERYTHING!",
+      "version": {
+        "raw": "OmU Mongay",
+        "original": true,
+        "english": false
+      },
+      "date": "Mo., 17.08",
+      "timestamp": 1787000400000,
+      "time": "21:0",
+      "url": "https://www.yorck.de/filme/to-wong-foo-thanks-for-everything",
+      "img": "//images.ctfassets.net/4mws6uyas4ta/attEXsdp01kcLpDOr/4b278ace8cf4f0c7bfcd41ea04262b38/To_Wong_Foo__Thanks_for_Everything__Julie_Newmar_-_Poster.jpg",
+      "bookable": true
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1787000400000",
+      "title": "Mongay",
+      "normalizedTitle": "MONGAY",
+      "version": {
+        "raw": "OmU Mongay",
+        "original": true,
+        "english": false
+      },
+      "date": "Mo., 17.08",
+      "timestamp": 1787000400000,
+      "time": "21:0",
+      "url": "https://www.yorck.de/filme/mongay"
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1787000400000",
+      "title": "Mongay",
+      "normalizedTitle": "MONGAY",
+      "version": {
+        "raw": "OmU Mongay",
+        "original": true,
+        "english": false
+      },
+      "date": "Mo., 17.08",
+      "timestamp": 1787000400000,
+      "time": "21:0",
+      "url": "https://www.yorck.de/filme/mongay"
+    },
+    {
+      "cinemaId": "sommerkino-kulturforum",
+      "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
+      "cinemaName": "sommerkino-kulturforum",
+      "cinemaShortName": "kulturforum",
+      "id": "kulturforum-1787604300000",
+      "title": "Special Screening: Kein Land für Niemand",
+      "normalizedTitle": "SPECIAL SCREENING: KEIN LAND FÜR NIEMAND",
+      "version": {
+        "raw": "OmeU",
+        "original": true,
+        "english": true
+      },
+      "date": "Mo., 24.08",
+      "timestamp": 1787604300000,
+      "time": "20:45",
+      "url": "https://www.yorck.de/filme/special-screening-kein-land-fur-niemand"
     },
     {
       "cinemaId": "sommerkino-kulturforum",
@@ -6137,18 +6136,18 @@
       "cinemaUrl": "https://www.yorck.de/kinos/sommerkino-kulturforum",
       "cinemaName": "sommerkino-kulturforum",
       "cinemaShortName": "kulturforum",
-      "id": "kulturforum-1787604300000",
-      "title": "Special Screening: Kein Land für Niemand",
-      "normalizedTitle": "SPECIAL SCREENING: KEIN LAND FÜR NIEMAND",
+      "id": "kulturforum-1787172300000",
+      "title": "Surf Film Nacht: Guts + Her Wave",
+      "normalizedTitle": "SURF FILM NACHT: GUTS + HER WAVE",
       "version": {
         "raw": "OmeU",
         "original": true,
         "english": true
       },
-      "date": "Mo., 24.08",
-      "timestamp": 1787604300000,
+      "date": "Mi., 19.08",
+      "timestamp": 1787172300000,
       "time": "20:45",
-      "url": "https://www.yorck.de/filme/special-screening-kein-land-fur-niemand"
+      "url": "https://www.yorck.de/filme/surf-film-nacht-guts-her-wave"
     }
   ],
   "Freiluftbühne Weißensee": [

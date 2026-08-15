@@ -13,6 +13,8 @@ const cinemas = {
     1621: ["nomadenkino-berlin", "nomadenkino"],
     3033: ["mobile-kino-berlin", "mobile kino"],
     3637: ["freiluftkino-neue-zukunft", "neue zukunft"],
+    3133: ["revier-suedost-new-griessmuehle-location", "revier südost"],
+    3035: ["sommerkino-schloss-charlottenburg", "schloss-charlottenburg"],
   },
   yorck: {
     "sommerkino-kulturforum": ["sommerkino-kulturforum", "kulturforum"],
@@ -199,7 +201,9 @@ async function getYorckCinema(cinemaId, cinemaName, cinemaShortName) {
 async function getKinoTicketsOnlineCinema(cinemaId, cinemaName, cinemaShortName, cinemaIndexUrl) {
   const index = await getDocument(cinemaIndexUrl), meta = {};
   for (const el of [...index.querySelectorAll("#programm .film")]) {
-    const id = el.querySelector("a[href*='kinotickets.express']").href.match(/\/(\d+$)/)[1];
+    // sold out screenings lose their booking link and with it the id to join on
+    const id = el.querySelector("a[href*='kinotickets.express']")?.href.match(/\/(\d+$)/)[1];
+    if (!id) continue;
     const videoId = el.querySelector("a.trailer")?.getAttribute("data-video-id");
     meta[id] = {
       trailer: videoId && "https://www.youtube.com/watch?v=" + videoId,
