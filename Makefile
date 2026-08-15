@@ -1,6 +1,6 @@
 .PHONY: install
 install:
-	go install github.com/niklasfasching/headless/cmd/headless@latest
+	go install github.com/niklasfasching/x/headless/cmd/headless@latest
 
 .PHONY: ui
 ui:
